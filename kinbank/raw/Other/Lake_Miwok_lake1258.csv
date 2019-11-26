@@ -1,0 +1,113 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,ata,,,AET1(91),,,IC
+myB,ela,,,AET1(91),,,IC
+meZ,woko,,,AET1(91),,,IC
+mF,api,,,AET1(91),,,IC
+mM,unu,,,AET1(91),,,IC
+mC,ec,,,AET1(91),,,IC
+mFF,papa,,,AET1(91),,,IC
+mFM,hama,,,AET1(91),,,IC
+mMF,papa,,,AET1(91),,,IC
+mMM,hama,,,AET1(91),,,IC
+mCC,tcatso,,,AET1(91),,,IC
+mFZ,eneni,,,AET1(92),,,IC
+mMB,kaka,,,AET1(92),,,IC
+mFeB,ola,,,AET1(92),,,IC
+mFyB,tata,,,AET1(92),,,IC
+mMeZ,ulatci,,,AET1(92),,,IC
+mMyZ,amko,,,AET1(92),,,IC
+mBS,ec,,,AET1(92),,,IC
+mBD,ec,,,AET1(92),,,IC
+mZS,towe,,,AET1(92),,,IC
+mZD,towe,,,AET1(92),,,IC
+mFZD,towe,,,,AET1(92),gifford_californian_1922,
+mMBD,amko,,,,AET1(92),gifford_californian_1922,
+mFZS,towe,,,,AET1(92),gifford_californian_1922,
+mFBeS,ata,,,,AET1(92),gifford_californian_1922,
+mFByS,ela,,,,AET1(92),gifford_californian_1922,
+mFBeD,woko,,,,AET1(92),gifford_californian_1922,
+mFByD,eka,,,,AET1(92),gifford_californian_1922,
+mMZeS,ata,,,,AET1(92),gifford_californian_1922,
+mMZyS,ela,,,,AET1(92),gifford_californian_1922,
+mMZeD,woko,,,,AET1(92),gifford_californian_1922,
+mMZyD,ela,,,,AET1(92),gifford_californian_1922,
+mE,ha,,,,AET1(92),gifford_californian_1922,
+mH,miwu,,,,AET1(92),gifford_californian_1922,
+mW,kule',,,,AET1(92),gifford_californian_1922,
+mBW,eku,,,,AET1(93),gifford_californian_1922,
+mZH,kauko,,,,,,
+mWB,len,,,,,,
+mWZ,len,,,,,,
+mHB,len,,,,,,
+mHZ,eyi,,,,,,
+mco-W,oiya,,,,AET1(92),gifford_californian_1922,
+mFW(notM),amko,,,,AET1(92),gifford_californian_1922,
+mMH(notF),tata,,,,AET1(92),gifford_californian_1922,
+mFZH,kauko,,,,AET1(92),gifford_californian_1922,
+mFBW,ulatci,,,,AET1(92),gifford_californian_1922,FeBW
+mFBW,amko,,,,AET1(92),gifford_californian_1922,FyBW
+mMZH,ola,,,,AET1(92),gifford_californian_1922,MeZH
+mMZH,tata,,,,AET1(92),gifford_californian_1922,MyZH
+mMBW,hama,,,,AET1(92),gifford_californian_1922,
+mFeZ,eneni,,,AET1(92),,,Inferred; IC
+mFyZ,eneni,,,AET1(92),,,Inferred; IC
+mMeB,kaka,,,AET1(92),,,Inferred; IC
+mMyB,kaka,,,AET1(92),,,Inferred; IC
+meBS,ec,,,AET1(92),,,Inferred; IC
+myBS,ec,,,AET1(92),,,Inferred; IC
+meBD,ec,,,AET1(92),,,Inferred; IC
+myBD,ec,,,AET1(92),,,Inferred; IC
+meZS,towe,,,AET1(92),,,Inferred; IC
+myZS,towe,,,AET1(92),,,Inferred; IC
+meZD,towe,,,AET1(92),,,Inferred; IC
+myZD,towe,,,AET1(92),,,Inferred; IC
+mFeZS,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFyZS,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFeZD,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFyZD,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mMeBD,amko,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mMyBD,amko,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFZeS,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFZyS,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFZeD,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mFZyD,towe,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mMBeD,amko,,,,AET1(92),gifford_californian_1922,Inferred; NA
+mMByD,amko,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fBS,ec,,,AET1(92),,,IC
+fBD,ec,,,AET1(92),,,IC
+fZS,ec,,,AET1(92),,,IC
+fZD,ec,,,AET1(92),,,IC
+fFZD,ec,,,,AET1(92),gifford_californian_1922,
+fFZS,ec,,,,AET1(92),gifford_californian_1922,
+fE,ha,,,,AET1(92),gifford_californian_1922,
+fH,miwu,,,,AET1(92),gifford_californian_1922,
+fW,kule',,,,AET1(92),gifford_californian_1922,
+fBW,eku,,,,AET1(93),gifford_californian_1922,
+fZH,kauko,,,,,,
+fWB,len,,,,,,
+fWZ,len,,,,,,
+fHB,len,,,,,,
+fHZ,eyi,,,,,,
+fco-W,oiya,,,,AET1(92),gifford_californian_1922,
+fFZH,kauko,,,,AET1(92),gifford_californian_1922,
+fFBW,ulatci,,,,AET1(92),gifford_californian_1922,FeBW
+fFBW,amko,,,,AET1(92),gifford_californian_1922,FyBW
+fMZH,ola,,,,AET1(92),gifford_californian_1922,MeZH
+fMZH,tata,,,,AET1(92),gifford_californian_1922,MyZH
+fMBW,hama,,,,AET1(92),gifford_californian_1922,
+feBS,ec,,,AET1(92),,,Inferred; IC
+fyBS,ec,,,AET1(92),,,Inferred; IC
+feBD,ec,,,AET1(92),,,Inferred; IC
+fyBD,ec,,,AET1(92),,,Inferred; IC
+feZS,ec,,,AET1(92),,,Inferred; IC
+fyZS,ec,,,AET1(92),,,Inferred; IC
+feZD,ec,,,AET1(92),,,Inferred; IC
+fyZD,ec,,,AET1(92),,,Inferred; IC
+fFeZS,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFyZS,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFeZD,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFyZD,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFZeS,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFZyS,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFZeD,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA
+fFZyD,ec,,,,AET1(92),gifford_californian_1922,Inferred; NA

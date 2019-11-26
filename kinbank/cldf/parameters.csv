@@ -1,0 +1,474 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Parameter,Group,Dataset
+BornSameDay,Born on the Same Day,,,BornSameDay,,parabank
+FMZD,Father's Mother's Sister's Daughter,,,FMZD,,parabank
+HB,Husband's Brother,,,HB,,parabank
+HZ,Husband's Sister,,,HZ,,parabank
+HusbandsSameGroup,HusbandsSameGroup,,,HusbandsSameGroup,,parabank
+WB,Wife's Brother,,,WB,,parabank
+WZ,Wife's Sister,,,WZ,,parabank
+WifesSameGroup,WifesSameGroup,,,WifesSameGroup,,parabank
+fBW,female ego's brother's wife,,,fBW,Affines,varikin;parabank
+fD,female ego's daughter,,,fD,Children,varikin;parabank
+fDD,female ego's daugher's daughter,,,fDD,Grandparents & -children,varikin;parabank
+fDH,female ego's daughter's husband,2266,SON-IN-LAW (OF WOMAN),fDH,Affines,varikin;parabank
+fDS,female ego's daughter's son,,,fDS,Grandparents & -children,varikin;parabank
+fF,female ego's father,,,fF,Parents,varikin;parabank
+fFBD,female ego's father's brother's daughter ,,,fFBD,Cousins,varikin;parabank
+fFBS,female ego's father's brother's son,,,fFBS,Cousins,varikin;parabank
+fFBeD,female ego‘s father‘s brother‘s older daughter,,,fFBeD,Cousins by relative age of cousin to ego,varikin;parabank
+fFBeS,female ego‘s father‘s brother‘s older son,,,fFBeS,Cousins by relative age of cousin to ego,varikin;parabank
+fFByD,female ego‘s father‘s brother‘s younger daughter,,,fFByD,Cousins by relative age of cousin to ego,varikin;parabank
+fFByS,female ego‘s father‘s brother‘s younger son,,,fFByS,Cousins by relative age of cousin to ego,varikin;parabank
+fFF,female ego's father's father,,,fFF,Grandparents & -children,varikin;parabank
+fFFF,fFFF,,,fFFF,,varikin;parabank
+fFFM,fFFM,,,fFFM,,varikin;parabank
+fFM,female ego's father's mother,,,fFM,Grandparents & -children,varikin;parabank
+fFMF,fFMF,,,fFMF,,varikin;parabank
+fFMM,fFMM,,,fFMM,,parabank
+fFZD,female ego's father's sister's daughter ,,,fFZD,Cousins,varikin;parabank
+fFZS,female ego's father's sister's son,,,fFZS,Cousins,varikin;parabank
+fFZeD,female ego‘s father‘s sisters‘s older daughter,,,fFZeD,Cousins by relative age of cousin to ego,varikin;parabank
+fFZeS,female ego‘s father‘s sisters‘s older son,,,fFZeS,Cousins by relative age of cousin to ego,varikin;parabank
+fFZyD,female ego‘s father‘s sisters‘s younger daughter,,,fFZyD,Cousins by relative age of cousin to ego,varikin;parabank
+fFZyS,female ego‘s father‘s sisters‘s younger son,,,fFZyS,Cousins by relative age of cousin to ego,varikin;parabank
+fFeB,female ego's father's older brother ,,,fFeB,Uncles & Aunts,varikin;parabank
+fFeBD,female ego's father‘s older brother‘s daughter,,,fFeBD,Cousins by relative age of parent,varikin;parabank
+fFeBS,female ego's father‘s older brother‘s son,,,fFeBS,Cousins by relative age of parent,varikin;parabank
+fFeBW,fFeBW,,,fFeBW,,parabank
+fFeZ,female ego's father's older sister ,,,fFeZ,Uncles & Aunts,varikin;parabank
+fFeZD,female ego's father‘s older sister‘s daughter,,,fFeZD,Cousins by relative age of parent,varikin;parabank
+fFeZS,female ego's father‘s older sister‘s son,,,fFeZS,Cousins by relative age of parent,varikin;parabank
+fFexchangeZ,fFexchangeZ,,,fFexchangeZ,,parabank
+fFexchangeZD,fFexchangeZD,,,fFexchangeZD,,parabank
+fFexchangeZS,fFexchangeZS,,,fFexchangeZS,,parabank
+fFyB,female ego's father's younger brother ,,,fFyB,Uncles & Aunts,varikin;parabank
+fFyBD,female ego‘s father‘s younger brother‘s daughter,,,fFyBD,Cousins by relative age of parent,varikin;parabank
+fFyBS,female ego‘s father‘s younger brother‘s son,,,fFyBS,Cousins by relative age of parent,varikin;parabank
+fFyZ,female ego's father's younger sister ,,,fFyZ,Uncles & Aunts,varikin;parabank
+fFyZD,female ego‘s father‘s younger sister‘s daughter,,,fFyZD,Cousins by relative age of parent,varikin;parabank
+fFyZS,female ego‘s father‘s younger sister‘s son,,,fFyZS,Cousins by relative age of parent,varikin;parabank
+fH,female ego‘s husband,1200,HUSBAND,fH,Affines,varikin;parabank
+fHB,female ego's husband's brother,,,fHB,Affines,varikin;parabank
+fHBW,fHBW,,,fHBW,,parabank
+fHF,female ego's husband's father,2254,FATHER-IN-LAW (OF WOMAN),fHF,Affines,varikin;parabank
+fHM,female ego's husband's mother,2256,MOTHER-IN-LAW (OF WOMAN),fHM,Affines,varikin;parabank
+fHW,fHW,,,fHW,,varikin;parabank
+fHZ,female ego's husband's sister,,,fHZ,Affines,varikin;parabank
+fHZH,fHZH,,,fHZH,,varikin;parabank
+fM,female ego's mother,,,fM,Parents,varikin;parabank
+fMBD,female ego's mother's brother's daughter ,,,fMBD,Cousins,varikin;parabank
+fMBS,female ego's mother's brother's son,,,fMBS,Cousins,varikin;parabank
+fMBeD,female ego‘s mother‘s brother‘s older daughter,,,fMBeD,Cousins by relative age of cousin to ego,varikin;parabank
+fMBeS,female ego‘s mother‘s brother‘s older son,,,fMBeS,Cousins by relative age of cousin to ego,varikin;parabank
+fMByD,female ego‘s mother‘s brother‘s younger daughter,,,fMByD,Cousins by relative age of cousin to ego,varikin;parabank
+fMByS,female ego‘s mother‘s brother‘s younger son,,,fMByS,Cousins by relative age of cousin to ego,varikin;parabank
+fMF,female ego's mother's father,,,fMF,Grandparents & -children,varikin;parabank
+fMFF,fMFF,,,fMFF,,varikin;parabank
+fMFM,fMFM,,,fMFM,,parabank
+fMM,female ego's mother's mother,,,fMM,Grandparents & -children,varikin;parabank
+fMMF,fMMF,,,fMMF,,varikin;parabank
+fMMM,fMMM,,,fMMM,,parabank
+fMZD,female ego's mother's sister's daughter ,,,fMZD,Cousins,varikin;parabank
+fMZS,female ego's mother's sister's son,,,fMZS,Cousins,varikin;parabank
+fMZeD,female ego‘s mother‘s sisters‘s older daughter,,,fMZeD,Cousins by relative age of cousin to ego,varikin;parabank
+fMZeS,female ego‘s mother‘s sisters‘s older son,,,fMZeS,Cousins by relative age of cousin to ego,varikin;parabank
+fMZyD,female ego‘s mother‘s sisters‘s younger daughter,,,fMZyD,Cousins by relative age of cousin to ego,varikin;parabank
+fMZyS,female ego‘s mother‘s sisters‘s younger son,,,fMZyS,Cousins by relative age of cousin to ego,varikin;parabank
+fMeB,female ego's mother's older brother ,,,fMeB,Uncles & Aunts,varikin;parabank
+fMeBD,female ego's mother‘s older brother‘s daughter,,,fMeBD,Cousins by relative age of parent,varikin;parabank
+fMeBS,female ego's mother‘s older brother‘s son,,,fMeBS,Cousins by relative age of parent,varikin;parabank
+fMeZ,female ego's mother's older sister ,,,fMeZ,Uncles & Aunts,varikin;parabank
+fMeZD,female ego's mother‘s older sister‘s daughter,,,fMeZD,Cousins by relative age of parent,varikin;parabank
+fMeZS,female ego's mother‘s older sister‘s son,,,fMeZS,Cousins by relative age of parent,varikin;parabank
+fMexchangeB,fMexchangeB,,,fMexchangeB,,parabank
+fMyB,female ego's mother's younger brother ,,,fMyB,Uncles & Aunts,varikin;parabank
+fMyBD,female ego‘s mother‘s younger brother‘s daughter,,,fMyBD,Cousins by relative age of parent,varikin;parabank
+fMyBS,female ego‘s mother‘s younger brother‘s son,,,fMyBS,Cousins by relative age of parent,varikin;parabank
+fMyZ,female ego's mother's younger sister ,,,fMyZ,Uncles & Aunts,varikin;parabank
+fMyZD,female ego‘s mother‘s younger sister‘s daughter,,,fMyZD,Cousins by relative age of parent,varikin;parabank
+fMyZS,female ego‘s mother‘s younger sister‘s son,,,fMyZS,Cousins by relative age of parent,varikin;parabank
+fS,female ego's son,,,fS,Children,varikin;parabank
+fSD,female ego's son's daughter,,,fSD,Grandparents & -children,varikin;parabank
+fSS,female ego's son's son,,,fSS,Grandparents & -children,varikin;parabank
+fSW,female ego's son's wife,2264,DAUGHTER-IN-LAW (OF WOMAN),fSW,Affines,varikin;parabank
+fZH,female ego's sister's husband,,,fZH,Affines,varikin;parabank
+feB,female ego's older brother,2415,ELDER BROTHER (OF WOMAN),feB,Siblings,varikin;parabank
+feBD,female ego's older brother's daughter ,,,feBD,Nieces & Nephews,varikin;parabank
+feBS,female ego's older brother's son,,,feBS,Nieces & Nephews,varikin;parabank
+feZ,female ego's older sister,2419,ELDER SISTER (OF WOMAN),feZ,Siblings,varikin;parabank
+feZD,female ego's older sister's daughter ,,,feZD,Nieces & Nephews,varikin;parabank
+feZS,female ego's older sister's son,,,feZS,Nieces & Nephews,varikin;parabank
+fexchangeB,fexchangeB,,,fexchangeB,,parabank
+fexchangeBW,fexchangeBW,,,fexchangeBW,,parabank
+fyB,female ego's younger brother,2417,YOUNGER BROTHER (OF WOMAN),fyB,Siblings,varikin;parabank
+fyBD,female ego's younger brother's daughter ,,,fyBD,Nieces & Nephews,varikin;parabank
+fyBS,female ego's younger brother's son,,,fyBS,Nieces & Nephews,varikin;parabank
+fyZ,female ego's younger sister,2421,YOUNGER SISTER (OF WOMAN),fyZ,Siblings,varikin;parabank
+fyZD,female ego's younger sister's daughter ,,,fyZD,Nieces & Nephews,varikin;parabank
+fyZS,female ego's younger sister's son,,,fyZS,Nieces & Nephews,varikin;parabank
+mBW,male ego's brother's wife,,,mBW,Affines,varikin;parabank
+mD,male ego's daughter,,,mD,Children,varikin;parabank
+mDD,male ego's daughter's daughter,,,mDD,Grandparents & -children,varikin;parabank
+mDH,male ego's daughter's husband,2267,SON-IN-LAW (OF MAN),mDH,Affines,varikin;parabank
+mDS,male ego's daughter's son,,,mDS,Grandparents & -children,varikin;parabank
+mF,male ego's father,,,mF,Parents,varikin;parabank
+mFBD,male ego's father's brother's daughter ,,,mFBD,Cousins,varikin;parabank
+mFBS,male ego's father's brother's son,,,mFBS,Cousins,varikin;parabank
+mFBeD,male ego‘s father‘s brother‘s older daughter,,,mFBeD,Cousins by relative age of cousin to ego,varikin;parabank
+mFBeS,male ego‘s father‘s brother‘s older son,,,mFBeS,Cousins by relative age of cousin to ego,varikin;parabank
+mFByD,male ego‘s father‘s brother‘s younger daughter,,,mFByD,Cousins by relative age of cousin to ego,varikin;parabank
+mFByS,male ego‘s father‘s brother‘s younger son,,,mFByS,Cousins by relative age of cousin to ego,varikin;parabank
+mFF,male ego's father‘s father,,,mFF,Grandparents & -children,varikin;parabank
+mFFF,mFFF,,,mFFF,,varikin;parabank
+mFFFF,mFFFF,,,mFFFF,,parabank
+mFFM,mFFM,,,mFFM,,varikin;parabank
+mFM,male ego's father's mother,,,mFM,Grandparents & -children,varikin;parabank
+mFMF,mFMF,,,mFMF,,varikin;parabank
+mFMM,mFMM,,,mFMM,,parabank
+mFZD,male ego's father's sister's daughter ,,,mFZD,Cousins,varikin;parabank
+mFZS,male ego's father's sister's son,,,mFZS,Cousins,varikin;parabank
+mFZeD,male ego‘s father‘s sisters‘s older daughter,,,mFZeD,Cousins by relative age of cousin to ego,varikin;parabank
+mFZeS,male ego‘s father‘s sisters‘s older son,,,mFZeS,Cousins by relative age of cousin to ego,varikin;parabank
+mFZyD,male ego‘s father‘s sisters‘s younger daughter,,,mFZyD,Cousins by relative age of cousin to ego,varikin;parabank
+mFZyS,male ego‘s father‘s sisters‘s younger son,,,mFZyS,Cousins by relative age of cousin to ego,varikin;parabank
+mFeB,male ego's father's older brother ,,,mFeB,Uncles & Aunts,varikin;parabank
+mFeBD,male ego's father‘s older brother‘s daughter,,,mFeBD,Cousins by relative age of parent,varikin;parabank
+mFeBS,male ego's father‘s older brother‘s son,,,mFeBS,Cousins by relative age of parent,varikin;parabank
+mFeBW,mFeBW,,,mFeBW,,parabank
+mFeZ,male ego's father's older sister ,,,mFeZ,Uncles & Aunts,varikin;parabank
+mFeZD,male ego's father‘s older sister‘s daughter,,,mFeZD,Cousins by relative age of parent,varikin;parabank
+mFeZS,male ego's father‘s older sister‘s son,,,mFeZS,Cousins by relative age of parent,varikin;parabank
+mFexchangeZ,mFexchangeZ,,,mFexchangeZ,,parabank
+mFexchangeZD,mFexchangeZD,,,mFexchangeZD,,parabank
+mFexchangeZS,mFexchangeZS,,,mFexchangeZS,,parabank
+mFyB,male ego's father's younger brother ,,,mFyB,Uncles & Aunts,varikin;parabank
+mFyBD,male ego‘s father‘s younger brother‘s daughter,,,mFyBD,Cousins by relative age of parent,varikin;parabank
+mFyBS,male ego‘s father‘s younger brother‘s son,,,mFyBS,Cousins by relative age of parent,varikin;parabank
+mFyZ,male ego's father's younger sister ,,,mFyZ,Uncles & Aunts,varikin;parabank
+mFyZD,male ego‘s father‘s younger sister‘s daughter,,,mFyZD,Cousins by relative age of parent,varikin;parabank
+mFyZS,male ego‘s father‘s younger sister‘s son,,,mFyZS,Cousins by relative age of parent,varikin;parabank
+mM,male ego's mother,,,mM,Parents,varikin;parabank
+mMBD,male ego's mother's brother's daughter ,,,mMBD,Cousins,varikin;parabank
+mMBS,male ego's mother's brother's son,,,mMBS,Cousins,varikin;parabank
+mMBeD,male ego‘s mother‘s brother‘s older daughter,,,mMBeD,Cousins by relative age of cousin to ego,varikin;parabank
+mMBeS,male ego‘s mother‘s brother‘s older son,,,mMBeS,Cousins by relative age of cousin to ego,varikin;parabank
+mMByD,male ego‘s mother‘s brother‘s younger daughter,,,mMByD,Cousins by relative age of cousin to ego,varikin;parabank
+mMByS,male ego‘s mother‘s brother‘s younger son,,,mMByS,Cousins by relative age of cousin to ego,varikin;parabank
+mMF,male ego's mother's father,,,mMF,Grandparents & -children,varikin;parabank
+mMFF,mMFF,,,mMFF,,varikin;parabank
+mMFM,mMFM,,,mMFM,,parabank
+mMM,male ego's mother's mother,,,mMM,Grandparents & -children,varikin;parabank
+mMMF,mMMF,,,mMMF,,varikin;parabank
+mMMM,mMMM,,,mMMM,,parabank
+mMZD,male ego's mother's sister's daughter ,,,mMZD,Cousins,varikin;parabank
+mMZS,male ego's mother's sister's son,,,mMZS,Cousins,varikin;parabank
+mMZeD,male ego‘s mother‘s sisters‘s older daughter,,,mMZeD,Cousins by relative age of cousin to ego,varikin;parabank
+mMZeS,male ego‘s mother‘s sisters‘s older son,,,mMZeS,Cousins by relative age of cousin to ego,varikin;parabank
+mMZyD,male ego‘s mother‘s sisters‘s younger daughter,,,mMZyD,Cousins by relative age of cousin to ego,varikin;parabank
+mMZyS,male ego‘s mother‘s sisters‘s younger son,,,mMZyS,Cousins by relative age of cousin to ego,varikin;parabank
+mMeB,male ego's mother's older brother ,,,mMeB,Uncles & Aunts,varikin;parabank
+mMeBD,male ego's mother‘s older brother‘s daughter,,,mMeBD,Cousins by relative age of parent,varikin;parabank
+mMeBS,male ego's mother‘s older brother‘s son,,,mMeBS,Cousins by relative age of parent,varikin;parabank
+mMeZ,male ego's mother's older sister ,,,mMeZ,Uncles & Aunts,varikin;parabank
+mMeZD,male ego's mother‘s older sister‘s daughter,,,mMeZD,Cousins by relative age of parent,varikin;parabank
+mMeZS,male ego's mother‘s older sister‘s son,,,mMeZS,Cousins by relative age of parent,varikin;parabank
+mMexchangeB,mMexchangeB,,,mMexchangeB,,parabank
+mMyB,male ego's mother's younger brother ,,,mMyB,Uncles & Aunts,varikin;parabank
+mMyBD,male ego‘s mother‘s younger brother‘s daughter,,,mMyBD,Cousins by relative age of parent,varikin;parabank
+mMyBS,male ego‘s mother‘s younger brother‘s son,,,mMyBS,Cousins by relative age of parent,varikin;parabank
+mMyZ,male ego's mother's younger sister ,,,mMyZ,Uncles & Aunts,varikin;parabank
+mMyZD,male ego‘s mother‘s younger sister‘s daughter,,,mMyZD,Cousins by relative age of parent,varikin;parabank
+mMyZS,male ego‘s mother‘s younger sister‘s son,,,mMyZS,Cousins by relative age of parent,varikin;parabank
+mS,male ego's son,,,mS,Children,varikin;parabank
+mSD,male ego's son's daughter,,,mSD,Grandparents & -children,varikin;parabank
+mSS,male ego's son's son,,,mSS,Grandparents & -children,varikin;parabank
+mSSS,mSSS,,,mSSS,,parabank
+mSSSS,mSSSS,,,mSSSS,,parabank
+mSW,male ego's son's wife,2265,DAUGHTER-IN-LAW (OF MAN),mSW,Affines,varikin;parabank
+mW,male ego's wife,1199,WIFE,mW,Affines,varikin;parabank
+mWB,male ego's wife's brother,2380,BROTHER-IN-LAW (OF MAN),mWB,Affines,varikin;parabank
+mWBW,mWBW,,,mWBW,,varikin;parabank
+mWF,male ego's wife's father,2255,FATHER-IN-LAW (OF MAN),mWF,Affines,varikin;parabank
+mWM,male ego's wife's mother,2257,MOTHER-IN-LAW (OF MAN),mWM,Affines,varikin;parabank
+mWZ,male ego's wife's sister,,,mWZ,Affines,varikin;parabank
+mWZH,mWZH,,,mWZH,,varikin;parabank
+mZH,male ego's sister's husband,,,mZH,Affines,varikin;parabank
+meB,male ego's older brother,2414,ELDER BROTHER (OF MAN),meB,Siblings,varikin;parabank
+meBD,male ego's older brother's daughter ,,,meBD,Nieces & Nephews,varikin;parabank
+meBS,male ego's older brother's son,,,meBS,Nieces & Nephews,varikin;parabank
+meZ,male ego's older sister,2418,ELDER SISTER (OF MAN),meZ,Siblings,varikin;parabank
+meZD,male ego's older sister's daughter ,,,meZD,Nieces & Nephews,varikin;parabank
+meZS,male ego's older sister's son,,,meZS,Nieces & Nephews,varikin;parabank
+mexchangeZ,mexchangeZ,,,mexchangeZ,,parabank
+mexchangeZH,mexchangeZH,,,mexchangeZH,,parabank
+myB,male ego's younger brother,2416,YOUNGER BROTHER (OF MAN),myB,Siblings,varikin;parabank
+myBD,male ego's younger brother's daughter ,,,myBD,Nieces & Nephews,varikin;parabank
+myBS,male ego's younger brother's son,,,myBS,Nieces & Nephews,varikin;parabank
+myZ,male ego's younger sister,2420,YOUNGER SISTER (OF MAN),myZ,Siblings,varikin;parabank
+myZD,male ego's younger sister's daughter ,,,myZD,Nieces & Nephews,varikin;parabank
+myZS,male ego's younger sister's son,,,myZS,Nieces & Nephews,varikin;parabank
+sibling,Sibling,,,sibling,,parabank
+spouse,Spouse,,,spouse,,parabank
+f_a_eZD,female speaker agnatic elder Sister Daughter,,,f(a)eZD,,varikin
+f_a_eZS,female speaker agnatic elder Sister Son,,,f(a)eZS,,varikin
+f_a_yZD,female speaker agnatic younger Sister Daughter,,,f(a)yZD,,varikin
+f_a_yZS,female speaker agnatic younger Sister Son,,,f(a)yZS,,varikin
+f_c_MeZ,female speaker cognatic Mother elder Sister,,,f(c)MeZ,,varikin
+f_c_MyZ,female speaker cognatic Mother younger Sister,,,f(c)MyZ,,varikin
+fA,female speaker Ancestor,,,fA,,varikin
+fB,female speaker Brother,,,fB,,varikin
+fBCC,female speaker Brother Child,,,fBCC,,varikin
+fBD,female speaker Brother Daughter,,,fBD,,varikin
+fBS,female speaker Brother Son,,,fBS,,varikin
+fC,female speaker Child,,,fC,,varikin
+fCC,female speaker Child,,,fCC,,varikin
+fDHF,female speaker Daughter Husband Father,,,fDHF,,varikin
+fDHM,female speaker Daughter Husband Mother,,,fDHM,,varikin
+fE,female speaker Spouse,,,fE,,varikin
+fFB,female speaker Father Brother,,,fFB,,varikin
+fFBDD,female speaker Father Brother Daughter,,,fFBDD,,varikin
+fFBDS,female speaker Father Brother Daughter Son,,,fFBDS,,varikin
+fFBSD,female speaker Father Brother Son Daughter,,,fFBSD,,varikin
+fFBSS,female speaker Father Brother Son,,,fFBSS,,varikin
+fFBSW,female speaker Father Brother Son Wife,,,fFBSW,,varikin
+fFBW,female speaker Father Brother Wife,,,fFBW,,varikin
+fFFBDyD,female speaker Father Brother Daughter younger Daughter,,,fFFBDyD,,varikin
+fFFBDyS,female speaker Father Brother Daughter younger Son,,,fFFBDyS,,varikin
+fFFBSS,female speaker Father Brother Son,,,fFFBSS,,varikin
+fFFBSeD,female speaker Father Brother Son elder Daughter,,,fFFBSeD,,varikin
+fFFBSyD,female speaker Father Brother Son younger Daughter,,,fFFBSyD,,varikin
+fFMZDyD,female speaker Father Mother Sister Daughter younger Daughter,,,fFMZDyD,,varikin
+fFMZDyS,female speaker Father Mother Sister Daughter younger Son,,,fFMZDyS,,varikin
+fFMZSS,female speaker Father Mother Sister Son,,,fFMZSS,,varikin
+fFMZSeD,female speaker Father Mother Sister Son elder Daughter,,,fFMZSeD,,varikin
+fFMZSyD,female speaker Father Mother Sister Son younger Daughter,,,fFMZSyD,,varikin
+fFW_notM,female speaker Father Wife Not Mother,,,fFW(notM),,varikin
+fFZ,female speaker Father Sister,,,fFZ,,varikin
+fFZDD,female speaker Father Sister Daughter,,,fFZDD,,varikin
+fFZDS,female speaker Father Sister Daughter Son,,,fFZDS,,varikin
+fFZH,female speaker Father Sister Husband,,,fFZH,,varikin
+fFZSD,female speaker Father Sister Son Daughter,,,fFZSD,,varikin
+fFZSS,female speaker Father Sister Son,,,fFZSS,,varikin
+fG,female speaker Grandparent,,,fG,,varikin
+fHBD,female speaker Husband Brother Daughter,,,fHBD,,varikin
+fHBS,female speaker Husband Brother Son,,,fHBS,,varikin
+fHFBD,female speaker Husband Father Brother Daughter,,,fHFBD,,varikin
+fHMZ,female speaker Husband Mother Sister,,,fHMZ,,varikin
+fHMZD,female speaker Husband Mother Sister Daughter,,,fHMZD,,varikin
+fHeB,female speaker Husband elder Brother,,,fHeB,,varikin
+fHeBW,female speaker Husband elder Brother Wife,,,fHeBW,,varikin
+fHyB,female speaker Husband younger Brother,,,fHyB,,varikin
+fHyBW,female speaker Husband younger Brother Wife,,,fHyBW,,varikin
+fMB,female speaker Mother Brother,,,fMB,,varikin
+fMBDD,female speaker Mother Brother Daughter,,,fMBDD,,varikin
+fMBDS,female speaker Mother Brother Daughter Son,,,fMBDS,,varikin
+fMBSD,female speaker Mother Brother Son Daughter,,,fMBSD,,varikin
+fMBSS,female speaker Mother Brother Son,,,fMBSS,,varikin
+fMBW,female speaker Mother Brother Wife,,,fMBW,,varikin
+fMFBDS,female speaker Mother Father Brother Daughter Son,,,fMFBDS,,varikin
+fMFBDeD,female speaker Mother Father Brother Daughter elder Daughter,,,fMFBDeD,,varikin
+fMFBDyD,female speaker Mother Father Brother Daughter younger Daughter,,,fMFBDyD,,varikin
+fMFBSyS,female speaker Mother Father Brother Son younger Son,,,fMFBSyS,,varikin
+fMH_notF,female speaker Mother Husband Not Father,,,fMH(notF),,varikin
+fMMBD,female speaker Mother Brother Daughter,,,fMMBD,,varikin
+fMMBS,female speaker Mother Brother Son,,,fMMBS,,varikin
+fMMZ,female speaker Mother Sister,,,fMMZ,,varikin
+fMMZD,female speaker Mother Sister Daughter,,,fMMZD,,varikin
+fMMZDS,female speaker Mother Sister Daughter Son,,,fMMZDS,,varikin
+fMMZDeD,female speaker Mother Sister Daughter elder Daughter,,,fMMZDeD,,varikin
+fMMZDyD,female speaker Mother Sister Daughter younger Daughter,,,fMMZDyD,,varikin
+fMMZS,female speaker Mother Sister Son,,,fMMZS,,varikin
+fMMZSyD,female speaker Mother Sister Son younger Daughter,,,fMMZSyD,,varikin
+fMMZSyS,female speaker Mother Sister Son younger Son,,,fMMZSyS,,varikin
+fMZ,female speaker Mother Sister,,,fMZ,,varikin
+fMZDD,female speaker Mother Sister Daughter,,,fMZDD,,varikin
+fMZDS,female speaker Mother Sister Daughter Son,,,fMZDS,,varikin
+fMZH,female speaker Mother Sister Husband,,,fMZH,,varikin
+fMZSD,female speaker Mother Sister Son Daughter,,,fMZSD,,varikin
+fMZSS,female speaker Mother Sister Son,,,fMZSS,,varikin
+fMZSW,female speaker Mother Sister Son Wife,,,fMZSW,,varikin
+fP,female speaker Parent,,,fP,,varikin
+fPP,female speaker Parent,,,fPP,,varikin
+fSSC,female speaker Son Child,,,fSSC,,varikin
+fSWF,female speaker Son Wife Father,,,fSWF,,varikin
+fSWM,female speaker Son Wife Mother,,,fSWM,,varikin
+fTW,female speaker Twin,,,fTW,,varikin
+fW,female speaker Wife,,,fW,,varikin
+fWB,female speaker Wife Brother,,,fWB,,varikin
+fWBW,female speaker Wife Brother Wife,,,fWBW,,varikin
+fWF,female speaker Wife Father,,,fWF,,varikin
+fWM,female speaker Wife Mother,,,fWM,,varikin
+fWZ,female speaker Wife Sister,,,fWZ,,varikin
+fWZH,female speaker Wife Sister Husband,,,fWZH,,varikin
+fWeZ,female speaker Wife elder Sister,,,fWeZ,,varikin
+fWyB,female speaker Wife younger Brother,,,fWyB,,varikin
+fWyZ,female speaker Wife younger Sister,,,fWyZ,,varikin
+fZ,female speaker Sister,,,fZ,,varikin
+fZD,female speaker Sister Daughter,,,fZD,,varikin
+fZDD,female speaker Sister Daughter,,,fZDD,,varikin
+fZDH,female speaker Sister Daughter Husband,,,fZDH,,varikin
+fZDS,female speaker Sister Daughter Son,,,fZDS,,varikin
+fZS,female speaker Sister Son,,,fZS,,varikin
+fZSW,female speaker Sister Son Wife,,,fZSW,,varikin
+f_co_H,female speaker co- Husband,,,fco-H,,varikin
+f_co_W,female speaker co- Wife,,,fco-W,,varikin
+feBW,female speaker elder Brother Wife,,,feBW,,varikin
+feD,female speaker elder Daughter,,,feD,,varikin
+feS,female speaker elder Son,,,feS,,varikin
+feZH,female speaker elder Sister Husband,,,feZH,,varikin
+fyBW,female speaker younger Brother Wife,,,fyBW,,varikin
+fyD,female speaker younger Daughter,,,fyD,,varikin
+fyS,female speaker younger Son,,,fyS,,varikin
+fySW,female speaker younger Son Wife,,,fySW,,varikin
+fyZH,female speaker younger Sister Husband,,,fyZH,,varikin
+m_a_eBD,male speaker agnatic elder Brother Daughter,,,m(a)eBD,,varikin
+m_a_eBS,male speaker agnatic elder Brother Son,,,m(a)eBS,,varikin
+m_a_eZD,male speaker agnatic elder Sister Daughter,,,m(a)eZD,,varikin
+m_a_eZS,male speaker agnatic elder Sister Son,,,m(a)eZS,,varikin
+m_a_yBD,male speaker agnatic younger Brother Daughter,,,m(a)yBD,,varikin
+m_a_yBS,male speaker agnatic younger Brother Son,,,m(a)yBS,,varikin
+m_a_yZD,male speaker agnatic younger Sister Daughter,,,m(a)yZD,,varikin
+m_a_yZS,male speaker agnatic younger Sister Son,,,m(a)yZS,,varikin
+m_c_BC,male speaker cognatic Brother Child,,,m(c)BC,,varikin
+m_c_MeZ,male speaker cognatic Mother elder Sister,,,m(c)MeZ,,varikin
+m_c_MyZ,male speaker cognatic Mother younger Sister,,,m(c)MyZ,,varikin
+m_c_ZC,male speaker cognatic Sister Child,,,m(c)ZC,,varikin
+m_c_eBD,male speaker cognatic elder Brother Daughter,,,m(c)eBD,,varikin
+m_c_eBS,male speaker cognatic elder Brother Son,,,m(c)eBS,,varikin
+m_c_eZD,male speaker cognatic elder Sister Daughter,,,m(c)eZD,,varikin
+m_c_eZS,male speaker cognatic elder Sister Son,,,m(c)eZS,,varikin
+m_c_yBD,male speaker cognatic younger Brother Daughter,,,m(c)yBD,,varikin
+m_c_yBS,male speaker cognatic younger Brother Son,,,m(c)yBS,,varikin
+m_c_yZD,male speaker cognatic younger Sister Daughter,,,m(c)yZD,,varikin
+m_c_yZS,male speaker cognatic younger Sister Son,,,m(c)yZS,,varikin
+mA,male speaker Ancestor,,,mA,,varikin
+mB,male speaker Brother,,,mB,,varikin
+mBCC,male speaker Brother Child,,,mBCC,,varikin
+mBD,male speaker Brother Daughter,,,mBD,,varikin
+mBS,male speaker Brother Son,,,mBS,,varikin
+mC,male speaker Child,,,mC,,varikin
+mCC,male speaker Child,,,mCC,,varikin
+mDHF,male speaker Daughter Husband Father,,,mDHF,,varikin
+mDHM,male speaker Daughter Husband Mother,,,mDHM,,varikin
+mE,male speaker Spouse,,,mE,,varikin
+mFB,male speaker Father Brother,,,mFB,,varikin
+mFBDD,male speaker Father Brother Daughter,,,mFBDD,,varikin
+mFBDS,male speaker Father Brother Daughter Son,,,mFBDS,,varikin
+mFBSD,male speaker Father Brother Son Daughter,,,mFBSD,,varikin
+mFBSS,male speaker Father Brother Son,,,mFBSS,,varikin
+mFBW,male speaker Father Brother Wife,,,mFBW,,varikin
+mFFB,male speaker Father Brother,,,mFFB,,varikin
+mFFBD,male speaker Father Brother Daughter,,,mFFBD,,varikin
+mFFBDeD,male speaker Father Brother Daughter elder Daughter,,,mFFBDeD,,varikin
+mFFBDeS,male speaker Father Brother Daughter elder Son,,,mFFBDeS,,varikin
+mFFBS,male speaker Father Brother Son,,,mFFBS,,varikin
+mFFBSD,male speaker Father Brother Son Daughter,,,mFFBSD,,varikin
+mFFBSeS,male speaker Father Brother Son elder Son,,,mFFBSeS,,varikin
+mFFBSyS,male speaker Father Brother Son younger Son,,,mFFBSyS,,varikin
+mFFZ,male speaker Father Sister,,,mFFZ,,varikin
+mFMB,male speaker Father Mother Brother,,,mFMB,,varikin
+mFMZ,male speaker Father Mother Sister,,,mFMZ,,varikin
+mFMZD,male speaker Father Mother Sister Daughter,,,mFMZD,,varikin
+mFMZDeD,male speaker Father Mother Sister Daughter elder Daughter,,,mFMZDeD,,varikin
+mFMZDeS,male speaker Father Mother Sister Daughter elder Son,,,mFMZDeS,,varikin
+mFMZS,male speaker Father Mother Sister Son,,,mFMZS,,varikin
+mFMZSD,male speaker Father Mother Sister Son Daughter,,,mFMZSD,,varikin
+mFMZSeS,male speaker Father Mother Sister Son elder Son,,,mFMZSeS,,varikin
+mFMZSyS,male speaker Father Mother Sister Son younger Son,,,mFMZSyS,,varikin
+mFW_notM,male speaker Father Wife Not Mother,,,mFW(notM),,varikin
+mFZ,male speaker Father Sister,,,mFZ,,varikin
+mFZDD,male speaker Father Sister Daughter,,,mFZDD,,varikin
+mFZDS,male speaker Father Sister Daughter Son,,,mFZDS,,varikin
+mFZDyD,male speaker Father Sister Daughter younger Daughter,,,mFZDyD,,varikin
+mFZDyS,male speaker Father Sister Daughter younger Son,,,mFZDyS,,varikin
+mFZH,male speaker Father Sister Husband,,,mFZH,,varikin
+mFZSD,male speaker Father Sister Son Daughter,,,mFZSD,,varikin
+mFZSS,male speaker Father Sister Son,,,mFZSS,,varikin
+mG,male speaker Grandparent,,,mG,,varikin
+mH,male speaker Husband,,,mH,,varikin
+mHB,male speaker Husband Brother,,,mHB,,varikin
+mHBD,male speaker Husband Brother Daughter,,,mHBD,,varikin
+mHBS,male speaker Husband Brother Son,,,mHBS,,varikin
+mHF,male speaker Husband Father,,,mHF,,varikin
+mHM,male speaker Husband Mother,,,mHM,,varikin
+mHW,male speaker Husband Wife,,,mHW,,varikin
+mHZ,male speaker Husband Sister,,,mHZ,,varikin
+mHZH,male speaker Husband Sister Husband,,,mHZH,,varikin
+mHeB,male speaker Husband elder Brother,,,mHeB,,varikin
+mHeBW,male speaker Husband elder Brother Wife,,,mHeBW,,varikin
+mHyB,male speaker Husband younger Brother,,,mHyB,,varikin
+mHyBW,male speaker Husband younger Brother Wife,,,mHyBW,,varikin
+mMB,male speaker Mother Brother,,,mMB,,varikin
+mMBDD,male speaker Mother Brother Daughter,,,mMBDD,,varikin
+mMBDS,male speaker Mother Brother Daughter Son,,,mMBDS,,varikin
+mMBDyD,male speaker Mother Brother Daughter younger Daughter,,,mMBDyD,,varikin
+mMBDyS,male speaker Mother Brother Daughter younger Son,,,mMBDyS,,varikin
+mMBSD,male speaker Mother Brother Son Daughter,,,mMBSD,,varikin
+mMBSS,male speaker Mother Brother Son,,,mMBSS,,varikin
+mMBW,male speaker Mother Brother Wife,,,mMBW,,varikin
+mMFB,male speaker Mother Father Brother,,,mMFB,,varikin
+mMFBD,male speaker Mother Father Brother Daughter,,,mMFBD,,varikin
+mMFBDD,male speaker Mother Father Brother Daughter,,,mMFBDD,,varikin
+mMFBDeS,male speaker Mother Father Brother Daughter elder Son,,,mMFBDeS,,varikin
+mMFBDyS,male speaker Mother Father Brother Daughter younger Son,,,mMFBDyS,,varikin
+mMFBS,male speaker Mother Father Brother Son,,,mMFBS,,varikin
+mMFBSeD,male speaker Mother Father Brother Son elder Daughter,,,mMFBSeD,,varikin
+mMFBSeS,male speaker Mother Father Brother Son elder Son,,,mMFBSeS,,varikin
+mMFBSyD,male speaker Mother Father Brother Son younger Daughter,,,mMFBSyD,,varikin
+mMFBSyS,male speaker Mother Father Brother Son younger Son,,,mMFBSyS,,varikin
+mMFZ,male speaker Mother Father Sister,,,mMFZ,,varikin
+mMH_notF,male speaker Mother Husband Not Father,,,mMH(notF),,varikin
+mMMB,male speaker Mother Brother,,,mMMB,,varikin
+mMMBD,male speaker Mother Brother Daughter,,,mMMBD,,varikin
+mMMBS,male speaker Mother Brother Son,,,mMMBS,,varikin
+mMMZ,male speaker Mother Sister,,,mMMZ,,varikin
+mMMZD,male speaker Mother Sister Daughter,,,mMMZD,,varikin
+mMMZDD,male speaker Mother Sister Daughter,,,mMMZDD,,varikin
+mMMZDeS,male speaker Mother Sister Daughter elder Son,,,mMMZDeS,,varikin
+mMMZDyS,male speaker Mother Sister Daughter younger Son,,,mMMZDyS,,varikin
+mMMZS,male speaker Mother Sister Son,,,mMMZS,,varikin
+mMMZSeD,male speaker Mother Sister Son elder Daughter,,,mMMZSeD,,varikin
+mMMZSeS,male speaker Mother Sister Son elder Son,,,mMMZSeS,,varikin
+mMMZSyD,male speaker Mother Sister Son younger Daughter,,,mMMZSyD,,varikin
+mMMZSyS,male speaker Mother Sister Son younger Son,,,mMMZSyS,,varikin
+mMZ,male speaker Mother Sister,,,mMZ,,varikin
+mMZDD,male speaker Mother Sister Daughter,,,mMZDD,,varikin
+mMZDS,male speaker Mother Sister Daughter Son,,,mMZDS,,varikin
+mMZH,male speaker Mother Sister Husband,,,mMZH,,varikin
+mMZSD,male speaker Mother Sister Son Daughter,,,mMZSD,,varikin
+mMZSS,male speaker Mother Sister Son,,,mMZSS,,varikin
+mP,male speaker Parent,,,mP,,varikin
+mPP,male speaker Parent,,,mPP,,varikin
+mSWF,male speaker Son Wife Father,,,mSWF,,varikin
+mSWM,male speaker Son Wife Mother,,,mSWM,,varikin
+mTW,male speaker Twin,,,mTW,,varikin
+mWFBD,male speaker Wife Father Brother Daughter,,,mWFBD,,varikin
+mWFBS,male speaker Wife Father Brother Son,,,mWFBS,,varikin
+mWFZD,male speaker Wife Father Sister Daughter,,,mWFZD,,varikin
+mWFZS,male speaker Wife Father Sister Son,,,mWFZS,,varikin
+mWMZ,male speaker Wife Mother Sister,,,mWMZ,,varikin
+mWZBD,male speaker Wife Sister Brother Daughter,,,mWZBD,,varikin
+mWZBS,male speaker Wife Sister Brother Son,,,mWZBS,,varikin
+mWZD,male speaker Wife Sister Daughter,,,mWZD,,varikin
+mWZS,male speaker Wife Sister Son,,,mWZS,,varikin
+mWZZD,male speaker Wife Sister Daughter,,,mWZZD,,varikin
+mWZZS,male speaker Wife Sister Son,,,mWZZS,,varikin
+mWeZ,male speaker Wife elder Sister,,,mWeZ,,varikin
+mWyB,male speaker Wife younger Brother,,,mWyB,,varikin
+mWyZ,male speaker Wife younger Sister,,,mWyZ,,varikin
+mZ,male speaker Sister,,,mZ,,varikin
+mZD,male speaker Sister Daughter,,,mZD,,varikin
+mZDD,male speaker Sister Daughter,,,mZDD,,varikin
+mZDS,male speaker Sister Daughter Son,,,mZDS,,varikin
+mZS,male speaker Sister Son,,,mZS,,varikin
+m_co_H,male speaker co- Husband,,,mco-H,,varikin
+m_co_W,male speaker co- Wife,,,mco-W,,varikin
+meBW,male speaker elder Brother Wife,,,meBW,,varikin
+meD,male speaker elder Daughter,,,meD,,varikin
+meS,male speaker elder Son,,,meS,,varikin
+meZH,male speaker elder Sister Husband,,,meZH,,varikin
+myBW,male speaker younger Brother Wife,,,myBW,,varikin
+myD,male speaker younger Daughter,,,myD,,varikin
+myS,male speaker younger Son,,,myS,,varikin
+mySW,male speaker younger Son Wife,,,mySW,,varikin
+myZH,male speaker younger Sister Husband,,,myZH,,varikin

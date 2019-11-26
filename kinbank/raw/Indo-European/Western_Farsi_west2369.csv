@@ -1,0 +1,279 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mG,hæmšire,,,,IE341,perry_persian_2015,
+mB,berɑdær,,,,IE341,perry_persian_2015,
+mB,bærɑdær,,,,IE341,perry_persian_2015,
+mB,[dɑdɑš],,,,IE341,perry_persian_2015,
+mZ,xɑhær,,,,IE341,perry_persian_2015,
+mZ,hæmšire,,,,IE341,perry_persian_2015,
+myB,dɑdær,,,,IE341,perry_persian_2015,
+myB,[uka],,,,IE341,perry_persian_2015,
+myZ,apa,,,,IE341,perry_persian_2015,
+mF,pedær,,,,IE341,perry_persian_2015,maybe pædær
+mM,mɑdær,,,,IE341,perry_persian_2015,
+mC,færzænd,,,,IE341,perry_persian_2015,
+mC,bæčče,,,,IE341,perry_persian_2015,
+mS,pesær,,,,IE341,perry_persian_2015,
+mD,doxtær,,,,IE341,perry_persian_2015,
+mFF,pedær-e-bozorg,,,,IE341,perry_persian_2015,
+mFF,[ǰædd],,,,IE341,perry_persian_2015,
+mFF,niyɑ,,,,IE341,perry_persian_2015,
+mFM,mɑdær-e bozorg,,,,IE341,perry_persian_2015,
+mFM,[ǰædde],,,,IE341,perry_persian_2015,
+mMF,pedær-e-bozorg,,,,IE341,perry_persian_2015,
+mMF,[ǰædd],,,,IE341,perry_persian_2015,
+mMF,niyɑ,,,,IE341,perry_persian_2015,
+mMM,mɑdær-e bozorg,,,,IE341,perry_persian_2015,
+mMM,[ǰædde],,,,IE341,perry_persian_2015,
+mSS,næve,,,,IE341,perry_persian_2015,
+mSS,pesær-e pesær,,,,IE341,perry_persian_2015,
+mSS,pesær-doxtær,,,,IE341,perry_persian_2015,
+mSD,doxtær-pesær,,,,IE341,perry_persian_2015,
+mSD,doxtær-e doxtær,,,,IE341,perry_persian_2015,
+mDS,næve,,,,IE341,perry_persian_2015,
+mDS,pesær-e pesær,,,,IE341,perry_persian_2015,
+mDS,pesær-doxtær,,,,,,
+mDD,doxtær-pesær,,,,IE341,perry_persian_2015,
+mDD,doxtær-e doxtær,,,,,,
+mFB,æmu,,,,IE341,perry_persian_2015,
+mFB,[æmm],,,,IE341,perry_persian_2015,
+mFZ,[æmme],,,,IE341,perry_persian_2015,
+mMB,dɑʔi,,,,IE341,perry_persian_2015,
+mMB,xɑlu,,,,IE341,perry_persian_2015,
+mMB,[xɑl],,,,IE341,perry_persian_2015,
+mMZ,[xɑle],,,,IE341,perry_persian_2015,
+mFeB,amu,,,,IE47(324),bateni_kinship_1973-1,
+mFyB,amu,,,,IE47(324),bateni_kinship_1973-1,
+mFeZ,amme,,,,IE47(324),bateni_kinship_1973-1,
+mFyZ,amme,,,,IE47(324),bateni_kinship_1973-1,
+mMeZ,xãle,,,,IE47(324),bateni_kinship_1973-1,
+mMyZ,xãle,,,,IE47(324),bateni_kinship_1973-1,
+mMeB,dãi,,,,IE47(324),bateni_kinship_1973-1,
+mMyB,dãi,,,,IE47(324),bateni_kinship_1973-1,
+mBS,pesær-bærɑdær,,,,IE341,perry_persian_2015,
+mBS,pesær-xɑhær,,,,IE341,perry_persian_2015,
+mBS,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+mBS,pesar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-brother"""
+mBS,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+mBD,doxtær-bærɑdær,,,,IE341,perry_persian_2015,
+mBD,doxtær-xɑhær,,,,IE341,perry_persian_2015,
+mBD,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+mBD,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+mBD,doxtar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-brother"""
+mZS,pesær-bærɑdær,,,,IE341,perry_persian_2015,
+mZS,pesær-xɑhær,,,,IE341,perry_persian_2015,
+mZS,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+mZS,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+mZS,pesar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son of sister"""
+mZD,doxtær-bærɑdær,,,,IE341,perry_persian_2015,
+mZD,doxtær-xɑhær,,,,IE341,perry_persian_2015,
+mZD,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+mZD,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+mZD,doxtar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter of sister"""
+meBS,pesar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-brother"""
+myBS,pesar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-brother"""
+meBD,doxtar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-brother"""
+myBD,doxtar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-brother"""
+meZS,pesar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son of sister"""
+myZS,pesar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son of sister"""
+meZD,doxtar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter of sister"""
+myZD,doxtar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter of sister"""
+mFZD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+mFBD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+mMBD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+mMZD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+mFBS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+mFZS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+mMBS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+mMZS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+mFeBS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+mFyBS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+mFeZS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+mFyZS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+mFeBD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+mFyBD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+mFeZD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+mFyZD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+mMeBS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+mMyBS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+mMeZS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+mMyZS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+mMeBD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+mMyBD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+mMeZD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+mMyZD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+mFBeS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+mFByS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+mFZeS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+mFZyS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+mFBeD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+mFByD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+mFZeD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+mFZyD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+mMBeS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+mMByS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+mMZeS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+mMZyS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+mMBeD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+mMByD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+mMZeD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+mMZyD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+mH,šowhær,,,,IE341,perry_persian_2015,
+mW,zæn,,,,IE341,perry_persian_2015,
+mW,hæm-sær,,,,IE341,perry_persian_2015,
+mHF,pedær-šowhær,,,,IE341,perry_persian_2015,
+mHM,mɑdær-šowhær,,,,IE341,perry_persian_2015,
+mWF,pedær-šowhær,,,,IE341,perry_persian_2015,
+mWF,pedær-zæn,,,,IE341,perry_persian_2015,
+mWM,mɑdær-šowhær,,,,IE341,perry_persian_2015,
+mWM,mɑdær-zæn,,,,IE341,perry_persian_2015,
+mSW,[ærus],,,,IE341,perry_persian_2015,
+mSW,[gælin],,,,IE341,perry_persian_2015,
+mSW,[ærus],,,,IE341,perry_persian_2015,
+mSW,[gælin],,,,IE341,perry_persian_2015,
+mDH,dɑmɑd,,,,IE341,perry_persian_2015,
+mDH,dɑmɑd,,,,IE341,perry_persian_2015,
+mHW,havu,,,,IE47(325),bateni_kinship_1973-1,
+meB,berɑdær,,,,IE341,perry_persian_2015,Inferred; NA
+meB,bærɑdær,,,,IE341,perry_persian_2015,Inferred; NA
+meB,[dɑdɑš],,,,IE341,perry_persian_2015,Inferred; NA
+meZ,xɑhær,,,,IE341,perry_persian_2015,Inferred; NA
+meZ,hæmšire,,,,IE341,perry_persian_2015,Inferred; NA
+fG,hæmšire,,,,IE341,perry_persian_2015,
+fB,berɑdær,,,,IE341,perry_persian_2015,
+fB,bærɑdær,,,,IE341,perry_persian_2015,
+fB,[dɑdɑš],,,,IE341,perry_persian_2015,
+fZ,xɑhær,,,,IE341,perry_persian_2015,
+fZ,hæmšire,,,,IE341,perry_persian_2015,
+fyB,dɑdær,,,,IE341,perry_persian_2015,
+fyB,[uka],,,,IE341,perry_persian_2015,
+fyZ,apa,,,,IE341,perry_persian_2015,
+fF,pedær,,,,IE341,perry_persian_2015,maybe pædær
+fM,mɑdær,,,,IE341,perry_persian_2015,
+fC,færzænd,,,,IE341,perry_persian_2015,
+fC,bæčče,,,,IE341,perry_persian_2015,
+fS,pesær,,,,IE341,perry_persian_2015,
+fD,doxtær,,,,IE341,perry_persian_2015,
+fFF,pedær-e-bozorg,,,,IE341,perry_persian_2015,
+fFF,[ǰædd],,,,IE341,perry_persian_2015,
+fFF,niyɑ,,,,IE341,perry_persian_2015,
+fFM,mɑdær-e bozorg,,,,IE341,perry_persian_2015,
+fFM,[ǰædde],,,,IE341,perry_persian_2015,
+fMF,pedær-e-bozorg,,,,IE341,perry_persian_2015,
+fMF,[ǰædd],,,,IE341,perry_persian_2015,
+fMF,niyɑ,,,,IE341,perry_persian_2015,
+fMM,mɑdær-e bozorg,,,,IE341,perry_persian_2015,
+fMM,[ǰædde],,,,IE341,perry_persian_2015,
+fSS,næve,,,,IE341,perry_persian_2015,
+fSS,pesær-e pesær,,,,IE341,perry_persian_2015,
+fSS,pesær-doxtær,,,,IE341,perry_persian_2015,
+fSD,doxtær-pesær,,,,IE341,perry_persian_2015,
+fSD,doxtær-e doxtær,,,,IE341,perry_persian_2015,
+fDS,næve,,,,IE341,perry_persian_2015,
+fDS,pesær-e pesær,,,,IE341,perry_persian_2015,
+fDS,pesær-doxtær,,,,,,
+fDD,doxtær-pesæ,,,,IE341,perry_persian_2015,
+fDD,doxtær-e doxtær,,,,,,
+fFB,æmu,,,,IE341,perry_persian_2015,
+fFB,[æmm],,,,IE341,perry_persian_2015,
+fFZ,[æmme],,,,IE341,perry_persian_2015,
+fMB,dɑʔi,,,,IE341,perry_persian_2015,
+fMB,xɑlu,,,,IE341,perry_persian_2015,
+fMB,[xɑl],,,,IE341,perry_persian_2015,
+fMZ,[xɑle],,,,IE341,perry_persian_2015,
+fFeB,amu,,,,IE47(324),bateni_kinship_1973-1,
+fFyB,amu,,,,IE47(324),bateni_kinship_1973-1,
+fFeZ,amme,,,,IE47(324),bateni_kinship_1973-1,
+fFyZ,amme,,,,IE47(324),bateni_kinship_1973-1,
+fMeZ,xãle,,,,IE47(324),bateni_kinship_1973-1,
+fMyZ,xãle,,,,IE47(324),bateni_kinship_1973-1,
+fMeB,dãi,,,,IE47(324),bateni_kinship_1973-1,
+fMyB,dãi,,,,IE47(324),bateni_kinship_1973-1,
+fBS,pesær-bærɑdær,,,,IE341,perry_persian_2015,
+fBS,pesær-xɑhær,,,,IE341,perry_persian_2015,
+fBS,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+fBS,pesar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-brother"""
+fBS,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+fBD,doxtær-bærɑdær,,,,IE341,perry_persian_2015,
+fBD,doxtær-xɑhær,,,,IE341,perry_persian_2015,
+fBD,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+fBD,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+fBD,doxtar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-brother"""
+fZS,pesær-bærɑdær,,,,IE341,perry_persian_2015,
+fZS,pesær-xɑhær,,,,IE341,perry_persian_2015,
+fZS,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+fZS,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+fZS,pesar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son of sister"""
+fZD,doxtær-bærɑdær,,,,IE341,perry_persian_2015,
+fZD,doxtær-xɑhær,,,,IE341,perry_persian_2015,
+fZD,bærɑdær-zɑde,,,,IE341,perry_persian_2015,
+fZD,xɑhær-zɑde,,,,IE341,perry_persian_2015,
+fZD,doxtar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter of sister"""
+feBS,pesar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-brother"""
+fyBS,pesar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-brother"""
+feBD,doxtar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-brother"""
+fyBD,doxtar-e-barãdar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-brother"""
+feZS,pesar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son of sister"""
+fyZS,pesar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son of sister"""
+feZD,doxtar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter of sister"""
+fyZD,doxtar-e-xãhar,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter of sister"""
+fFZD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+fFBD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+fMBD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+fMZD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+fFBS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+fFZS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+fMBS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+fMZS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+fFeBS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+fFyBS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+fFeZS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+fFyZS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+fFeBD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+fFyBD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+fFeZD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+fFyZD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+fMeBS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+fMyBS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+fMeZS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+fMyZS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+fMeBD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+fMyBD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+fMeZD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+fMyZD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+fFBeS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+fFByS,pesar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (father's brother)"""
+fFZeS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+fFZyS,pesar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (father's sister)"
+fFBeD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+fFByD,doxtar-e-amu,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (father's brother)"""
+fFZeD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+fFZyD,doxtar-e-amme,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (father's sister)"""
+fMBeS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+fMByS,pesar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-uncle (mother's brother)"""
+fMZeS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+fMZyS,pesar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""son-of-aunt (mother's sister)"""
+fMBeD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+fMByD,doxtar-e-dãi,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-uncle (mother's brother)"""
+fMZeD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+fMZyD,doxtar-e-xãle,,,,"IE47(324, 325)",bateni_kinship_1973-1,"""daughter-of-aunt (mother's sister)"""
+fH,šowhær,,,,IE341,perry_persian_2015,
+fW,zæn,,,,IE341,perry_persian_2015,
+fW,hæm-sær,,,,IE341,perry_persian_2015,
+fHF,pedær-šowhær,,,,IE341,perry_persian_2015,
+fHM,mɑdær-šowhær,,,,IE341,perry_persian_2015,
+fWF,pedær-šowhær,,,,IE341,perry_persian_2015,
+fWF,pedær-zæn,,,,IE341,perry_persian_2015,
+fWM,mɑdær-šowhær,,,,IE341,perry_persian_2015,
+fWM,mɑdær-zæn,,,,IE341,perry_persian_2015,
+fSW,[ærus],,,,IE341,perry_persian_2015,
+fSW,[gælin],,,,IE341,perry_persian_2015,
+fSW,[ærus],,,,IE341,perry_persian_2015,
+fSW,[gælin],,,,IE341,perry_persian_2015,
+fDH,dɑmɑd,,,,IE341,perry_persian_2015,
+fDH,dɑmɑd,,,,IE341,perry_persian_2015,
+fHW,havu,,,,IE47(325),bateni_kinship_1973-1,
+feB,berɑdær,,,,IE341,perry_persian_2015,Inferred; NA
+feB,bærɑdær,,,,IE341,perry_persian_2015,Inferred; NA
+feB,[dɑdɑš],,,,IE341,perry_persian_2015,Inferred; NA
+feZ,xɑhær,,,,IE341,perry_persian_2015,Inferred; NA
+feZ,hæmšire,,,,IE341,perry_persian_2015,Inferred; NA

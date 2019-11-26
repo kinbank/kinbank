@@ -1,0 +1,793 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mG,oɑr̃binɑččɑt,,,,UR12,jagau_northern_2015,
+mB,viellyɑ,,,,UR12,jagau_northern_2015,
+mZ,oɑbba,,,,UR12,jagau_northern_2015,
+myB,nuor̃ɑt viellyɑ,,,,UR12,jagau_northern_2015,
+myZ,nuor̃ɑt oɑbba,,,,UR12,jagau_northern_2015,
+mF,ahčči,,,,UR12,jagau_northern_2015,
+mM,eɑdni,,,,UR12,jagau_northern_2015,
+mC,mɑŋisboɑhtti,,,,UR12,jagau_northern_2015,
+mS,bar̃dni,,,,UR12,jagau_northern_2015,
+mD,nieidɑ,,,,UR12,jagau_northern_2015,
+mFF,addya,,,,UR12,jagau_northern_2015,
+mFM,ahkku,,,,UR12,jagau_northern_2015,
+mMF,addya,,,,UR12,jagau_northern_2015,
+mMM,ahkku,,,,UR12,jagau_northern_2015,
+mSS,addyut,,,,UR12,jagau_northern_2015,
+mSS,ahkkut,,,,UR12,jagau_northern_2015,
+mSD,addyut,,,,UR12,jagau_northern_2015,
+mSD,ahkkut,,,,UR12,jagau_northern_2015,
+mDS,addyut,,,,UR12,jagau_northern_2015,
+mDS,ahkkut,,,,UR12,jagau_northern_2015,
+mDD,addyut,,,,UR12,jagau_northern_2015,
+mDD,ahkkut,,,,UR12,jagau_northern_2015,
+mFB,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mFB,eɑhki,,,,UR12,jagau_northern_2015,
+mFZ,siessa,,,,UR12,jagau_northern_2015,
+mMB,eɑnu,,,,UR12,jagau_northern_2015,
+mMZ,goɑski,,,,UR12,jagau_northern_2015,
+mMZ,muoθθa,,,,UR12,jagau_northern_2015,
+mBS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,
+mBS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,
+mBD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,
+mBD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,
+mZS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,
+mZS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,
+mZD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,
+mZD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,
+mFZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mFZD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mFZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mFZD,eɑhki,,,,UR12,jagau_northern_2015,
+mFZD,siessa,,,,UR12,jagau_northern_2015,
+mFZD,muoθθa,,,,UR12,jagau_northern_2015,
+mFZD,goɑski,,,,UR12,jagau_northern_2015,
+mFZD,eɑnu,,,,UR12,jagau_northern_2015,
+mFBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mFBD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mFBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mFBD,eɑhki,,,,UR12,jagau_northern_2015,
+mFBD,siessa,,,,UR12,jagau_northern_2015,
+mFBD,muoθθa,,,,UR12,jagau_northern_2015,
+mFBD,goɑski,,,,UR12,jagau_northern_2015,
+mFBD,eɑnu,,,,UR12,jagau_northern_2015,
+mMBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mMBD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mMBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mMBD,eɑhki,,,,UR12,jagau_northern_2015,
+mMBD,siessa,,,,UR12,jagau_northern_2015,
+mMBD,muoθθa,,,,UR12,jagau_northern_2015,
+mMBD,goɑski,,,,UR12,jagau_northern_2015,
+mMBD,eɑnu,,,,UR12,jagau_northern_2015,
+mMZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mMZD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mMZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mMZD,eɑhki,,,,UR12,jagau_northern_2015,
+mMZD,siessa,,,,UR12,jagau_northern_2015,
+mMZD,muoθθa,,,,UR12,jagau_northern_2015,
+mMZD,goɑski,,,,UR12,jagau_northern_2015,
+mMZD,eɑnu,,,,UR12,jagau_northern_2015,
+mFBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mFBS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mFBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mFBS,eɑhki,,,,UR12,jagau_northern_2015,
+mFBS,siessa,,,,UR12,jagau_northern_2015,
+mFBS,muoθθa,,,,UR12,jagau_northern_2015,
+mFBS,goɑski,,,,UR12,jagau_northern_2015,
+mFBS,eɑnu,,,,UR12,jagau_northern_2015,
+mFZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mFZS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mFZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mFZS,eɑhki,,,,UR12,jagau_northern_2015,
+mFZS,siessa,,,,UR12,jagau_northern_2015,
+mFZS,muoθθa,,,,UR12,jagau_northern_2015,
+mFZS,goɑski,,,,UR12,jagau_northern_2015,
+mFZS,eɑnu,,,,UR12,jagau_northern_2015,
+mMBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mMBS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mMBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mMBS,eɑhki,,,,UR12,jagau_northern_2015,
+mMBS,siessa,,,,UR12,jagau_northern_2015,
+mMBS,muoθθa,,,,UR12,jagau_northern_2015,
+mMBS,goɑski,,,,UR12,jagau_northern_2015,
+mMBS,eɑnu,,,,UR12,jagau_northern_2015,
+mMZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+mMZS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+mMZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+mMZS,eɑhki,,,,UR12,jagau_northern_2015,
+mMZS,siessa,,,,UR12,jagau_northern_2015,
+mMZS,muoθθa,,,,UR12,jagau_northern_2015,
+mMZS,goɑski,,,,UR12,jagau_northern_2015,
+mMZS,eɑnu,,,,UR12,jagau_northern_2015,
+mH,boɑdɲi,,,,UR12,jagau_northern_2015,
+mW,ahkka,,,,UR12,jagau_northern_2015,
+mHF,vuohppɑ,,,,UR12,jagau_northern_2015,
+mHM,vuoni,,,,UR12,jagau_northern_2015,
+mWF,vuohppɑ,,,,UR12,jagau_northern_2015,
+mWM,vuoni,,,,UR12,jagau_northern_2015,
+mSW,mɑnɲi,,,,UR12,jagau_northern_2015,
+mSW,mɑnɲi,,,,UR12,jagau_northern_2015,
+mDH,vivvɑ,,,,UR12,jagau_northern_2015,
+mDH,vivvɑ,,,,UR12,jagau_northern_2015,
+meB,viellyɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+meZ,oɑbba,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeB,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeB,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyB,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyB,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZ,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZ,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZ,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZ,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZ,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZ,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeB,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyB,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+meBS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+meBS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+myBS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+myBS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+meBD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+meBD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+myBD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+myBD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+meZS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+meZS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+myZS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+myZS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+meZD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+meZD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+myZD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+myZD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFeZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFyZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMeZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMyZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFBeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFByD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mFZyD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMBeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMByD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+mMZyD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fG,oɑr̃binɑččɑt,,,,UR12,jagau_northern_2015,
+fB,viellyɑ,,,,UR12,jagau_northern_2015,
+fZ,oɑbba,,,,UR12,jagau_northern_2015,
+fyB,nuor̃ɑt viellyɑ,,,,UR12,jagau_northern_2015,
+fyZ,nuor̃ɑt oɑbba,,,,UR12,jagau_northern_2015,
+fF,ahčči,,,,UR12,jagau_northern_2015,
+fM,eɑdni,,,,UR12,jagau_northern_2015,
+fC,mɑŋisboɑhtti,,,,UR12,jagau_northern_2015,
+fS,bar̃dni,,,,UR12,jagau_northern_2015,
+fD,nieidɑ,,,,UR12,jagau_northern_2015,
+fFF,addya,,,,UR12,jagau_northern_2015,
+fFM,ahkku,,,,UR12,jagau_northern_2015,
+fMF,addya,,,,UR12,jagau_northern_2015,
+fMM,ahkku,,,,UR12,jagau_northern_2015,
+fSS,addyut,,,,UR12,jagau_northern_2015,
+fSS,ahkkut,,,,UR12,jagau_northern_2015,
+fSD,addyut,,,,UR12,jagau_northern_2015,
+fSD,ahkkut,,,,UR12,jagau_northern_2015,
+fDS,addyut,,,,UR12,jagau_northern_2015,
+fDS,ahkkut,,,,UR12,jagau_northern_2015,
+fDD,addyut,,,,UR12,jagau_northern_2015,
+fDD,ahkkut,,,,UR12,jagau_northern_2015,
+fFB,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fFB,eɑhki,,,,UR12,jagau_northern_2015,
+fFZ,siessa,,,,UR12,jagau_northern_2015,
+fMB,eɑnu,,,,UR12,jagau_northern_2015,
+fMZ,goɑski,,,,UR12,jagau_northern_2015,
+fMZ,muoθθa,,,,UR12,jagau_northern_2015,
+fBS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,
+fBS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,
+fBD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,
+fBD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,
+fZS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,
+fZS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,
+fZD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,
+fZD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,
+fFZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fFZD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fFZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fFZD,eɑhki,,,,UR12,jagau_northern_2015,
+fFZD,siessa,,,,UR12,jagau_northern_2015,
+fFZD,muoθθa,,,,UR12,jagau_northern_2015,
+fFZD,goɑski,,,,UR12,jagau_northern_2015,
+fFZD,eɑnu,,,,UR12,jagau_northern_2015,
+fFBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fFBD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fFBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fFBD,eɑhki,,,,UR12,jagau_northern_2015,
+fFBD,siessa,,,,UR12,jagau_northern_2015,
+fFBD,muoθθa,,,,UR12,jagau_northern_2015,
+fFBD,goɑski,,,,UR12,jagau_northern_2015,
+fFBD,eɑnu,,,,UR12,jagau_northern_2015,
+fMBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fMBD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fMBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fMBD,eɑhki,,,,UR12,jagau_northern_2015,
+fMBD,siessa,,,,UR12,jagau_northern_2015,
+fMBD,muoθθa,,,,UR12,jagau_northern_2015,
+fMBD,goɑski,,,,UR12,jagau_northern_2015,
+fMBD,eɑnu,,,,UR12,jagau_northern_2015,
+fMZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fMZD,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fMZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fMZD,eɑhki,,,,UR12,jagau_northern_2015,
+fMZD,siessa,,,,UR12,jagau_northern_2015,
+fMZD,muoθθa,,,,UR12,jagau_northern_2015,
+fMZD,goɑski,,,,UR12,jagau_northern_2015,
+fMZD,eɑnu,,,,UR12,jagau_northern_2015,
+fFBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fFBS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fFBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fFBS,eɑhki,,,,UR12,jagau_northern_2015,
+fFBS,siessa,,,,UR12,jagau_northern_2015,
+fFBS,muoθθa,,,,UR12,jagau_northern_2015,
+fFBS,goɑski,,,,UR12,jagau_northern_2015,
+fFBS,eɑnu,,,,UR12,jagau_northern_2015,
+fFZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fFZS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fFZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fFZS,eɑhki,,,,UR12,jagau_northern_2015,
+fFZS,siessa,,,,UR12,jagau_northern_2015,
+fFZS,muoθθa,,,,UR12,jagau_northern_2015,
+fFZS,goɑski,,,,UR12,jagau_northern_2015,
+fFZS,eɑnu,,,,UR12,jagau_northern_2015,
+fMBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fMBS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fMBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fMBS,eɑhki,,,,UR12,jagau_northern_2015,
+fMBS,siessa,,,,UR12,jagau_northern_2015,
+fMBS,muoθθa,,,,UR12,jagau_northern_2015,
+fMBS,goɑski,,,,UR12,jagau_northern_2015,
+fMBS,eɑnu,,,,UR12,jagau_northern_2015,
+fMZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,
+fMZS,vilbeɑlle,,,,UR12,jagau_northern_2015,
+fMZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,
+fMZS,eɑhki,,,,UR12,jagau_northern_2015,
+fMZS,siessa,,,,UR12,jagau_northern_2015,
+fMZS,muoθθa,,,,UR12,jagau_northern_2015,
+fMZS,goɑski,,,,UR12,jagau_northern_2015,
+fMZS,eɑnu,,,,UR12,jagau_northern_2015,
+fH,boɑdɲi,,,,UR12,jagau_northern_2015,
+fW,ahkka,,,,UR12,jagau_northern_2015,
+fHF,vuohppɑ,,,,UR12,jagau_northern_2015,
+fHM,vuoni,,,,UR12,jagau_northern_2015,
+fWF,vuohppɑ,,,,UR12,jagau_northern_2015,
+fWM,vuoni,,,,UR12,jagau_northern_2015,
+fSW,mɑnɲi,,,,UR12,jagau_northern_2015,
+fSW,mɑnɲi,,,,UR12,jagau_northern_2015,
+fDH,vivvɑ,,,,UR12,jagau_northern_2015,
+fDH,vivvɑ,,,,UR12,jagau_northern_2015,
+feB,viellyɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+feZ,oɑbba,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeB,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeB,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyB,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyB,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZ,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZ,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZ,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZ,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZ,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZ,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeB,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyB,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+feBS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+feBS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+fyBS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+fyBS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+feBD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+feBD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+fyBD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+fyBD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+feZS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+feZS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+fyZS,vielyɑbar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+fyZS,oɑppabar̃dni,,,,UR12,jagau_northern_2015,Inferred; NA
+feZD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+feZD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+fyZD,vielyɑnieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+fyZD,oɑppanieidɑ,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFeZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFyZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyBD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMeZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMyZD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFBeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFByD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fFZyD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyS,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMBeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMByD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZeD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,oɑmbeɑlli,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,vilbeɑlle,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,čeɑhc̷i,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,eɑhki,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,siessa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,muoθθa,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,goɑski,,,,UR12,jagau_northern_2015,Inferred; NA
+fMZyD,eɑnu,,,,UR12,jagau_northern_2015,Inferred; NA

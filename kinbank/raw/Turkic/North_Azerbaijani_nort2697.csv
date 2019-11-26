@@ -1,0 +1,319 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mG,gerdesh,,,,TUR2,khalilov_lezgian_2015,"gerdeš, bačɨ"
+mG,bachy,,,,TUR2,khalilov_lezgian_2015,"gerdeš, bačɨ"
+mB,gerdesh,,,,TUR2,khalilov_lezgian_2015,gerdeš
+mZ,bachy,,,,TUR2,khalilov_lezgian_2015,bačɨ
+myB,kichik gerdesh,,,,TUR2,khalilov_lezgian_2015,kičik gerdeš
+myZ,kichik bachy,,,,TUR2,khalilov_lezgian_2015,kičik bačɨ
+mF,ata,,,,TUR2,khalilov_lezgian_2015,"ata, ede, papa"
+mF,ede,,,,TUR2,khalilov_lezgian_2015,"ata, ede, papa"
+mF,papa,,,,TUR2,khalilov_lezgian_2015,"ata, ede, papa"
+mM,ana,,,,TUR2,khalilov_lezgian_2015,"ana, mama, bačɨ"
+mM,mama,,,,TUR2,khalilov_lezgian_2015,"ana, mama, bačɨ"
+mM,bachy,,,,TUR2,khalilov_lezgian_2015,"ana, mama, bačɨ"
+mC,ushaglary,,,,TUR2,khalilov_lezgian_2015,"ušaglarɨ, övladlarɨ"
+mC,o'vladlary,,,,TUR2,khalilov_lezgian_2015,"ušaglarɨ, övladlarɨ"
+mS,ogul,,,,TUR2,khalilov_lezgian_2015,ogul
+mD,giz,,,,TUR2,khalilov_lezgian_2015,giz
+mFF,dede,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+mFF,baba,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+mFM,nene,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+mFM,ana,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+mMF,dede,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+mMF,baba,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+mMM,nene,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+mMM,ana,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+mSS,neve,,,,TUR2,khalilov_lezgian_2015,neve
+mSD,neve(giz),,,,TUR2,khalilov_lezgian_2015,neve (giz)
+mDS,neve,,,,TUR2,khalilov_lezgian_2015,neve
+mDD,neve(giz),,,,TUR2,khalilov_lezgian_2015,neve (giz)
+mFB,emi,,,,TUR2,khalilov_lezgian_2015,emi
+mFZ,bibi,,,,TUR2,khalilov_lezgian_2015,bibi
+mMB,dajy,,,,TUR2,khalilov_lezgian_2015,dayɨ
+mMZ,khala,,,,TUR2,khalilov_lezgian_2015,xala
+mBS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+mBS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+mBD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+mBD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+mZS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+mZS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+mZD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+mZD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+mFZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mFZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mMZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+mH,kishi,,,,TUR2,khalilov_lezgian_2015,"kiši, yoldaš"
+mH,joldash,,,,TUR2,khalilov_lezgian_2015,"kiši, yoldaš"
+mW,khatun,,,,TUR2,khalilov_lezgian_2015,"xatun, yoldaš"
+mW,joldash,,,,TUR2,khalilov_lezgian_2015,"xatun, yoldaš"
+mHF,gejinana,,,,TUR2,khalilov_lezgian_2015,geyinata
+mHM,gejinana,,,,TUR2,khalilov_lezgian_2015,geyinana
+mWF,gejinata,,,,TUR2,khalilov_lezgian_2015,geyinata
+mWM,gejinata,,,,TUR2,khalilov_lezgian_2015,geyinana
+mSW,balduz,,,,TUR2,khalilov_lezgian_2015,balduz
+mSW,gelin,,,,TUR2,khalilov_lezgian_2015,gelin
+mDH,gijav,,,,TUR2,khalilov_lezgian_2015,"giyav, küreken"
+mDH,ku'reken,,,,TUR2,khalilov_lezgian_2015,"giyav, küreken"
+mDH,gijav,,,,TUR2,khalilov_lezgian_2015,giyav
+meB,gerdesh,,,,TUR2,khalilov_lezgian_2015,Inferred; gerdeš
+meZ,bachy,,,,TUR2,khalilov_lezgian_2015,Inferred; bačɨ
+mFeB,emi,,,,TUR2,khalilov_lezgian_2015,Inferred; emi
+mFyB,emi,,,,TUR2,khalilov_lezgian_2015,Inferred; emi
+mFeZ,bibi,,,,TUR2,khalilov_lezgian_2015,Inferred; bibi
+mFyZ,bibi,,,,TUR2,khalilov_lezgian_2015,Inferred; bibi
+mMeZ,khala,,,,TUR2,khalilov_lezgian_2015,Inferred; xala
+mMyZ,khala,,,,TUR2,khalilov_lezgian_2015,Inferred; xala
+mMeB,dajy,,,,TUR2,khalilov_lezgian_2015,Inferred; dayɨ
+mMyB,dajy,,,,TUR2,khalilov_lezgian_2015,Inferred; dayɨ
+meBS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+meBS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+myBS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+myBS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+meBD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+meBD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+myBD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+myBD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+meZS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+meZS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+myZS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+myZS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+meZD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+meZD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+myZD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+myZD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+mFeBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFeZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFyZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMeZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMyZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFBeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFBeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFByS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFByS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZyS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZyS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFBeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFBeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFByD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFByD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZyD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mFZyD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMBeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMBeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMByS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMByS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZyS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZyS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMBeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMBeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMByD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMByD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZyD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+mMZyD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fG,gerdesh,,,,TUR2,khalilov_lezgian_2015,"gerdeš, bačɨ"
+fG,bachy,,,,TUR2,khalilov_lezgian_2015,"gerdeš, bačɨ"
+fB,gerdesh,,,,TUR2,khalilov_lezgian_2015,gerdeš
+fZ,bachy,,,,TUR2,khalilov_lezgian_2015,bačɨ
+fyB,kichik gerdesh,,,,TUR2,khalilov_lezgian_2015,kičik gerdeš
+fyZ,kichik bachy,,,,TUR2,khalilov_lezgian_2015,kičik bačɨ
+fF,ata,,,,TUR2,khalilov_lezgian_2015,"ata, ede, papa"
+fF,ede,,,,TUR2,khalilov_lezgian_2015,"ata, ede, papa"
+fF,papa,,,,TUR2,khalilov_lezgian_2015,"ata, ede, papa"
+fM,ana,,,,TUR2,khalilov_lezgian_2015,"ana, mama, bačɨ"
+fM,mama,,,,TUR2,khalilov_lezgian_2015,"ana, mama, bačɨ"
+fM,bachy,,,,TUR2,khalilov_lezgian_2015,"ana, mama, bačɨ"
+fC,ushaglary,,,,TUR2,khalilov_lezgian_2015,"ušaglarɨ, övladlarɨ"
+fC,o'vladlary,,,,TUR2,khalilov_lezgian_2015,"ušaglarɨ, övladlarɨ"
+fS,ogul,,,,TUR2,khalilov_lezgian_2015,ogul
+fD,giz,,,,TUR2,khalilov_lezgian_2015,giz
+fFF,dede,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+fFF,baba,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+fFM,nene,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+fFM,ana,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+fMF,dede,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+fMF,baba,,,,TUR2,khalilov_lezgian_2015,"dede, baba"
+fMM,nene,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+fMM,ana,,,,TUR2,khalilov_lezgian_2015,"nene, ana"
+fSS,neve,,,,TUR2,khalilov_lezgian_2015,neve
+fSD,neve(giz),,,,TUR2,khalilov_lezgian_2015,neve (giz)
+fDS,neve,,,,TUR2,khalilov_lezgian_2015,neve
+fDD,neve(giz),,,,TUR2,khalilov_lezgian_2015,neve (giz)
+fFB,emi,,,,TUR2,khalilov_lezgian_2015,emi
+fFZ,bibi,,,,TUR2,khalilov_lezgian_2015,bibi
+fMB,dajy,,,,TUR2,khalilov_lezgian_2015,dayɨ
+fMZ,khala,,,,TUR2,khalilov_lezgian_2015,xala
+fBS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+fBS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+fBD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+fBD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+fZS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+fZS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün ogli, bačimün"
+fZD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+fZD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"gerdešümün gizi, bačimün"
+fFZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fFZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fMZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"emioglu, emigizi"
+fH,kishi,,,,TUR2,khalilov_lezgian_2015,"kiši, yoldaš"
+fH,joldash,,,,TUR2,khalilov_lezgian_2015,"kiši, yoldaš"
+fW,khatun,,,,TUR2,khalilov_lezgian_2015,"xatun, yoldaš"
+fW,joldash,,,,TUR2,khalilov_lezgian_2015,"xatun, yoldaš"
+fHF,gejinana,,,,TUR2,khalilov_lezgian_2015,geyinata
+fHM,gejinana,,,,TUR2,khalilov_lezgian_2015,geyinana
+fWF,gejinata,,,,TUR2,khalilov_lezgian_2015,geyinata
+fWM,gejinata,,,,TUR2,khalilov_lezgian_2015,geyinana
+fSW,balduz,,,,TUR2,khalilov_lezgian_2015,balduz
+fSW,gelin,,,,TUR2,khalilov_lezgian_2015,gelin
+fDH,gijav,,,,TUR2,khalilov_lezgian_2015,"giyav, küreken"
+fDH,ku'reken,,,,TUR2,khalilov_lezgian_2015,"giyav, küreken"
+fDH,gijav,,,,TUR2,khalilov_lezgian_2015,giyav
+feB,gerdesh,,,,TUR2,khalilov_lezgian_2015,Inferred; gerdeš
+feZ,bachy,,,,TUR2,khalilov_lezgian_2015,Inferred; bačɨ
+fFeB,emi,,,,TUR2,khalilov_lezgian_2015,Inferred; emi
+fFyB,emi,,,,TUR2,khalilov_lezgian_2015,Inferred; emi
+fFeZ,bibi,,,,TUR2,khalilov_lezgian_2015,Inferred; bibi
+fFyZ,bibi,,,,TUR2,khalilov_lezgian_2015,Inferred; bibi
+fMeZ,khala,,,,TUR2,khalilov_lezgian_2015,Inferred; xala
+fMyZ,khala,,,,TUR2,khalilov_lezgian_2015,Inferred; xala
+fMeB,dajy,,,,TUR2,khalilov_lezgian_2015,Inferred; dayɨ
+fMyB,dajy,,,,TUR2,khalilov_lezgian_2015,Inferred; dayɨ
+feBS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+feBS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+fyBS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+fyBS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+feBD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+feBD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+fyBD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+fyBD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+feZS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+feZS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+fyZS,gerdeshu'mu'n ogli,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+fyZS,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün ogli, bačimün"
+feZD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+feZD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+fyZD,gerdeshu'mu'n gizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+fyZD,bachimu'n,,,,TUR2,khalilov_lezgian_2015,"Inferred; gerdešümün gizi, bačimün"
+fFeBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFeZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFyZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyBS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyBS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyZS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyZS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyBD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyBD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMeZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyZD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMyZD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFBeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFBeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFByS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFByS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZyS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZyS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFBeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFBeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFByD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFByD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZyD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fFZyD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMBeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMBeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMByS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMByS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZeS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZeS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZyS,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZyS,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMBeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMBeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMByD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMByD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZeD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZeD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZyD,emioglu,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"
+fMZyD,emigizi,,,,TUR2,khalilov_lezgian_2015,"Inferred; emioglu, emigizi"

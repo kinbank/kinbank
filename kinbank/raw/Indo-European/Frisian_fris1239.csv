@@ -1,0 +1,661 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,broer,,,,IE305,abbink_frisian_nodate,
+myB,broerke,,,,IE305,abbink_frisian_nodate,
+meZ,sus,,,,IE305,abbink_frisian_nodate,
+myZ,suske,,,,IE305,abbink_frisian_nodate,
+mPP,grut alder,,,,IE305,abbink_frisian_nodate,
+mPP,paken en beppen,,,,IE307,kramer_wurdlist_1964,paken en beppen [307]; pake en beppe [348]
+mCC,pake,,,,IE305,abbink_frisian_nodate,pakesizzer / beppesizzer [348]
+mCC,beppe sizzer,,,,IE305,abbink_frisian_nodate,pakesizzer / beppesizzer [348]
+mSS,pake sizzer,,,,IE305,abbink_frisian_nodate,
+mSS,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+mSS,bernsbern,,,,IE307,kramer_wurdlist_1964,"bernsbern (this is in German: Enkel, Enkelin; in Saterfrisian: Baidenbaiden) [307]"
+mSD,pake sizzer,,,,IE305,abbink_frisian_nodate,
+mSD,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+mDS,pake sizzer,,,,IE305,abbink_frisian_nodate,
+mDS,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+mDD,pake sizzer,,,,IE305,abbink_frisian_nodate,
+mDD,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+mFZ,tante,,,,IE305,abbink_frisian_nodate,
+mMZ,tante,,,,IE305,abbink_frisian_nodate,
+mFeZ,tante,,,,IE305,abbink_frisian_nodate,
+mFyZ,tante,,,,IE305,abbink_frisian_nodate,
+mMeZ,tante,,,,IE305,abbink_frisian_nodate,
+mMyZ,tante,,,,IE305,abbink_frisian_nodate,
+mBW,skoan sus,,,,IE305,abbink_frisian_nodate,skoansuster [348]
+mWZ,skoan sus,,,,IE305,abbink_frisian_nodate,skoansuster [348]
+mHZ,skoan sus,,,,IE305,abbink_frisian_nodate,skoansuster [348]
+mSW,skoan dochter,,,,IE305,abbink_frisian_nodate,
+feB,broer,,,,IE305,abbink_frisian_nodate,
+fyB,broerke,,,,IE305,abbink_frisian_nodate,
+feZ,sus,,,,IE305,abbink_frisian_nodate,
+fyZ,suske,,,,IE305,abbink_frisian_nodate,
+fPP,grut alder,,,,IE305,abbink_frisian_nodate,
+fPP,paken en beppen,,,,IE307,kramer_wurdlist_1964,paken en beppen [307]; pake en beppe [348]
+fCC,pake,,,,IE305,abbink_frisian_nodate,pakesizzer / beppesizzer [348]
+fCC,beppe sizzer,,,,IE305,abbink_frisian_nodate,pakesizzer / beppesizzer [348]
+fSS,pake sizzer,,,,IE305,abbink_frisian_nodate,
+fSS,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+fSS,bernsbern,,,,IE307,kramer_wurdlist_1964,"bernsbern (this is in German: Enkel, Enkelin; in Saterfrisian: Baidenbaiden) [307]"
+fSD,pake sizzer,,,,IE305,abbink_frisian_nodate,
+fSD,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+fDS,pake sizzer,,,,IE305,abbink_frisian_nodate,
+fDS,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+fDD,pake sizzer,,,,IE305,abbink_frisian_nodate,
+fDD,beppe sizzer,,,,IE305,abbink_frisian_nodate,
+fFZ,tante,,,,IE305,abbink_frisian_nodate,
+fMZ,tante,,,,IE305,abbink_frisian_nodate,
+fFeZ,tante,,,,IE305,abbink_frisian_nodate,
+fFyZ,tante,,,,IE305,abbink_frisian_nodate,
+fMeZ,tante,,,,IE305,abbink_frisian_nodate,
+fMyZ,tante,,,,IE305,abbink_frisian_nodate,
+fBW,skoan sus,,,,IE305,abbink_frisian_nodate,skoansuster [348]
+fWZ,skoan sus,,,,IE305,abbink_frisian_nodate,skoansuster [348]
+fHZ,skoan sus,,,,IE305,abbink_frisian_nodate,skoansuster [348]
+fSW,skoan dochter,,,,IE305,abbink_frisian_nodate,
+mB,broer,,,,IE305,abbink_frisian_nodate,broer [307]
+mB,broer,,,,IE307,kramer_wurdlist_1964,broer [307]
+mB,broer,,,,IE348,noauthor_talennet_nodate,broer [307]
+mZ,sus,,,,IE305,abbink_frisian_nodate,suster [307]
+mZ,sus,,,,IE307,kramer_wurdlist_1964,suster [307]
+mZ,sus,,,,IE348,noauthor_talennet_nodate,suster [307]
+mP,alder,,,,IE305,abbink_frisian_nodate,âlder [307]
+mP,alder,,,,IE307,kramer_wurdlist_1964,âlder [307]
+mF,heit,,,,IE305,abbink_frisian_nodate,"heit, faar [307] (check this)"
+mF,heit,,,,IE307,kramer_wurdlist_1964,"heit, faar [307] (check this)"
+mF,heit,,,,IE348,noauthor_talennet_nodate,"heit, faar [307] (check this)"
+mM,mem,,,,IE305,abbink_frisian_nodate,mem [307]
+mM,mem,,,,IE307,kramer_wurdlist_1964,mem [307]
+mM,mem,,,,IE348,noauthor_talennet_nodate,mem [307]
+mC,bern,,,,IE305,abbink_frisian_nodate,
+mC,bern,,,,IE348,noauthor_talennet_nodate,
+mS,soan,,,,IE305,abbink_frisian_nodate,soan [307]
+mS,soan,,,,IE307,kramer_wurdlist_1964,soan [307]
+mS,soan,,,,IE348,noauthor_talennet_nodate,soan [307]
+mD,dochter,,,,IE305,abbink_frisian_nodate,dochter [307]
+mD,dochter,,,,IE307,kramer_wurdlist_1964,dochter [307]
+mD,dochter,,,,IE348,noauthor_talennet_nodate,dochter [307]
+mFF,pake,,,,IE305,abbink_frisian_nodate,pake [307]
+mFF,pake,,,,IE307,kramer_wurdlist_1964,pake [307]
+mFF,pake,,,,IE348,noauthor_talennet_nodate,pake [307]
+mFM,beppe,,,,IE305,abbink_frisian_nodate,beppe [307]
+mFM,beppe,,,,IE307,kramer_wurdlist_1964,beppe [307]
+mFM,beppe,,,,IE348,noauthor_talennet_nodate,beppe [307]
+mMF,pake,,,,IE305,abbink_frisian_nodate,pake [307]
+mMF,pake,,,,IE307,kramer_wurdlist_1964,pake [307]
+mMF,pake,,,,IE348,noauthor_talennet_nodate,pake [307]
+mMM,beppe,,,,IE305,abbink_frisian_nodate,beppe [307]
+mMM,beppe,,,,IE307,kramer_wurdlist_1964,beppe [307]
+mMM,beppe,,,,IE348,noauthor_talennet_nodate,beppe [307]
+mFB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mFB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mFB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mFB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mFB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mFB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mFZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+mFZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+mMB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mMB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mMB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mMB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mMB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mMB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mMZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+mMZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+mFeB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mFeB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mFeB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mFeB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mFeB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mFeB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mFyB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mFyB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mFyB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mFyB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mFyB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mFyB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mFeZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+mFeZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+mFyZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+mFyZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+mMeZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+mMeZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+mMyZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+mMyZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+mMeB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mMeB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mMeB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mMeB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mMeB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mMeB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mMyB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mMyB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mMyB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mMyB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+mMyB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+mMyB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+mBS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mBS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mBS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mBS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mBS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mBS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mBD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mBD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mBD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mBD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mBD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mBD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mZS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mZS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mZS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mZS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mZS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mZS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mZD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mZD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mZD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mZD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mZD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+mZD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meBS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meBS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meBS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meBS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meBS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meBS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myBS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myBS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myBS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myBS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myBS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myBS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meBD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meBD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meBD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meBD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meBD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meBD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myBD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myBD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myBD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myBD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myBD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myBD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meZS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meZS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meZS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meZS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meZS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meZS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myZS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myZS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myZS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myZS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myZS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myZS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meZD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meZD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meZD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meZD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+meZD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+meZD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myZD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myZD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myZD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myZD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+myZD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+myZD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+mFZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFeBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFeBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFeBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFyBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFyBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFyBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFeZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFeZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFeZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFyZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFyZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFyZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFeBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFeBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFeBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFyBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFyBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFyBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFeZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFeZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFeZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFyZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFyZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFyZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMeBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMeBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMeBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMyBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMyBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMyBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMeZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMeZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMeZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMyZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMyZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMyZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMeBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMeBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMeBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMyBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMyBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMyBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMeZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMeZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMeZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMyZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMyZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMyZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFBeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFBeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFBeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFByS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFByS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFByS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFZeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFZeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFZeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFZyS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mFZyS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mFZyS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mFBeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFBeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFBeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFByD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFByD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFByD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFZeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFZeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFZeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mFZyD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mFZyD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mFZyD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMBeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMBeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMBeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMByS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMByS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMByS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMZeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMZeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMZeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMZyS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+mMZyS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+mMZyS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+mMBeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMBeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMBeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMByD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMByD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMByD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMZeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMZeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMZeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mMZyD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+mMZyD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+mMZyD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+mH,man,,,,IE305,abbink_frisian_nodate,"man, keardel, kjirl, oare helte [307] (check this)"
+mH,man,,,,IE307,kramer_wurdlist_1964,"man, keardel, kjirl, oare helte [307] (check this)"
+mH,man,,,,IE348,noauthor_talennet_nodate,"man, keardel, kjirl, oare helte [307] (check this)"
+mW,frou,,,,IE305,abbink_frisian_nodate,frou [307]
+mW,frou,,,,IE307,kramer_wurdlist_1964,frou [307]
+mW,frou,,,,IE348,noauthor_talennet_nodate,frou [307]
+mHF,skwoan heit,,,,IE305,abbink_frisian_nodate,skoanheit [307]
+mHF,skwoan heit,,,,IE307,kramer_wurdlist_1964,skoanheit [307]
+mHF,skwoan heit,,,,IE348,noauthor_talennet_nodate,skoanheit [307]
+mHM,skwoan mem,,,,IE305,abbink_frisian_nodate,skoanmem [307]
+mHM,skwoan mem,,,,IE307,kramer_wurdlist_1964,skoanmem [307]
+mHM,skwoan mem,,,,IE348,noauthor_talennet_nodate,skoanmem [307]
+mWF,skwoan heit,,,,IE305,abbink_frisian_nodate,skoanheit [307]
+mWF,skwoan heit,,,,IE307,kramer_wurdlist_1964,skoanheit [307]
+mWF,skwoan heit,,,,IE348,noauthor_talennet_nodate,skoanheit [307]
+mWM,skwoan mem,,,,IE305,abbink_frisian_nodate,skoanmem [307]
+mWM,skwoan mem,,,,IE307,kramer_wurdlist_1964,skoanmem [307]
+mWM,skwoan mem,,,,IE348,noauthor_talennet_nodate,skoanmem [307]
+mZH,sweager,,,,IE305,abbink_frisian_nodate,sweager [307]
+mZH,sweager,,,,IE307,kramer_wurdlist_1964,sweager [307]
+mZH,sweager,,,,IE348,noauthor_talennet_nodate,sweager [307]
+mWB,sweager,,,,IE305,abbink_frisian_nodate,sweager [307]
+mWB,sweager,,,,IE307,kramer_wurdlist_1964,sweager [307]
+mWB,sweager,,,,IE348,noauthor_talennet_nodate,sweager [307]
+mHB,sweager,,,,IE305,abbink_frisian_nodate,sweager [307]
+mHB,sweager,,,,IE307,kramer_wurdlist_1964,sweager [307]
+mHB,sweager,,,,IE348,noauthor_talennet_nodate,sweager [307]
+mDH,skoan soan,,,,IE305,abbink_frisian_nodate,skoansoan [307]
+mDH,skoan soan,,,,IE307,kramer_wurdlist_1964,skoansoan [307]
+fB,broer,,,,IE305,abbink_frisian_nodate,broer [307]
+fB,broer,,,,IE307,kramer_wurdlist_1964,broer [307]
+fB,broer,,,,IE348,noauthor_talennet_nodate,broer [307]
+fZ,sus,,,,IE305,abbink_frisian_nodate,suster [307]
+fZ,sus,,,,IE307,kramer_wurdlist_1964,suster [307]
+fZ,sus,,,,IE348,noauthor_talennet_nodate,suster [307]
+fP,alder,,,,IE305,abbink_frisian_nodate,âlder [307]
+fP,alder,,,,IE307,kramer_wurdlist_1964,âlder [307]
+fF,heit,,,,IE305,abbink_frisian_nodate,"heit, faar [307] (check this)"
+fF,heit,,,,IE307,kramer_wurdlist_1964,"heit, faar [307] (check this)"
+fF,heit,,,,IE348,noauthor_talennet_nodate,"heit, faar [307] (check this)"
+fM,mem,,,,IE305,abbink_frisian_nodate,mem [307]
+fM,mem,,,,IE307,kramer_wurdlist_1964,mem [307]
+fM,mem,,,,IE348,noauthor_talennet_nodate,mem [307]
+fC,bern,,,,IE305,abbink_frisian_nodate,
+fC,bern,,,,IE348,noauthor_talennet_nodate,
+fS,soan,,,,IE305,abbink_frisian_nodate,soan [307]
+fS,soan,,,,IE307,kramer_wurdlist_1964,soan [307]
+fS,soan,,,,IE348,noauthor_talennet_nodate,soan [307]
+fD,dochter,,,,IE305,abbink_frisian_nodate,dochter [307]
+fD,dochter,,,,IE307,kramer_wurdlist_1964,dochter [307]
+fD,dochter,,,,IE348,noauthor_talennet_nodate,dochter [307]
+fFF,pake,,,,IE305,abbink_frisian_nodate,pake [307]
+fFF,pake,,,,IE307,kramer_wurdlist_1964,pake [307]
+fFF,pake,,,,IE348,noauthor_talennet_nodate,pake [307]
+fFM,beppe,,,,IE305,abbink_frisian_nodate,beppe [307]
+fFM,beppe,,,,IE307,kramer_wurdlist_1964,beppe [307]
+fFM,beppe,,,,IE348,noauthor_talennet_nodate,beppe [307]
+fMF,pake,,,,IE305,abbink_frisian_nodate,pake [307]
+fMF,pake,,,,IE307,kramer_wurdlist_1964,pake [307]
+fMF,pake,,,,IE348,noauthor_talennet_nodate,pake [307]
+fMM,beppe,,,,IE305,abbink_frisian_nodate,beppe [307]
+fMM,beppe,,,,IE307,kramer_wurdlist_1964,beppe [307]
+fMM,beppe,,,,IE348,noauthor_talennet_nodate,beppe [307]
+fFB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fFB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fFB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fFB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fFB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fFB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fFZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+fFZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+fMB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fMB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fMB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fMB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fMB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fMB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fMZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+fMZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+fFeB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fFeB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fFeB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fFeB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fFeB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fFeB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fFyB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fFyB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fFyB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fFyB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fFyB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fFyB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fFeZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+fFeZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+fFyZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+fFyZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+fMeZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+fMeZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+fMyZ,muoike,,,,IE307,kramer_wurdlist_1964,"muoike, muoije [307]; muoike [348]"
+fMyZ,muoike,,,,IE348,noauthor_talennet_nodate,"muoike, muoije [307]; muoike [348]"
+fMeB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fMeB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fMeB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fMeB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fMeB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fMeB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fMyB,omke,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fMyB,omke,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fMyB,omke,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fMyB,ome,,,,IE305,abbink_frisian_nodate,omke [307]; omke [348]
+fMyB,ome,,,,IE307,kramer_wurdlist_1964,omke [307]; omke [348]
+fMyB,ome,,,,IE348,noauthor_talennet_nodate,omke [307]; omke [348]
+fBS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fBS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fBS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fBS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fBS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fBS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fBD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fBD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fBD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fBD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fBD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fBD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fZS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fZS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fZS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fZS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fZS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fZS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fZD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fZD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fZD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fZD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fZD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fZD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feBS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feBS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feBS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feBS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feBS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feBS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyBS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyBS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyBS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyBS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyBS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyBS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feBD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feBD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feBD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feBD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feBD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feBD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyBD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyBD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyBD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyBD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyBD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyBD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feZS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feZS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feZS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feZS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feZS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feZS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyZS,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyZS,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyZS,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyZS,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyZS,neef,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyZS,neef,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feZD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feZD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feZD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feZD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+feZD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+feZD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyZD,omke,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyZD,omke,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyZD,tante sizzer,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyZD,tante sizzer,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fyZD,nicht,,,,IE305,abbink_frisian_nodate,"omkesizzer, muoikesizzer […][348]"
+fyZD,nicht,,,,IE307,kramer_wurdlist_1964,"omkesizzer, muoikesizzer […][348]"
+fFZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFeBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFeBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFeBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFyBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFyBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFyBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFeZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFeZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFeZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFyZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFyZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFyZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFeBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFeBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFeBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFyBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFyBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFyBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFeZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFeZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFeZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFyZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFyZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFyZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMeBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMeBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMeBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMyBS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMyBS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMyBS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMeZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMeZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMeZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMyZS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMyZS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMyZS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMeBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMeBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMeBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMyBD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMyBD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMyBD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMeZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMeZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMeZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMyZD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMyZD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMyZD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFBeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFBeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFBeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFByS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFByS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFByS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFZeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFZeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFZeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFZyS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fFZyS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fFZyS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fFBeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFBeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFBeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFByD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFByD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFByD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFZeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFZeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFZeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fFZyD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fFZyD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fFZyD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMBeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMBeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMBeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMByS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMByS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMByS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMZeS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMZeS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMZeS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMZyS,neef,,,,IE305,abbink_frisian_nodate,neef [307]
+fMZyS,neef,,,,IE307,kramer_wurdlist_1964,neef [307]
+fMZyS,neef,,,,IE348,noauthor_talennet_nodate,neef [307]
+fMBeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMBeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMBeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMByD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMByD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMByD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMZeD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMZeD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMZeD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fMZyD,nicht,,,,IE305,abbink_frisian_nodate,"nift, nicht [307]"
+fMZyD,nicht,,,,IE307,kramer_wurdlist_1964,"nift, nicht [307]"
+fMZyD,nicht,,,,IE348,noauthor_talennet_nodate,"nift, nicht [307]"
+fH,man,,,,IE305,abbink_frisian_nodate,"man, keardel, kjirl, oare helte [307] (check this)"
+fH,man,,,,IE307,kramer_wurdlist_1964,"man, keardel, kjirl, oare helte [307] (check this)"
+fH,man,,,,IE348,noauthor_talennet_nodate,"man, keardel, kjirl, oare helte [307] (check this)"
+fW,frou,,,,IE305,abbink_frisian_nodate,frou [307]
+fW,frou,,,,IE307,kramer_wurdlist_1964,frou [307]
+fW,frou,,,,IE348,noauthor_talennet_nodate,frou [307]
+fHF,skwoan heit,,,,IE305,abbink_frisian_nodate,skoanheit [307]
+fHF,skwoan heit,,,,IE307,kramer_wurdlist_1964,skoanheit [307]
+fHF,skwoan heit,,,,IE348,noauthor_talennet_nodate,skoanheit [307]
+fHM,skwoan mem,,,,IE305,abbink_frisian_nodate,skoanmem [307]
+fHM,skwoan mem,,,,IE307,kramer_wurdlist_1964,skoanmem [307]
+fHM,skwoan mem,,,,IE348,noauthor_talennet_nodate,skoanmem [307]
+fWF,skwoan heit,,,,IE305,abbink_frisian_nodate,skoanheit [307]
+fWF,skwoan heit,,,,IE307,kramer_wurdlist_1964,skoanheit [307]
+fWF,skwoan heit,,,,IE348,noauthor_talennet_nodate,skoanheit [307]
+fWM,skwoan mem,,,,IE305,abbink_frisian_nodate,skoanmem [307]
+fWM,skwoan mem,,,,IE307,kramer_wurdlist_1964,skoanmem [307]
+fWM,skwoan mem,,,,IE348,noauthor_talennet_nodate,skoanmem [307]
+fZH,sweager,,,,IE305,abbink_frisian_nodate,sweager [307]
+fZH,sweager,,,,IE307,kramer_wurdlist_1964,sweager [307]
+fZH,sweager,,,,IE348,noauthor_talennet_nodate,sweager [307]
+fWB,sweager,,,,IE305,abbink_frisian_nodate,sweager [307]
+fWB,sweager,,,,IE307,kramer_wurdlist_1964,sweager [307]
+fWB,sweager,,,,IE348,noauthor_talennet_nodate,sweager [307]
+fHB,sweager,,,,IE305,abbink_frisian_nodate,sweager [307]
+fHB,sweager,,,,IE307,kramer_wurdlist_1964,sweager [307]
+fHB,sweager,,,,IE348,noauthor_talennet_nodate,sweager [307]
+fDH,skoan soan,,,,IE305,abbink_frisian_nodate,skoansoan [307]
+fDH,skoan soan,,,,IE307,kramer_wurdlist_1964,skoansoan [307]

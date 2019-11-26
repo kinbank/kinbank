@@ -1,0 +1,91 @@
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,kian canam temun,,male ego's older brother,,,,"same.sex.sibling.1SG male big, root kia, adjectives elicited but not heard in free speech"
+myB,kian canam cicaun,,male ego's younger brother,,,,"same.sex.sibling.1SG male small, root kia, adjectives elicited but not heard in free speech"
+feB,dunan canam temun,,female ego's older brother,,,,"different.sex.sibling.1SG male big, root dun, adjectives elicited but not heard in free speech"
+fyB,dunan canam cicaun,,female ego's younger brother,,,,"different.sex.sibling.1SG male small, root dun, adjectives elicited but not heard in free speech"
+meZ,dunan pas temun,,male ego's older sister,,,,"different.sex.sibling.1SG female big, root dun, adjectives elicited but not heard in free speech"
+myZ,dunan pas cicaun,,male ego's younger sister,,,,"different.sex.sibling.1SG female small, root dun, adjectives elicited but not heard in free speech"
+feZ,kian pas temun,,female ego's older sister,,,,"same.sex.sibling.1SG female big, root kia, adjectives elicited but not heard in free speech"
+fyZ,kian pas cicaun,,female ego's younger sister,,,,"same.sex.sibling.1SG female small, root kia, adjectives elicited but not heard in free speech"
+mF,esa,,male ego's father,,,,father
+mM,ema,,male ego's mother,,,,mother
+fF,esa,,female ego's father,,,,father
+fM,ema,,female ego's mother,,,,mother
+mS,tumun canam,,male ego's son,,,,"child male, adjective optional"
+fS,tumun canam,,female ego's son,,,,"child male, adjective optional"
+mD,tumun pas,,male ego's daughter,,,,"child female, adjective optional"
+fD,tumun pas,,female ego's daughter,,,,"child female, adjective optional"
+mSS,taran canam,,male ego's son's son,,,,"grandchild.1SG male, root tara, adjective optional"
+mSD,taran pas,,male ego's son's daughter,,,,"granddchild.1SG female, root tara, adjective optional"
+mDS,taran canam,,male ego's daughter's son,,,,"grandchild.1SG male, root tara, adjective optional"
+mDD,taran pas,,male ego's daughter's daughter,,,,"granddchild.1SG female, root tara, adjective optional"
+fSS,taran canam,,female ego's son's son,,,,"grandchild.1SG male, root tara, adjective optional"
+fSD,taran pas,,female ego's son's daughter,,,,"granddchild.1SG female, root tara, adjective optional"
+fDS,taran canam,,female ego's daughter's son,,,,"grandchild.1SG male, root tara, adjective optional"
+fDD,taran pas,,female ego's daugher's daughter,,,,"granddchild.1SG female, root tara, adjective optional"
+mFF,tata,,male ego's father‘s father,"esnem, taran",,,grandfather
+mFM,nina,,male ego's father's mother,"enem, emnem, taran",,,grandmother
+mMF,tata,,male ego's mother's father,"esnem, taran",,,grandfather
+mMM,nina,,male ego's mother's mother,"enem, emnem, taran",,,grandmother
+fFF,tata,,female ego's father's father,"esnem, taran",,,grandfather
+fFM,nina,,female ego's father's mother,"enem, emnem, taran",,,grandmother
+fMF,tata,,female ego's mother's father,"esnem, taran",,,grandfather
+fMM,nina,,female ego's mother's mother,"enem, emnem, taran",,,grandmother
+meBS,tumun canam,,male ego's older brother's son,,,,"child male, adjective optional"
+myBS,tumun canam,,male ego's younger brother's son,,,,"child male, adjective optional"
+meZS,tumun canam,,male ego's older sister's son,,,,"child male, adjective optional"
+myZS,tumun canam,,male ego's younger sister's son,,,,"child male, adjective optional"
+meBD,tumun pas,,male ego's older brother's daughter,,,,"child female, adjective optional"
+myBD,tumun pas,,male ego's younger brother's daughter,,,,"child female, adjective optional"
+meZD,tumun pas,,male ego's older sister's daughter,,,,"child female, adjective optional"
+myZD,tumun pas,,male ego's younger sister's daughter,,,,"child female, adjective optional"
+feBS,tumun canam,,female ego's older brother's son,,,,"child male, adjective optional"
+fyBS,tumun canam,,female ego's younger brother's son,,,,"child male, adjective optional"
+feZS,tumun canam,,female ego's older sister's son,,,,"child male, adjective optional"
+fyZS,tumun canam,,female ego's younger sister's son,,,,"child male, adjective optional"
+feBD,tumun pas,,female ego's older brother's daughter,,,,"child female, adjective optional"
+fyBD,tumun pas,,female ego's younger brother's daughter,,,,"child female, adjective optional"
+feZD,tumun pas,,female ego's older sister's daughter,,,,"child female, adjective optional"
+fyZD,tumun pas,,female ego's younger sister's daughter,,,,"child female, adjective optional"
+mFeB,esa temun,,male ego's father's older brother,,,,uncle big
+mFyB,esa caun,,male ego's father's younger brother,,,,uncle small
+mFeZ,wowa temun,,male ego's father's older sister,ulan temun,,,aunt big
+mFyZ,wowa caun,,male ego's father's younger sister,ulan caun,,,aunt small
+mMeB,mama temun,,male ego's mother's older brother,,,,uncle big
+mMyB,mama caun,,male ego's mother's younger brother,,,,uncle small
+mMeZ,ema temun,,male ego's mother's older sister,,,,aunt big
+mMyZ,ema caun,,male ego's mother's younger sister,,,,aunt small
+fFeB,esa temun,,female ego's father's older brother,,,,uncle big
+fFyB,ema caun,,female ego's father's younger brother,,,,uncle small
+fFeZ,wowa temun,,female ego's father's older sister,ulan temun,,,aunt big
+fFyZ,wowa caun,,female ego's father's younger sister,ulan caun,,,aunt small
+fMeB,mama temun,,female ego's mother's older brother,,,,uncle big
+fMyB,mama caun,,female ego's mother's younger brother,,,,uncle small
+fMeZ,ema temun,,female ego's mother's older sister,,,,aunt big
+fMyZ,ema caun,,female ego's mother's younger sister,,,,aunt small
+mW,kian,,male ego's wife,,,,"wife.1SG, root kiar"
+fH,naman,,female ego‘s husband,,,,"husband.1SG, root nam"
+mDH,ketan canam,,male ego's daughter's husband,,,,child.in.law.1SG male
+fDH,ketan canam,,female ego's daughter's husband,,,,child.in.law.1SG male
+mSW,ketan pas,,male ego's son's wife,,,,child.in.law.1SG female
+fSW,ketan pas,,female ego's son's wife,,,,child.in.law.1SG female
+mWF,ketan,,male ego's wife's father,esa,,,"parent.in.law.1SG, ketan is term of reference, esa is term of address"
+mWM,ketan,,male ego's wife's mother,ema,,,"parent.in.law.1SG, ketan is term of reference, ema is term of address"
+fHF,ketan,,female ego's husband's father,esa,,,"parent.in.law.1SG, ketan is term of reference, esa is term of address"
+fHM,ketan,,female ego's husband's mother,ema,,,"parent.in.law.1SG, ketan is term of reference, ema is term of address"
+mFBS,kian,,male ego's father's brother's son,,,,"ss.parallel.cousin.1SG, root kia"
+mFZS,korawan,,male ego's father's sister's son,,,,"cross.cousin.1SG, root korap"
+mMBS,korawan,,male ego's mother's brother's son,,,,cross.cousin.1SG
+mMZS,kian,,male ego's mother's sister's son,,,,ss.parallel.cousin.1SG
+mFBD,dudanan,,male ego's father's brother's daughter,,,,"ds.parallel.cousin.1SG, root dudan"
+mFZD,korawan,,male ego's father's sister's daughter,,,,cross.cousin.1SG
+mMBD,korawan,,male ego's mother's brother's daughter,,,,cross.cousin.1SG
+mMZD,dudanan,,male ego's mother's sister's daughter,,,,ds.parallel.cousin.1SG
+fFBS,dudanan,,female ego's father's brother's son,,,,ds.parallel.cousin.1SG
+fFZS,korawan,,female ego's father's sister's son,,,,cross.cousin.1SG
+fMBS,korawan,,female ego's mother's brother's son,,,,cross.cousin.1SG
+fMZS,dudanan,,female ego's mother's sister's son,,,,ds.parallel.cousin.1SG
+fFBD,kian,,female ego's father's brother's daughter,,,,ss.parallel.cousin.1SG
+fFZD,korawan,,female ego's father's sister's daughter,,,,cross.cousin.1SG
+fMBD,korawan,,female ego's mother's brother's daughter,,,,cross.cousin.1SG
+fMZD,kian,,female ego's mother's sister's daughter,,,,ss.parallel.cousin.1SG
