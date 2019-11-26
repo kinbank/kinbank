@@ -4,7 +4,26 @@ Kinbank (Parabank & Varikin)
 This repository contains the merged data from [Varikin](https://github.com/SamPassmore/kinbank) and [Parabank](https://github.com/parabank/parabank-kinship-data)
 
 
+To add a new language:
+----------------------
 
+1. Add it to ./etc/languages.csv
+
+2. Add a new csv file into ./raw/, using this format:
+
+```csv:
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+```
+
+3. Add the reference into ./raw/sources.bib
+
+4. Regenerate CLDF:
+
+Run this shell command:
+
+```shell
+make cldf
+```
 
 To Generate a Combined CLDF dataset:
 ------------------------------------
