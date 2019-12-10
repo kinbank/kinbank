@@ -3,8 +3,11 @@ GLOTTOLOG=v4.0
 CONCEPTICON=v2.2.0
 
 # define repositories:
-PARABANK=https://github.com/parabank/parabank-kinship-data
-VARIKIN=https://github.com/SamPassmore/kinbank
+PARABANK_REPO=https://github.com/parabank/parabank-kinship-data
+VARIKIN_REPO=https://github.com/SamPassmore/kinbank
+
+VARIKIN=raw/varikin
+PARABANK=raw/parabank
 
 help:
 	@echo "1. Run 'make install' to install the python requirements"
@@ -18,23 +21,23 @@ env:
 	./env/bin/python ./env/bin/pip3 install -r requirements.txt
 
 # install data from kinbank
-raw/varikin:
+$(VARIKIN):
 	mkdir -p raw
-	git clone $(VARIKIN) $@
+	git clone $(VARIKIN_REPO) $@
 
 # install data from parabank
-raw/parabank:
+$(PARABANK):
 	mkdir -p raw
-	git clone $(PARABANK) $@
+	git clone $(PARABANK_REPO) $@
 
 # Install kinbank into venv
 install: env
 	cd kinbank && ../env/bin/python setup.py develop && cd ..
 
 # Clone and Update the data
-data: raw/kinbank raw/parabank
-	cd raw/kinbank && git pull
-	cd raw/parabank && git pull
+data: $(VARIKIN) $(PARABANK)
+	cd $(VARIKIN) && git pull
+	cd $(PARABANK) && git pull
 
 #  merge datasets into kinbank
 merge: env
