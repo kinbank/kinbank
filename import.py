@@ -308,7 +308,9 @@ if __name__ == '__main__':
             
             ds.write(outputdir)
             
-            lid = "%s_%s_%d" % (dlabel[0], ds.glottocode, language_id)
+            lid = "%s_%s" % (dlabel[0], ds.newlabel)
+            assert lid not in languages, 'Language ID clash - %s' % lid
+            
             # store language details
             languages[lid] = {
                 'ID': lid,
