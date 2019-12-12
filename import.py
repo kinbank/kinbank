@@ -68,6 +68,7 @@ FAMILIES = [
 GLOTTOLOG_CODE_UPDATE = {
     'itsa1239': 'icar1234',
     'east2283': 'nucl1235',
+    'ngar1286': 'yinh1234',
 }
 
 

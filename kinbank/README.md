@@ -15,8 +15,6 @@
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Ngarla on the Ashburton river south of the Hamersley range [ngar1286](http://glottolog.org/resource/languoid/id/ngar1286)
 
 
 - Entries missing sources: 56988/181396 (31.42%)
