@@ -4,7 +4,7 @@ CONCEPTICON=v2.2.0
 
 # define repositories:
 PARABANK_REPO=https://github.com/parabank/parabank-kinship-data
-VARIKIN_REPO=https://github.com/SamPassmore/kinbank
+VARIKIN_REPO=https://github.com/SamPassmore/varikin-kinbank
 
 VARIKIN=raw/varikin
 PARABANK=raw/parabank
