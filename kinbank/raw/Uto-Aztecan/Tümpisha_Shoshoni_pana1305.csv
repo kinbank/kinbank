@@ -1,5 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mZ,samoppu,,,,,,
 meB,papi,,,,UTO16(428),dayley_tumpisa_1989,
 myB,tami(ttsi),,,,UTO16(428),dayley_tumpisa_1989,
 meZ,patsi,,,,UTO16(490),dayley_tumpisa_1989,
@@ -13,9 +12,7 @@ mD,paitu,,,,UTO16(438),dayley_tumpisa_1989,
 mD,petü,,,,UTO16(438),dayley_tumpisa_1989,
 mA,tünna'a,,,,UTO16(420),dayley_tumpisa_1989,
 mFF,künu,,,,UTO16(452),dayley_tumpisa_1989,
-mFM,huttsi,,,,,,
 mMF,toko,,,,UTO16(452),dayley_tumpisa_1989,
-mMM,kaku,,,,,,
 mSS,künu (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
 mSD,künu (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
 mDS,toko (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
@@ -23,13 +20,8 @@ mDD,toko (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
 mFB,tsukuna,,,,UTO16(505),dayley_tumpisa_1989,
 mFZ,pahwa,,,,UTO16(422),dayley_tumpisa_1989,
 mMB,piasamoppu,,,,UTO16(505),dayley_tumpisa_1989,
-mMB,atapu,,,,,,
 mMZ,tokkwapu,,,,UTO16(422),dayley_tumpisa_1989,
 mMZ,tokkwattsi,,,,UTO16(422),dayley_tumpisa_1989,
-mBS,tuittsi,,,,,,UTO16(471)
-mBD,tokompia,,,,,,UTO16(471)
-mZS,ata,,,,,,UTO16(471)
-mZD,ata,,,,,,UTO16(471)
 mFZD,samoppu,,,,UTO16(436),dayley_tumpisa_1989,
 mFBD,samoppu,,,,UTO16(436),dayley_tumpisa_1989,
 mMBD,samoppu,,,,UTO16(436),dayley_tumpisa_1989,
@@ -51,7 +43,6 @@ mW,pünnahapi(ttsi),,,,UTO16(510),dayley_tumpisa_1989,
 mHF,yaippu,,,,UTO16(445),dayley_tumpisa_1989,
 mHM,yaippu,,,,UTO16(469),dayley_tumpisa_1989,
 mWF,yaippu,,,,UTO16(445),dayley_tumpisa_1989,
-mWM,yaippu,,,,,,
 mBW,osampia,,,,UTO16(490),dayley_tumpisa_1989,
 mZH,nanto'e,,,,UTO16(422),dayley_tumpisa_1989,
 mWB,nanto'e,,,,UTO16(422),dayley_tumpisa_1989,
@@ -78,17 +69,7 @@ mMeZ,tokkwattsi,,,,UTO16(422),dayley_tumpisa_1989,Inferred; NA
 mMyZ,tokkwapu,,,,UTO16(422),dayley_tumpisa_1989,Inferred; NA
 mMyZ,tokkwattsi,,,,UTO16(422),dayley_tumpisa_1989,Inferred; NA
 mMeB,piasamoppu,,,,UTO16(505),dayley_tumpisa_1989,Inferred; NA
-mMeB,atapu,,,,,,Inferred; NA
 mMyB,piasamoppu,,,,UTO16(505),dayley_tumpisa_1989,Inferred; NA
-mMyB,atapu,,,,,,Inferred; NA
-meBS,tuittsi,,,,,,Inferred; UTO16(471)
-myBS,tuittsi,,,,,,Inferred; UTO16(471)
-meBD,tokompia,,,,,,Inferred; UTO16(471)
-myBD,tokompia,,,,,,Inferred; UTO16(471)
-meZS,ata,,,,,,Inferred; UTO16(471)
-myZS,ata,,,,,,Inferred; UTO16(471)
-meZD,ata,,,,,,Inferred; UTO16(471)
-myZD,ata,,,,,,Inferred; UTO16(471)
 mFeBS,tangumpua,,,,UTO16(436),dayley_tumpisa_1989,Inferred; NA
 mFyBS,tangumpua,,,,UTO16(436),dayley_tumpisa_1989,Inferred; NA
 mFeZS,tangumpua,,,,UTO16(436),dayley_tumpisa_1989,Inferred; NA
@@ -128,9 +109,7 @@ fD,paitu,,,,UTO16(438),dayley_tumpisa_1989,
 fD,petü,,,,UTO16(438),dayley_tumpisa_1989,
 fA,tünna'a,,,,UTO16(420),dayley_tumpisa_1989,
 fFF,künu,,,,UTO16(452),dayley_tumpisa_1989,
-fFM,huttsi,,,,,,
 fMF,toko,,,,UTO16(452),dayley_tumpisa_1989,
-fMM,kaku,,,,,,
 fSS,huttsi (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
 fSD,huttsi (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
 fDS,kaku (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
@@ -138,13 +117,8 @@ fDD,kaku (ttsi),,,,UTO16(452),dayley_tumpisa_1989,
 fFB,tsukuna,,,,UTO16(505),dayley_tumpisa_1989,
 fFZ,pahwa,,,,UTO16(422),dayley_tumpisa_1989,
 fMB,piasamoppu,,,,UTO16(505),dayley_tumpisa_1989,
-fMB,atapu,,,,,,
 fMZ,tokkwapu,,,,UTO16(422),dayley_tumpisa_1989,
 fMZ,tokkwattsi,,,,UTO16(422),dayley_tumpisa_1989,
-fBS,pahwa,,,,,,UTO16(471)
-fBD,pahwa,,,,,,UTO16(471)
-fZS,tuittsi,,,,,,UTO16(471)
-fZD,tokkwai(ttsi),,,,,,UTO16(471)
 fFZD,samoppu,,,,UTO16(436),dayley_tumpisa_1989,
 fFBD,samoppu,,,,UTO16(436),dayley_tumpisa_1989,
 fMBD,samoppu,,,,UTO16(436),dayley_tumpisa_1989,
@@ -166,7 +140,6 @@ fW,pünnahapi(ttsi),,,,UTO16(510),dayley_tumpisa_1989,
 fHF,yaippu,,,,UTO16(445),dayley_tumpisa_1989,
 fHM,yaippu,,,,UTO16(469),dayley_tumpisa_1989,
 fWF,yaippu,,,,UTO16(445),dayley_tumpisa_1989,
-fWM,yaippu,,,,,,
 fBW,pahompia,,,,UTO16(490),dayley_tumpisa_1989,
 fZH,osampia,,,,UTO16(422),dayley_tumpisa_1989,
 fWB,nanto'e,,,,UTO16(422),dayley_tumpisa_1989,
@@ -193,17 +166,7 @@ fMeZ,tokkwattsi,,,,UTO16(422),dayley_tumpisa_1989,Inferred; NA
 fMyZ,tokkwapu,,,,UTO16(422),dayley_tumpisa_1989,Inferred; NA
 fMyZ,tokkwattsi,,,,UTO16(422),dayley_tumpisa_1989,Inferred; NA
 fMeB,piasamoppu,,,,UTO16(505),dayley_tumpisa_1989,Inferred; NA
-fMeB,atapu,,,,,,Inferred; NA
 fMyB,piasamoppu,,,,UTO16(505),dayley_tumpisa_1989,Inferred; NA
-fMyB,atapu,,,,,,Inferred; NA
-feBS,pahwa,,,,,,Inferred; UTO16(471)
-fyBS,pahwa,,,,,,Inferred; UTO16(471)
-feBD,pahwa,,,,,,Inferred; UTO16(471)
-fyBD,pahwa,,,,,,Inferred; UTO16(471)
-feZS,tuittsi,,,,,,Inferred; UTO16(471)
-fyZS,tuittsi,,,,,,Inferred; UTO16(471)
-feZD,tokkwai(ttsi),,,,,,Inferred; UTO16(471)
-fyZD,tokkwai(ttsi),,,,,,Inferred; UTO16(471)
 fFeBS,tangumpua,,,,UTO16(436),dayley_tumpisa_1989,Inferred; NA
 fFyBS,tangumpua,,,,UTO16(436),dayley_tumpisa_1989,Inferred; NA
 fFeZS,tangumpua,,,,UTO16(436),dayley_tumpisa_1989,Inferred; NA

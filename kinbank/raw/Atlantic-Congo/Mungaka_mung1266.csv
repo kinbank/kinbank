@@ -1,8 +1,22 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mZ,mon mingwi,,,,AC40(100),mcculloch_people_1954,
+mS,mon ma nko,,,,AC40(100),mcculloch_people_1954,
+mD,mon mingwi,,,,AC40(100),mcculloch_people_1954,
+mSS,mù̪n̊dzoed,,,,AC40(100),mcculloch_people_1954,
+mBS,mon mon ma mon ng-mbi,,,,AC40(100),mcculloch_people_1954,
+mW,mingwi,,,,AC40(100),mcculloch_people_1954,
+mWM,n-tsi,,,,AC40(100),mcculloch_people_1954,
+mWM,n-gom,,,,AC40(100),mcculloch_people_1954,
+mWB,mon ma ng-mbi,,,,AC40(100),mcculloch_people_1954,
+mWB,n-dup mon ma,,,,AC40(100),mcculloch_people_1954,
+mWB,ntsi,,,,AC40(100),mcculloch_people_1954,
+mWZ,mon ma ng-mbi,,,,AC40(100),mcculloch_people_1954,
+meBS,mon mon ma mon ng-mbi,,,,AC40(100),mcculloch_people_1954,Inferred; NA
+myBS,mon mon ma mon ng-mbi,,,,AC40(100),mcculloch_people_1954,Inferred; NA
+fH,n-gon,,,,AC40(100),mcculloch_people_1954,
 mG,mfa̤d,,,,AC10(81),stockle_mungaka_1992,I /think/ 'mfad' is singular and 'fad' is plural? But it could be the other way around? the text is a little unclear
 mB,mfa̤d,,,,AC10(33),stockle_mungaka_1992,
 mZ,mfa̤d,,,,AC10(81),stockle_mungaka_1992,I /think/ 'mfad' is singular and 'fad' is plural? But it could be the other way around? the text is a little unclear
-mZ,mon mingwi,,,,AC40(100),mcculloch_people_1954,
 meB,ni,,,,AC10(213),stockle_mungaka_1992,
 meB,nini,,,,AC10(248),stockle_mungaka_1992,
 meB,n̊ko̤sṳ,,,,AC10(298),stockle_mungaka_1992,also means 'eldest son'
@@ -15,14 +29,11 @@ mF,bàba,,,,AC10(34),stockle_mungaka_1992,also used as honourable address for a
 mF,ta,,,,AC10(343),stockle_mungaka_1992,used in compounds only'
 mM,nǎ,,,,AC10(123),stockle_mungaka_1992,"also 'ma᷅', 'in connection with the name of the child', AC10(177)"
 mC,mon,,,,AC10(3),stockle_mungaka_1992,
-mS,mon ma nko,,,,AC40(100),mcculloch_people_1954,
-mD,mon mingwi,,,,AC40(100),mcculloch_people_1954,
 mFF,dǒ,,,,AC10(59),stockle_mungaka_1992,
 mFM,kǎ,,,,AC10(108),stockle_mungaka_1992,
 mMF,dǒ,,,,AC10(59),stockle_mungaka_1992,
 mMM,kǎ,,,,AC10(108),stockle_mungaka_1992,
 mCC,mù̪n̊gwi,,,,AC10(55),stockle_mungaka_1992,
-mSS,mù̪n̊dzoed,,,,AC40(100),mcculloch_people_1954,
 mDS,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,
 mDD,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,
 mFB,nimbàn̊,,,,AC10(247),stockle_mungaka_1992,
@@ -37,21 +48,13 @@ mFyB,bambo̠d,,,,AC10(34),stockle_mungaka_1992,
 mFyB,bàbambo̠d,,,,AC10(34),stockle_mungaka_1992,
 mMeZ,nǎn̊guka̪d,,,,AC10(224),stockle_mungaka_1992,
 mMyZ,nǎmbo̠d,,,,AC10(224),stockle_mungaka_1992,
-mBS,mon mon ma mon ng-mbi,,,,AC40(100),mcculloch_people_1954,
 mZS,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,
 mZD,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,
 mH,ndum,,,,AC10(4),stockle_mungaka_1992,
 mW,n̊gwi,,,,AC10(4),stockle_mungaka_1992,
-mW,mingwi,,,,AC40(100),mcculloch_people_1954,
 mW,mfu',,,,AC10(202),stockle_mungaka_1992,glossed as 'female partner in marriage'
 mWF,ntsi,,,,AC10(262),stockle_mungaka_1992,
-mWM,n-tsi,,,,AC40(100),mcculloch_people_1954,
-mWM,n-gom,,,,AC40(100),mcculloch_people_1954,
 mWB,ntsi,,,,AC10(262),stockle_mungaka_1992,
-mWB,mon ma ng-mbi,,,,AC40(100),mcculloch_people_1954,
-mWB,n-dup mon ma,,,,AC40(100),mcculloch_people_1954,
-mWB,ntsi,,,,AC40(100),mcculloch_people_1954,
-mWZ,mon ma ng-mbi,,,,AC40(100),mcculloch_people_1954,
 mHZ,mân̊na,,,,AC10(181),stockle_mungaka_1992,
 mHZ,tǎn̊gwi,,,,AC10(181),stockle_mungaka_1992,
 mMH(notF),bakân̊nsà',,,,AC10(34),stockle_mungaka_1992,"glossed as ""father caring for another's child"""
@@ -62,8 +65,6 @@ mFyZ,mân̊na,,,,AC10(181),stockle_mungaka_1992,Inferred; NA
 mFyZ,tǎn̊gwi,,,,AC10(181),stockle_mungaka_1992,Inferred; NA
 mMeB,nimbàn̊,,,,AC10(247),stockle_mungaka_1992,Inferred; NA
 mMyB,nimbàn̊,,,,AC10(247),stockle_mungaka_1992,Inferred; NA
-meBS,mon mon ma mon ng-mbi,,,,AC40(100),mcculloch_people_1954,Inferred; NA
-myBS,mon mon ma mon ng-mbi,,,,AC40(100),mcculloch_people_1954,Inferred; NA
 meZS,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,Inferred; NA
 myZS,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,Inferred; NA
 meZD,mu̪ndzàd,,,,AC10(216),stockle_mungaka_1992,Inferred; NA
@@ -101,7 +102,6 @@ fFyB,bàbambo̠d,,,,AC10(34),stockle_mungaka_1992,
 fMeZ,nǎn̊guka̪d,,,,AC10(224),stockle_mungaka_1992,
 fMyZ,nǎmbo̠d,,,,AC10(224),stockle_mungaka_1992,
 fH,ndum,,,,AC10(4),stockle_mungaka_1992,
-fH,n-gon,,,,AC40(100),mcculloch_people_1954,
 fW,n̊gwi,,,,AC10(4),stockle_mungaka_1992,
 fW,mfu',,,,AC10(202),stockle_mungaka_1992,glossed as 'female partner in marriage'
 fHF,tadu,,,,AC10(343),stockle_mungaka_1992,

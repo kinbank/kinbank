@@ -1,127 +1,61 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,mwanamoe,,,,AC27(55),ardener_coastal_nodate,
 mG,mwanyango,,,,AC27(60),ardener_coastal_nodate,
-mB,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
-mB,ǹdomè,,,,AC19,ardener_mopkwe_2007,brother to sister
 mB,mwanamoe,,,,AC27(55),ardener_coastal_nodate,
-mZ,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
-mZ,ǹdomè,,,,AC19,ardener_mopkwe_2007,sister to brother
 mZ,mwanamoe,,,,AC27(55),ardener_coastal_nodate,
-meB,mólúlu,,,,AC67(103),kagaya_classified_1992,
-meB,waólúlu,,,,AC67(103),kagaya_classified_1992,
-myB,enongoni,,,,AC67(103),kagaya_classified_1992,
-myB,wenongoni,,,,AC67(103),kagaya_classified_1992,
-meZ,mólúlu,,,,AC67(103),kagaya_classified_1992,
-meZ,waólúlu,,,,AC67(103),kagaya_classified_1992,
-myZ,enongoni,,,,AC67(103),kagaya_classified_1992,
-myZ,wenongoni,,,,AC67(103),kagaya_classified_1992,
-mP,rángó-ámi na nyangó-ámi,,,,AC67(101),kagaya_classified_1992,
-mF,sango,,,,AC19,ardener_mopkwe_2007,
-mF,tatè,,,tatℇ,AC19,ardener_mopkwe_2007,
-mF,rángó,,,,AC67(101),kagaya_classified_1992,
-mM,nyángo,,,,AC19,ardener_mopkwe_2007,
-mM,iya,,,,AC19,ardener_mopkwe_2007,
-mM,iyáké,,,,AC19,ardener_mopkwe_2007,
-mM,iyé,,,iyℇ,AC19,ardener_mopkwe_2007,
-mM,jéjé,,,,AC19,ardener_mopkwe_2007,
-mC,ngwána,,,,AC18(20),hawkinson_bakweri_1986,
 mC,mwana,,,,AC27(55),ardener_coastal_nodate,
-mC,mmána,,,,AC67(102),kagaya_classified_1992,
 mS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,
 mS,munyana,,,,AC27(55),ardener_coastal_nodate,
-mS,mmána wa múnyána,,,,AC67(103),kagaya_classified_1992,
 mD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,
 mD,molana,,,,AC27(55),ardener_coastal_nodate,
-mD,mmána wa mólána,,,,AC67(103),kagaya_classified_1992,
 mPP,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
 mFF,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-mFF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
 mFM,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-mFM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
 mMF,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-mMF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
 mMM,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-mMM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
 mCC,mombamba,,,,AC27(55),ardener_coastal_nodate,
 mSS,mombamba,,,,AC27(55),ardener_coastal_nodate,
 mSD,mombamba,,,,AC27(55),ardener_coastal_nodate,
 mDS,mombamba,,,,AC27(55),ardener_coastal_nodate,
 mDD,mombamba,,,,AC27(55),ardener_coastal_nodate,
 mFB,tatℇ,,,,AC27(60),ardener_coastal_nodate,
-mFB,melá,,,,AC67(103),kagaya_classified_1992,
 mFZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,
-mFZ,atí,,,,AC67(103),kagaya_classified_1992,
-mMB,mólalo,,,,AC19,ardener_mopkwe_2007,
-mMB,móla,,,,AC19,ardener_mopkwe_2007,
 mMZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,
-mMZ,atí,,,,AC67(103),kagaya_classified_1992,
 mBS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,
-mBS,moláló,,,,AC67(103),kagaya_classified_1992,
 mBD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,
-mBD,mmányangó,,,,AC67(103),kagaya_classified_1992,
 mZS,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,
-mZS,moláló,,,,AC67(103),kagaya_classified_1992,
 mZD,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,
-mZD,mmányangó,,,,AC67(103),kagaya_classified_1992,
 mMBD,mola,,,,AC27(60),ardener_coastal_nodate,
 mMZD,mola,,,,AC27(60),ardener_coastal_nodate,
 mMBS,mola,,,,AC27(60),ardener_coastal_nodate,
 mMZS,mola,,,,AC27(60),ardener_coastal_nodate,
-mH,nyánà,,,,AC18(22),hawkinson_bakweri_1986,
-mH,munyanà,,,,AC19,ardener_mopkwe_2007,
 mH,munya,,,,AC27(60),ardener_coastal_nodate,
 mW,molia,,,,AC27(60),ardener_coastal_nodate,
-mW,molaná,,,,AC19,ardener_mopkwe_2007,
 mW,nyang'a mboka,,,,AC27(60),ardener_coastal_nodate,head-wife
 mHF,sangb'a liva,,,,AC27(60),ardener_coastal_nodate,
 mHF,mokia,,,,AC27(60),ardener_coastal_nodate,
 mHM,nyangb'a liva,,,,AC27(60),ardener_coastal_nodate,
 mHM,mokia,,,,AC27(60),ardener_coastal_nodate,
-mWF,mókía,,,,AC19,ardener_mopkwe_2007,
-mWM,mókía,,,,AC19,ardener_mopkwe_2007,
-mBW,mónyá,,,mony'a molana,AC19,ardener_mopkwe_2007,
-mZH,mónyá,,,mony'a munyana,AC19,ardener_mopkwe_2007,
 mWB,monya,,,mony'a munyana,AC27(56),ardener_coastal_nodate,
 mWZ,monya,,,mony'a molana,AC27(56),ardener_coastal_nodate,
 mco-W,mokoa,,,,AC27(60),ardener_coastal_nodate,subordinate wife
-mco-W,mbányí,,,,AC67(104),kagaya_classified_1992,
-mco-W,mólúlu wa mólána,,,,AC67(104),kagaya_classified_1992,eldest wife
-mco-W,mólána wa worô,,,,AC67(104),kagaya_classified_1992,first wife/principal
 mFW(notM),monya,,,,AC27(56),ardener_coastal_nodate,
 mSW,mot'a liva,,,,AC27(60),ardener_coastal_nodate,
 mDH,mokia,,,,AC27(56),ardener_coastal_nodate,
 mFeB,tatℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFeB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 mFyB,tatℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFyB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 mFeZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 mFyZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 mMeZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 mMyZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
-mMeB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
-mMeB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
-mMyB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
-mMyB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
 meBS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-meBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 myBS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-myBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 meBD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-meBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 myBD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-myBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 meZS,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-meZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 myZS,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-myZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 meZD,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-meZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 myZD,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-myZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 mMeBS,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 mMyBS,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 mMeZS,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
@@ -140,127 +74,61 @@ mMZeD,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 mMZyD,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 fG,mwanamoe,,,,AC27(55),ardener_coastal_nodate,
 fG,mwanyango,,,,AC27(60),ardener_coastal_nodate,
-fB,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
-fB,ǹdomè,,,,AC19,ardener_mopkwe_2007,brother to sister
 fB,mwanamoe,,,,AC27(55),ardener_coastal_nodate,
-fZ,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
-fZ,ǹdomè,,,,AC19,ardener_mopkwe_2007,sister to brother
 fZ,mwanamoe,,,,AC27(55),ardener_coastal_nodate,
-feB,mólúlu,,,,AC67(103),kagaya_classified_1992,
-feB,waólúlu,,,,AC67(103),kagaya_classified_1992,
-fyB,enongoni,,,,AC67(103),kagaya_classified_1992,
-fyB,wenongoni,,,,AC67(103),kagaya_classified_1992,
-feZ,mólúlu,,,,AC67(103),kagaya_classified_1992,
-feZ,waólúlu,,,,AC67(103),kagaya_classified_1992,
-fyZ,enongoni,,,,AC67(103),kagaya_classified_1992,
-fyZ,wenongoni,,,,AC67(103),kagaya_classified_1992,
-fP,rángó-ámi na nyangó-ámi,,,,AC67(101),kagaya_classified_1992,
-fF,sango,,,,AC19,ardener_mopkwe_2007,
-fF,tatè,,,tatℇ,AC19,ardener_mopkwe_2007,
-fF,rángó,,,,AC67(101),kagaya_classified_1992,
-fM,nyángo,,,,AC19,ardener_mopkwe_2007,
-fM,iya,,,,AC19,ardener_mopkwe_2007,
-fM,iyáké,,,,AC19,ardener_mopkwe_2007,
-fM,iyé,,,iyℇ,AC19,ardener_mopkwe_2007,
-fM,jéjé,,,,AC19,ardener_mopkwe_2007,
-fC,ngwána,,,,AC18(20),hawkinson_bakweri_1986,
 fC,mwana,,,,AC27(55),ardener_coastal_nodate,
-fC,mmána,,,,AC67(102),kagaya_classified_1992,
 fS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,
 fS,munyana,,,,AC27(55),ardener_coastal_nodate,
-fS,mmána wa múnyána,,,,AC67(103),kagaya_classified_1992,
 fD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,
 fD,molana,,,,AC27(55),ardener_coastal_nodate,
-fD,mmána wa mólána,,,,AC67(103),kagaya_classified_1992,
 fPP,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
 fFF,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-fFF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
 fFM,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-fFM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
 fMF,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-fMF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
 fMM,mbamba,,,mbambe,AC27(55),ardener_coastal_nodate,
-fMM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
 fCC,mombamba,,,,AC27(55),ardener_coastal_nodate,
 fSS,mombamba,,,,AC27(55),ardener_coastal_nodate,
 fSD,mombamba,,,,AC27(55),ardener_coastal_nodate,
 fDS,mombamba,,,,AC27(55),ardener_coastal_nodate,
 fDD,mombamba,,,,AC27(55),ardener_coastal_nodate,
 fFB,tatℇ,,,,AC27(60),ardener_coastal_nodate,
-fFB,melá,,,,AC67(103),kagaya_classified_1992,
 fFZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,
-fFZ,atí,,,,AC67(103),kagaya_classified_1992,
-fMB,mólalo,,,,AC19,ardener_mopkwe_2007,
-fMB,móla,,,,AC19,ardener_mopkwe_2007,
 fMZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,
-fMZ,atí,,,,AC67(103),kagaya_classified_1992,
 fBS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,
-fBS,moláló,,,,AC67(103),kagaya_classified_1992,
 fBD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,
-fBD,mmányangó,,,,AC67(103),kagaya_classified_1992,
 fZS,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,
-fZS,moláló,,,,AC67(103),kagaya_classified_1992,
 fZD,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,
-fZD,mmányangó,,,,AC67(103),kagaya_classified_1992,
 fMBD,mola,,,,AC27(60),ardener_coastal_nodate,
 fMZD,mola,,,,AC27(60),ardener_coastal_nodate,
 fMBS,mola,,,,AC27(60),ardener_coastal_nodate,
 fMZS,mola,,,,AC27(60),ardener_coastal_nodate,
-fH,nyánà,,,,AC18(22),hawkinson_bakweri_1986,
-fH,munyanà,,,,AC19,ardener_mopkwe_2007,
 fH,munya,,,,AC27(60),ardener_coastal_nodate,
 fW,molia,,,,AC27(60),ardener_coastal_nodate,
-fW,molaná,,,,AC19,ardener_mopkwe_2007,
 fW,nyang'a mboka,,,,AC27(60),ardener_coastal_nodate,head-wife
 fHF,sangb'a liva,,,,AC27(60),ardener_coastal_nodate,
 fHF,mokia,,,,AC27(60),ardener_coastal_nodate,
 fHM,nyangb'a liva,,,,AC27(60),ardener_coastal_nodate,
 fHM,mokia,,,,AC27(60),ardener_coastal_nodate,
-fWF,mókía,,,,AC19,ardener_mopkwe_2007,
-fWM,mókía,,,,AC19,ardener_mopkwe_2007,
-fBW,mónyá,,,mony'a molana,AC19,ardener_mopkwe_2007,
-fZH,mónyá,,,mony'a munyana,AC19,ardener_mopkwe_2007,
 fWB,monya,,,mony'a munyana,AC27(56),ardener_coastal_nodate,
 fWZ,monya,,,mony'a molana,AC27(56),ardener_coastal_nodate,
 fco-W,mokoa,,,,AC27(60),ardener_coastal_nodate,subordinate wife
-fco-W,mbányí,,,,AC67(104),kagaya_classified_1992,
-fco-W,mólúlu wa mólána,,,,AC67(104),kagaya_classified_1992,eldest wife
-fco-W,mólána wa worô,,,,AC67(104),kagaya_classified_1992,first wife/principal
 fFW(notM),monya,,,,AC27(56),ardener_coastal_nodate,
 fSW,mot'a liva,,,,AC27(60),ardener_coastal_nodate,
 fDH,mokia,,,,AC27(56),ardener_coastal_nodate,
 fFeB,tatℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFeB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fFyB,tatℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFyB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fFeZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fFyZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fMeZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fMyZ,iyℇ,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
-fMeB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
-fMeB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
-fMyB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
-fMyB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
 feBS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-feBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fyBS,mwan'a munyana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-fyBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 feBD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-feBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fyBD,mwan'a molana,,,,AC27(61),ardener_coastal_nodate,Inferred; NA
-fyBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 feZS,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-feZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fyZS,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-fyZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 feZD,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-feZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fyZD,mwan'ali,,,mwan'akali,AC27(56),ardener_coastal_nodate,Inferred; NA
-fyZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
 fMeBS,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 fMyBS,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 fMeZS,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
@@ -278,162 +146,294 @@ fMByD,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 fMZeD,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 fMZyD,mola,,,,AC27(60),ardener_coastal_nodate,Inferred; NA
 mFZD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-mFZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 mFBD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-mFBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 mMBD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-mMBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 mMZD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-mMZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 mFBS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-mFBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 mFZS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-mFZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 mMBS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-mMBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 mMZS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-mMZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 mFeBS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFeBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFyBS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFyBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFeZS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFeZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFyZS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFyZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFeBD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFeBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFyBD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFyBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFeZD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFeZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFyZD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFyZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMeBS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMeBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMyBS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMyBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMeZS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMeZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMyZS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMyZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMeBD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMeBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMyBD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMyBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMeZD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMeZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMyZD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMyZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFBeS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFBeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFByS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFByS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFZeS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFZeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFZyS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFZyS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFBeD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFBeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFByD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFByD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFZeD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFZeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mFZyD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mFZyD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMBeS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMBeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMByS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMByS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMZeS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMZeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMZyS,mwanyango,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMZyS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMBeD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMBeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMByD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMByD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMZeD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMZeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 mMZyD,ndomé,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-mMZyD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFZD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-fFZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 fFBD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-fFBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 fMBD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-fMBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 fMZD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,
-fMZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
 fFBS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-fFBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 fFZS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-fFZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 fMBS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-fMBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 fMZS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,
-fMZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
 fFeBS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFeBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFyBS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFyBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFeZS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFeZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFyZS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFyZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFeBD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFeBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFyBD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFyBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFeZD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFeZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFyZD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFyZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMeBS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMeBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMyBS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMyBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMeZS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMeZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMyZS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMyZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMeBD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMeBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMyBD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMyBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMeZD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMeZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMyZD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMyZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFBeS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFBeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFByS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFByS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFZeS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFZeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFZyS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFZyS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFBeD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFBeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFByD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFByD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFZeD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFZeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fFZyD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fFZyD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMBeS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMBeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMByS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMByS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMZeS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMZeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMZyS,ndomé,,,mwanyang'a munyana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMZyS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMBeD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMBeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMByD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMByD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMZeD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
-fMZeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMZyD,mwanyango,,,mwanyang'a molana,AC27(60),ardener_coastal_nodate,Inferred; NA
+mB,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
+mB,ǹdomè,,,,AC19,ardener_mopkwe_2007,brother to sister
+mZ,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
+mZ,ǹdomè,,,,AC19,ardener_mopkwe_2007,sister to brother
+mF,sango,,,,AC19,ardener_mopkwe_2007,
+mF,tatè,,,tatℇ,AC19,ardener_mopkwe_2007,
+mM,nyángo,,,,AC19,ardener_mopkwe_2007,
+mM,iya,,,,AC19,ardener_mopkwe_2007,
+mM,iyáké,,,,AC19,ardener_mopkwe_2007,
+mM,iyé,,,iyℇ,AC19,ardener_mopkwe_2007,
+mM,jéjé,,,,AC19,ardener_mopkwe_2007,
+mMB,mólalo,,,,AC19,ardener_mopkwe_2007,
+mMB,móla,,,,AC19,ardener_mopkwe_2007,
+mH,munyanà,,,,AC19,ardener_mopkwe_2007,
+mW,molaná,,,,AC19,ardener_mopkwe_2007,
+mWF,mókía,,,,AC19,ardener_mopkwe_2007,
+mWM,mókía,,,,AC19,ardener_mopkwe_2007,
+mBW,mónyá,,,mony'a molana,AC19,ardener_mopkwe_2007,
+mZH,mónyá,,,mony'a munyana,AC19,ardener_mopkwe_2007,
+mMeB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+mMeB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+mMyB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+mMyB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+fB,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
+fB,ǹdomè,,,,AC19,ardener_mopkwe_2007,brother to sister
+fZ,mwanyóngô,,,,AC19,ardener_mopkwe_2007,
+fZ,ǹdomè,,,,AC19,ardener_mopkwe_2007,sister to brother
+fF,sango,,,,AC19,ardener_mopkwe_2007,
+fF,tatè,,,tatℇ,AC19,ardener_mopkwe_2007,
+fM,nyángo,,,,AC19,ardener_mopkwe_2007,
+fM,iya,,,,AC19,ardener_mopkwe_2007,
+fM,iyáké,,,,AC19,ardener_mopkwe_2007,
+fM,iyé,,,iyℇ,AC19,ardener_mopkwe_2007,
+fM,jéjé,,,,AC19,ardener_mopkwe_2007,
+fMB,mólalo,,,,AC19,ardener_mopkwe_2007,
+fMB,móla,,,,AC19,ardener_mopkwe_2007,
+fH,munyanà,,,,AC19,ardener_mopkwe_2007,
+fW,molaná,,,,AC19,ardener_mopkwe_2007,
+fWF,mókía,,,,AC19,ardener_mopkwe_2007,
+fWM,mókía,,,,AC19,ardener_mopkwe_2007,
+fBW,mónyá,,,mony'a molana,AC19,ardener_mopkwe_2007,
+fZH,mónyá,,,mony'a munyana,AC19,ardener_mopkwe_2007,
+fMeB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+fMeB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+fMyB,mólalo,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+fMyB,móla,,,,AC19,ardener_mopkwe_2007,Inferred; NA
+mC,ngwána,,,,AC18(20),hawkinson_bakweri_1986,
+mH,nyánà,,,,AC18(22),hawkinson_bakweri_1986,
+fC,ngwána,,,,AC18(20),hawkinson_bakweri_1986,
+fH,nyánà,,,,AC18(22),hawkinson_bakweri_1986,
+meB,mólúlu,,,,AC67(103),kagaya_classified_1992,
+meB,waólúlu,,,,AC67(103),kagaya_classified_1992,
+myB,enongoni,,,,AC67(103),kagaya_classified_1992,
+myB,wenongoni,,,,AC67(103),kagaya_classified_1992,
+meZ,mólúlu,,,,AC67(103),kagaya_classified_1992,
+meZ,waólúlu,,,,AC67(103),kagaya_classified_1992,
+myZ,enongoni,,,,AC67(103),kagaya_classified_1992,
+myZ,wenongoni,,,,AC67(103),kagaya_classified_1992,
+mP,rángó-ámi na nyangó-ámi,,,,AC67(101),kagaya_classified_1992,
+mF,rángó,,,,AC67(101),kagaya_classified_1992,
+mC,mmána,,,,AC67(102),kagaya_classified_1992,
+mS,mmána wa múnyána,,,,AC67(103),kagaya_classified_1992,
+mD,mmána wa mólána,,,,AC67(103),kagaya_classified_1992,
+mFF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
+mFM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
+mMF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
+mMM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
+mFB,melá,,,,AC67(103),kagaya_classified_1992,
+mFZ,atí,,,,AC67(103),kagaya_classified_1992,
+mMZ,atí,,,,AC67(103),kagaya_classified_1992,
+mBS,moláló,,,,AC67(103),kagaya_classified_1992,
+mBD,mmányangó,,,,AC67(103),kagaya_classified_1992,
+mZS,moláló,,,,AC67(103),kagaya_classified_1992,
+mZD,mmányangó,,,,AC67(103),kagaya_classified_1992,
+mco-W,mbányí,,,,AC67(104),kagaya_classified_1992,
+mco-W,mólúlu wa mólána,,,,AC67(104),kagaya_classified_1992,eldest wife
+mco-W,mólána wa worô,,,,AC67(104),kagaya_classified_1992,first wife/principal
+mFeB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+mFyB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+mFeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+mFyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+mMeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+mMyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+meBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+myBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+meBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+myBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+meZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+myZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+meZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+myZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+feB,mólúlu,,,,AC67(103),kagaya_classified_1992,
+feB,waólúlu,,,,AC67(103),kagaya_classified_1992,
+fyB,enongoni,,,,AC67(103),kagaya_classified_1992,
+fyB,wenongoni,,,,AC67(103),kagaya_classified_1992,
+feZ,mólúlu,,,,AC67(103),kagaya_classified_1992,
+feZ,waólúlu,,,,AC67(103),kagaya_classified_1992,
+fyZ,enongoni,,,,AC67(103),kagaya_classified_1992,
+fyZ,wenongoni,,,,AC67(103),kagaya_classified_1992,
+fP,rángó-ámi na nyangó-ámi,,,,AC67(101),kagaya_classified_1992,
+fF,rángó,,,,AC67(101),kagaya_classified_1992,
+fC,mmána,,,,AC67(102),kagaya_classified_1992,
+fS,mmána wa múnyána,,,,AC67(103),kagaya_classified_1992,
+fD,mmána wa mólána,,,,AC67(103),kagaya_classified_1992,
+fFF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
+fFM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
+fMF,mbámbá ya rángó,,,,AC67(102),kagaya_classified_1992,
+fMM,mbámbá ya mólána,,,,AC67(102),kagaya_classified_1992,
+fFB,melá,,,,AC67(103),kagaya_classified_1992,
+fFZ,atí,,,,AC67(103),kagaya_classified_1992,
+fMZ,atí,,,,AC67(103),kagaya_classified_1992,
+fBS,moláló,,,,AC67(103),kagaya_classified_1992,
+fBD,mmányangó,,,,AC67(103),kagaya_classified_1992,
+fZS,moláló,,,,AC67(103),kagaya_classified_1992,
+fZD,mmányangó,,,,AC67(103),kagaya_classified_1992,
+fco-W,mbányí,,,,AC67(104),kagaya_classified_1992,
+fco-W,mólúlu wa mólána,,,,AC67(104),kagaya_classified_1992,eldest wife
+fco-W,mólána wa worô,,,,AC67(104),kagaya_classified_1992,first wife/principal
+fFeB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fFyB,melá,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fFeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fFyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fMeZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fMyZ,atí,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+feBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fyBS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+feBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fyBD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+feZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fyZS,moláló,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+feZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+fyZD,mmányangó,,,,AC67(103),kagaya_classified_1992,Inferred; NA
+mFZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+mFBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+mMBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+mMZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+mFBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+mFZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+mMBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+mMZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+mFeBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFyBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFeZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFyZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFeBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFyBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFeZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFyZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMeBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMyBS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMeZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMyZS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMeBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMyBD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMeZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMyZD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFBeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFByS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFZeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFZyS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFBeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFByD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFZeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mFZyD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMBeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMByS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMZeS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMZyS,mwanyango,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMBeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMByD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMZeD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+mMZyD,ndomé,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+fFBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+fMBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+fMZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,
+fFBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+fFZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+fMBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+fMZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,
+fFeBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFyBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFeZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFyZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFeBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFyBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFeZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFyZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMeBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMyBS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMeZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMyZS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMeBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMyBD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMeZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMyZD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFBeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFByS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFZeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFZyS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFBeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFByD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFZeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fFZyD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMBeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMByS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMZeS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMZyS,ndomé,,,mwanyang'a munyana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMBeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMByD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
+fMZeD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA
 fMZyD,mwanyango,,,mwanyang'a molana,AC67(103),kagaya_classified_1992,Inferred; NA

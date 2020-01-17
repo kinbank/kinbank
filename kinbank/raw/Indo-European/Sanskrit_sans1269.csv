@@ -1,13 +1,105 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,bhrātṛ,,,,DR7(33),karve_kinship_1968,
-mZ,svasṛ,,,,DR7(33),karve_kinship_1968,
-mZ,bhaginī,,,,DR7(33),karve_kinship_1968,
 meB,agraja,,,,IE98(48),bhargava_production_2009,
 myB,avaraja,,,,IE98(48),bhargava_production_2009,
 myB,anuja,,,,IE98(48),bhargava_production_2009,
 meZ,agrajā,,,,IE98(48),bhargava_production_2009,
 myZ,avarajā,,,,IE98(48),bhargava_production_2009,
 myZ,anujā,,,,IE98(48),bhargava_production_2009,
+mBS,bhrātriya,,,,IE98(48),bhargava_production_2009,
+mBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,
+mZS,svasrīya,,,,IE98(48),bhargava_production_2009,
+mZD,svasrīyā,,,,IE98(48),bhargava_production_2009,
+mFBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,
+mMBD,mātuleyī,,,,IE98(48),bhargava_production_2009,
+mFBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,
+mMBS,mātuleya,,,,IE98(48),bhargava_production_2009,
+mHF,shvashura,,,,IE98(48),bhargava_production_2009,
+mHM,shvashrū,,,,IE98(48),bhargava_production_2009,
+mWF,shvashura,,,,IE98(48),bhargava_production_2009,
+mWM,shvashrū,,,,IE98(48),bhargava_production_2009,
+mZH,āvutta,,,,IE98(48),bhargava_production_2009,
+mWB,śhyāla,,,,IE98(48),bhargava_production_2009,
+mWZ,shyālī,,,,IE98(48),bhargava_production_2009,
+mFBW,pitrvyā,,,,IE98(48),bhargava_production_2009,
+mMBW,mātulānī,,,,IE98(48),bhargava_production_2009,
+mMBW,mātulī,,,,IE98(48),bhargava_production_2009,
+mMBW,mātulā,,,,IE98(48),bhargava_production_2009,
+meBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+myBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+meBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+myBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+meZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+myZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+meZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+myZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFeBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFyBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFeBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFyBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMeBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMyBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMeBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMyBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFBeS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFByS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFBeD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mFByD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMBeS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMByS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMBeD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mMByD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+feB,agraja,,,,IE98(48),bhargava_production_2009,
+fyB,avaraja,,,,IE98(48),bhargava_production_2009,
+fyB,anuja,,,,IE98(48),bhargava_production_2009,
+feZ,agrajā,,,,IE98(48),bhargava_production_2009,
+fyZ,avarajā,,,,IE98(48),bhargava_production_2009,
+fyZ,anujā,,,,IE98(48),bhargava_production_2009,
+fBS,bhrātriya,,,,IE98(48),bhargava_production_2009,
+fBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,
+fZS,svasrīya,,,,IE98(48),bhargava_production_2009,
+fZD,svasrīyā,,,,IE98(48),bhargava_production_2009,
+fFBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,
+fMBD,mātuleyī,,,,IE98(48),bhargava_production_2009,
+fFBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,
+fMBS,mātuleya,,,,IE98(48),bhargava_production_2009,
+fHF,shvashura,,,,IE98(48),bhargava_production_2009,
+fHM,shvashrū,,,,IE98(48),bhargava_production_2009,
+fWF,shvashura,,,,IE98(48),bhargava_production_2009,
+fWM,shvashrū,,,,IE98(48),bhargava_production_2009,
+fZH,āvutta,,,,IE98(48),bhargava_production_2009,
+fWB,śhyāla,,,,IE98(48),bhargava_production_2009,
+fWZ,shyālī,,,,IE98(48),bhargava_production_2009,
+fFBW,pitrvyā,,,,IE98(48),bhargava_production_2009,
+fMBW,mātulānī,,,,IE98(48),bhargava_production_2009,
+fMBW,mātulī,,,,IE98(48),bhargava_production_2009,
+fMBW,mātulā,,,,IE98(48),bhargava_production_2009,
+feBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fyBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+feBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fyBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+feZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fyZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+feZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fyZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFeBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFyBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFeBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFyBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMeBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMyBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMeBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMyBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFBeS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFByS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFBeD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fFByD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMBeS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMByS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMBeD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+fMByD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
+mB,bhrātṛ,,,,DR7(33),karve_kinship_1968,
+mZ,svasṛ,,,,DR7(33),karve_kinship_1968,
+mZ,bhaginī,,,,DR7(33),karve_kinship_1968,
 mF,pitṛ,,,,DR7(33),karve_kinship_1968,(see notes p.[38])
 mF,tāta (tata),,,,DR7(33),karve_kinship_1968,(see notes p.[38])
 mF,pitā,,,,DR7(33),karve_kinship_1968,(see notes p.[38])
@@ -42,37 +134,29 @@ mMZ,mātṛṣvasṛ,,,,DR7(33),karve_kinship_1968,
 mBS,sūnu,,,,DR7(36),karve_kinship_1968,
 mBS,suta,,,,DR7(36),karve_kinship_1968,
 mBS,bhrātṛvya,,,,DR7(36),karve_kinship_1968,(no term for woman speaking; see notes p.[40])
-mBS,bhrātriya,,,,IE98(48),bhargava_production_2009,
 mBS,putra,,,,DR7(36),karve_kinship_1968,
 mBD,duhitṛ,,,,DR7(36),karve_kinship_1968,
 mBD,putrī,,,,DR7(36),karve_kinship_1968,
-mBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,
 mBD,sutā,,,,DR7(36),karve_kinship_1968,(no term for woman speaking)
-mZS,svasrīya,,,,IE98(48),bhargava_production_2009,
 mZD,bhāgineyī,,,,DR7(36),karve_kinship_1968,
-mZD,svasrīyā,,,,IE98(48),bhargava_production_2009,
 mFZD,pitṛṣvasrīya,,,,DR7(36),karve_kinship_1968,
 mFZD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,
 mFZD,svasṛ,,,,DR7(36),karve_kinship_1968,
 mFZD,bhaginī,,,,DR7(36),karve_kinship_1968,
 mFBD,bhaginī,,,,DR7(36),karve_kinship_1968,
-mFBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,
 mFBD,svasṛ,,,,DR7(36),karve_kinship_1968,
 mMBD,svasṛ,,,,DR7(36),karve_kinship_1968,
 mMBD,bhaginī,,,,DR7(36),karve_kinship_1968,
 mMBD,mātulakanyā,,,,DR7(36),karve_kinship_1968,
-mMBD,mātuleyī,,,,IE98(48),bhargava_production_2009,
 mMZD,svasṛ,,,,DR7(36),karve_kinship_1968,
 mMZD,bhaginī,,,,DR7(36),karve_kinship_1968,
 mMZD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,
 mFBS,bhrātṛ,,,,DR7(33),karve_kinship_1968,
-mFBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,
 mFZS,bhrātṛ,,,,DR7(33),karve_kinship_1968,
 mFZS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,
 mFZS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,
 mFZS,paitṛṣvaseya,,,,DR7(33),karve_kinship_1968,
 mMBS,bhrātṛ,,,,DR7(36),karve_kinship_1968,
-mMBS,mātuleya,,,,IE98(48),bhargava_production_2009,
 mMZS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,
 mH,pati,,,,DR7(37),karve_kinship_1968,
 mH,bhartṛ,,,,DR7(37),karve_kinship_1968,
@@ -81,37 +165,26 @@ mW,patnī,,,,DR7(37),karve_kinship_1968,
 mW,bhāryā,,,,DR7(37),karve_kinship_1968,
 mW,jāyā,,,,DR7(37),karve_kinship_1968,
 mHF,śvaśura,,,,DR7(36),karve_kinship_1968,
-mHF,shvashura,,,,IE98(48),bhargava_production_2009,
 mHF,ārya,,,,DR7(36),karve_kinship_1968,
 mHM,śvaśrū,,,,DR7(37),karve_kinship_1968,
-mHM,shvashrū,,,,IE98(48),bhargava_production_2009,
 mHM,ārya,,,,DR7(37),karve_kinship_1968,
 mWF,śvaśura,,,,DR7(36),karve_kinship_1968,
-mWF,shvashura,,,,IE98(48),bhargava_production_2009,
 mWF,ārya,,,,DR7(36),karve_kinship_1968,
 mWM,śvaśrū,,,,DR7(37),karve_kinship_1968,
-mWM,shvashrū,,,,IE98(48),bhargava_production_2009,
 mWM,ārya,,,,DR7(37),karve_kinship_1968,
 mBW,bhrātṛjāyā,,,,DR7(37),karve_kinship_1968,
 mZH,bhaginī-pati,,,,DR7(37),karve_kinship_1968,
-mZH,āvutta,,,,IE98(48),bhargava_production_2009,
 mWB,śyāla,,,,DR7(37),karve_kinship_1968,
-mWB,śhyāla,,,,IE98(48),bhargava_production_2009,
 mWB,śyālaka,,,,DR7(37),karve_kinship_1968,
 mWB,syāla,,,,DR7(37),karve_kinship_1968,
 mWZ,syālikā,,,,DR7(37),karve_kinship_1968,
 mWZ,syālī,,,,DR7(37),karve_kinship_1968,
-mWZ,shyālī,,,,IE98(48),bhargava_production_2009,
 mHB,devṛ,,,,DR7(37),karve_kinship_1968,
 mHB,devara,,,,DR7(37),karve_kinship_1968,
 mHZ,nanāndṛ,,,,DR7(37),karve_kinship_1968,
 mHZ,āryā,,,,DR7(37),karve_kinship_1968,
 mSW,snuṣā,,,,DR7(37),karve_kinship_1968,
 mDH,jāmātṛ,,,,DR7(37),karve_kinship_1968,
-mFBW,pitrvyā,,,,IE98(48),bhargava_production_2009,
-mMBW,mātulānī,,,,IE98(48),bhargava_production_2009,
-mMBW,mātulī,,,,IE98(48),bhargava_production_2009,
-mMBW,mātulā,,,,IE98(48),bhargava_production_2009,
 mFeB,pitṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFeB,tāta,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFeB,pitṛvya,,,,DR7(33),karve_kinship_1968,Inferred; NA
@@ -131,31 +204,21 @@ mMyB,māmaka,,,,DR7(33),karve_kinship_1968,Inferred; NA
 meBS,sūnu,,,,DR7(36),karve_kinship_1968,Inferred; NA
 meBS,suta,,,,DR7(36),karve_kinship_1968,Inferred; NA
 meBS,bhrātṛvya,,,,DR7(36),karve_kinship_1968,Inferred; (no term for woman speaking; see notes p.[40])
-meBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 meBS,putra,,,,DR7(36),karve_kinship_1968,Inferred; NA
 myBS,sūnu,,,,DR7(36),karve_kinship_1968,Inferred; NA
 myBS,suta,,,,DR7(36),karve_kinship_1968,Inferred; NA
 myBS,bhrātṛvya,,,,DR7(36),karve_kinship_1968,Inferred; (no term for woman speaking; see notes p.[40])
-myBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 myBS,putra,,,,DR7(36),karve_kinship_1968,Inferred; NA
 meBD,duhitṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 meBD,putrī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-meBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 meBD,sutā,,,,DR7(36),karve_kinship_1968,Inferred; (no term for woman speaking)
 myBD,duhitṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 myBD,putrī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-myBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 myBD,sutā,,,,DR7(36),karve_kinship_1968,Inferred; (no term for woman speaking)
-meZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
-myZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 meZD,bhāgineyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-meZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 myZD,bhāgineyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-myZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFeBS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-mFeBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFyBS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-mFyBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFeZS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFeZS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFeZS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
@@ -165,10 +228,8 @@ mFyZS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFyZS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFyZS,paitṛṣvaseya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFeBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mFeBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFeBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFyBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mFyBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFyBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFeZD,pitṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFeZD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -179,19 +240,15 @@ mFyZD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFyZD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFyZD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMeBS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMeBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMyBS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMyBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMeZS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMyZS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMeBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMeBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMeBD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMeBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMyBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMyBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMyBD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMyBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMeZD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMeZD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMeZD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -199,9 +256,7 @@ mMyZD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMyZD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMyZD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFBeS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-mFBeS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFByS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-mFByS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFZeS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFZeS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFZeS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
@@ -211,10 +266,8 @@ mFZyS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFZyS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFZyS,paitṛṣvaseya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 mFBeD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mFBeD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFBeD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFByD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mFByD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mFByD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFZeD,pitṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFZeD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -225,19 +278,15 @@ mFZyD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFZyD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mFZyD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMBeS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMBeS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMByS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMByS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMZeS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMZyS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMBeD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMBeD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMBeD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMBeD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMByD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMByD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMByD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-mMByD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 mMZeD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMZeD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 mMZeD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -247,12 +296,6 @@ mMZyD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fB,bhrātṛ,,,,DR7(33),karve_kinship_1968,
 fZ,svasṛ,,,,DR7(33),karve_kinship_1968,
 fZ,bhaginī,,,,DR7(33),karve_kinship_1968,
-feB,agraja,,,,IE98(48),bhargava_production_2009,
-fyB,avaraja,,,,IE98(48),bhargava_production_2009,
-fyB,anuja,,,,IE98(48),bhargava_production_2009,
-feZ,agrajā,,,,IE98(48),bhargava_production_2009,
-fyZ,avarajā,,,,IE98(48),bhargava_production_2009,
-fyZ,anujā,,,,IE98(48),bhargava_production_2009,
 fF,pitṛ,,,,DR7(33),karve_kinship_1968,(see notes p.[38])
 fF,tāta (tata),,,,DR7(33),karve_kinship_1968,(see notes p.[38])
 fF,pitā,,,,DR7(33),karve_kinship_1968,(see notes p.[38])
@@ -284,34 +327,26 @@ fMB,mātula,,,,DR7(33),karve_kinship_1968,
 fMB,māma,,,,DR7(33),karve_kinship_1968,
 fMB,māmaka,,,,DR7(33),karve_kinship_1968,
 fMZ,mātṛṣvasṛ,,,,DR7(33),karve_kinship_1968,
-fBS,bhrātriya,,,,IE98(48),bhargava_production_2009,
-fBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,
 fZS,bhāgineya,,,,DR7(36),karve_kinship_1968,
-fZS,svasrīya,,,,IE98(48),bhargava_production_2009,
 fZD,bhāgineyī,,,,DR7(36),karve_kinship_1968,
-fZD,svasrīyā,,,,IE98(48),bhargava_production_2009,
 fFZD,pitṛṣvasrīya,,,,DR7(36),karve_kinship_1968,
 fFZD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,
 fFZD,svasṛ,,,,DR7(36),karve_kinship_1968,
 fFZD,bhaginī,,,,DR7(36),karve_kinship_1968,
 fFBD,bhaginī,,,,DR7(36),karve_kinship_1968,
-fFBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,
 fFBD,svasṛ,,,,DR7(36),karve_kinship_1968,
 fMBD,svasṛ,,,,DR7(36),karve_kinship_1968,
 fMBD,bhaginī,,,,DR7(36),karve_kinship_1968,
 fMBD,mātulakanyā,,,,DR7(36),karve_kinship_1968,
-fMBD,mātuleyī,,,,IE98(48),bhargava_production_2009,
 fMZD,svasṛ,,,,DR7(36),karve_kinship_1968,
 fMZD,bhaginī,,,,DR7(36),karve_kinship_1968,
 fMZD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,
 fFBS,bhrātṛ,,,,DR7(33),karve_kinship_1968,
-fFBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,
 fFZS,bhrātṛ,,,,DR7(33),karve_kinship_1968,
 fFZS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,
 fFZS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,
 fFZS,paitṛṣvaseya,,,,DR7(33),karve_kinship_1968,
 fMBS,bhrātṛ,,,,DR7(36),karve_kinship_1968,
-fMBS,mātuleya,,,,IE98(48),bhargava_production_2009,
 fMZS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,
 fH,pati,,,,DR7(37),karve_kinship_1968,
 fH,bhartṛ,,,,DR7(37),karve_kinship_1968,
@@ -320,37 +355,26 @@ fW,patnī,,,,DR7(37),karve_kinship_1968,
 fW,bhāryā,,,,DR7(37),karve_kinship_1968,
 fW,jāyā,,,,DR7(37),karve_kinship_1968,
 fHF,śvaśura,,,,DR7(36),karve_kinship_1968,
-fHF,shvashura,,,,IE98(48),bhargava_production_2009,
 fHF,ārya,,,,DR7(36),karve_kinship_1968,
 fHM,śvaśrū,,,,DR7(37),karve_kinship_1968,
-fHM,shvashrū,,,,IE98(48),bhargava_production_2009,
 fHM,ārya,,,,DR7(37),karve_kinship_1968,
 fWF,śvaśura,,,,DR7(36),karve_kinship_1968,
-fWF,shvashura,,,,IE98(48),bhargava_production_2009,
 fWF,ārya,,,,DR7(36),karve_kinship_1968,
 fWM,śvaśrū,,,,DR7(37),karve_kinship_1968,
-fWM,shvashrū,,,,IE98(48),bhargava_production_2009,
 fWM,ārya,,,,DR7(37),karve_kinship_1968,
 fBW,bhrātṛ-jāyā,,,,DR7(37),karve_kinship_1968,
 fZH,bhaginī-pati,,,,DR7(37),karve_kinship_1968,
-fZH,āvutta,,,,IE98(48),bhargava_production_2009,
 fWB,śyāla,,,,DR7(37),karve_kinship_1968,
-fWB,śhyāla,,,,IE98(48),bhargava_production_2009,
 fWB,śyālaka,,,,DR7(37),karve_kinship_1968,
 fWB,syāla,,,,DR7(37),karve_kinship_1968,
 fWZ,syālikā,,,,DR7(37),karve_kinship_1968,
 fWZ,syālī,,,,DR7(37),karve_kinship_1968,
-fWZ,shyālī,,,,IE98(48),bhargava_production_2009,
 fHB,devṛ,,,,DR7(37),karve_kinship_1968,
 fHB,devara,,,,DR7(37),karve_kinship_1968,
 fHZ,nanāndṛ,,,,DR7(37),karve_kinship_1968,
 fHZ,āryā,,,,DR7(37),karve_kinship_1968,
 fSW,snuṣā,,,,DR7(37),karve_kinship_1968,
 fDH,jāmātṛ,,,,DR7(37),karve_kinship_1968,
-fFBW,pitrvyā,,,,IE98(48),bhargava_production_2009,
-fMBW,mātulānī,,,,IE98(48),bhargava_production_2009,
-fMBW,mātulī,,,,IE98(48),bhargava_production_2009,
-fMBW,mātulā,,,,IE98(48),bhargava_production_2009,
 fFeB,pitṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFeB,tāta,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFeB,pitṛvya,,,,DR7(33),karve_kinship_1968,Inferred; NA
@@ -367,22 +391,12 @@ fMeB,māmaka,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fMyB,mātula,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fMyB,māma,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fMyB,māmaka,,,,DR7(33),karve_kinship_1968,Inferred; NA
-feBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
-fyBS,bhrātriya,,,,IE98(48),bhargava_production_2009,Inferred; NA
-feBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
-fyBD,bhrātriyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 feZS,bhāgineya,,,,DR7(36),karve_kinship_1968,Inferred; NA
-feZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fyZS,bhāgineya,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fyZS,svasrīya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 feZD,bhāgineyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-feZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fyZD,bhāgineyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fyZD,svasrīyā,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFeBS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-fFeBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFyBS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-fFyBS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFeZS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFeZS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFeZS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
@@ -392,10 +406,8 @@ fFyZS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFyZS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFyZS,paitṛṣvaseya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFeBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fFeBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFeBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFyBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fFyBD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFyBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFeZD,pitṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFeZD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -406,19 +418,15 @@ fFyZD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFyZD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFyZD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMeBS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMeBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMyBS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMyBS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMeZS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMyZS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMeBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMeBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMeBD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMeBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMyBD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMyBD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMyBD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMyBD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMeZD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMeZD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMeZD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -426,9 +434,7 @@ fMyZD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMyZD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMyZD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFBeS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-fFBeS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFByS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
-fFByS,pitrvyaputra,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFZeS,bhrātṛ,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFZeS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFZeS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
@@ -438,10 +444,8 @@ fFZyS,pitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFZyS,paitṛṣvasrīya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFZyS,paitṛṣvaseya,,,,DR7(33),karve_kinship_1968,Inferred; NA
 fFBeD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fFBeD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFBeD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFByD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fFByD,pitrvyaputrī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fFByD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFZeD,pitṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFZeD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
@@ -452,19 +456,15 @@ fFZyD,paitṛṣvaseyī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFZyD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fFZyD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMBeS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMBeS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMByS,bhrātṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMByS,mātuleya,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMZeS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMZyS,mātṛṣvasrīya,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMBeD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMBeD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMBeD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMBeD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMByD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMByD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMByD,mātulakanyā,,,,DR7(36),karve_kinship_1968,Inferred; NA
-fMByD,mātuleyī,,,,IE98(48),bhargava_production_2009,Inferred; NA
 fMZeD,svasṛ,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMZeD,bhaginī,,,,DR7(36),karve_kinship_1968,Inferred; NA
 fMZeD,mātṛṣvaseyā,,,,DR7(36),karve_kinship_1968,Inferred; NA

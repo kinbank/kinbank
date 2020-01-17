@@ -1,29 +1,16 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,kihato,,,,AC49(11),hinde_vocabularies_1904,
 mB,m'ur'u wa maitu,,,,AC69(14),heynan_contrasting_2012,
-mZ,morua mwaiitu,,,,AC49(53),hinde_vocabularies_1904,
 mZ,mwar'i wa maitu,,,,AC69(14),heynan_contrasting_2012,
 meB,mokoro wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
 myB,moruna wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
 meZ,mokoro wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
 myZ,moruna wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
-mF,baba,,,,AC49(23),hinde_vocabularies_1904,
-mM,maiitu,,,,AC49(41),hinde_vocabularies_1904,
-mC,kana,,,,AC49(13),hinde_vocabularies_1904,
-mD,karegu,,,,AC49(27),hinde_vocabularies_1904,
-mA,muthuri,,,,AC49(21),hinde_vocabularies_1904,elder
-mFF,güüka,,,,AC49(29),hinde_vocabularies_1904,
-mFM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
-mMF,güüka,,,,AC49(29),hinde_vocabularies_1904,
-mMM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
 mCC,güüka,,,,AC69(13),heynan_contrasting_2012,
 mSS,güüka,,,,AC69(13),heynan_contrasting_2012,
 mSD,cucu,,,,AC69(13),heynan_contrasting_2012,
 mDS,güüka,,,,AC69(13),heynan_contrasting_2012,
 mDD,cucu,,,,AC69(13),heynan_contrasting_2012,
-mFB,mama,,,,AC49(63),hinde_vocabularies_1904,
 mFZ,tata,,,,AC69(14),heynan_contrasting_2012,
-mMB,mama,,,,AC49(63),hinde_vocabularies_1904,
 mMZ,tata,,,,AC69(13),heynan_contrasting_2012,
 mFeB,baba m'uk'ur'u,,,,AC69(13),heynan_contrasting_2012,
 mFyB,baba munyinyi,,,,AC69(13),heynan_contrasting_2012,
@@ -45,22 +32,17 @@ mFBeS,mwana wa baba m'uk'ur'u,,,,AC69(13),heynan_contrasting_2012,
 mFByS,mwana wa baba munyinyi,,,,AC69(13),heynan_contrasting_2012,
 mFBeD,mwana wa baba m'uk'ur'u,,,,AC69(13),heynan_contrasting_2012,
 mFByD,mwana wa baba munyinyi,,,,AC69(13),heynan_contrasting_2012,
-mH,murume,,,,AC49(33),hinde_vocabularies_1904,
 mW,m'utumia,,,,AC69(14),heynan_contrasting_2012,
-mHF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
 mHF,baba,,,,AC69(14),heynan_contrasting_2012,
 mHM,maito,,,,AC69(14),heynan_contrasting_2012,
-mWF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
 mWF,baba,,,,AC69(15),heynan_contrasting_2012,
 mWF,mothoni,,,,AC69(14),heynan_contrasting_2012,
 mWM,mothoni,,,,AC69(14),heynan_contrasting_2012,
 mWM,maitu,,,,AC69(15),heynan_contrasting_2012,
 mBW,muthoni,,,,AC69(14),heynan_contrasting_2012,
 mZH,muthoni,,,,AC69(14),heynan_contrasting_2012,
-mWB,murãta,,,,AC49(11),hinde_vocabularies_1904,
 mWB,mothoni,,,,AC69(14),heynan_contrasting_2012,
 mWZ,maramu,,,,AC69(14),heynan_contrasting_2012,
-mHB,murãta,,,,AC49(11),hinde_vocabularies_1904,
 mco-W,moiru,,,,AC69(13),heynan_contrasting_2012,
 mSW,muthoni,,,,AC69(14),heynan_contrasting_2012,
 mDH,muthoni,,,,AC69(14),heynan_contrasting_2012,
@@ -68,8 +50,6 @@ mFeZ,tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 mFyZ,tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 mMeZ,tata,,,,AC69(13),heynan_contrasting_2012,Inferred; NA
 mMyZ,tata,,,,AC69(13),heynan_contrasting_2012,Inferred; NA
-mMeB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
-mMyB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
 meBS,ciana ciakwa,,,,AC69(4),heynan_contrasting_2012,Inferred; NA
 meBS,mwana wa m'ur'u wa mait'u,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 myBS,ciana ciakwa,,,,AC69(4),heynan_contrasting_2012,Inferred; NA
@@ -110,31 +90,18 @@ mMBeD,mwana wa mama,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 mMByD,mwana wa mama,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 mMZeD,mwana wa tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 mMZyD,mwana wa tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
-fB,kihato,,,,AC49(11),hinde_vocabularies_1904,
 fB,m'ur'u wa maitu,,,,AC69(14),heynan_contrasting_2012,
-fZ,morua mwaiitu,,,,AC49(53),hinde_vocabularies_1904,
 fZ,mwar'i wa maitu,,,,AC69(14),heynan_contrasting_2012,
 feB,mokoro wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
 fyB,moruna wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
 feZ,mokoro wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
 fyZ,moruna wakwa,,,,AC69(13),heynan_contrasting_2012,possessive?
-fF,baba,,,,AC49(23),hinde_vocabularies_1904,
-fM,maiitu,,,,AC49(41),hinde_vocabularies_1904,
-fC,kana,,,,AC49(13),hinde_vocabularies_1904,
-fD,karegu,,,,AC49(27),hinde_vocabularies_1904,
-fA,muthuri,,,,AC49(21),hinde_vocabularies_1904,elder
-fFF,güüka,,,,AC49(29),hinde_vocabularies_1904,
-fFM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
-fMF,güüka,,,,AC49(29),hinde_vocabularies_1904,
-fMM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
 fCC,güüka,,,,AC69(13),heynan_contrasting_2012,
 fSS,güüka,,,,AC69(13),heynan_contrasting_2012,
 fSD,cucu,,,,AC69(13),heynan_contrasting_2012,
 fDS,güüka,,,,AC69(13),heynan_contrasting_2012,
 fDD,cucu,,,,AC69(13),heynan_contrasting_2012,
-fFB,mama,,,,AC49(63),hinde_vocabularies_1904,
 fFZ,tata,,,,AC69(14),heynan_contrasting_2012,
-fMB,mama,,,,AC49(63),hinde_vocabularies_1904,
 fMZ,tata,,,,AC69(13),heynan_contrasting_2012,
 fFeB,baba m'uk'ur'u,,,,AC69(13),heynan_contrasting_2012,
 fFyB,baba munyinyi,,,,AC69(13),heynan_contrasting_2012,
@@ -156,22 +123,17 @@ fFBeS,mwana wa baba m'uk'ur'u,,,,AC69(13),heynan_contrasting_2012,
 fFByS,mwana wa baba munyinyi,,,,AC69(13),heynan_contrasting_2012,
 fFBeD,mwana wa baba m'uk'ur'u,,,,AC69(13),heynan_contrasting_2012,
 fFByD,mwana wa baba munyinyi,,,,AC69(13),heynan_contrasting_2012,
-fH,murume,,,,AC49(33),hinde_vocabularies_1904,
 fW,m'utumia,,,,AC69(14),heynan_contrasting_2012,
-fHF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
 fHF,baba,,,,AC69(14),heynan_contrasting_2012,
 fHM,maito,,,,AC69(14),heynan_contrasting_2012,
-fWF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
 fWF,baba,,,,AC69(15),heynan_contrasting_2012,
 fWF,mothoni,,,,AC69(14),heynan_contrasting_2012,
 fWM,mothoni,,,,AC69(14),heynan_contrasting_2012,
 fWM,maitu,,,,AC69(15),heynan_contrasting_2012,
 fBW,muthoni,,,,AC69(14),heynan_contrasting_2012,
 fZH,muthoni,,,,AC69(14),heynan_contrasting_2012,
-fWB,murãta,,,,AC49(11),hinde_vocabularies_1904,
 fWB,mothoni,,,,AC69(14),heynan_contrasting_2012,
 fWZ,maramu,,,,AC69(14),heynan_contrasting_2012,
-fHB,murãta,,,,AC49(11),hinde_vocabularies_1904,
 fco-W,moiru,,,,AC69(13),heynan_contrasting_2012,
 fSW,muthoni,,,,AC69(14),heynan_contrasting_2012,
 fDH,muthoni,,,,AC69(14),heynan_contrasting_2012,
@@ -179,8 +141,6 @@ fFeZ,tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 fFyZ,tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 fMeZ,tata,,,,AC69(13),heynan_contrasting_2012,Inferred; NA
 fMyZ,tata,,,,AC69(13),heynan_contrasting_2012,Inferred; NA
-fMeB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
-fMyB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
 feBS,ciana ciakwa,,,,AC69(4),heynan_contrasting_2012,Inferred; NA
 feBS,mwana wa m'ur'u wa mait'u,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 fyBS,ciana ciakwa,,,,AC69(4),heynan_contrasting_2012,Inferred; NA
@@ -221,3 +181,43 @@ fMBeD,mwana wa mama,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 fMByD,mwana wa mama,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 fMZeD,mwana wa tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
 fMZyD,mwana wa tata,,,,AC69(14),heynan_contrasting_2012,Inferred; NA
+mB,kihato,,,,AC49(11),hinde_vocabularies_1904,
+mZ,morua mwaiitu,,,,AC49(53),hinde_vocabularies_1904,
+mF,baba,,,,AC49(23),hinde_vocabularies_1904,
+mM,maiitu,,,,AC49(41),hinde_vocabularies_1904,
+mC,kana,,,,AC49(13),hinde_vocabularies_1904,
+mD,karegu,,,,AC49(27),hinde_vocabularies_1904,
+mA,muthuri,,,,AC49(21),hinde_vocabularies_1904,elder
+mFF,güüka,,,,AC49(29),hinde_vocabularies_1904,
+mFM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
+mMF,güüka,,,,AC49(29),hinde_vocabularies_1904,
+mMM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
+mFB,mama,,,,AC49(63),hinde_vocabularies_1904,
+mMB,mama,,,,AC49(63),hinde_vocabularies_1904,
+mH,murume,,,,AC49(33),hinde_vocabularies_1904,
+mHF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
+mWF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
+mWB,murãta,,,,AC49(11),hinde_vocabularies_1904,
+mHB,murãta,,,,AC49(11),hinde_vocabularies_1904,
+mMeB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
+mMyB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
+fB,kihato,,,,AC49(11),hinde_vocabularies_1904,
+fZ,morua mwaiitu,,,,AC49(53),hinde_vocabularies_1904,
+fF,baba,,,,AC49(23),hinde_vocabularies_1904,
+fM,maiitu,,,,AC49(41),hinde_vocabularies_1904,
+fC,kana,,,,AC49(13),hinde_vocabularies_1904,
+fD,karegu,,,,AC49(27),hinde_vocabularies_1904,
+fA,muthuri,,,,AC49(21),hinde_vocabularies_1904,elder
+fFF,güüka,,,,AC49(29),hinde_vocabularies_1904,
+fFM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
+fMF,güüka,,,,AC49(29),hinde_vocabularies_1904,
+fMM,tchutchu,,,,AC49(29),hinde_vocabularies_1904,
+fFB,mama,,,,AC49(63),hinde_vocabularies_1904,
+fMB,mama,,,,AC49(63),hinde_vocabularies_1904,
+fH,murume,,,,AC49(33),hinde_vocabularies_1904,
+fHF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
+fWF,wathiomo,,,,AC49(23),hinde_vocabularies_1904,
+fWB,murãta,,,,AC49(11),hinde_vocabularies_1904,
+fHB,murãta,,,,AC49(11),hinde_vocabularies_1904,
+fMeB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA
+fMyB,mama,,,,AC49(63),hinde_vocabularies_1904,Inferred; NA

@@ -1,8 +1,5 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,kurta,,,,PN19(7),jones_grammar_2011,
-mB,papartu,,,,PN19(7),jones_grammar_2011,
 mZ,nyarrumpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mZ,jurtu,,,,PN19(7),jones_grammar_2011,
 meB,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 meB,papartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 meB,pupu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -10,101 +7,73 @@ myB,marlangu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myB,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myB,marlanypa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myB,marlatyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-myB,malaju,,,,PN19(7),jones_grammar_2011,
-myB,malangu,,,,PN19(7),jones_grammar_2011,
 meZ,tyurtu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myZ,marlangu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myZ,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myZ,marlanypa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myZ,marlatyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-myZ,malaju,,,,PN19(7),jones_grammar_2011,
-myZ,malangu,,,,PN19(7),jones_grammar_2011,
 mF,tati,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mF,tyapunyurra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mM,ipi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mM,mami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mM,tilypu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mM,yakurti,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mM,yipi,,,,PN19(8),jones_grammar_2011,
 mS,karli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mS,katin-katinpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mS,katya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mS,kaja,,,,PN19(7),jones_grammar_2011,
 mD,yurntalpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFF,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFF,jamu,,,,PN19(7),jones_grammar_2011,
 mFM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFM,yapayi,,,,PN19(7),jones_grammar_2011,
 mFM,nana,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFM,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMF,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMF,jamu,,,,PN19(7),jones_grammar_2011,
 mMM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMM,nana,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMM,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMM,yapayi,,,,PN19(7),jones_grammar_2011,
 mSS,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mSS,jamu,,,,PN19(7),jones_grammar_2011,
 mSD,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mSD,yapayi,,,,PN19(7),jones_grammar_2011,
-mSD,yaparli,,,,PN19(7),jones_grammar_2011,
 mDS,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mDS,jamu,,,,PN19(7),jones_grammar_2011,
 mDD,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mDD,yapayi,,,,PN19(7),jones_grammar_2011,
-mDD,yaparli,,,,PN19(7),jones_grammar_2011,
 mFZ,kurntili,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZ,umari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZ,wumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZ,yumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFZ,yaparli,,,,PN19(7),jones_grammar_2011,
 mMB,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMB,kamparnu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMB,waputyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMB,kalyarra,,,,PN3,bowern_austkin_nodate,from sex-specific terms
 mMB,waputyurra,,,,PN3,bowern_austkin_nodate,from sex-specific terms
 mMZ,yakurti,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMZ,yipi,,,,PN19(8),jones_grammar_2011,
-mBS,kaja,,,,PN19(7),jones_grammar_2011,
 mZS,karli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mZS,katya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mZS,puuyi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mZS,kalyarra,,,,PN3,bowern_austkin_nodate,from sex-specific terms
 mZS,waputyurra,,,,PN3,bowern_austkin_nodate,from sex-specific terms
-mZS,kaja,,,,PN19(7),jones_grammar_2011,
 mZD,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mZD,yurntalpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mZD,yurntal,,,,PN19(8),jones_grammar_2011,
 mFZD,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZD,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZD,yinkarni,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFZD,jamirti,,,,PN19(7),jones_grammar_2011,
 mFBD,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFBD,tyurtu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBD,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBD,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBD,yinkarni,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMBD,jamirti,,,,PN19(7),jones_grammar_2011,
 mMZD,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMZD,tyurtu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMZD,jurtu,,,,PN19(7),jones_grammar_2011,
 mFBS,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFBS,papartu,,,,PN19(7),jones_grammar_2011,
 mFZS,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZS,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZS,watyirra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFZS,jamirti,,,,PN19(7),jones_grammar_2011,
 mFZS,yungkuri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBS,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBS,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBS,watyirra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMBS,yungkuri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMBS,jamirti,,,,PN19(7),jones_grammar_2011,
 mMZS,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMZS,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mE,nyupa,,,,PN19(7),jones_grammar_2011,
 mH,kirta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mH,martungu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mH,nyukunu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -124,14 +93,10 @@ mHF,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mHM,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mWF,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mWM,wumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mWM,yumari,,,,PN19(8),jones_grammar_2011,
 mBW,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mZH,yungkuri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mWB,yungkuri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mWB,makurnta,,,,PN19(7),jones_grammar_2011,
-mWZ,nyupa,,,,PN19(7),jones_grammar_2011,
 mHZ,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mHZ,mantirri,,,,PN19(7),jones_grammar_2011,
 mSW,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mSW,yurntal,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mDH,katya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -141,16 +106,12 @@ mFeZ,kurntili,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin 
 mFeZ,umari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZ,wumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZ,yumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFyZ,kurntili,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZ,umari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZ,wumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZ,yumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMeZ,yakurti,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
 mMyZ,yakurti,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMyZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
 mMeB,kaka,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeB,kamparnu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeB,waputyu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -161,39 +122,29 @@ mMyB,kamparnu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin 
 mMyB,waputyu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyB,kalyarra,,,,PN3,bowern_austkin_nodate,Inferred; from sex-specific terms
 mMyB,waputyurra,,,,PN3,bowern_austkin_nodate,Inferred; from sex-specific terms
-meBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
-myBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
 meZS,karli,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 meZS,katya,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 meZS,puuyi,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 meZS,kalyarra,,,,PN3,bowern_austkin_nodate,Inferred; from sex-specific terms
 meZS,waputyurra,,,,PN3,bowern_austkin_nodate,Inferred; from sex-specific terms
-meZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
 myZS,karli,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 myZS,katya,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 myZS,puuyi,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 myZS,kalyarra,,,,PN3,bowern_austkin_nodate,Inferred; from sex-specific terms
 myZS,waputyurra,,,,PN3,bowern_austkin_nodate,Inferred; from sex-specific terms
-myZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
 meZD,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 meZD,yurntalpa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-meZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
 myZD,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 myZD,yurntalpa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-myZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
 mFeBS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFyBS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFeZS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFeZS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFyZS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeBD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeBD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -202,21 +153,17 @@ mFyBD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin d
 mFeZD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFyZD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMeBS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeBS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeBS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeBS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMyBS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyBS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyBS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyBS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMyBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMeZS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeZS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyZS,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -224,30 +171,22 @@ mMyZS,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMeBD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeBD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeBD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMyBD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyBD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyBD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMyBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMeZD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeZD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMyZD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyZD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMyZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFBeS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFBeS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFByS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFByS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFZeS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZeS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZeS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFZeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFZeS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZyS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZyS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZyS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFZyS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFZyS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFBeD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFBeD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -256,21 +195,17 @@ mFByD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin d
 mFZeD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZeD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZeD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFZeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mFZyD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZyD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZyD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFZyD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMBeS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMBeS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMBeS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMBeS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMBeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMByS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMByS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMByS,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMByS,yungkuri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMByS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMZeS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMZeS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMZyS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -278,21 +213,14 @@ mMZyS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin
 mMBeD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMBeD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMBeD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMBeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMByD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMByD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMByD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMByD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMZeD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMZeD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMZeD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mMZyD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMZyD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMZyD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fB,nyarrumpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fB,kurta,,,,PN19(7),jones_grammar_2011,
-fB,papartu,,,,PN19(7),jones_grammar_2011,
-fZ,jurtu,,,,PN19(7),jones_grammar_2011,
 feB,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 feB,papartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 feB,pupu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -300,74 +228,52 @@ fyB,marlangu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyB,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyB,marlanypa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyB,marlatyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fyB,malaju,,,,PN19(7),jones_grammar_2011,
-fyB,malangu,,,,PN19(7),jones_grammar_2011,
 feZ,tyurtu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyZ,marlangu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyZ,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyZ,marlanypa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fyZ,marlatyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fyZ,malaju,,,,PN19(7),jones_grammar_2011,
-fyZ,malangu,,,,PN19(7),jones_grammar_2011,
 fF,tati,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fF,tyapunyurra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fM,ipi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fM,mami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fM,tilypu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fM,yakurti,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fM,yipi,,,,PN19(8),jones_grammar_2011,
 fS,karli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fS,katin-katinpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fS,katya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fS,kaja,,,,PN19(7),jones_grammar_2011,
 fD,yurntalpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFF,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFF,jamu,,,,PN19(7),jones_grammar_2011,
 fFM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFM,yapayi,,,,PN19(7),jones_grammar_2011,
 fFM,nana,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFM,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMF,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMF,jamu,,,,PN19(7),jones_grammar_2011,
 fMM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMM,nana,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMM,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMM,yapayi,,,,PN19(7),jones_grammar_2011,
 fSS,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fSS,jamu,,,,PN19(7),jones_grammar_2011,
 fSD,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fSD,yapayi,,,,PN19(7),jones_grammar_2011,
-fSD,yaparli,,,,PN19(7),jones_grammar_2011,
 fDS,nyamu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fDS,jamu,,,,PN19(7),jones_grammar_2011,
 fDD,nyami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fDD,yapayi,,,,PN19(7),jones_grammar_2011,
-fDD,yaparli,,,,PN19(7),jones_grammar_2011,
 fFZ,kurntili,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZ,umari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZ,yumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFZ,yaparli,,,,PN19(7),jones_grammar_2011,
 fMB,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMB,kamparnu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMB,waputyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMZ,yakurti,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMZ,yipi,,,,PN19(8),jones_grammar_2011,
 fBS,karli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fBS,katya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fBS,puuyi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fBS,wumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fBS,kaja,,,,PN19(7),jones_grammar_2011,
 fBD,yurntalpa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fZS,kaja,,,,PN19(7),jones_grammar_2011,
 fZD,yurntal,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fZD,yurntal,,,,PN19(8),jones_grammar_2011,
 fFZD,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZD,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZD,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZD,watyirra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFZD,jamirti,,,,PN19(7),jones_grammar_2011,
 fFBD,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFBD,tyurtu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBD,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -375,25 +281,19 @@ fMBD,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBD,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBD,watyirra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBD,yinkarni,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMBD,jamirti,,,,PN19(7),jones_grammar_2011,
 fMZD,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMZD,tyurtu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMZD,jurtu,,,,PN19(7),jones_grammar_2011,
 fFBS,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFBS,papartu,,,,PN19(7),jones_grammar_2011,
 fFZS,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZS,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZS,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFZS,jamirti,,,,PN19(7),jones_grammar_2011,
 fFZS,yinkarni,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBS,makurnta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBS,makurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBS,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMBS,yinkarni,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMBS,jamirti,,,,PN19(7),jones_grammar_2011,
 fMZS,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMZS,marlanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fE,nyupa,,,,PN19(7),jones_grammar_2011,
 fH,kirta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fH,martungu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fH,nyukunu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -413,16 +313,12 @@ fHF,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fHM,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fWF,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fWM,wumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fWM,yumari,,,,PN19(8),jones_grammar_2011,
 fBW,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fZH,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fZH,yungkuri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fWB,watyirra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fWB,yungkuri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fWB,makurnta,,,,PN19(7),jones_grammar_2011,
-fHB,nyupa,,,,PN19(7),jones_grammar_2011,
 fHZ,tyuwari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fHZ,mantirri,,,,PN19(7),jones_grammar_2011,
 fSW,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fDH,marruku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fDH,umari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -430,15 +326,11 @@ fDH,wumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFeZ,kurntili,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZ,umari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZ,yumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFyZ,kurntili,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZ,umari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZ,yumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMeZ,yakurti,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
 fMyZ,yakurti,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMyZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
 fMeB,kaka,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeB,kamparnu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeB,waputyu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -449,33 +341,23 @@ feBS,karli,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin dat
 feBS,katya,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 feBS,puuyi,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 feBS,wumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-feBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fyBS,karli,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fyBS,katya,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fyBS,puuyi,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fyBS,wumari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fyBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
 feBD,yurntalpa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fyBD,yurntalpa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-feZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
-fyZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
 feZD,yurntal,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-feZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
 fyZD,yurntal,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fyZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
 fFeBS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFyBS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFeZS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFeZS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFyZS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeBD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeBD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -485,22 +367,18 @@ fFeZD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin
 fFeZD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFyZD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMeBS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeBS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeBS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeBS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMyBS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMyBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMeZS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeZS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyZS,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -510,32 +388,24 @@ fMeBD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin 
 fMeBD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeBD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeBD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMyBD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyBD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMyBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMeZD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeZD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMyZD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyZD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMyZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFBeS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFBeS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFByS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFByS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFZeS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZeS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZeS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFZeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFZeS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZyS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZyS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZyS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFZyS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFZyS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFBeD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFBeD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -545,22 +415,18 @@ fFZeD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin
 fFZeD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZeD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZeD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFZeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fFZyD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZyD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZyD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZyD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFZyD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMBeS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMBeS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMBeS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMBeS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMBeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMByS,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByS,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByS,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByS,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMByS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMZeS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMZeS,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMZyS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
@@ -570,92 +436,226 @@ fMBeD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin 
 fMBeD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMBeD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMBeD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMBeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMByD,makurnta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByD,makurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByD,tyuwari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByD,watyirra,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByD,yinkarni,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMByD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMZeD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMZeD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMZeD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 fMZyD,marlanku,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMZyD,tyurtu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMZyD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
 mF,mama,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mF,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 mD,yurntal,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
 mFM,yaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 mMM,yaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 mFB,mama,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFB,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 mMB,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMB,kamuru,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 mBD,yurntal,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mBD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
 mFBS,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFBS,kurta,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 mDH,yumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mDH,yumari,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
 mFeB,mama,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mFyB,mama,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mMeB,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mMyB,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMyB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 meBD,yurntal,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-meBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 myBD,yurntal,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-myBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mFeBS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mFyBS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mFBeS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFBeS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 mFByS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFByS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fF,mama,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fF,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 fD,yurntal,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
 fFM,yaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 fMM,yaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 fFB,mama,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFB,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 fMB,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMB,kamuru,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 fBD,yurntal,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fBD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
 fFBS,kurta,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFBS,kurta,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
 fDH,yumari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fDH,yumari,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
 fFeB,mama,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fFyB,mama,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fMeB,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fMyB,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMyB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 feBD,yurntal,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-feBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fyBD,yurntal,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fyBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fFeBS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fFyBS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fFBeS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFBeS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fFByS,kurta,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mB,kurta,,,,PN19(7),jones_grammar_2011,
+mB,papartu,,,,PN19(7),jones_grammar_2011,
+mZ,jurtu,,,,PN19(7),jones_grammar_2011,
+myB,malaju,,,,PN19(7),jones_grammar_2011,
+myB,malangu,,,,PN19(7),jones_grammar_2011,
+myZ,malaju,,,,PN19(7),jones_grammar_2011,
+myZ,malangu,,,,PN19(7),jones_grammar_2011,
+mM,yipi,,,,PN19(8),jones_grammar_2011,
+mS,kaja,,,,PN19(7),jones_grammar_2011,
+mFF,jamu,,,,PN19(7),jones_grammar_2011,
+mFM,yapayi,,,,PN19(7),jones_grammar_2011,
+mMF,jamu,,,,PN19(7),jones_grammar_2011,
+mMM,yapayi,,,,PN19(7),jones_grammar_2011,
+mSS,jamu,,,,PN19(7),jones_grammar_2011,
+mSD,yapayi,,,,PN19(7),jones_grammar_2011,
+mSD,yaparli,,,,PN19(7),jones_grammar_2011,
+mDS,jamu,,,,PN19(7),jones_grammar_2011,
+mDD,yapayi,,,,PN19(7),jones_grammar_2011,
+mDD,yaparli,,,,PN19(7),jones_grammar_2011,
+mFZ,yaparli,,,,PN19(7),jones_grammar_2011,
+mMZ,yipi,,,,PN19(8),jones_grammar_2011,
+mBS,kaja,,,,PN19(7),jones_grammar_2011,
+mZS,kaja,,,,PN19(7),jones_grammar_2011,
+mZD,yurntal,,,,PN19(8),jones_grammar_2011,
+mFZD,jamirti,,,,PN19(7),jones_grammar_2011,
+mMBD,jamirti,,,,PN19(7),jones_grammar_2011,
+mMZD,jurtu,,,,PN19(7),jones_grammar_2011,
+mFBS,papartu,,,,PN19(7),jones_grammar_2011,
+mFZS,jamirti,,,,PN19(7),jones_grammar_2011,
+mMBS,jamirti,,,,PN19(7),jones_grammar_2011,
+mE,nyupa,,,,PN19(7),jones_grammar_2011,
+mWM,yumari,,,,PN19(8),jones_grammar_2011,
+mWB,makurnta,,,,PN19(7),jones_grammar_2011,
+mWZ,nyupa,,,,PN19(7),jones_grammar_2011,
+mHZ,mantirri,,,,PN19(7),jones_grammar_2011,
+mFeZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFyZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMeZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
+mMyZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
+meBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+myBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+meZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+myZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+meZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
+myZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
+mFeBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFyBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFeZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFyZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFeZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFyZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMeBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMyBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMeBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMyBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMeZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMyZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFBeS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFByS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFZeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFZyS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFZeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mFZyD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMBeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMByS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMBeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMByD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMZeD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mMZyD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fB,kurta,,,,PN19(7),jones_grammar_2011,
+fB,papartu,,,,PN19(7),jones_grammar_2011,
+fZ,jurtu,,,,PN19(7),jones_grammar_2011,
+fyB,malaju,,,,PN19(7),jones_grammar_2011,
+fyB,malangu,,,,PN19(7),jones_grammar_2011,
+fyZ,malaju,,,,PN19(7),jones_grammar_2011,
+fyZ,malangu,,,,PN19(7),jones_grammar_2011,
+fM,yipi,,,,PN19(8),jones_grammar_2011,
+fS,kaja,,,,PN19(7),jones_grammar_2011,
+fFF,jamu,,,,PN19(7),jones_grammar_2011,
+fFM,yapayi,,,,PN19(7),jones_grammar_2011,
+fMF,jamu,,,,PN19(7),jones_grammar_2011,
+fMM,yapayi,,,,PN19(7),jones_grammar_2011,
+fSS,jamu,,,,PN19(7),jones_grammar_2011,
+fSD,yapayi,,,,PN19(7),jones_grammar_2011,
+fSD,yaparli,,,,PN19(7),jones_grammar_2011,
+fDS,jamu,,,,PN19(7),jones_grammar_2011,
+fDD,yapayi,,,,PN19(7),jones_grammar_2011,
+fDD,yaparli,,,,PN19(7),jones_grammar_2011,
+fFZ,yaparli,,,,PN19(7),jones_grammar_2011,
+fMZ,yipi,,,,PN19(8),jones_grammar_2011,
+fBS,kaja,,,,PN19(7),jones_grammar_2011,
+fZS,kaja,,,,PN19(7),jones_grammar_2011,
+fZD,yurntal,,,,PN19(8),jones_grammar_2011,
+fFZD,jamirti,,,,PN19(7),jones_grammar_2011,
+fMBD,jamirti,,,,PN19(7),jones_grammar_2011,
+fMZD,jurtu,,,,PN19(7),jones_grammar_2011,
+fFBS,papartu,,,,PN19(7),jones_grammar_2011,
+fFZS,jamirti,,,,PN19(7),jones_grammar_2011,
+fMBS,jamirti,,,,PN19(7),jones_grammar_2011,
+fE,nyupa,,,,PN19(7),jones_grammar_2011,
+fWM,yumari,,,,PN19(8),jones_grammar_2011,
+fWB,makurnta,,,,PN19(7),jones_grammar_2011,
+fHB,nyupa,,,,PN19(7),jones_grammar_2011,
+fHZ,mantirri,,,,PN19(7),jones_grammar_2011,
+fFeZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFyZ,yaparli,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMeZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
+fMyZ,yipi,,,,PN19(8),jones_grammar_2011,Inferred; NA
+feBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fyBS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+feZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fyZS,kaja,,,,PN19(7),jones_grammar_2011,Inferred; NA
+feZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
+fyZD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; NA
+fFeBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFyBS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFeZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFyZS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFeZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFyZD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMeBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMyBS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMeBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMyBD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMeZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMyZD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFBeS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFByS,papartu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFZeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFZyS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFZeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fFZyD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMBeS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMByS,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMBeD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMByD,jamirti,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMZeD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+fMZyD,jurtu,,,,PN19(7),jones_grammar_2011,Inferred; NA
+mF,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+mD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
+mFM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+mMM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+mFB,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+mMB,kamuru,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+mBD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
+mFBS,kurta,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+mDH,yumari,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
+mFeB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mFyB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mMeB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mMyB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+meBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+myBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mFeBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mFyBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mFBeS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+mFByS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fF,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+fD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
+fFM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+fMM,yaparli,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+fFB,mama,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+fMB,kamuru,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+fBD,yurntal,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
+fFBS,kurta,,,,PN19(7),jones_grammar_2011,Autofilled from CB Austkin data
+fDH,yumari,,,,PN19(8),jones_grammar_2011,Autofilled from CB Austkin data
+fFeB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fFyB,mama,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fMeB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fMyB,kamuru,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+feBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fyBD,yurntal,,,,PN19(8),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fFeBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fFyBS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
+fFBeS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data
 fFByS,kurta,,,,PN19(7),jones_grammar_2011,Inferred; Autofilled from CB Austkin data

@@ -1,23 +1,30 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,màmá,,,,AC58(110),harvey_bali_1997,
+mF,mîkí,,,,AC58(110),harvey_bali_1997,
+mM,bàhá,,,,AC58(110),harvey_bali_1997,
+mC,kálí,,,,AC58(110),harvey_bali_1997,
+mFB,yàyá,,,,AC58(110),harvey_bali_1997,
+mMB,yàyá,,,,AC58(110),harvey_bali_1997,
+mMeB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
+mMyB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
+fB,màmá,,,,AC58(110),harvey_bali_1997,
+fF,mîkí,,,,AC58(110),harvey_bali_1997,
+fM,bàhá,,,,AC58(110),harvey_bali_1997,
+fC,kálí,,,,AC58(110),harvey_bali_1997,
+fFB,yàyá,,,,AC58(110),harvey_bali_1997,
+fMB,yàyá,,,,AC58(110),harvey_bali_1997,
+fMeB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
+fMyB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
 meB,homioné,,,,AC64(110),turnball_wayward_nodate,
 myB,moto,,,,AC64(110),turnball_wayward_nodate,
 meZ,alwané,,,,AC64(110),turnball_wayward_nodate,
 myZ,moto,,,,AC64(110),turnball_wayward_nodate,
-mF,mîkí,,,,AC58(110),harvey_bali_1997,
-mM,bàhá,,,,AC58(110),harvey_bali_1997,
-mC,kálí,,,,AC58(110),harvey_bali_1997,
-mS,meke,,,,AC92(73),van_geluwe_les_1957,
-mD,ngoli,,,,AC92(73),van_geluwe_les_1957,
-mA,yeba,,,,AC92(73),van_geluwe_les_1957,
 mPP,tata,,,,AC64(110),turnball_wayward_nodate,
 mFF,tata,,,,AC64(110),turnball_wayward_nodate,
 mFM,taté,,,,AC64(110),turnball_wayward_nodate,
 mMF,tata,,,,AC64(110),turnball_wayward_nodate,
 mMM,taté,,,,AC64(110),turnball_wayward_nodate,
-mFB,yàyá,,,,AC58(110),harvey_bali_1997,
 mFZ,kola,,,,AC64(110),turnball_wayward_nodate,
-mMB,yàyá,,,,AC58(110),harvey_bali_1997,
 mMB,noko,,,,AC64(110),turnball_wayward_nodate,
 mFeB,om-epa,,,,AC64(110),turnball_wayward_nodate,
 mFyB,mot-epa,,,,AC64(110),turnball_wayward_nodate,
@@ -45,9 +52,7 @@ mWZ,kano,,,,AC64(328),turnball_wayward_nodate,
 mco-W,bibi mukubwa,,,,AC64(328),turnball_wayward_nodate,principal/initial wife
 mFeZ,kola,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
 mFyZ,kola,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
-mMeB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
 mMeB,noko,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
-mMyB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
 mMyB,noko,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
 meBS,miki,,,,AC64(328),turnball_wayward_nodate,Inferred; NA
 myBS,miki,,,,AC64(328),turnball_wayward_nodate,Inferred; NA
@@ -89,25 +94,16 @@ mMBeD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
 mMByD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
 mMZeD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
 mMZyD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
-fB,màmá,,,,AC58(110),harvey_bali_1997,
 feB,homioné,,,,AC64(110),turnball_wayward_nodate,
 fyB,moto,,,,AC64(110),turnball_wayward_nodate,
 feZ,alwané,,,,AC64(110),turnball_wayward_nodate,
 fyZ,moto,,,,AC64(110),turnball_wayward_nodate,
-fF,mîkí,,,,AC58(110),harvey_bali_1997,
-fM,bàhá,,,,AC58(110),harvey_bali_1997,
-fC,kálí,,,,AC58(110),harvey_bali_1997,
-fS,meke,,,,AC92(73),van_geluwe_les_1957,
-fD,ngoli,,,,AC92(73),van_geluwe_les_1957,
-fA,yeba,,,,AC92(73),van_geluwe_les_1957,
 fPP,tata,,,,AC64(110),turnball_wayward_nodate,
 fFF,tata,,,,AC64(110),turnball_wayward_nodate,
 fFM,taté,,,,AC64(110),turnball_wayward_nodate,
 fMF,tata,,,,AC64(110),turnball_wayward_nodate,
 fMM,taté,,,,AC64(110),turnball_wayward_nodate,
-fFB,yàyá,,,,AC58(110),harvey_bali_1997,
 fFZ,kola,,,,AC64(110),turnball_wayward_nodate,
-fMB,yàyá,,,,AC58(110),harvey_bali_1997,
 fMB,noko,,,,AC64(110),turnball_wayward_nodate,
 fFeB,om-epa,,,,AC64(110),turnball_wayward_nodate,
 fFyB,mot-epa,,,,AC64(110),turnball_wayward_nodate,
@@ -135,9 +131,7 @@ fWZ,kano,,,,AC64(328),turnball_wayward_nodate,
 fco-W,bibi mukubwa,,,,AC64(328),turnball_wayward_nodate,principal/initial wife
 fFeZ,kola,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
 fFyZ,kola,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
-fMeB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
 fMeB,noko,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
-fMyB,yàyá,,,,AC58(110),harvey_bali_1997,Inferred; NA
 fMyB,noko,,,,AC64(110),turnball_wayward_nodate,Inferred; NA
 feBS,miki,,,,AC64(328),turnball_wayward_nodate,Inferred; NA
 fyBS,miki,,,,AC64(328),turnball_wayward_nodate,Inferred; NA
@@ -179,3 +173,9 @@ fMBeD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
 fMByD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
 fMZeD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
 fMZyD,moko,,,,AC64(328),turnball_wayward_nodate,Inferred; unclear
+mS,meke,,,,AC92(73),van_geluwe_les_1957,
+mD,ngoli,,,,AC92(73),van_geluwe_les_1957,
+mA,yeba,,,,AC92(73),van_geluwe_les_1957,
+fS,meke,,,,AC92(73),van_geluwe_les_1957,
+fD,ngoli,,,,AC92(73),van_geluwe_les_1957,
+fA,yeba,,,,AC92(73),van_geluwe_les_1957,

@@ -1,13 +1,8 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,irmão,,,,IE80(166),diniz_os_1977,"irmão ""brother"" [80]"
 mZ,irmã,,,,IE80(166),diniz_os_1977,"irmã ""sister"" [80]"
-meB,irmão mais velho,,,,,,
-myB,irmão mais novo,,,,,,
-meZ,irmã mais velha,,,,,,
-myZ,irmã mais nova,,,,,,
 mF,pai,,,,IE80(166),diniz_os_1977,"pai ""father"", also: papá/papai ""daddy"" [80]"
 mM,mãe,,,,IE80(166),diniz_os_1977,"mãe ""mother"", also: mamã/mamãe ""mammy"" [80]"
-mC,criança,,,,,,
 mS,filho,,,,IE80(165),diniz_os_1977,"filho ""son"" [80]"
 mD,filha,,,,IE80(165),diniz_os_1977,"filha ""daughter"" [80]"
 mFF,avô,,,,IE80(165),diniz_os_1977,"avô ""grandfather"" [80]"
@@ -91,21 +86,12 @@ mWF,sogro,,,,IE80(167),diniz_os_1977,"sogro ""father-in-law"" [80]"
 mWM,sogra,,,,IE80(167),diniz_os_1977,"sogra ""mother-in-law"" [80]"
 mBW,cunhada,,,,IE80(165),diniz_os_1977,"cunhada ""sister-in-law"" [80]"
 mZH,cunhado,,,,"IE80(32,165)",diniz_os_1977,"cunhado ""brother-in-law"" [80]"
-mWB,cunhado,,,,,,
-mWZ,cunhada,,,,,,
-mHB,cunhado,,,,,,
-mHZ,cunhada,,,,,,cunhada [80]
 mSW,nora,,,,IE80(166),diniz_os_1977,"nora ""'daughter-in-law"" [80]"
 mDH,genro,,,,IE80(166),diniz_os_1977,"genro ""son-in-law"" [80]"
 fB,irmão,,,,IE80(166),diniz_os_1977,"irmão ""brother"" [80]"
 fZ,irmã,,,,IE80(166),diniz_os_1977,"irmã ""sister"" [80]"
-feB,irmão mais velho,,,,,,
-fyB,irmão mais novo,,,,,,
-feZ,irmã mais velha,,,,,,
-fyZ,irmã mais nova,,,,,,
 fF,pai,,,,IE80(166),diniz_os_1977,"pai ""father"", also: papá/papai ""daddy"" [80]"
 fM,mãe,,,,IE80(166),diniz_os_1977,"mãe ""mother"", also: mamã/mamãe ""mammy"" [80]"
-fC,criança,,,,,,
 fS,filho,,,,IE80(165),diniz_os_1977,"filho ""son"" [80]"
 fD,filha,,,,IE80(165),diniz_os_1977,"filha ""daughter"" [80]"
 fFF,avô,,,,IE80(165),diniz_os_1977,"avô ""grandfather"" [80]"
@@ -189,9 +175,5 @@ fWF,sogro,,,,IE80(167),diniz_os_1977,"sogro ""father-in-law"" [80]"
 fWM,sogra,,,,IE80(167),diniz_os_1977,"sogra ""mother-in-law"" [80]"
 fBW,cunhada,,,,IE80(165),diniz_os_1977,"cunhada ""sister-in-law"" [80]"
 fZH,cunhado,,,,"IE80(32,165)",diniz_os_1977,"cunhado ""brother-in-law"" [80]"
-fWB,cunhado,,,,,,
-fWZ,cunhada,,,,,,
-fHB,cunhado,,,,,,
-fHZ,cunhada,,,,,,cunhada [80]
 fSW,nora,,,,IE80(166),diniz_os_1977,"nora ""'daughter-in-law"" [80]"
 fDH,genro,,,,IE80(166),diniz_os_1977,"genro ""son-in-law"" [80]"

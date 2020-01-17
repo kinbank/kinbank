@@ -1,4 +1,14 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mFZ,mwarewaaba,,,,AC71(150),beidelman_matrilineal_1967,
+mMB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,
+mH,muntû wa,,,,AC71(157),beidelman_matrilineal_1967,unclear
+mMeB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
+mMyB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
+fFZ,mwarewaaba,,,,AC71(150),beidelman_matrilineal_1967,
+fMB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,
+fH,muntû wa,,,,AC71(157),beidelman_matrilineal_1967,unclear
+fMeB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
+fMyB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
 mB,mutaanocia,,,,AC72(149),peatrik_vie_1999,
 mZ,mwareocia,,,,AC72(149),peatrik_vie_1999,
 meB,mutaanocia mûkûrû,,,,AC72(148),peatrik_vie_1999,
@@ -20,8 +30,6 @@ mSS,jûûjû,,,,AC72(147),peatrik_vie_1999,
 mSD,jûûjû,,,,AC72(147),peatrik_vie_1999,
 mDS,jûûjû,,,,AC72(147),peatrik_vie_1999,
 mDD,jûûjû,,,,AC72(147),peatrik_vie_1999,
-mFZ,mwarewaaba,,,,AC71(150),beidelman_matrilineal_1967,
-mMB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,
 mFeB,baaba mûkûrû,,,,AC72(148),peatrik_vie_1999,
 mFyB,baaba mwanake,,,,AC72(148),peatrik_vie_1999,
 mFBD,mwareocia,,,,AC72(149),peatrik_vie_1999,
@@ -31,7 +39,6 @@ mFBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,
 mFZS,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,
 mMBS,muntuetû,,,,AC72(150),peatrik_vie_1999,
 mMZS,ndûgû,,,,AC72(150),peatrik_vie_1999,can marry
-mH,muntû wa,,,,AC71(157),beidelman_matrilineal_1967,unclear
 mW,cio,,,,AC72(156),peatrik_vie_1999,
 mW,muka,,,,AC72(156),peatrik_vie_1999,
 mHF,baaba baîîre,,,,AC72(157),peatrik_vie_1999,
@@ -53,8 +60,6 @@ mSWF,muramû,,,,AC72(156),peatrik_vie_1999,
 mDHM,muramû,,,,AC72(156),peatrik_vie_1999,
 mDHF,muramû,,,,AC72(156),peatrik_vie_1999,
 mMBW,bankithoi,,,munyori,AC72(152),peatrik_vie_1999,
-mMeB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
-mMyB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
 mFeBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
 mFyBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
 mFeZS,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
@@ -102,8 +107,6 @@ fSS,jûûjû,,,,AC72(147),peatrik_vie_1999,
 fSD,jûûjû,,,,AC72(147),peatrik_vie_1999,
 fDS,jûûjû,,,,AC72(147),peatrik_vie_1999,
 fDD,jûûjû,,,,AC72(147),peatrik_vie_1999,
-fFZ,mwarewaaba,,,,AC71(150),beidelman_matrilineal_1967,
-fMB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,
 fFeB,baaba mûkûrû,,,,AC72(148),peatrik_vie_1999,
 fFyB,baaba mwanake,,,,AC72(148),peatrik_vie_1999,
 fFeZ,nkoolo,,,,AC72(151),peatrik_vie_1999,
@@ -119,7 +122,6 @@ fMBS,muntuetû,,,,AC72(150),peatrik_vie_1999,
 fMZS,ndûgû,,,,AC72(150),peatrik_vie_1999,can marry
 fMBeD,nkoolo,,,,AC72(151),peatrik_vie_1999,
 fMByD,kaake,,,,AC72(151),peatrik_vie_1999,
-fH,muntû wa,,,,AC71(157),beidelman_matrilineal_1967,unclear
 fW,cio,,,,AC72(156),peatrik_vie_1999,
 fW,muka,,,,AC72(156),peatrik_vie_1999,
 fHF,baaba baîîre,,,,AC72(157),peatrik_vie_1999,
@@ -141,8 +143,6 @@ fSWF,muramû,,,,AC72(156),peatrik_vie_1999,
 fDHM,muramû,,,,AC72(156),peatrik_vie_1999,
 fDHF,muramû,,,,AC72(156),peatrik_vie_1999,
 fMBW,bankithoi,,,munyori,AC72(152),peatrik_vie_1999,
-fMeB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
-fMyB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
 feBS,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA
 fyBS,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA
 feBD,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA

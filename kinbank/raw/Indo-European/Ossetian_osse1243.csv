@@ -1,12 +1,22 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,familial
-mB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,belonging to single genus
 mZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,
 mF,fyd,,,,IE500(24),noauthor_osjazfolk_1949,
 mM,mad,,,,IE500(24),noauthor_osjazfolk_1949,
 mC,zcenœj,,,,IE500(24),noauthor_osjazfolk_1949,source indicates plural 'children' or 'descendents'
 mS,fyrt,,,,IE500(24),noauthor_osjazfolk_1949,
 mD,chyzg,,,,IE500(24),noauthor_osjazfolk_1949,synonymous with word for young girl
+meZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
+myZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
+fZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,
+fF,fyd,,,,IE500(24),noauthor_osjazfolk_1949,
+fM,mad,,,,IE500(24),noauthor_osjazfolk_1949,
+fC,zcenœj,,,,IE500(24),noauthor_osjazfolk_1949,source indicates plural 'children' or 'descendents'
+fS,fyrt,,,,IE500(24),noauthor_osjazfolk_1949,
+fD,chyzg,,,,IE500(24),noauthor_osjazfolk_1949,synonymous with word for young girl
+feZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
+fyZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
+mB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,familial
+mB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,belonging to single genus
 mFF,fydyfyd,,,dada,IE501(124),noauthor_OssetianRussian_2004,
 mFM,styr mad,,,nana,IE501(28),noauthor_OssetianRussian_2004,
 mMF,madyfyd,,,dada,IE501(124),noauthor_OssetianRussian_2004,
@@ -32,10 +42,6 @@ mFBS,dyuuæ æfsymæry zænæg,,,,IE501(123),noauthor_OssetianRussian_2004,
 mFZS,kho æmæ æfsymæry zænæg,,,,IE501(123),noauthor_OssetianRussian_2004,
 mMBS,kho æmæ æfsymæry zænæg,,,,IE501(123),noauthor_OssetianRussian_2004,
 mMZS,dyuuæ khoiy zænæg,,,,IE501(123),noauthor_OssetianRussian_2004,
-mH,moi,,,,,,
-mH,læg,,,,,,
-mW,us,,,,,,
-mW,binoinag,,,,,,
 mHF,khitsau,,,,IE501(472),noauthor_OssetianRussian_2004,
 mHM,æfsin,,,,IE501(472),noauthor_OssetianRussian_2004,
 mWF,usy fyd,,,,IE501(519),noauthor_OssetianRussian_2004,
@@ -51,8 +57,6 @@ meB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; familial
 meB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; belonging to single genus
 myB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; familial
 myB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; belonging to single genus
-meZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
-myZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
 mFeB,fydyfcymvær,,,,IE501(143),noauthor_OssetianRussian_2004,Inferred; NA
 mFyB,fydyfcymvær,,,,IE501(143),noauthor_OssetianRussian_2004,Inferred; NA
 mFeZ,fydykho,,,,IE501(520),noauthor_OssetianRussian_2004,Inferred; NA
@@ -105,12 +109,6 @@ mMZeD,dyuuæ khoiy zænæg,,,,IE501(123),noauthor_OssetianRussian_2004,Inferred;
 mMZyD,dyuuæ khoiy zænæg,,,,IE501(123),noauthor_OssetianRussian_2004,Inferred; NA
 fB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,familial
 fB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,belonging to single genus
-fZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,
-fF,fyd,,,,IE500(24),noauthor_osjazfolk_1949,
-fM,mad,,,,IE500(24),noauthor_osjazfolk_1949,
-fC,zcenœj,,,,IE500(24),noauthor_osjazfolk_1949,source indicates plural 'children' or 'descendents'
-fS,fyrt,,,,IE500(24),noauthor_osjazfolk_1949,
-fD,chyzg,,,,IE500(24),noauthor_osjazfolk_1949,synonymous with word for young girl
 fFF,fydyfyd,,,dada,IE501(124),noauthor_OssetianRussian_2004,
 fFM,styr mad,,,nana,IE501(28),noauthor_OssetianRussian_2004,
 fMF,madyfyd,,,dada,IE501(124),noauthor_OssetianRussian_2004,
@@ -151,8 +149,6 @@ feB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; familial
 feB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; belonging to single genus
 fyB,æfsymær,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; familial
 fyB,œrvad,,,,IE501(45),noauthor_OssetianRussian_2004,Inferred; belonging to single genus
-feZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
-fyZ,kho,,,,IE500(24),noauthor_osjazfolk_1949,Inferred; NA
 fFeB,fydyfcymvær,,,,IE501(143),noauthor_OssetianRussian_2004,Inferred; NA
 fFyB,fydyfcymvær,,,,IE501(143),noauthor_OssetianRussian_2004,Inferred; NA
 fFeZ,fydykho,,,,IE501(520),noauthor_OssetianRussian_2004,Inferred; NA

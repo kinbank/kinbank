@@ -1,7 +1,26 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mF,rèrè,,,,AC7(108),mayer_histoire_2002,
+mM,ngwè,,,,AC7(108),mayer_histoire_2002,
+mFB,rèrè,,,,AC7(108),mayer_histoire_2002,
+mFZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,
+mMB,mbalo,,,,AC7(114),mayer_histoire_2002,
+mMZ,ngwè,,,,AC7(108),mayer_histoire_2002,
+mFeZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
+mFyZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
+mMeZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
+mMyZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
+fF,rèrè,,,,AC7(108),mayer_histoire_2002,
+fM,ngwè,,,,AC7(108),mayer_histoire_2002,
+fFB,rèrè,,,,AC7(108),mayer_histoire_2002,
+fFZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,
+fMB,mbalo,,,,AC7(114),mayer_histoire_2002,
+fMZ,ngwè,,,,AC7(108),mayer_histoire_2002,
+fFeZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
+fFyZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
+fMeZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
+fMyZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
 mG,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,
 mG,awongwè,,,,AC30(29),rapondawalker_dictionnaire_1934,
-mB,onwângwẽ,,,,AC23(357),wilson_comparative_1849,
 mZ,ezómbi,,,,AC30(150),rapondawalker_dictionnaire_1934,
 meB,onèró zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
 myB,erumbe zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
@@ -10,21 +29,14 @@ myB,nkovuni,,,,AC30(350),rapondawalker_dictionnaire_1934,
 myZ,nkova,,,,AC30(350),rapondawalker_dictionnaire_1934,
 myZ,nkovuni,,,,AC30(350),rapondawalker_dictionnaire_1934,
 mP,ozómbi,,,,AC30(487),rapondawalker_dictionnaire_1934,
-mF,rèrè,,,,AC7(108),mayer_histoire_2002,
-mF,rèra,,,,AC23(355),wilson_comparative_1849,
 mF,tata,,,,AC30(586),rapondawalker_dictionnaire_1934,affectionate
-mM,ngwè,,,,AC7(108),mayer_histoire_2002,
 mM,iya,,,,AC30(228),rapondawalker_dictionnaire_1934,affectionate
-mC,onwana,,,,AC23(355),wilson_comparative_1849,
-mC,okẽiwei,,,,AC23(361),wilson_comparative_1849,
 mC,awa,,,,AC30(28),rapondawalker_dictionnaire_1934,
 mS,noḿe,,,,AC30(317),rapondawalker_dictionnaire_1934,
 mD,nanto,,,,AC30(317),rapondawalker_dictionnaire_1934,
 mA,aboswè,,,,AC30(8),rapondawalker_dictionnaire_1934,not clear if sing. or pl.
 mA,onèró,,,,AC30(448),rapondawalker_dictionnaire_1934,
 mA,ozómbi,,,,AC30(487),rapondawalker_dictionnaire_1934,
-mPP,akaka,,,,,,not in Mpongwe
-mPP,akaga,,,,,,not in Mpongwe
 mFF,rèrè-nèró,,,,AC30(535),rapondawalker_dictionnaire_1934,
 mFM,ngwè-nèró,,,,AC30(334),rapondawalker_dictionnaire_1934,
 mMF,rèrè-nèró,,,,AC30(535),rapondawalker_dictionnaire_1934,
@@ -35,14 +47,10 @@ mSS,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
 mSD,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
 mDS,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
 mDD,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
-mFB,rèrè,,,,AC7(108),mayer_histoire_2002,
-mFZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,
 mFZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,
 mFZ,rèrè,,,,AC30(333),rapondawalker_dictionnaire_1934,
 mFZ,ezómbi za rer'iyaḿi,,,,AC30(150),rapondawalker_dictionnaire_1934,
-mMB,mbalo,,,,AC7(114),mayer_histoire_2002,
 mMB,mbal'waḿi,,,,AC30(278),rapondawalker_dictionnaire_1934,
-mMZ,ngwè,,,,AC7(108),mayer_histoire_2002,
 mFeB,rer'onèró zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
 mFyB,rer'erumbe zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
 mMeB,ngw'onèró zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
@@ -67,8 +75,6 @@ mMBeS,ndjalyè noḿe,,,,AC30(317),rapondawalker_dictionnaire_1934,
 mMZeS,ndjalyè noḿe,,,,AC30(317),rapondawalker_dictionnaire_1934,
 mMBeD,ndjalyè nanto,,,,AC30(317),rapondawalker_dictionnaire_1934,
 mMZeD,ndjalyè nanto,,,,AC30(317),rapondawalker_dictionnaire_1934,
-mW,omanto,,,,AC23(367),wilson_comparative_1849,
-mW,onwanto,,,,AC23(367),wilson_comparative_1849,
 mWF,rer'ogóï,,,,AC30(403),rapondawalker_dictionnaire_1934,
 mWM,ngw'ogóï,,,,AC30(335),rapondawalker_dictionnaire_1934,
 mBW,idyomba,,,,AC30(176),rapondawalker_dictionnaire_1934,
@@ -77,16 +83,12 @@ mWB,idyomba,,,,AC30(176),rapondawalker_dictionnaire_1934,
 mWZ,idyomba,,,,AC30(176),rapondawalker_dictionnaire_1934,
 mco-W,elègè,,,,AC30(117),rapondawalker_dictionnaire_1934,least loved wife
 mco-W,ngwè-nkonde,,,,AC30(334),rapondawalker_dictionnaire_1934,first wife
-mFeZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
 mFeZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 mFeZ,rèrè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 mFeZ,ezómbi za rer'iyaḿi,,,,AC30(150),rapondawalker_dictionnaire_1934,Inferred; NA
-mFyZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
 mFyZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 mFyZ,rèrè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 mFyZ,ezómbi za rer'iyaḿi,,,,AC30(150),rapondawalker_dictionnaire_1934,Inferred; NA
-mMeZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
-mMyZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
 mFeBS,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,Inferred; NA
 mFyBS,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,Inferred; NA
 mFeZS,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,Inferred; NA
@@ -117,7 +119,6 @@ mMByS,awongwè,,,,AC30(29),rapondawalker_dictionnaire_1934,Inferred; NA
 mMZyS,awongwè,,,,AC30(29),rapondawalker_dictionnaire_1934,Inferred; NA
 fG,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,
 fG,awongwè,,,,AC30(29),rapondawalker_dictionnaire_1934,
-fB,onwângwẽ,,,,AC23(357),wilson_comparative_1849,
 fZ,ezómbi,,,,AC30(150),rapondawalker_dictionnaire_1934,
 feB,onèró zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
 fyB,erumbe zaḿi,,,,AC30(131),rapondawalker_dictionnaire_1934,
@@ -128,21 +129,14 @@ feZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,
 fyZ,nkova,,,,AC30(350),rapondawalker_dictionnaire_1934,
 fyZ,nkovuni,,,,AC30(350),rapondawalker_dictionnaire_1934,
 fP,ozómbi,,,,AC30(487),rapondawalker_dictionnaire_1934,
-fF,rèrè,,,,AC7(108),mayer_histoire_2002,
-fF,rèra,,,,AC23(355),wilson_comparative_1849,
 fF,tata,,,,AC30(586),rapondawalker_dictionnaire_1934,affectionate
-fM,ngwè,,,,AC7(108),mayer_histoire_2002,
 fM,iya,,,,AC30(228),rapondawalker_dictionnaire_1934,affectionate
-fC,onwana,,,,AC23(355),wilson_comparative_1849,
-fC,okẽiwei,,,,AC23(361),wilson_comparative_1849,
 fC,awa,,,,AC30(28),rapondawalker_dictionnaire_1934,
 fS,noḿe,,,,AC30(317),rapondawalker_dictionnaire_1934,
 fD,nanto,,,,AC30(317),rapondawalker_dictionnaire_1934,
 fA,aboswè,,,,AC30(8),rapondawalker_dictionnaire_1934,not clear if sing. or pl.
 fA,onèró,,,,AC30(448),rapondawalker_dictionnaire_1934,
 fA,ozómbi,,,,AC30(487),rapondawalker_dictionnaire_1934,
-fPP,akaka,,,,,,not in Mpongwe
-fPP,akaga,,,,,,not in Mpongwe
 fFF,rèrè-nèró,,,,AC30(535),rapondawalker_dictionnaire_1934,
 fFM,ngwè-nèró,,,,AC30(334),rapondawalker_dictionnaire_1934,
 fMF,rèrè-nèró,,,,AC30(535),rapondawalker_dictionnaire_1934,
@@ -153,14 +147,10 @@ fSS,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
 fSD,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
 fDS,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
 fDD,mbamba,,,,AC30(278),rapondawalker_dictionnaire_1934,
-fFB,rèrè,,,,AC7(108),mayer_histoire_2002,
-fFZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,
 fFZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,
 fFZ,rèrè,,,,AC30(333),rapondawalker_dictionnaire_1934,
 fFZ,ezómbi za rer'iyaḿi,,,,AC30(150),rapondawalker_dictionnaire_1934,
-fMB,mbalo,,,,AC7(114),mayer_histoire_2002,
 fMB,mbal'waḿi,,,,AC30(278),rapondawalker_dictionnaire_1934,
-fMZ,ngwè,,,,AC7(108),mayer_histoire_2002,
 fFZD,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,
 fFBD,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,
 fMBD,awongwè,,,,AC30(29),rapondawalker_dictionnaire_1934,
@@ -185,7 +175,6 @@ fMByD,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,if older than Ego
 fMZeD,ndjalyè nanto,,,,AC30(317),rapondawalker_dictionnaire_1934,
 fMZeD,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,if older than Ego
 fMZyD,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,if older than Ego
-fH,onomi,,,,AC23(361),wilson_comparative_1849,
 fH,onome,,,,AC30(450),rapondawalker_dictionnaire_1934,
 fHF,rer'ogóï,,,,AC30(403),rapondawalker_dictionnaire_1934,
 fHM,ngw'ogóï,,,,AC30(335),rapondawalker_dictionnaire_1934,
@@ -194,16 +183,12 @@ fZH,idyomba,,,,AC30(176),rapondawalker_dictionnaire_1934,
 fHB,idyomba,,,,AC30(176),rapondawalker_dictionnaire_1934,
 fHZ,idyomba,,,,AC30(176),rapondawalker_dictionnaire_1934,
 fco-W,ṅwana,,,,AC30(380),rapondawalker_dictionnaire_1934,title given to themselves
-fFeZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
 fFeZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 fFeZ,rèrè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 fFeZ,ezómbi za rer'iyaḿi,,,,AC30(150),rapondawalker_dictionnaire_1934,Inferred; NA
-fFyZ,tata nyanto,,,,AC7(116),mayer_histoire_2002,Inferred; NA
 fFyZ,ngwè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 fFyZ,rèrè,,,,AC30(333),rapondawalker_dictionnaire_1934,Inferred; NA
 fFyZ,ezómbi za rer'iyaḿi,,,,AC30(150),rapondawalker_dictionnaire_1934,Inferred; NA
-fMeZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
-fMyZ,ngwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
 fFeBS,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,Inferred; NA
 fFyBS,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,Inferred; NA
 fFeZS,awarerè,,,,AC30(28),rapondawalker_dictionnaire_1934,Inferred; NA
@@ -272,3 +257,14 @@ feZD,oḿwa-oḿwaḿto,,,,AC30(440),rapondawalker_dictionnaire_1934,Inferred; N
 feZD,oḿwa-oḿwaḿto,,,,AC30(642),rapondawalker_dictionnaire_1934,Inferred; NA
 fyZD,oḿwa-oḿwaḿto,,,,AC30(440),rapondawalker_dictionnaire_1934,Inferred; NA
 fyZD,oḿwa-oḿwaḿto,,,,AC30(642),rapondawalker_dictionnaire_1934,Inferred; NA
+mB,onwângwẽ,,,,AC23(357),wilson_comparative_1849,
+mF,rèra,,,,AC23(355),wilson_comparative_1849,
+mC,onwana,,,,AC23(355),wilson_comparative_1849,
+mC,okẽiwei,,,,AC23(361),wilson_comparative_1849,
+mW,omanto,,,,AC23(367),wilson_comparative_1849,
+mW,onwanto,,,,AC23(367),wilson_comparative_1849,
+fB,onwângwẽ,,,,AC23(357),wilson_comparative_1849,
+fF,rèra,,,,AC23(355),wilson_comparative_1849,
+fC,onwana,,,,AC23(355),wilson_comparative_1849,
+fC,okẽiwei,,,,AC23(361),wilson_comparative_1849,
+fH,onomi,,,,AC23(361),wilson_comparative_1849,

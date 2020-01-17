@@ -1,22 +1,74 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,bampangi,,,,AC35(406),de_sousberghe_cousins_1965,
-mB,makyani,,,,AC104(54),torday_notes_1906,
-mZ,pangi,,,,AC104(54),torday_notes_1906,
 mF,tata,,,,AC35(406),de_sousberghe_cousins_1965,
-mC,moane,,,,AC104(54),torday_notes_1906,
-mS,moana kunda,,,,AC104(54),torday_notes_1906,
-mD,moana kunda,,,,AC104(54),torday_notes_1906,
-mA,kake,,,,AC104(54),torday_notes_1906,
 mFM,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,
 mCC,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
 mSS,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
 mSD,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
 mDS,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
 mDD,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
-mFB,gokash,,,,AC104(54),torday_notes_1906,
 mFZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,pere-femme'
-mMB,gokash,,,,AC104(54),torday_notes_1906,
 mZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,unclear
+mBW,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
+mZH,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
+mWB,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
+mWZ,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
+mFeZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
+mFyZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
+meZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
+myZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
+fF,tata,,,,AC35(406),de_sousberghe_cousins_1965,
+fCC,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
+fSS,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
+fSD,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
+fDS,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
+fDD,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
+fFZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,pere-femme'
+fZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,unclear
+fHB,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
+fHZ,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
+fFeZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
+fFyZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
+feZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
+fyZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
+mFZD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
+mFZS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,meaning father - only matrilineal descendants of the father's sister are considered 'father'
+mMBS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
+mFeZS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+mFyZS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+mFeZD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mFyZD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mMeBS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mMyBS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mFZeS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+mFZyS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+mFZeD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mFZyD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mMBeS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mMByS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fFZD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
+fFZS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,meaning father - only matrilineal descendants of the father's sister are considered 'father'
+fMBS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
+fFeZS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+fFyZS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+fFeZD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fFyZD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fMeBS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fMyBS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fFZeS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+fFZyS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
+fFZeD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fFZyD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fMBeS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+fMByS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
+mB,makyani,,,,AC104(54),torday_notes_1906,
+mZ,pangi,,,,AC104(54),torday_notes_1906,
+mC,moane,,,,AC104(54),torday_notes_1906,
+mS,moana kunda,,,,AC104(54),torday_notes_1906,
+mD,moana kunda,,,,AC104(54),torday_notes_1906,
+mA,kake,,,,AC104(54),torday_notes_1906,
+mFB,gokash,,,,AC104(54),torday_notes_1906,
+mMB,gokash,,,,AC104(54),torday_notes_1906,
 mFBD,kisoni,,,,AC104(54),torday_notes_1906,
 mMBD,kisoni,,,,AC104(54),torday_notes_1906,
 mMZD,kisoni,,,,AC104(54),torday_notes_1906,
@@ -26,22 +78,14 @@ mHF,tata buko,,,,AC104(54),torday_notes_1906,
 mHM,mama buko,,,,AC104(54),torday_notes_1906,
 mWF,tata buko,,,,AC104(54),torday_notes_1906,
 mWM,mama buko,,,,AC104(54),torday_notes_1906,
-mBW,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
-mZH,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
-mWB,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
-mWZ,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
 meB,makyani,,,,AC104(54),torday_notes_1906,Inferred; NA
 myB,makyani,,,,AC104(54),torday_notes_1906,Inferred; NA
 meZ,pangi,,,,AC104(54),torday_notes_1906,Inferred; NA
 myZ,pangi,,,,AC104(54),torday_notes_1906,Inferred; NA
 mFeB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
 mFyB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
-mFeZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
-mFyZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
 mMeB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
 mMyB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
-meZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
-myZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
 mFeBS,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 mFyBS,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 mFeBD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
@@ -64,20 +108,12 @@ mMZeD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 mMZyD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 fB,makyani,,,,AC104(54),torday_notes_1906,
 fZ,pangi,,,,AC104(54),torday_notes_1906,
-fF,tata,,,,AC35(406),de_sousberghe_cousins_1965,
 fC,moane,,,,AC104(54),torday_notes_1906,
 fS,moana kunda,,,,AC104(54),torday_notes_1906,
 fD,moana kunda,,,,AC104(54),torday_notes_1906,
 fA,kake,,,,AC104(54),torday_notes_1906,
-fCC,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
-fSS,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
-fSD,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
-fDS,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
-fDD,batekulu,,,,AC35(407),de_sousberghe_cousins_1965,
 fFB,gokash,,,,AC104(54),torday_notes_1906,
-fFZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,pere-femme'
 fMB,gokash,,,,AC104(54),torday_notes_1906,
-fZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,unclear
 fFBD,kisoni,,,,AC104(54),torday_notes_1906,
 fMBD,kisoni,,,,AC104(54),torday_notes_1906,
 fMZD,kisoni,,,,AC104(54),torday_notes_1906,
@@ -87,20 +123,14 @@ fHF,tata buko,,,,AC104(54),torday_notes_1906,
 fHM,mama buko,,,,AC104(54),torday_notes_1906,
 fWF,tata buko,,,,AC104(54),torday_notes_1906,
 fWM,mama buko,,,,AC104(54),torday_notes_1906,
-fHB,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
-fHZ,kwesi,,,,AC35(407),de_sousberghe_cousins_1965,
 feB,makyani,,,,AC104(54),torday_notes_1906,Inferred; NA
 fyB,makyani,,,,AC104(54),torday_notes_1906,Inferred; NA
 feZ,pangi,,,,AC104(54),torday_notes_1906,Inferred; NA
 fyZ,pangi,,,,AC104(54),torday_notes_1906,Inferred; NA
 fFeB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
 fFyB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
-fFeZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
-fFyZ,tata nkento,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; pere-femme'
 fMeB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
 fMyB,gokash,,,,AC104(54),torday_notes_1906,Inferred; NA
-feZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
-fyZD,mwana nkasi,,,,AC35(408),de_sousberghe_cousins_1965,Inferred; unclear
 fFeBS,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 fFyBS,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 fFeBD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
@@ -121,63 +151,33 @@ fMBeD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 fMByD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 fMZeD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
 fMZyD,kisoni,,,,AC104(54),torday_notes_1906,Inferred; NA
-mFZD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
 mFZD,pikanu,,,kisoni,AC104(54),torday_notes_1906,also refers to preferable partner
-mFZS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,meaning father - only matrilineal descendants of the father's sister are considered 'father'
 mFZS,tata,,,kisoni,AC104(54),torday_notes_1906,meaning father - only matrilineal descendants of the father's sister are considered 'father'
-mMBS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
 mMBS,bana,,,kisoni,AC104(54),torday_notes_1906,also refers to preferable partner
-mFeZS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 mFeZS,tata,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-mFyZS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 mFyZS,tata,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-mFeZD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mFeZD,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mFyZD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mFyZD,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mMeBS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mMeBS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mMyBS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mMyBS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mFZeS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 mFZeS,tata,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-mFZyS,tata,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 mFZyS,tata,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-mFZeD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mFZeD,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mFZyD,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mFZyD,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mMBeS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mMBeS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-mMByS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 mMByS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fFZD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
 fFZD,bana,,,kisoni,AC104(54),torday_notes_1906,also refers to preferable partner
-fFZS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,meaning father - only matrilineal descendants of the father's sister are considered 'father'
 fFZS,bana,,,kisoni,AC104(54),torday_notes_1906,meaning father - only matrilineal descendants of the father's sister are considered 'father'
-fMBS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,also refers to preferable partner
 fMBS,pikanu,,,kisoni,AC104(54),torday_notes_1906,also refers to preferable partner
-fFeZS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 fFeZS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-fFyZS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 fFyZS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-fFeZD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fFeZD,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fFyZD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fFyZD,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fMeBS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fMeBS,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fMyBS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fMyBS,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fFZeS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 fFZeS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-fFZyS,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
 fFZyS,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; meaning father - only matrilineal descendants of the father's sister are considered 'father'
-fFZeD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fFZeD,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fFZyD,bana,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fFZyD,bana,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fMBeS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fMBeS,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner
-fMByS,pikanu,,,kisoni,AC35(406),de_sousberghe_cousins_1965,Inferred; also refers to preferable partner
 fMByS,pikanu,,,kisoni,AC104(54),torday_notes_1906,Inferred; also refers to preferable partner

@@ -1,18 +1,14 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,moana-ina,,,,AC23(43),wilson_comparative_1849,
+mM,iné,,,,AC25(405),bessong_modeformel_1983,vocative term
+fM,iné,,,,AC25(405),bessong_modeformel_1983,vocative term
 mB,ndomé,,,,AC24(404),richard_histoire_1970,
 mZ,iluhu,,,,AC24(404),richard_histoire_1970,
 meB,ntodu ami,,,,AC24(404),richard_histoire_1970,
 myB,ndembé ami,,,,AC24(404),richard_histoire_1970,
 meZ,sita,,,,AC24(407),richard_histoire_1970,
-mF,paya,,,,AC23(39),wilson_comparative_1849,
 mF,hangwé,,,,AC24(402),richard_histoire_1970,
 mF,paé,,,,AC24(405),richard_histoire_1970,vocative term
-mM,ina,,,,AC23(39),wilson_comparative_1849,
 mM,nyangwé,,,,AC24(402),richard_histoire_1970,
-mM,iné,,,,AC25(405),bessong_modeformel_1983,vocative term
-mC,moana,,,,AC23(39),wilson_comparative_1849,
-mC,ikě-ě,,,,AC23(47),wilson_comparative_1849,closer to 'infant'
 mC,muna,,,,AC24(404),richard_histoire_1970,
 mS,bana,,,,AC24(406),richard_histoire_1970,
 mD,bana,,,,AC24(406),richard_histoire_1970,
@@ -77,8 +73,6 @@ mMBeD,ntodu bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
 mMByD,ndembé bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
 mMZeD,ntodu banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
 mMZyD,ndembé banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mH,motu,,,,AC23(47),wilson_comparative_1849,also means 'person'
-mW,nditu,,,,AC23(53),wilson_comparative_1849,
 mHF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
 mHM,nhiyo nyangwé ya diba,,,iné,AC24(405),richard_histoire_1970,
 mWF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
@@ -101,20 +95,14 @@ mFyZS,banyongwé ya momo,,,mola,AC24(404),richard_histoire_1970,Inferred; NA
 mFyZD,banyongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,Inferred; NA
 mMyZS,banyangwé ya momo,,,,AC24(404),richard_histoire_1970,Inferred; NA
 mMyZD,banyangwé ya ndito,,,,AC24(404),richard_histoire_1970,Inferred; NA
-fB,moana-ina,,,,AC23(43),wilson_comparative_1849,
 fB,ndomé,,,,AC24(404),richard_histoire_1970,
 fZ,iluhu,,,,AC24(404),richard_histoire_1970,
 feB,ntodu ami,,,,AC24(404),richard_histoire_1970,
 fyB,ndembé ami,,,,AC24(404),richard_histoire_1970,
 feZ,sita,,,,AC24(407),richard_histoire_1970,
-fF,paya,,,,AC23(39),wilson_comparative_1849,
 fF,hangwé,,,,AC24(402),richard_histoire_1970,
 fF,paé,,,,AC24(405),richard_histoire_1970,vocative term
-fM,ina,,,,AC23(39),wilson_comparative_1849,
 fM,nyangwé,,,,AC24(402),richard_histoire_1970,
-fM,iné,,,,AC25(405),bessong_modeformel_1983,vocative term
-fC,moana,,,,AC23(39),wilson_comparative_1849,
-fC,ikě-ě,,,,AC23(47),wilson_comparative_1849,closer to 'infant'
 fC,muna,,,,AC24(404),richard_histoire_1970,
 fS,bana,,,,AC24(406),richard_histoire_1970,
 fD,bana,,,,AC24(406),richard_histoire_1970,
@@ -179,8 +167,6 @@ fMBeD,ntodu bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
 fMByD,ndembé bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
 fMZeD,ntodu banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
 fMZyD,ndembé banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fH,motu,,,,AC23(47),wilson_comparative_1849,also means 'person'
-fW,nditu,,,,AC23(53),wilson_comparative_1849,
 fHF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
 fHM,nhiyo nyangwé ya diba,,,iné,AC24(405),richard_histoire_1970,
 fWF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
@@ -227,3 +213,17 @@ fBS,bandomé ya momo,,,balalo,AC24(406),richard_histoire_1970,can qualify with g
 fBS,bandomé ya momo,,,balalo,AC24(407),richard_histoire_1970,can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female
 fBD,bandomé ya ndito,,,balalo,AC24(406),richard_histoire_1970,
 fBD,bandomé ya ndito,,,balalo,AC24(407),richard_histoire_1970,
+mB,moana-ina,,,,AC23(43),wilson_comparative_1849,
+mF,paya,,,,AC23(39),wilson_comparative_1849,
+mM,ina,,,,AC23(39),wilson_comparative_1849,
+mC,moana,,,,AC23(39),wilson_comparative_1849,
+mC,ikě-ě,,,,AC23(47),wilson_comparative_1849,closer to 'infant'
+mH,motu,,,,AC23(47),wilson_comparative_1849,also means 'person'
+mW,nditu,,,,AC23(53),wilson_comparative_1849,
+fB,moana-ina,,,,AC23(43),wilson_comparative_1849,
+fF,paya,,,,AC23(39),wilson_comparative_1849,
+fM,ina,,,,AC23(39),wilson_comparative_1849,
+fC,moana,,,,AC23(39),wilson_comparative_1849,
+fC,ikě-ě,,,,AC23(47),wilson_comparative_1849,closer to 'infant'
+fH,motu,,,,AC23(47),wilson_comparative_1849,also means 'person'
+fW,nditu,,,,AC23(53),wilson_comparative_1849,

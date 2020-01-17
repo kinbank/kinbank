@@ -1,5 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,e,,,,,,
 myB,tu,,,,AET1(43),gifford_californian_1922,
 meZ,eti,,,,AET1(43),gifford_californian_1922,
 myZ,ka,,,,AET1(43),gifford_californian_1922,
@@ -31,7 +30,6 @@ mMZD,ka,,,,AET1(44),gifford_californian_1922,younger than speaker
 mFBS,e,,,,AET1(44),gifford_californian_1922,elder than speaker
 mFBS,tu,,,,AET1(44),gifford_californian_1922,younger than speaker
 mMBS,e,,,,AET1(44),gifford_californian_1922,elder than speaker
-mMBS,posi,,,,,,
 mMZS,tu,,,,AET1(44),gifford_californian_1922,younger than speaker
 mH,yepi,,,,AET1(44),gifford_californian_1922,
 mW,hule,,,,AET1(44),gifford_californian_1922,
@@ -74,9 +72,7 @@ mFyBD,eti,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
 mFeZD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 mFyZD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 mMeBS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-mMeBS,posi,,,,,,Inferred; NA
 mMyBS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-mMyBS,posi,,,,,,Inferred; NA
 mMeZS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 mMyZS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 mMeBD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
@@ -96,9 +92,7 @@ mFByD,eti,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
 mFZeD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 mFZyD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 mMBeS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-mMBeS,posi,,,,,,Inferred; NA
 mMByS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-mMByS,posi,,,,,,Inferred; NA
 mMZeS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 mMZyS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 mMBeD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
@@ -107,7 +101,6 @@ mMZeD,eti,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
 mMZeD,ka,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 mMZyD,eti,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
 mMZyD,ka,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
-feB,e,,,,,,
 fyB,tu,,,,AET1(43),gifford_californian_1922,
 feZ,eti,,,,AET1(43),gifford_californian_1922,
 fyZ,ka,,,,AET1(43),gifford_californian_1922,
@@ -139,7 +132,6 @@ fMZD,ka,,,,AET1(44),gifford_californian_1922,younger than speaker
 fFBS,e,,,,AET1(44),gifford_californian_1922,elder than speaker
 fFBS,tu,,,,AET1(44),gifford_californian_1922,younger than speaker
 fMBS,e,,,,AET1(44),gifford_californian_1922,elder than speaker
-fMBS,posi,,,,,,
 fMZS,tu,,,,AET1(44),gifford_californian_1922,younger than speaker
 fFW(notM),de,,,,AET1(44),gifford_californian_1922,
 fMH(notF),kumi,,,,AET1(44),gifford_californian_1922,
@@ -172,9 +164,7 @@ fFyBD,eti,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
 fFeZD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 fFyZD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 fMeBS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-fMeBS,posi,,,,,,Inferred; NA
 fMyBS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-fMyBS,posi,,,,,,Inferred; NA
 fMeZS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 fMyZS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 fMeBD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
@@ -194,9 +184,7 @@ fFByD,eti,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
 fFZeD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 fFZyD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA
 fMBeS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-fMBeS,posi,,,,,,Inferred; NA
 fMByS,e,,,,AET1(44),gifford_californian_1922,Inferred; elder than speaker
-fMByS,posi,,,,,,Inferred; NA
 fMZeS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 fMZyS,tu,,,,AET1(44),gifford_californian_1922,Inferred; younger than speaker
 fMBeD,posi,,,,AET1(44),gifford_californian_1922,Inferred; NA

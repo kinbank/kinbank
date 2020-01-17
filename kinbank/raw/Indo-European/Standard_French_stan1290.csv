@@ -1,20 +1,46 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,ainé,,,,IE76,clifford_french_2018,first born son
+mP,parent,,,,IE76,clifford_french_2018,
+mC,enfant,,,,IE76,clifford_french_2018,
+mA,ancêtre,,,,IE76,clifford_french_2018,
+mH,conjoint,,,,IE76,clifford_french_2018,
+mW,conjointe,,,,IE76,clifford_french_2018,
+mW,femme,,,,IE76,clifford_french_2018,
+mFW(notM),belle-mère,,,,IE76,clifford_french_2018,stepmum and mother in law are same - context differentiates
+mMH(notF),beau-père,,,,IE76,clifford_french_2018,"stepdad and father in law are the same, distinguished by context"
+mSW,bell-fille,,,,IE76,clifford_french_2018,
+mDH,beau-fils,,,,IE76,clifford_french_2018,
+mFZH,oncle,,,,IE76,clifford_french_2018,
+mFBW,tante,,,,IE76,clifford_french_2018,
+mMZH,oncle,,,,IE76,clifford_french_2018,
+mMBW,tante,,,,IE76,clifford_french_2018,
+feB,ainé,,,,IE76,clifford_french_2018,first born son
+fP,parent,,,,IE76,clifford_french_2018,
+fC,enfant,,,,IE76,clifford_french_2018,
+fA,ancêtre,,,,IE76,clifford_french_2018,
+fH,conjoint,,,,IE76,clifford_french_2018,
+fW,conjointe,,,,IE76,clifford_french_2018,
+fW,femme,,,,IE76,clifford_french_2018,
+fFW(notM),belle-mère,,,,IE76,clifford_french_2018,stepmum and mother in law are same - context differentiates
+fMH(notF),beau-père,,,,IE76,clifford_french_2018,"stepdad and father in law are the same, distinguished by context"
+fSW,belle-file,,,,IE76,clifford_french_2018,
+fDH,beau-fils,,,,IE76,clifford_french_2018,
+fFZH,oncle,,,,IE76,clifford_french_2018,
+fFBW,tante,,,,IE76,clifford_french_2018,
+fMZH,oncle,,,,IE76,clifford_french_2018,
+fMBW,tante,,,,IE76,clifford_french_2018,
 mB,frère,,,,"IE80(156,167)",diniz_os_1977,"frère ""brother"" [80]"
 mZ,soeur,,,,"IE80(156,167)",diniz_os_1977,"soeur ""sister"" [80]"
-meB,ainé,,,,IE76,clifford_french_2018,first born son
 myB,frère,,,,"IE80(156,167)",diniz_os_1977,"frère ""brother"" [80]"
 meZ,ainée,,,,"IE80(156,167)",diniz_os_1977,first born daughter
 myZ,soeur,,,,"IE80(156,167)",diniz_os_1977,"soeur ""sister"" [80]"
-mP,parent,,,,IE76,clifford_french_2018,
 mP,progéniteur,,,,"IE80(156,167)",diniz_os_1977,"progéniteur ""parent"" [80]"
 mF,père,,,,"IE80(156,167)",diniz_os_1977,"père ""father"" [80]"
 mF,papa,,,,"IE80(156,167)",diniz_os_1977,"papa ""daddy"" [80]"
 mM,mère,,,,"IE80(156,167)",diniz_os_1977,"mère ""mother"" [80]"
 mM,maman,,,,"IE80(156,167)",diniz_os_1977,"maman ""mammy"" [80]"
-mC,enfant,,,,IE76,clifford_french_2018,
 mS,fils,,,,"IE80(156,167)",diniz_os_1977,"fils ""son"" [80]"
 mD,fille,,,,"IE80(156,167)",diniz_os_1977,"fille ""daughter"" [80]"
-mA,ancêtre,,,,IE76,clifford_french_2018,
 mFF,grand-père,,,,"IE80(156,167)",diniz_os_1977,"grand-père ""grandfather"" [80]"
 mFM,grand-mère,,,,"IE80(156,167)",diniz_os_1977,"grand-mère ""grandmother"" [80]"
 mMF,grand-père,,,,"IE80(156,167)",diniz_os_1977,"grand-père ""grandfather"" [80]"
@@ -87,11 +113,8 @@ mMBeD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
 mMByD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
 mMZeD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
 mMZyD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
-mH,conjoint,,,,IE76,clifford_french_2018,
 mH,époux,,,,"IE80(156,167)",diniz_os_1977,"époux ""husband"" [80]"
 mH,mari,,,,"IE80(156,167)",diniz_os_1977,"mari ""husband"" [80]"
-mW,conjointe,,,,IE76,clifford_french_2018,
-mW,femme,,,,IE76,clifford_french_2018,
 mW,épouse,,,,"IE80(156,167)",diniz_os_1977,"épouse ""wife"" [80]"
 mHF,beau-père,,,,"IE80(156,167)",diniz_os_1977,"beau-père ""father-in-law"" [80]"
 mHM,belle-mère,,,,"IE80(156,167)",diniz_os_1977,"belle-mère ""mother-in-law"" [80]"
@@ -103,32 +126,20 @@ mWB,beau frère,,,,"IE80(156,167)",diniz_os_1977,"beau frère ""brother-in-law""
 mWZ,belle soeur,,,,"IE80(156,167)",diniz_os_1977,"belle soeur ""sister-in-law"" [80]"
 mHB,beau frère,,,,"IE80(156,167)",diniz_os_1977,"beau frère ""brother-in-law"" [80]"
 mHZ,belle soeur,,,,"IE80(156,167)",diniz_os_1977,"belle soeur ""sister-in-law"" [80]"
-mFW(notM),belle-mère,,,,IE76,clifford_french_2018,stepmum and mother in law are same - context differentiates
-mMH(notF),beau-père,,,,IE76,clifford_french_2018,"stepdad and father in law are the same, distinguished by context"
 mSW,bru,,,,"IE80(156,167)",diniz_os_1977,"never heard of this term, in dictionary listed as antiquated bru ""daughter-in-law"" [80]"
-mSW,bell-fille,,,,IE76,clifford_french_2018,
 mDH,gendre,,,,"IE80(156,167)",diniz_os_1977,"ANTIQUATED gendre ""son-in-law"" [80]"
-mDH,beau-fils,,,,IE76,clifford_french_2018,
-mFZH,oncle,,,,IE76,clifford_french_2018,
-mFBW,tante,,,,IE76,clifford_french_2018,
-mMZH,oncle,,,,IE76,clifford_french_2018,
-mMBW,tante,,,,IE76,clifford_french_2018,
 fB,frère,,,,"IE80(156,167)",diniz_os_1977,"frère ""brother"" [80]"
 fZ,soeur,,,,"IE80(156,167)",diniz_os_1977,"soeur ""sister"" [80]"
-feB,ainé,,,,IE76,clifford_french_2018,first born son
 fyB,frère,,,,"IE80(156,167)",diniz_os_1977,"frère ""brother"" [80]"
 feZ,ainée,,,,"IE80(156,167)",diniz_os_1977,first born daughter
 fyZ,soeur,,,,"IE80(156,167)",diniz_os_1977,"soeur ""sister"" [80]"
-fP,parent,,,,IE76,clifford_french_2018,
 fP,progéniteur,,,,"IE80(156,167)",diniz_os_1977,"progéniteur ""parent"" [80]"
 fF,père,,,,"IE80(156,167)",diniz_os_1977,"père ""father"" [80]"
 fF,papa,,,,"IE80(156,167)",diniz_os_1977,"papa ""daddy"" [80]"
 fM,mère,,,,"IE80(156,167)",diniz_os_1977,"mère ""mother"" [80]"
 fM,maman,,,,"IE80(156,167)",diniz_os_1977,"maman ""mammy"" [80]"
-fC,enfant,,,,IE76,clifford_french_2018,
 fS,fils,,,,"IE80(156,167)",diniz_os_1977,"fils ""son"" [80]"
 fD,fille,,,,"IE80(156,167)",diniz_os_1977,"fille ""daughter"" [80]"
-fA,ancêtre,,,,IE76,clifford_french_2018,
 fFF,grand-père,,,,"IE80(156,167)",diniz_os_1977,"grand-père ""grandfather"" [80]"
 fFM,grand-mère,,,,"IE80(156,167)",diniz_os_1977,"grand-mère ""grandmother"" [80]"
 fMF,grand-père,,,,"IE80(156,167)",diniz_os_1977,"grand-père ""grandfather"" [80]"
@@ -201,11 +212,8 @@ fMBeD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
 fMByD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
 fMZeD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
 fMZyD,cousine,,,,"IE80(156,167)",diniz_os_1977,"cousine ""cousin"" [80]"
-fH,conjoint,,,,IE76,clifford_french_2018,
 fH,époux,,,,"IE80(156,167)",diniz_os_1977,"époux ""husband"" [80]"
 fH,mari,,,,"IE80(156,167)",diniz_os_1977,"mari ""husband"" [80]"
-fW,conjointe,,,,IE76,clifford_french_2018,
-fW,femme,,,,IE76,clifford_french_2018,
 fW,épouse,,,,"IE80(156,167)",diniz_os_1977,"épouse ""wife"" [80]"
 fHF,beau-père,,,,"IE80(156,167)",diniz_os_1977,"beau-père ""father-in-law"" [80]"
 fHM,belle-mère,,,,"IE80(156,167)",diniz_os_1977,"belle-mère ""mother-in-law"" [80]"
@@ -217,13 +225,5 @@ fWB,beau frère,,,,"IE80(156,167)",diniz_os_1977,"beau frère ""brother-in-law""
 fWZ,belle soeur,,,,"IE80(156,167)",diniz_os_1977,"belle soeur ""sister-in-law"" [80]"
 fHB,beau frère,,,,"IE80(156,167)",diniz_os_1977,"beau frère ""brother-in-law"" [80]"
 fHZ,belle soeur,,,,"IE80(156,167)",diniz_os_1977,"belle soeur ""sister-in-law"" [80]"
-fFW(notM),belle-mère,,,,IE76,clifford_french_2018,stepmum and mother in law are same - context differentiates
-fMH(notF),beau-père,,,,IE76,clifford_french_2018,"stepdad and father in law are the same, distinguished by context"
 fSW,bru,,,,"IE80(156,167)",diniz_os_1977,"never heard of this term, in dictionary listed as antiquated bru ""daughter-in-law"" [80]"
-fSW,belle-file,,,,IE76,clifford_french_2018,
 fDH,gendre,,,,"IE80(156,167)",diniz_os_1977,"ANTIQUATED gendre ""son-in-law"" [80]"
-fDH,beau-fils,,,,IE76,clifford_french_2018,
-fFZH,oncle,,,,IE76,clifford_french_2018,
-fFBW,tante,,,,IE76,clifford_french_2018,
-fMZH,oncle,,,,IE76,clifford_french_2018,
-fMBW,tante,,,,IE76,clifford_french_2018,

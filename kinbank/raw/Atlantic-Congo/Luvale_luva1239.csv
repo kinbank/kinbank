@@ -2,7 +2,6 @@ parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mZ,muhela,,,,AC127(20),mcculloch_southern_1951,
 meB,yaya,,,,AC127(20),mcculloch_southern_1951,
 myB,mwanyikami,,,,AC127(20),mcculloch_southern_1951,
-mF,tata,,,,AC61(440),van_der_kerken_baluba_1936,
 mM,mama,,,,AC127(20),mcculloch_southern_1951,
 mS,mwana,,,,AC127(20),mcculloch_southern_1951,
 mD,mwana,,,,AC127(20),mcculloch_southern_1951,
@@ -92,7 +91,6 @@ mMByD,musonoi,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
 mMZeD,muhela,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
 mMZyD,muhela,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
 fB,manakwami,,,,AC127(19),mcculloch_southern_1951,
-fF,tata,,,,AC61(440),van_der_kerken_baluba_1936,
 fM,mama,,,,AC127(20),mcculloch_southern_1951,
 fS,mwana,,,,AC127(20),mcculloch_southern_1951,
 fD,mwana,,,,AC127(20),mcculloch_southern_1951,
@@ -175,3 +173,5 @@ fMBeD,musonoi,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
 fMByD,musonoi,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
 fMZeD,muhela,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
 fMZyD,muhela,,,,AC127(20),mcculloch_southern_1951,Inferred; NA
+mF,tata,,,,AC61(440),van_der_kerken_baluba_1936,
+fF,tata,,,,AC61(440),van_der_kerken_baluba_1936,

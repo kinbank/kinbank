@@ -1,6 +1,23 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mZ,cochiguat,,,,UTO17(801),pennington_arte_1984,
 meB,vapaci,,,,UTO4(NA),,plural; cogid=305
+mC,mara,,,,UTO4(72),,"child, offspring; cogid=140"
+mFZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
+mMZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
+mFeZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
+mFyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
+mMeZ,tepó,,,,UTO4(327),,; cogid=2004
+mMyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
+mWF,wase,,,,UTO4(299),,; cogid=1789
+feB,vapaci,,,,UTO4(NA),,plural; cogid=305
+fC,mara,,,,UTO4(72),,"child, offspring; cogid=140"
+fFZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
+fMZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
+fFeZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
+fFyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
+fMeZ,tepó,,,,UTO4(327),,; cogid=2004
+fMyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
+fHF,wase,,,,UTO4(299),,; cogid=1789
+mZ,cochiguat,,,,UTO17(801),pennington_arte_1984,
 meB,vatzi,,,,UTO17(802),pennington_arte_1984,
 meB,vatzigua,,,,UTO17(802),pennington_arte_1984,
 meB,vatziguat,,,,UTO17(802),pennington_arte_1984,
@@ -12,7 +29,6 @@ myZ,viniguat,,,,UTO17(801),pennington_arte_1984,
 mF,massiguat,,,,UTO17(905),pennington_arte_1984,
 mM,dë,,,,UTO17(850),pennington_arte_1984,
 mM,deguat,,,,UTO17(850),pennington_arte_1984,
-mC,mara,,,,UTO4(72),,"child, offspring; cogid=140"
 mS,no,,,,UTO17(805),pennington_arte_1984,
 mS,nöguet,,,,UTO17(805),pennington_arte_1984,
 mS,nonotziguat,,,,UTO17(806),pennington_arte_1984,
@@ -25,9 +41,7 @@ mMF,paogua,,,,UTO17(596),pennington_arte_1984,
 mMF,paoguat,,,,UTO17(596),pennington_arte_1984,
 mMF,posiguat,,,,UTO17(596),pennington_arte_1984,
 mMM,xüguat,,,,UTO17(596),pennington_arte_1984,
-mFZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-mMZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-mFeB,cumuguat,,,,UTO17(996),pennington_arte_1984,
+mJan,cumuguat,,,,UTO17(996),pennington_arte_1984,
 mFyB,teviriguat,,,,UTO17(996),pennington_arte_1984,
 mFeZ,soroguat,,,,UTO17(993),pennington_arte_1984,
 mFyZ,vavoguat,,,,UTO17(993),pennington_arte_1984,
@@ -35,10 +49,6 @@ mMeZ,tepoguat,,,,UTO17(993),pennington_arte_1984,
 mMyZ,deriguat,,,,UTO17(993),pennington_arte_1984,
 mMeB,cutziguat,,,,UTO17(996),pennington_arte_1984,
 mMyB,taiguat,,,,UTO17(996),pennington_arte_1984,
-mFeZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-mFyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-mMeZ,tepó,,,,UTO4(327),,; cogid=2004
-mMyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
 meBS,cumumariguat,,,,UTO17(977),pennington_arte_1984,
 meBS,tevitzimariguat,,,,UTO17(977),pennington_arte_1984,
 meBD,cumumariguat,,,,UTO17(977),pennington_arte_1984,
@@ -89,7 +99,6 @@ mMZeD,maguât,,,,UTO17(931),pennington_arte_1984,
 mMZyD,maguât,,,,UTO17(931),pennington_arte_1984,
 mH,cuna,,,,UTO17(859),pennington_arte_1984,
 mHF,guasseguat,,,,UTO17(984),pennington_arte_1984,
-mWF,wase,,,,UTO4(299),,; cogid=1789
 mWF,guasseguat,,,,UTO17(984),pennington_arte_1984,
 mBW,möcatziguat,,,,UTO17(716),pennington_arte_1984,
 mZH,mutziguat,,,,UTO17(716),pennington_arte_1984,
@@ -100,7 +109,6 @@ mMH(notF),chiguat,,,,UTO17(905),pennington_arte_1984,
 mSW,modeguat,,,,UTO17(890),pennington_arte_1984,
 mDH,moneguat,,,,UTO17(1025),pennington_arte_1984,
 fZ,cochiguat,,,,UTO17(801),pennington_arte_1984,
-feB,vapaci,,,,UTO4(NA),,plural; cogid=305
 feB,vatzi,,,,UTO17(802),pennington_arte_1984,
 feB,vatzigua,,,,UTO17(802),pennington_arte_1984,
 feB,vatziguat,,,,UTO17(802),pennington_arte_1984,
@@ -114,7 +122,6 @@ fF,mariguat,,,,UTO17(905),pennington_arte_1984,
 fF,mari,,,,UTO17(805),pennington_arte_1984,
 fM,dë,,,,UTO17(850),pennington_arte_1984,
 fM,deguat,,,,UTO17(850),pennington_arte_1984,
-fC,mara,,,,UTO4(72),,"child, offspring; cogid=140"
 fS,nonotziguat,,,,UTO17(806),pennington_arte_1984,
 fD,äqui,,,,UTO17(805),pennington_arte_1984,
 fD,aquiguat,,,,UTO17(805),pennington_arte_1984,
@@ -125,9 +132,7 @@ fMF,paogua,,,,UTO17(596),pennington_arte_1984,
 fMF,paoguat,,,,UTO17(596),pennington_arte_1984,
 fMF,posiguat,,,,UTO17(596),pennington_arte_1984,
 fMM,xüguat,,,,UTO17(596),pennington_arte_1984,
-fFZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-fMZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-fFeB,cumuguat,,,,UTO17(996),pennington_arte_1984,
+fJan,cumuguat,,,,UTO17(996),pennington_arte_1984,
 fFyB,teviriguat,,,,UTO17(996),pennington_arte_1984,
 fFeZ,soroguat,,,,UTO17(993),pennington_arte_1984,
 fFyZ,vavoguat,,,,UTO17(993),pennington_arte_1984,
@@ -135,10 +140,6 @@ fMeZ,tepoguat,,,,UTO17(993),pennington_arte_1984,
 fMyZ,deriguat,,,,UTO17(993),pennington_arte_1984,
 fMeB,cutziguat,,,,UTO17(996),pennington_arte_1984,
 fMyB,aiguat,,,,UTO17(996),pennington_arte_1984,
-fFeZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-fFyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-fMeZ,tepó,,,,UTO4(327),,; cogid=2004
-fMyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
 feBS,cumumariguat,,,,UTO17(977),pennington_arte_1984,
 feBS,tevitzimariguat,,,,UTO17(977),pennington_arte_1984,
 fyBS,serômariguat,,,,UTO17(977),pennington_arte_1984,
@@ -194,7 +195,6 @@ fMByD,maguât,,,,UTO17(931),pennington_arte_1984,
 fMZeD,maguât,,,,UTO17(931),pennington_arte_1984,
 fMZyD,maguât,,,,UTO17(931),pennington_arte_1984,
 fH,cuna,,,,UTO17(859),pennington_arte_1984,
-fHF,wase,,,,UTO4(299),,; cogid=1789
 fHF,guasseguat,,,,UTO17(984),pennington_arte_1984,
 fWF,guasseguat,,,,UTO17(984),pennington_arte_1984,
 fBW,möcatziguat,,,,UTO17(716),pennington_arte_1984,

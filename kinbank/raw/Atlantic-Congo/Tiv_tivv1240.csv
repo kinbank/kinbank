@@ -1,16 +1,8 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,wangban,,,,AC14(19),fardon_sisters_nodate,
-mB,wangban,,,,AC14(19),fardon_sisters_nodate,
-mZ,wangban,,,,AC14(19),fardon_sisters_nodate,
 meB,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
 myB,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
 meZ,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
 myZ,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
-mF,ter,,,,AC14(18),fardon_sisters_nodate,"""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
-mM,ngo,,,,AC14(18),fardon_sisters_nodate,"""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
-mC,wan,,,,AC14(19),fardon_sisters_nodate,
-mS,wan,,,,AC14(19),fardon_sisters_nodate,
-mFF,ter,,,,AC14(18),fardon_sisters_nodate,
 mFM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
 mMF,ter u vesen,,,,AC16(58),bohannan_tiv_2017,
 mMM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
@@ -21,16 +13,10 @@ mDS,wan,,,,AC16(59),bohannan_tiv_2017,
 mDD,wan,,,,AC16(59),bohannan_tiv_2017,
 mFB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"""Ter refers to any male ascendant, but especially through the agnatic line"""
 mFZ,ngo,,,,AC16(58),bohannan_tiv_2017,
-mMB,ter u tamen,,,,,,
-mMZ,ngo,,,,,,
 mBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
 mBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
 mZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
 mZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-mFZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-mFBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-mMBD,wanngo,,,,AC14(18),fardon_sisters_nodate,
-mMZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
 mFBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
 mFZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
 mMBS,wanngo,,,,AC16(59),bohannan_tiv_2017,
@@ -68,10 +54,6 @@ mFeB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refer
 mFyB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
 mFeZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
 mFyZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
-mMeZ,ngo,,,,,,Inferred; NA
-mMyZ,ngo,,,,,,Inferred; NA
-mMeB,ter u tamen,,,,,,Inferred; NA
-mMyB,ter u tamen,,,,,,Inferred; NA
 meBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
 myBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
 meBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
@@ -84,30 +66,14 @@ mFeBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
 mFyBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
 mFeZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
 mFyZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-mFeBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-mFyBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-mFeZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-mFyZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
 mMeBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
 mMyBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
 mMeZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
 mMyZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
-mMeBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
-mMyBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
-mMeZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-mMyZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-fG,wangban,,,,AC14(19),fardon_sisters_nodate,
-fB,wangban,,,,AC14(19),fardon_sisters_nodate,
-fZ,wangban,,,,AC14(19),fardon_sisters_nodate,
 feB,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
 fyB,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
 feZ,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
 fyZ,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
-fF,ter,,,,AC14(18),fardon_sisters_nodate,"""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
-fM,ngo,,,,AC14(18),fardon_sisters_nodate,"""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
-fC,wan,,,,AC14(19),fardon_sisters_nodate,
-fS,wan,,,,AC14(19),fardon_sisters_nodate,
-fFF,ter,,,,AC14(18),fardon_sisters_nodate,
 fFM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
 fMF,ter u vesen,,,,AC16(58),bohannan_tiv_2017,
 fMM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
@@ -118,16 +84,10 @@ fDS,wan,,,,AC16(59),bohannan_tiv_2017,
 fDD,wan,,,,AC16(59),bohannan_tiv_2017,
 fFB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"""Ter refers to any male ascendant, but especially through the agnatic line"""
 fFZ,ngo,,,,AC16(58),bohannan_tiv_2017,
-fMB,ter u tamen,,,,,,
-fMZ,ngo,,,,,,
 fBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
 fBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
 fZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
 fZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-fFZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-fFBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-fMBD,wanngo,,,,AC14(18),fardon_sisters_nodate,
-fMZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
 fFBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
 fFZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
 fMBS,wanngo,,,,AC16(59),bohannan_tiv_2017,
@@ -165,10 +125,6 @@ fFeB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refer
 fFyB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
 fFeZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
 fFyZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
-fMeZ,ngo,,,,,,Inferred; NA
-fMyZ,ngo,,,,,,Inferred; NA
-fMeB,ter u tamen,,,,,,Inferred; NA
-fMyB,ter u tamen,,,,,,Inferred; NA
 feBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
 fyBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
 feBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
@@ -181,19 +137,51 @@ fFeBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
 fFyBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
 fFeZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
 fFyZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-fFeBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-fFyBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-fFeZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-fFyZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
 fMeBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
 fMyBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
 fMeZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
 fMyZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
+mD,wan,,,wankwase,AC14(19),campion_edwards_nonexistence_nodate,
+fD,wan,,,wankwase,AC14(19),campion_edwards_nonexistence_nodate,
+mG,wangban,,,,AC14(19),fardon_sisters_nodate,
+mB,wangban,,,,AC14(19),fardon_sisters_nodate,
+mZ,wangban,,,,AC14(19),fardon_sisters_nodate,
+mF,ter,,,,AC14(18),fardon_sisters_nodate,"""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
+mM,ngo,,,,AC14(18),fardon_sisters_nodate,"""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
+mC,wan,,,,AC14(19),fardon_sisters_nodate,
+mS,wan,,,,AC14(19),fardon_sisters_nodate,
+mFF,ter,,,,AC14(18),fardon_sisters_nodate,
+mFZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+mFBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+mMBD,wanngo,,,,AC14(18),fardon_sisters_nodate,
+mMZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+mFeBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+mFyBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+mFeZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+mFyZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+mMeBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
+mMyBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
+mMeZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+mMyZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+fG,wangban,,,,AC14(19),fardon_sisters_nodate,
+fB,wangban,,,,AC14(19),fardon_sisters_nodate,
+fZ,wangban,,,,AC14(19),fardon_sisters_nodate,
+fF,ter,,,,AC14(18),fardon_sisters_nodate,"""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
+fM,ngo,,,,AC14(18),fardon_sisters_nodate,"""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
+fC,wan,,,,AC14(19),fardon_sisters_nodate,
+fS,wan,,,,AC14(19),fardon_sisters_nodate,
+fFF,ter,,,,AC14(18),fardon_sisters_nodate,
+fFZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+fFBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+fMBD,wanngo,,,,AC14(18),fardon_sisters_nodate,
+fMZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+fFeBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+fFyBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+fFeZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+fFyZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
 fMeBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
 fMyBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
 fMeZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
 fMyZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-mD,wan,,,wankwase,AC14(19),campion_edwards_nonexistence_nodate,
 mD,wan,,,wankwase,AC15(104),fardon_sisters_nodate,
-fD,wan,,,wankwase,AC14(19),campion_edwards_nonexistence_nodate,
 fD,wan,,,wankwase,AC15(104),fardon_sisters_nodate,

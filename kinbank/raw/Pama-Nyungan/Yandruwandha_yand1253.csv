@@ -1,32 +1,17 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mooto,moːto,,,PN1,bowern_chirila_2016,
-meB,ootoo,oːtoː,,,PN1,bowern_chirila_2016,
 myB,ngatharri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-myB,ngathadi,,,,PN29(745),wafer_handbook_2008,
-meZ,kako,kako,,,PN1,bowern_chirila_2016,
-meZ,karoo,kaɹu,,,PN1,bowern_chirila_2016,
 myZ,ngatharri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-myZ,ngathadi,,,,PN29(745),wafer_handbook_2008,
 mF,ngapardi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mF,ngapari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mF,appardi,[ng]apaʈi,,,PN1,bowern_chirila_2016,
-mF,appari,apaɹi,,,PN1,bowern_chirila_2016,
-mF,ngapiri,,,,PN29(745),wafer_handbook_2008,
 mM,ngarndrri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mM,ngarndri,,,,PN29(745),wafer_handbook_2008,
-mM,undri,undɹi,,,PN1,bowern_chirila_2016,
 mC,ngathalki,,,,PN3,bowern_austkin_nodate,
-mC,muduwa,,,,PN29(745),wafer_handbook_2008,
 mS,ngathalki,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mS,ngathani,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mD,ngathalki,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mD,ngathani,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFF,tyindrra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFF,tjindra,,,,PN29(745),wafer_handbook_2008,
 mFF,yanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMF,ngadrra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMF,tjindra,,,,PN29(745),wafer_handbook_2008,
-mMF,ngardra,,,,PN29(745),wafer_handbook_2008,
 mMM,kayakaya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mSS,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mSS,tyindrra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -135,34 +120,19 @@ mMBeS,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin dat
 mMByS,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMBeD,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMByD,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-feB,mooto,moːto,,,PN1,bowern_chirila_2016,
-feB,ootoo,oːtoː,,,PN1,bowern_chirila_2016,
 fyB,ngatharri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fyB,ngathadi,,,,PN29(745),wafer_handbook_2008,
-feZ,kako,kako,,,PN1,bowern_chirila_2016,
-feZ,karoo,kaɹu,,,PN1,bowern_chirila_2016,
 fyZ,ngatharri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fyZ,ngathadi,,,,PN29(745),wafer_handbook_2008,
 fF,ngapardi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fF,ngapari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fF,appardi,[ng]apaʈi,,,PN1,bowern_chirila_2016,
-fF,appari,apaɹi,,,PN1,bowern_chirila_2016,
-fF,ngapiri,,,,PN29(745),wafer_handbook_2008,
 fM,ngarndrri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fM,ngarndri,,,,PN29(745),wafer_handbook_2008,
-fM,undri,undɹi,,,PN1,bowern_chirila_2016,
 fC,ngathani,,,,PN3,bowern_austkin_nodate,
-fC,muduwa,,,,PN29(745),wafer_handbook_2008,
 fS,ngathalki,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fS,ngathani,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fD,ngathalki,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fD,ngathani,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFF,tyindrra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFF,tjindra,,,,PN29(745),wafer_handbook_2008,
 fFF,yanku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMF,ngadrra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMF,tjindra,,,,PN29(745),wafer_handbook_2008,
-fMF,ngardra,,,,PN29(745),wafer_handbook_2008,
 fMM,kayakaya,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fSS,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fSS,tyindrra,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
@@ -271,22 +241,52 @@ fMByS,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin dat
 fMBeD,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMByD,kami,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 meB,nguthu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-meB,nguthu,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 meZ,kaku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-meZ,kaku,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 mFM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFM,kami,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 mMF,papa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMF,papa,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 mMM,kanyini,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMM,kanyini,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 feB,nguthu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-feB,nguthu,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 feZ,kaku,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-feZ,kaku,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 fFM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFM,kami,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 fMF,papa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMF,papa,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 fMM,kanyini,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+meB,mooto,moːto,,,PN1,bowern_chirila_2016,
+meB,ootoo,oːtoː,,,PN1,bowern_chirila_2016,
+meZ,kako,kako,,,PN1,bowern_chirila_2016,
+meZ,karoo,kaɹu,,,PN1,bowern_chirila_2016,
+mF,appardi,[ng]apaʈi,,,PN1,bowern_chirila_2016,
+mF,appari,apaɹi,,,PN1,bowern_chirila_2016,
+mM,undri,undɹi,,,PN1,bowern_chirila_2016,
+feB,mooto,moːto,,,PN1,bowern_chirila_2016,
+feB,ootoo,oːtoː,,,PN1,bowern_chirila_2016,
+feZ,kako,kako,,,PN1,bowern_chirila_2016,
+feZ,karoo,kaɹu,,,PN1,bowern_chirila_2016,
+fF,appardi,[ng]apaʈi,,,PN1,bowern_chirila_2016,
+fF,appari,apaɹi,,,PN1,bowern_chirila_2016,
+fM,undri,undɹi,,,PN1,bowern_chirila_2016,
+myB,ngathadi,,,,PN29(745),wafer_handbook_2008,
+myZ,ngathadi,,,,PN29(745),wafer_handbook_2008,
+mF,ngapiri,,,,PN29(745),wafer_handbook_2008,
+mM,ngarndri,,,,PN29(745),wafer_handbook_2008,
+mC,muduwa,,,,PN29(745),wafer_handbook_2008,
+mFF,tjindra,,,,PN29(745),wafer_handbook_2008,
+mMF,tjindra,,,,PN29(745),wafer_handbook_2008,
+mMF,ngardra,,,,PN29(745),wafer_handbook_2008,
+fyB,ngathadi,,,,PN29(745),wafer_handbook_2008,
+fyZ,ngathadi,,,,PN29(745),wafer_handbook_2008,
+fF,ngapiri,,,,PN29(745),wafer_handbook_2008,
+fM,ngarndri,,,,PN29(745),wafer_handbook_2008,
+fC,muduwa,,,,PN29(745),wafer_handbook_2008,
+fFF,tjindra,,,,PN29(745),wafer_handbook_2008,
+fMF,tjindra,,,,PN29(745),wafer_handbook_2008,
+fMF,ngardra,,,,PN29(745),wafer_handbook_2008,
+meB,nguthu,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+meZ,kaku,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+mFM,kami,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+mMF,papa,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+mMM,kanyini,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+feB,nguthu,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+feZ,kaku,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+fFM,kami,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
+fMF,papa,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data
 fMM,kanyini,,,,PN29(745),wafer_handbook_2008,Autofilled from CB Austkin data

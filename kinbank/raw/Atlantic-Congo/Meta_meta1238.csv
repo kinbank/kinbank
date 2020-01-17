@@ -1,33 +1,15 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,muma,,,,AC20(105),warnier_precolonial_1975,
 mB,múma,,,,AC9(70),chilver_western_1974,bankan?
 mZ,ndzábó,,,,AC9(70),chilver_western_1974,
-meB,ndi,,,,AC20(105),warnier_precolonial_1975,first-born'
 mF,tà,,,mbá',AC9(69),chilver_western_1974,
 mF,tatá,,,tatá,AC9(69),chilver_western_1974,
 mF,mɔtà,,,məbá',AC9(69),chilver_western_1974,
 mM,ŋgɔ́p,,,avɜ,AC9(70),chilver_western_1974,handwriting a bit hard to read
 mM,ibəŋgɔ́p',,,mbávɜ,AC9(70),chilver_western_1974,handwriting a bit hard to read
 mM,bəŋgɔ́bə́,,,,AC9(70),chilver_western_1974,
-mC,wán,,,,AC21(347),teboh_women_2002,
-mS,nwan-mbangha,,,,AC21(347),teboh_women_2002,moghamo?
-mD,nwan-ayi,,,,AC21(347),teboh_women_2002,Moghamo?
-mMB,tama,,,,AC20(137),warnier_precolonial_1975,
-mZS,inoug,,,,AC21(346),teboh_women_2002,
-mZD,inoug,,,,AC21(346),teboh_women_2002,
-mW,ayi--mbeik,,,,AC21(345),teboh_women_2002,first wife'
-mW,iweik,,,,AC21(346),teboh_women_2002,moghamo?
-mco-W,ifu'u,,,,AC21(346),teboh_women_2002,moghamo?
-mco-W,mbanya,,,,AC21(346),teboh_women_2002,moghamo?
 myB,múma,,,,AC9(70),chilver_western_1974,Inferred; bankan?
 meZ,ndzábó,,,,AC9(70),chilver_western_1974,Inferred; NA
 myZ,ndzábó,,,,AC9(70),chilver_western_1974,Inferred; NA
-mMeB,tama,,,,AC20(137),warnier_precolonial_1975,Inferred; NA
-mMyB,tama,,,,AC20(137),warnier_precolonial_1975,Inferred; NA
-meZS,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
-myZS,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
-meZD,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
-myZD,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
 fB,hdià,,,,AC9(70),chilver_western_1974,bankan?
 fF,tà,,,mbá',AC9(69),chilver_western_1974,
 fF,tatá,,,tatá,AC9(69),chilver_western_1974,
@@ -36,3 +18,21 @@ fM,ŋgɔ́p,,,avɜ,AC9(70),chilver_western_1974,handwriting a bit hard to read
 fM,ibəŋgɔ́p',,,mbávɜ,AC9(70),chilver_western_1974,handwriting a bit hard to read
 fM,bəŋgɔ́bə́,,,,AC9(70),chilver_western_1974,
 fyB,hdià,,,,AC9(70),chilver_western_1974,Inferred; bankan?
+mC,wán,,,,AC21(347),teboh_women_2002,
+mS,nwan-mbangha,,,,AC21(347),teboh_women_2002,moghamo?
+mD,nwan-ayi,,,,AC21(347),teboh_women_2002,Moghamo?
+mZS,inoug,,,,AC21(346),teboh_women_2002,
+mZD,inoug,,,,AC21(346),teboh_women_2002,
+mW,ayi--mbeik,,,,AC21(345),teboh_women_2002,first wife'
+mW,iweik,,,,AC21(346),teboh_women_2002,moghamo?
+mco-W,ifu'u,,,,AC21(346),teboh_women_2002,moghamo?
+mco-W,mbanya,,,,AC21(346),teboh_women_2002,moghamo?
+meZS,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
+myZS,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
+meZD,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
+myZD,inoug,,,,AC21(346),teboh_women_2002,Inferred; NA
+mG,muma,,,,AC20(105),warnier_precolonial_1975,
+meB,ndi,,,,AC20(105),warnier_precolonial_1975,first-born'
+mMB,tama,,,,AC20(137),warnier_precolonial_1975,
+mMeB,tama,,,,AC20(137),warnier_precolonial_1975,Inferred; NA
+mMyB,tama,,,,AC20(137),warnier_precolonial_1975,Inferred; NA

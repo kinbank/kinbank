@@ -20,24 +20,17 @@ mFZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,
 mMZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,
 mBS,hosa,,,,AUS35(12-13),elbert_two_1965-1,
 mBD,tama'ahine,,,,AUS35(12-13),elbert_two_1965-1,
-mZS,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
 mZS,hosa,,,,AUS35(12-13),elbert_two_1965-1,
-mZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
 meBS,hosa,,,,AUS35(12-13),elbert_two_1965-1,
 myBS,hosa,,,,AUS35(12-13),elbert_two_1965-1,
 meBD,tama'ahine,,,,AUS35(12-13),elbert_two_1965-1,
 myBD,tama'ahine,,,,AUS35(12-13),elbert_two_1965-1,
 meZS,hosa,,,,AUS35(12-13),elbert_two_1965-1,
 myZS,hosa,,,,AUS35(12-13),elbert_two_1965-1,
-mFZD,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
 mFZD,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
 mFBD,tuhahine,,,,AUS35(12-13),elbert_two_1965-1,
 mMBD,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
 mMBD,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
-mFBS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
-mFZS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
-mMBS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
-mMZS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
 mFeBD,tuhahine,,,,AUS35(12-13),elbert_two_1965-1,
 mFyBD,tuhahine,,,,AUS35(12-13),elbert_two_1965-1,
 mFeZD,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
@@ -74,8 +67,6 @@ mFeZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
 mFyZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
 mMeZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
 mMyZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
-meZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,Inferred; NA
-myZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,Inferred; NA
 fB,tunga'ane,,,,AUS35(12-13),elbert_two_1965-1,
 feZ,ta'okete,,,,AUS35(12-13),elbert_two_1965-1,
 fyZ,taina,,,,AUS35(12-13),elbert_two_1965-1,
@@ -97,24 +88,17 @@ fFB,tamana,,,,AUS35(12-13),elbert_two_1965-1,
 fFZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,
 fBS,tama,,,,AUS35(12-13),elbert_two_1965-1,
 fBD,tama'ahine,,,,AUS35(12-13),elbert_two_1965-1,
-fZS,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
 fZS,tama,,,,AUS35(12-13),elbert_two_1965-1,
-fZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
 feBS,tama,,,,AUS35(12-13),elbert_two_1965-1,
 fyBS,tama,,,,AUS35(12-13),elbert_two_1965-1,
 feBD,tama'ahine,,,,AUS35(12-13),elbert_two_1965-1,
 fyBD,tama'ahine,,,,AUS35(12-13),elbert_two_1965-1,
 feZS,tama,,,,AUS35(12-13),elbert_two_1965-1,
 fyZS,tama,,,,AUS35(12-13),elbert_two_1965-1,
-fFZD,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
 fMBD,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
-fFBS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
 fFBS,tunga'ane,,,,AUS35(12-13),elbert_two_1965-1,
-fFZS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
 fFZS,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
-fMBS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
 fMBS,ha'anga,,,,AUS35(12-13),elbert_two_1965-1,
-fMZS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
 fMZS,tunga'ane,,,,AUS35(12-13),elbert_two_1965-1,
 fFeBS,tunga'ane,,,,AUS35(12-13),elbert_two_1965-1,
 fFyBS,tunga'ane,,,,AUS35(12-13),elbert_two_1965-1,
@@ -150,27 +134,43 @@ fFeB,tamana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
 fFyB,tamana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
 fFeZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
 fFyZ,tinana,,,,AUS35(12-13),elbert_two_1965-1,Inferred; NA
+mZ,tuhahine,,,,AUS34(13-20),elbert_two_1965-1,could be tuahine
+mMB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,
+mZH,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
+mWB,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
+mMeB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
+mMyB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
+fMB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,
+fBW,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
+fHZ,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
+fMeB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
+fMyB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
+mZS,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
+mZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
+mFZD,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
+mFBS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
+mFZS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
+mMBS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
+mMZS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
+meZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,Inferred; NA
+myZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,Inferred; NA
+fZS,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
+fZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,
+fFZD,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
+fFBS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
+fFZS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
+fMBS,ha'anga,,,,AUS34(13-20),monberg_bellona_1991,
+fMZS,tu'aatina,,,,AUS34(13-20),monberg_bellona_1991,
 feZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,Inferred; NA
 fyZD,'ingaamutu,,,,AUS34(13-20),monberg_bellona_1991,Inferred; NA
-mZ,tuhahine,,,,AUS34(13-20),elbert_two_1965-1,could be tuahine
 mZ,tuhahine,,,,AUS35(12-13),monberg_bellona_1991,could be tuahine
-mMB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,
 mMB,tu'aatina,,,,AUS35(12-13),monberg_bellona_1991,
-mZH,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
 mZH,ma'aa,,,,AUS35(12-13),monberg_bellona_1991,
-mWB,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
 mWB,ma'aa,,,,AUS35(12-13),monberg_bellona_1991,
-mMeB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
 mMeB,tu'aatina,,,,AUS35(12-13),monberg_bellona_1991,Inferred; NA
-mMyB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
 mMyB,tu'aatina,,,,AUS35(12-13),monberg_bellona_1991,Inferred; NA
-fMB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,
 fMB,tu'aatina,,,,AUS35(12-13),monberg_bellona_1991,
-fBW,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
 fBW,ma'aa,,,,AUS35(12-13),monberg_bellona_1991,
-fHZ,ma'aa,,,,AUS34(13-20),elbert_two_1965-1,
 fHZ,ma'aa,,,,AUS35(12-13),monberg_bellona_1991,
-fMeB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
 fMeB,tu'aatina,,,,AUS35(12-13),monberg_bellona_1991,Inferred; NA
-fMyB,tu'aatina,,,,AUS34(13-20),elbert_two_1965-1,Inferred; NA
 fMyB,tu'aatina,,,,AUS35(12-13),monberg_bellona_1991,Inferred; NA

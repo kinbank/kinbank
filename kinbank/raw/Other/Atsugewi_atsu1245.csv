@@ -1,7 +1,5 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,nipstir,,,,AET1(40),gifford_californian_1922,
-meB,pupa,,,,,,
-myB,haiyu,,,,,,
 meZ,romikeni,,,,AET1(40),gifford_californian_1922,
 myZ,t'ida,,,,AET1(40),gifford_californian_1922,
 mF,tata,,,,AET1(40),gifford_californian_1922,
@@ -12,7 +10,6 @@ mFF,apun,,,,AET1(40),gifford_californian_1922,
 mFM,amun,,,,AET1(40),gifford_californian_1922,
 mMF,aqon,,,,AET1(40),gifford_californian_1922,
 mMM,tcuwa,,,,AET1(40),gifford_californian_1922,
-mCC,apun,,,,,,
 mFB,nipstir,,,,AET1(40),gifford_californian_1922,
 mFZ,petcir,,,,AET1(40),gifford_californian_1922,
 mMB,tsimi,,,,AET1(40),gifford_californian_1922,
@@ -65,7 +62,6 @@ mHF,mipswur,,,,AET1(40),gifford_californian_1922,
 mHM,mipswur,,,,AET1(40),gifford_californian_1922,
 mWF,mipswur,,,,AET1(40),gifford_californian_1922,
 mWM,mipswur,,,,AET1(40),gifford_californian_1922,
-mBW,mipswur,,,,,,
 mFeB,nipstir,,,,AET1(40),gifford_californian_1922,Inferred; NA
 mFyB,nipstir,,,,AET1(40),gifford_californian_1922,Inferred; NA
 mFeZ,petcir,,,,AET1(40),gifford_californian_1922,Inferred; NA

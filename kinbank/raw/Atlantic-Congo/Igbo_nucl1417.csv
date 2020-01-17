@@ -1,32 +1,17 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,nwa nnɛ,,,,AC12(86),ardener_kinship_1954,used for full siblings (literally 'children of one's mother')
 mG,nwa nna,,,,AC12(86),ardener_kinship_1954,"used children of father's other wives (i.e., paternal half-siblings) (literally 'children of one's father')"
-mG,nwannē,,,,AC13(200),williamson_dictionary_1972,"also used to mean 'relative', 'close friend'"
-mB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,also used to mean 'male relation'
-mZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,also used to mean 'female relative'
 mF,nna,,,,AC12(86),ardener_kinship_1954,
-mF,nnà,,,,AC13(197),williamson_dictionary_1972,
 mM,nnɛ,,,,AC12(86),ardener_kinship_1954,
-mM,nne,,,,AC13(197),williamson_dictionary_1972,
 mC,nwa,,,,AC12(86),ardener_kinship_1954,
-mS,nwa nwokē,,,,AC13(200),williamson_dictionary_1972,
-mD,nwa nwaàyì,,,,AC13(200),williamson_dictionary_1972,
-mA,nnà ochīè,,,,AC13(197),williamson_dictionary_1972,
 mFF,nna nna,,,,AC12(89),ardener_kinship_1954,
 mFM,nnɛ nnɛ,,,,AC12(89),ardener_kinship_1954,"term literally means 'mother's mother', but it does mean father's mother (MM is called by a different term)"
-mFM,nne nnà,,,,AC13(197),williamson_dictionary_1972,
 mMF,nna ocɛ,,,,AC12(90),ardener_kinship_1954,term applies to mother's eldest brother if MF is dead
-mMF,nnà ochīè,,,,AC13(197),williamson_dictionary_1972,
 mMM,nnɛ ocɛ,,,,AC12(90),ardener_kinship_1954,
-mMM,nne nnē,,,,AC13(197),williamson_dictionary_1972,
-mMM,nne ochīè,,,,AC13(197),williamson_dictionary_1972,
-mCC,nwa nnwā,,,,AC13(200),williamson_dictionary_1972,
 mSS,nwa,,,,AC12(90),ardener_kinship_1954,
 mSD,nwa,,,,AC12(90),ardener_kinship_1954,
 mDS,okɛlɛ,,,,AC12(90),ardener_kinship_1954,
 mDD,okɛlɛ,,,,AC12(90),ardener_kinship_1954,
-mFZ,àda nne nnà,,,,AC13(197),williamson_dictionary_1972,
-mMZ,àda nne nnē,,,,AC13(197),williamson_dictionary_1972,
 mFeB,nna ukwu,,,,AC12(91),ardener_kinship_1954,if the brother is senior or slightly junior to the father
 mFyB,dɛɛ,,,,AC12(91),ardener_kinship_1954,if the brother is much younger than the father but older than EGO
 mFyB,nwa nna,,,,AC12(91),ardener_kinship_1954,if the brother is much younger than the father and younger than EGO
@@ -50,24 +35,12 @@ mFZS,okɛlɛ,,,,AC12(90),ardener_kinship_1954,
 mMBS,nwa nnɛ,,,,AC12(90),ardener_kinship_1954,
 mW,nwunyɛ,,,,AC12(90),ardener_kinship_1954,
 mW,nwanye,,,,AC12(90),ardener_kinship_1954,
-mW,nwunyè,,,,AC13(211),williamson_dictionary_1972,
-mW,nwunyì,,,,AC13(211),williamson_dictionary_1972,
 mWF,ɔgɔ nwokho,,,,AC12(90),ardener_kinship_1954,"term used to mean the male affine who receives the bride price (so if WF is dead, term refers to WeB)"
-mWF,ọgò nwokē,,,,AC13(100),williamson_dictionary_1972,glossed as 'father-in-law; male relative by marriage'
-mWF,nnǎ dī,,,,AC13(197),williamson_dictionary_1972,glossed as 'father-in-law; more personal and affectionate than nnā dī'
-mWF,nnā dī,,,,AC13(197),williamson_dictionary_1972,more formal than 'nnǎ dī'
 mWM,ɔgɔ nwanye,,,,AC12(90),ardener_kinship_1954,
-mWM,ọgò nwaànyì,,,,AC13(100),williamson_dictionary_1972,glossed as 'mother-in-law; female relative by marriage'
-mWM,nne nwunyè,,,,AC13(197),williamson_dictionary_1972,
 mWB,ɔgɔ,,,,AC12(90),ardener_kinship_1954,
 mFW(notM),nwunyɛ,,,,AC12(86),ardener_kinship_1954,
-mFW(notM),nwunyè nnà,,,,AC13(197),williamson_dictionary_1972,
 mSW,nwa,,,,AC12(90),ardener_kinship_1954,
 mDH,ɔgɔ,,,,AC12(90),ardener_kinship_1954,
-meB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,Inferred; also used to mean 'male relation'
-myB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,Inferred; also used to mean 'male relation'
-meZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,Inferred; also used to mean 'female relative'
-myZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,Inferred; also used to mean 'female relative'
 myBS,nwa,,,,AC12(90),ardener_kinship_1954,Inferred; NA
 meBD,nwa,,,,AC12(90),ardener_kinship_1954,Inferred; NA
 myBD,nwa,,,,AC12(90),ardener_kinship_1954,Inferred; NA
@@ -99,6 +72,34 @@ mMBeS,nwa nnɛ,,,,AC12(90),ardener_kinship_1954,Inferred; NA
 mMByS,nwa nnɛ,,,,AC12(90),ardener_kinship_1954,Inferred; NA
 mMBeD,nwa nnɛ,,,,AC12(90),ardener_kinship_1954,Inferred; NA
 mMByD,nwa nnɛ,,,,AC12(90),ardener_kinship_1954,Inferred; NA
+fH,di,,,,AC12(95),ardener_kinship_1954,
+mG,nwannē,,,,AC13(200),williamson_dictionary_1972,"also used to mean 'relative', 'close friend'"
+mB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,also used to mean 'male relation'
+mZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,also used to mean 'female relative'
+mF,nnà,,,,AC13(197),williamson_dictionary_1972,
+mM,nne,,,,AC13(197),williamson_dictionary_1972,
+mS,nwa nwokē,,,,AC13(200),williamson_dictionary_1972,
+mD,nwa nwaàyì,,,,AC13(200),williamson_dictionary_1972,
+mA,nnà ochīè,,,,AC13(197),williamson_dictionary_1972,
+mFM,nne nnà,,,,AC13(197),williamson_dictionary_1972,
+mMF,nnà ochīè,,,,AC13(197),williamson_dictionary_1972,
+mMM,nne nnē,,,,AC13(197),williamson_dictionary_1972,
+mMM,nne ochīè,,,,AC13(197),williamson_dictionary_1972,
+mCC,nwa nnwā,,,,AC13(200),williamson_dictionary_1972,
+mFZ,àda nne nnà,,,,AC13(197),williamson_dictionary_1972,
+mMZ,àda nne nnē,,,,AC13(197),williamson_dictionary_1972,
+mW,nwunyè,,,,AC13(211),williamson_dictionary_1972,
+mW,nwunyì,,,,AC13(211),williamson_dictionary_1972,
+mWF,ọgò nwokē,,,,AC13(100),williamson_dictionary_1972,glossed as 'father-in-law; male relative by marriage'
+mWF,nnǎ dī,,,,AC13(197),williamson_dictionary_1972,glossed as 'father-in-law; more personal and affectionate than nnā dī'
+mWF,nnā dī,,,,AC13(197),williamson_dictionary_1972,more formal than 'nnǎ dī'
+mWM,ọgò nwaànyì,,,,AC13(100),williamson_dictionary_1972,glossed as 'mother-in-law; female relative by marriage'
+mWM,nne nwunyè,,,,AC13(197),williamson_dictionary_1972,
+mFW(notM),nwunyè nnà,,,,AC13(197),williamson_dictionary_1972,
+meB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,Inferred; also used to mean 'male relation'
+myB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,Inferred; also used to mean 'male relation'
+meZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,Inferred; also used to mean 'female relative'
+myZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,Inferred; also used to mean 'female relative'
 fG,nwannē,,,,AC13(200),williamson_dictionary_1972,"also used to mean 'relative', 'close friend'"
 fB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,also used to mean 'male relation'
 fZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,also used to mean 'female relative'
@@ -117,5 +118,4 @@ feB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,Inferred; also used t
 fyB,nwannē nwokē,,,,AC13(210),williamson_dictionary_1972,Inferred; also used to mean 'male relation'
 feZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,Inferred; also used to mean 'female relative'
 fyZ,nwannē nwaàyì ̣,,,,AC13(200),williamson_dictionary_1972,Inferred; also used to mean 'female relative'
-fH,di,,,,AC12(95),ardener_kinship_1954,
 fH,di,,,,AC13(58),williamson_dictionary_1972,

@@ -1,5 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,Geschwisterkind,,,,IE74,noauthor_german_nodate,"das Geschwister (sing.)(uncommon), die Geschwister (pl) (common)"
 mG,Geschwister,,,,IE234(268),dodd_modern_1996,
 mPP,Opa,,,,IE234(268),dodd_modern_1996,
 mFM,Oma,,,,IE234(268),dodd_modern_1996,
@@ -7,7 +6,6 @@ mMF,Opa,,,,IE234(268),dodd_modern_1996,
 mMM,Oma,,,,IE234(268),dodd_modern_1996,
 mH,Ehemann,,,,IE234(268),dodd_modern_1996,
 mW,Ehefrau,,,,IE234(268),dodd_modern_1996,
-fG,Geschwisterkind,,,,IE74,noauthor_german_nodate,"das Geschwister (sing.)(uncommon), die Geschwister (pl) (common)"
 fG,Geschwister,,,,IE234(268),dodd_modern_1996,
 fPP,Opa,,,,IE234(268),dodd_modern_1996,
 fFM,Oma,,,,IE234(268),dodd_modern_1996,
@@ -16,422 +14,424 @@ fMM,Oma,,,,IE234(268),dodd_modern_1996,
 fH,Ehemann,,,,IE234(268),dodd_modern_1996,
 fW,Ehefrau,,,,IE234(268),dodd_modern_1996,
 mB,Bruder,,,,IE74,dodd_modern_1996,
-mB,Bruder,,,,IE234(268),noauthor_german_nodate,
 mZ,Schwester,,,,IE74,dodd_modern_1996,
-mZ,Schwester,,,,IE234(268),noauthor_german_nodate,
 meB,Bruder,,,,IE74,dodd_modern_1996,älterer Bruder
-meB,Bruder,,,,IE234(268),noauthor_german_nodate,älterer Bruder
 myB,Bruder,,,,IE74,dodd_modern_1996,jüngerer Bruder
-myB,Bruder,,,,IE234(268),noauthor_german_nodate,jüngerer Bruder
 meZ,Schwester,,,,IE74,dodd_modern_1996,ältere Schwester
-meZ,Schwester,,,,IE234(268),noauthor_german_nodate,ältere Schwester
 myZ,Schwester,,,,IE74,dodd_modern_1996,jüngere Schwester
-myZ,Schwester,,,,IE234(268),noauthor_german_nodate,jüngere Schwester
 mP,Eltern,,,,IE74,dodd_modern_1996,das Elter (very uncommon); Eltern (pl)
-mP,Eltern,,,,IE234(268),noauthor_german_nodate,das Elter (very uncommon); Eltern (pl)
 mF,Vater,,,,IE74,dodd_modern_1996,"Vati, Papa/Papi"
-mF,Vater,,,,IE234(268),noauthor_german_nodate,"Vati, Papa/Papi"
 mM,Mutter,,,,IE74,dodd_modern_1996,"Mutti, Mama/Mami"
-mM,Mutter,,,,IE234(268),noauthor_german_nodate,"Mutti, Mama/Mami"
 mC,Kind,,,,IE74,dodd_modern_1996,
-mC,Kind,,,,IE234(268),noauthor_german_nodate,
 mS,Sohn,,,,IE74,dodd_modern_1996,
-mS,Sohn,,,,IE234(268),noauthor_german_nodate,
 mD,Tochter,,,,IE74,dodd_modern_1996,
-mD,Tochter,,,,IE234(268),noauthor_german_nodate,
 mPP,Großeltern,,,,IE74,dodd_modern_1996,
-mPP,Großeltern,,,,IE234(268),noauthor_german_nodate,
 mFF,Großvater,,,,IE74,dodd_modern_1996,Opa/Opi (informal); Großpapa (not much used; southern Germany?); Großvater (formal)
-mFF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi (informal); Großpapa (not much used; southern Germany?); Großvater (formal)
 mFM,Großmutter,,,,IE74,dodd_modern_1996,Oma/Omi; Großmama; Großmutter (formal)
-mFM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
 mMF,Großvater,,,,IE74,dodd_modern_1996,Opa/Opi; Großpapa; Großvater (formal)
-mMF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi; Großpapa; Großvater (formal)
 mMM,Großmutter,,,,IE74,dodd_modern_1996,Oma/Omi; Großmama; Großmutter (formal)
-mMM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
 mCC,Enkel,,,,IE74,dodd_modern_1996,
-mCC,Enkel,,,,IE234(268),noauthor_german_nodate,
 mCC,Enkelkind,,,,IE74,dodd_modern_1996,
-mCC,Enkelkind,,,,IE234(268),noauthor_german_nodate,
 mSS,Enkelsohn,,,,IE74,dodd_modern_1996,
-mSS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
 mSS,Enkel,,,,IE74,dodd_modern_1996,
-mSS,Enkel,,,,IE234(268),noauthor_german_nodate,
 mSD,Enkeltochter,,,,IE74,dodd_modern_1996,
-mSD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
 mSD,Enkelin,,,,IE74,dodd_modern_1996,
-mSD,Enkelin,,,,IE234(268),noauthor_german_nodate,
 mDS,Enkelsohn,,,,IE74,dodd_modern_1996,
-mDS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
 mDS,Enkel,,,,IE74,dodd_modern_1996,
-mDS,Enkel,,,,IE234(268),noauthor_german_nodate,
 mDD,Enkeltochter,,,,IE74,dodd_modern_1996,
-mDD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
 mDD,Enkelin,,,,IE74,dodd_modern_1996,
-mDD,Enkelin,,,,IE234(268),noauthor_german_nodate,
 mFB,Onkel,,,,IE74,dodd_modern_1996,
-mFB,Onkel,,,,IE234(268),noauthor_german_nodate,
 mFZ,Tante,,,,IE74,dodd_modern_1996,
-mFZ,Tante,,,,IE234(268),noauthor_german_nodate,
 mMB,Onkel,,,,IE74,dodd_modern_1996,
-mMB,Onkel,,,,IE234(268),noauthor_german_nodate,
 mMZ,Tante,,,,IE74,dodd_modern_1996,
-mMZ,Tante,,,,IE234(268),noauthor_german_nodate,
 mFeB,Onkel,,,,IE74,dodd_modern_1996,
-mFeB,Onkel,,,,IE234(268),noauthor_german_nodate,
 mFyB,Onkel,,,,IE74,dodd_modern_1996,
-mFyB,Onkel,,,,IE234(268),noauthor_german_nodate,
 mFeZ,Tante,,,,IE74,dodd_modern_1996,
-mFeZ,Tante,,,,IE234(268),noauthor_german_nodate,
 mFyZ,Tante,,,,IE74,dodd_modern_1996,
-mFyZ,Tante,,,,IE234(268),noauthor_german_nodate,
 mMeZ,Tante,,,,IE74,dodd_modern_1996,
-mMeZ,Tante,,,,IE234(268),noauthor_german_nodate,
 mMyZ,Tante,,,,IE74,dodd_modern_1996,
-mMyZ,Tante,,,,IE234(268),noauthor_german_nodate,
 mMeB,Onkel,,,,IE74,dodd_modern_1996,
-mMeB,Onkel,,,,IE234(268),noauthor_german_nodate,
 mMyB,Onkel,,,,IE74,dodd_modern_1996,
-mMyB,Onkel,,,,IE234(268),noauthor_german_nodate,
 mBS,Neffe,,,,IE74,dodd_modern_1996,
-mBS,Neffe,,,,IE234(268),noauthor_german_nodate,
 mBD,Nichte,,,,IE74,dodd_modern_1996,
-mBD,Nichte,,,,IE234(268),noauthor_german_nodate,
 mZS,Neffe,,,,IE74,dodd_modern_1996,
-mZS,Neffe,,,,IE234(268),noauthor_german_nodate,
 mZD,Nichte,,,,IE74,dodd_modern_1996,
-mZD,Nichte,,,,IE234(268),noauthor_german_nodate,
 meBS,Neffe,,,,IE74,dodd_modern_1996,
-meBS,Neffe,,,,IE234(268),noauthor_german_nodate,
 myBS,Neffe,,,,IE74,dodd_modern_1996,
-myBS,Neffe,,,,IE234(268),noauthor_german_nodate,
 meBD,Nichte,,,,IE74,dodd_modern_1996,
-meBD,Nichte,,,,IE234(268),noauthor_german_nodate,
 myBD,Nichte,,,,IE74,dodd_modern_1996,
-myBD,Nichte,,,,IE234(268),noauthor_german_nodate,
 meZS,Neffe,,,,IE74,dodd_modern_1996,
-meZS,Neffe,,,,IE234(268),noauthor_german_nodate,
 myZS,Neffe,,,,IE74,dodd_modern_1996,
-myZS,Neffe,,,,IE234(268),noauthor_german_nodate,
 meZD,Nichte,,,,IE74,dodd_modern_1996,
-meZD,Nichte,,,,IE234(268),noauthor_german_nodate,
 myZD,Nichte,,,,IE74,dodd_modern_1996,
-myZD,Nichte,,,,IE234(268),noauthor_german_nodate,
 mFZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFeBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFyBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFeZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFyZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFeBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFyBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFeZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFyZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMeBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMyBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMeZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMyZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMeBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMyBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMeZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMyZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFBeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFByS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFZeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFZyS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mFZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mFBeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFByD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFZeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mFZyD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mFZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMBeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMByS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMZeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMZyS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-mMZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 mMBeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMByD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMZeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mMZyD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-mMZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 mH,Mann,,,,IE74,dodd_modern_1996,"Ehemann (formal), Ehegatte (most formal), Gatte, Ehepartner"
-mH,Mann,,,,IE234(268),noauthor_german_nodate,"Ehemann (formal), Ehegatte (most formal), Gatte, Ehepartner"
 mW,Frau,,,,IE74,dodd_modern_1996,"Ehefrau (formal) Ehegattin (most formal), Gattin, Ehepartner(in)"
-mW,Frau,,,,IE234(268),noauthor_german_nodate,"Ehefrau (formal) Ehegattin (most formal), Gattin, Ehepartner(in)"
 mHF,Schwiegervater,,,,IE74,dodd_modern_1996,
-mHF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
 mHM,Schwiegermutter,,,,IE74,dodd_modern_1996,
-mHM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
 mWF,Schwiegervater,,,,IE74,dodd_modern_1996,
-mWF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
 mWM,Schwiegermutter,,,,IE74,dodd_modern_1996,
-mWM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
 mBW,Schwägerin,,,,IE74,dodd_modern_1996,
-mBW,Schwägerin,,,,IE234(268),noauthor_german_nodate,
 mZH,Schwager,,,,IE74,dodd_modern_1996,
-mZH,Schwager,,,,IE234(268),noauthor_german_nodate,
 mWB,Schwager,,,,IE74,dodd_modern_1996,
-mWB,Schwager,,,,IE234(268),noauthor_german_nodate,
 mWZ,Schwägerin,,,,IE74,dodd_modern_1996,
-mWZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
 mHB,Schwager,,,,IE74,dodd_modern_1996,
-mHB,Schwager,,,,IE234(268),noauthor_german_nodate,
 mHZ,Schwägerin,,,,IE74,dodd_modern_1996,
-mHZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
 mSW,Schwiegertochter,,,,IE74,dodd_modern_1996,
-mSW,Schwiegertochter,,,,IE234(268),noauthor_german_nodate,
 mDH,Schwiegersohn,,,,IE74,dodd_modern_1996,
-mDH,Schwiegersohn,,,,IE234(268),noauthor_german_nodate,
 fB,Bruder,,,,IE74,dodd_modern_1996,
-fB,Bruder,,,,IE234(268),noauthor_german_nodate,
 fZ,Schwester,,,,IE74,dodd_modern_1996,
-fZ,Schwester,,,,IE234(268),noauthor_german_nodate,
 feB,Bruder,,,,IE74,dodd_modern_1996,älterer Bruder
-feB,Bruder,,,,IE234(268),noauthor_german_nodate,älterer Bruder
 fyB,Bruder,,,,IE74,dodd_modern_1996,jüngerer Bruder
-fyB,Bruder,,,,IE234(268),noauthor_german_nodate,jüngerer Bruder
 feZ,Schwester,,,,IE74,dodd_modern_1996,ältere Schwester
-feZ,Schwester,,,,IE234(268),noauthor_german_nodate,ältere Schwester
 fyZ,Schwester,,,,IE74,dodd_modern_1996,jüngere Schwester
-fyZ,Schwester,,,,IE234(268),noauthor_german_nodate,jüngere Schwester
 fP,Eltern,,,,IE74,dodd_modern_1996,das Elter (very uncommon); Eltern (pl)
-fP,Eltern,,,,IE234(268),noauthor_german_nodate,das Elter (very uncommon); Eltern (pl)
 fF,Vater,,,,IE74,dodd_modern_1996,"Vati, Papa/Papi"
-fF,Vater,,,,IE234(268),noauthor_german_nodate,"Vati, Papa/Papi"
 fM,Mutter,,,,IE74,dodd_modern_1996,"Mutti, Mama/Mami"
-fM,Mutter,,,,IE234(268),noauthor_german_nodate,"Mutti, Mama/Mami"
 fC,Kind,,,,IE74,dodd_modern_1996,
-fC,Kind,,,,IE234(268),noauthor_german_nodate,
 fS,Sohn,,,,IE74,dodd_modern_1996,
-fS,Sohn,,,,IE234(268),noauthor_german_nodate,
 fD,Tochter,,,,IE74,dodd_modern_1996,
-fD,Tochter,,,,IE234(268),noauthor_german_nodate,
 fPP,Großeltern,,,,IE74,dodd_modern_1996,
-fPP,Großeltern,,,,IE234(268),noauthor_german_nodate,
 fFF,Großvater,,,,IE74,dodd_modern_1996,Opa/Opi (informal); Großpapa (not much used; southern Germany?); Großvater (formal)
-fFF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi (informal); Großpapa (not much used; southern Germany?); Großvater (formal)
 fFM,Großmutter,,,,IE74,dodd_modern_1996,Oma/Omi; Großmama; Großmutter (formal)
-fFM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
 fMF,Großvater,,,,IE74,dodd_modern_1996,Opa/Opi; Großpapa; Großvater (formal)
-fMF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi; Großpapa; Großvater (formal)
 fMM,Großmutter,,,,IE74,dodd_modern_1996,Oma/Omi; Großmama; Großmutter (formal)
-fMM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
 fCC,Enkel,,,,IE74,dodd_modern_1996,
-fCC,Enkel,,,,IE234(268),noauthor_german_nodate,
 fCC,Enkelkind,,,,IE74,dodd_modern_1996,
-fCC,Enkelkind,,,,IE234(268),noauthor_german_nodate,
 fSS,Enkelsohn,,,,IE74,dodd_modern_1996,
-fSS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
 fSS,Enkel,,,,IE74,dodd_modern_1996,
-fSS,Enkel,,,,IE234(268),noauthor_german_nodate,
 fSD,Enkeltochter,,,,IE74,dodd_modern_1996,
-fSD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
 fSD,Enkelin,,,,IE74,dodd_modern_1996,
-fSD,Enkelin,,,,IE234(268),noauthor_german_nodate,
 fDS,Enkelsohn,,,,IE74,dodd_modern_1996,
-fDS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
 fDS,Enkel,,,,IE74,dodd_modern_1996,
-fDS,Enkel,,,,IE234(268),noauthor_german_nodate,
 fDD,Enkeltochter,,,,IE74,dodd_modern_1996,
-fDD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
 fDD,Enkelin,,,,IE74,dodd_modern_1996,
-fDD,Enkelin,,,,IE234(268),noauthor_german_nodate,
 fFB,Onkel,,,,IE74,dodd_modern_1996,
-fFB,Onkel,,,,IE234(268),noauthor_german_nodate,
 fFZ,Tante,,,,IE74,dodd_modern_1996,
-fFZ,Tante,,,,IE234(268),noauthor_german_nodate,
 fMB,Onkel,,,,IE74,dodd_modern_1996,
-fMB,Onkel,,,,IE234(268),noauthor_german_nodate,
 fMZ,Tante,,,,IE74,dodd_modern_1996,
-fMZ,Tante,,,,IE234(268),noauthor_german_nodate,
 fFeB,Onkel,,,,IE74,dodd_modern_1996,
-fFeB,Onkel,,,,IE234(268),noauthor_german_nodate,
 fFyB,Onkel,,,,IE74,dodd_modern_1996,
-fFyB,Onkel,,,,IE234(268),noauthor_german_nodate,
 fFeZ,Tante,,,,IE74,dodd_modern_1996,
-fFeZ,Tante,,,,IE234(268),noauthor_german_nodate,
 fFyZ,Tante,,,,IE74,dodd_modern_1996,
-fFyZ,Tante,,,,IE234(268),noauthor_german_nodate,
 fMeZ,Tante,,,,IE74,dodd_modern_1996,
-fMeZ,Tante,,,,IE234(268),noauthor_german_nodate,
 fMyZ,Tante,,,,IE74,dodd_modern_1996,
-fMyZ,Tante,,,,IE234(268),noauthor_german_nodate,
 fMeB,Onkel,,,,IE74,dodd_modern_1996,
-fMeB,Onkel,,,,IE234(268),noauthor_german_nodate,
 fMyB,Onkel,,,,IE74,dodd_modern_1996,
-fMyB,Onkel,,,,IE234(268),noauthor_german_nodate,
 fBS,Neffe,,,,IE74,dodd_modern_1996,
-fBS,Neffe,,,,IE234(268),noauthor_german_nodate,
 fBD,Nichte,,,,IE74,dodd_modern_1996,
-fBD,Nichte,,,,IE234(268),noauthor_german_nodate,
 fZS,Neffe,,,,IE74,dodd_modern_1996,
-fZS,Neffe,,,,IE234(268),noauthor_german_nodate,
 fZD,Nichte,,,,IE74,dodd_modern_1996,
-fZD,Nichte,,,,IE234(268),noauthor_german_nodate,
 feBS,Neffe,,,,IE74,dodd_modern_1996,
-feBS,Neffe,,,,IE234(268),noauthor_german_nodate,
 fyBS,Neffe,,,,IE74,dodd_modern_1996,
-fyBS,Neffe,,,,IE234(268),noauthor_german_nodate,
 feBD,Nichte,,,,IE74,dodd_modern_1996,
-feBD,Nichte,,,,IE234(268),noauthor_german_nodate,
 fyBD,Nichte,,,,IE74,dodd_modern_1996,
-fyBD,Nichte,,,,IE234(268),noauthor_german_nodate,
 feZS,Neffe,,,,IE74,dodd_modern_1996,
-feZS,Neffe,,,,IE234(268),noauthor_german_nodate,
 fyZS,Neffe,,,,IE74,dodd_modern_1996,
-fyZS,Neffe,,,,IE234(268),noauthor_german_nodate,
 feZD,Nichte,,,,IE74,dodd_modern_1996,
-feZD,Nichte,,,,IE234(268),noauthor_german_nodate,
 fyZD,Nichte,,,,IE74,dodd_modern_1996,
-fyZD,Nichte,,,,IE234(268),noauthor_german_nodate,
 fFZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFeBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFyBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFeZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFyZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFeBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFyBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFeZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFyZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMeBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMyBS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMeZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMyZS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMeBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMyBD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMeZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMyZD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFBeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFByS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFZeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFZyS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fFZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fFBeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFByD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFZeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fFZyD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fFZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMBeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMByS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMZeS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMZyS,Cousin,,,,IE74,dodd_modern_1996,Vetter (rare)
-fMZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
 fMBeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMByD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMZeD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fMZyD,Cousine,,,,IE74,dodd_modern_1996,Base (old-fashioned)
-fMZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
 fH,Mann,,,,IE74,dodd_modern_1996,"Ehemann (formal), Ehegatte (most formal), Gatte, Ehepartner"
-fH,Mann,,,,IE234(268),noauthor_german_nodate,"Ehemann (formal), Ehegatte (most formal), Gatte, Ehepartner"
 fW,Frau,,,,IE74,dodd_modern_1996,"Ehefrau (formal) Ehegattin (most formal), Gattin, Ehepartner(in)"
-fW,Frau,,,,IE234(268),noauthor_german_nodate,"Ehefrau (formal) Ehegattin (most formal), Gattin, Ehepartner(in)"
 fHF,Schwiegervater,,,,IE74,dodd_modern_1996,
-fHF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
 fHM,Schwiegermutter,,,,IE74,dodd_modern_1996,
-fHM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
 fWF,Schwiegervater,,,,IE74,dodd_modern_1996,
-fWF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
 fWM,Schwiegermutter,,,,IE74,dodd_modern_1996,
-fWM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
 fBW,Schwägerin,,,,IE74,dodd_modern_1996,
-fBW,Schwägerin,,,,IE234(268),noauthor_german_nodate,
 fZH,Schwager,,,,IE74,dodd_modern_1996,
-fZH,Schwager,,,,IE234(268),noauthor_german_nodate,
 fWB,Schwager,,,,IE74,dodd_modern_1996,
-fWB,Schwager,,,,IE234(268),noauthor_german_nodate,
 fWZ,Schwägerin,,,,IE74,dodd_modern_1996,
-fWZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
 fHB,Schwager,,,,IE74,dodd_modern_1996,
-fHB,Schwager,,,,IE234(268),noauthor_german_nodate,
 fHZ,Schwägerin,,,,IE74,dodd_modern_1996,
-fHZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
 fSW,Schwiegertochter,,,,IE74,dodd_modern_1996,
-fSW,Schwiegertochter,,,,IE234(268),noauthor_german_nodate,
 fDH,Schwiegersohn,,,,IE74,dodd_modern_1996,
+mG,Geschwisterkind,,,,IE74,noauthor_german_nodate,"das Geschwister (sing.)(uncommon), die Geschwister (pl) (common)"
+fG,Geschwisterkind,,,,IE74,noauthor_german_nodate,"das Geschwister (sing.)(uncommon), die Geschwister (pl) (common)"
+mB,Bruder,,,,IE234(268),noauthor_german_nodate,
+mZ,Schwester,,,,IE234(268),noauthor_german_nodate,
+meB,Bruder,,,,IE234(268),noauthor_german_nodate,älterer Bruder
+myB,Bruder,,,,IE234(268),noauthor_german_nodate,jüngerer Bruder
+meZ,Schwester,,,,IE234(268),noauthor_german_nodate,ältere Schwester
+myZ,Schwester,,,,IE234(268),noauthor_german_nodate,jüngere Schwester
+mP,Eltern,,,,IE234(268),noauthor_german_nodate,das Elter (very uncommon); Eltern (pl)
+mF,Vater,,,,IE234(268),noauthor_german_nodate,"Vati, Papa/Papi"
+mM,Mutter,,,,IE234(268),noauthor_german_nodate,"Mutti, Mama/Mami"
+mC,Kind,,,,IE234(268),noauthor_german_nodate,
+mS,Sohn,,,,IE234(268),noauthor_german_nodate,
+mD,Tochter,,,,IE234(268),noauthor_german_nodate,
+mPP,Großeltern,,,,IE234(268),noauthor_german_nodate,
+mFF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi (informal); Großpapa (not much used; southern Germany?); Großvater (formal)
+mFM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
+mMF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi; Großpapa; Großvater (formal)
+mMM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
+mCC,Enkel,,,,IE234(268),noauthor_german_nodate,
+mCC,Enkelkind,,,,IE234(268),noauthor_german_nodate,
+mSS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
+mSS,Enkel,,,,IE234(268),noauthor_german_nodate,
+mSD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
+mSD,Enkelin,,,,IE234(268),noauthor_german_nodate,
+mDS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
+mDS,Enkel,,,,IE234(268),noauthor_german_nodate,
+mDD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
+mDD,Enkelin,,,,IE234(268),noauthor_german_nodate,
+mFB,Onkel,,,,IE234(268),noauthor_german_nodate,
+mFZ,Tante,,,,IE234(268),noauthor_german_nodate,
+mMB,Onkel,,,,IE234(268),noauthor_german_nodate,
+mMZ,Tante,,,,IE234(268),noauthor_german_nodate,
+mFeB,Onkel,,,,IE234(268),noauthor_german_nodate,
+mFyB,Onkel,,,,IE234(268),noauthor_german_nodate,
+mFeZ,Tante,,,,IE234(268),noauthor_german_nodate,
+mFyZ,Tante,,,,IE234(268),noauthor_german_nodate,
+mMeZ,Tante,,,,IE234(268),noauthor_german_nodate,
+mMyZ,Tante,,,,IE234(268),noauthor_german_nodate,
+mMeB,Onkel,,,,IE234(268),noauthor_german_nodate,
+mMyB,Onkel,,,,IE234(268),noauthor_german_nodate,
+mBS,Neffe,,,,IE234(268),noauthor_german_nodate,
+mBD,Nichte,,,,IE234(268),noauthor_german_nodate,
+mZS,Neffe,,,,IE234(268),noauthor_german_nodate,
+mZD,Nichte,,,,IE234(268),noauthor_german_nodate,
+meBS,Neffe,,,,IE234(268),noauthor_german_nodate,
+myBS,Neffe,,,,IE234(268),noauthor_german_nodate,
+meBD,Nichte,,,,IE234(268),noauthor_german_nodate,
+myBD,Nichte,,,,IE234(268),noauthor_german_nodate,
+meZS,Neffe,,,,IE234(268),noauthor_german_nodate,
+myZS,Neffe,,,,IE234(268),noauthor_german_nodate,
+meZD,Nichte,,,,IE234(268),noauthor_german_nodate,
+myZD,Nichte,,,,IE234(268),noauthor_german_nodate,
+mFZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mFBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mFZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+mMBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mMZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+mH,Mann,,,,IE234(268),noauthor_german_nodate,"Ehemann (formal), Ehegatte (most formal), Gatte, Ehepartner"
+mW,Frau,,,,IE234(268),noauthor_german_nodate,"Ehefrau (formal) Ehegattin (most formal), Gattin, Ehepartner(in)"
+mHF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
+mHM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
+mWF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
+mWM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
+mBW,Schwägerin,,,,IE234(268),noauthor_german_nodate,
+mZH,Schwager,,,,IE234(268),noauthor_german_nodate,
+mWB,Schwager,,,,IE234(268),noauthor_german_nodate,
+mWZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
+mHB,Schwager,,,,IE234(268),noauthor_german_nodate,
+mHZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
+mSW,Schwiegertochter,,,,IE234(268),noauthor_german_nodate,
+mDH,Schwiegersohn,,,,IE234(268),noauthor_german_nodate,
+fB,Bruder,,,,IE234(268),noauthor_german_nodate,
+fZ,Schwester,,,,IE234(268),noauthor_german_nodate,
+feB,Bruder,,,,IE234(268),noauthor_german_nodate,älterer Bruder
+fyB,Bruder,,,,IE234(268),noauthor_german_nodate,jüngerer Bruder
+feZ,Schwester,,,,IE234(268),noauthor_german_nodate,ältere Schwester
+fyZ,Schwester,,,,IE234(268),noauthor_german_nodate,jüngere Schwester
+fP,Eltern,,,,IE234(268),noauthor_german_nodate,das Elter (very uncommon); Eltern (pl)
+fF,Vater,,,,IE234(268),noauthor_german_nodate,"Vati, Papa/Papi"
+fM,Mutter,,,,IE234(268),noauthor_german_nodate,"Mutti, Mama/Mami"
+fC,Kind,,,,IE234(268),noauthor_german_nodate,
+fS,Sohn,,,,IE234(268),noauthor_german_nodate,
+fD,Tochter,,,,IE234(268),noauthor_german_nodate,
+fPP,Großeltern,,,,IE234(268),noauthor_german_nodate,
+fFF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi (informal); Großpapa (not much used; southern Germany?); Großvater (formal)
+fFM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
+fMF,Großvater,,,,IE234(268),noauthor_german_nodate,Opa/Opi; Großpapa; Großvater (formal)
+fMM,Großmutter,,,,IE234(268),noauthor_german_nodate,Oma/Omi; Großmama; Großmutter (formal)
+fCC,Enkel,,,,IE234(268),noauthor_german_nodate,
+fCC,Enkelkind,,,,IE234(268),noauthor_german_nodate,
+fSS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
+fSS,Enkel,,,,IE234(268),noauthor_german_nodate,
+fSD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
+fSD,Enkelin,,,,IE234(268),noauthor_german_nodate,
+fDS,Enkelsohn,,,,IE234(268),noauthor_german_nodate,
+fDS,Enkel,,,,IE234(268),noauthor_german_nodate,
+fDD,Enkeltochter,,,,IE234(268),noauthor_german_nodate,
+fDD,Enkelin,,,,IE234(268),noauthor_german_nodate,
+fFB,Onkel,,,,IE234(268),noauthor_german_nodate,
+fFZ,Tante,,,,IE234(268),noauthor_german_nodate,
+fMB,Onkel,,,,IE234(268),noauthor_german_nodate,
+fMZ,Tante,,,,IE234(268),noauthor_german_nodate,
+fFeB,Onkel,,,,IE234(268),noauthor_german_nodate,
+fFyB,Onkel,,,,IE234(268),noauthor_german_nodate,
+fFeZ,Tante,,,,IE234(268),noauthor_german_nodate,
+fFyZ,Tante,,,,IE234(268),noauthor_german_nodate,
+fMeZ,Tante,,,,IE234(268),noauthor_german_nodate,
+fMyZ,Tante,,,,IE234(268),noauthor_german_nodate,
+fMeB,Onkel,,,,IE234(268),noauthor_german_nodate,
+fMyB,Onkel,,,,IE234(268),noauthor_german_nodate,
+fBS,Neffe,,,,IE234(268),noauthor_german_nodate,
+fBD,Nichte,,,,IE234(268),noauthor_german_nodate,
+fZS,Neffe,,,,IE234(268),noauthor_german_nodate,
+fZD,Nichte,,,,IE234(268),noauthor_german_nodate,
+feBS,Neffe,,,,IE234(268),noauthor_german_nodate,
+fyBS,Neffe,,,,IE234(268),noauthor_german_nodate,
+feBD,Nichte,,,,IE234(268),noauthor_german_nodate,
+fyBD,Nichte,,,,IE234(268),noauthor_german_nodate,
+feZS,Neffe,,,,IE234(268),noauthor_german_nodate,
+fyZS,Neffe,,,,IE234(268),noauthor_german_nodate,
+feZD,Nichte,,,,IE234(268),noauthor_german_nodate,
+fyZD,Nichte,,,,IE234(268),noauthor_german_nodate,
+fFZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMeBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMyBS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMeZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMyZS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMeBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMyBD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMeZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMyZD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fFBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fFZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMBeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMByS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMZeS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMZyS,Cousin,,,,IE234(268),noauthor_german_nodate,Vetter (rare)
+fMBeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMByD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMZeD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fMZyD,Cousine,,,,IE234(268),noauthor_german_nodate,Base (old-fashioned)
+fH,Mann,,,,IE234(268),noauthor_german_nodate,"Ehemann (formal), Ehegatte (most formal), Gatte, Ehepartner"
+fW,Frau,,,,IE234(268),noauthor_german_nodate,"Ehefrau (formal) Ehegattin (most formal), Gattin, Ehepartner(in)"
+fHF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
+fHM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
+fWF,Schwiegervater,,,,IE234(268),noauthor_german_nodate,
+fWM,Schwiegermutter,,,,IE234(268),noauthor_german_nodate,
+fBW,Schwägerin,,,,IE234(268),noauthor_german_nodate,
+fZH,Schwager,,,,IE234(268),noauthor_german_nodate,
+fWB,Schwager,,,,IE234(268),noauthor_german_nodate,
+fWZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
+fHB,Schwager,,,,IE234(268),noauthor_german_nodate,
+fHZ,Schwägerin,,,,IE234(268),noauthor_german_nodate,
+fSW,Schwiegertochter,,,,IE234(268),noauthor_german_nodate,
 fDH,Schwiegersohn,,,,IE234(268),noauthor_german_nodate,

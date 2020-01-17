@@ -1,35 +1,11 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,nopáa,,,,UTO10(256),elliott_dictionary_1999,
-meB,pá$uuk,,,,UTO10(688),elliott_dictionary_1999,
-meZ,qe'svukt,,,,UTO10(1714),elliott_dictionary_1999,
-myZ,más píít,,,,UTO10(1714),elliott_dictionary_1999,youngest sister
-mP,n'áyó',,,,UTO10(1594),elliott_dictionary_1999,plural
 mM,at,,,,UTO4(402),,
-mC,amáya'mal,,,,UTO10(1281),elliott_dictionary_1999,
-mC,kiháat,,,,,,
-mC,kihúutsamal,,,,,,
-mC,tóomo,,,,,,eldest child
-mS,píit,,,,UTO10(1714),elliott_dictionary_1999,youngest son
-mS,káamala,,,,UTO10(1446),elliott_dictionary_1999,
 mD,ʂawáa-may,,,,UTO4(402),,; cogid=2575a
-mA,néshkinlakat,,,,UTO10(1185),elliott_dictionary_1999,
-mA,hamúulawish,,,,UTO10(1185),elliott_dictionary_1999,
-mFF,kwá'a,,,,UTO10(1447),elliott_dictionary_1999,
 mFF,ká',,,,UTO4(200),,
 mFF,qá',,,,UTO4(200),,; cogid=1050a
-mFF,ká'naxánmal,,,,UTO10(1594),elliott_dictionary_1999,
-mFF,ká'ya'ásh,,,,UTO10(1594),elliott_dictionary_1999,
-mFM,ká'néshmal,,,,UTO10(1594),elliott_dictionary_1999,
 mFM,qá',,,,UTO4(200),,; cogid=1050a
 mFM,ká',,,,UTO4(200),,; cogid=1050a
-mFM,túutu,,,,UTO10(1447),elliott_dictionary_1999,
-mFM,ká'Sungáal,,,,UTO10(1594),elliott_dictionary_1999,
-mMM,túutu,,,,UTO10(1447),elliott_dictionary_1999,
-mSS,ká'may,,,,UTO10(1728),elliott_dictionary_1999,
-mSD,ká'may,,,,UTO10(1728),elliott_dictionary_1999,
 mMB,táá'aʂ,,,,UTO4(381),,; cogid=2432
-mFeB,kmo,,,,UTO10(382),elliott_dictionary_1999,
-mFeB,kmo,,,,UTO10(1399),elliott_dictionary_1999,
 mFeZ,páa-may,,,,UTO4(61),,Inferred; ; cogid=88a
 mFyZ,páa-may,,,,UTO4(61),,Inferred; ; cogid=88a
 mBS,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
@@ -39,38 +15,23 @@ mZS,kúúli-may,,,,UTO4(327),,Older sister's child; cogid=2000
 mZD,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
 mZD,kúúli-may,,,,UTO4(327),,Older sister's child; cogid=2000
 meBS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-meBS,máay,,,,UTO10(1564),elliott_dictionary_1999,
 myBS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-myBS,-máay,,,,UTO10(489),elliott_dictionary_1999,
-myBS,kmomay,,,,UTO10(396),elliott_dictionary_1999,
-myBS,-másmay,,,,UTO10(500),elliott_dictionary_1999,
 meBD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-meBD,máay,,,,UTO10(1564),elliott_dictionary_1999,
 myBD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-myBD,-máay,,,,UTO10(489),elliott_dictionary_1999,
-myBD,kmomay,,,,UTO10(396),elliott_dictionary_1999,
-myBD,-másmay,,,,UTO10(500),elliott_dictionary_1999,
-myBD,máay,,,,UTO10(1564),elliott_dictionary_1999,
 meZS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 myZS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 meZD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 myZD,kúúli-may,,,,UTO4(327),,Inferred; Older sister's child; cogid=2000
-myZD,nóSmay,,,,UTO10(1567),elliott_dictionary_1999,
 mFZD,yúkʂum,,,,UTO4(299),,; cogid=1787
-mFBS,páa'as,,,,UTO10(1446),elliott_dictionary_1999,
-mFBS,kwámay,,,,UTO10(1399),elliott_dictionary_1999,
 mFZS,yúkʂum,,,,UTO4(299),,; cogid=1787
-mFyBS,má$,,,,UTO10(500),elliott_dictionary_1999,
 mFeZS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mFyZS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mFeZD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mFyZD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mMeBS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mMyBS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-mMeZS,máay,,,,UTO10(1564),elliott_dictionary_1999,
 mMeBD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mMyBD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-mMeZD,máay,,,,UTO10(1564),elliott_dictionary_1999,
 mFZeS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mFZyS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 mFZeD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
@@ -83,6 +44,89 @@ mE,péew,,,,UTO4(402),,; cogid=2579
 mW,ʂuŋáá-l,,,,UTO4(402),,; cogid=2575c
 mW,míxa,,,,UTO4(402),,; cogid=2582
 mW,to'ma,,,,UTO4(402),,; cogid=2585
+fD,ʂawáa-may,,,,UTO4(402),,; cogid=2575a
+fFF,ká',,,,UTO4(200),,
+fFF,qá',,,,UTO4(200),,; cogid=1050a
+fFM,qá',,,,UTO4(200),,; cogid=1050a
+fFM,ká',,,,UTO4(200),,; cogid=1050a
+fMB,táá'aʂ,,,,UTO4(381),,; cogid=2432
+fFeZ,páa-may,,,,UTO4(61),,Inferred; ; cogid=88a
+fFyZ,páa-may,,,,UTO4(61),,Inferred; ; cogid=88a
+fBS,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
+fBD,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
+fZS,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
+fZS,kúúli-may,,,,UTO4(327),,Older sister's child; cogid=2000
+fZD,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
+fZD,kúúli-may,,,,UTO4(327),,Older sister's child; cogid=2000
+feBS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+feBS,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
+fyBS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+fyBS,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
+feBD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+feBD,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
+fyBD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+fyBD,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
+feZS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+fyZS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+feZD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
+fyZD,kúúli-may,,,,UTO4(327),,Inferred; Older sister's child; cogid=2000
+fFZD,yúkʂum,,,,UTO4(299),,; cogid=1787
+fFZS,yúkʂum,,,,UTO4(299),,; cogid=1787
+fFeZS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFyZS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFeZD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFyZD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMeBS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMyBS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMeBD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMyBD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFZeS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFZyS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFZeD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fFZyD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMBeS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMByS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMBeD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fMByD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
+fE,péew,,,,UTO4(402),,; cogid=2579
+fH,kúúŋ,,,,UTO4(227),,
+fH,tó'ma-vu,,,,UTO4(227),,
+meB,nopáa,,,,UTO10(256),elliott_dictionary_1999,
+meB,pá$uuk,,,,UTO10(688),elliott_dictionary_1999,
+meZ,qe'svukt,,,,UTO10(1714),elliott_dictionary_1999,
+myZ,más píít,,,,UTO10(1714),elliott_dictionary_1999,youngest sister
+mP,n'áyó',,,,UTO10(1594),elliott_dictionary_1999,plural
+mC,amáya'mal,,,,UTO10(1281),elliott_dictionary_1999,
+mS,píit,,,,UTO10(1714),elliott_dictionary_1999,youngest son
+mS,káamala,,,,UTO10(1446),elliott_dictionary_1999,
+mA,néshkinlakat,,,,UTO10(1185),elliott_dictionary_1999,
+mA,hamúulawish,,,,UTO10(1185),elliott_dictionary_1999,
+mFF,kwá'a,,,,UTO10(1447),elliott_dictionary_1999,
+mFF,ká'naxánmal,,,,UTO10(1594),elliott_dictionary_1999,
+mFF,ká'ya'ásh,,,,UTO10(1594),elliott_dictionary_1999,
+mFM,ká'néshmal,,,,UTO10(1594),elliott_dictionary_1999,
+mFM,túutu,,,,UTO10(1447),elliott_dictionary_1999,
+mFM,ká'Sungáal,,,,UTO10(1594),elliott_dictionary_1999,
+mMM,túutu,,,,UTO10(1447),elliott_dictionary_1999,
+mSS,ká'may,,,,UTO10(1728),elliott_dictionary_1999,
+mSD,ká'may,,,,UTO10(1728),elliott_dictionary_1999,
+mFeB,kmo,,,,UTO10(382),elliott_dictionary_1999,
+mFeB,kmo,,,,UTO10(1399),elliott_dictionary_1999,
+meBS,máay,,,,UTO10(1564),elliott_dictionary_1999,
+myBS,-máay,,,,UTO10(489),elliott_dictionary_1999,
+myBS,kmomay,,,,UTO10(396),elliott_dictionary_1999,
+myBS,-másmay,,,,UTO10(500),elliott_dictionary_1999,
+meBD,máay,,,,UTO10(1564),elliott_dictionary_1999,
+myBD,-máay,,,,UTO10(489),elliott_dictionary_1999,
+myBD,kmomay,,,,UTO10(396),elliott_dictionary_1999,
+myBD,-másmay,,,,UTO10(500),elliott_dictionary_1999,
+myBD,máay,,,,UTO10(1564),elliott_dictionary_1999,
+myZD,nóSmay,,,,UTO10(1567),elliott_dictionary_1999,
+mFBS,páa'as,,,,UTO10(1446),elliott_dictionary_1999,
+mFBS,kwámay,,,,UTO10(1399),elliott_dictionary_1999,
+mFyBS,má$,,,,UTO10(500),elliott_dictionary_1999,
+mMeZS,máay,,,,UTO10(1564),elliott_dictionary_1999,
+mMeZD,máay,,,,UTO10(1564),elliott_dictionary_1999,
 mHF,ká',,,,UTO10(1399),elliott_dictionary_1999,
 mWF,ká',,,,UTO10(1399),elliott_dictionary_1999,
 mWM,tú'pana,,,,UTO10(1555),elliott_dictionary_1999,
@@ -102,93 +146,43 @@ feZ,qe'svukt,,,,UTO10(1714),elliott_dictionary_1999,
 fyZ,máspíít,,,,UTO10(1714),elliott_dictionary_1999,youngest sister
 fP,n'áyó',,,,UTO10(1594),elliott_dictionary_1999,plural
 fC,amáya'mal,,,,UTO10(1281),elliott_dictionary_1999,
-fC,kiháat,,,,,,
-fC,kihúutsamal,,,,,,
-fC,tóomo,,,,,,eldest child
 fS,píit,,,,UTO10(1714),elliott_dictionary_1999,youngest son
 fS,káamala,,,,UTO10(1446),elliott_dictionary_1999,
-fD,ʂawáa-may,,,,UTO4(402),,; cogid=2575a
 fA,néshkinlakat,,,,UTO10(1185),elliott_dictionary_1999,
 fA,hamúulawish,,,,UTO10(1185),elliott_dictionary_1999,
 fFF,kwá'a,,,,UTO10(1447),elliott_dictionary_1999,
-fFF,ká',,,,UTO4(200),,
-fFF,qá',,,,UTO4(200),,; cogid=1050a
 fFF,ká'naxánmal,,,,UTO10(1594),elliott_dictionary_1999,
 fFF,ká'ya'ásh,,,,UTO10(1594),elliott_dictionary_1999,
 fFM,ká'néshmal,,,,UTO10(1594),elliott_dictionary_1999,
-fFM,qá',,,,UTO4(200),,; cogid=1050a
-fFM,ká',,,,UTO4(200),,; cogid=1050a
 fFM,túutu,,,,UTO10(1447),elliott_dictionary_1999,
 fFM,ká'Sungáal,,,,UTO10(1594),elliott_dictionary_1999,
 fMM,túutu,,,,UTO10(1447),elliott_dictionary_1999,
 fSS,ká'may,,,,UTO10(1728),elliott_dictionary_1999,
 fSD,ká'may,,,,UTO10(1728),elliott_dictionary_1999,
-fMB,táá'aʂ,,,,UTO4(381),,; cogid=2432
 fFeB,kmp,,,,UTO10(382),elliott_dictionary_1999,
 fFeB,kmomay,,,,UTO10(1399),elliott_dictionary_1999,
-fFeZ,páa-may,,,,UTO4(61),,Inferred; ; cogid=88a
-fFyZ,páa-may,,,,UTO4(61),,Inferred; ; cogid=88a
-fBS,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
-fBD,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
-fZS,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
-fZS,kúúli-may,,,,UTO4(327),,Older sister's child; cogid=2000
-fZD,nuʂmay,,,,UTO4(61),,"nephew, niece; cogid=87"
-fZD,kúúli-may,,,,UTO4(327),,Older sister's child; cogid=2000
-feBS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-feBS,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
 feBS,máay,,,,UTO10(1564),elliott_dictionary_1999,
 feBS,kamúmay,,,,UTO10(1567),elliott_dictionary_1999,
-fyBS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 fyBS,-máay,,,,UTO10(489),elliott_dictionary_1999,
-fyBS,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
 fyBS,kmomay,,,,UTO10(396),elliott_dictionary_1999,
 fyBS,-másmay,,,,UTO10(500),elliott_dictionary_1999,
 fyBS,kamúmay,,,,UTO10(1567),elliott_dictionary_1999,
-feBD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-feBD,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
 feBD,máay,,,,UTO10(1564),elliott_dictionary_1999,
-fyBD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 feBD,kamúmay,,,,UTO10(1567),elliott_dictionary_1999,
-fyBD,ááli-may,,,,UTO4(224),,Inferred; woman's brother's child; cogid=1356
 fyBD,-máay,,,,UTO10(489),elliott_dictionary_1999,
 fyBD,kmomay,,,,UTO10(396),elliott_dictionary_1999,
 fyBD,-másmay,,,,UTO10(500),elliott_dictionary_1999,
 fyBD,méela,,,,UTO10(1567),elliott_dictionary_1999,
 fyBD,máay,,,,UTO10(1564),elliott_dictionary_1999,
-feZS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 feZS,méela,,,,UTO10(1567),elliott_dictionary_1999,
-fyZS,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
-feZD,nuʂmay,,,,UTO4(61),,"Inferred; nephew, niece; cogid=87"
 feZD,méela,,,,UTO10(1567),elliott_dictionary_1999,
-fyZD,kúúli-may,,,,UTO4(327),,Inferred; Older sister's child; cogid=2000
 fyZD,nóSmay,,,,UTO10(1567),elliott_dictionary_1999,
 fyZD,méela,,,,UTO10(1567),elliott_dictionary_1999,
-fFZD,yúkʂum,,,,UTO4(299),,; cogid=1787
 fFBS,páa'as,,,,UTO10(1446),elliott_dictionary_1999,
 fFBS,kwámay,,,,UTO10(1399),elliott_dictionary_1999,
-fFZS,yúkʂum,,,,UTO4(299),,; cogid=1787
 fFyBS,má$,,,,UTO10(500),elliott_dictionary_1999,
-fFeZS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fFyZS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fFeZD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fFyZD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMeBS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMyBS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 fMeZS,máay,,,,UTO10(1564),elliott_dictionary_1999,
-fMeBD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMyBD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
 fMeZD,máay,,,,UTO10(1564),elliott_dictionary_1999,
-fFZeS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fFZyS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fFZeD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fFZyD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMBeS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMByS,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMBeD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fMByD,yúkʂum,,,,UTO4(299),,Inferred; ; cogid=1787
-fE,péew,,,,UTO4(402),,; cogid=2579
-fH,kúúŋ,,,,UTO4(227),,
-fH,tó'ma-vu,,,,UTO4(227),,
 fHF,ká',,,,UTO10(1399),elliott_dictionary_1999,
 fWF,ká',,,,UTO10(1399),elliott_dictionary_1999,
 fWM,tú'pana,,,,UTO10(1555),elliott_dictionary_1999,
