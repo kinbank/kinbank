@@ -7,25 +7,17 @@ mS,sunr,,,,IE997,westvik_old_2015,
 mS,sonr,,,,IE997,westvik_old_2015,
 mD,dōttir,,,,IE997,westvik_old_2015,
 mFF,foður-faðir,,,,IE997,westvik_old_2015,
-mFF,mōður-faðir,,,,IE997,westvik_old_2015,
 mFF,afi,,,,IE997,westvik_old_2015,
 mFM,foður-mōðir,,,,IE997,westvik_old_2015,
-mFM,mōður-mōðir,,,,IE997,westvik_old_2015,
 mFM,amma,,,,IE997,westvik_old_2015,
-mMF,foður-faðir,,,,IE997,westvik_old_2015,
 mMF,mōður-faðir,,,,IE997,westvik_old_2015,
 mMF,afi,,,,IE997,westvik_old_2015,
-mMM,foður-mōðir,,,,IE997,westvik_old_2015,
 mMM,mōður-mōðir,,,,IE997,westvik_old_2015,
 mMM,amma,,,,IE997,westvik_old_2015,
 mSS,sonar-sonr,,,,IE997,westvik_old_2015,
-mSS,dōttur-sonr,,,,IE997,westvik_old_2015,
-mSD,sonar-dōttur,,,,IE997,westvik_old_2015,
-mSD,sonar-dōttir,,,,IE997,westvik_old_2015,
-mDS,sonar-sonr,,,,IE997,westvik_old_2015,
+mSD,sonar-dōttur,,,,IE997,westvik_old_2015,sonar-dōttir
 mDS,dōttur-sonr,,,,IE997,westvik_old_2015,
-mDD,sonar-dōttur,,,,IE997,westvik_old_2015,
-mDD,sonar-dōttir,,,,IE997,westvik_old_2015,
+mDD,dōttur-dōttir,,,,IE997,westvik_old_2015,
 mFB,foður-brōðir,,,,IE997,westvik_old_2015,
 mFZ,foður-systir,,,,IE997,westvik_old_2015,
 mMB,mōður-brōðir,,,,IE997,westvik_old_2015,
@@ -34,38 +26,10 @@ mBS,nefi,,,,IE997,westvik_old_2015,
 mBD,nipt,,,,IE997,westvik_old_2015,
 mZS,nefi,,,,IE997,westvik_old_2015,
 mZD,nipt,,,,IE997,westvik_old_2015,
-mFZD,brœðrungr,,,,IE997,westvik_old_2015,
-mFZD,brœðrunga,,,,IE997,westvik_old_2015,
-mFZD,systrungr,,,,IE997,westvik_old_2015,
-mFZD,systrunga,,,,IE997,westvik_old_2015,
-mFBD,brœðrungr,,,,IE997,westvik_old_2015,
 mFBD,brœðrunga,,,,IE997,westvik_old_2015,
-mFBD,systrungr,,,,IE997,westvik_old_2015,
-mFBD,systrunga,,,,IE997,westvik_old_2015,
-mMBD,brœðrungr,,,,IE997,westvik_old_2015,
-mMBD,brœðrunga,,,,IE997,westvik_old_2015,
-mMBD,systrungr,,,,IE997,westvik_old_2015,
-mMBD,systrunga,,,,IE997,westvik_old_2015,
-mMZD,brœðrungr,,,,IE997,westvik_old_2015,
-mMZD,brœðrunga,,,,IE997,westvik_old_2015,
-mMZD,systrungr,,,,IE997,westvik_old_2015,
 mMZD,systrunga,,,,IE997,westvik_old_2015,
 mFBS,brœðrungr,,,,IE997,westvik_old_2015,
-mFBS,brœðrunga,,,,IE997,westvik_old_2015,
-mFBS,systrungr,,,,IE997,westvik_old_2015,
-mFBS,systrunga,,,,IE997,westvik_old_2015,
-mFZS,brœðrungr,,,,IE997,westvik_old_2015,
-mFZS,brœðrunga,,,,IE997,westvik_old_2015,
-mFZS,systrungr,,,,IE997,westvik_old_2015,
-mFZS,systrunga,,,,IE997,westvik_old_2015,
-mMBS,brœðrungr,,,,IE997,westvik_old_2015,
-mMBS,brœðrunga,,,,IE997,westvik_old_2015,
-mMBS,systrungr,,,,IE997,westvik_old_2015,
-mMBS,systrunga,,,,IE997,westvik_old_2015,
-mMZS,brœðrungr,,,,IE997,westvik_old_2015,
-mMZS,brœðrunga,,,,IE997,westvik_old_2015,
 mMZS,systrungr,,,,IE997,westvik_old_2015,
-mMZS,systrunga,,,,IE997,westvik_old_2015,
 mH,verr,,,,IE997,westvik_old_2015,
 mH,maðr,,,,IE997,westvik_old_2015,
 mH,hūs-bōndi,,,,IE997,westvik_old_2015,
@@ -100,132 +64,20 @@ myZS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
 meZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
 myZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
 mFeBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mFyBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mFeBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mFyBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mMeZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mMyZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mMeZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mMyZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mFBeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mFByS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFByS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFByS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFByS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mFBeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFByD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mFByD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFByD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFByD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFZyD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMByS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMByS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMByS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMByS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mMZeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 mMZyS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMBeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMByD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMByD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMByD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMByD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mMZeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 mMZyD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fB,brōðir,,,,IE997,westvik_old_2015,
 fZ,systir,,,,IE997,westvik_old_2015,
@@ -235,25 +87,17 @@ fS,sunr,,,,IE997,westvik_old_2015,
 fS,sonr,,,,IE997,westvik_old_2015,
 fD,dōttir,,,,IE997,westvik_old_2015,
 fFF,foður-faðir,,,,IE997,westvik_old_2015,
-fFF,mōður-faðir,,,,IE997,westvik_old_2015,
 fFF,afi,,,,IE997,westvik_old_2015,
 fFM,foður-mōðir,,,,IE997,westvik_old_2015,
-fFM,mōður-mōðir,,,,IE997,westvik_old_2015,
 fFM,amma,,,,IE997,westvik_old_2015,
-fMF,foður-faðir,,,,IE997,westvik_old_2015,
 fMF,mōður-faðir,,,,IE997,westvik_old_2015,
 fMF,afi,,,,IE997,westvik_old_2015,
-fMM,foður-mōðir,,,,IE997,westvik_old_2015,
 fMM,mōður-mōðir,,,,IE997,westvik_old_2015,
 fMM,amma,,,,IE997,westvik_old_2015,
 fSS,sonar-sonr,,,,IE997,westvik_old_2015,
-fSS,dōttur-sonr,,,,IE997,westvik_old_2015,
-fSD,sonar-dōttur,,,,IE997,westvik_old_2015,
-fSD,sonar-dōttir,,,,IE997,westvik_old_2015,
-fDS,sonar-sonr,,,,IE997,westvik_old_2015,
+fSD,sonar-dōttur,,,,IE997,westvik_old_2015,sonar-dōttir
 fDS,dōttur-sonr,,,,IE997,westvik_old_2015,
-fDD,sonar-dōttur,,,,IE997,westvik_old_2015,
-fDD,sonar-dōttir,,,,IE997,westvik_old_2015,
+fDD,dōttur-dōttir,,,,IE997,westvik_old_2015,
 fFB,foður-brōðir,,,,IE997,westvik_old_2015,
 fFZ,foður-systir,,,,IE997,westvik_old_2015,
 fMB,mōður-brōðir,,,,IE997,westvik_old_2015,
@@ -262,38 +106,10 @@ fBS,nefi,,,,IE997,westvik_old_2015,
 fBD,nipt,,,,IE997,westvik_old_2015,
 fZS,nefi,,,,IE997,westvik_old_2015,
 fZD,nipt,,,,IE997,westvik_old_2015,
-fFZD,brœðrungr,,,,IE997,westvik_old_2015,
-fFZD,brœðrunga,,,,IE997,westvik_old_2015,
-fFZD,systrungr,,,,IE997,westvik_old_2015,
-fFZD,systrunga,,,,IE997,westvik_old_2015,
-fFBD,brœðrungr,,,,IE997,westvik_old_2015,
 fFBD,brœðrunga,,,,IE997,westvik_old_2015,
-fFBD,systrungr,,,,IE997,westvik_old_2015,
-fFBD,systrunga,,,,IE997,westvik_old_2015,
-fMBD,brœðrungr,,,,IE997,westvik_old_2015,
-fMBD,brœðrunga,,,,IE997,westvik_old_2015,
-fMBD,systrungr,,,,IE997,westvik_old_2015,
-fMBD,systrunga,,,,IE997,westvik_old_2015,
-fMZD,brœðrungr,,,,IE997,westvik_old_2015,
-fMZD,brœðrunga,,,,IE997,westvik_old_2015,
-fMZD,systrungr,,,,IE997,westvik_old_2015,
 fMZD,systrunga,,,,IE997,westvik_old_2015,
 fFBS,brœðrungr,,,,IE997,westvik_old_2015,
-fFBS,brœðrunga,,,,IE997,westvik_old_2015,
-fFBS,systrungr,,,,IE997,westvik_old_2015,
-fFBS,systrunga,,,,IE997,westvik_old_2015,
-fFZS,brœðrungr,,,,IE997,westvik_old_2015,
-fFZS,brœðrunga,,,,IE997,westvik_old_2015,
-fFZS,systrungr,,,,IE997,westvik_old_2015,
-fFZS,systrunga,,,,IE997,westvik_old_2015,
-fMBS,brœðrungr,,,,IE997,westvik_old_2015,
-fMBS,brœðrunga,,,,IE997,westvik_old_2015,
-fMBS,systrungr,,,,IE997,westvik_old_2015,
-fMBS,systrunga,,,,IE997,westvik_old_2015,
-fMZS,brœðrungr,,,,IE997,westvik_old_2015,
-fMZS,brœðrunga,,,,IE997,westvik_old_2015,
 fMZS,systrungr,,,,IE997,westvik_old_2015,
-fMZS,systrunga,,,,IE997,westvik_old_2015,
 fH,verr,,,,IE997,westvik_old_2015,
 fH,maðr,,,,IE997,westvik_old_2015,
 fH,hūs-bōndi,,,,IE997,westvik_old_2015,
@@ -328,130 +144,18 @@ fyZS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
 feZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
 fyZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
 fFeBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fFyBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fFeBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fFyBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fMeZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fMyZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyBD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fMeZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fMyZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fFBeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fFByS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFByS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFByS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFByS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fFBeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFByD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fFByD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFByD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFByD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFZyD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMByS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMByS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMByS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMByS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fMZeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyS,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
 fMZyS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyS,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMBeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMByD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMByD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMByD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMByD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fMZeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyD,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyD,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
 fMZyD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
