@@ -1,6 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-mG,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mB,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 mZ,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mZ,nee'ro,,,,ZAM1,briggs_ayoreo_2015,
@@ -32,22 +30,14 @@ mBS,ap-u'ɲaai,,,,ZAM1,briggs_ayoreo_2015,
 mBD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,
 mZS,ap-u'ɲaai,,,,ZAM1,briggs_ayoreo_2015,
 mZD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,
-mFZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 mFZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
-mFBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 mFBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
-mMBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 mMBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
-mMZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 mMZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mFBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-mFBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mFZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-mFZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mMBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-mMBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mMZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-mMZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 mH,a'bay,,,,ZAM1,briggs_ayoreo_2015,
 mW,ako'te,,,,ZAM1,briggs_ayoreo_2015,
 mHF,e'hoo-i,,,,ZAM1,briggs_ayoreo_2015,
@@ -90,71 +80,37 @@ myZS,ap-u'ɲaai,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 meZD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 myZD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFeBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFeBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFyBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFyBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFeZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFeZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFyZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFyZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFeBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFeBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFyBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFyBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFeZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFeZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFyZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFyZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMeBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMeBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMyBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMyBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMeZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMeZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMyZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMyZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMeBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMeBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMyBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMyBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMeZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMeZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMyZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMyZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFBeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFBeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFByS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFByS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFZeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFZeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFZyS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFZyS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFBeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFBeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFByD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFByD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFZeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFZeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mFZyD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mFZyD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMBeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMBeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMByS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMByS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMZeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMZeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMZyS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMZyS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMBeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMBeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMByD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMByD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMZeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMZeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-mMZyD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 mMZyD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fG,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-fG,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fB,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 fZ,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fZ,nee'ro,,,,ZAM1,briggs_ayoreo_2015,
@@ -186,22 +142,14 @@ fBS,ap-u'ɲaai,,,,ZAM1,briggs_ayoreo_2015,
 fBD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,
 fZS,ap-u'ɲaai,,,,ZAM1,briggs_ayoreo_2015,
 fZD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,
-fFZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 fFZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
-fFBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 fFBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
-fMBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 fMBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
-fMZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
 fMZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fFBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-fFBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fFZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-fFZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fMBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-fMBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fMZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,
-fMZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,
 fH,a'bay,,,,ZAM1,briggs_ayoreo_2015,
 fW,ako'te,,,,ZAM1,briggs_ayoreo_2015,
 fHF,e'hoo-i,,,,ZAM1,briggs_ayoreo_2015,
@@ -244,66 +192,34 @@ fyZS,ap-u'ɲaai,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 feZD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fyZD,ap-u'ɲaa,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFeBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFeBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFyBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFyBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFeZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFeZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFyZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFyZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFeBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFeBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFyBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFyBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFeZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFeZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFyZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFyZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMeBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMeBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMyBS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMyBS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMeZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMeZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMyZS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMyZS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMeBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMeBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMyBD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMyBD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMeZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMeZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMyZD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMyZD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFBeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFBeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFByS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFByS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFZeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFZeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFZyS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFZyS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFBeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFBeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFByD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFByD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFZeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFZeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fFZyD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fFZyD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMBeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMBeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMByS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMByS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMZeS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMZeS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMZyS,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMZyS,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMBeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMBeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMByD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMByD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMZeD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMZeD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
-fMZyD,hõ'ra-i,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA
 fMZyD,hõ'ra,,,,ZAM1,briggs_ayoreo_2015,Inferred; NA

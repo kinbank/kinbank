@@ -1,6 +1,106 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 mZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mCC,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mSS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mSD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mDS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mDD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mFBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+mMZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+meB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+myB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+meZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+myZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mFeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mFyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mFeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mFyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mMeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mMyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mMeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mMyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+meBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+myBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+meBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+myBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+meZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+myZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+meZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+myZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fCC,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fSS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fSD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fDS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fDD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fFBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+fMZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
+feB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fyB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+feZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fyZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fFeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fFyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fFeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fFyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fMeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fMyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fMeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fMyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+feBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fyBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+feBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fyBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+feZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fyZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+feZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+fyZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
+mF,fadir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+mM,módir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+mS,sonur,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+mD,dóttir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+fF,fadir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+fM,módir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+fS,sonur,,,,IE86(186),diepeveen_verwantschapstermen_2003,
+fD,dóttir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 mB,albródir,,,,IE86(186),pinson_kinship_1979,
 mZ,alsystir,,,,IE86(186),pinson_kinship_1979,
 mFF,födurfadir,,,,IE86(186),pinson_kinship_1979,
@@ -11,15 +111,6 @@ mMF,módurfadir,,,,IE86(186),pinson_kinship_1979,
 mMF,módurafi,,,,IE86(186),pinson_kinship_1979,
 mMM,módurmódir,,,,IE86(186),pinson_kinship_1979,
 mMM,móduramma,,,,IE86(186),pinson_kinship_1979,
-mFF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mFM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mCC,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mSS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mSD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mDS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mDD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 mSS,sonarsonur,,,,IE86(186),pinson_kinship_1979,
 mSD,donardóttir,,,,IE86(186),pinson_kinship_1979,
 mDS,dóttersonur,,,,IE86(186),pinson_kinship_1979,
@@ -28,14 +119,6 @@ mFB,födurbródir,,,,IE86(186),pinson_kinship_1979,
 mFZ,födursystir,,,,IE86(186),pinson_kinship_1979,
 mMB,módurbródir,,,,IE86(186),pinson_kinship_1979,
 mMZ,módursystir,,,,IE86(186),pinson_kinship_1979,
-mFZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mFB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 mBS,brödursonur,,,,IE86(186),pinson_kinship_1979,
 mBD,bródurdóttur,,,,IE86(186),pinson_kinship_1979,
 mZS,systursonur,,,,IE86(186),pinson_kinship_1979,
@@ -48,14 +131,6 @@ mFBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mFZS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mMBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mMZS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
-mFZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mFZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mFBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mFBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-mMZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 mFeBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mFyBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mFeZS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
@@ -88,48 +163,26 @@ mMBeD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mMByD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mMZeD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 mMZyD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
-meB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 meB,albródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-myB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 myB,albródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-meZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 meZ,alsystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-myZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 myZ,alsystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
 mFeB,födurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mFeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mFyB,födurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mFyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mFeZ,födursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mFeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mFyZ,födursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mFyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mMeZ,módursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mMeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mMyZ,módursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mMyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mMeB,módurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mMeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 mMyB,módurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mMyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
-meBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 meBS,brödursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-myBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 myBS,brödursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-meBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 meBD,bródurdóttur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-myBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 myBD,bródurdóttur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-meZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 meZS,systursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-myZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 myZS,systursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-meZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 meZD,systurdóttir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-myZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 myZD,systurdóttir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 fB,albródir,,,,IE86(186),pinson_kinship_1979,
 fZ,alsystir,,,,IE86(186),pinson_kinship_1979,
 fFF,födurfadir,,,,IE86(186),pinson_kinship_1979,
@@ -140,15 +193,6 @@ fMF,módurfadir,,,,IE86(186),pinson_kinship_1979,
 fMF,módurafi,,,,IE86(186),pinson_kinship_1979,
 fMM,módurmódir,,,,IE86(186),pinson_kinship_1979,
 fMM,móduramma,,,,IE86(186),pinson_kinship_1979,
-fFF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fFM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMF,afi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMM,amma,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fCC,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fSS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fSD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fDS,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fDD,barnabarn,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 fSS,sonarsonur,,,,IE86(186),pinson_kinship_1979,
 fSD,donardóttir,,,,IE86(186),pinson_kinship_1979,
 fDS,dóttersonur,,,,IE86(186),pinson_kinship_1979,
@@ -157,14 +201,6 @@ fFB,födurbródir,,,,IE86(186),pinson_kinship_1979,
 fFZ,födursystir,,,,IE86(186),pinson_kinship_1979,
 fMB,módurbródir,,,,IE86(186),pinson_kinship_1979,
 fMZ,módursystir,,,,IE86(186),pinson_kinship_1979,
-fFZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fFB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 fBS,brödursonur,,,,IE86(186),pinson_kinship_1979,
 fBD,bródurdóttur,,,,IE86(186),pinson_kinship_1979,
 fZS,systursonur,,,,IE86(186),pinson_kinship_1979,
@@ -177,14 +213,6 @@ fFBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fFZS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fMBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fMZS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
-fFZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fFZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fFBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fFBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,
-fMZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,
 fFeBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fFyBS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fFeZS,systkinabörn,,,,IE86(186),pinson_kinship_1979,
@@ -217,59 +245,31 @@ fMBeD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fMByD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fMZeD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
 fMZyD,systkinabörn,,,,IE86(186),pinson_kinship_1979,
-feB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 feB,albródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fyB,bróðir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fyB,albródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-feZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 feZ,alsystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fyZ,systir,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fyZ,alsystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
 fFeB,födurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fFeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fFyB,födurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fFyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fFeZ,födursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fFeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fFyZ,födursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fFyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fMeZ,módursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fMeZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fMyZ,módursystir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fMyZ,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fMeB,módurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fMeB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fMyB,módurbródir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fMyB,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
-feBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 feBS,brödursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fyBS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fyBS,brödursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-feBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 feBD,bródurdóttur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fyBD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fyBD,bródurdóttur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-feZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 feZS,systursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fyZS,frændi,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fyZS,systursonur,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-feZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 feZD,systurdóttir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-fyZD,frænka,,,,IE89(91),diepeveen_verwantschapstermen_2003,Inferred; NA
 fyZD,systurdóttir,,,,IE86(186),pinson_kinship_1979,Inferred; NA
-mF,fadir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 mF,fadir,,,,IE89(91),pinson_kinship_1979,
-mM,módir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 mM,módir,,,,IE89(91),pinson_kinship_1979,
-mS,sonur,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 mS,sonur,,,,IE89(91),pinson_kinship_1979,
-mD,dóttir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 mD,dóttir,,,,IE89(91),pinson_kinship_1979,
-fF,fadir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 fF,fadir,,,,IE89(91),pinson_kinship_1979,
-fM,módir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 fM,módir,,,,IE89(91),pinson_kinship_1979,
-fS,sonur,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 fS,sonur,,,,IE89(91),pinson_kinship_1979,
-fD,dóttir,,,,IE86(186),diepeveen_verwantschapstermen_2003,
 fD,dóttir,,,,IE89(91),pinson_kinship_1979,

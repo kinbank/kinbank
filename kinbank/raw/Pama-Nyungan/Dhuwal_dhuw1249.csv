@@ -1,46 +1,112 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,nhu:piya,,,,PN22(227),heath_dhuwal_1980,
+mMF,ngathi,ŋat̪i,,,PN1,bowern_chirila_2016,"""and similar kinsmen"" (not a useful comment)"
+mDS,gamiñarr,gamiɲar,,,PN1,bowern_chirila_2016,
+mDD,gamiñarr,gamiɲar,,,PN1,bowern_chirila_2016,
+mZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
+mZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
+meZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+myZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+meZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+myZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+fMF,ngathi,ŋat̪i,,,PN1,bowern_chirila_2016,"""and similar kinsmen"" (not a useful comment)"
+fZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
+fZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
+fHZ,dhuway,d̪uway,,,PN1,bowern_chirila_2016,
+feZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+fyZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+feZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+fyZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
+mM,nga:rndi,ŋaːɳdi,,,PN1,bowern_chirila_2016,
+mMM,ma:ri,maːɹi,,,PN1,bowern_chirila_2016,
+mMB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,
+mW,galay,galay,,,PN1,bowern_chirila_2016,
+mWB,galay,galay,,,PN1,bowern_chirila_2016,
+mMeB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
+mMyB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
+fM,nga:rndi,ŋaːɳdi,,,PN1,bowern_chirila_2016,
+fMM,ma:ri,maːɹi,,,PN1,bowern_chirila_2016,
+fMB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,
+fH,dhuway,d̪uway,,,PN1,bowern_chirila_2016,
+fMeB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
+fMyB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
 mZ,yapa,,,,PN17(169),dixon_djapu_1983,
+mF,ma:rlu,,,,PN17(165),dixon_djapu_1983,"glossed as ""daddy"""
+mM,amala,,,,PN17(160),dixon_djapu_1983,"glossed as ""mummy"""
+mFF,ma:ri,,,,PN17(165),dixon_djapu_1983,
+mFM,momu,,,,PN17(166),dixon_djapu_1983,
+mMM,ma:yi,,,,PN17(165),dixon_djapu_1983,
+mFZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,
+mMB,ŋapipi,,,,PN17(167),dixon_djapu_1983,
+mZS,waku,,,,PN17(168),dixon_djapu_1983,
+mZD,waku,,,,PN17(168),dixon_djapu_1983,
+mWM,mukul rumaru,,,,PN17(166),dixon_djapu_1983,
+mFeZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
+mFyZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
+mMeB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
+mMyB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
+meZS,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
+myZS,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
+meZD,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
+myZD,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
+feZ,yapa,,,,PN17(169),dixon_djapu_1983,
+fyZ,gutha,,,,PN17(164),dixon_djapu_1983,
+fF,ma:rlu,,,,PN17(165),dixon_djapu_1983,"glossed as ""daddy"""
+fM,amala,,,,PN17(160),dixon_djapu_1983,"glossed as ""mummy"""
+fFF,ma:ri,,,,PN17(165),dixon_djapu_1983,
+fFM,momu,,,,PN17(166),dixon_djapu_1983,
+fMM,ma:yi,,,,PN17(165),dixon_djapu_1983,
+fFZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,
+fMB,ŋapipi,,,,PN17(167),dixon_djapu_1983,
+fBS,ga:thu,,,,PN17(163),dixon_djapu_1983,
+fBD,ga:thu,,,,PN17(163),dixon_djapu_1983,
+fDH,guurruŋ,,,,PN17(164),dixon_djapu_1983,
+fFeZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
+fFyZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
+fMeB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
+fMyB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
+feBS,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
+fyBS,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
+feBD,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
+fyBD,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
+meB,wa:wa,,,,PN17(168),dixon_djapu_1983,
+myB,gutha,,,,PN17(164),dixon_djapu_1983,
+mM,nga:rndi,ŋaːɳdi,,,PN17(167),dixon_djapu_1983,
+mC,ga:thu,,,,PN17(163),dixon_djapu_1983,
+mMF,ŋathi,,,,PN17(167),dixon_djapu_1983,
+mMM,ma:ri,maːɹi,,,PN17(165),dixon_djapu_1983,
+mW,galay,galay,,,PN17(163),dixon_djapu_1983,
+feB,wa:wa,,,,PN17(168),dixon_djapu_1983,
+fyB,gutha,,,,PN17(164),dixon_djapu_1983,
+fM,nga:rndi,ŋaːɳdi,,,PN17(167),dixon_djapu_1983,
+fC,waku,,,,PN17(168),dixon_djapu_1983,
+fMF,ŋathi,,,,PN17(167),dixon_djapu_1983,
+fMM,ma:ri,maːɹi,,,PN17(165),dixon_djapu_1983,
+fH,dhuway,d̪uway,,,PN17(162),dixon_djapu_1983,
+mB,nhu:piya,,,,PN22(227),heath_dhuwal_1980,
 mZ,yapa,,,,"PN22(24, 234)",heath_dhuwal_1980,
 mZ,mirdiku,,,,PN22(225),heath_dhuwal_1980,term of disrespect
-mF,ma:rlu,,,,PN17(165),dixon_djapu_1983,"glossed as ""daddy"""
 mF,ba:pa,,,,"PN22(24, 207)",heath_dhuwal_1980,
 mF,ma:lu7,,,,PN22(223),heath_dhuwal_1980,
 mF,mu:rri,,,,PN22(226),heath_dhuwal_1980,
-mM,amala,,,,PN17(160),dixon_djapu_1983,"glossed as ""mummy"""
 mM,ŋama7,,,,PN22(228),heath_dhuwal_1980,
 mC,jama,,,,PN22(220),heath_dhuwal_1980,
 mC,walkurr,,,,PN22(232),heath_dhuwal_1980,
 mC,yucuwarla,,,,PN22(235),heath_dhuwal_1980,
 mC,yu:thu,,,,PN22(235),heath_dhuwal_1980,
-mFF,ma:ri,,,,PN17(165),dixon_djapu_1983,
 mFF,amurri,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 mFF,ŋamurri,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 mFF,ma:rri7muŋu,,,,PN22(224),heath_dhuwal_1980,
-mFM,momu,,,,PN17(166),dixon_djapu_1983,
-mMF,ngathi,ŋat̪i,,,PN1,bowern_chirila_2016,"""and similar kinsmen"" (not a useful comment)"
-mMM,ma:yi,,,,PN17(165),dixon_djapu_1983,
-mDS,gamiñarr,gamiɲar,,,PN1,bowern_chirila_2016,
 mDS,gamiɲar,,,,PN22(215),heath_dhuwal_1980,
-mDD,gamiñarr,gamiɲar,,,PN1,bowern_chirila_2016,
 mDD,gamiɲar,,,,PN22(215),heath_dhuwal_1980,
-mFZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,
 mFZ,mu:kul,,,,PN22(225),heath_dhuwal_1980,
-mMB,ŋapipi,,,,PN17(167),dixon_djapu_1983,
 mMB,gawal,,,,PN22(216),heath_dhuwal_1980,
 mMB,gaykay,,,,PN22(217),heath_dhuwal_1980,
-mBS,kaathu,,,,PN2,noauthor_austkin_nodate,
 mBS,waku,,,,PN22(24),heath_dhuwal_1980,
 mBS,ga:thu,,,,PN22(217),heath_dhuwal_1980,
-mBD,kaathu,,,,PN2,noauthor_austkin_nodate,
 mBD,ga:thu,,,,PN22(217),heath_dhuwal_1980,
-mZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
-mZS,waku,,,,PN17(168),dixon_djapu_1983,
 mZS,waku,,,,"PN22(24, 232)",heath_dhuwal_1980,
 mZS,barnga,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 mZS,rlambara,,,,PN22(222),heath_dhuwal_1980,
-mZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
-mZD,waku,,,,PN17(168),dixon_djapu_1983,
 mZD,barnga,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 mZD,rlambara,,,,PN22(222),heath_dhuwal_1980,
 mZD,waku,,,,PN22(232),heath_dhuwal_1980,
@@ -58,49 +124,32 @@ mMBS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,
 mMZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,
 mHM,garkarraŋ,,,,PN22(216),heath_dhuwal_1980,
 mWF,rlambara,,,,PN22(222),heath_dhuwal_1980,
-mWM,mukul rumaru,,,,PN17(166),dixon_djapu_1983,
 mWM,garkarraŋ,,,,PN22(216),heath_dhuwal_1980,
 mBW,galay,galay,,,PN22(215),heath_dhuwal_1980,
 mZH,wulukur7,,,,PN22(234),heath_dhuwal_1980,
 mWB,wulukur7,,,,PN22(234),heath_dhuwal_1980,
 mDH,guruŋ,,,,PN22(25),heath_dhuwal_1980,
-mFeZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
 mFeZ,mu:kul,,,,PN22(225),heath_dhuwal_1980,Inferred; NA
-mFyZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
 mFyZ,mu:kul,,,,PN22(225),heath_dhuwal_1980,Inferred; NA
-mMeB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
 mMeB,gawal,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 mMeB,gaykay,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-mMyB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
 mMyB,gawal,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 mMyB,gaykay,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-meBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
 meBS,waku,,,,PN22(24),heath_dhuwal_1980,Inferred; NA
 meBS,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-myBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
 myBS,waku,,,,PN22(24),heath_dhuwal_1980,Inferred; NA
 myBS,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-meBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
 meBD,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-myBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
 myBD,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-meZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
-meZS,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
 meZS,waku,,,,"PN22(24, 232)",heath_dhuwal_1980,Inferred; NA
 meZS,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 meZS,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
-myZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
-myZS,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
 myZS,waku,,,,"PN22(24, 232)",heath_dhuwal_1980,Inferred; NA
 myZS,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 myZS,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
-meZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
-meZD,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
 meZD,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 meZD,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
 meZD,waku,,,,PN22(232),heath_dhuwal_1980,Inferred; NA
-myZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
-myZD,waku,,,,PN17(168),dixon_djapu_1983,Inferred; NA
 myZD,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 myZD,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
 myZD,waku,,,,PN22(232),heath_dhuwal_1980,Inferred; NA
@@ -119,7 +168,7 @@ mMyBS,garmala,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 mMyBS,garmalaŋ,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 mMyBS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 mMeZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
-mMyZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,
+mMyZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 mMeBD,garmala,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 mMeBD,garmalaŋ,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 mMeBD,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
@@ -155,43 +204,27 @@ mMZyD,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 fB,nhu:piya,,,,PN22(227),heath_dhuwal_1980,
 fZ,yapa,,,,"PN22(24, 234)",heath_dhuwal_1980,
 fZ,mirdiku,,,,PN22(225),heath_dhuwal_1980,term of disrespect
-feZ,yapa,,,,PN17(169),dixon_djapu_1983,
-fyZ,gutha,,,,PN17(164),dixon_djapu_1983,
-fF,ma:rlu,,,,PN17(165),dixon_djapu_1983,"glossed as ""daddy"""
 fF,ba:pa,,,,"PN22(24, 207)",heath_dhuwal_1980,
 fF,ma:lu7,,,,PN22(223),heath_dhuwal_1980,
 fF,mu:rri,,,,PN22(226),heath_dhuwal_1980,
-fM,amala,,,,PN17(160),dixon_djapu_1983,"glossed as ""mummy"""
 fM,ŋama7,,,,PN22(228),heath_dhuwal_1980,
 fC,jama,,,,PN22(220),heath_dhuwal_1980,
 fC,yucuwarla,,,,PN22(235),heath_dhuwal_1980,
 fC,yu:thu,,,,PN22(235),heath_dhuwal_1980,
-fFF,ma:ri,,,,PN17(165),dixon_djapu_1983,
 fFF,amurri,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 fFF,ŋamurri,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 fFF,ma:rri7muŋu,,,,PN22(224),heath_dhuwal_1980,
-fFM,momu,,,,PN17(166),dixon_djapu_1983,
-fMF,ngathi,ŋat̪i,,,PN1,bowern_chirila_2016,"""and similar kinsmen"" (not a useful comment)"
-fMM,ma:yi,,,,PN17(165),dixon_djapu_1983,
 fDS,guthara,,,,PN22(219),heath_dhuwal_1980,
 fDD,guthara,,,,PN22(219),heath_dhuwal_1980,
-fFZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,
 fFZ,mu:kul,,,,PN22(225),heath_dhuwal_1980,
-fMB,ŋapipi,,,,PN17(167),dixon_djapu_1983,
 fMB,gawal,,,,PN22(216),heath_dhuwal_1980,
 fMB,gaykay,,,,PN22(217),heath_dhuwal_1980,
-fBS,kaathu,,,,PN2,noauthor_austkin_nodate,
-fBS,ga:thu,,,,PN17(163),dixon_djapu_1983,
 fBS,waku,,,,PN22(24),heath_dhuwal_1980,
 fBS,ga:thu,,,,PN22(217),heath_dhuwal_1980,
-fBD,kaathu,,,,PN2,noauthor_austkin_nodate,
-fBD,ga:thu,,,,PN17(163),dixon_djapu_1983,
 fBD,ga:thu,,,,PN22(217),heath_dhuwal_1980,
-fZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
 fZS,waku,,,,"PN22(24, 232)",heath_dhuwal_1980,
 fZS,barnga,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 fZS,rlambara,,,,PN22(222),heath_dhuwal_1980,
-fZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,
 fZD,barnga,,,,PN22(207),heath_dhuwal_1980,"glossed as ""creole"""
 fZD,rlambara,,,,PN22(222),heath_dhuwal_1980,
 fZD,waku,,,,PN22(232),heath_dhuwal_1980,
@@ -212,47 +245,29 @@ fWF,rlambara,,,,PN22(222),heath_dhuwal_1980,
 fWM,garkarraŋ,,,,PN22(216),heath_dhuwal_1980,
 fZH,wulukur7,,,,PN22(234),heath_dhuwal_1980,
 fWB,wulukur7,,,,PN22(234),heath_dhuwal_1980,
-fHZ,dhuway,d̪uway,,,PN1,bowern_chirila_2016,
-fDH,guurruŋ,,,,PN17(164),dixon_djapu_1983,
 fDH,guruŋ,,,,PN22(25),heath_dhuwal_1980,
 fDH,guruŋ,,,,PN22(219),heath_dhuwal_1980,
-fFeZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
 fFeZ,mu:kul,,,,PN22(225),heath_dhuwal_1980,Inferred; NA
-fFyZ,mukul ba:pa,,,,PN17(166),dixon_djapu_1983,Inferred; NA
 fFyZ,mu:kul,,,,PN22(225),heath_dhuwal_1980,Inferred; NA
-fMeB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
 fMeB,gawal,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMeB,gaykay,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-fMyB,ŋapipi,,,,PN17(167),dixon_djapu_1983,Inferred; NA
 fMyB,gawal,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMyB,gaykay,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-feBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
-feBS,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
 feBS,waku,,,,PN22(24),heath_dhuwal_1980,Inferred; NA
 feBS,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-fyBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
-fyBS,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
 fyBS,waku,,,,PN22(24),heath_dhuwal_1980,Inferred; NA
 fyBS,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-feBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
-feBD,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
 feBD,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-fyBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
-fyBD,ga:thu,,,,PN17(163),dixon_djapu_1983,Inferred; NA
 fyBD,ga:thu,,,,PN22(217),heath_dhuwal_1980,Inferred; NA
-feZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
 feZS,waku,,,,"PN22(24, 232)",heath_dhuwal_1980,Inferred; NA
 feZS,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 feZS,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
-fyZS,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
 fyZS,waku,,,,"PN22(24, 232)",heath_dhuwal_1980,Inferred; NA
 fyZS,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 fyZS,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
-feZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
 feZD,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 feZD,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
 feZD,waku,,,,PN22(232),heath_dhuwal_1980,Inferred; NA
-fyZD,rlambarra,ɭambara,,,PN1,bowern_chirila_2016,Inferred; NA
 fyZD,barnga,,,,PN22(207),heath_dhuwal_1980,"Inferred; glossed as ""creole"""
 fyZD,rlambara,,,,PN22(222),heath_dhuwal_1980,Inferred; NA
 fyZD,waku,,,,PN22(232),heath_dhuwal_1980,Inferred; NA
@@ -271,7 +286,7 @@ fMyBS,garmala,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMyBS,garmalaŋ,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMyBS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 fMeZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
-fMyZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,
+fMyZS,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 fMeBD,garmala,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMeBD,garmalaŋ,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMeBD,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
@@ -304,48 +319,33 @@ fMByD,garmalaŋ,,,,PN22(216),heath_dhuwal_1980,Inferred; NA
 fMByD,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 fMZeD,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
 fMZyD,mulirriɲ7,,,,PN22(226),heath_dhuwal_1980,Inferred; NA
-meB,wa:wa,,,,PN17(168),dixon_djapu_1983,
 meB,wa:wa,,,,"PN22(24,233)",heath_dhuwal_1980,
-myB,gutha,,,,PN17(164),dixon_djapu_1983,
 myB,gutha,,,,PN22(219),heath_dhuwal_1980,
-mM,nga:rndi,ŋaːɳdi,,,PN1,bowern_chirila_2016,
-mM,nga:rndi,ŋaːɳdi,,,PN17(167),dixon_djapu_1983,
 mM,nga:rndi,ŋaːɳdi,,,PN22(228),heath_dhuwal_1980,
-mC,ga:thu,,,,PN17(163),dixon_djapu_1983,
 mC,ga:thu,,,,PN22(216),heath_dhuwal_1980,
-mMF,ŋathi,,,,PN17(167),dixon_djapu_1983,
 mMF,ŋathi,,,,PN22(229),heath_dhuwal_1980,
-mMM,ma:ri,maːɹi,,,PN1,bowern_chirila_2016,
-mMM,ma:ri,maːɹi,,,PN17(165),dixon_djapu_1983,
-mMB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,
 mMB,ngapipi7,ŋapipiʔ,,,PN22(228),heath_dhuwal_1980,
-mW,galay,galay,,,PN1,bowern_chirila_2016,
-mW,galay,galay,,,PN17(163),dixon_djapu_1983,
 mW,galay,galay,,,PN22(215),heath_dhuwal_1980,
-mWB,galay,galay,,,PN1,bowern_chirila_2016,
 mWB,galay,galay,,,PN22(215),heath_dhuwal_1980,
-mMeB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
 mMeB,ngapipi7,ŋapipiʔ,,,PN22(228),heath_dhuwal_1980,Inferred; NA
-mMyB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
 mMyB,ngapipi7,ŋapipiʔ,,,PN22(228),heath_dhuwal_1980,Inferred; NA
-feB,wa:wa,,,,PN17(168),dixon_djapu_1983,
 feB,wa:wa,,,,"PN22(24,233)",heath_dhuwal_1980,
-fyB,gutha,,,,PN17(164),dixon_djapu_1983,
 fyB,gutha,,,,PN22(219),heath_dhuwal_1980,
-fM,nga:rndi,ŋaːɳdi,,,PN1,bowern_chirila_2016,
-fM,nga:rndi,ŋaːɳdi,,,PN17(167),dixon_djapu_1983,
 fM,nga:rndi,ŋaːɳdi,,,PN22(228),heath_dhuwal_1980,
-fC,waku,,,,PN17(168),dixon_djapu_1983,
 fC,waku,,,,PN22(232),heath_dhuwal_1980,
-fMF,ŋathi,,,,PN17(167),dixon_djapu_1983,
 fMF,ŋathi,,,,PN22(229),heath_dhuwal_1980,
-fMM,ma:ri,maːɹi,,,PN1,bowern_chirila_2016,
-fMM,ma:ri,maːɹi,,,PN17(165),dixon_djapu_1983,
-fMB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,
 fMB,ngapipi7,ŋapipiʔ,,,PN22(228),heath_dhuwal_1980,
-fH,dhuway,d̪uway,,,PN1,bowern_chirila_2016,
-fH,dhuway,d̪uway,,,PN17(162),dixon_djapu_1983,
-fMeB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
 fMeB,ngapipi7,ŋapipiʔ,,,PN22(228),heath_dhuwal_1980,Inferred; NA
-fMyB,ngapipi7,ŋapipiʔ,,,PN1,bowern_chirila_2016,Inferred; NA
 fMyB,ngapipi7,ŋapipiʔ,,,PN22(228),heath_dhuwal_1980,Inferred; NA
+mBS,kaathu,,,,PN2,noauthor_austkin_nodate,
+mBD,kaathu,,,,PN2,noauthor_austkin_nodate,
+meBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+myBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+meBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+myBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+fBS,kaathu,,,,PN2,noauthor_austkin_nodate,
+fBD,kaathu,,,,PN2,noauthor_austkin_nodate,
+feBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+fyBS,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+feBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA
+fyBD,kaathu,,,,PN2,noauthor_austkin_nodate,Inferred; NA

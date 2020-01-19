@@ -1,12 +1,20 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mZ,lumbu,,,,AC84(97),last_polyglotta_1885,
-meB,muwaha,,,,AC86(326),rigby_cattle_1969,
-myB,munakwetu,,,,AC86(326),rigby_cattle_1969,
 mF,soga,,,,AC84(97),last_polyglotta_1885,
 mM,yaya,,,nyina,AC84(97),last_polyglotta_1885,
 mC,mwana,,,,AC84(97),last_polyglotta_1885,
 mS,mdodo mulume,,,mwana,AC84(97),last_polyglotta_1885,
 mD,mdodo mchekulu,,,mwana,AC84(97),last_polyglotta_1885,
+mW,muke,,,,AC84(97),last_polyglotta_1885,
+fB,lumbu,,,,AC84(97),last_polyglotta_1885,
+fF,soga,,,,AC84(97),last_polyglotta_1885,
+fM,yaya,,,nyina,AC84(97),last_polyglotta_1885,
+fC,mwana,,,,AC84(97),last_polyglotta_1885,
+fS,mdodo mulume,,,mwana,AC84(97),last_polyglotta_1885,
+fD,mdodo mchekulu,,,mwana,AC84(97),last_polyglotta_1885,
+fW,muke,,,,AC84(97),last_polyglotta_1885,
+meB,muwaha,,,,AC86(326),rigby_cattle_1969,
+myB,munakwetu,,,,AC86(326),rigby_cattle_1969,
 mFF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
 mFM,mama,,,,AC86(327),rigby_cattle_1969,
 mMF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
@@ -38,7 +46,6 @@ mFyBS,alaba,,,,AC86(326),rigby_cattle_1969,when joking
 mMeZS,alayo,,,,AC86(326),rigby_cattle_1969,when joking
 mMyZS,alayo,,,,AC86(326),rigby_cattle_1969,when joking
 mH,mulume,,,,AC86(328),rigby_cattle_1969,
-mW,muke,,,,AC84(97),last_polyglotta_1885,
 mW,mucekulu,,,,AC86(328),rigby_cattle_1969,
 mHF,wanyamhalanye,,,,AC86(328),rigby_cattle_1969,
 mHM,yaya,,,,AC86(328),rigby_cattle_1969,
@@ -102,14 +109,8 @@ mMByD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
 mMByD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
 mMZeD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
 mMZyD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fB,lumbu,,,,AC84(97),last_polyglotta_1885,
 feZ,muwaha,,,,AC86(326),rigby_cattle_1969,
 fyZ,munakwetu,,,,AC86(326),rigby_cattle_1969,
-fF,soga,,,,AC84(97),last_polyglotta_1885,
-fM,yaya,,,nyina,AC84(97),last_polyglotta_1885,
-fC,mwana,,,,AC84(97),last_polyglotta_1885,
-fS,mdodo mulume,,,mwana,AC84(97),last_polyglotta_1885,
-fD,mdodo mchekulu,,,mwana,AC84(97),last_polyglotta_1885,
 fFF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
 fFM,mama,,,,AC86(327),rigby_cattle_1969,
 fMF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
@@ -139,7 +140,6 @@ fFyBD,alaba,,,,AC86(326),rigby_cattle_1969,when joking
 fMeZD,alayo,,,,AC86(326),rigby_cattle_1969,when joking
 fMyZD,alayo,,,,AC86(326),rigby_cattle_1969,when joking
 fH,mulume,,,,AC86(328),rigby_cattle_1969,
-fW,muke,,,,AC84(97),last_polyglotta_1885,
 fW,mucekulu,,,,AC86(328),rigby_cattle_1969,
 fHF,wanyamhalanye,,,,AC86(328),rigby_cattle_1969,
 fHM,yaya,,,,AC86(328),rigby_cattle_1969,

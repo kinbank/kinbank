@@ -1,13 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mamicu,,,,,,
-meB,ãmiyó,,,,,,
-myB,yócu,,,,,,
-meZ,mamico,,,,,,
-meZ,ãmicó,,,,,,
-myZ,yóco,,,,,,
-mF,pacu,,,,,,
-mM,paco,,,,,,
-mS,mácu,,,,,,
 mD,máco,,,,TUCO1(371),morse_diccionario_1999,
 mFF,ñecu,,,,TUCO1(331),morse_diccionario_1999,
 mFM,ñeco,,,,TUCO1(331),morse_diccionario_1999,
@@ -155,15 +146,6 @@ mMZeD,mamico,,,,TUCO1(395),morse_diccionario_1999,Inferred; NA
 mMZeD,yóco,,,,TUCO1(395),morse_diccionario_1999,Inferred; NA
 mMZyD,mamico,,,,TUCO1(395),morse_diccionario_1999,Inferred; NA
 mMZyD,yóco,,,,TUCO1(395),morse_diccionario_1999,Inferred; NA
-feB,mamicu,,,,,,
-feB,ãmiyó,,,,,,
-fyB,yócu,,,,,,
-feZ,mamico,,,,,,
-feZ,ãmicó,,,,,,
-fyZ,yóco,,,,,,
-fF,pacu,,,,,,
-fM,paco,,,,,,
-fS,mácu,,,,,,
 fD,máco,,,,TUCO1(371),morse_diccionario_1999,
 fFF,ñecu,,,,TUCO1(331),morse_diccionario_1999,
 fFM,ñeco,,,,TUCO1(331),morse_diccionario_1999,

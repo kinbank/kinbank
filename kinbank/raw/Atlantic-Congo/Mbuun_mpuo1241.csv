@@ -1,19 +1,80 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mF,taar,,,,AC33(141),bostoen_subject_2012,
+mM,maam,,,,AC33(139),bostoen_subject_2012,
+mC,bá-an,,,,AC33(142),bostoen_subject_2012,
+mC,mo-an,,,,AC33(143),bostoen_subject_2012,
+mW,kℇts,,,,AC33(147),bostoen_subject_2012,
+fF,taar,,,,AC33(141),bostoen_subject_2012,
+fM,maam,,,,AC33(139),bostoen_subject_2012,
+fC,bá-an,,,,AC33(142),bostoen_subject_2012,
+fC,mo-an,,,,AC33(143),bostoen_subject_2012,
+fW,kℇts,,,,AC33(147),bostoen_subject_2012,
+mFZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,
+mFZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+mFBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+mMBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+mMZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+mH,nga util,,,,AC35(417),de_sousberghe_cousins_1965,
+mFeZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFyZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mFZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+mMZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,
+fFZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+fFBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+fMBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+fMZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
+fH,nga util,,,,AC35(417),de_sousberghe_cousins_1965,
+fFeZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFyZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fFZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
+fMZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 mB,mutshimu,,,,AC34(251),maes_vocabulaire_1934,
 mZ,m'pange,,,,AC34(253),maes_vocabulaire_1934,
+mF,ta',,,,AC34(252),maes_vocabulaire_1934,
+mM,m'ma',,,,AC34(252),maes_vocabulaire_1934,
+mC,muana,,,,AC34(250),maes_vocabulaire_1934,
+mW,okara,,,,AC34(250),maes_vocabulaire_1934,
+fB,mutshimu,,,,AC34(251),maes_vocabulaire_1934,
+fZ,m'pange,,,,AC34(253),maes_vocabulaire_1934,
+fF,ta',,,,AC34(252),maes_vocabulaire_1934,
+fM,m'ma',,,,AC34(252),maes_vocabulaire_1934,
+fC,muana,,,,AC34(250),maes_vocabulaire_1934,
+fW,okara,,,,AC34(250),maes_vocabulaire_1934,
 meB,yây,,,,AC59(99),muluwa_lexique_2015,
 myB,ʊkↄ:m,,,,AC59(99),muluwa_lexique_2015,
 meZ,yây,,,,AC59(99),muluwa_lexique_2015,
 myZ,ʊkↄ:m,,,,AC59(99),muluwa_lexique_2015,
 mP,mpay,,,,AC59(136),muluwa_lexique_2015,
 mP,ʊtuŋ,,,,AC59(136),muluwa_lexique_2015,
-mF,taar,,,,AC33(141),bostoen_subject_2012,
-mF,ta',,,,AC34(252),maes_vocabulaire_1934,
-mM,maam,,,,AC33(139),bostoen_subject_2012,
-mM,m'ma',,,,AC34(252),maes_vocabulaire_1934,
-mC,bá-an,,,,AC33(142),bostoen_subject_2012,
-mC,mo-an,,,,AC33(143),bostoen_subject_2012,
-mC,muana,,,,AC34(250),maes_vocabulaire_1934,
 mA,nkâ,,,,AC59(53),muluwa_lexique_2015,
 mPP,nkâ,,,,AC59(104),muluwa_lexique_2015,
 mCC,útil,,,,AC59(141),muluwa_lexique_2015,
@@ -22,7 +83,6 @@ mSD,útil,,,,AC59(141),muluwa_lexique_2015,
 mDS,útil,,,,AC59(141),muluwa_lexique_2015,
 mDD,útil,,,,AC59(141),muluwa_lexique_2015,
 mFB,târ,,,,AC59(131),muluwa_lexique_2015,
-mFZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,
 mFZ,târ ↄkånd,,,,AC59(166),muluwa_lexique_2015,
 mMB,ngwâs,,,,AC59(131),muluwa_lexique_2015,
 mMZ,mâm,,,,AC59(166),muluwa_lexique_2015,
@@ -30,18 +90,11 @@ mBS,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
 mBD,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
 mZS,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
 mZD,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
-mFZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
-mFBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
-mMBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
-mMZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
 mFBS,util,,,,AC59(76),muluwa_lexique_2015,
 mFZS,util,,,,AC59(76),muluwa_lexique_2015,
 mMBS,util,,,,AC59(76),muluwa_lexique_2015,
 mMZS,util,,,,AC59(76),muluwa_lexique_2015,
-mH,nga util,,,,AC35(417),de_sousberghe_cousins_1965,
 mH,údím,,,,AC59(121),muluwa_lexique_2015,
-mW,kℇts,,,,AC33(147),bostoen_subject_2012,
-mW,okara,,,,AC34(250),maes_vocabulaire_1934,
 mW,úkats,,,,AC59(88),muluwa_lexique_2015,
 mHF,úkↄ,,,,AC59(59),muluwa_lexique_2015,
 mHM,úkↄ,,,,AC59(59),muluwa_lexique_2015,
@@ -61,9 +114,7 @@ mSW,úkↄ,,,,AC59(59),muluwa_lexique_2015,
 mDH,úkↄ,,,,AC59(59),muluwa_lexique_2015,
 mFeB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 mFyB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-mFeZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 mFeZ,târ ↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
-mFyZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 mFyZ,târ ↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 mMeZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 mMyZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
@@ -81,49 +132,24 @@ mFeBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mFyBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mFeZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mFyZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mFyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mFeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mFyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 mMeBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMyBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMeZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMyZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mMyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mMeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mMyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 mFBeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mFByS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mFZeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mFZyS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mFByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mFZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mFZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 mMBeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMByS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMZeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMZyS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mMByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mMZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-mMZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fB,mutshimu,,,,AC34(251),maes_vocabulaire_1934,
-fZ,m'pange,,,,AC34(253),maes_vocabulaire_1934,
 feB,yây,,,,AC59(99),muluwa_lexique_2015,
 fyB,ʊkↄ:m,,,,AC59(99),muluwa_lexique_2015,
 feZ,yây,,,,AC59(99),muluwa_lexique_2015,
 fyZ,ʊkↄ:m,,,,AC59(99),muluwa_lexique_2015,
 fP,mpay,,,,AC59(136),muluwa_lexique_2015,
 fP,ʊtuŋ,,,,AC59(136),muluwa_lexique_2015,
-fF,taar,,,,AC33(141),bostoen_subject_2012,
-fF,ta',,,,AC34(252),maes_vocabulaire_1934,
-fM,maam,,,,AC33(139),bostoen_subject_2012,
-fM,m'ma',,,,AC34(252),maes_vocabulaire_1934,
-fC,bá-an,,,,AC33(142),bostoen_subject_2012,
-fC,mo-an,,,,AC33(143),bostoen_subject_2012,
-fC,muana,,,,AC34(250),maes_vocabulaire_1934,
 fA,nkâ,,,,AC59(53),muluwa_lexique_2015,
 fPP,nkâ,,,,AC59(104),muluwa_lexique_2015,
 fCC,útil,,,,AC59(141),muluwa_lexique_2015,
@@ -132,7 +158,6 @@ fSD,útil,,,,AC59(141),muluwa_lexique_2015,
 fDS,útil,,,,AC59(141),muluwa_lexique_2015,
 fDD,útil,,,,AC59(141),muluwa_lexique_2015,
 fFB,târ,,,,AC59(131),muluwa_lexique_2015,
-fFZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,
 fFZ,târ ↄkånd,,,,AC59(166),muluwa_lexique_2015,
 fMB,ngwâs,,,,AC59(131),muluwa_lexique_2015,
 fMZ,mâm,,,,AC59(166),muluwa_lexique_2015,
@@ -140,18 +165,11 @@ fBS,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
 fBD,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
 fZS,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
 fZD,mwǎn á mpay,,,,AC59(126),muluwa_lexique_2015,
-fFZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
-fFBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
-fMBD,util,,,,AC35(417),de_sousberghe_cousins_1965,
-fMZD,util,,,,AC35(417),de_sousberghe_cousins_1965,
 fFBS,util,,,,AC59(76),muluwa_lexique_2015,
 fFZS,util,,,,AC59(76),muluwa_lexique_2015,
 fMBS,util,,,,AC59(76),muluwa_lexique_2015,
 fMZS,util,,,,AC59(76),muluwa_lexique_2015,
-fH,nga util,,,,AC35(417),de_sousberghe_cousins_1965,
 fH,údím,,,,AC59(121),muluwa_lexique_2015,
-fW,kℇts,,,,AC33(147),bostoen_subject_2012,
-fW,okara,,,,AC34(250),maes_vocabulaire_1934,
 fW,úkats,,,,AC59(88),muluwa_lexique_2015,
 fHF,úkↄ,,,,AC59(59),muluwa_lexique_2015,
 fHM,úkↄ,,,,AC59(59),muluwa_lexique_2015,
@@ -171,9 +189,7 @@ fSW,úkↄ,,,,AC59(59),muluwa_lexique_2015,
 fDH,úkↄ,,,,AC59(59),muluwa_lexique_2015,
 fFeB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 fFyB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-fFeZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 fFeZ,târ ↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
-fFyZ,mwan a t'okar,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 fFyZ,târ ↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 fMeZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 fMyZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
@@ -191,31 +207,15 @@ fFeBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fFyBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fFeZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fFyZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fFyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fFeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fFyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 fMeBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMyBS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMeZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMyZS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMeBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fMyBD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fMeZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fMyZD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 fFBeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fFByS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fFZeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fFZyS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fFByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fFZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fFZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
 fMBeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMByS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMZeS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMZyS,util,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMBeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fMByD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fMZeD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA
-fMZyD,util,,,,AC35(417),de_sousberghe_cousins_1965,Inferred; NA

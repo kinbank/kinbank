@@ -19,6 +19,7 @@ help:
 env:
 	python -m venv env
 	./env/bin/python ./env/bin/pip3 install -r requirements.txt
+	./env/bin/cldfbench catconfig
 
 # install data from kinbank
 $(VARIKIN):

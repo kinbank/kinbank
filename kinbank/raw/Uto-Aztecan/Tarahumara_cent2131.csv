@@ -1,11 +1,62 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,rijimá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
-mB,rijimara,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 meB,ba'či,,,,UTO4(99),,; cogid=305
-meB,ba'chérema,,,,UTO6(42),fernandez_estrada_diccionario_nodate,
-meZ,ko'chí,,,,UTO6(73),fernandez_estrada_diccionario_nodate,
 myZ,biní,,,,UTO4(327),,; cogid=2001a
 myZ,wayé,,,younger sister of a man,UTO4(327),,; cogid=2002
+mM,nana,,,,UTO4(257),,
+mM,čiči,,,,UTO4(257),,
+mC,mará,,,,UTO4(72),,"child, offspring; cogid=140"
+mC,kúčiwa,,,,UTO4(72),,"son(s), daughter(s) i.e. offspring of either gender; cogid=145"
+mS,raná(ra),,,,UTO4(72),,"cría, hijo; cogid=146"
+mS,nowa,,,,UTO4(251),,"son, boy, child"
+mPP,a'ká-čuri,,,,UTO4(200),,; cogid=1050a
+mFF,oči-kari,,,,UTO4(200),,
+mFF,oći-parti,,,,UTO4(200),,
+mMF,apál,,,,UTO4(200),,
+mMF,apároči,,,,UTO4(200),,
+mMM,u'sú(wa),,,,UTO4(200),,; cogid=1051
+mMM,su'í,,,,UTO4(200),,; cogid=1051
+mMM,suwí,,,,UTO4(200),,; cogid=1051
+mFB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
+mFyB,kumú-či,,,,UTO4(381),,Inferred; tio paterno; cogid=2433
+mFyZ,apó,,,,UTO4(61),,; cogid=88b
+mDH,mo'né-ra,,,,UTO4(340),,; cogid=2085
+mFeB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
+feB,ba'či,,,,UTO4(99),,; cogid=305
+fyZ,biní,,,,UTO4(327),,; cogid=2001a
+fM,nana,,,,UTO4(257),,
+fM,čiči,,,,UTO4(257),,
+fC,mará,,,,UTO4(72),,"child, offspring; cogid=140"
+fC,kúčiwa,,,,UTO4(72),,"son(s), daughter(s) i.e. offspring of either gender; cogid=145"
+fS,raná(ra),,,,UTO4(72),,"cría, hijo; cogid=146"
+fS,nowa,,,,UTO4(251),,"son, boy, child"
+fPP,a'ká-čuri,,,,UTO4(200),,; cogid=1050a
+fFF,oči-kari,,,,UTO4(200),,
+fFF,oći-parti,,,,UTO4(200),,
+fMF,apál,,,,UTO4(200),,
+fMF,apároči,,,,UTO4(200),,
+fMM,u'sú(wa),,,,UTO4(200),,; cogid=1051
+fMM,su'í,,,,UTO4(200),,; cogid=1051
+fMM,suwí,,,,UTO4(200),,; cogid=1051
+fFB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
+fFyB,kumú-či,,,,UTO4(381),,Inferred; tio paterno; cogid=2433
+fFyZ,apó,,,,UTO4(61),,; cogid=88b
+fHB,če'e,,,to have a brother-in-law',UTO4,,; cogid=306
+fDH,mo'né-ra,,,,UTO4(340),,; cogid=2085
+fFeB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
+meB,ba'chérema,,,,UTO6(42),fernandez_estrada_diccionario_nodate,
+meZ,ko'chí,,,,UTO6(73),fernandez_estrada_diccionario_nodate,
+feB,ba'chérema,,,,UTO6(42),fernandez_estrada_diccionario_nodate,
+feZ,ko'chí,,,,UTO6(73),fernandez_estrada_diccionario_nodate,
+meZ,go'či,,,,UTO4(327),fernandez_estrada_diccionario_nodate,; cogid=2000
+meZ,go'či,,,,"UTO6(47,168)",fernandez_estrada_diccionario_nodate,; cogid=2000
+mFeZ,soró,,,,UTO4(61),fernandez_estrada_diccionario_nodate,; cogid=89
+mFeZ,soró,,,,UTO6(135),fernandez_estrada_diccionario_nodate,; cogid=89
+feZ,go'či,,,,UTO4(327),fernandez_estrada_diccionario_nodate,; cogid=2000
+feZ,go'či,,,,"UTO6(47,168)",fernandez_estrada_diccionario_nodate,; cogid=2000
+fFeZ,soró,,,,UTO4(61),fernandez_estrada_diccionario_nodate,; cogid=89
+fFeZ,soró,,,,UTO6(135),fernandez_estrada_diccionario_nodate,; cogid=89
+mB,rijimá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
+mB,rijimara,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 myZ,binérema,,,,UTO5(46),marquez_terrazas_diccionario_1999,
 myZ,binirúame,,,,UTO5(46),marquez_terrazas_diccionario_1999,
 myZ,ko'chirúame,,,,UTO5(46),marquez_terrazas_diccionario_1999,
@@ -15,27 +66,13 @@ mF,norá,,,,UTO5(99),marquez_terrazas_diccionario_1999,
 mF,onorá,,,,UTO5(104),marquez_terrazas_diccionario_1999,
 mF,onori,,,,UTO5(104),marquez_terrazas_diccionario_1999,
 mF,omrúame,,,,UTO5(104),marquez_terrazas_diccionario_1999,
-mM,nana,,,,UTO4(257),,
-mM,čiči,,,,UTO4(257),,
 mM,eyera,,,,UTO5(57),marquez_terrazas_diccionario_1999,
 mM,eyeri,,,,UTO5(58),marquez_terrazas_diccionario_1999,
 mM,eyerúreme,,,,UTO5(58),marquez_terrazas_diccionario_1999,
 mM,erafer,,,,UTO5(55),marquez_terrazas_diccionario_1999,
-mC,mará,,,,UTO4(72),,"child, offspring; cogid=140"
-mC,kúčiwa,,,,UTO4(72),,"son(s), daughter(s) i.e. offspring of either gender; cogid=145"
-mS,raná(ra),,,,UTO4(72),,"cría, hijo; cogid=146"
-mS,nowa,,,,UTO4(251),,"son, boy, child"
 mD,mará,,,,UTO5(83),marquez_terrazas_diccionario_1999,
 mA,eménoa,,,,UTO5(57),marquez_terrazas_diccionario_1999,plural
-mPP,a'ká-čuri,,,,UTO4(200),,; cogid=1050a
-mFF,oči-kari,,,,UTO4(200),,
-mFF,oći-parti,,,,UTO4(200),,
-mMF,apál,,,,UTO4(200),,
-mMF,apároči,,,,UTO4(200),,
 mMF,apá,,,,UTO5(37),marquez_terrazas_diccionario_1999,
-mMM,u'sú(wa),,,,UTO4(200),,; cogid=1051
-mMM,su'í,,,,UTO4(200),,; cogid=1051
-mMM,suwí,,,,UTO4(200),,; cogid=1051
 mSS,ochíkoara,,,,UTO5(101),marquez_terrazas_diccionario_1999,refers to the paternal grandfather
 mSS,u'súwara,,,,UTO5(146),marquez_terrazas_diccionario_1999,refers to the maternal grandmother
 mSS,apalóchiwa,,,,UTO5(38),marquez_terrazas_diccionario_1999,refers to the maternal grandfather
@@ -45,7 +82,6 @@ mDS,u'súwara,,,,UTO5(146),marquez_terrazas_diccionario_1999,refers to the mater
 mDS,apalóchiwa,,,,UTO5(38),marquez_terrazas_diccionario_1999,refers to the maternal grandfather
 mDD,apalóchiwa,,,,UTO5(38),marquez_terrazas_diccionario_1999,refers to the maternal grandfather
 mFB,ri'chi,,,,UTO5(121),marquez_terrazas_diccionario_1999,
-mFB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
 mFB,ri'chirá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 mFZ,apó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 mFZ,wapó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
@@ -59,14 +95,11 @@ mFZ,apó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 mFZ,wapó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 mFZ,apochí,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 mFZ,baporá,,,,UTO5(43),marquez_terrazas_diccionario_1999,
-mFyB,kumú-či,,,,UTO4(381),,Inferred; tio paterno; cogid=2433
 mFyB,ri'chirúrema,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 mFyB,ti'chirá,,,,UTO5(140),marquez_terrazas_diccionario_1999,
 mFyB,ukú,,,,UTO5(144),marquez_terrazas_diccionario_1999,
-mFyZ,apó,,,,UTO4(61),,; cogid=88b
 mMeB,kurichi,,,,UTO5(76),marquez_terrazas_diccionario_1999,
 mBD,ko'chí,,,,UTO5(73),marquez_terrazas_diccionario_1999,oldest daughter
-mZD,ko'chí,,,,,,
 meZS,~ra'téchuwa,,,,UTO5(114),marquez_terrazas_diccionario_1999,
 mFBS,boní,,,,UTO5(47),marquez_terrazas_diccionario_1999,younger than speaker
 mFZS,boní,,,,UTO5(47),marquez_terrazas_diccionario_1999,younger than speaker
@@ -116,23 +149,15 @@ mHZ,kuné,,,,UTO5(74),marquez_terrazas_diccionario_1999,HyZ
 mSWM,nawyá,,,,UTO5(95),marquez_terrazas_diccionario_1999,
 mSWF,na'sarí,,,,UTO5(94),marquez_terrazas_diccionario_1999,
 mSWF,sarí,,,,UTO5(129),marquez_terrazas_diccionario_1999,
-mDH,mo'né-ra,,,,UTO4(340),,; cogid=2085
 mDHM,nawyá,,,,UTO5(95),marquez_terrazas_diccionario_1999,
 mDHF,na'sarí,,,,UTO5(94),marquez_terrazas_diccionario_1999,
 mDHF,sarí,,,,UTO5(129),marquez_terrazas_diccionario_1999,
 mFeB,ri'chi,,,,UTO5(121),marquez_terrazas_diccionario_1999,
-mFeB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
 mFeB,ri'chirá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 meBD,ko'chí,,,,UTO5(73),marquez_terrazas_diccionario_1999,Inferred; oldest daughter
 myBD,ko'chí,,,,UTO5(73),marquez_terrazas_diccionario_1999,Inferred; oldest daughter
-meZD,ko'chí,,,,,,Inferred; NA
-myZD,ko'chí,,,,,,Inferred; NA
 fB,rijimá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 fB,rijimara,,,,UTO5(121),marquez_terrazas_diccionario_1999,
-feB,ba'či,,,,UTO4(99),,; cogid=305
-feB,ba'chérema,,,,UTO6(42),fernandez_estrada_diccionario_nodate,
-feZ,ko'chí,,,,UTO6(73),fernandez_estrada_diccionario_nodate,
-fyZ,biní,,,,UTO4(327),,; cogid=2001a
 fyZ,binérema,,,,UTO5(46),marquez_terrazas_diccionario_1999,
 fyZ,binirúame,,,,UTO5(46),marquez_terrazas_diccionario_1999,
 fyZ,ko'chirúame,,,,UTO5(46),marquez_terrazas_diccionario_1999,
@@ -145,28 +170,13 @@ fF,norá,,,,UTO5(99),marquez_terrazas_diccionario_1999,
 fF,onorá,,,,UTO5(104),marquez_terrazas_diccionario_1999,
 fF,onori,,,,UTO5(104),marquez_terrazas_diccionario_1999,
 fF,omrúame,,,,UTO5(104),marquez_terrazas_diccionario_1999,
-fM,nana,,,,UTO4(257),,
-fM,čiči,,,,UTO4(257),,
 fM,eyera,,,,UTO5(57),marquez_terrazas_diccionario_1999,
 fM,eyeri,,,,UTO5(58),marquez_terrazas_diccionario_1999,
 fM,eyerúreme,,,,UTO5(58),marquez_terrazas_diccionario_1999,
 fM,erafer,,,,UTO5(55),marquez_terrazas_diccionario_1999,
-fC,mará,,,,UTO4(72),,"child, offspring; cogid=140"
-fC,kúčiwa,,,,UTO4(72),,"son(s), daughter(s) i.e. offspring of either gender; cogid=145"
-fS,raná(ra),,,,UTO4(72),,"cría, hijo; cogid=146"
-fS,nowa,,,,UTO4(251),,"son, boy, child"
 fA,eménoa,,,,UTO5(57),marquez_terrazas_diccionario_1999,plural
-fPP,a'ká-čuri,,,,UTO4(200),,; cogid=1050a
-fFF,oči-kari,,,,UTO4(200),,
-fFF,oći-parti,,,,UTO4(200),,
-fMF,apál,,,,UTO4(200),,
-fMF,apároči,,,,UTO4(200),,
 fMF,apá,,,,UTO5(37),marquez_terrazas_diccionario_1999,
-fMM,u'sú(wa),,,,UTO4(200),,; cogid=1051
-fMM,su'í,,,,UTO4(200),,; cogid=1051
-fMM,suwí,,,,UTO4(200),,; cogid=1051
 fFB,ri'chi,,,,UTO5(121),marquez_terrazas_diccionario_1999,
-fFB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
 fFB,ri'chirá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 fFZ,apó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 fFZ,wapó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
@@ -180,14 +190,11 @@ fFZ,apó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 fFZ,wapó,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 fFZ,apochí,,,,UTO5(38),marquez_terrazas_diccionario_1999,
 fFZ,baporá,,,,UTO5(43),marquez_terrazas_diccionario_1999,
-fFyB,kumú-či,,,,UTO4(381),,Inferred; tio paterno; cogid=2433
 fFyB,ri'chirúrema,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 fFyB,ti'chirá,,,,UTO5(140),marquez_terrazas_diccionario_1999,
 fFyB,ukú,,,,UTO5(144),marquez_terrazas_diccionario_1999,
-fFyZ,apó,,,,UTO4(61),,; cogid=88b
 fMeB,kurichi,,,,UTO5(76),marquez_terrazas_diccionario_1999,
 fBD,ko'chí,,,,UTO5(73),marquez_terrazas_diccionario_1999,oldest daughter
-fZD,ko'chí,,,,,,
 feZS,~ra'téchuwa,,,,UTO5(114),marquez_terrazas_diccionario_1999,
 fFBS,boní,,,,UTO5(47),marquez_terrazas_diccionario_1999,younger than speaker
 fFZS,boní,,,,UTO5(47),marquez_terrazas_diccionario_1999,younger than speaker
@@ -232,35 +239,26 @@ fWB,muchímani,,,,UTO5(88),marquez_terrazas_diccionario_1999,WyB
 fWB,chi'neri,,,,UTO5(50),marquez_terrazas_diccionario_1999,
 fWB,chi'néara,,,,UTO5(50),marquez_terrazas_diccionario_1999,
 fWB,muchímari,,,,UTO5(88),marquez_terrazas_diccionario_1999,wife's younger brother
-fHB,če'e,,,to have a brother-in-law',UTO4,,; cogid=306
 fHZ,guné,,,,UTO5(76),marquez_terrazas_diccionario_1999,HyZ
 fHZ,kuné,,,,UTO5(74),marquez_terrazas_diccionario_1999,HyZ
 fSWM,nawyá,,,,UTO5(95),marquez_terrazas_diccionario_1999,
 fSWF,na'sarí,,,,UTO5(94),marquez_terrazas_diccionario_1999,
 fSWF,sarí,,,,UTO5(129),marquez_terrazas_diccionario_1999,
-fDH,mo'né-ra,,,,UTO4(340),,; cogid=2085
 fDHM,nawyá,,,,UTO5(95),marquez_terrazas_diccionario_1999,
 fDHF,na'sarí,,,,UTO5(94),marquez_terrazas_diccionario_1999,
 fDHF,sarí,,,,UTO5(129),marquez_terrazas_diccionario_1999,
 fFeB,ri'chi,,,,UTO5(121),marquez_terrazas_diccionario_1999,
-fFeB,kumú-či,,,,UTO4(381),,tio paterno; cogid=2433
 fFeB,ri'chirá,,,,UTO5(121),marquez_terrazas_diccionario_1999,
 feBD,ko'chí,,,,UTO5(73),marquez_terrazas_diccionario_1999,Inferred; oldest daughter
 fyBD,ko'chí,,,,UTO5(73),marquez_terrazas_diccionario_1999,Inferred; oldest daughter
-feZD,ko'chí,,,,,,Inferred; NA
-fyZD,ko'chí,,,,,,Inferred; NA
 myB,boní,,,,UTO4(99),marquez_terrazas_diccionario_1999,; cogid=310.a
 myB,boní,,,,UTO5(168),marquez_terrazas_diccionario_1999,; cogid=310.a
-meZ,go'či,,,,UTO4(327),fernandez_estrada_diccionario_nodate,; cogid=2000
-meZ,go'či,,,,"UTO6(47,168)",fernandez_estrada_diccionario_nodate,; cogid=2000
 mF,onó,,,father of a male,UTO4(174),marquez_terrazas_diccionario_1999,; cogid=851
 mF,onó,,,father of a male,UTO5(103),marquez_terrazas_diccionario_1999,; cogid=851
 mM,(y)eyé,,,,UTO4(257),marquez_terrazas_diccionario_1999,
 mM,(y)eyé,,,,UTO5(57),marquez_terrazas_diccionario_1999,
 mS,no,,,,UTO4(251),marquez_terrazas_diccionario_1999,UTO5(99) - refers to the son of a man
 mS,no,,,,UTO5(99),marquez_terrazas_diccionario_1999,UTO5(99) - refers to the son of a man
-mFeZ,soró,,,,UTO4(61),fernandez_estrada_diccionario_nodate,; cogid=89
-mFeZ,soró,,,,UTO6(135),fernandez_estrada_diccionario_nodate,; cogid=89
 mMyB,ra'té,,,,UTO4(381),marquez_terrazas_diccionario_1999,; cogid=2432
 mMyB,ra'té,,,,UTO5(116),marquez_terrazas_diccionario_1999,; cogid=2432
 mW,upí,,,,UTO4(402),marquez_terrazas_diccionario_1999,; cogid=2572a
@@ -273,8 +271,6 @@ mWB,če'e,,,to have a brother-in-law' |UTO5 says noun,UTO4,marquez_terrazas_dicc
 mWB,če'e,,,to have a brother-in-law' |UTO5 says noun,UTO5(49),marquez_terrazas_diccionario_1999,; cogid=306
 fyB,boní,,,,UTO4(99),marquez_terrazas_diccionario_1999,; cogid=310.a
 fyB,boní,,,,UTO5(168),marquez_terrazas_diccionario_1999,; cogid=310.a
-feZ,go'či,,,,UTO4(327),fernandez_estrada_diccionario_nodate,; cogid=2000
-feZ,go'či,,,,"UTO6(47,168)",fernandez_estrada_diccionario_nodate,; cogid=2000
 fyZ,wayé,,,,UTO5(149),marquez_terrazas_diccionario_1999,ms only?
 fyZ,wayé,,,,UTO5(147),marquez_terrazas_diccionario_1999,ms only?
 fF,onó,,,father of a male,UTO4(174),marquez_terrazas_diccionario_1999,; cogid=851
@@ -283,8 +279,6 @@ fM,(y)eyé,,,,UTO4(257),marquez_terrazas_diccionario_1999,
 fM,(y)eyé,,,,UTO5(57),marquez_terrazas_diccionario_1999,
 fS,no,,,,UTO4(251),marquez_terrazas_diccionario_1999,UTO5(99) - refers to the son of a man
 fS,no,,,,UTO5(99),marquez_terrazas_diccionario_1999,UTO5(99) - refers to the son of a man
-fFeZ,soró,,,,UTO4(61),fernandez_estrada_diccionario_nodate,; cogid=89
-fFeZ,soró,,,,UTO6(135),fernandez_estrada_diccionario_nodate,; cogid=89
 fH,kuná(ra),,,,UTO4(227),marquez_terrazas_diccionario_1999,
 fH,kuná(ra),,,,UTO5(76),marquez_terrazas_diccionario_1999,
 fH,guná(ra),,,,UTO4(227),marquez_terrazas_diccionario_1999,UTO5 doesn't specify ms

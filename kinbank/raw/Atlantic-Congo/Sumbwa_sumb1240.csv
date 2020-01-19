@@ -1,14 +1,26 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,þådúgú,,,,AC83(481),masele_linguistic_2001,
 mB,mzuna,,,,AC84(146),last_polyglotta_1885,
-mZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,
 mZ,ilumbu,,,,AC84(146),last_polyglotta_1885,
+mS,mwana kagosîa,,,,AC84(146),last_polyglotta_1885,
+mD,mwana musheki,,,,AC84(146),last_polyglotta_1885,
+mW,mke,,,mkazi,AC84(146),last_polyglotta_1885,
+myB,mzuna,,,,AC84(146),last_polyglotta_1885,Inferred; NA
+meZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
+myZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
+fB,mzuna,,,,AC84(146),last_polyglotta_1885,
+fZ,ilumbu,,,,AC84(146),last_polyglotta_1885,
+fS,mwana kagosîa,,,,AC84(146),last_polyglotta_1885,
+fD,mwana musheki,,,,AC84(146),last_polyglotta_1885,
+fW,mke,,,mkazi,AC84(146),last_polyglotta_1885,
+fyB,mzuna,,,,AC84(146),last_polyglotta_1885,Inferred; NA
+feZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
+fyZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
+mB,þådúgú,,,,AC83(481),masele_linguistic_2001,
+mZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,
 meB,múkúlú,,,,AC83(481),masele_linguistic_2001,
 mF,þååþå,,,,AC83(488),masele_linguistic_2001,
 mM,mååyù,,,,AC83(499),masele_linguistic_2001,
 mC,mwàànà,,,,AC83(482),masele_linguistic_2001,
-mS,mwana kagosîa,,,,AC84(146),last_polyglotta_1885,
-mD,mwana musheki,,,,AC84(146),last_polyglotta_1885,
 mFF,gùùkù,,,,AC83(491),masele_linguistic_2001,
 mFM,mååmå,,,,AC83(491),masele_linguistic_2001,
 mMF,gùùkù,,,,AC83(491),masele_linguistic_2001,
@@ -16,7 +28,6 @@ mMM,mååmå,,,,AC83(491),masele_linguistic_2001,
 mFZ,sèèngi,,,,AC83(477),masele_linguistic_2001,
 mH,mùlùmé,,,,AC83(494),masele_linguistic_2001,
 mW,mùkîîmå,,,,AC83(518),masele_linguistic_2001,
-mW,mke,,,mkazi,AC84(146),last_polyglotta_1885,
 mHF,båå bukwé,,,,AC83(488),masele_linguistic_2001,
 mHM,måå bukwé,,,,AC83(488),masele_linguistic_2001,
 mWF,båå bukwé,,,,AC83(488),masele_linguistic_2001,
@@ -28,23 +39,16 @@ mWZ,múlamú,,,,AC83(481),masele_linguistic_2001,
 mHB,múlamú,,,,AC83(481),masele_linguistic_2001,
 mHZ,múlamú,,,,AC83(481),masele_linguistic_2001,
 myB,þådúgú,,,,AC83(481),masele_linguistic_2001,Inferred; NA
-myB,mzuna,,,,AC84(146),last_polyglotta_1885,Inferred; NA
 meZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,Inferred; NA
-meZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
 myZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,Inferred; NA
-myZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
 mFeZ,sèèngi,,,,AC83(477),masele_linguistic_2001,Inferred; NA
 mFyZ,sèèngi,,,,AC83(477),masele_linguistic_2001,Inferred; NA
 fB,þådúgú,,,,AC83(481),masele_linguistic_2001,
-fB,mzuna,,,,AC84(146),last_polyglotta_1885,
 fZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,
-fZ,ilumbu,,,,AC84(146),last_polyglotta_1885,
 feB,múkúlú,,,,AC83(481),masele_linguistic_2001,
 fF,þååþå,,,,AC83(488),masele_linguistic_2001,
 fM,mååyù,,,,AC83(499),masele_linguistic_2001,
 fC,mwàànà,,,,AC83(482),masele_linguistic_2001,
-fS,mwana kagosîa,,,,AC84(146),last_polyglotta_1885,
-fD,mwana musheki,,,,AC84(146),last_polyglotta_1885,
 fFF,gùùkù,,,,AC83(491),masele_linguistic_2001,
 fFM,mååmå,,,,AC83(491),masele_linguistic_2001,
 fMF,gùùkù,,,,AC83(491),masele_linguistic_2001,
@@ -52,7 +56,6 @@ fMM,mååmå,,,,AC83(491),masele_linguistic_2001,
 fFZ,sèèngi,,,,AC83(477),masele_linguistic_2001,
 fH,mùlùmé,,,,AC83(494),masele_linguistic_2001,
 fW,mùkîîmå,,,,AC83(518),masele_linguistic_2001,
-fW,mke,,,mkazi,AC84(146),last_polyglotta_1885,
 fHF,båå bukwé,,,,AC83(488),masele_linguistic_2001,
 fHM,måå bukwé,,,,AC83(488),masele_linguistic_2001,
 fWF,båå bukwé,,,,AC83(488),masele_linguistic_2001,
@@ -64,10 +67,7 @@ fWZ,múlamú,,,,AC83(481),masele_linguistic_2001,
 fHB,múlamú,,,,AC83(481),masele_linguistic_2001,
 fHZ,múlamú,,,,AC83(481),masele_linguistic_2001,
 fyB,þådúgú,,,,AC83(481),masele_linguistic_2001,Inferred; NA
-fyB,mzuna,,,,AC84(146),last_polyglotta_1885,Inferred; NA
 feZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,Inferred; NA
-feZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
 fyZ,kålùùmbù,,,,AC83(509),masele_linguistic_2001,Inferred; NA
-fyZ,ilumbu,,,,AC84(146),last_polyglotta_1885,Inferred; NA
 fFeZ,sèèngi,,,,AC83(477),masele_linguistic_2001,Inferred; NA
 fFyZ,sèèngi,,,,AC83(477),masele_linguistic_2001,Inferred; NA

@@ -1,18 +1,21 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,taka,,,,,,
-mZ,taka,,,,,,
-mZ,samupi,,,,UTO8(71),hammel_transformational_1965,
-meB,pavi,,,,UTO8(71),hammel_transformational_1965,
 meB,pabi'i,,,,UTO4(?),,; cogid=304
 myZ,nami',,,,UTO4(327),,; cogid=2003
 mFM,kaku',,,,UTO4(200),,; cogid=1050b
+mMeB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
+mMyB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
+feB,pabi'i,,,,UTO4(?),,; cogid=304
+fyZ,nami',,,,UTO4(327),,; cogid=2003
+fFM,kaku',,,,UTO4(200),,; cogid=1050b
+fMeB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
+fMyB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
+mZ,samupi,,,,UTO8(71),hammel_transformational_1965,
+meB,pavi,,,,UTO8(71),hammel_transformational_1965,
 mFM,huci,,,,UTO8(70),hammel_transformational_1965,
 mMM,kaku',,,,UTO8(70),hammel_transformational_1965,
 mFB,api,,,,UTO8(70),hammel_transformational_1965,
 mFZ,paha,,,,UTO8(71),hammel_transformational_1965,
 mMZ,pia,,,,UTO8(71),hammel_transformational_1965,
-mMeB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
-mMyB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
 mBS,paha,,,,UTO8(71),hammel_transformational_1965,
 mBS,tua,,,,UTO8(72),hammel_transformational_1965,
 mBD,paha,,,,UTO8(71),hammel_transformational_1965,
@@ -107,20 +110,13 @@ mMZeD,nami,,,,UTO8(71),hammel_transformational_1965,Inferred; if younger than sp
 mMZeD,paci,,,,UTO8(71),hammel_transformational_1965,Inferred; if older than speaker
 mMZyD,nami,,,,UTO8(71),hammel_transformational_1965,Inferred; if younger than speaker
 mMZyD,paci,,,,UTO8(71),hammel_transformational_1965,Inferred; if older than speaker
-fB,taka,,,,,,
 fB,samupi,,,,UTO8(71),hammel_transformational_1965,
-fZ,taka,,,,,,
 feB,pavi,,,,UTO8(71),hammel_transformational_1965,
-feB,pabi'i,,,,UTO4(?),,; cogid=304
-fyZ,nami',,,,UTO4(327),,; cogid=2003
-fFM,kaku',,,,UTO4(200),,; cogid=1050b
 fFM,huci,,,,UTO8(70),hammel_transformational_1965,
 fMM,kaku',,,,UTO8(70),hammel_transformational_1965,
 fFB,api,,,,UTO8(70),hammel_transformational_1965,
 fFZ,paha,,,,UTO8(71),hammel_transformational_1965,
 fMZ,pia,,,,UTO8(71),hammel_transformational_1965,
-fMeB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
-fMyB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
 fBS,paha,,,,UTO8(71),hammel_transformational_1965,
 fBD,paha,,,,UTO8(71),hammel_transformational_1965,
 fBD,peti,,,,UTO8(72),hammel_transformational_1965,

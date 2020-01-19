@@ -1,7 +1,11 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mW,maṉaivi,,,,IDS,,
+mWF,māmaṉār,,,,IDS,,
+mWM,māmiyār,,,,IDS,,
+fW,maṉaivi,,,,IDS,,
+fWF,māmaṉār,,,,IDS,,
+fWM,māmiyār,,,,IDS,,
 mB,0,,,,DR7(232),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mB,cakōtaraṉ,,,,DR24,saxena_tamil_2015,
-mZ,cakōtari,,,,DR24,saxena_tamil_2015,
 meB,aṇṇā,,,,DR7(255-264),karve_kinship_1968,aṇṇā also used for lord; DR7:229; copied by CS from kinterm_tam.xls
 meB,tammaṇṇā,,,,DR7(255-264),karve_kinship_1968,aṇṇā also used for lord; DR7:229; copied by CS from kinterm_tam.xls
 meB,aṇṇācci,,,,DR7(255-264),karve_kinship_1968,aṇṇā also used for lord; DR7:229; copied by CS from kinterm_tam.xls
@@ -18,7 +22,6 @@ myZ,tangai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 myZ,tangacci,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 myZ,tangāḷ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 myZ,angicci,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-myZ,taṅkai,,,,DR24,saxena_tamil_2015,
 mF,tandai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mF,ayyā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mF,(aṇṇā),,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -34,8 +37,6 @@ mM,aṉṉa,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mM,āyāḻ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mM,āyi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mM,ammāḷ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mM,tāy,,,,DR24,saxena_tamil_2015,
-mC,kuḻantai,,,,DR24,saxena_tamil_2015,
 mS,piḷḷai,,,,DR7(255-264),karve_kinship_1968,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
 mS,paiyan,,,,DR7(255-264),karve_kinship_1968,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
 mD,peṇ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -61,16 +62,12 @@ mMyZ,citti,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mMyZ,kunji,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mBS,makan,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mBS,piḷḷai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mBS,marumakaṉ,,,,DR24,saxena_tamil_2015,
 mBD,makal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mBD,pen,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mBD,marumakaḷ,,,,DR24,saxena_tamil_2015,
 mZS,marumakan,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mZS,marumān,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mZS,māpiḷḷai (?),,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mZS,marumakaṉ,,,,DR24,saxena_tamil_2015,
 mZD,maru-makal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mZD,marumakaḷ,,,,DR24,saxena_tamil_2015,
 mFZD,attankāl,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mFZD,attankār,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mMBD,ammankāl,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -111,13 +108,11 @@ mH,attān,,,,DR7(255-264),karve_kinship_1968,in personal communication I was tol
 mH,purusan,,,,DR7(255-264),karve_kinship_1968,in personal communication I was told that attan is also used for husband among some Tamil-speaking people'; DR7:232; copied by CS from kinterm_tam.xls
 mH,kolunan,,,,DR7(255-264),karve_kinship_1968,in personal communication I was told that attan is also used for husband among some Tamil-speaking people'; DR7:232; copied by CS from kinterm_tam.xls
 mH,koḷuntan,,,,DR7(255-264),karve_kinship_1968,in personal communication I was told that attan is also used for husband among some Tamil-speaking people'; DR7:232; copied by CS from kinterm_tam.xls
-mH,kaṇavaṉ,,,,DR24,saxena_tamil_2015,
 mW,akamuttaiāḷ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mW,maṉaivi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mW,pattini,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mW,peṇtāṭṭi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mW,penjati,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mW,maṉaivi,,,,IDS,,
 mHF,māma,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mHF,māman,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mHM,māmiyār,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -125,10 +120,8 @@ mHM,māmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mHM,attai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mWF,māma,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mWF,māmanar,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mWF,māmaṉār,,,,IDS,,
 mWM,māmiyār,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mWM,māmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mWM,māmiyār,,,,IDS,,
 mBW,marumakal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mBW,āyanti,,,,DR7(255-264),karve_kinship_1968,eBW; copied by CS from kinterm_tam.xls
 mBW,aṇṇi,,,,DR7(255-264),karve_kinship_1968,eBW; copied by CS from kinterm_tam.xls
@@ -187,8 +180,6 @@ mMBW,māmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mMBW,ammāmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 mMBW,attai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fB,0,,,,DR7(232),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fB,cakōtaraṉ,,,,DR24,saxena_tamil_2015,
-fZ,cakōtari,,,,DR24,saxena_tamil_2015,
 feB,aṇṇā,,,,DR7(255-264),karve_kinship_1968,aṇṇā also used for lord; DR7:229; copied by CS from kinterm_tam.xls
 feB,tammaṇṇā,,,,DR7(255-264),karve_kinship_1968,aṇṇā also used for lord; DR7:229; copied by CS from kinterm_tam.xls
 feB,aṇṇācci,,,,DR7(255-264),karve_kinship_1968,aṇṇā also used for lord; DR7:229; copied by CS from kinterm_tam.xls
@@ -205,7 +196,6 @@ fyZ,tangai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fyZ,tangacci,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fyZ,tangāḷ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fyZ,angicci,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fyZ,taṅkai,,,,DR24,saxena_tamil_2015,
 fF,tandai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fF,ayyā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fF,(aṇṇā),,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -221,8 +211,6 @@ fM,aṉṉa,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fM,āyāḻ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fM,āyi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fM,ammāḷ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fM,tāy,,,,DR24,saxena_tamil_2015,
-fC,kuḻantai,,,,DR24,saxena_tamil_2015,
 fS,piḷḷai,,,,DR7(255-264),karve_kinship_1968,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
 fS,paiyan,,,,DR7(255-264),karve_kinship_1968,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
 fD,peṇ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -248,14 +236,10 @@ fMyZ,citti,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fMyZ,kunji,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fBS,marumakan,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fBS,marumān,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fBS,marumakaṉ,,,,DR24,saxena_tamil_2015,
 fBD,maru-makal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fBD,marumakaḷ,,,,DR24,saxena_tamil_2015,
 fZS,makan,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fZS,marumakaṉ,,,,DR24,saxena_tamil_2015,
 fZD,makal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fZD,pennu,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fZD,marumakaḷ,,,,DR24,saxena_tamil_2015,
 fFZD,attankāl,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fFZD,attankār,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fMBD,ammankāl,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -296,13 +280,11 @@ fH,attān,,,,DR7(255-264),karve_kinship_1968,in personal communication I was tol
 fH,purusan,,,,DR7(255-264),karve_kinship_1968,in personal communication I was told that attan is also used for husband among some Tamil-speaking people'; DR7:232; copied by CS from kinterm_tam.xls
 fH,kolunan,,,,DR7(255-264),karve_kinship_1968,in personal communication I was told that attan is also used for husband among some Tamil-speaking people'; DR7:232; copied by CS from kinterm_tam.xls
 fH,koḷuntan,,,,DR7(255-264),karve_kinship_1968,in personal communication I was told that attan is also used for husband among some Tamil-speaking people'; DR7:232; copied by CS from kinterm_tam.xls
-fH,kaṇavaṉ,,,,DR24,saxena_tamil_2015,
 fW,akamuttaiāḷ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fW,maṉaivi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fW,pattini,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fW,peṇtāṭṭi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fW,penjati,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fW,maṉaivi,,,,IDS,,
 fHF,māma,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fHF,māman,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fHM,māmiyār,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
@@ -310,10 +292,8 @@ fHM,māmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fHM,attai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fWF,māma,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fWF,māmanar,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fWF,māmaṉār,,,,IDS,,
 fWM,māmiyār,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fWM,māmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fWM,māmiyār,,,,IDS,,
 fBW,marumakal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fBW,āyanti,,,,DR7(255-264),karve_kinship_1968,eBW; copied by CS from kinterm_tam.xls
 fBW,aṇṇi,,,,DR7(255-264),karve_kinship_1968,eBW; copied by CS from kinterm_tam.xls
@@ -372,58 +352,78 @@ fMBW,māmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fMBW,ammāmi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 fMBW,attai,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
 myB,tampi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-myB,tampi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mF,appā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mF,appā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mS,makan,,,,DR7(255-264),karve_kinship_1968,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
-mS,makan,,,,DR24,saxena_tamil_2015,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
 mD,makal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mD,makal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mFF,tattā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mFF,tattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mFM,pāṭṭi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mFM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mMF,pattā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mMF,pattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mMM,pāṭṭi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mMM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mSS,pẽraṉ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mSS,pẽraṉ,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mSD,pẽtti,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mSD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mDS,pẽran,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mDS,pẽran,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mDD,pẽtti,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mDD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mSW,marumakal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mSW,marumakal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 mDH,marumakan,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-mDH,marumakan,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fyB,tampi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fyB,tampi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fF,appā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fF,appā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fS,makan,,,,DR7(255-264),karve_kinship_1968,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
-fS,makan,,,,DR24,saxena_tamil_2015,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
 fD,makal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fD,makal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fFF,tattā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fFF,tattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fFM,pāṭṭi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fFM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fMF,pattā,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fMF,pattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fMM,pāṭṭi,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fMM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fSS,pẽraṉ,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fSS,pẽraṉ,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fSD,pẽtti,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fSD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fDS,pẽran,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fDS,pẽran,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fDD,pẽtti,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fDD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fSW,marumakal,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
-fSW,marumakal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fDH,marumakan,,,,DR7(255-264),karve_kinship_1968,copied by CS from kinterm_tam.xls
+mB,cakōtaraṉ,,,,DR24,saxena_tamil_2015,
+mZ,cakōtari,,,,DR24,saxena_tamil_2015,
+myZ,taṅkai,,,,DR24,saxena_tamil_2015,
+mM,tāy,,,,DR24,saxena_tamil_2015,
+mC,kuḻantai,,,,DR24,saxena_tamil_2015,
+mBS,marumakaṉ,,,,DR24,saxena_tamil_2015,
+mBD,marumakaḷ,,,,DR24,saxena_tamil_2015,
+mZS,marumakaṉ,,,,DR24,saxena_tamil_2015,
+mZD,marumakaḷ,,,,DR24,saxena_tamil_2015,
+mH,kaṇavaṉ,,,,DR24,saxena_tamil_2015,
+fB,cakōtaraṉ,,,,DR24,saxena_tamil_2015,
+fZ,cakōtari,,,,DR24,saxena_tamil_2015,
+fyZ,taṅkai,,,,DR24,saxena_tamil_2015,
+fM,tāy,,,,DR24,saxena_tamil_2015,
+fC,kuḻantai,,,,DR24,saxena_tamil_2015,
+fBS,marumakaṉ,,,,DR24,saxena_tamil_2015,
+fBD,marumakaḷ,,,,DR24,saxena_tamil_2015,
+fZS,marumakaṉ,,,,DR24,saxena_tamil_2015,
+fZD,marumakaḷ,,,,DR24,saxena_tamil_2015,
+fH,kaṇavaṉ,,,,DR24,saxena_tamil_2015,
+myB,tampi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mF,appā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mS,makan,,,,DR24,saxena_tamil_2015,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
+mD,makal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mFF,tattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mFM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mMF,pattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mMM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mSS,pẽraṉ,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mSD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mDS,pẽran,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mDD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mSW,marumakal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+mDH,marumakan,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fyB,tampi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fF,appā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fS,makan,,,,DR24,saxena_tamil_2015,makan is the most frequently used'; DR7:236; copied by CS from kinterm_tam.xls
+fD,makal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fFF,tattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fFM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fMF,pattā,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fMM,pāṭṭi,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fSS,pẽraṉ,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fSD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fDS,pẽran,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fDD,pẽtti,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
+fSW,marumakal,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls
 fDH,marumakan,,,,DR24,saxena_tamil_2015,copied by CS from kinterm_tam.xls

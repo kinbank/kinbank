@@ -1,26 +1,78 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,
 mB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,
-mB,pangi,,,,AC55(109),torday_notes_1910,
 mZ,pengi,,,,AC34(222),maes_vocabulaire_1934,
-mZ,pangi,,,,AC55(109),torday_notes_1910,
 mF,tata,,,,AC34(220),maes_vocabulaire_1934,
 mM,mai,,,,AC34(219),maes_vocabulaire_1934,
 mC,muana,,,,AC34(216),maes_vocabulaire_1934,
-mS,moana,,,,AC55(109),torday_notes_1910,
-mD,moana,,,,AC55(109),torday_notes_1910,
 mFF,mama,,,,AC34(218),maes_vocabulaire_1934,
-mFM,mama,,,,AC55(109),torday_notes_1910,
 mMF,mama,,,,AC34(218),maes_vocabulaire_1934,
-mMM,mama,,,,AC55(109),torday_notes_1910,
 mFB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,
 mFB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,
 mFZ,tangata,,,,AC34(222),maes_vocabulaire_1934,
-mFZ,fatata,,,,AC55(109),torday_notes_1910,
 mMB,manumi,,,,AC34(220),maes_vocabulaire_1934,
-mMB,baba,,,,AC55(109),torday_notes_1910,
 mMZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,
 mMZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,
+mW,ngata,,,,AC34(217),maes_vocabulaire_1934,
+meB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+meB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+myB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+myB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+meZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+myZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mFeB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+mFeB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+mFyB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+mFyB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+mFeZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mFyZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mMeZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mMeZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mMyZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mMyZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+mMeB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+mMyB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+fB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,
+fB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,
+fZ,pengi,,,,AC34(222),maes_vocabulaire_1934,
+fF,tata,,,,AC34(220),maes_vocabulaire_1934,
+fM,mai,,,,AC34(219),maes_vocabulaire_1934,
+fC,muana,,,,AC34(216),maes_vocabulaire_1934,
+fFF,mama,,,,AC34(218),maes_vocabulaire_1934,
+fMF,mama,,,,AC34(218),maes_vocabulaire_1934,
+fFB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,
+fFB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,
+fFZ,tangata,,,,AC34(222),maes_vocabulaire_1934,
+fMB,manumi,,,,AC34(220),maes_vocabulaire_1934,
+fMZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,
+fMZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,
+fW,ngata,,,,AC34(217),maes_vocabulaire_1934,
+feB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+feB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+fyB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+fyB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
+feZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fyZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fFeB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+fFeB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+fFyB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+fFyB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+fFeZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fFyZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fMeZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fMeZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fMyZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fMyZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
+fMeB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+fMyB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
+mB,pangi,,,,AC55(109),torday_notes_1910,
+mZ,pangi,,,,AC55(109),torday_notes_1910,
+mS,moana,,,,AC55(109),torday_notes_1910,
+mD,moana,,,,AC55(109),torday_notes_1910,
+mFM,mama,,,,AC55(109),torday_notes_1910,
+mMM,mama,,,,AC55(109),torday_notes_1910,
+mFZ,fatata,,,,AC55(109),torday_notes_1910,
+mMB,baba,,,,AC55(109),torday_notes_1910,
 mMZ,yaya,,,,AC55(109),torday_notes_1910,
 meZS,moa-pangi,,,,AC55(109),torday_notes_1910,
 myZS,yangenge,,,,AC55(109),torday_notes_1910,
@@ -35,7 +87,6 @@ mFZS,baba,,,,AC55(109),torday_notes_1910,
 mMBS,baba,,,,AC55(109),torday_notes_1910,
 mMZS,baba,,,,AC55(109),torday_notes_1910,
 mH,moshile,,,,AC55(109),torday_notes_1910,
-mW,ngata,,,,AC34(217),maes_vocabulaire_1934,
 mW,moshide,,,,AC55(109),torday_notes_1910,
 mHF,boy,,,,AC55(109),torday_notes_1910,
 mHM,boy,,,,AC55(109),torday_notes_1910,
@@ -50,33 +101,15 @@ mHZ,musamba,,,,AC55(109),torday_notes_1910,
 mco-W,esonyi,,,,AC55(109),torday_notes_1910,
 mFW(notM),yaya,,,,AC55(109),torday_notes_1910,
 mFW(notM),moshide tata,,,,AC55(109),torday_notes_1910,
-meB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
-meB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
 meB,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-myB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
-myB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
 myB,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-meZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 meZ,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-myZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 myZ,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-mFeB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-mFeB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-mFyB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-mFyB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-mFeZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 mFeZ,fatata,,,,AC55(109),torday_notes_1910,Inferred; NA
-mFyZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 mFyZ,fatata,,,,AC55(109),torday_notes_1910,Inferred; NA
-mMeZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
-mMeZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 mMeZ,yaya,,,,AC55(109),torday_notes_1910,Inferred; NA
-mMyZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
-mMyZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 mMyZ,yaya,,,,AC55(109),torday_notes_1910,Inferred; NA
-mMeB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
 mMeB,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
-mMyB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
 mMyB,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
 mFeBS,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
 mFyBS,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
@@ -110,28 +143,14 @@ mMBeD,genge,,,,AC55(109),torday_notes_1910,Inferred; NA
 mMByD,genge,,,,AC55(109),torday_notes_1910,Inferred; NA
 mMZeD,genge,,,,AC55(109),torday_notes_1910,Inferred; NA
 mMZyD,genge,,,,AC55(109),torday_notes_1910,Inferred; NA
-fB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,
-fB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,
 fB,pangi,,,,AC55(109),torday_notes_1910,
-fZ,pengi,,,,AC34(222),maes_vocabulaire_1934,
 fZ,pangi,,,,AC55(109),torday_notes_1910,
-fF,tata,,,,AC34(220),maes_vocabulaire_1934,
-fM,mai,,,,AC34(219),maes_vocabulaire_1934,
-fC,muana,,,,AC34(216),maes_vocabulaire_1934,
 fS,moana,,,,AC55(109),torday_notes_1910,
 fD,moana,,,,AC55(109),torday_notes_1910,
-fFF,mama,,,,AC34(218),maes_vocabulaire_1934,
 fFM,mama,,,,AC55(109),torday_notes_1910,
-fMF,mama,,,,AC34(218),maes_vocabulaire_1934,
 fMM,mama,,,,AC55(109),torday_notes_1910,
-fFB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,
-fFB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,
-fFZ,tangata,,,,AC34(222),maes_vocabulaire_1934,
 fFZ,fatata,,,,AC55(109),torday_notes_1910,
-fMB,manumi,,,,AC34(220),maes_vocabulaire_1934,
 fMB,baba,,,,AC55(109),torday_notes_1910,
-fMZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,
-fMZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,
 fMZ,yaya,,,,AC55(109),torday_notes_1910,
 feZS,moa-pangi,,,,AC55(109),torday_notes_1910,
 fyZS,yangenge,,,,AC55(109),torday_notes_1910,
@@ -146,7 +165,6 @@ fFZS,baba,,,,AC55(109),torday_notes_1910,
 fMBS,baba,,,,AC55(109),torday_notes_1910,
 fMZS,baba,,,,AC55(109),torday_notes_1910,
 fH,moshile,,,,AC55(109),torday_notes_1910,
-fW,ngata,,,,AC34(217),maes_vocabulaire_1934,
 fW,moshide,,,,AC55(109),torday_notes_1910,
 fHF,boy,,,,AC55(109),torday_notes_1910,
 fHM,boy,,,,AC55(109),torday_notes_1910,
@@ -161,33 +179,15 @@ fHZ,musamba,,,,AC55(109),torday_notes_1910,
 fco-W,esonyi,,,,AC55(109),torday_notes_1910,
 fFW(notM),yaya,,,,AC55(109),torday_notes_1910,
 fFW(notM),moshide tata,,,,AC55(109),torday_notes_1910,
-feB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
-feB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
 feB,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-fyB,ngol'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
-fyB,muakidi'émi,,,,AC34(217),maes_vocabulaire_1934,Inferred; NA
 fyB,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-feZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 feZ,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-fyZ,pengi,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 fyZ,pangi,,,,AC55(109),torday_notes_1910,Inferred; NA
-fFeB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-fFeB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-fFyB,tata ilenga,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-fFyB,ngola muota,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
-fFeZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 fFeZ,fatata,,,,AC55(109),torday_notes_1910,Inferred; NA
-fFyZ,tangata,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 fFyZ,fatata,,,,AC55(109),torday_notes_1910,Inferred; NA
-fMeZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
-fMeZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 fMeZ,yaya,,,,AC55(109),torday_notes_1910,Inferred; NA
-fMyZ,mai ilenga,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
-fMyZ,mai ngola muota,,,,AC34(222),maes_vocabulaire_1934,Inferred; NA
 fMyZ,yaya,,,,AC55(109),torday_notes_1910,Inferred; NA
-fMeB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
 fMeB,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
-fMyB,manumi,,,,AC34(220),maes_vocabulaire_1934,Inferred; NA
 fMyB,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
 fFeBS,baba,,,,AC55(109),torday_notes_1910,Inferred; NA
 fFyBS,baba,,,,AC55(109),torday_notes_1910,Inferred; NA

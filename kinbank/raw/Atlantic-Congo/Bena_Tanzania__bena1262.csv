@@ -1,22 +1,87 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mama,,,,AC91(210),guarisma_etudes_1969,
-myB,mwanakwetu,,,,AC91(210),guarisma_etudes_1969,
 mF,dada,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
 mM,yuva,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-mM,mayi,,,,AC100(190),culwick_ubena_1935,
-mFF,kuuku,,,,AC91(210),guarisma_etudes_1969,
-mFM,papa,,,,AC91(210),guarisma_etudes_1969,
-mMF,kuuku,,,,AC91(210),guarisma_etudes_1969,
-mMM,papa,,,,AC91(210),guarisma_etudes_1969,
-mCC,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
-mSS,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
-mSD,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
-mDS,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
-mDD,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
 mFB,dada,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
 mFZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
 mMB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
 mMZ,yuva,,,mayi,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFBeS,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFByS,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+mMZeS,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+mMZyS,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFeZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFyZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMeB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMyB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fF,dada,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fM,yuva,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFB,dada,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMZ,yuva,,,mayi,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFBeD,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFByD,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMZeD,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMZyD,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFeZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFyZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMeB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMyB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mS,mswami,,,mwana mgosi,AC96(210),bryant_mumford_hehebenasangu_1934,
+mD,mwali,,,mwana mdala,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFBD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+mMBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+mMZD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+mMBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+mFeZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFyZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFeBD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFyBD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFeZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFyZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMeBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMyBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMeBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMyBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMeZD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMyZD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFZeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFZyS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFZeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mFZyD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMBeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMByS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMBeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mMByD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fS,mswami,,,mwana mgosi,AC96(210),bryant_mumford_hehebenasangu_1934,
+fD,mwali,,,mwana mdala,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFBS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+fMZS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
+fFeZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFyZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFeZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFyZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMeBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMyBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMeZS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMyZS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMeBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMyBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFZeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFZyS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFZeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fFZyD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMBeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMByS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMBeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+fMByD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
+mM,mayi,,,,AC100(190),culwick_ubena_1935,
 mFeB,dada,,,,AC100(191),culwick_ubena_1935,big father'
 mFyB,dada mdodo,,,,AC100(191),culwick_ubena_1935,
 mMeZ,mayi,,,,AC100(191),culwick_ubena_1935,
@@ -27,13 +92,63 @@ mZS,mwipwa,,,,AC100(191),culwick_ubena_1935,
 mZD,mwipwa,,,,AC100(191),culwick_ubena_1935,
 mFeBS,mama,,,,AC100(190),culwick_ubena_1935,
 mFyBS,munununa,,,,AC100(190),culwick_ubena_1935,
-mFBeS,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-mFByS,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-mMZeS,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-mMZyS,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-mW,mudala,,,,AC98(11),swartz_bilingual_1968,
 mHF,nyafiyara,,,,AC100(196),culwick_ubena_1935,
 mHM,nyafiyara,,,,AC100(196),culwick_ubena_1935,
+mFZH,kuku,,,,AC100(190),culwick_ubena_1935,
+meBS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+myBS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+meBD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+myBD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+meZS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+myZS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+meZD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+myZD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+fM,mayi,,,,AC100(190),culwick_ubena_1935,
+fFeB,dada,,,,AC100(191),culwick_ubena_1935,big father'
+fFyB,dada mdodo,,,,AC100(191),culwick_ubena_1935,
+fMeZ,mayi,,,,AC100(191),culwick_ubena_1935,
+fMyZ,mayi mdodo,,,,AC100(191),culwick_ubena_1935,
+fBS,mwipwa,,,,AC100(191),culwick_ubena_1935,
+fBD,mwipwa,,,,AC100(191),culwick_ubena_1935,
+fZS,mwana,,,,AC100(191),culwick_ubena_1935,
+fZD,mwana,,,,AC100(191),culwick_ubena_1935,
+fHF,nyafiyara,,,,AC100(196),culwick_ubena_1935,
+fHM,nyafiyara,,,,AC100(196),culwick_ubena_1935,
+fFZH,kuku,,,,AC100(190),culwick_ubena_1935,
+feBS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+fyBS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+feBD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+fyBD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+feZS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+fyZS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+feZD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+fyZD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
+mZ,muhasa,,,muhaja,AC91(210),culwick_ubena_1935,
+mS,mswami,,,mwana mgosi,AC100(190),culwick_ubena_1935,
+mD,mwali,,,mwana mdala,AC100(190),culwick_ubena_1935,
+fB,muhasa,,,muhaja,AC91(210),culwick_ubena_1935,
+fS,mswami,,,mwana mgosi,AC100(190),culwick_ubena_1935,
+fD,mwali,,,mwana mdala,AC100(190),culwick_ubena_1935,
+meB,mama,,,,AC91(210),guarisma_etudes_1969,
+myB,mwanakwetu,,,,AC91(210),guarisma_etudes_1969,
+mFF,kuuku,,,,AC91(210),guarisma_etudes_1969,
+mFM,papa,,,,AC91(210),guarisma_etudes_1969,
+mMF,kuuku,,,,AC91(210),guarisma_etudes_1969,
+mMM,papa,,,,AC91(210),guarisma_etudes_1969,
+feZ,mama,,,,AC91(210),guarisma_etudes_1969,
+fyZ,mwanakwetu,,,,AC91(210),guarisma_etudes_1969,
+fFF,kuuku,,,,AC91(210),guarisma_etudes_1969,
+fFM,papa,,,,AC91(210),guarisma_etudes_1969,
+fMF,kuuku,,,,AC91(210),guarisma_etudes_1969,
+fMM,papa,,,,AC91(210),guarisma_etudes_1969,
+mZ,muhasa,,,muhaja,AC100(190),guarisma_etudes_1969,
+fB,muhasa,,,muhaja,AC100(190),guarisma_etudes_1969,
+mCC,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
+mSS,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
+mSD,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
+mDS,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
+mDD,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
+mW,mudala,,,,AC98(11),swartz_bilingual_1968,
 mWF,muganafu,,,,AC98(9),swartz_bilingual_1968,
 mWM,muganafu,,,,AC98(9),swartz_bilingual_1968,
 mBW,wifi,,,,AC98(10),swartz_bilingual_1968,
@@ -53,55 +168,15 @@ mSWF,kilemba,,,,AC98(11),swartz_bilingual_1968,
 mDH,muganafu,,,,AC98(9),swartz_bilingual_1968,
 mDHM,kilemba,,,,AC98(11),swartz_bilingual_1968,
 mDHF,kilemba,,,,AC98(11),swartz_bilingual_1968,
-mFZH,kuku,,,,AC100(190),culwick_ubena_1935,
 mFBW,yuva,,,mayi,AC98(8),swartz_bilingual_1968,
 mMZH,dada,,,,AC98(8),swartz_bilingual_1968,
 mMBW,yuva,,,,AC98(8),swartz_bilingual_1968,
-mFeZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-mFyZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-mMeB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-mMyB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-meBS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-myBS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-meBD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-myBD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-meZS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-myZS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-meZD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-myZD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-feZ,mama,,,,AC91(210),guarisma_etudes_1969,
-fyZ,mwanakwetu,,,,AC91(210),guarisma_etudes_1969,
-fF,dada,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fM,yuva,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fM,mayi,,,,AC100(190),culwick_ubena_1935,
-fFF,kuuku,,,,AC91(210),guarisma_etudes_1969,
-fFM,papa,,,,AC91(210),guarisma_etudes_1969,
-fMF,kuuku,,,,AC91(210),guarisma_etudes_1969,
-fMM,papa,,,,AC91(210),guarisma_etudes_1969,
 fCC,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
 fSS,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
 fSD,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
 fDS,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
 fDD,mwijukulu,,,mwana,AC98(7),swartz_bilingual_1968,
-fFB,dada,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fFZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fMB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fMZ,yuva,,,mayi,AC96(210),bryant_mumford_hehebenasangu_1934,
-fFeB,dada,,,,AC100(191),culwick_ubena_1935,big father'
-fFyB,dada mdodo,,,,AC100(191),culwick_ubena_1935,
-fMeZ,mayi,,,,AC100(191),culwick_ubena_1935,
-fMyZ,mayi mdodo,,,,AC100(191),culwick_ubena_1935,
-fBS,mwipwa,,,,AC100(191),culwick_ubena_1935,
-fBD,mwipwa,,,,AC100(191),culwick_ubena_1935,
-fZS,mwana,,,,AC100(191),culwick_ubena_1935,
-fZD,mwana,,,,AC100(191),culwick_ubena_1935,
-fFBeD,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fFByD,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fMZeD,mama,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
-fMZyD,mwanakwetu,,,,AC96(210),bryant_mumford_hehebenasangu_1934,
 fH,mugosi,,,,AC98(11),swartz_bilingual_1968,
-fHF,nyafiyara,,,,AC100(196),culwick_ubena_1935,
-fHM,nyafiyara,,,,AC100(196),culwick_ubena_1935,
 fWF,muganafu,,,,AC98(9),swartz_bilingual_1968,
 fWM,muganafu,,,,AC98(9),swartz_bilingual_1968,
 fBW,wifi,,,,AC98(10),swartz_bilingual_1968,
@@ -119,131 +194,56 @@ fSWF,kilemba,,,,AC98(11),swartz_bilingual_1968,
 fDH,muganafu,,,,AC98(9),swartz_bilingual_1968,
 fDHM,kilemba,,,,AC98(11),swartz_bilingual_1968,
 fDHF,kilemba,,,,AC98(11),swartz_bilingual_1968,
-fFZH,kuku,,,,AC100(190),culwick_ubena_1935,
 fFBW,yuva,,,mayi,AC98(8),swartz_bilingual_1968,
 fMZH,dada,,,,AC98(8),swartz_bilingual_1968,
 fMBW,yuva,,,,AC98(8),swartz_bilingual_1968,
-fFeZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-fFyZ,yuvahengi,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-fMeB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-fMyB,yaya,,,,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
-feBS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-fyBS,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-feBD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-fyBD,mwipwa,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-feZS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-fyZS,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-feZD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-fyZD,mwana,,,,AC100(191),culwick_ubena_1935,Inferred; NA
-mZ,muhasa,,,muhaja,AC91(210),culwick_ubena_1935,
-mZ,muhasa,,,muhaja,AC100(190),guarisma_etudes_1969,
-mS,mswami,,,mwana mgosi,AC96(210),bryant_mumford_hehebenasangu_1934,
-mS,mswami,,,mwana mgosi,AC100(190),culwick_ubena_1935,
-mD,mwali,,,mwana mdala,AC96(210),bryant_mumford_hehebenasangu_1934,
-mD,mwali,,,mwana mdala,AC100(190),culwick_ubena_1935,
-mFZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 mFZD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-mFBD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 mFBD,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,
-mMBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 mMBD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-mMZD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 mMZD,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,
-mFZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 mFZS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-mMBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 mMBS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-mFeZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFeZS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFyZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFyZS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFeBD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFeBD,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFyBD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFyBD,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFeZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFeZD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFyZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFyZD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMeBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMeBS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMyBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMyBS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMeBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMeBD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMyBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMyBD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMeZD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMeZD,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMyZD,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMyZD,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFZeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFZeS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFZyS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFZyS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFZeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFZeD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mFZyD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mFZyD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMBeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMBeS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMByS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMByS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMBeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMBeD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-mMByD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 mMByD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fB,muhasa,,,muhaja,AC91(210),culwick_ubena_1935,
-fB,muhasa,,,muhaja,AC100(190),guarisma_etudes_1969,
-fS,mswami,,,mwana mgosi,AC96(210),bryant_mumford_hehebenasangu_1934,
-fS,mswami,,,mwana mgosi,AC100(190),culwick_ubena_1935,
-fD,mwali,,,mwana mdala,AC96(210),bryant_mumford_hehebenasangu_1934,
-fD,mwali,,,mwana mdala,AC100(190),culwick_ubena_1935,
-fFZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 fFZD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-fMBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 fMBD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-fFBS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 fFBS,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,
-fFZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 fFZS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-fMBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 fMBS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,
-fMZS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,
 fMZS,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,
-fFeZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFeZS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFyZS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFyZS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFeZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFeZD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFyZD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFyZD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMeBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMeBS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMyBS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMyBS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMeZS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMeZS,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMyZS,muhasa,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMyZS,muhasa,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMeBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMeBD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMyBD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMyBD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFZeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFZeS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFZyS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFZyS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFZeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFZeD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fFZyD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fFZyD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMBeS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMBeS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMByS,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMByS,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMBeD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMBeD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA
-fMByD,muhisi,,,muhiji,AC96(210),bryant_mumford_hehebenasangu_1934,Inferred; NA
 fMByD,muhisi,,,muhiji,AC98(5),swartz_bilingual_1968,Inferred; NA

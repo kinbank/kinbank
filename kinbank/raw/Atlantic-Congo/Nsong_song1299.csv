@@ -1,30 +1,34 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,mpeŋ,,,,AC43(536),muluwa_recueil_2007,
+mA,mbút,,,,AC42(130),muluwa_immediate_2014,
+mFB,malim,,,,AC42(125),muluwa_immediate_2014,
+mMB,malim,,,,AC42(125),muluwa_immediate_2014,
+mW,kℇ'ts,,,,AC42(127),muluwa_immediate_2014,
+mFeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+mFyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+mMeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+mMyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+fA,mbút,,,,AC42(130),muluwa_immediate_2014,
+fFB,malim,,,,AC42(125),muluwa_immediate_2014,
+fMB,malim,,,,AC42(125),muluwa_immediate_2014,
+fW,kℇ'ts,,,,AC42(127),muluwa_immediate_2014,
+fFeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+fFyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+fMeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
+fMyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
 meB,yéy,,,,AC59(99),muluwa_lexique_2015,
 myB,lék,,,,AC59(99),muluwa_lexique_2015,
 meZ,yéy,,,,AC59(99),muluwa_lexique_2015,
 myZ,lék,,,,AC59(99),muluwa_lexique_2015,
 mP,mpen,,,,AC59(136),muluwa_lexique_2015,
-mF,târ,,,,AC43(555),muluwa_recueil_2007,
-mM,ngwe:n,,,,AC43(533),muluwa_recueil_2007,
-mM,mâm,,,,AC43(544),muluwa_recueil_2007,
-mC,mwǎn,,,,AC43(557),muluwa_recueil_2007,
-mA,mbút,,,,AC42(130),muluwa_immediate_2014,
 mA,ekúb,,,,AC59(53),muluwa_lexique_2015,
 mPP,nkâ,,,,AC59(104),muluwa_lexique_2015,
-mFM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
-mMM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
 mCC,mótil,,,,AC59(141),muluwa_lexique_2015,
 mSS,mótil,,,,AC59(141),muluwa_lexique_2015,
 mSD,mótil,,,,AC59(141),muluwa_lexique_2015,
 mDS,mótil,,,,AC59(141),muluwa_lexique_2015,
 mDD,mótil,,,,AC59(141),muluwa_lexique_2015,
-mFB,malim,,,,AC42(125),muluwa_immediate_2014,
-mFB,lí:m,,,,AC43(544),muluwa_recueil_2007,
 mFB,târ,,,,AC59(131),muluwa_lexique_2015,
 mFZ,târ mↄkånd,,,,AC59(166),muluwa_lexique_2015,
-mMB,malim,,,,AC42(125),muluwa_immediate_2014,
-mMB,lí:m,,,,AC43(544),muluwa_recueil_2007,
 mMB,ngwâs,,,,AC59(131),muluwa_lexique_2015,
 mMZ,mâm,,,,AC59(166),muluwa_lexique_2015,
 mBS,mwân á mpen,,,,AC59(126),muluwa_lexique_2015,
@@ -39,10 +43,7 @@ mFBS,mótil,,,,AC59(76),muluwa_lexique_2015,
 mFZS,mótil,,,,AC59(76),muluwa_lexique_2015,
 mMBS,mótil,,,,AC59(76),muluwa_lexique_2015,
 mMZS,mótil,,,,AC59(76),muluwa_lexique_2015,
-mH,modím,,,,AC43(553),muluwa_recueil_2007,
-mW,kℇ'ts,,,,AC42(127),muluwa_immediate_2014,
 mW,mↄkets,,,,AC59(88),muluwa_lexique_2015,
-mW,mokánd,,,,AC43(542),muluwa_recueil_2007,
 mHF,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
 mHM,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
 mWF,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
@@ -59,21 +60,13 @@ mHZ,kwér,,,,AC59(59),muluwa_lexique_2015,
 mco-W,ḿpal,,,,AC59(74),muluwa_lexique_2015,
 mSW,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
 mDH,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
-mFeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-mFeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 mFeB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-mFyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-mFyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 mFyB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 mFeZ,târ mↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 mFyZ,târ mↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 mMeZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 mMyZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
-mMeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-mMeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 mMeB,ngwâs,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-mMyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-mMyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 mMyB,ngwâs,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 meBS,mwân á mpen,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
 myBS,mwân á mpen,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
@@ -115,32 +108,20 @@ mMBeD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMByD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMZeD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 mMZyD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fB,mpeŋ,,,,AC43(536),muluwa_recueil_2007,
 feB,yéy,,,,AC59(99),muluwa_lexique_2015,
 fyB,lék,,,,AC59(99),muluwa_lexique_2015,
 feZ,yéy,,,,AC59(99),muluwa_lexique_2015,
 fyZ,lék,,,,AC59(99),muluwa_lexique_2015,
 fP,mpen,,,,AC59(136),muluwa_lexique_2015,
-fF,târ,,,,AC43(555),muluwa_recueil_2007,
-fM,ngwe:n,,,,AC43(533),muluwa_recueil_2007,
-fM,mâm,,,,AC43(544),muluwa_recueil_2007,
-fC,mwǎn,,,,AC43(557),muluwa_recueil_2007,
-fA,mbút,,,,AC42(130),muluwa_immediate_2014,
 fA,ekúb,,,,AC59(53),muluwa_lexique_2015,
 fPP,nkâ,,,,AC59(104),muluwa_lexique_2015,
-fFM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
-fMM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
 fCC,mótil,,,,AC59(141),muluwa_lexique_2015,
 fSS,mótil,,,,AC59(141),muluwa_lexique_2015,
 fSD,mótil,,,,AC59(141),muluwa_lexique_2015,
 fDS,mótil,,,,AC59(141),muluwa_lexique_2015,
 fDD,mótil,,,,AC59(141),muluwa_lexique_2015,
-fFB,malim,,,,AC42(125),muluwa_immediate_2014,
-fFB,lí:m,,,,AC43(544),muluwa_recueil_2007,
 fFB,târ,,,,AC59(131),muluwa_lexique_2015,
 fFZ,târ mↄkånd,,,,AC59(166),muluwa_lexique_2015,
-fMB,malim,,,,AC42(125),muluwa_immediate_2014,
-fMB,lí:m,,,,AC43(544),muluwa_recueil_2007,
 fMB,ngwâs,,,,AC59(131),muluwa_lexique_2015,
 fMZ,mâm,,,,AC59(166),muluwa_lexique_2015,
 fBS,mwân á mpen,,,,AC59(126),muluwa_lexique_2015,
@@ -155,10 +136,7 @@ fFBS,mótil,,,,AC59(76),muluwa_lexique_2015,
 fFZS,mótil,,,,AC59(76),muluwa_lexique_2015,
 fMBS,mótil,,,,AC59(76),muluwa_lexique_2015,
 fMZS,mótil,,,,AC59(76),muluwa_lexique_2015,
-fH,modím,,,,AC43(553),muluwa_recueil_2007,
-fW,kℇ'ts,,,,AC42(127),muluwa_immediate_2014,
 fW,mↄkets,,,,AC59(88),muluwa_lexique_2015,
-fW,mokánd,,,,AC43(542),muluwa_recueil_2007,
 fHF,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
 fHM,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
 fWF,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
@@ -175,21 +153,13 @@ fHZ,kwér,,,,AC59(59),muluwa_lexique_2015,
 fco-W,ḿpal,,,,AC59(74),muluwa_lexique_2015,
 fSW,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
 fDH,(b)ↄkↄ,,,,AC59(59),muluwa_lexique_2015,
-fFeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-fFeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 fFeB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-fFyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-fFyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 fFyB,târ,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 fFeZ,târ mↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 fFyZ,târ mↄkånd,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 fMeZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
 fMyZ,mâm,,,,AC59(166),muluwa_lexique_2015,Inferred; NA
-fMeB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-fMeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 fMeB,ngwâs,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-fMyB,malim,,,,AC42(125),muluwa_immediate_2014,Inferred; NA
-fMyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
 fMyB,ngwâs,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 feBS,mwân á mpen,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
 fyBS,mwân á mpen,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
@@ -231,3 +201,33 @@ fMBeD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMByD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMZeD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
 fMZyD,mótil,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
+mB,mpeŋ,,,,AC43(536),muluwa_recueil_2007,
+mF,târ,,,,AC43(555),muluwa_recueil_2007,
+mM,ngwe:n,,,,AC43(533),muluwa_recueil_2007,
+mM,mâm,,,,AC43(544),muluwa_recueil_2007,
+mC,mwǎn,,,,AC43(557),muluwa_recueil_2007,
+mFM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
+mMM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
+mFB,lí:m,,,,AC43(544),muluwa_recueil_2007,
+mMB,lí:m,,,,AC43(544),muluwa_recueil_2007,
+mH,modím,,,,AC43(553),muluwa_recueil_2007,
+mW,mokánd,,,,AC43(542),muluwa_recueil_2007,
+mFeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+mFyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+mMeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+mMyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+fB,mpeŋ,,,,AC43(536),muluwa_recueil_2007,
+fF,târ,,,,AC43(555),muluwa_recueil_2007,
+fM,ngwe:n,,,,AC43(533),muluwa_recueil_2007,
+fM,mâm,,,,AC43(544),muluwa_recueil_2007,
+fC,mwǎn,,,,AC43(557),muluwa_recueil_2007,
+fFM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
+fMM,ngwǎ,,,,AC43(560),muluwa_recueil_2007,
+fFB,lí:m,,,,AC43(544),muluwa_recueil_2007,
+fMB,lí:m,,,,AC43(544),muluwa_recueil_2007,
+fH,modím,,,,AC43(553),muluwa_recueil_2007,
+fW,mokánd,,,,AC43(542),muluwa_recueil_2007,
+fFeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+fFyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+fMeB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA
+fMyB,lí:m,,,,AC43(544),muluwa_recueil_2007,Inferred; NA

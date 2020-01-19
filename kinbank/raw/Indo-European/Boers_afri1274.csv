@@ -1,4 +1,218 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
+mZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+meB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
+myB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
+meZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+myZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+mF,vader,,,,IE36(29),barnard_convergent_1980,"vader ""father""; also: pa [36]"
+mM,moeder,,,,IE36(29),barnard_convergent_1980,"moeder ""mother""; also: ma [36]"
+mS,seun,,,,IE36(29),barnard_convergent_1980,"seun ""son"" [36]"
+mD,dogter,,,,IE36(29),barnard_convergent_1980,"dogter ""daughter"" [36]"
+mFF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
+mFF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
+mFM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
+mFM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
+mMF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
+mMF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
+mMM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
+mMM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
+mSS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
+mSD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
+mDS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
+mDD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
+mFB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
+mFZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
+mMB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
+mMZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
+mFeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
+mFyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
+mFeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
+mFyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
+mMeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
+mMyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
+mMeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
+mMyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
+mBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
+mBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
+mZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
+mZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
+meBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
+myBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
+meBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
+myBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
+meZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
+myZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
+meZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
+myZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
+mFZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+mFBD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMBD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMZD,niggie,,,,IE36(29),barnard_convergent_1980,
+mFBS,neef,,,,IE36(29),barnard_convergent_1980,
+mFZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+mMBS,neef,,,,IE36(29),barnard_convergent_1980,
+mMZS,neef,,,,IE36(29),barnard_convergent_1980,
+mFeBS,neef,,,,IE36(29),barnard_convergent_1980,
+mFyBS,neef,,,,IE36(29),barnard_convergent_1980,
+mFeZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+mFyZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+mFeBD,niggie,,,,IE36(29),barnard_convergent_1980,
+mFyBD,niggie,,,,IE36(29),barnard_convergent_1980,
+mFeZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+mFyZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+mMeBS,neef,,,,IE36(29),barnard_convergent_1980,
+mMyBS,neef,,,,IE36(29),barnard_convergent_1980,
+mMeZS,neef,,,,IE36(29),barnard_convergent_1980,
+mMyZS,neef,,,,IE36(29),barnard_convergent_1980,
+mMeBD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMyBD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMeZD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMyZD,niggie,,,,IE36(29),barnard_convergent_1980,
+mFBeS,neef,,,,IE36(29),barnard_convergent_1980,
+mFByS,neef,,,,IE36(29),barnard_convergent_1980,
+mFZeS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+mFZyS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+mFBeD,niggie,,,,IE36(29),barnard_convergent_1980,
+mFByD,niggie,,,,IE36(29),barnard_convergent_1980,
+mFZeD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+mFZyD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+mMBeS,neef,,,,IE36(29),barnard_convergent_1980,
+mMByS,neef,,,,IE36(29),barnard_convergent_1980,
+mMZeS,neef,,,,IE36(29),barnard_convergent_1980,
+mMZyS,neef,,,,IE36(29),barnard_convergent_1980,
+mMBeD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMByD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMZeD,niggie,,,,IE36(29),barnard_convergent_1980,
+mMZyD,niggie,,,,IE36(29),barnard_convergent_1980,
+mH,man,,,,IE36(29),barnard_convergent_1980,"man ""husband"" (man), informal [36]; man ""husband"", eggenoot ""husband, partner, spouse"" [346]; eggenoot ""husband"", (also: man) [348]"
+mW,vrou,,,,IE36(29),barnard_convergent_1980,"vrou ""wife"" (woman), informal [36]; eggenote ""wife, spouse"", gade ""wife, spouse"", vrou ""wife, woman, lady"" [346]; eggenote ""vrouw"", (also: vrou) [348]"
+mHF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" (skoon- ""-in-law"") [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
+mHM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
+mWF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
+mWM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
+mBW,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" (skoon- ""-in-law"") [36]; skoonsuster ""sister-in-law"" [346]"
+mZH,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [346]"
+mWB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
+mWZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
+mHB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]"
+mHZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
+mSW,skoondogter,,,,IE36(29),barnard_convergent_1980,"skoondogter ""daughter-in-law"" (skoon- ""-in-law"") [36]"
+mDH,skoonseun,,,,IE36(29),barnard_convergent_1980,"skoonseun ""son-in-law"" (skoon- ""-in-law"") [36]"
+fB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
+fZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+feB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
+fyB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
+feZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+fyZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+fF,vader,,,,IE36(29),barnard_convergent_1980,"vader ""father""; also: pa [36]"
+fM,moeder,,,,IE36(29),barnard_convergent_1980,"moeder ""mother""; also: ma [36]"
+fS,seun,,,,IE36(29),barnard_convergent_1980,"seun ""son"" [36]"
+fD,dogter,,,,IE36(29),barnard_convergent_1980,"dogter ""daughter"" [36]"
+fFF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
+fFF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
+fFM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
+fFM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
+fMF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
+fMF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
+fMM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
+fMM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
+fSS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
+fSD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
+fDS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
+fDD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
+fFB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
+fFZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
+fMB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
+fMZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
+fFeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
+fFyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
+fFeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
+fFyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
+fMeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
+fMyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
+fMeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
+fMyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
+fBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
+fBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
+fZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
+fZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
+feBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
+fyBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
+feBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
+fyBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
+feZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
+fyZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
+feZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
+fyZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
+fFZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+fFBD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMBD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMZD,niggie,,,,IE36(29),barnard_convergent_1980,
+fFBS,neef,,,,IE36(29),barnard_convergent_1980,
+fFZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+fMBS,neef,,,,IE36(29),barnard_convergent_1980,
+fMZS,neef,,,,IE36(29),barnard_convergent_1980,
+fFeBS,neef,,,,IE36(29),barnard_convergent_1980,
+fFyBS,neef,,,,IE36(29),barnard_convergent_1980,
+fFeZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+fFyZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+fFeBD,niggie,,,,IE36(29),barnard_convergent_1980,
+fFyBD,niggie,,,,IE36(29),barnard_convergent_1980,
+fFeZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+fFyZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+fMeBS,neef,,,,IE36(29),barnard_convergent_1980,
+fMyBS,neef,,,,IE36(29),barnard_convergent_1980,
+fMeZS,neef,,,,IE36(29),barnard_convergent_1980,
+fMyZS,neef,,,,IE36(29),barnard_convergent_1980,
+fMeBD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMyBD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMeZD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMyZD,niggie,,,,IE36(29),barnard_convergent_1980,
+fFBeS,neef,,,,IE36(29),barnard_convergent_1980,
+fFByS,neef,,,,IE36(29),barnard_convergent_1980,
+fFZeS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+fFZyS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
+fFBeD,niggie,,,,IE36(29),barnard_convergent_1980,
+fFByD,niggie,,,,IE36(29),barnard_convergent_1980,
+fFZeD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+fFZyD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
+fMBeS,neef,,,,IE36(29),barnard_convergent_1980,
+fMByS,neef,,,,IE36(29),barnard_convergent_1980,
+fMZeS,neef,,,,IE36(29),barnard_convergent_1980,
+fMZyS,neef,,,,IE36(29),barnard_convergent_1980,
+fMBeD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMByD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMZeD,niggie,,,,IE36(29),barnard_convergent_1980,
+fMZyD,niggie,,,,IE36(29),barnard_convergent_1980,
+fH,man,,,,IE36(29),barnard_convergent_1980,"man ""husband"" (man), informal [36]; man ""husband"", eggenoot ""husband, partner, spouse"" [346]; eggenoot ""husband"", (also: man) [348]"
+fW,vrou,,,,IE36(29),barnard_convergent_1980,"vrou ""wife"" (woman), informal [36]; eggenote ""wife, spouse"", gade ""wife, spouse"", vrou ""wife, woman, lady"" [346]; eggenote ""vrouw"", (also: vrou) [348]"
+fHF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" (skoon- ""-in-law"") [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
+fHM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
+fWF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
+fWM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
+fBW,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" (skoon- ""-in-law"") [36]; skoonsuster ""sister-in-law"" [346]"
+fZH,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [346]"
+fWB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
+fWZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
+fHB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]"
+fHZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
+fSW,skoondogter,,,,IE36(29),barnard_convergent_1980,"skoondogter ""daughter-in-law"" (skoon- ""-in-law"") [36]"
+fDH,skoonseun,,,,IE36(29),barnard_convergent_1980,"skoonseun ""son-in-law"" (skoon- ""-in-law"") [36]"
+mB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
+mZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+meB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
+myB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
+meZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+myZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+mWB,swaer,,,,IE193(350),mesthrie_linguistic_1990,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
+fB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
+fZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+feB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
+fyB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
+feZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+fyZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+fWB,swaer,,,,IE193(350),mesthrie_linguistic_1990,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
 mP,ouers,,,,IE346(),noauthor_internet_nodate,"ouers ""parents"" [346]"
 mC,kind,,,,IE346(348),noauthor_internet_nodate,"kind ""child"" [346]"
 mCC,kleinkinders,,,,IE346(348(),noauthor_internet_nodate,"kleinkinders ""grandchildren"" [346]; kleinkind ""grandchild"" [348]"
@@ -29,417 +243,203 @@ feZS,susterskind,,,,IE346(348(),noauthor_internet_nodate,"susterskind ""nephew, 
 fyZS,susterskind,,,,IE346(348(),noauthor_internet_nodate,"susterskind ""nephew, son of sister"", also: seun [348]"
 feZD,susterskind,,,,IE346(348(),noauthor_internet_nodate,"susterskind ""niece, daughter of sister"", also: dogter [348]"
 fyZD,susterskind,,,,IE346(348(),noauthor_internet_nodate,"susterskind ""niece, daughter of sister"", also: dogter [348]"
-mB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
-mB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
-mB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
-mZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-mZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-mZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-meB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
-meB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
-meB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
-myB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
-myB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
-myB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
-meZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-meZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-meZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-myZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-myZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-myZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-mF,vader,,,,IE36(29),barnard_convergent_1980,"vader ""father""; also: pa [36]"
-mF,vader,,,,IE348(),noauthor_talennet_nodate,"vader ""father""; also: pa [36]"
-mM,moeder,,,,IE36(29),barnard_convergent_1980,"moeder ""mother""; also: ma [36]"
-mM,moeder,,,,IE348(),noauthor_talennet_nodate,"moeder ""mother""; also: ma [36]"
-mS,seun,,,,IE36(29),barnard_convergent_1980,"seun ""son"" [36]"
-mS,seun,,,,IE348(),noauthor_talennet_nodate,"seun ""son"" [36]"
-mD,dogter,,,,IE36(29),barnard_convergent_1980,"dogter ""daughter"" [36]"
-mD,dogter,,,,IE348(),noauthor_talennet_nodate,"dogter ""daughter"" [36]"
-mFF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
 mFF,grootvader,,,,IE346(),noauthor_internet_nodate,"grootvader ""grandfather""; also: oupa [36]"
-mFF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
 mFF,oupa,,,,IE346(348(),noauthor_internet_nodate,oupa [36]
-mFM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
 mFM,grootmoeder,,,,IE346(),noauthor_internet_nodate,"grootmoeder ""grandmother""; also: ouma [36]"
-mFM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
 mFM,ouma,,,,IE346(348(),noauthor_internet_nodate,ouma [36]
-mMF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
 mMF,grootvader,,,,IE346(),noauthor_internet_nodate,"grootvader ""grandfather""; also: oupa [36]"
-mMF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
 mMF,oupa,,,,IE346(348(),noauthor_internet_nodate,oupa [36]
-mMM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
 mMM,grootmoeder,,,,IE346(),noauthor_internet_nodate,"grootmoeder ""grandmother""; also: ouma [36]"
-mMM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
 mMM,ouma,,,,IE346(348(),noauthor_internet_nodate,ouma [36]
-mSS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
-mSS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
-mSD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
-mSD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
-mDS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
-mDS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
-mDD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
-mDD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
-mFB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
 mFB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]; oom ""uncle"" [346]"
-mFZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
 mFZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
-mMB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
 mMB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]"
-mMZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
 mMZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]"
-mFeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
 mFeB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]; oom ""uncle"" [346]"
-mFyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
 mFyB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]; oom ""uncle"" [346]"
-mFeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
 mFeZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
-mFyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
 mFyZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
-mMeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
 mMeZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]"
-mMyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
 mMyZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]"
-mMeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
 mMeB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]"
-mMyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
 mMyB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]"
-mBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
 mBS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
-mBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
 mBD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
-mZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
 mZS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
-mZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
 mZD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
-meBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
 meBS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
-myBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
 myBS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
-meBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
 meBD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
-myBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
 myBD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
-meZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
 meZS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
-myZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
 myZS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
-meZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
 meZD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
-myZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
 myZD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
-mFZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 mFZD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-mFBD,niggie,,,,IE36(29),barnard_convergent_1980,
 mFBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMBD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMZD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMZD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mFBS,neef,,,,IE36(29),barnard_convergent_1980,
 mFBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mFZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 mFZS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-mMBS,neef,,,,IE36(29),barnard_convergent_1980,
 mMBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMZS,neef,,,,IE36(29),barnard_convergent_1980,
 mMZS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mFeBS,neef,,,,IE36(29),barnard_convergent_1980,
 mFeBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mFyBS,neef,,,,IE36(29),barnard_convergent_1980,
 mFyBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mFeZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 mFeZS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-mFyZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 mFyZS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-mFeBD,niggie,,,,IE36(29),barnard_convergent_1980,
 mFeBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mFyBD,niggie,,,,IE36(29),barnard_convergent_1980,
 mFyBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mFeZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 mFeZD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-mFyZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 mFyZD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-mMeBS,neef,,,,IE36(29),barnard_convergent_1980,
 mMeBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMyBS,neef,,,,IE36(29),barnard_convergent_1980,
 mMyBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMeZS,neef,,,,IE36(29),barnard_convergent_1980,
 mMeZS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMyZS,neef,,,,IE36(29),barnard_convergent_1980,
 mMyZS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMeBD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMeBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMyBD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMyBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMeZD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMeZD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMyZD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMyZD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mFBeS,neef,,,,IE36(29),barnard_convergent_1980,
 mFBeS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mFByS,neef,,,,IE36(29),barnard_convergent_1980,
 mFByS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mFZeS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 mFZeS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-mFZyS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 mFZyS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-mFBeD,niggie,,,,IE36(29),barnard_convergent_1980,
 mFBeD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mFByD,niggie,,,,IE36(29),barnard_convergent_1980,
 mFByD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mFZeD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 mFZeD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-mFZyD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 mFZyD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-mMBeS,neef,,,,IE36(29),barnard_convergent_1980,
 mMBeS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMByS,neef,,,,IE36(29),barnard_convergent_1980,
 mMByS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMZeS,neef,,,,IE36(29),barnard_convergent_1980,
 mMZeS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMZyS,neef,,,,IE36(29),barnard_convergent_1980,
 mMZyS,neef,,,,IE346(348(),noauthor_internet_nodate,
-mMBeD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMBeD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMByD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMByD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMZeD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMZeD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mMZyD,niggie,,,,IE36(29),barnard_convergent_1980,
 mMZyD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-mH,man,,,,IE36(29),barnard_convergent_1980,"man ""husband"" (man), informal [36]; man ""husband"", eggenoot ""husband, partner, spouse"" [346]; eggenoot ""husband"", (also: man) [348]"
 mH,man,,,,IE346(),noauthor_internet_nodate,"man ""husband"" (man), informal [36]; man ""husband"", eggenoot ""husband, partner, spouse"" [346]; eggenoot ""husband"", (also: man) [348]"
-mW,vrou,,,,IE36(29),barnard_convergent_1980,"vrou ""wife"" (woman), informal [36]; eggenote ""wife, spouse"", gade ""wife, spouse"", vrou ""wife, woman, lady"" [346]; eggenote ""vrouw"", (also: vrou) [348]"
 mW,vrou,,,,IE346(),noauthor_internet_nodate,"vrou ""wife"" (woman), informal [36]; eggenote ""wife, spouse"", gade ""wife, spouse"", vrou ""wife, woman, lady"" [346]; eggenote ""vrouw"", (also: vrou) [348]"
-mHF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" (skoon- ""-in-law"") [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
 mHF,skoonvader,,,,IE346(),noauthor_internet_nodate,"skoonvader ""father-in-law"" (skoon- ""-in-law"") [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
-mHM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
 mHM,skoonmoeder,,,,IE346(),noauthor_internet_nodate,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
-mWF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
 mWF,skoonvader,,,,IE346(),noauthor_internet_nodate,"skoonvader ""father-in-law"" [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
-mWM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
 mWM,skoonmoeder,,,,IE346(),noauthor_internet_nodate,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
-mBW,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" (skoon- ""-in-law"") [36]; skoonsuster ""sister-in-law"" [346]"
 mBW,skoonsuster,,,,IE346(348(),noauthor_internet_nodate,"skoonsuster ""sister-in-law"" (skoon- ""-in-law"") [36]; skoonsuster ""sister-in-law"" [346]"
-mZH,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [346]"
 mZH,swaer,,,,IE346(348),noauthor_internet_nodate,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [346]"
-mWB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
-mWB,swaer,,,,IE193(350),mesthrie_linguistic_1990,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
 mWB,swaer,,,,IE346(348),noauthor_internet_nodate,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
-mWZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
 mWZ,skoonsuster,,,,IE346(348(),noauthor_internet_nodate,"skoonsuster ""sister-in-law"" [36]"
-mHB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]"
 mHB,swaer,,,,IE346(348),noauthor_internet_nodate,"swaer ""brother-in-law"" [36]"
-mHZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
 mHZ,skoonsuster,,,,IE346(348(),noauthor_internet_nodate,"skoonsuster ""sister-in-law"" [36]"
-mSW,skoondogter,,,,IE36(29),barnard_convergent_1980,"skoondogter ""daughter-in-law"" (skoon- ""-in-law"") [36]"
 mSW,skoondogter,,,,IE346(),noauthor_internet_nodate,"skoondogter ""daughter-in-law"" (skoon- ""-in-law"") [36]"
-mDH,skoonseun,,,,IE36(29),barnard_convergent_1980,"skoonseun ""son-in-law"" (skoon- ""-in-law"") [36]"
 mDH,skoonseun,,,,IE346(),noauthor_internet_nodate,"skoonseun ""son-in-law"" (skoon- ""-in-law"") [36]"
-fB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
-fB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
-fB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
-fZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-fZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-fZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-feB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
-feB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
-feB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
-fyB,broer,,,,IE36(29),barnard_convergent_1980,"broer ""brother"" [36]; broer ""brother"" [193]"
-fyB,broer,,,,IE193(350),mesthrie_linguistic_1990,"broer ""brother"" [36]; broer ""brother"" [193]"
-fyB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
-feZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-feZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-feZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-fyZ,suster,,,,IE36(29),barnard_convergent_1980,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-fyZ,suster,,,,IE193(350),mesthrie_linguistic_1990,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-fyZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
-fF,vader,,,,IE36(29),barnard_convergent_1980,"vader ""father""; also: pa [36]"
-fF,vader,,,,IE348(),noauthor_talennet_nodate,"vader ""father""; also: pa [36]"
-fM,moeder,,,,IE36(29),barnard_convergent_1980,"moeder ""mother""; also: ma [36]"
-fM,moeder,,,,IE348(),noauthor_talennet_nodate,"moeder ""mother""; also: ma [36]"
-fS,seun,,,,IE36(29),barnard_convergent_1980,"seun ""son"" [36]"
-fS,seun,,,,IE348(),noauthor_talennet_nodate,"seun ""son"" [36]"
-fD,dogter,,,,IE36(29),barnard_convergent_1980,"dogter ""daughter"" [36]"
-fD,dogter,,,,IE348(),noauthor_talennet_nodate,"dogter ""daughter"" [36]"
-fFF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
 fFF,grootvader,,,,IE346(),noauthor_internet_nodate,"grootvader ""grandfather""; also: oupa [36]"
-fFF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
 fFF,oupa,,,,IE346(348(),noauthor_internet_nodate,oupa [36]
-fFM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
 fFM,grootmoeder,,,,IE346(),noauthor_internet_nodate,"grootmoeder ""grandmother""; also: ouma [36]"
-fFM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
 fFM,ouma,,,,IE346(348(),noauthor_internet_nodate,ouma [36]
-fMF,grootvader,,,,IE36(29),barnard_convergent_1980,"grootvader ""grandfather""; also: oupa [36]"
 fMF,grootvader,,,,IE346(),noauthor_internet_nodate,"grootvader ""grandfather""; also: oupa [36]"
-fMF,oupa,,,,IE36(29),barnard_convergent_1980,oupa [36]
 fMF,oupa,,,,IE346(348(),noauthor_internet_nodate,oupa [36]
-fMM,grootmoeder,,,,IE36(29),barnard_convergent_1980,"grootmoeder ""grandmother""; also: ouma [36]"
 fMM,grootmoeder,,,,IE346(),noauthor_internet_nodate,"grootmoeder ""grandmother""; also: ouma [36]"
-fMM,ouma,,,,IE36(29),barnard_convergent_1980,ouma [36]
 fMM,ouma,,,,IE346(348(),noauthor_internet_nodate,ouma [36]
-fSS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
-fSS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
-fSD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
-fSD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
-fDS,kleinseun,,,,IE36(29),barnard_convergent_1980,"kleinseun ""grandson"" [36]"
-fDS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
-fDD,kleindogter,,,,IE36(29),barnard_convergent_1980,"kleindogter ""granddaughter"" [36]"
-fDD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
-fFB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
 fFB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]; oom ""uncle"" [346]"
-fFZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
 fFZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
-fMB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
 fMB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]"
-fMZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
 fMZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]"
-fFeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
 fFeB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]; oom ""uncle"" [346]"
-fFyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]; oom ""uncle"" [346]"
 fFyB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]; oom ""uncle"" [346]"
-fFeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
 fFeZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
-fFyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
 fFyZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]; tannie ""aunt"" (from one internetsource), two other two internet dictionaries say  'tant' as the term for ""aunt"" (not  'tante"")  [346]"
-fMeZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
 fMeZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]"
-fMyZ,tante,,,,IE36(29),barnard_convergent_1980,"tante ""aunt""; also: tannie [36]"
 fMyZ,tante,,,,IE346(348(),noauthor_internet_nodate,"tante ""aunt""; also: tannie [36]"
-fMeB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
 fMeB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]"
-fMyB,oom,,,,IE36(29),barnard_convergent_1980,"oom ""uncle"" [36]"
 fMyB,oom,,,,IE346(348(),noauthor_internet_nodate,"oom ""uncle"" [36]"
-fBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
 fBS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
-fBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
 fBD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
-fZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
 fZS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
-fZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
 fZD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
-feBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
 feBS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
-fyBS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
 fyBS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; broerskind ""nephew"", also neef [346]"
-feBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
 feBD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
-fyBD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
 fyBD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; broerskind ""nephew"", also nig, niggie [346]"
-feZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
 feZS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
-fyZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
 fyZS,neef,,,,IE346(),noauthor_internet_nodate,"neef ""nephew"" (also male cousin)  [36]; susterskind ""niece"", also neef [346]"
-feZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
 feZD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
-fyZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
 fyZD,niggie,,,,IE346(),noauthor_internet_nodate,"niggie ""niece"" (also female cousin) [36]; susterskind ""niece"", also nig, niggie [346]"
-fFZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 fFZD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-fFBD,niggie,,,,IE36(29),barnard_convergent_1980,
 fFBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMBD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMZD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMZD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fFBS,neef,,,,IE36(29),barnard_convergent_1980,
 fFBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fFZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 fFZS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-fMBS,neef,,,,IE36(29),barnard_convergent_1980,
 fMBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMZS,neef,,,,IE36(29),barnard_convergent_1980,
 fMZS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fFeBS,neef,,,,IE36(29),barnard_convergent_1980,
 fFeBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fFyBS,neef,,,,IE36(29),barnard_convergent_1980,
 fFyBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fFeZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 fFeZS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-fFyZS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 fFyZS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-fFeBD,niggie,,,,IE36(29),barnard_convergent_1980,
 fFeBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fFyBD,niggie,,,,IE36(29),barnard_convergent_1980,
 fFyBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fFeZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 fFeZD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-fFyZD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 fFyZD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-fMeBS,neef,,,,IE36(29),barnard_convergent_1980,
 fMeBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMyBS,neef,,,,IE36(29),barnard_convergent_1980,
 fMyBS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMeZS,neef,,,,IE36(29),barnard_convergent_1980,
 fMeZS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMyZS,neef,,,,IE36(29),barnard_convergent_1980,
 fMyZS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMeBD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMeBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMyBD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMyBD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMeZD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMeZD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMyZD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMyZD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fFBeS,neef,,,,IE36(29),barnard_convergent_1980,
 fFBeS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fFByS,neef,,,,IE36(29),barnard_convergent_1980,
 fFByS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fFZeS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 fFZeS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-fFZyS,neef,,,,IE36(29),barnard_convergent_1980,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
 fFZyS,neef,,,,IE346(348(),noauthor_internet_nodate,"neef ""male cousin"" [36]; neef, neefie, nefie ""male cousin"", also ""nephew""; plural: neefs [346]"
-fFBeD,niggie,,,,IE36(29),barnard_convergent_1980,
 fFBeD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fFByD,niggie,,,,IE36(29),barnard_convergent_1980,
 fFByD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fFZeD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 fFZeD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-fFZyD,niggie,,,,IE36(29),barnard_convergent_1980,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
 fFZyD,niggie,,,,IE346(348(),noauthor_internet_nodate,"niggie ""female cousin"" [36]; nig, niggie ""female cousin"", also ""niece""; plural: niggies [346]"
-fMBeS,neef,,,,IE36(29),barnard_convergent_1980,
 fMBeS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMByS,neef,,,,IE36(29),barnard_convergent_1980,
 fMByS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMZeS,neef,,,,IE36(29),barnard_convergent_1980,
 fMZeS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMZyS,neef,,,,IE36(29),barnard_convergent_1980,
 fMZyS,neef,,,,IE346(348(),noauthor_internet_nodate,
-fMBeD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMBeD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMByD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMByD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMZeD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMZeD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fMZyD,niggie,,,,IE36(29),barnard_convergent_1980,
 fMZyD,niggie,,,,IE346(348(),noauthor_internet_nodate,
-fH,man,,,,IE36(29),barnard_convergent_1980,"man ""husband"" (man), informal [36]; man ""husband"", eggenoot ""husband, partner, spouse"" [346]; eggenoot ""husband"", (also: man) [348]"
 fH,man,,,,IE346(),noauthor_internet_nodate,"man ""husband"" (man), informal [36]; man ""husband"", eggenoot ""husband, partner, spouse"" [346]; eggenoot ""husband"", (also: man) [348]"
-fW,vrou,,,,IE36(29),barnard_convergent_1980,"vrou ""wife"" (woman), informal [36]; eggenote ""wife, spouse"", gade ""wife, spouse"", vrou ""wife, woman, lady"" [346]; eggenote ""vrouw"", (also: vrou) [348]"
 fW,vrou,,,,IE346(),noauthor_internet_nodate,"vrou ""wife"" (woman), informal [36]; eggenote ""wife, spouse"", gade ""wife, spouse"", vrou ""wife, woman, lady"" [346]; eggenote ""vrouw"", (also: vrou) [348]"
-fHF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" (skoon- ""-in-law"") [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
 fHF,skoonvader,,,,IE346(),noauthor_internet_nodate,"skoonvader ""father-in-law"" (skoon- ""-in-law"") [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
-fHM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
 fHM,skoonmoeder,,,,IE346(),noauthor_internet_nodate,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
-fWF,skoonvader,,,,IE36(29),barnard_convergent_1980,"skoonvader ""father-in-law"" [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
 fWF,skoonvader,,,,IE346(),noauthor_internet_nodate,"skoonvader ""father-in-law"" [36]; skoonpa ""father-in-law"" [346]; skoonpa [348]"
-fWM,skoonmoeder,,,,IE36(29),barnard_convergent_1980,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
 fWM,skoonmoeder,,,,IE346(),noauthor_internet_nodate,"skoonmoeder ""mother-in-law"" [36]; skoonma ""mother-in-law"" [346]; skoonma [348]"
-fBW,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" (skoon- ""-in-law"") [36]; skoonsuster ""sister-in-law"" [346]"
 fBW,skoonsuster,,,,IE346(348(),noauthor_internet_nodate,"skoonsuster ""sister-in-law"" (skoon- ""-in-law"") [36]; skoonsuster ""sister-in-law"" [346]"
-fZH,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [346]"
 fZH,swaer,,,,IE346(348),noauthor_internet_nodate,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [346]"
-fWB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
-fWB,swaer,,,,IE193(350),mesthrie_linguistic_1990,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
 fWB,swaer,,,,IE346(348),noauthor_internet_nodate,"swaer ""brother-in-law"" [36]; swaer ""brother-in-law"" [193]"
-fWZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
 fWZ,skoonsuster,,,,IE346(348(),noauthor_internet_nodate,"skoonsuster ""sister-in-law"" [36]"
-fHB,swaer,,,,IE36(29),barnard_convergent_1980,"swaer ""brother-in-law"" [36]"
 fHB,swaer,,,,IE346(348),noauthor_internet_nodate,"swaer ""brother-in-law"" [36]"
-fHZ,skoonsuster,,,,IE36(29),barnard_convergent_1980,"skoonsuster ""sister-in-law"" [36]"
 fHZ,skoonsuster,,,,IE346(348(),noauthor_internet_nodate,"skoonsuster ""sister-in-law"" [36]"
-fSW,skoondogter,,,,IE36(29),barnard_convergent_1980,"skoondogter ""daughter-in-law"" (skoon- ""-in-law"") [36]"
 fSW,skoondogter,,,,IE346(),noauthor_internet_nodate,"skoondogter ""daughter-in-law"" (skoon- ""-in-law"") [36]"
-fDH,skoonseun,,,,IE36(29),barnard_convergent_1980,"skoonseun ""son-in-law"" (skoon- ""-in-law"") [36]"
 fDH,skoonseun,,,,IE346(),noauthor_internet_nodate,"skoonseun ""son-in-law"" (skoon- ""-in-law"") [36]"
+mB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
+mZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+meB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
+myB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
+meZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+myZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+mF,vader,,,,IE348(),noauthor_talennet_nodate,"vader ""father""; also: pa [36]"
+mM,moeder,,,,IE348(),noauthor_talennet_nodate,"moeder ""mother""; also: ma [36]"
+mS,seun,,,,IE348(),noauthor_talennet_nodate,"seun ""son"" [36]"
+mD,dogter,,,,IE348(),noauthor_talennet_nodate,"dogter ""daughter"" [36]"
+mSS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
+mSD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
+mDS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
+mDD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
+fB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
+fZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+feB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
+fyB,broer,,,,IE348(),noauthor_talennet_nodate,"broer ""brother"" [36]; broer ""brother"" [193]"
+feZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+fyZ,suster,,,,IE348(),noauthor_talennet_nodate,"suster ""sister""; also: sus [36]; sussie ""sister"" [193]"
+fF,vader,,,,IE348(),noauthor_talennet_nodate,"vader ""father""; also: pa [36]"
+fM,moeder,,,,IE348(),noauthor_talennet_nodate,"moeder ""mother""; also: ma [36]"
+fS,seun,,,,IE348(),noauthor_talennet_nodate,"seun ""son"" [36]"
+fD,dogter,,,,IE348(),noauthor_talennet_nodate,"dogter ""daughter"" [36]"
+fSS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
+fSD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"
+fDS,kleinseun,,,,IE348(),noauthor_talennet_nodate,"kleinseun ""grandson"" [36]"
+fDD,kleindogter,,,,IE348(),noauthor_talennet_nodate,"kleindogter ""granddaughter"" [36]"

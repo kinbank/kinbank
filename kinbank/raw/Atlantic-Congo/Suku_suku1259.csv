@@ -1,24 +1,162 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mZ,mpangi,,,,AC111(230),lamal_basuku_1965,
-mP,phangi,,,,AC59(136),muluwa_lexique_2015,
-mF,taata,,,,AC59(139),muluwa_lexique_2015,
-mM,ngudi,,,,AC59(123),muluwa_lexique_2015,
-mM,mâma,,,,AC59(123),muluwa_lexique_2015,
 mC,mwana,,,,AC111(227),lamal_basuku_1965,
-mA,banzâmbi,,,,AC59(53),muluwa_lexique_2015,
-mPP,khaka,,,,AC59(104),muluwa_lexique_2015,
 mFF,kaakha,,,,AC111(229),lamal_basuku_1965,
 mFM,kaakha,,,,AC111(229),lamal_basuku_1965,
 mMF,kaakha,,,,AC111(229),lamal_basuku_1965,
 mMM,kaakha,,,,AC111(229),lamal_basuku_1965,
-mFB,taata,,,tata,AC59(131),muluwa_lexique_2015,
-mMB,lêmba,,,,AC59(131),muluwa_lexique_2015,
-mMB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,
-mMZ,maama,,,,AC59(166),muluwa_lexique_2015,
 mFeB,tata mbuta,,,,AC111(229),lamal_basuku_1965,
 mFyB,tata nleke,,,,AC111(229),lamal_basuku_1965,
 mMeZ,ngudi mbuta,,,,AC111(227),lamal_basuku_1965,
 mMyZ,ngudi nleke,,,,AC111(227),lamal_basuku_1965,
+fB,mpangi,,,,AC111(230),lamal_basuku_1965,
+fC,mwana,,,,AC111(227),lamal_basuku_1965,
+fFF,kaakha,,,,AC111(229),lamal_basuku_1965,
+fFM,kaakha,,,,AC111(229),lamal_basuku_1965,
+fMF,kaakha,,,,AC111(229),lamal_basuku_1965,
+fMM,kaakha,,,,AC111(229),lamal_basuku_1965,
+fFeB,tata mbuta,,,,AC111(229),lamal_basuku_1965,
+fFyB,tata nleke,,,,AC111(229),lamal_basuku_1965,
+fMeZ,ngudi mbuta,,,,AC111(227),lamal_basuku_1965,
+fMyZ,ngudi nleke,,,,AC111(227),lamal_basuku_1965,
+meB,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi yakala (ws)
+myB,mulêki,,,,AC59(99),lamal_basuku_1965,
+meZ,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi nkento (ms)
+myZ,mpangi nkento,,,,AC59(99),lamal_basuku_1965,
+mCC,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+mSS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+mSD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+mDS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+mDD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+mFZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,
+mBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
+mBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
+mZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
+mZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
+mFZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
+mFBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+mMBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
+mMZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+mFBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+mFZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
+mMBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
+mMZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+mFeZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
+mFyZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
+meBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+myBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+meBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+myBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+meZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+myZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+meZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+myZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+mFeBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFyBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFeZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mFyZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mFeBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFyBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFeZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mFyZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMeBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMyBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMeZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mMyZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mMeBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMyBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMeZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mMyZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFBeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFByS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFZeS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mFZyS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mFBeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFByD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mFZeD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mFZyD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMBeS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMByS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMZeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mMZyS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mMBeD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMByD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+mMZeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mMZyD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+feB,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi yakala (ws)
+fyB,mpangi yakala,,,,AC59(99),lamal_basuku_1965,
+feZ,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi nkento (ms)
+fyZ,múkomba,,,,AC59(99),lamal_basuku_1965,
+fCC,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+fSS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+fSD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+fDS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+fDD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
+fFZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,
+fBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
+fBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
+fZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
+fZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
+fFZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
+fFBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+fMBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
+fMZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+fFBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+fFZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
+fMBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
+fMZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
+fFeZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
+fFyZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
+feBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+fyBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+feBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+fyBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+feZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+fyZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
+feZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+fyZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
+fFeBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFyBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFeZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fFyZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fFeBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFyBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFeZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fFyZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMeBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMyBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMeZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fMyZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fMeBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMyBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMeZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fMyZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFBeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFByS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFZeS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fFZyS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fFBeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFByD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fFZeD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fFZyD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMBeS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMByS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMZeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fMZyS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fMBeD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMByD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
+fMZeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+fMZyD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
+mP,phangi,,,,AC59(136),muluwa_lexique_2015,
+mF,taata,,,,AC59(139),muluwa_lexique_2015,
+mM,ngudi,,,,AC59(123),muluwa_lexique_2015,
+mM,mâma,,,,AC59(123),muluwa_lexique_2015,
+mA,banzâmbi,,,,AC59(53),muluwa_lexique_2015,
+mPP,khaka,,,,AC59(104),muluwa_lexique_2015,
+mFB,taata,,,tata,AC59(131),muluwa_lexique_2015,
+mMB,lêmba,,,,AC59(131),muluwa_lexique_2015,
+mMB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,
+mMZ,maama,,,,AC59(166),muluwa_lexique_2015,
 mH,yakala,,,,AC59(121),muluwa_lexique_2015,
 mW,mukeetu,,,,AC59(88),muluwa_lexique_2015,
 mW,nkeetu,,,,AC59(88),muluwa_lexique_2015,
@@ -39,26 +177,16 @@ mMeB,lêmba,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 mMeB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 mMyB,lêmba,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 mMyB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-fB,mpangi,,,,AC111(230),lamal_basuku_1965,
 fP,phangi,,,,AC59(136),muluwa_lexique_2015,
 fF,taata,,,,AC59(139),muluwa_lexique_2015,
 fM,ngudi,,,,AC59(123),muluwa_lexique_2015,
 fM,mâma,,,,AC59(123),muluwa_lexique_2015,
-fC,mwana,,,,AC111(227),lamal_basuku_1965,
 fA,banzâmbi,,,,AC59(53),muluwa_lexique_2015,
 fPP,khaka,,,,AC59(104),muluwa_lexique_2015,
-fFF,kaakha,,,,AC111(229),lamal_basuku_1965,
-fFM,kaakha,,,,AC111(229),lamal_basuku_1965,
-fMF,kaakha,,,,AC111(229),lamal_basuku_1965,
-fMM,kaakha,,,,AC111(229),lamal_basuku_1965,
 fFB,taata,,,tata,AC59(131),muluwa_lexique_2015,
 fMB,lêmba,,,,AC59(131),muluwa_lexique_2015,
 fMB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,
 fMZ,maama,,,,AC59(166),muluwa_lexique_2015,
-fFeB,tata mbuta,,,,AC111(229),lamal_basuku_1965,
-fFyB,tata nleke,,,,AC111(229),lamal_basuku_1965,
-fMeZ,ngudi mbuta,,,,AC111(227),lamal_basuku_1965,
-fMyZ,ngudi nleke,,,,AC111(227),lamal_basuku_1965,
 fH,yakala,,,,AC59(121),muluwa_lexique_2015,
 fW,mukeetu,,,,AC59(88),muluwa_lexique_2015,
 fW,nkeetu,,,,AC59(88),muluwa_lexique_2015,
@@ -79,259 +207,131 @@ fMeB,lêmba,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 fMeB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 fMyB,lêmba,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
 fMyB,ngwaasi,,,,AC59(131),muluwa_lexique_2015,Inferred; NA
-meB,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi yakala (ws)
 meB,yâya,,,mbuta,AC111(230),muluwa_lexique_2015,can also use mpangi yakala (ws)
-myB,mulêki,,,,AC59(99),lamal_basuku_1965,
 myB,mulêki,,,,AC111(230),muluwa_lexique_2015,
-meZ,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi nkento (ms)
 meZ,yâya,,,mbuta,AC111(230),muluwa_lexique_2015,can also use mpangi nkento (ms)
-myZ,mpangi nkento,,,,AC59(99),lamal_basuku_1965,
 myZ,mpangi nkento,,,,AC111(230),muluwa_lexique_2015,
-mCC,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 mCC,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-mSS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 mSS,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-mSD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 mSD,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-mDS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 mDS,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-mDD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 mDD,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-mFZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,
 mFZ,tata,,,tata nkento,AC111(229),muluwa_lexique_2015,
-mBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
 mBS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,
-mBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
 mBD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,no marriage b/w uncle and niece
-mZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
 mZS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,
-mZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
 mZD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,no marriage b/w uncle and niece
-mFZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
 mFZD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,
-mFBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 mFBD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-mMBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
 mMBD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,
-mMZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 mMZD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-mFBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 mFBS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-mFZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
 mFZS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,
-mMBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
 mMBS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,
-mMZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 mMZS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-mFeZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
 mFeZ,tata,,,tata nkento,AC111(229),muluwa_lexique_2015,Inferred; NA
-mFyZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
 mFyZ,tata,,,tata nkento,AC111(229),muluwa_lexique_2015,Inferred; NA
-meBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 meBS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-myBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 myBS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-meBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 meBD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-myBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 myBD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-meZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 meZS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-myZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 myZS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-meZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 meZD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-myZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 myZD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-mFeBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFeBS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFyBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFyBS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFeZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFeZS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mFyZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFyZS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mFeBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFeBD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFyBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFyBD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFeZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFeZD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mFyZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFyZD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMeBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMeBS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMyBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMyBS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMeZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMeZS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mMyZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMyZS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mMeBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMeBD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMyBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMyBD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMeZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMeZD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mMyZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMyZD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFBeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFBeS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFByS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFByS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFZeS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFZeS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mFZyS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFZyS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mFBeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFBeD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFByD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mFByD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mFZeD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFZeD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mFZyD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mFZyD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMBeS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMBeS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMByS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMByS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMZeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMZeS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mMZyS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMZyS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mMBeD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMBeD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMByD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 mMByD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-mMZeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMZeD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-mMZyD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 mMZyD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-feB,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi yakala (ws)
 feB,yâya,,,mbuta,AC111(230),muluwa_lexique_2015,can also use mpangi yakala (ws)
-fyB,mpangi yakala,,,,AC59(99),lamal_basuku_1965,
 fyB,mpangi yakala,,,,AC111(230),muluwa_lexique_2015,
-feZ,yâya,,,mbuta,AC59(99),lamal_basuku_1965,can also use mpangi nkento (ms)
 feZ,yâya,,,mbuta,AC111(230),muluwa_lexique_2015,can also use mpangi nkento (ms)
-fyZ,múkomba,,,,AC59(99),lamal_basuku_1965,
 fyZ,múkomba,,,,AC111(230),muluwa_lexique_2015,
-fCC,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 fCC,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-fSS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 fSS,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-fSD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 fSD,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-fDS,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 fDS,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-fDD,mútekulu,,,mutekelo,AC59(141),lamal_basuku_1965,
 fDD,mútekulu,,,mutekelo,AC111(229),muluwa_lexique_2015,
-fFZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,
 fFZ,tata,,,tata nkento,AC111(229),muluwa_lexique_2015,
-fBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
 fBS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,
-fBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
 fBD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,no marriage b/w uncle and niece
-fZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,
 fZS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,
-fZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,no marriage b/w uncle and niece
 fZD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,no marriage b/w uncle and niece
-fFZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
 fFZD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,
-fFBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 fFBD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-fMBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
 fMBD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,
-fMZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 fMZD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-fFBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 fFBS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-fFZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,
 fFZS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,
-fMBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,
 fMBS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,
-fMZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,
 fMZS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,
-fFeZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
 fFeZ,tata,,,tata nkento,AC111(229),muluwa_lexique_2015,Inferred; NA
-fFyZ,tata,,,tata nkento,AC59(166),lamal_basuku_1965,Inferred; NA
 fFyZ,tata,,,tata nkento,AC111(229),muluwa_lexique_2015,Inferred; NA
-feBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 feBS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-fyBS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 fyBS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-feBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 feBD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-fyBD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 fyBD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-feZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 feZS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-fyZS,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; NA
 fyZS,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; NA
-feZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 feZD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-fyZD,mwǎn á khâsi,,,bana,AC59(126),lamal_basuku_1965,Inferred; no marriage b/w uncle and niece
 fyZD,mwǎn á khâsi,,,bana,AC111(227),muluwa_lexique_2015,Inferred; no marriage b/w uncle and niece
-fFeBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFeBS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFyBS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFyBS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFeZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFeZS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fFyZS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFyZS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fFeBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFeBD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFyBD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFyBD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFeZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFeZD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fFyZD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFyZD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMeBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMeBS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMyBS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMyBS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMeZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMeZS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fMyZS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMyZS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fMeBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMeBD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMyBD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMyBD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMeZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMeZD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fMyZD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMyZD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFBeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFBeS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFByS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFByS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFZeS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFZeS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fFZyS,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFZyS,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fFBeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFBeD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFByD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fFByD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fFZeD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFZeD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fFZyD,kísoni,,,mwana wu tata mukeeth'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fFZyD,kísoni,,,mwana wu tata mukeeth'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMBeS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMBeS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMByS,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMByS,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMZeS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMZeS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fMZyS,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMZyS,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fMBeD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMBeD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMByD,kísoni,,,mwana wu ngwas'ama,AC59(76),lamal_basuku_1965,Inferred; NA
 fMByD,kísoni,,,mwana wu ngwas'ama,AC111(232),muluwa_lexique_2015,Inferred; NA
-fMZeD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMZeD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA
-fMZyD,kísoni,,,mpangi,AC59(76),lamal_basuku_1965,Inferred; NA
 fMZyD,kísoni,,,mpangi,AC111(231),muluwa_lexique_2015,Inferred; NA

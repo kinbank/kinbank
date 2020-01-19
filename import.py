@@ -8,6 +8,7 @@ from string import ascii_lowercase
 
 import csvw
 import pybtex
+from cldfcatalog import Config
 from pyglottolog import Glottolog
 from clldutils.misc import slug
 
@@ -72,10 +73,15 @@ GLOTTOLOG_CODE_UPDATE = {
 }
 
 
-
-
-glottolog = Glottolog("/Users/simon/src/glottolog")
-glottolog = {l.id: l for l in glottolog.languoids()}
+# try to load glottolog
+cfg = Config.from_file()
+try:
+    gdir = cfg['clones'].get('glottolog', None)
+except:
+    gdir = None
+    
+if not gdir:
+    raise RuntimeError("Unable to find glottolog dir. Please run `cldfbench catconfig`")
 
 
 class Dataset:
@@ -229,12 +235,14 @@ def load_datasets(dirname):
 
 
 if __name__ == '__main__':
+    
     rawdata = {"varikin": VARIKIN, 'parabank': PARABANK}
     sources = {}
     clashes = []
     languages = {}
     concepts = Counter()
-    
+    glottolog = {l.id: l for l in Glottolog(gdir).languoids()}
+
     language_id = 1
     for dlabel, dpath in rawdata.items():
         for d in sorted(load_datasets(dpath).items()):
@@ -295,8 +303,7 @@ if __name__ == '__main__':
             # glottolog
             g = glottolog.get(ds.glottocode)
             if g is None:
-                print("ERROR -- invalid glottocode: %s" % ds.glottocode)
-                #raise ValueError("Invalid glottocode %s - %s" % (ds, ds.glottocode))
+                raise ValueError("Invalid glottocode %s - %s" % (ds, ds.glottocode))
             elif g.family is None:
                 outputdir = OUTPUT / 'Other'
                 family = ""

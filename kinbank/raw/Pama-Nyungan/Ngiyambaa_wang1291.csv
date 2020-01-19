@@ -1,23 +1,31 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mS,purraay,,,,PN3,bowern_austkin_nodate,
+mD,purraay,,,,PN3,bowern_austkin_nodate,
+mH,ngupaan,,,,PN3,bowern_austkin_nodate,
+mW,ngupaan,,,,PN3,bowern_austkin_nodate,
+fS,purraay,,,,PN3,bowern_austkin_nodate,
+fD,purraay,,,,PN3,bowern_austkin_nodate,
+fH,ngupaan,,,,PN3,bowern_austkin_nodate,
+fW,ngupaan,,,,PN3,bowern_austkin_nodate,
+mB,kaakaa,,,,PN3,bowern_austkin_nodate,
+mZ,kaathii,,,,PN3,bowern_austkin_nodate,
+mF,paapaa,,,,PN3,bowern_austkin_nodate,
+mM,kunii,,,,PN3,bowern_austkin_nodate,
+mC,purraay,,,,PN3,bowern_austkin_nodate,
+fB,kaakaa,,,,PN3,bowern_austkin_nodate,
+fZ,kaathii,,,,PN3,bowern_austkin_nodate,
+fF,paapaa,,,,PN3,bowern_austkin_nodate,
+fM,kunii,,,,PN3,bowern_austkin_nodate,
 mB,kulpini,kulpini,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
 meB,bingi,piŋi,,,PN1,bowern_chirila_2016,Lower Macleay River variety
-myB,kalpamay,,,,PN29(707),wafer_handbook_2008,
 meZ,narbooe,naɹpoːe,,,PN1,bowern_chirila_2016,Lower Macleay River variety
-myZ,puurrii,,,,PN29(707),wafer_handbook_2008,
 mF,pabah,pabah,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
 mM,koonee,koːneː,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
 mM,nangoo,naŋoː,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mM,narki,naɹki,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mM,nuki,nuki,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mS,pa-amba,pa-amba,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-mS,purraay,,,,PN3,bowern_austkin_nodate,
-mS,kaja,,,,,,
 mD,n'gulangal,n'gulangal,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-mD,purraay,,,,PN3,bowern_austkin_nodate,
-mFF,kaakaa,,,,PN29(707),wafer_handbook_2008,
-mFM,maamaa,,,,PN29(707),wafer_handbook_2008,
-mMF,kaarrikaa,,,,PN29(707),wafer_handbook_2008,
-mMM,miimii,,,,PN29(707),wafer_handbook_2008,
 mFB,kandoo,kantoː,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mFZ,koondi,koːnti,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mMB,kandoo,kantoː,,,PN1,bowern_chirila_2016,Lower Macleay River variety
@@ -39,9 +47,7 @@ mFZS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mMBS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mMZS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 mH,karika,kaɹika,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-mH,ngupaan,,,,PN3,bowern_austkin_nodate,
 mW,ma-ama,ma-ama,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-mW,ngupaan,,,,PN3,bowern_austkin_nodate,
 mFeBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mFyBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mFeZS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
@@ -53,7 +59,7 @@ mFyZD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMeBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMyBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMeZS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
-mMyZS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
+mMyZS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMeBD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMyBD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMeZD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
@@ -76,23 +82,14 @@ mMZeD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 mMZyD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fB,kulpini,kulpini,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
 feB,bingi,piŋi,,,PN1,bowern_chirila_2016,Lower Macleay River variety
-fyB,kalpamay,,,,PN29(707),wafer_handbook_2008,
 feZ,narbooe,naɹpoːe,,,PN1,bowern_chirila_2016,Lower Macleay River variety
-fyZ,puurrii,,,,PN29(707),wafer_handbook_2008,
 fF,pabah,pabah,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
 fM,koonee,koːneː,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
 fM,nangoo,naŋoː,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fM,narki,naɹki,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fM,nuki,nuki,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fS,pa-amba,pa-amba,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-fS,purraay,,,,PN3,bowern_austkin_nodate,
-fS,kaja,,,,,,
 fD,n'gulangal,n'gulangal,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-fD,purraay,,,,PN3,bowern_austkin_nodate,
-fFF,kaakaa,,,,PN29(707),wafer_handbook_2008,
-fFM,maamaa,,,,PN29(707),wafer_handbook_2008,
-fMF,kaarrikaa,,,,PN29(707),wafer_handbook_2008,
-fMM,miimii,,,,PN29(707),wafer_handbook_2008,
 fFB,kandoo,kantoː,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fFZ,koondi,koːnti,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fMB,kandoo,kantoː,,,PN1,bowern_chirila_2016,Lower Macleay River variety
@@ -114,9 +111,7 @@ fFZS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fMBS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fMZS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
 fH,karika,kaɹika,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-fH,ngupaan,,,,PN3,bowern_austkin_nodate,
 fW,ma-ama,ma-ama,,,PN1,bowern_chirila_2016,"Variety ""Aboriginal Words with Meanings Used by the Wohjhibon Tribe"""
-fW,ngupaan,,,,PN3,bowern_austkin_nodate,
 fFeBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fFyBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fFeZS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
@@ -128,7 +123,7 @@ fFyZD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMeBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMyBS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMeZS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
-fMyZS,kan,kan,,,PN1,bowern_chirila_2016,Lower Macleay River variety
+fMyZS,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMeBD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMyBD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMeZD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
@@ -149,21 +144,24 @@ fMBeD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMByD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMZeD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
 fMZyD,kan,kan,,,PN1,bowern_chirila_2016,Inferred; Lower Macleay River variety
-mB,kaakaa,,,,PN3,bowern_austkin_nodate,
+myB,kalpamay,,,,PN29(707),wafer_handbook_2008,
+myZ,puurrii,,,,PN29(707),wafer_handbook_2008,
+mFF,kaakaa,,,,PN29(707),wafer_handbook_2008,
+mFM,maamaa,,,,PN29(707),wafer_handbook_2008,
+mMF,kaarrikaa,,,,PN29(707),wafer_handbook_2008,
+mMM,miimii,,,,PN29(707),wafer_handbook_2008,
+fyB,kalpamay,,,,PN29(707),wafer_handbook_2008,
+fyZ,puurrii,,,,PN29(707),wafer_handbook_2008,
+fFF,kaakaa,,,,PN29(707),wafer_handbook_2008,
+fFM,maamaa,,,,PN29(707),wafer_handbook_2008,
+fMF,kaarrikaa,,,,PN29(707),wafer_handbook_2008,
+fMM,miimii,,,,PN29(707),wafer_handbook_2008,
 mB,kaakaa,,,,PN29(707),wafer_handbook_2008,
-mZ,kaathii,,,,PN3,bowern_austkin_nodate,
 mZ,kaathii,,,,PN29(707),wafer_handbook_2008,
-mF,paapaa,,,,PN3,bowern_austkin_nodate,
 mF,paapaa,,,,PN29(707),wafer_handbook_2008,
-mM,kunii,,,,PN3,bowern_austkin_nodate,
 mM,kunii,,,,PN29(707),wafer_handbook_2008,
-mC,purraay,,,,PN3,bowern_austkin_nodate,
 mC,purraay,,,,PN29(707),wafer_handbook_2008,
-fB,kaakaa,,,,PN3,bowern_austkin_nodate,
 fB,kaakaa,,,,PN29(707),wafer_handbook_2008,
-fZ,kaathii,,,,PN3,bowern_austkin_nodate,
 fZ,kaathii,,,,PN29(707),wafer_handbook_2008,
-fF,paapaa,,,,PN3,bowern_austkin_nodate,
 fF,paapaa,,,,PN29(707),wafer_handbook_2008,
-fM,kunii,,,,PN3,bowern_austkin_nodate,
 fM,kunii,,,,PN29(707),wafer_handbook_2008,

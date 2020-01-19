@@ -1,27 +1,121 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,babalu,,,,PN10(211),scheffler_australian_1978,
-mZ,kabuju,,,,PN10(211),scheffler_australian_1978,
 meB,paparla,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myB,marrkatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 meZ,kaputyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 myZ,marrkatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mF,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mF,djabalu,,,,PN10(211),scheffler_australian_1978,
 mM,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mM,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mM,kudang,,,,PN10(211),scheffler_australian_1978,
-mC,oba,,,,PN10(211),scheffler_australian_1978,
 mS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mD,tyatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mD,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFF,kalityi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFF,kaludji,,,,PN10(211),scheffler_australian_1978,
 mFM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFM,tyampartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFM,djambadu,,,,PN10(211),scheffler_australian_1978,
 mMF,tyampartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFB,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFZ,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mMZ,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mMZ,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFBS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFBS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mW,nyupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mHM,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mHM,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mWF,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mWM,kurntayi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mWM,malinyanu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mWM,rangan,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mWM,tyikarl,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mFeB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFyB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFeZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFeZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFyZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFyZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mMeZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mMeZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mMyZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mMyZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFeBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFeBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFeBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFyBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFyBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFyBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFBeS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFBeS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFBeS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFByS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFByS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mFByS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+feB,paparla,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fyB,marrkatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+feZ,kaputyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fyZ,marrkatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fF,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fM,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fM,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fD,tyatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fD,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFF,kalityi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFM,tyampartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fMF,tyampartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFB,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFZ,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fMZ,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fMZ,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFBS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFBS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fW,nyupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fHM,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fHM,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fWF,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fWM,kurntayi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fWM,malinyanu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fWM,rangan,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fWM,tyikarl,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fFeB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFyB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFeZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFeZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFyZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFyZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fMeZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fMeZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fMyZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fMyZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFeBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFeBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFeBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFyBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFyBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFyBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFBeS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFBeS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFBeS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFByS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFByS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+fFByS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
+mMM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+fMM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
+mB,babalu,,,,PN10(211),scheffler_australian_1978,
+mZ,kabuju,,,,PN10(211),scheffler_australian_1978,
+mF,djabalu,,,,PN10(211),scheffler_australian_1978,
+mM,kudang,,,,PN10(211),scheffler_australian_1978,
+mC,oba,,,,PN10(211),scheffler_australian_1978,
+mFF,kaludji,,,,PN10(211),scheffler_australian_1978,
+mFM,djambadu,,,,PN10(211),scheffler_australian_1978,
 mMF,djambadu,,,,PN10(211),scheffler_australian_1978,
 mSS,kaludji,,,,PN10(211),scheffler_australian_1978,
 mSS,telwel,,,,PN10(211),scheffler_australian_1978,
@@ -31,14 +125,9 @@ mDS,djambadu,,,,PN10(211),scheffler_australian_1978,
 mDS,telwel,,,,PN10(211),scheffler_australian_1978,
 mDD,djambadu,,,,PN10(211),scheffler_australian_1978,
 mDD,telwel,,,,PN10(211),scheffler_australian_1978,
-mFB,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFB,djabalu,,,,PN10(211),scheffler_australian_1978,
-mFZ,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZ,kamaru,,,,PN10(211),scheffler_australian_1978,
-mFZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMB,kaga,,,,PN10(211),scheffler_australian_1978,
-mMZ,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mMZ,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMZ,kudang,,,,PN10(211),scheffler_australian_1978,
 mBS,oba,,,,PN10(211),scheffler_australian_1978,
 mBD,oba,,,,PN10(211),scheffler_australian_1978,
@@ -46,26 +135,15 @@ mZS,djalangga,,,,PN10(211),scheffler_australian_1978,
 mZD,djalangga,,,,PN10(211),scheffler_australian_1978,
 mFZD,djambadu,,,,PN10(211),scheffler_australian_1978,
 mMBD,djambadu,,,,PN10(211),scheffler_australian_1978,
-mFBS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mFBS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mFZS,djambadu,,,,PN10(211),scheffler_australian_1978,
 mMBS,djambadu,,,,PN10(211),scheffler_australian_1978,
 mFZyS,telwel,,,,PN10(211),scheffler_australian_1978,
 mFZyD,telwel,,,,PN10(211),scheffler_australian_1978,
 mMByS,telwel,,,,PN10(211),scheffler_australian_1978,
 mMByD,telwel,,,,PN10(211),scheffler_australian_1978,
-mW,nyupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mHF,kaga,,,,PN10(211),scheffler_australian_1978,
-mHM,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mHM,kamaru,,,,PN10(211),scheffler_australian_1978,
-mHM,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mWF,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mWF,kaga,,,,PN10(211),scheffler_australian_1978,
-mWM,kurntayi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mWM,malinyanu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mWM,rangan,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-mWM,tyikarl,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mWM,kamaru,,,,PN10(211),scheffler_australian_1978,
 mSW,djalangga,,,,PN10(211),scheffler_australian_1978,
 mDH,djalangga,,,,PN10(211),scheffler_australian_1978,
@@ -73,21 +151,11 @@ mFZH,kaga,,,,PN10(211),scheffler_australian_1978,
 mFBW,kudang,,,,PN10(211),scheffler_australian_1978,
 mMZH,djabalu,,,,PN10(211),scheffler_australian_1978,
 mMBW,kamaru,,,,PN10(211),scheffler_australian_1978,
-mFeB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeB,djabalu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mFyB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyB,djabalu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mFeZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZ,kamaru,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mFeZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFyZ,kamaru,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mFyZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMeZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMeZ,kudang,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mMyZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mMyZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mMyZ,kudang,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMeB,kaga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMyB,kaga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
@@ -99,12 +167,6 @@ meZS,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 myZS,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 meZD,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 myZD,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mFeBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFeBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFyBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFeZS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mFyZS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mFeZD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
@@ -113,52 +175,25 @@ mMeBS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMyBS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMeBD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMyBD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mFBeS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFBeS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFBeS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFByS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFByS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-mFByS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 mFZeS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mFZeD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMBeS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 mMBeD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fB,babalu,,,,PN10(211),scheffler_australian_1978,
 fZ,kabuju,,,,PN10(211),scheffler_australian_1978,
-feB,paparla,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fyB,marrkatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-feZ,kaputyu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fyZ,marrkatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fF,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fF,djabalu,,,,PN10(211),scheffler_australian_1978,
-fM,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fM,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fM,kudang,,,,PN10(211),scheffler_australian_1978,
 fC,oba,,,,PN10(211),scheffler_australian_1978,
-fS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fD,tyatu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fD,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFF,kalityi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFF,kaludji,,,,PN10(211),scheffler_australian_1978,
-fFM,kaparli,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFM,tyampartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFM,djambadu,,,,PN10(211),scheffler_australian_1978,
-fMF,tyampartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMF,djambadu,,,,PN10(211),scheffler_australian_1978,
 fSS,djambadu,,,,PN10(211),scheffler_australian_1978,
 fSD,djambadu,,,,PN10(211),scheffler_australian_1978,
 fDS,kami,,,,PN10(211),scheffler_australian_1978,
 fDD,kami,,,,PN10(211),scheffler_australian_1978,
-fFB,tyapulu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFB,djabalu,,,,PN10(211),scheffler_australian_1978,
-fFZ,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZ,kamaru,,,,PN10(211),scheffler_australian_1978,
-fFZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMB,kaga,,,,PN10(211),scheffler_australian_1978,
-fMZ,kurtany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fMZ,kutari,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMZ,kudang,,,,PN10(211),scheffler_australian_1978,
 fBS,oba,,,,PN10(211),scheffler_australian_1978,
 fBD,oba,,,,PN10(211),scheffler_australian_1978,
@@ -166,46 +201,25 @@ fZS,djalangga,,,,PN10(211),scheffler_australian_1978,
 fZD,djalangga,,,,PN10(211),scheffler_australian_1978,
 fFZD,djambadu,,,,PN10(211),scheffler_australian_1978,
 fMBD,djambadu,,,,PN10(211),scheffler_australian_1978,
-fFBS,kartu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fFBS,wupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fFZS,djambadu,,,,PN10(211),scheffler_australian_1978,
 fMBS,djambadu,,,,PN10(211),scheffler_australian_1978,
 fFZyS,telwel,,,,PN10(211),scheffler_australian_1978,
 fFZyD,telwel,,,,PN10(211),scheffler_australian_1978,
 fMByS,telwel,,,,PN10(211),scheffler_australian_1978,
 fMByD,telwel,,,,PN10(211),scheffler_australian_1978,
-fW,nyupa,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fHF,kaga,,,,PN10(211),scheffler_australian_1978,
-fHM,kamuru,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fHM,kamaru,,,,PN10(211),scheffler_australian_1978,
-fHM,ngunyarri,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fWF,kaka,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fWF,kaga,,,,PN10(211),scheffler_australian_1978,
-fWM,kurntayi,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fWM,malinyanu,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fWM,rangan,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
-fWM,tyikarl,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fWM,kamaru,,,,PN10(211),scheffler_australian_1978,
 fFZH,kaga,,,,PN10(211),scheffler_australian_1978,
 fFBW,kudang,,,,PN10(211),scheffler_australian_1978,
 fMZH,djabalu,,,,PN10(211),scheffler_australian_1978,
 fMBW,kamaru,,,,PN10(211),scheffler_australian_1978,
-fFeB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeB,djabalu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fFyB,tyapulu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyB,djabalu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fFeZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZ,kamaru,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fFeZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyZ,kamuru,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFyZ,kamaru,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fFyZ,ngunyarri,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMeZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMeZ,kudang,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fMyZ,kurtany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fMyZ,kutari,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fMyZ,kudang,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMeB,kaga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMyB,kaga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
@@ -217,12 +231,6 @@ feZS,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fyZS,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 feZD,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fyZD,djalangga,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fFeBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFeBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyBS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyBS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFyBS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFeZS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fFyZS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fFeZD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
@@ -231,17 +239,9 @@ fMeBS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMyBS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMeBD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMyBD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-fFBeS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFBeS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFBeS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFByS,kartu,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFByS,ngalkurnkutany,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
-fFByS,wupa,,,,PN3,bowern_austkin_nodate,Inferred; Autofilled from CB Austkin data
 fFZeS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fFZeD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMBeS,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
 fMBeD,djambadu,,,,PN10(211),scheffler_australian_1978,Inferred; NA
-mMM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 mMM,kami,,,,PN10(211),scheffler_australian_1978,Autofilled from CB Austkin data
-fMM,kami,,,,PN3,bowern_austkin_nodate,Autofilled from CB Austkin data
 fMM,kami,,,,PN10(211),scheffler_australian_1978,Autofilled from CB Austkin data

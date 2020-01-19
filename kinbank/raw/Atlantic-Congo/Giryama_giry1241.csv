@@ -1,4 +1,42 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+mBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,
+mBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,
+mZS,ahu,,,,AC89(237),parkin_sacred_1991,
+mZD,ahu,,,,AC89(237),parkin_sacred_1991,
+mHM,mizhala,,,,AC89(238),parkin_sacred_1991,
+mWM,mutsedza wa kuche,,,,AC89(238),parkin_sacred_1991,
+mSW,mukaza mwana,,,,AC89(238),parkin_sacred_1991,
+mFBW,misomo,,,,AC89(237),parkin_sacred_1991,
+mMZH,mutsedza,,,,AC89(237),parkin_sacred_1991,
+mMBW,mukazahu,,,,AC89(237),parkin_sacred_1991,
+meBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+myBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+meBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+myBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+meZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+myZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+meZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+myZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+fBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,
+fBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,
+fZS,ahu,,,,AC89(237),parkin_sacred_1991,
+fZD,ahu,,,,AC89(237),parkin_sacred_1991,
+fHM,mizhala,,,,AC89(238),parkin_sacred_1991,
+fWM,mutsedza wa kuche,,,,AC89(238),parkin_sacred_1991,
+fSW,mukaza mwana,,,,AC89(238),parkin_sacred_1991,
+fFBW,misomo,,,,AC89(237),parkin_sacred_1991,
+fMZH,mutsedza,,,,AC89(237),parkin_sacred_1991,
+fMBW,mukazahu,,,,AC89(237),parkin_sacred_1991,
+feBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+fyBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+feBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+fyBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+feZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+fyZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+feZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+fyZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
+mHF,mutsedza,,,bizhala,AC79(40),parkin_sacred_1991,
+fHF,mutsedza,,,bizhala,AC79(40),parkin_sacred_1991,
 mB,ndugu,,,,AC79(21),taylor_giryama_1891,
 mZ,ndugu,,,,AC79(92),taylor_giryama_1891,
 meB,mukulu,,,,AC79(21),taylor_giryama_1891,
@@ -25,10 +63,6 @@ mFeB,bam'zhere,,,,AC79(80),taylor_giryama_1891,
 mFyB,bam'hoho,,,,AC79(80),taylor_giryama_1891,
 mMeZ,hmam'zhere,,,,AC79(80),taylor_giryama_1891,
 mMyZ,hmam'hoho,,,,AC79(80),taylor_giryama_1891,
-mBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,
-mBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,
-mZS,ahu,,,,AC89(237),parkin_sacred_1991,
-mZD,ahu,,,,AC89(237),parkin_sacred_1991,
 mFBD,mwana,,,,AC79(80),taylor_giryama_1891,
 mMBD,ndugu,,,,AC79(80),taylor_giryama_1891,
 mMZD,mwenehu,,,,AC79(80),taylor_giryama_1891,
@@ -38,35 +72,21 @@ mMBS,ndugu,,,,AC79(80),taylor_giryama_1891,
 mMZS,mwenehu,,,,AC79(80),taylor_giryama_1891,
 mH,mulume,,,,AC79(53),taylor_giryama_1891,
 mW,muche,,,,AC79(117),taylor_giryama_1891,
-mHM,mizhala,,,,AC89(238),parkin_sacred_1991,
 mWF,mutsedza,,,,AC79(40),taylor_giryama_1891,
-mWM,mutsedza wa kuche,,,,AC89(238),parkin_sacred_1991,
 mBW,mulamu,,,hawe,AC79(92),taylor_giryama_1891,
 mZH,mulamn,,,,AC79(21),taylor_giryama_1891,
 mWB,mulamn,,,,AC79(21),taylor_giryama_1891,
 mWZ,mulamu,,,mukaza mulamu,AC79(92),taylor_giryama_1891,
 mHB,mulume,,,,AC79(21),taylor_giryama_1891,
 mHZ,mulume,,,wifi,AC79(92),taylor_giryama_1891,
-mSW,mukaza mwana,,,,AC89(238),parkin_sacred_1991,
 mDH,mutsedza,,,,AC79(95),taylor_giryama_1891,
 mFZH,mutsedza,,,,AC79(80),taylor_giryama_1891,
-mFBW,misomo,,,,AC89(237),parkin_sacred_1991,
-mMZH,mutsedza,,,,AC89(237),parkin_sacred_1991,
-mMBW,mukazahu,,,,AC89(237),parkin_sacred_1991,
 meZ,ndugu,,,,AC79(92),taylor_giryama_1891,Inferred; NA
 myZ,ndugu,,,,AC79(92),taylor_giryama_1891,Inferred; NA
 mFeZ,tsangazimi,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 mFyZ,tsangazimi,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 mMeB,ahu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 mMyB,ahu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
-meBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-myBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-meBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-myBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-meZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-myZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-meZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-myZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
 mFeBS,somo,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 mFyBS,somo,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 mFeZS,ts'awe,,,,AC79(80),taylor_giryama_1891,Inferred; NA
@@ -121,10 +141,6 @@ fFeB,bam'zhere,,,,AC79(80),taylor_giryama_1891,
 fFyB,bam'hoho,,,,AC79(80),taylor_giryama_1891,
 fMeZ,hmam'zhere,,,,AC79(80),taylor_giryama_1891,
 fMyZ,hmam'hoho,,,,AC79(80),taylor_giryama_1891,
-fBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,
-fBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,
-fZS,ahu,,,,AC89(237),parkin_sacred_1991,
-fZD,ahu,,,,AC89(237),parkin_sacred_1991,
 fFBD,mwana,,,,AC79(80),taylor_giryama_1891,
 fMBD,ndugu,,,,AC79(80),taylor_giryama_1891,
 fMZD,mwenehu,,,,AC79(80),taylor_giryama_1891,
@@ -134,35 +150,21 @@ fMBS,ndugu,,,,AC79(80),taylor_giryama_1891,
 fMZS,mwenehu,,,,AC79(80),taylor_giryama_1891,
 fH,mulume,,,,AC79(53),taylor_giryama_1891,
 fW,muche,,,,AC79(117),taylor_giryama_1891,
-fHM,mizhala,,,,AC89(238),parkin_sacred_1991,
 fWF,mutsedza,,,,AC79(40),taylor_giryama_1891,
-fWM,mutsedza wa kuche,,,,AC89(238),parkin_sacred_1991,
 fBW,mulamu,,,hawe,AC79(92),taylor_giryama_1891,
 fZH,mulamn,,,,AC79(21),taylor_giryama_1891,
 fWB,mulamn,,,,AC79(21),taylor_giryama_1891,
 fWZ,mulamu,,,mukaza mulamu,AC79(92),taylor_giryama_1891,
 fHB,mulume,,,,AC79(21),taylor_giryama_1891,
 fHZ,mulume,,,wifi,AC79(92),taylor_giryama_1891,
-fSW,mukaza mwana,,,,AC89(238),parkin_sacred_1991,
 fDH,mutsedza,,,,AC79(95),taylor_giryama_1891,
 fFZH,mutsedza,,,,AC79(80),taylor_giryama_1891,
-fFBW,misomo,,,,AC89(237),parkin_sacred_1991,
-fMZH,mutsedza,,,,AC89(237),parkin_sacred_1991,
-fMBW,mukazahu,,,,AC89(237),parkin_sacred_1991,
 feZ,ndugu,,,,AC79(92),taylor_giryama_1891,Inferred; NA
 fyZ,ndugu,,,,AC79(92),taylor_giryama_1891,Inferred; NA
 fFeZ,tsangazimi,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fFyZ,tsangazimi,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fMeB,ahu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fMyB,ahu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
-feBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-fyBS,mwana wa kilume,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-feBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-fyBD,mwana wa kuche,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-feZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-fyZS,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-feZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
-fyZD,ahu,,,,AC89(237),parkin_sacred_1991,Inferred; NA
 fFeBS,somo,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fFyBS,somo,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fFeZS,ts'awe,,,,AC79(80),taylor_giryama_1891,Inferred; NA
@@ -191,7 +193,5 @@ fMBeD,ndugu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fMByD,ndugu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fMZeD,mwenehu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
 fMZyD,mwenehu,,,,AC79(80),taylor_giryama_1891,Inferred; NA
-mHF,mutsedza,,,bizhala,AC79(40),parkin_sacred_1991,
 mHF,mutsedza,,,bizhala,AC89(238),taylor_giryama_1891,
-fHF,mutsedza,,,bizhala,AC79(40),parkin_sacred_1991,
 fHF,mutsedza,,,bizhala,AC89(238),taylor_giryama_1891,

@@ -1,28 +1,41 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,hermano,,,,IE398),,"not gender neutral hermano ""sibling""  [398]"
-mB,hermano,,,,IE80(156-167),diniz_os_1977,"hermano ""brother"" [80]"
-mZ,hermana,,,,IE80(156-167),diniz_os_1977,"hermana ""sister"" [80]"
 meB,hermano mayor,,,,IE398),,"TRAD LIThermano mayor ""elder brother"" [398]"
 myB,hermano menor,,,,IE398),,"TRAD LIThermano menor ""younger brother"" [398]"
 meZ,hermana mayor,,,,IE398),,"TRAD LIThermana mayor ""elder sister"" [398]"
 myZ,hermana menor,,,,IE398),,"TRAD LIThermana menor ""younger sister"" [398]"
+mC,hijos,,,,IE398),,"PLURALhijos ""children"" [398]"
+mPP,abuelos,,,,IE398),,"PLURALabuelos ""grandparents"" [398]"
+mCC,nietos,,,,IE398),,"PLURALnietos ""granchildren"""
+mW,mujer,,,,IE398),,"mujer ""wife"" [398]"
+fG,hermano,,,,IE398),,"not gender neutral hermano ""sibling""  [398]"
+feB,hermano mayor,,,,IE398),,"TRAD LIThermano mayor ""elder brother"" [398]"
+fyB,hermano menor,,,,IE398),,"TRAD LIThermano menor ""younger brother"" [398]"
+feZ,hermana mayor,,,,IE398),,"TRAD LIThermana mayor ""elder sister"" [398]"
+fyZ,hermana menor,,,,IE398),,"TRAD LIThermana menor ""younger sister"" [398]"
+fC,hijos,,,,IE398),,"PLURALhijos ""children"" [398]"
+fPP,abuelos,,,,IE398),,"PLURALabuelos ""grandparents"" [398]"
+fCC,nietos,,,,IE398),,"PLURALnietos ""granchildren"""
+fW,mujer,,,,IE398),,"mujer ""wife"" [398]"
+mA,antepasado,,,,IE76,clifford_french_2018,
+mFW(notM),madrastra,,,,IE76,clifford_french_2018,
+mMH(notF),padrastro,,,,IE76,clifford_french_2018,
+fA,antepasado,,,,IE76,clifford_french_2018,
+fFW(notM),madrastra,,,,IE76,clifford_french_2018,
+fMH(notF),padrastro,,,,IE76,clifford_french_2018,
+mB,hermano,,,,IE80(156-167),diniz_os_1977,"hermano ""brother"" [80]"
+mZ,hermana,,,,IE80(156-167),diniz_os_1977,"hermana ""sister"" [80]"
 mP,progenitor,,,,IE80(156-167),diniz_os_1977,"gender distinction - progenitor means 'dad' and progenitora means 'mum'progenitor ""parent"" [80]"
 mF,padre,,,,IE80(156-167),diniz_os_1977,"padre ""father"" [80]"
 mF,papá,,,,IE80(156-167),diniz_os_1977,"papá ""daddy"" [80]"
 mM,madre,,,,IE80(156-167),diniz_os_1977,"madre ""mother"" [80]"
 mM,mamá,,,,IE80(156-167),diniz_os_1977,"mamá, mamita ""mammy"" [80]"
-mC,hijos,,,,IE398),,"PLURALhijos ""children"" [398]"
 mS,hijo,,,,IE80(156-167),diniz_os_1977,"hijo ""son"" [80]"
 mD,hija,,,,IE80(156-167),diniz_os_1977,"hija ""daughter"" [80]"
-mA,antepasado,,,,IE76,clifford_french_2018,
-mA,ascendiente,,,,IE77,real_academia_gallega_la_coruna_spain_diccionario_1990,
-mA,predecesor,,,,IE78,marino_galician_2018,
-mPP,abuelos,,,,IE398),,"PLURALabuelos ""grandparents"" [398]"
 mFF,abuelo,,,,IE80(156-167),diniz_os_1977,"abuelo ""grandfather"" [80]"
 mFM,abuela,,,,IE80(156-167),diniz_os_1977,"abuela ""grandmother"" [80]"
 mMF,abuelo,,,,IE80(156-167),diniz_os_1977,"abuelo ""grandfather"" [80]"
 mMM,abuela,,,,IE80(156-167),diniz_os_1977,"abuela ""grandmother"" [80]"
-mCC,nietos,,,,IE398),,"PLURALnietos ""granchildren"""
 mSS,nieto,,,,IE80(156-167),diniz_os_1977,"nieto ""grandson"" [80]"
 mSD,nieta,,,,IE80(156-167),diniz_os_1977,"nieta ""granddaughter"" [80]"
 mDS,nieto,,,,IE80(156-167),diniz_os_1977,"nieto ""grandson"" [80]"
@@ -93,7 +106,6 @@ mMZeD,prima,,,,IE80(156-167),diniz_os_1977,"prima ""cousin"" [80]"
 mMZyD,prima,,,,IE80(156-167),diniz_os_1977,"prima ""cousin"" [80]"
 mH,esposo,,,,IE80(156-167),diniz_os_1977,"esposo ""husband"" [80]"
 mH,marido,,,,IE80(156-167),diniz_os_1977,"marido ""husband"" [80]"
-mW,mujer,,,,IE398),,"mujer ""wife"" [398]"
 mW,esposa,,,,IE80(156-167),diniz_os_1977,"esposa ""wife"" [80]"
 mHF,suegro,,,,IE80(156-167),diniz_os_1977,"suegro ""father-in-law"" [80]"
 mHM,suegra,,,,IE80(156-167),diniz_os_1977,"suegra ""mother-in-law"" [80]"
@@ -105,34 +117,21 @@ mWB,cuñado,,,,IE80(156-167),diniz_os_1977,"cuñado ""brother-in-law"" [80]"
 mWZ,cuñada,,,,IE80(156-167),diniz_os_1977,"cuñada ""sister-in-law"" [80]"
 mHB,cuñado,,,,IE80(156-167),diniz_os_1977,"cuñado ""brother-in-law"" [80]"
 mHZ,cuñada,,,,IE80(156-167),diniz_os_1977,"cuñada ""sister-in-law"" [80]"
-mFW(notM),madrastra,,,,IE76,clifford_french_2018,
-mMH(notF),padrastro,,,,IE76,clifford_french_2018,
 mSW,nuera,,,,IE80(156-167),diniz_os_1977,"nuera ""daughter-in-law"" [80]"
 mDH,yerno,,,,IE80(156-167),diniz_os_1977,"yerno ""son-in-law"" [80]"
-fG,hermano,,,,IE398),,"not gender neutral hermano ""sibling""  [398]"
 fB,hermano,,,,IE80(156-167),diniz_os_1977,"hermano ""brother"" [80]"
 fZ,hermana,,,,IE80(156-167),diniz_os_1977,"hermana ""sister"" [80]"
-feB,hermano mayor,,,,IE398),,"TRAD LIThermano mayor ""elder brother"" [398]"
-fyB,hermano menor,,,,IE398),,"TRAD LIThermano menor ""younger brother"" [398]"
-feZ,hermana mayor,,,,IE398),,"TRAD LIThermana mayor ""elder sister"" [398]"
-fyZ,hermana menor,,,,IE398),,"TRAD LIThermana menor ""younger sister"" [398]"
 fP,progenitor,,,,IE80(156-167),diniz_os_1977,"gender distinction - progenitor means 'dad' and progenitora means 'mum'progenitor ""parent"" [80]"
 fF,padre,,,,IE80(156-167),diniz_os_1977,"padre ""father"" [80]"
 fF,papá,,,,IE80(156-167),diniz_os_1977,"papá ""daddy"" [80]"
 fM,madre,,,,IE80(156-167),diniz_os_1977,"madre ""mother"" [80]"
 fM,mamá,,,,IE80(156-167),diniz_os_1977,"mamá, mamita ""mammy"" [80]"
-fC,hijos,,,,IE398),,"PLURALhijos ""children"" [398]"
 fS,hijo,,,,IE80(156-167),diniz_os_1977,"hijo ""son"" [80]"
 fD,hija,,,,IE80(156-167),diniz_os_1977,"hija ""daughter"" [80]"
-fA,antepasado,,,,IE76,clifford_french_2018,
-fA,ascendiente,,,,IE77,real_academia_gallega_la_coruna_spain_diccionario_1990,
-fA,predecesor,,,,IE78,marino_galician_2018,
-fPP,abuelos,,,,IE398),,"PLURALabuelos ""grandparents"" [398]"
 fFF,abuelo,,,,IE80(156-167),diniz_os_1977,"abuelo ""grandfather"" [80]"
 fFM,abuela,,,,IE80(156-167),diniz_os_1977,"abuela ""grandmother"" [80]"
 fMF,abuelo,,,,IE80(156-167),diniz_os_1977,"abuelo ""grandfather"" [80]"
 fMM,abuela,,,,IE80(156-167),diniz_os_1977,"abuela ""grandmother"" [80]"
-fCC,nietos,,,,IE398),,"PLURALnietos ""granchildren"""
 fSS,nieto,,,,IE80(156-167),diniz_os_1977,"nieto ""grandson"" [80]"
 fSD,nieta,,,,IE80(156-167),diniz_os_1977,"nieta ""granddaughter"" [80]"
 fDS,nieto,,,,IE80(156-167),diniz_os_1977,"nieto ""grandson"" [80]"
@@ -203,7 +202,6 @@ fMZeD,prima,,,,IE80(156-167),diniz_os_1977,"prima ""cousin"" [80]"
 fMZyD,prima,,,,IE80(156-167),diniz_os_1977,"prima ""cousin"" [80]"
 fH,esposo,,,,IE80(156-167),diniz_os_1977,"esposo ""husband"" [80]"
 fH,marido,,,,IE80(156-167),diniz_os_1977,"marido ""husband"" [80]"
-fW,mujer,,,,IE398),,"mujer ""wife"" [398]"
 fW,esposa,,,,IE80(156-167),diniz_os_1977,"esposa ""wife"" [80]"
 fHF,suegro,,,,IE80(156-167),diniz_os_1977,"suegro ""father-in-law"" [80]"
 fHM,suegra,,,,IE80(156-167),diniz_os_1977,"suegra ""mother-in-law"" [80]"
@@ -215,7 +213,9 @@ fWB,cuñado,,,,IE80(156-167),diniz_os_1977,"cuñado ""brother-in-law"" [80]"
 fWZ,cuñada,,,,IE80(156-167),diniz_os_1977,"cuñada ""sister-in-law"" [80]"
 fHB,cuñado,,,,IE80(156-167),diniz_os_1977,"cuñado ""brother-in-law"" [80]"
 fHZ,cuñada,,,,IE80(156-167),diniz_os_1977,"cuñada ""sister-in-law"" [80]"
-fFW(notM),madrastra,,,,IE76,clifford_french_2018,
-fMH(notF),padrastro,,,,IE76,clifford_french_2018,
 fSW,nuera,,,,IE80(156-167),diniz_os_1977,"nuera ""daughter-in-law"" [80]"
 fDH,yerno,,,,IE80(156-167),diniz_os_1977,"yerno ""son-in-law"" [80]"
+mA,predecesor,,,,IE78,marino_galician_2018,
+fA,predecesor,,,,IE78,marino_galician_2018,
+mA,ascendiente,,,,IE77,real_academia_gallega_la_coruna_spain_diccionario_1990,
+fA,ascendiente,,,,IE77,real_academia_gallega_la_coruna_spain_diccionario_1990,

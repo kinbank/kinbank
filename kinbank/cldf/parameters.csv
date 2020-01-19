@@ -249,7 +249,7 @@ fFZDS,female speaker Father Sister Daughter Son,,,fFZDS,,varikin
 fFZH,female speaker Father Sister Husband,,,fFZH,,varikin
 fFZSD,female speaker Father Sister Son Daughter,,,fFZSD,,varikin
 fFZSS,female speaker Father Sister Son,,,fFZSS,,varikin
-fG,female speaker Grandparent,,,fG,,varikin
+fG,female speaker sibling,,,fG,,varikin
 fHBD,female speaker Husband Brother Daughter,,,fHBD,,varikin
 fHBS,female speaker Husband Brother Son,,,fHBS,,varikin
 fHFBD,female speaker Husband Father Brother Daughter,,,fHFBD,,varikin
@@ -384,7 +384,7 @@ mFZDyS,male speaker Father Sister Daughter younger Son,,,mFZDyS,,varikin
 mFZH,male speaker Father Sister Husband,,,mFZH,,varikin
 mFZSD,male speaker Father Sister Son Daughter,,,mFZSD,,varikin
 mFZSS,male speaker Father Sister Son,,,mFZSS,,varikin
-mG,male speaker Grandparent,,,mG,,varikin
+mG,male speaker sibling,,,mG,,varikin
 mH,male speaker Husband,,,mH,,varikin
 mHB,male speaker Husband Brother,,,mHB,,varikin
 mHBD,male speaker Husband Brother Daughter,,,mHBD,,varikin
@@ -447,12 +447,8 @@ mWFBS,male speaker Wife Father Brother Son,,,mWFBS,,varikin
 mWFZD,male speaker Wife Father Sister Daughter,,,mWFZD,,varikin
 mWFZS,male speaker Wife Father Sister Son,,,mWFZS,,varikin
 mWMZ,male speaker Wife Mother Sister,,,mWMZ,,varikin
-mWZBD,male speaker Wife Sister Brother Daughter,,,mWZBD,,varikin
-mWZBS,male speaker Wife Sister Brother Son,,,mWZBS,,varikin
 mWZD,male speaker Wife Sister Daughter,,,mWZD,,varikin
 mWZS,male speaker Wife Sister Son,,,mWZS,,varikin
-mWZZD,male speaker Wife Sister Daughter,,,mWZZD,,varikin
-mWZZS,male speaker Wife Sister Son,,,mWZZS,,varikin
 mWeZ,male speaker Wife elder Sister,,,mWeZ,,varikin
 mWyB,male speaker Wife younger Brother,,,mWyB,,varikin
 mWyZ,male speaker Wife younger Sister,,,mWyZ,,varikin

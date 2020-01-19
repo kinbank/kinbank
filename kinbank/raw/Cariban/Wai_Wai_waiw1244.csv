@@ -1,16 +1,12 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,oy-akno,,,,CB5,hawkins_wai_2015,
-mB,oy-eΦeka,,,,CB5,hawkins_wai_2015,
 mZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,
-mZ,oy-akno,,,,CB5,hawkins_wai_2015,
-mF,yɨɨm,,,,CB5,hawkins_wai_2015,
-mF,aa-mo,,,,CB5,hawkins_wai_2015,
-mM,yɨ-son,,,,CB5,hawkins_wai_2015,
-mM,noro yon,,,,CB5,hawkins_wai_2015,
+mF,yɨɨm,,,,CB5,hawkins_wai_2015,aa-mo: your father
+mM,noro yon,,,,CB5,hawkins_wai_2015,yɨ-son: 3rd mother
 mC,o-mšɨk-rɨ,,,,CB5,hawkins_wai_2015,
 mS,o-mumu-ru,,,,CB5,hawkins_wai_2015,
-mS,omrerɨ,,,,CB5,hawkins_wai_2015,
 mD,oyemsɨrɨ,,,,CB5,hawkins_wai_2015,
+mA,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 mFF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 mFM,yɨ-noči,,,,CB5,hawkins_wai_2015,
 mMF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
@@ -38,13 +34,9 @@ mWM,∅-wayam-nu,,,,CB5,hawkins_wai_2015,
 mDH,o-Φamo-rɨ,,,,CB5,hawkins_wai_2015,
 mDH,wayam-nu,,,,CB5,hawkins_wai_2015,
 meB,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
-meB,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
 myB,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
-myB,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
 meZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
-meZ,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 myZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
-myZ,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 mFeB,yɨɨm,,,,CB5,hawkins_wai_2015,Inferred; NA
 mFyB,yɨɨm,,,,CB5,hawkins_wai_2015,Inferred; NA
 mFeZ,o-tam-ru,,,,CB5,hawkins_wai_2015,Inferred; NA
@@ -85,18 +77,14 @@ mMBeD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 mMByD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 mMZeD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 mMZyD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
-fB,oy-akno,,,,CB5,hawkins_wai_2015,
 fB,oy-eΦeka,,,,CB5,hawkins_wai_2015,
-fZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,
 fZ,oy-akno,,,,CB5,hawkins_wai_2015,
-fF,yɨɨm,,,,CB5,hawkins_wai_2015,
-fF,aa-mo,,,,CB5,hawkins_wai_2015,
-fM,yɨ-son,,,,CB5,hawkins_wai_2015,
-fM,noro yon,,,,CB5,hawkins_wai_2015,
+fF,yɨɨm,,,,CB5,hawkins_wai_2015,aa-mo: your father
+fM,noro yon,,,,CB5,hawkins_wai_2015,yɨ-son: 3rd mother
 fC,o-mšɨk-rɨ,,,,CB5,hawkins_wai_2015,
-fS,o-mumu-ru,,,,CB5,hawkins_wai_2015,
 fS,omrerɨ,,,,CB5,hawkins_wai_2015,
 fD,oyemsɨrɨ,,,,CB5,hawkins_wai_2015,
+fA,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 fFF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 fFM,yɨ-noči,,,,CB5,hawkins_wai_2015,
 fMF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
@@ -123,13 +111,9 @@ fWF,o-tam-ru,,,,CB5,hawkins_wai_2015,
 fWM,∅-wayam-nu,,,,CB5,hawkins_wai_2015,
 fDH,o-Φamo-rɨ,,,,CB5,hawkins_wai_2015,
 fDH,wayam-nu,,,,CB5,hawkins_wai_2015,
-feB,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 feB,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
-fyB,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 fyB,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
-feZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
 feZ,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
-fyZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,Inferred; NA
 fyZ,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 fFeB,yɨɨm,,,,CB5,hawkins_wai_2015,Inferred; NA
 fFyB,yɨɨm,,,,CB5,hawkins_wai_2015,Inferred; NA
