@@ -9,12 +9,12 @@
 
 - **Varieties:** 1,108
 - **Concepts:** 473
-- **Lexemes:** 181,396
-- **Sources:** 613
-- **Synonymy:** 1.37
+- **Lexemes:** 179,562
+- **Sources:** 614
+- **Synonymy:** 1.36
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 56988/181396 (31.42%)
+- Entries missing sources: 56223/179562 (31.31%)

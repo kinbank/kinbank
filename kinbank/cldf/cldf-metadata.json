@@ -233,7 +233,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 469,
+            "dc:extent": 473,
             "tableSchema": {
                 "columns": [
                     {
