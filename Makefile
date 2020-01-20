@@ -1,5 +1,5 @@
 # define version:
-GLOTTOLOG=v4.0
+GLOTTOLOG=v4.1
 CONCEPTICON=v2.2.0
 
 # define repositories:

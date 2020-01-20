@@ -3,10 +3,10 @@ BornSameDay,BornSameDay,Born on the Same Day,,,,parabank
 FMZD,FMZD,father's mother's sister's daughter,,,,parabank
 HB,HB,husband's brother,Affines,,,parabank
 HZ,HZ,husband's sister,Affines,,,parabank
-husbandsSameGroup,husbandsSameGroup,husbandsSameGroup,,,,parabank
+HusbandsSameGroup,HusbandsSameGroup,Husbands Same Group,,,,parabank
 WB,WB,wife's brother,Affines,,,parabank
 WZ,WZ,wife's sister,Affines,,,parabank
-wifesSameGroup,wifesSameGroup,wifesSameGroup,Affines,,,parabank
+WifesSameGroup,WifesSameGroup,Wifes Same Group,Affines,,,parabank
 fBW,fBW,female ego's brother's wife,Affines,,,varikin;parabank
 fD,fD,female ego's daughter,children,,,varikin;parabank
 fDD,fDD,female ego's daugher's daughter,Grandparents & -children,,,varikin;parabank

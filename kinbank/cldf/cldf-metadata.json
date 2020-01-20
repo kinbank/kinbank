@@ -11,7 +11,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0"
+            "dc:created": "v4.1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -233,7 +233,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 467,
+            "dc:extent": 469,
             "tableSchema": {
                 "columns": [
                     {
