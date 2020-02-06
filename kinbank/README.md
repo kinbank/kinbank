@@ -7,14 +7,14 @@
 ![Concepticon: 13%](https://img.shields.io/badge/Concepticon-13%25-red.svg "Concepticon: 13%")
 ![Source: 69%](https://img.shields.io/badge/Source-69%25-orange.svg "Source: 69%")
 
-- **Varieties:** 1,108
-- **Concepts:** 473
-- **Lexemes:** 179,562
-- **Sources:** 614
+- **Varieties:** 1,109
+- **Concepts:** 579
+- **Lexemes:** 180,152
+- **Sources:** 618
 - **Synonymy:** 1.36
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 56223/179562 (31.31%)
+- Entries missing sources: 56207/180152 (31.20%)
