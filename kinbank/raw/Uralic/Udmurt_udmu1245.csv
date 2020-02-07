@@ -1,241 +1,344 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,vɩn,,,,UR14,karpova_udmurt_2015,
-mB,agay,,,,UR14,karpova_udmurt_2015,
-mZ,suzer̃,,,,UR14,karpova_udmurt_2015,
-mZ,apay,,,,UR14,karpova_udmurt_2015,
-myB,vɩn,,,,UR14,karpova_udmurt_2015,
-myZ,suzer̃,,,,UR14,karpova_udmurt_2015,
+mE,kar̃ten-kɩšno,,,,,,"for both, kart is in instrumental form"
+fE,kar̃ten-kɩšno,,,,,,"for both, kart is in instrumental form"
+myB,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+myZ,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+meB,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+meZ,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+mG,sestra-brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+mG,agay-vɩn,,,,UR17,jedygarova_udmu1245_2020,
+mG,suzer̃-apay,,,,UR17,jedygarova_udmu1245_2020,
+mB,brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+mZ,sestra,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+meB,agay,,,,UR17,jedygarova_udmu1245_2020,
+myB,"etʸe,",,,,UR17,jedygarova_udmu1245_2020,younger (toddler) brother_ also used as addressing term; also  eke
+myZ,dɩdɩ,,,,UR17,jedygarova_udmu1245_2020,"younger (toddler) sister, also used as addressing term, also used dʸɩdʸɩ"
+mP,anay-atay,,,,UR17,jedygarova_udmu1245_2020,"anay-atay is used in southern dialects and in the standard language,"
+mF,dʸadʸay,,,,UR17,jedygarova_udmu1245_2020,"Russian-based terms,  the accent is on the last syllable; also used  tʸatʸa, batʸu, papa"
+mF,bubɩ,,,,UR17,jedygarova_udmu1245_2020,"bubɩ is used mostly in middle dialects, it is not used when adressing"
+mM,memi,,,,UR17,jedygarova_udmu1245_2020,also memey
+mM,mama,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, the accent is on the last syllable"
+mA,čɩžɩ-vɩžɩ,,,,UR17,jedygarova_udmu1245_2020,"relatives, all relatives including ancestors"
+mPP,peresʸ  mumɩ-bubɩ,,,,UR17,jedygarova_udmu1245_2020,
+mMM,čužanay,,,,UR17,jedygarova_udmu1245_2020,"variants of mother's mother; also čužay, čužayka, čuži, čužmumɩ"
+mFB,nʸunʸu,,,,UR17,jedygarova_udmu1245_2020,also addressing form of the younger brother to an elder brother in some dialects
+mFB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+mMB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+mFeB,baӡӡɩm (баӟӟым) agay,,,,UR17,jedygarova_udmu1245_2020,"baӡӡɩm is big or elder, pokcʸi (or picʸi) is small or young"
+mFyB,pokcʸi agay,,,,UR17,jedygarova_udmu1245_2020,
+mFeZ,baӡӡɩm (баӟӟым) apay,,,,UR17,jedygarova_udmu1245_2020,
+mFyZ,pokcʸi apay,,,,UR17,jedygarova_udmu1245_2020,
+mMeZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+mMyZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+mMeB,čužmurt,,,,UR17,jedygarova_udmu1245_2020,
+mBS,bratezlen piyez,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj brat"
+mBD,bratezlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
+mZS,sestrayezlen piyez,,,,UR17,jedygarova_udmu1245_2020,"Russian loan,  sometimes also the Russian word is used, e.g. dvojurodnoj brat"
+mZD,sestrayezlen  nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
+meBS,agaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+myBS,vɩnlen piyez,,,,UR17,jedygarova_udmu1245_2020,
+meBD,agaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+myBD,vɩnlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+meZS,apaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+myZS,suzer̃len piyez,,,,UR17,jedygarova_udmu1245_2020,
+meZD,apaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+mFByS,"vɩn, eke",,,,UR17,jedygarova_udmu1245_2020,
+mFZyS,"vɩn, eke",,,,UR17,jedygarova_udmu1245_2020,
+mMZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,
+meBW,kenak,,,,UR17,jedygarova_udmu1245_2020,adressing from to elder brother's wife
+myBW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,
+meZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+myZH,emespi,,,,UR17,jedygarova_udmu1245_2020,younger sister's husband
+mWB,varmisʸka,,,,UR17,jedygarova_udmu1245_2020,"Also varmespi,  varmaypi"
+mWZ,varmaka,,,,UR17,jedygarova_udmu1245_2020,"wife's elder sister, Fin. Käly; also bultɩr"
+meHB,agayzɩ,,,,UR17,jedygarova_udmu1245_2020,
+myHB,šɩdnar,,,,UR17,jedygarova_udmu1245_2020,addressing term of the elder brother's wife toward the husband's younger brother
+meHZ,apayzɩ,,,,UR17,jedygarova_udmu1245_2020,Also alʸcʸika
+myHZ,uzʸɩ,,,,UR17,jedygarova_udmu1245_2020,
+mFW(notM),sʸuranay,,,,UR17,jedygarova_udmu1245_2020,Also sʸurmumɩ
+mSW,vɩlʸken,,,,UR17,jedygarova_udmu1245_2020,
+mSW,ken,,,,UR17,jedygarova_udmu1245_2020,vɩlʸken lit. Is new+son's wife that means a newcoming wife
+mySW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,addresing form of elder brother's wifes to younger brother's wife
+mSWM,tuklʸacʸi,,,,UR17,jedygarova_udmu1245_2020,svatʸtʸa is Russian loan
+mDH,emespi,,,,UR17,jedygarova_udmu1245_2020,
+mDHM,tuklʸacʸi,,,,UR17,jedygarova_udmu1245_2020,svatʸtʸa is Russian loan
+mDHF,kudo,,,,UR17,jedygarova_udmu1245_2020,svat is Russian loan
+mFZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+mFBW,kenak,,,,UR17,jedygarova_udmu1245_2020,
+mMZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+mMBW,čužkenak,,,,UR17,jedygarova_udmu1245_2020,
+mWSH,busʸon,,,,UR17,jedygarova_udmu1245_2020,Also busʸono
+mMeZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+mMyZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+mMZeS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+mMZyS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+fyB,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+fyZ,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
+feB,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+feZ,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
+fG,sestra-brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+fG,agay-vɩn,,,,UR17,jedygarova_udmu1245_2020,
+fG,suzer̃-apay,,,,UR17,jedygarova_udmu1245_2020,
+fB,brat,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+fZ,sestra,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+feB,agay,,,,UR17,jedygarova_udmu1245_2020,
+fyB,etʸe,,,,UR17,jedygarova_udmu1245_2020,younger (toddler) brother_ also used as addressing term; also  eke
+fP,anay-atay,,,,UR17,jedygarova_udmu1245_2020,"anay-atay is used in southern dialects and in the standard language,"
+fF,dʸadʸay,,,,UR17,jedygarova_udmu1245_2020,"Russian-based terms,  the accent is on the last syllable; also used  tʸatʸa, batʸu, papa"
+fF,bubɩ,,,,UR17,jedygarova_udmu1245_2020,"bubɩ is used mostly in middle dialects, it is not used when adressing"
+fM,memi,,,,UR17,jedygarova_udmu1245_2020,also memey
+fM,mama,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, the accent is on the last syllable"
+fA,čɩžɩ-vɩžɩ,,,,UR17,jedygarova_udmu1245_2020,"relatives, all relatives including ancestors"
+fPP,peresʸ  mumɩ-bubɩ,,,,UR17,jedygarova_udmu1245_2020,
+fMM,čužanay,,,,UR17,jedygarova_udmu1245_2020,"variants of mother's mother; also čužay, čužayka, čuži, čužmumɩ"
+fFB,nʸunʸu,,,,UR17,jedygarova_udmu1245_2020,also addressing form of the younger brother to an elder brother in some dialects
+fFB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+fMB,dʸdʸa,,,,UR17,jedygarova_udmu1245_2020,Russian loan
+fFeB,baӡӡɩm (баӟӟым) agay,,,,UR17,jedygarova_udmu1245_2020,"baӡӡɩm is big or elder, pokcʸi (or picʸi) is small or young"
+fFyB,pokcʸi agay,,,,UR17,jedygarova_udmu1245_2020,
+fFeZ,baӡӡɩm (баӟӟым) apay,,,,UR17,jedygarova_udmu1245_2020,
+fFyZ,pokcʸi apay,,,,UR17,jedygarova_udmu1245_2020,
+fMeZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+fMyZ,čužapay,,,,UR17,jedygarova_udmu1245_2020,
+fMeB,čužmurt,,,,UR17,jedygarova_udmu1245_2020,
+fBS,bratezlen piyez,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj brat"
+fBD,bratezlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
+fZS,sestrayezlen piyez,,,,UR17,jedygarova_udmu1245_2020,"Russian loan,  sometimes also the Russian word is used, e.g. dvojurodnoj brat"
+fZD,sestrayezlen  nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,"Russian loan, sometimes also the Russian word is used, e.g. dvojurodnoj sestra"
+feBS,agaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+fyBS,vɩnlen piyez,,,,UR17,jedygarova_udmu1245_2020,
+feBD,agaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+fyBD,vɩnlen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+feZS,apaylen piyez,,,,UR17,jedygarova_udmu1245_2020,
+fyZS,suzer̃len piyez,,,,UR17,jedygarova_udmu1245_2020,
+feZD,apaylen nɩlɩz,,,,UR17,jedygarova_udmu1245_2020,
+fFByS,"vɩn, eke",,,,UR17,jedygarova_udmu1245_2020,
+fFZyS,"vɩn, eke",,,,UR17,jedygarova_udmu1245_2020,
+fMZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,
+feBW,kenak,,,,UR17,jedygarova_udmu1245_2020,adressing from to elder brother's wife
+fyBW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,
+feZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+fyZH,emespi,,,,UR17,jedygarova_udmu1245_2020,younger sister's husband
+fWB,varmisʸka,,,,UR17,jedygarova_udmu1245_2020,"Also varmespi,  varmaypi"
+fWZ,varmaka,,,,UR17,jedygarova_udmu1245_2020,"wife's elder sister, Fin. Käly; also bultɩr"
+feHB,agayzɩ,,,,UR17,jedygarova_udmu1245_2020,
+fyHB,šɩdnar,,,,UR17,jedygarova_udmu1245_2020,addressing term of the elder brother's wife toward the husband's younger brother
+feHZ,apayzɩ,,,,UR17,jedygarova_udmu1245_2020,Also alʸcʸika
+fyHZ,uzʸɩ,,,,UR17,jedygarova_udmu1245_2020,
+fFW(notM),sʸuranay,,,,UR17,jedygarova_udmu1245_2020,Also sʸurmumɩ
+fSW,vɩlʸken,,,,UR17,jedygarova_udmu1245_2020,
+fSW,ken,,,,UR17,jedygarova_udmu1245_2020,vɩlʸken lit. Is new+son's wife that means a newcoming wife
+fySW,icʸimenʸ,,,,UR17,jedygarova_udmu1245_2020,addresing form of elder brother's wifes to younger brother's wife
+fSWM,tuklʸacʸi,,,,UR17,jedygarova_udmu1245_2020,svatʸtʸa is Russian loan
+fDH,emespi,,,,UR17,jedygarova_udmu1245_2020,
+fDHF,kudo,,,,UR17,jedygarova_udmu1245_2020,svat is Russian loan
+fFZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+fFBW,kenak,,,,UR17,jedygarova_udmu1245_2020,
+fMZH,kɩrsʸi,,,,UR17,jedygarova_udmu1245_2020,
+fMBW,čužkenak,,,,UR17,jedygarova_udmu1245_2020,
+fMeZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+fMyZS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+fMZeS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+fMZyS,čužodig,,,,UR17,jedygarova_udmu1245_2020,Inferred;
+myB,vɩn,,,,UR14,jedygarova_udmu1245_2020,younger brother; it is not used in all dialects
+meB,agay,,,,UR14,jedygarova_udmu1245_2020,elder brother
+myZ,suzer̃,,,,UR14,jedygarova_udmu1245_2020,younger sister
+meZ,apay,,,,UR14,jedygarova_udmu1245_2020,elder sister; in some dialects apa 'elder sister; aunt'
+mP,mumɩ-bubɩ,,,,UR14,jedygarova_udmu1245_2020,mumɩ-bubɩ is used mostly in middle dialects
+mM,mumɩ,,,,UR14,jedygarova_udmu1245_2020,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
+mC,nɩlpi,,,,UR14,jedygarova_udmu1245_2020,a child in southern dialects
+mC,pinal,,,,UR14,jedygarova_udmu1245_2020,a child in middle and northern dialects
+mPP,peresʸ anay-atay,,,,UR14,jedygarova_udmu1245_2020,
+mMF,čužatay,,,,UR14,jedygarova_udmu1245_2020,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+mDD,nɩlɩzlen nɩlɩz,,,,UR14,jedygarova_udmu1245_2020,
+mFZ,apay,,,,UR14,jedygarova_udmu1245_2020,
+mMB,čužmurt,,,,UR14,jedygarova_udmu1245_2020,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+mMZ,čužapay,,,,UR14,jedygarova_udmu1245_2020,
+mMZ,"čužapa, čužaka",,,,UR14,jedygarova_udmu1245_2020,
+mMBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+mMZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+mE,kuzpaljos,,,,UR14,jedygarova_udmu1245_2020,for both in plural form
+mHF,aymurt,,,,UR14,jedygarova_udmu1245_2020,"the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ"
+mHM,anayzɩ,,,,UR14,jedygarova_udmu1245_2020,"Also  memeyzɩ, nenezɩ"
+mWF,var̃may,,,,UR14,jedygarova_udmu1245_2020,"Also var̃matay, var̃mayɩ"
+mWM,var̃mumɩ,,,,UR14,jedygarova_udmu1245_2020,"Also var̃manay, var̃nene"
+mMH(notF),sʸuratay,,,,UR14,jedygarova_udmu1245_2020,Also sʸurbubɩ
+mMeBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMyBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMeZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMyZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMBeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMByD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMZeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+mMZyD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fyB,vɩn,,,,UR14,jedygarova_udmu1245_2020,younger brother; it is not used in all dialects
+feB,agay,,,,UR14,jedygarova_udmu1245_2020,elder brother
+fyZ,suzer̃,,,,UR14,jedygarova_udmu1245_2020,younger sister
+feZ,apay,,,,UR14,jedygarova_udmu1245_2020,elder sister; in some dialects apa 'elder sister; aunt'
+fP,mumɩ-bubɩ,,,,UR14,jedygarova_udmu1245_2020,mumɩ-bubɩ is used mostly in middle dialects
+fM,mumɩ,,,,UR14,jedygarova_udmu1245_2020,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
+fC,nɩlpi,,,,UR14,jedygarova_udmu1245_2020,a child in southern dialects
+fC,pinal,,,,UR14,jedygarova_udmu1245_2020,a child in middle and northern dialects
+fPP,peresʸ anay-atay,,,,UR14,jedygarova_udmu1245_2020,
+fMF,čužatay,,,,UR14,jedygarova_udmu1245_2020,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+fDD,nɩlɩzlen nɩlɩz,,,,UR14,jedygarova_udmu1245_2020,
+fFZ,apay,,,,UR14,jedygarova_udmu1245_2020,
+fMB,čužmurt,,,,UR14,jedygarova_udmu1245_2020,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+fMZ,čužapay,,,,UR14,jedygarova_udmu1245_2020,
+fMZ,"čužapa, čužaka",,,,UR14,jedygarova_udmu1245_2020,
+fMBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+fMZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,
+fE,kuzpaljos,,,,UR14,jedygarova_udmu1245_2020,for both in plural form
+fHM,anayzɩ,,,,UR14,jedygarova_udmu1245_2020,"Also  memeyzɩ, nenezɩ"
+fWF,var̃may,,,,UR14,jedygarova_udmu1245_2020,"Also var̃matay, var̃mayɩ"
+fWM,var̃mumɩ,,,,UR14,jedygarova_udmu1245_2020,"Also var̃manay, var̃nene"
+fMH(notF),sʸuratay,,,,UR14,jedygarova_udmu1245_2020,Also sʸurbubɩ
+fMeBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMyBD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMeZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMyZD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMBeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMByD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMZeD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
+fMZyD,čužodig,,,,UR14,jedygarova_udmu1245_2020,Inferred;
 mF,atay,,,,UR14,karpova_udmurt_2015,
-mF,ayɩ,,,,UR14,karpova_udmurt_2015,
+mF,ayɩ,,,,UR14,karpova_udmurt_2015,also has meaning male animal e.g. ayi puni 'male dog'
 mM,anay,,,,UR14,karpova_udmurt_2015,
 mM,nene,,,,UR14,karpova_udmurt_2015,
-mM,mumɩ,,,,UR14,karpova_udmurt_2015,
-mC,vɩžɩ,,,,UR14,karpova_udmurt_2015,
 mS,pi,,,,UR14,karpova_udmurt_2015,
 mD,nɩl,,,,UR14,karpova_udmurt_2015,
 mFF,pesʸatay,,,,UR14,karpova_udmurt_2015,
 mFM,pesʸanay,,,,UR14,karpova_udmurt_2015,
-mMF,pesʸatay,,,,UR14,karpova_udmurt_2015,
-mMM,pesʸanay,,,,UR14,karpova_udmurt_2015,
-mSS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
-mSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,
+mSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,"here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! ""Mom!""  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'"
 mSD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
-mSD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
 mDS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
-mDS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,
-mDD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
-mDD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
 mFB,agay,,,,UR14,karpova_udmurt_2015,
-mFZ,apay,,,,UR14,karpova_udmurt_2015,
-mMB,agay,,,,UR14,karpova_udmurt_2015,
-mMZ,čužapay,,,,UR14,karpova_udmurt_2015,
-mBS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,
+mMyB,čužmurt,,,,UR14,karpova_udmurt_2015,
 mBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,
-mBD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
 mBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,
 mZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,
-mZS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,
 mZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
-mZD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,
-mFZD,čužodig,,,,UR14,karpova_udmurt_2015,
-mFBD,čužodig,,,,UR14,karpova_udmurt_2015,
-mMBD,čužodig,,,,UR14,karpova_udmurt_2015,
-mMZD,čužodig,,,,UR14,karpova_udmurt_2015,
-mFBS,čužodig,,,,UR14,karpova_udmurt_2015,
-mFZS,čužodig,,,,UR14,karpova_udmurt_2015,
+myZD,suzer̃len nɩlɩz,,,,UR14,karpova_udmurt_2015,
+mFZD,apay,,,,UR14,karpova_udmurt_2015,
+mFBD,apay,,,,UR14,karpova_udmurt_2015,
+mFBeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
+mFZeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
 mMBS,čužodig,,,,UR14,karpova_udmurt_2015,
-mMZS,čužodig,,,,UR14,karpova_udmurt_2015,
 mH,kar̃t,,,,UR14,karpova_udmurt_2015,
 mH,kuzpal,,,,UR14,karpova_udmurt_2015,
 mW,kɩšno,,,,UR14,karpova_udmurt_2015,
 mW,kuzpal,,,,UR14,karpova_udmurt_2015,
-mHF,var̃may,,,,UR14,karpova_udmurt_2015,
-mHM,var̃mumɩ,,,,UR14,karpova_udmurt_2015,
-mWF,ayɩmur̃t,,,,UR14,karpova_udmurt_2015,
-mWF,var̃may,,,,UR14,karpova_udmurt_2015,
-mWM,anayzɩ,,,,UR14,karpova_udmurt_2015,
-mWM,nenezɩ,,,,UR14,karpova_udmurt_2015,
-mSW,ken,,,,UR14,karpova_udmurt_2015,
-mSW,ken,,,,UR14,karpova_udmurt_2015,
-mDH,emespi,,,,UR14,karpova_udmurt_2015,
-mDH,emespi,,,,UR14,karpova_udmurt_2015,
-meB,vɩn,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meZ,suzer̃,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meZ,apay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFeB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFyB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFeZ,apay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFyZ,apay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMeZ,čužapay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMyZ,čužapay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMeB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMyB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meBS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myBS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meBD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myBD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meZS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myZS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-meZD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-myZD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFeZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFyZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMeZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMyZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFZeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFZyS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mFZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMZeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMZyS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-mMZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fB,vɩn,,,,UR14,karpova_udmurt_2015,
-fB,agay,,,,UR14,karpova_udmurt_2015,
-fZ,suzer̃,,,,UR14,karpova_udmurt_2015,
-fZ,apay,,,,UR14,karpova_udmurt_2015,
-fyB,vɩn,,,,UR14,karpova_udmurt_2015,
-fyZ,suzer̃,,,,UR14,karpova_udmurt_2015,
+mSWF,kudo,,,,UR14,karpova_udmurt_2015,svat is Russian loan
+mFeBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mFyBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mFeZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mFyZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mMeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mFBeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mFByD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mFZeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mFZyD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+mMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
 fF,atay,,,,UR14,karpova_udmurt_2015,
-fF,ayɩ,,,,UR14,karpova_udmurt_2015,
+fF,ayɩ,,,,UR14,karpova_udmurt_2015,also has meaning male animal e.g. ayi puni 'male dog'
 fM,anay,,,,UR14,karpova_udmurt_2015,
 fM,nene,,,,UR14,karpova_udmurt_2015,
-fM,mumɩ,,,,UR14,karpova_udmurt_2015,
-fC,vɩžɩ,,,,UR14,karpova_udmurt_2015,
 fS,pi,,,,UR14,karpova_udmurt_2015,
 fD,nɩl,,,,UR14,karpova_udmurt_2015,
 fFF,pesʸatay,,,,UR14,karpova_udmurt_2015,
 fFM,pesʸanay,,,,UR14,karpova_udmurt_2015,
-fMF,pesʸatay,,,,UR14,karpova_udmurt_2015,
-fMM,pesʸanay,,,,UR14,karpova_udmurt_2015,
-fSS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
-fSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,
+fSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,"here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! ""Mom!""  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'"
 fSD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
-fSD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fDS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
-fDS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,
-fDD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
-fDD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fFB,agay,,,,UR14,karpova_udmurt_2015,
-fFZ,apay,,,,UR14,karpova_udmurt_2015,
-fMB,agay,,,,UR14,karpova_udmurt_2015,
-fMZ,čužapay,,,,UR14,karpova_udmurt_2015,
-fBS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,
+fMyB,čužmurt,,,,UR14,karpova_udmurt_2015,
 fBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,
-fBD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,
-fZS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,
 fZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
-fZD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,
-fFZD,čužodig,,,,UR14,karpova_udmurt_2015,
-fFBD,čužodig,,,,UR14,karpova_udmurt_2015,
-fMBD,čužodig,,,,UR14,karpova_udmurt_2015,
-fMZD,čužodig,,,,UR14,karpova_udmurt_2015,
-fFBS,čužodig,,,,UR14,karpova_udmurt_2015,
-fFZS,čužodig,,,,UR14,karpova_udmurt_2015,
+fyZD,suzer̃len nɩlɩz,,,,UR14,karpova_udmurt_2015,
+fFZD,apay,,,,UR14,karpova_udmurt_2015,
+fFBD,apay,,,,UR14,karpova_udmurt_2015,
+fFBeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
+fFZeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
 fMBS,čužodig,,,,UR14,karpova_udmurt_2015,
-fMZS,čužodig,,,,UR14,karpova_udmurt_2015,
 fH,kar̃t,,,,UR14,karpova_udmurt_2015,
 fH,kuzpal,,,,UR14,karpova_udmurt_2015,
 fW,kɩšno,,,,UR14,karpova_udmurt_2015,
 fW,kuzpal,,,,UR14,karpova_udmurt_2015,
-fHF,var̃may,,,,UR14,karpova_udmurt_2015,
-fHM,var̃mumɩ,,,,UR14,karpova_udmurt_2015,
-fWF,ayɩmur̃t,,,,UR14,karpova_udmurt_2015,
-fWF,var̃may,,,,UR14,karpova_udmurt_2015,
-fWM,anayzɩ,,,,UR14,karpova_udmurt_2015,
-fWM,nenezɩ,,,,UR14,karpova_udmurt_2015,
-fSW,ken,,,,UR14,karpova_udmurt_2015,
-fSW,ken,,,,UR14,karpova_udmurt_2015,
-fDH,emespi,,,,UR14,karpova_udmurt_2015,
-fDH,emespi,,,,UR14,karpova_udmurt_2015,
-feB,vɩn,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feZ,suzer̃,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feZ,apay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFeB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFyB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFeZ,apay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFyZ,apay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMeZ,čužapay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMyZ,čužapay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMeB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMyB,agay,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feBS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyBS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyBS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feBD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyBD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyBD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feZS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyZS,apaylen (suzer̃len) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyZS,agaylen (vɩnlen) piyez,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-feZD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fyZD,agaylen (vɩnlen) nɩlɩz,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFeZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFyZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMeZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMyZS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFZeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFZyS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fFZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMZeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMZyS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
-fMZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred; NA
+fSWF,kudo,,,,UR14,karpova_udmurt_2015,svat is Russian loan
+fFeBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fFyBD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fFeZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fFyZD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fMeBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMyBS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fFBeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fFByD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fFZeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fFZyD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
+fMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+myB,vɩn,,,,UR17,karpova_udmurt_2015,younger brother; it is not used in all dialects
+meB,agay,,,,UR17,karpova_udmurt_2015,elder brother
+myZ,suzer̃,,,,UR17,karpova_udmurt_2015,younger sister
+meZ,apay,,,,UR17,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
+mP,mumɩ-bubɩ,,,,UR17,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
+mM,mumɩ,,,,UR17,karpova_udmurt_2015,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
+mC,nɩlpi,,,,UR17,karpova_udmurt_2015,a child in southern dialects
+mC,pinal,,,,UR17,karpova_udmurt_2015,a child in middle and northern dialects
+mPP,peresʸ anay-atay,,,,UR17,karpova_udmurt_2015,
+mMF,čužatay,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+mDD,nɩlɩzlen nɩlɩz,,,,UR17,karpova_udmurt_2015,
+mFZ,apay,,,,UR17,karpova_udmurt_2015,
+mMB,čužmurt,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+mMZ,čužapay,,,,UR17,karpova_udmurt_2015,
+mMZ,"čužapa, čužaka",,,,UR17,karpova_udmurt_2015,
+mMBD,čužodig,,,,UR17,karpova_udmurt_2015,
+mMZD,čužodig,,,,UR17,karpova_udmurt_2015,
+mE,kuzpaljos,,,,UR17,karpova_udmurt_2015,for both in plural form
+mHF,aymurt,,,,UR17,karpova_udmurt_2015,"the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ"
+mHM,anayzɩ,,,,UR17,karpova_udmurt_2015,"Also  memeyzɩ, nenezɩ"
+mWF,var̃may,,,,UR17,karpova_udmurt_2015,"Also var̃matay, var̃mayɩ"
+mWM,var̃mumɩ,,,,UR17,karpova_udmurt_2015,"Also var̃manay, var̃nene"
+mMH(notF),sʸuratay,,,,UR17,karpova_udmurt_2015,Also sʸurbubɩ
+mMeBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMyBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMeZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMyZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMBeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMByD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMZeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+mMZyD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fyB,vɩn,,,,UR17,karpova_udmurt_2015,younger brother; it is not used in all dialects
+feB,agay,,,,UR17,karpova_udmurt_2015,elder brother
+fyZ,suzer̃,,,,UR17,karpova_udmurt_2015,younger sister
+feZ,apay,,,,UR17,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
+fP,mumɩ-bubɩ,,,,UR17,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
+fM,mumɩ,,,,UR17,karpova_udmurt_2015,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
+fC,nɩlpi,,,,UR17,karpova_udmurt_2015,a child in southern dialects
+fC,pinal,,,,UR17,karpova_udmurt_2015,a child in middle and northern dialects
+fPP,peresʸ anay-atay,,,,UR17,karpova_udmurt_2015,
+fMF,čužatay,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+fDD,nɩlɩzlen nɩlɩz,,,,UR17,karpova_udmurt_2015,
+fFZ,apay,,,,UR17,karpova_udmurt_2015,
+fMB,čužmurt,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+fMZ,čužapay,,,,UR17,karpova_udmurt_2015,
+fMZ,"čužapa, čužaka",,,,UR17,karpova_udmurt_2015,
+fMBD,čužodig,,,,UR17,karpova_udmurt_2015,
+fMZD,čužodig,,,,UR17,karpova_udmurt_2015,
+fE,kuzpaljos,,,,UR17,karpova_udmurt_2015,for both in plural form
+fHM,anayzɩ,,,,UR17,karpova_udmurt_2015,"Also  memeyzɩ, nenezɩ"
+fWF,var̃may,,,,UR17,karpova_udmurt_2015,"Also var̃matay, var̃mayɩ"
+fWM,var̃mumɩ,,,,UR17,karpova_udmurt_2015,"Also var̃manay, var̃nene"
+fMH(notF),sʸuratay,,,,UR17,karpova_udmurt_2015,Also sʸurbubɩ
+fMeBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMyBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMeZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMyZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMBeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMByD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMZeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+fMZyD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
