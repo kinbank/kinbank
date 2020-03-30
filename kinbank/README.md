@@ -4,12 +4,12 @@
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 16%](https://img.shields.io/badge/Concepticon-16%25-red.svg "Concepticon: 16%")
-![Source: 61%](https://img.shields.io/badge/Source-61%25-orange.svg "Source: 61%")
+![Concepticon: 13%](https://img.shields.io/badge/Concepticon-13%25-red.svg "Concepticon: 13%")
+![Source: 69%](https://img.shields.io/badge/Source-69%25-orange.svg "Source: 69%")
 
 - **Varieties:** 1,139
 - **Concepts:** 579
-- **Lexemes:** 142,602
+- **Lexemes:** 181,571
 - **Sources:** 623
 - **Synonymy:** 1.36
 
@@ -17,4 +17,4 @@
 
 
 
-- Entries missing sources: 55550/142602 (38.95%)
+- Entries missing sources: 55550/181571 (30.59%)

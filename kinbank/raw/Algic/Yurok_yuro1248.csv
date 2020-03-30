@@ -38,6 +38,46 @@ mFW(notM),netul,,,,AET1(28),gifford_californian_1922,
 mMH(notF),netsim,,,,AET1(28),gifford_californian_1922,
 mSW,nekep,,,,AET1(28),gifford_californian_1922,
 mDH,netsneu,,,,AET1(28),gifford_californian_1922,
+mFeB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFyB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFeZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFyZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMeZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMyZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMeB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMyB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFeBS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFyBS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFeZS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFyZS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFeBD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFyBD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFeZD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFyZD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMeBS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMyBS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMeZS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMyZS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMeBD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMyBD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMeZD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMyZD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFBeS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFByS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFZeS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFZyS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFBeD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFByD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFZeD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mFZyD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMBeS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMByS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMZeS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMZyS,nepa,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMBeD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMByD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMZeD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
+mMZyD,neweyits,,,,AET1(27),gifford_californian_1922,Inferred; NA
 fB,nelai,,,,AET1(27),gifford_californian_1922,
 fZ,nelet,,,,AET1(27),gifford_californian_1922,
 feB,nemit,,,,AET1(27),gifford_californian_1922,
@@ -77,3 +117,43 @@ fFW(notM),netul,,,,AET1(28),gifford_californian_1922,
 fMH(notF),netsim,,,,AET1(28),gifford_californian_1922,
 fSW,nekep,,,,AET1(28),gifford_californian_1922,
 fDH,netsneu,,,,AET1(28),gifford_californian_1922,
+fFeB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFyB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFeZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFyZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMeZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMyZ,netul,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMeB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMyB,netsim,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFeBS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFyBS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFeZS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFyZS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFeBD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFyBD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFeZD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFyZD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMeBS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMyBS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMeZS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMyZS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMeBD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMyBD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMeZD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMyZD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFBeS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFByS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFZeS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFZyS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFBeD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFByD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFZeD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fFZyD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMBeS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMByS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMZeS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMZyS,nelai,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMBeD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMByD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMZeD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
+fMZyD,nelet,,,,AET1(27),gifford_californian_1922,Inferred; NA
