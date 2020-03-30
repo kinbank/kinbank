@@ -1,54 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-myB,qwaná,,,,UTO4(NA),,; cogid=307
-myZ,pïni',,,,UTO4(327),,; cogid=2001b
-myZ,pïnni'(a),,,,UTO4(327),,; cogid=2001b
-mF,nawa,,,,UTO4(174),,; cogid=848
-mM,píya,,,,UTO4(257),,
-mC,tuwa,,,,UTO4(72),,"child, son, son of sibling of same sex; cogid=139a"
-mD,pédï',,,,UTO4(402),,; cogid=2576
-mFF,kïnu,,,,UTO4(200),,father's/grandfather's father; cogid=1045
-mMF,togó',,,,UTO4(200),,; cogid=1046
-mMM,hucí,,,,UTO4(200),,; cogid=1052
-mMM,mú'a,,,,UTO4(200),,; cogid=1053
-mFeB,nawa,,,,UTO4(174),,Inferred; ; cogid=848
-mFyB,nawa,,,,UTO4(174),,Inferred; ; cogid=848
-mFeZ,pawwa,,,,UTO4(61),,Inferred; ; cogid=88a
-mFeZ,páhwa,,,,UTO4(61),,Inferred; ; cogid=88a
-mFyZ,pawwa,,,,UTO4(61),,Inferred; ; cogid=88a
-mFyZ,páhwa,,,,UTO4(61),,Inferred; ; cogid=88a
-mMeB,pu',,,,UTO4(381),,Inferred; ; cogid=2435
-mMyB,pu',,,,UTO4(381),,Inferred; ; cogid=2435
-mBS,tuwa,,,,UTO4(72),,"child, son, son of sibling of same sex; cogid=139a"
-meBS,tuwa,,,,UTO4(72),,"Inferred; child, son, son of sibling of same sex; cogid=139a"
-myBS,tuwa,,,,UTO4(72),,"Inferred; child, son, son of sibling of same sex; cogid=139a"
-mW,nodïkwa,,,,UTO4(402),,; cogid=2582
-mFFF,kïnu,,,,UTO4(200),,father's/grandfather's father; cogid=1045
-mTW,wa'wahá',,,,UTO4(381),,; cogid=2431
-fyB,qwaná,,,,UTO4(NA),,; cogid=307
-fyZ,pïni',,,,UTO4(327),,; cogid=2001b
-fyZ,pïnni'(a),,,,UTO4(327),,; cogid=2001b
-fF,nawa,,,,UTO4(174),,; cogid=848
-fM,píya,,,,UTO4(257),,
-fC,tuwa,,,,UTO4(72),,"child, son, son of sibling of same sex; cogid=139a"
-fD,pédï',,,,UTO4(402),,; cogid=2576
-fFF,kïnu,,,,UTO4(200),,father's/grandfather's father; cogid=1045
-fMF,togó',,,,UTO4(200),,; cogid=1046
-fMM,hucí,,,,UTO4(200),,; cogid=1052
-fMM,mú'a,,,,UTO4(200),,; cogid=1053
-fFeB,nawa,,,,UTO4(174),,Inferred; ; cogid=848
-fFyB,nawa,,,,UTO4(174),,Inferred; ; cogid=848
-fFeZ,pawwa,,,,UTO4(61),,Inferred; ; cogid=88a
-fFeZ,páhwa,,,,UTO4(61),,Inferred; ; cogid=88a
-fFyZ,pawwa,,,,UTO4(61),,Inferred; ; cogid=88a
-fFyZ,páhwa,,,,UTO4(61),,Inferred; ; cogid=88a
-fMeB,pu',,,,UTO4(381),,Inferred; ; cogid=2435
-fMyB,pu',,,,UTO4(381),,Inferred; ; cogid=2435
-fZS,tuwa,,,,UTO4(72),,"child, son, son of sibling of same sex; cogid=139a"
-fH,kúwa,,,,UTO4(227),,
-fFFF,kïnu,,,,UTO4(200),,father's/grandfather's father; cogid=1045
-fTW,wa'wahá',,,,UTO4(381),,; cogid=2431
-feZS,tuwa,,,,UTO4(72),,"Inferred; child, son, son of sibling of same sex; cogid=139a"
-fyZS,tuwa,,,,UTO4(72),,"Inferred; child, son, son of sibling of same sex; cogid=139a"
 mB,boso,,,,AET1(50),gifford_californian_1922,
 mZ,sau,,,,AET1(50),gifford_californian_1922,
 meZ,hama,,,,AET1(50),gifford_californian_1922,
@@ -91,14 +41,6 @@ mFZH,bu,,,,AET1(51),gifford_californian_1922,
 mFBW,vi^e,,,,AET1(51),gifford_californian_1922,
 mMZH,nau,,,,AET1(51),gifford_californian_1922,
 mMBW,bawha,,,,AET1(51),gifford_californian_1922,
-mMeZ,vi^e,,,,AET1(51),gifford_californian_1922,Inferred; NA
-mMyZ,vi^e,,,,AET1(51),gifford_californian_1922,Inferred; NA
-meBD,väde,,,,AET1(51),gifford_californian_1922,Inferred; NA
-myBD,väde,,,,AET1(51),gifford_californian_1922,Inferred; NA
-meZS,nahauk',,,,AET1(51),gifford_californian_1922,Inferred; NA
-myZS,nahauk',,,,AET1(51),gifford_californian_1922,Inferred; NA
-meZD,nahauk',,,,AET1(51),gifford_californian_1922,Inferred; NA
-myZD,nahauk',,,,AET1(51),gifford_californian_1922,Inferred; NA
 fB,sau,,,,AET1(50),gifford_californian_1922,
 fZ,boso,,,,AET1(50),gifford_californian_1922,
 fF,nau,,,,AET1(50),gifford_californian_1922,
@@ -139,39 +81,79 @@ fFZH,bu,,,,AET1(51),gifford_californian_1922,
 fFBW,vi^e,,,,AET1(51),gifford_californian_1922,
 fMZH,nau,,,,AET1(51),gifford_californian_1922,
 fMBW,bawha,,,,AET1(51),gifford_californian_1922,
-fMeZ,vi^e,,,,AET1(51),gifford_californian_1922,Inferred; NA
-fMyZ,vi^e,,,,AET1(51),gifford_californian_1922,Inferred; NA
-feBD,ada',,,,AET1(51),gifford_californian_1922,Inferred; NA
-fyBD,ada',,,,AET1(51),gifford_californian_1922,Inferred; NA
-feZS,du^a,,,,AET1(51),gifford_californian_1922,Inferred; NA
-fyZS,du^a,,,,AET1(51),gifford_californian_1922,Inferred; NA
-feZD,väde,,,,AET1(51),gifford_californian_1922,Inferred; NA
-fyZD,väde,,,,AET1(51),gifford_californian_1922,Inferred; NA
 meB,pabí,,,,UTO4(NA),gifford_californian_1922,; cogid=304
-meB,pabí,,,,AET1(50),gifford_californian_1922,; cogid=304
 myB,waná,,,,UTO4(NA),gifford_californian_1922,; cogid=307
-myB,waná,,,,AET1(50),gifford_californian_1922,; cogid=307
 mS,tuwa,,,,UTO4(72),gifford_californian_1922,"child, son, son of sibling of same sex; cogid=139a"
-mS,tuwa,,,,AET1(50),gifford_californian_1922,"child, son, son of sibling of same sex; cogid=139a"
 mFB,nawa,,,,UTO4(174),gifford_californian_1922,; cogid=848
-mFB,nawa,,,,AET1(51),gifford_californian_1922,; cogid=848
 mFZ,pawwa,,,,UTO4(61),gifford_californian_1922,; cogid=88a
-mFZ,pawwa,,,,AET1(51),gifford_californian_1922,; cogid=88a
 mFZ,páhwa,,,,UTO4(61),gifford_californian_1922,; cogid=88a
-mFZ,páhwa,,,,AET1(51),gifford_californian_1922,; cogid=88a
 mMB,pu',,,,UTO4(381),gifford_californian_1922,; cogid=2435
-mMB,pu',,,,AET1(51),gifford_californian_1922,; cogid=2435
 feB,pabí,,,,UTO4(NA),gifford_californian_1922,; cogid=304
-feB,pabí,,,,AET1(50),gifford_californian_1922,; cogid=304
 fyB,waná,,,,UTO4(NA),gifford_californian_1922,; cogid=307
-fyB,waná,,,,AET1(50),gifford_californian_1922,; cogid=307
 fS,tuwa,,,,UTO4(72),gifford_californian_1922,"child, son, son of sibling of same sex; cogid=139a"
-fS,tuwa,,,,AET1(50),gifford_californian_1922,"child, son, son of sibling of same sex; cogid=139a"
 fFB,nawa,,,,UTO4(174),gifford_californian_1922,; cogid=848
-fFB,nawa,,,,AET1(51),gifford_californian_1922,; cogid=848
 fFZ,pawwa,,,,UTO4(61),gifford_californian_1922,; cogid=88a
-fFZ,pawwa,,,,AET1(51),gifford_californian_1922,; cogid=88a
 fFZ,páhwa,,,,UTO4(61),gifford_californian_1922,; cogid=88a
-fFZ,páhwa,,,,AET1(51),gifford_californian_1922,; cogid=88a
 fMB,pu',,,,UTO4(381),gifford_californian_1922,; cogid=2435
-fMB,pu',,,,AET1(51),gifford_californian_1922,; cogid=2435
+myB,qwaná,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=307
+myZ,pïni',,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2001b
+myZ,pïnni'(a),,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2001b
+mF,nawa,,,,UTO4(174),stubbs_uto-aztecan_2011,; cogid=848
+mM,píya,,,,UTO4(257),stubbs_uto-aztecan_2011,
+mC,tuwa,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, son, son of sibling of same sex; cogid=139a"
+mD,pédï',,,,UTO4(402),stubbs_uto-aztecan_2011,; cogid=2576
+mFF,kïnu,,,,UTO4(200),stubbs_uto-aztecan_2011,father's/grandfather's father; cogid=1045
+mMF,togó',,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1046
+mMM,hucí,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1052
+mMM,mú'a,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1053
+mFeB,nawa,,,,UTO4(174),stubbs_uto-aztecan_2011,Inferred; ; cogid=848
+mFyB,nawa,,,,UTO4(174),stubbs_uto-aztecan_2011,Inferred; ; cogid=848
+mFeZ,pawwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+mFeZ,páhwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+mFyZ,pawwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+mFyZ,páhwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+mMeB,pu',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2435
+mMyB,pu',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2435
+mBS,tuwa,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, son, son of sibling of same sex; cogid=139a"
+meBS,tuwa,,,,UTO4(72),stubbs_uto-aztecan_2011,"Inferred; child, son, son of sibling of same sex; cogid=139a"
+myBS,tuwa,,,,UTO4(72),stubbs_uto-aztecan_2011,"Inferred; child, son, son of sibling of same sex; cogid=139a"
+mW,nodïkwa,,,,UTO4(402),stubbs_uto-aztecan_2011,; cogid=2582
+mFFF,kïnu,,,,UTO4(200),stubbs_uto-aztecan_2011,father's/grandfather's father; cogid=1045
+mTW,wa'wahá',,,,UTO4(381),stubbs_uto-aztecan_2011,; cogid=2431
+fyB,qwaná,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=307
+fyZ,pïni',,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2001b
+fyZ,pïnni'(a),,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2001b
+fF,nawa,,,,UTO4(174),stubbs_uto-aztecan_2011,; cogid=848
+fM,píya,,,,UTO4(257),stubbs_uto-aztecan_2011,
+fC,tuwa,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, son, son of sibling of same sex; cogid=139a"
+fD,pédï',,,,UTO4(402),stubbs_uto-aztecan_2011,; cogid=2576
+fFF,kïnu,,,,UTO4(200),stubbs_uto-aztecan_2011,father's/grandfather's father; cogid=1045
+fMF,togó',,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1046
+fMM,hucí,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1052
+fMM,mú'a,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1053
+fFeB,nawa,,,,UTO4(174),stubbs_uto-aztecan_2011,Inferred; ; cogid=848
+fFyB,nawa,,,,UTO4(174),stubbs_uto-aztecan_2011,Inferred; ; cogid=848
+fFeZ,pawwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+fFeZ,páhwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+fFyZ,pawwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+fFyZ,páhwa,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88a
+fMeB,pu',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2435
+fMyB,pu',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2435
+fZS,tuwa,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, son, son of sibling of same sex; cogid=139a"
+fH,kúwa,,,,UTO4(227),stubbs_uto-aztecan_2011,
+fFFF,kïnu,,,,UTO4(200),stubbs_uto-aztecan_2011,father's/grandfather's father; cogid=1045
+fTW,wa'wahá',,,,UTO4(381),stubbs_uto-aztecan_2011,; cogid=2431
+meB,pabí,,,,AET1(50),stubbs_uto-aztecan_2011,; cogid=304
+myB,waná,,,,AET1(50),stubbs_uto-aztecan_2011,; cogid=307
+mS,tuwa,,,,AET1(50),stubbs_uto-aztecan_2011,"child, son, son of sibling of same sex; cogid=139a"
+mFB,nawa,,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=848
+mFZ,pawwa,,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=88a
+mFZ,páhwa,,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=88a
+mMB,pu',,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=2435
+feB,pabí,,,,AET1(50),stubbs_uto-aztecan_2011,; cogid=304
+fyB,waná,,,,AET1(50),stubbs_uto-aztecan_2011,; cogid=307
+fS,tuwa,,,,AET1(50),stubbs_uto-aztecan_2011,"child, son, son of sibling of same sex; cogid=139a"
+fFB,nawa,,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=848
+fFZ,pawwa,,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=88a
+fFZ,páhwa,,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=88a
+fMB,pu',,,,AET1(51),stubbs_uto-aztecan_2011,; cogid=2435

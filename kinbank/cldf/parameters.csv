@@ -10,7 +10,7 @@ WifesSameGroup,Wifes Same Group,,,WifesSameGroup,Affines,parabank
 fBW,female ego's brother's wife,,,fBW,Affines,varikin;parabank
 fD,female ego's daughter,,,fD,children,varikin;parabank
 fDD,female ego's daugher's daughter,,,fDD,Grandparents & -children,varikin;parabank
-fDH,female ego's daughter's husband,2266,son-IN-LAW (OF WOMAN),fDH,Affines,varikin;parabank
+fDH,female ego's daughter's husband,2266,SON-IN-LAW (OF WOMAN),fDH,Affines,varikin;parabank
 fDS,female ego's daughter's son,,,fDS,Grandparents & -children,varikin;parabank
 fF,female ego's father,,,fF,Parents,varikin;parabank
 fFBD,female ego's father's brother's daughter,,,fFBD,Cousins,varikin;parabank
@@ -47,7 +47,7 @@ fFyBS,female ego‘s father‘s younger brother‘s son,,,fFyBS,Cousins by relat
 fFyZ,female ego's father's younger sister,,,fFyZ,Uncles & Aunts,varikin;parabank
 fFyZD,female ego‘s father‘s younger sister‘s daughter,,,fFyZD,Cousins by relative age of parent,varikin;parabank
 fFyZS,female ego‘s father‘s younger sister‘s son,,,fFyZS,Cousins by relative age of parent,varikin;parabank
-fH,female ego‘s husband,1200,husband,fH,Affines,varikin;parabank
+fH,female ego‘s husband,1200,HUSBAND,fH,Affines,varikin;parabank
 fHB,female ego's husband's brother,,,fHB,Affines,varikin;parabank
 fHBW,female ego's husband's brother's wife,,,fHBW,Affines,parabank
 fHF,female ego's husband's father,2254,FATHER-IN-LAW (OF WOMAN),fHF,Affines,varikin;parabank
@@ -92,10 +92,10 @@ fSD,female ego's son's daughter,,,fSD,Grandparents & -children,varikin;parabank
 fSS,female ego's son's son,,,fSS,Grandparents & -children,varikin;parabank
 fSW,female ego's son's wife,2264,DAUGHTER-IN-LAW (OF WOMAN),fSW,Affines,varikin;parabank
 fZH,female ego's sister's husband,,,fZH,Affines,varikin;parabank
-feB,female ego's older brother,2415,ELDER BROTHER (OF WOMAN),feB,Siblings,varikin;parabank
+feB,female ego's older brother,2415,OLDER BROTHER (OF WOMAN),feB,Siblings,varikin;parabank
 feBD,female ego's older brother's daughter,,,feBD,Nieces & Nephews,varikin;parabank
 feBS,female ego's older brother's son,,,feBS,Nieces & Nephews,varikin;parabank
-feZ,female ego's older sister,2419,ELDER SISTER (OF WOMAN),feZ,Siblings,varikin;parabank
+feZ,female ego's older sister,2419,OLDER SISTER (OF WOMAN),feZ,Siblings,varikin;parabank
 feZD,female ego's older sister's daughter,,,feZD,Nieces & Nephews,varikin;parabank
 feZS,female ego's older sister's son,,,feZS,Nieces & Nephews,varikin;parabank
 fexchangeB,fexchangeB,,,fexchangeB,,parabank
@@ -109,7 +109,7 @@ fyZS,female ego's younger sister's son,,,fyZS,Nieces & Nephews,varikin;parabank
 mBW,male ego's brother's wife,,,mBW,Affines,varikin;parabank
 mD,male ego's daughter,,,mD,children,varikin;parabank
 mDD,male ego's daughter's daughter,,,mDD,Grandparents & -children,varikin;parabank
-mDH,male ego's daughter's husband,2267,son-IN-LAW (OF MAN),mDH,Affines,varikin;parabank
+mDH,male ego's daughter's husband,2267,SON-IN-LAW (OF MAN),mDH,Affines,varikin;parabank
 mDS,male ego's daughter's son,,,mDS,Grandparents & -children,varikin;parabank
 mF,male ego's father,,,mF,Parents,varikin;parabank
 mFBD,male ego's father's brother's daughter,,,mFBD,Cousins,varikin;parabank
@@ -185,7 +185,7 @@ mSS,male ego's son's son,,,mSS,Grandparents & -children,varikin;parabank
 mSSS,male ego's son's son's son,,,mSSS,Grandparents & -children,parabank
 mSSSS,male ego's son's son's son's son,,,mSSSS,Grandparents & -children,parabank
 mSW,male ego's son's wife,2265,DAUGHTER-IN-LAW (OF MAN),mSW,Affines,varikin;parabank
-mW,male ego's wife,1199,wife,mW,Affines,varikin;parabank
+mW,male ego's wife,1199,WIFE,mW,Affines,varikin;parabank
 mWB,male ego's wife's brother,2380,BROTHER-IN-LAW (OF MAN),mWB,Affines,varikin;parabank
 mWBW,male ego's wife's brother's wife,,,mWBW,Affines,varikin;parabank
 mWF,male ego's wife's father,2255,FATHER-IN-LAW (OF MAN),mWF,Affines,varikin;parabank
@@ -193,10 +193,10 @@ mWM,male ego's wife's mother,2257,MOTHER-IN-LAW (OF MAN),mWM,Affines,varikin;par
 mWZ,male ego's wife's sister,,,mWZ,Affines,varikin;parabank
 mWZH,male ego's wife's sister's husband,,,mWZH,Affines,varikin;parabank
 mZH,male ego's sister's husband,,,mZH,Affines,varikin;parabank
-meB,male ego's older brother,2414,ELDER BROTHER (OF MAN),meB,Siblings,varikin;parabank
+meB,male ego's older brother,2414,OLDER BROTHER (OF MAN),meB,Siblings,varikin;parabank
 meBD,male ego's older brother's daughter,,,meBD,Nieces & Nephews,varikin;parabank
 meBS,male ego's older brother's son,,,meBS,Nieces & Nephews,varikin;parabank
-meZ,male ego's older sister,2418,ELDER SISTER (OF MAN),meZ,Siblings,varikin;parabank
+meZ,male ego's older sister,2418,OLDER SISTER (OF MAN),meZ,Siblings,varikin;parabank
 meZD,male ego's older sister's daughter,,,meZD,Nieces & Nephews,varikin;parabank
 meZS,male ego's older sister's son,,,meZS,Nieces & Nephews,varikin;parabank
 mexchangeZ,mexchangeZ,,,mexchangeZ,,parabank

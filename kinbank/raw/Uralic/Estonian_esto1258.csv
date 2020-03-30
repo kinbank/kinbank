@@ -1,7 +1,7 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,əed-wennad,,,,UR4,kunnap_estonian_2015,
-mB,wend,,,,UR4,kunnap_estonian_2015,
-mZ,əde,,,,UR4,kunnap_estonian_2015,
+mG,əed-wennad,,,əwed; ənnaksed,UR4,kunnap_estonian_2015,
+mB,wend,,,weli,UR4,kunnap_estonian_2015,
+mZ,əde,,,səsar,UR4,kunnap_estonian_2015,
 myB,noor̃em wend,,,,UR4,kunnap_estonian_2015,
 myZ,noor̃em əde,,,,UR4,kunnap_estonian_2015,
 mF,isa,,,,UR4,kunnap_estonian_2015,
@@ -9,9 +9,9 @@ mM,ema,,,,UR4,kunnap_estonian_2015,
 mC,yær̃eltuliya,,,,UR4,kunnap_estonian_2015,
 mS,poeg,,,,UR4,kunnap_estonian_2015,
 mD,tütar̃,,,,UR4,kunnap_estonian_2015,
-mFF,wanaisa,,,,UR4,kunnap_estonian_2015,
-mFM,wanaema,,,,UR4,kunnap_estonian_2015,
-mMF,wanaisa,,,,UR4,kunnap_estonian_2015,
+mFF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
+mFM,wanaema,,,papa; taat,UR4,kunnap_estonian_2015,
+mMF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
 mMM,wanaema,,,,UR4,kunnap_estonian_2015,
 mSS,poyapoeg,,,,UR4,kunnap_estonian_2015,
 mSS,tütr̃epoeg,,,,UR4,kunnap_estonian_2015,
@@ -53,67 +53,9 @@ mSW,minia,,,,UR4,kunnap_estonian_2015,
 mSW,minia,,,,UR4,kunnap_estonian_2015,
 mDH,wæimees,,,,UR4,kunnap_estonian_2015,
 mDH,wæimees,,,,UR4,kunnap_estonian_2015,
-meB,wend,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meZ,əde,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFeB,lell,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFyB,lell,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFeZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFyZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMeZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMyZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMeB,onu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMyB,onu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meBS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meBS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myBS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myBS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meBD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meBD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myBD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myBD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meZS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meZS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myZS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myZS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meZD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-meZD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myZD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-myZD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mFZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-mMZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fG,əed-wennad,,,,UR4,kunnap_estonian_2015,
-fB,wend,,,,UR4,kunnap_estonian_2015,
-fZ,əde,,,,UR4,kunnap_estonian_2015,
+fG,əed-wennad,,,əwed; ənnaksed,UR4,kunnap_estonian_2015,
+fB,wend,,,weli,UR4,kunnap_estonian_2015,
+fZ,əde,,,səsar,UR4,kunnap_estonian_2015,
 fyB,noor̃em wend,,,,UR4,kunnap_estonian_2015,
 fyZ,noor̃em əde,,,,UR4,kunnap_estonian_2015,
 fF,isa,,,,UR4,kunnap_estonian_2015,
@@ -121,9 +63,9 @@ fM,ema,,,,UR4,kunnap_estonian_2015,
 fC,yær̃eltuliya,,,,UR4,kunnap_estonian_2015,
 fS,poeg,,,,UR4,kunnap_estonian_2015,
 fD,tütar̃,,,,UR4,kunnap_estonian_2015,
-fFF,wanaisa,,,,UR4,kunnap_estonian_2015,
-fFM,wanaema,,,,UR4,kunnap_estonian_2015,
-fMF,wanaisa,,,,UR4,kunnap_estonian_2015,
+fFF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
+fFM,wanaema,,,papa; taat,UR4,kunnap_estonian_2015,
+fMF,wanaisa,,,mamma; memm,UR4,kunnap_estonian_2015,
 fMM,wanaema,,,,UR4,kunnap_estonian_2015,
 fSS,poyapoeg,,,,UR4,kunnap_estonian_2015,
 fSS,tütr̃epoeg,,,,UR4,kunnap_estonian_2015,
@@ -165,61 +107,75 @@ fSW,minia,,,,UR4,kunnap_estonian_2015,
 fSW,minia,,,,UR4,kunnap_estonian_2015,
 fDH,wæimees,,,,UR4,kunnap_estonian_2015,
 fDH,wæimees,,,,UR4,kunnap_estonian_2015,
-feB,wend,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feZ,əde,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFeB,lell,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFyB,lell,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFeZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFyZ,sətse,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMeZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMyZ,tædi,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMeB,onu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMyB,onu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feBS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feBS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyBS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyBS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feBD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feBD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyBD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyBD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feZS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feZS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyZS,wennapoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyZS,əepoeg,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feZD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-feZD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyZD,wennatütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fyZD,əetütar̃,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMeBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMyBS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMeZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMyZS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMeBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMyBD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMeZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMyZD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fFZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMBeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMByS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMZeS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMZyS,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMBeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMByD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMZeD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
-fMZyD,nəbu,,,,UR4,kunnap_estonian_2015,Inferred; NA
+mP,(lapse)wanem,,,,UR20,pajusalu_esto1258_2020,
+mC,laps,,,,UR20,pajusalu_esto1258_2020,
+mA,esiwanem,,,,UR20,pajusalu_esto1258_2020,
+mPP,wanawanem,,,papa; taat,UR20,pajusalu_esto1258_2020,
+mCC,lapselaps,,,,UR20,pajusalu_esto1258_2020,
+mFZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,
+mFBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,
+mMBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,
+mMZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,
+mFBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,
+mFZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,
+mMBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,
+mMZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,
+mE,abikaasa,,,,UR20,pajusalu_esto1258_2020,
+mBW,wennanaine,,,,UR20,pajusalu_esto1258_2020,
+mZH,əemees,,,,UR20,pajusalu_esto1258_2020,
+mWB,naisewend,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+mWZ,naiseəde,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+mHB,mehewend,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+mHZ,meheəde,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+mWB,nææl,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+mWZ,kæli,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+mHB,küdi,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+mHZ,nadu,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+mFW(notM),kasuema,,,,UR20,pajusalu_esto1258_2020,
+mMH(notF),kasuisa,,,,UR20,pajusalu_esto1258_2020,
+mSWM,minia ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+mSWF,minia isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+mDHM,wæimehe ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+mDHF,wæimehe isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+mFZH,isa əemees,,,,UR20,pajusalu_esto1258_2020,
+mFZH,sətsemees,,,,UR20,pajusalu_esto1258_2020,‘sətse’ also occasionally replaced with ‘tædi’
+mFBW,isa wennanaine,,,,UR20,pajusalu_esto1258_2020,
+mFBW,lellenaine,,,,UR20,pajusalu_esto1258_2020,
+mMZH,tädimees,,,,UR20,pajusalu_esto1258_2020,
+mMBW,onunaine,,,,UR20,pajusalu_esto1258_2020,
+fP,(lapse)wanem,,,,UR20,pajusalu_esto1258_2020,
+fC,laps,,,,UR20,pajusalu_esto1258_2020,
+fA,esiwanem,,,,UR20,pajusalu_esto1258_2020,
+fPP,wanawanem,,,papa; taat,UR20,pajusalu_esto1258_2020,
+fCC,lapselaps,,,,UR20,pajusalu_esto1258_2020,
+fFZD,sətsetütar̃,,,,UR20,pajusalu_esto1258_2020,
+fFBD,lelletütar̃,,,,UR20,pajusalu_esto1258_2020,
+fMBD,onutütar̃,,,,UR20,pajusalu_esto1258_2020,
+fMZD,tæditütar̃,,,,UR20,pajusalu_esto1258_2020,
+fFBS,lellepoeg,,,,UR20,pajusalu_esto1258_2020,
+fFZS,sətsepoeg,,,,UR20,pajusalu_esto1258_2020,
+fMBS,onupoeg,,,,UR20,pajusalu_esto1258_2020,
+fMZS,tædipoeg,,,,UR20,pajusalu_esto1258_2020,
+fE,abikaasa,,,,UR20,pajusalu_esto1258_2020,
+fBW,wennanaine,,,,UR20,pajusalu_esto1258_2020,
+fZH,əemees,,,,UR20,pajusalu_esto1258_2020,
+fWB,naisewend,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+fWZ,naiseəde,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+fHB,mehewend,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+fHZ,meheəde,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+fWB,nææl,,,,UR20,pajusalu_esto1258_2020,‘Nææl’ less used by younger generation of language speakers
+fWZ,kæli,,,,UR20,pajusalu_esto1258_2020,‘Kæli’ less used by younger generation of language speakers
+fHB,küdi,,,,UR20,pajusalu_esto1258_2020,‘Küdi’ less used by younger generation of language speakers
+fHZ,nadu,,,,UR20,pajusalu_esto1258_2020,‘Nadu’ less used by younger generation of language speakers
+fFW(notM),kasuema,,,,UR20,pajusalu_esto1258_2020,
+fMH(notF),kasuisa,,,,UR20,pajusalu_esto1258_2020,
+fSWM,minia ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+fSWF,minia isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+fDHM,wæimehe ema,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+fDHF,wæimehe isa,,,,UR20,pajusalu_esto1258_2020,‘Lang’ less used by younger generation of language speakers
+fFZH,isa əemees,,,,UR20,pajusalu_esto1258_2020,
+fFZH,sətsemees,,,,UR20,pajusalu_esto1258_2020,‘sətse’ also occasionally replaced with ‘tædi’
+fFBW,isa wennanaine,,,,UR20,pajusalu_esto1258_2020,
+fFBW,lellenaine,,,,UR20,pajusalu_esto1258_2020,
+fMZH,tädimees,,,,UR20,pajusalu_esto1258_2020,
+fMBW,onunaine,,,,UR20,pajusalu_esto1258_2020,

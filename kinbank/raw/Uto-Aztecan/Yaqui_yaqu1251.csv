@@ -1,19 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-myZ,wai,,,,UTO4(327),,; cogid=2002
-mM,áewa,,,,UTO4(257),,
-mC,maára,,,,UTO4(72),,"child, offspring; cogid=140"
-mFF,haboi,,,,UTO4(200),,
-mFF,apa,,,,UTO4(200),,
-mFF,náni,,,,UTO4(200),,
-mW,húubi,,,,UTO4(402),,; cogid=2572a
-mDH,mó'one,,,,UTO4(340),,; cogid=2085
-fyZ,wai,,,,UTO4(327),,; cogid=2002
-fM,áewa,,,,UTO4(257),,
-fC,maára,,,,UTO4(72),,"child, offspring; cogid=140"
-fFF,haboi,,,,UTO4(200),,
-fFF,apa,,,,UTO4(200),,
-fFF,náni,,,,UTO4(200),,
-fDH,mó'one,,,,UTO4(340),,; cogid=2085
 meB,sai,,,,UTO6(305),fernandez_estrada_diccionario_nodate,ms UTO6(306)
 myB,saila,,,,UTO6(306),fernandez_estrada_diccionario_nodate,
 myB,wai,,,,UTO6(306),fernandez_estrada_diccionario_nodate,
@@ -93,3 +78,18 @@ fHZ,jaborai,,,,UTO6(305),fernandez_estrada_diccionario_nodate,
 fFW(notM),waim maala,,,,UTO6(306),fernandez_estrada_diccionario_nodate,
 fMH(notF),waim achai,,,,UTO6(306),fernandez_estrada_diccionario_nodate,
 fSW,jaborai,,,,UTO6(305),fernandez_estrada_diccionario_nodate,
+myZ,wai,,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2002
+mM,áewa,,,,UTO4(257),stubbs_uto-aztecan_2011,
+mC,maára,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, offspring; cogid=140"
+mFF,haboi,,,,UTO4(200),stubbs_uto-aztecan_2011,
+mFF,apa,,,,UTO4(200),stubbs_uto-aztecan_2011,
+mFF,náni,,,,UTO4(200),stubbs_uto-aztecan_2011,
+mW,húubi,,,,UTO4(402),stubbs_uto-aztecan_2011,; cogid=2572a
+mDH,mó'one,,,,UTO4(340),stubbs_uto-aztecan_2011,; cogid=2085
+fyZ,wai,,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2002
+fM,áewa,,,,UTO4(257),stubbs_uto-aztecan_2011,
+fC,maára,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, offspring; cogid=140"
+fFF,haboi,,,,UTO4(200),stubbs_uto-aztecan_2011,
+fFF,apa,,,,UTO4(200),stubbs_uto-aztecan_2011,
+fFF,náni,,,,UTO4(200),stubbs_uto-aztecan_2011,
+fDH,mó'one,,,,UTO4(340),stubbs_uto-aztecan_2011,; cogid=2085

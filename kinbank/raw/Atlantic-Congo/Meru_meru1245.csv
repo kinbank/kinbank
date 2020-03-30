@@ -2,13 +2,9 @@ parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mFZ,mwarewaaba,,,,AC71(150),beidelman_matrilineal_1967,
 mMB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,
 mH,muntû wa,,,,AC71(157),beidelman_matrilineal_1967,unclear
-mMeB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
-mMyB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
 fFZ,mwarewaaba,,,,AC71(150),beidelman_matrilineal_1967,
 fMB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,
 fH,muntû wa,,,,AC71(157),beidelman_matrilineal_1967,unclear
-fMeB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
-fMyB,muntuetû,,,,AC71(150),beidelman_matrilineal_1967,Inferred; NA
 mB,mutaanocia,,,,AC72(149),peatrik_vie_1999,
 mZ,mwareocia,,,,AC72(149),peatrik_vie_1999,
 meB,mutaanocia mûkûrû,,,,AC72(148),peatrik_vie_1999,
@@ -60,32 +56,6 @@ mSWF,muramû,,,,AC72(156),peatrik_vie_1999,
 mDHM,muramû,,,,AC72(156),peatrik_vie_1999,
 mDHF,muramû,,,,AC72(156),peatrik_vie_1999,
 mMBW,bankithoi,,,munyori,AC72(152),peatrik_vie_1999,
-mFeBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mFyBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mFeZS,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFyZS,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFeBD,mwareocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mFyBD,mwareocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mMeBS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mMyBS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mMeZS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mMyZS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mMeBD,icia,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mMyBD,icia,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mMeZD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mMyZD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mFBeS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mFByS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mFZeS,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFZyS,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFBeD,mwareocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mFByD,mwareocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-mMBeS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mMByS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mMZeS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mMZyS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mMZeD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-mMZyD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
 fB,mutaanocia,,,,AC72(149),peatrik_vie_1999,
 fZ,mwareocia,,,,AC72(149),peatrik_vie_1999,
 feB,mutaanocia mûkûrû,,,,AC72(148),peatrik_vie_1999,
@@ -143,36 +113,6 @@ fSWF,muramû,,,,AC72(156),peatrik_vie_1999,
 fDHM,muramû,,,,AC72(156),peatrik_vie_1999,
 fDHF,muramû,,,,AC72(156),peatrik_vie_1999,
 fMBW,bankithoi,,,munyori,AC72(152),peatrik_vie_1999,
-feBS,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fyBS,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-feBD,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fyBD,mwonokwa,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fFeBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fFyBS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fFeZS,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFyZS,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFeBD,mwareoba,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fFyBD,mwareoba,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fMeBS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fMyBS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fMeZS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fMyZS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fMeBD,icia,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fMyBD,icia,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fMeZD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fMyZD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fFBeS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fFByS,mutaanocia,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fFZeS,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFZyS,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFBeD,mwareoba,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fFByD,mwareoba,,,,AC72(149),peatrik_vie_1999,Inferred; NA
-fMBeS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fMByS,muntuetû,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fMZeS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fMZyS,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fMZeD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
-fMZyD,ndûgû,,,,AC72(150),peatrik_vie_1999,Inferred; can marry
 mS,muthaka,,,,AC72(148),peatrik_vie_1999,
 mS,muthaka,,,,AC72(151),peatrik_vie_1999,
 mMeZ,ciomûkûrû,,,,AC72(149),peatrik_vie_1999,
@@ -189,22 +129,6 @@ mFW(notM),munyori,,,,AC72(151),peatrik_vie_1999,
 mFW(notM),munyori,,,,AC72(156),peatrik_vie_1999,
 mDH,baethe,,,,AC72(156),peatrik_vie_1999,
 mDH,baethe,,,,AC72(157),peatrik_vie_1999,
-meZS,mwonomware,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-meZS,mwonomware,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-myZS,mwonomware,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-myZS,mwonomware,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-meZD,mwonomware,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-meZD,mwonomware,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-myZD,mwonomware,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-myZD,mwonomware,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-mFeZD,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFeZD,mwonomware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-mFyZD,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFyZD,mwonomware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-mFZeD,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFZeD,mwonomware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-mFZyD,mwonomware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-mFZyD,mwonomware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
 fS,mutaanokwa,,,,AC72(148),peatrik_vie_1999,
 fS,mutaanokwa,,,,AC72(151),peatrik_vie_1999,
 fMeZ,nkoolo,,,,AC72(149),peatrik_vie_1999,
@@ -221,19 +145,3 @@ fFW(notM),ntee,,,,AC72(151),peatrik_vie_1999,
 fFW(notM),ntee,,,,AC72(156),peatrik_vie_1999,
 fDH,baaba,,,,AC72(156),peatrik_vie_1999,
 fDH,baaba,,,,AC72(157),peatrik_vie_1999,
-feZS,maama,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-feZS,maama,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fyZS,maama,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fyZS,maama,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-feZD,maama,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-feZD,maama,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fyZD,maama,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fyZD,maama,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fFeZD,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFeZD,kana ka mware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fFyZD,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFyZD,kana ka mware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fFZeD,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFZeD,kana ka mware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
-fFZyD,kana ka mware waaba,,,,AC72(150),peatrik_vie_1999,Inferred; NA
-fFZyD,kana ka mware waaba,,,,AC72(151),peatrik_vie_1999,Inferred; NA
