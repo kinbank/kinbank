@@ -1,22 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,vapaci,,,,UTO4(NA),,plural; cogid=305
-mC,mara,,,,UTO4(72),,"child, offspring; cogid=140"
-mFZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-mMZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-mFeZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-mFyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-mMeZ,tepó,,,,UTO4(327),,; cogid=2004
-mMyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-mWF,wase,,,,UTO4(299),,; cogid=1789
-feB,vapaci,,,,UTO4(NA),,plural; cogid=305
-fC,mara,,,,UTO4(72),,"child, offspring; cogid=140"
-fFZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-fMZ,deri-,,,,UTO4(61),,"(Shaul 1990, 566); cogid=90a"
-fFeZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-fFyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-fMeZ,tepó,,,,UTO4(327),,; cogid=2004
-fMyZ,deri-,,,,UTO4(61),,"Inferred; (Shaul 1990, 566); cogid=90a"
-fHF,wase,,,,UTO4(299),,; cogid=1789
 mZ,cochiguat,,,,UTO17(801),pennington_arte_1984,
 meB,vatzi,,,,UTO17(802),pennington_arte_1984,
 meB,vatzigua,,,,UTO17(802),pennington_arte_1984,
@@ -206,14 +188,32 @@ fMH(notF),chiguat,,,,UTO17(905),pennington_arte_1984,
 fSW,modeguat,,,,UTO17(890),pennington_arte_1984,
 fDH,moneguat,,,,UTO17(1025),pennington_arte_1984,
 myZ,viniwa,,,,UTO4(327),pennington_arte_1984,; cogid=2001a
-myZ,viniwa,,,,UTO17(801),pennington_arte_1984,; cogid=2001a
 mF,mas,,,,UTO4(174),pennington_arte_1984,; cogid=852 - UTO17 says m-s only
-mF,mas,,,,UTO17(905),pennington_arte_1984,; cogid=852 - UTO17 says m-s only
 mSS,no päsima,,,,UTO17(883),pennington_arte_1984,grandson of the paternal grandather; grandson of the paternal grandmother
 mSS,no päsima,,,,UTO17(882),pennington_arte_1984,grandson of the paternal grandather; grandson of the paternal grandmother
 fyZ,viniwa,,,,UTO4(327),pennington_arte_1984,; cogid=2001a
-fyZ,viniwa,,,,UTO17(801),pennington_arte_1984,; cogid=2001a
 fF,mas,,,,UTO4(174),pennington_arte_1984,; cogid=852 - UTO17 says m-s only
-fF,mas,,,,UTO17(905),pennington_arte_1984,; cogid=852 - UTO17 says m-s only
 fSS,no paoma,,,,UTO17(883),pennington_arte_1984,grandson of the paternal grandather; grandson of the paternal grandmother
 fSS,no paoma,,,,UTO17(882),pennington_arte_1984,grandson of the paternal grandather; grandson of the paternal grandmother
+meB,vapaci,,,,UTO4(NA),stubbs_uto-aztecan_2011,plural; cogid=305
+mC,mara,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, offspring; cogid=140"
+mFZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"(Shaul 1990, 566); cogid=90a"
+mMZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"(Shaul 1990, 566); cogid=90a"
+mFeZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; (Shaul 1990, 566); cogid=90a"
+mFyZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; (Shaul 1990, 566); cogid=90a"
+mMeZ,tepó,,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2004
+mMyZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; (Shaul 1990, 566); cogid=90a"
+mWF,wase,,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1789
+feB,vapaci,,,,UTO4(NA),stubbs_uto-aztecan_2011,plural; cogid=305
+fC,mara,,,,UTO4(72),stubbs_uto-aztecan_2011,"child, offspring; cogid=140"
+fFZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"(Shaul 1990, 566); cogid=90a"
+fMZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"(Shaul 1990, 566); cogid=90a"
+fFeZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; (Shaul 1990, 566); cogid=90a"
+fFyZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; (Shaul 1990, 566); cogid=90a"
+fMeZ,tepó,,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2004
+fMyZ,deri-,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; (Shaul 1990, 566); cogid=90a"
+fHF,wase,,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1789
+myZ,viniwa,,,,UTO17(801),stubbs_uto-aztecan_2011,; cogid=2001a
+mF,mas,,,,UTO17(905),stubbs_uto-aztecan_2011,; cogid=852 - UTO17 says m-s only
+fyZ,viniwa,,,,UTO17(801),stubbs_uto-aztecan_2011,; cogid=2001a
+fF,mas,,,,UTO17(905),stubbs_uto-aztecan_2011,; cogid=852 - UTO17 says m-s only

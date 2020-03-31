@@ -1,14 +1,4 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,pabi'i,,,,UTO4(?),,; cogid=304
-myZ,nami',,,,UTO4(327),,; cogid=2003
-mFM,kaku',,,,UTO4(200),,; cogid=1050b
-mMeB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
-mMyB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
-feB,pabi'i,,,,UTO4(?),,; cogid=304
-fyZ,nami',,,,UTO4(327),,; cogid=2003
-fFM,kaku',,,,UTO4(200),,; cogid=1050b
-fMeB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
-fMyB,ara',,,,UTO4(381),,Inferred; ; cogid=2432
 mZ,samupi,,,,UTO8(71),hammel_transformational_1965,
 meB,pavi,,,,UTO8(71),hammel_transformational_1965,
 mFM,huci,,,,UTO8(70),hammel_transformational_1965,
@@ -213,40 +203,50 @@ fMZyD,nami,,,,UTO8(71),hammel_transformational_1965,Inferred; if younger than sp
 fMZyD,paci,,,,UTO8(71),hammel_transformational_1965,Inferred; if older than speaker
 fMZyD,tii,,,,UTO8(74),hammel_transformational_1965,Inferred; NA
 myB,tami',,,,UTO4(?),hammel_transformational_1965,; cogid=308
-myB,tami',,,,UTO8(71),hammel_transformational_1965,; cogid=308
 meZ,paci',,,,UTO4(?),hammel_transformational_1965,; cogid=305
-meZ,paci',,,,UTO8(71),hammel_transformational_1965,; cogid=305
 mF,ahpï,,,,UTO4(174),hammel_transformational_1965,; cogid=846
-mF,ahpï,,,,UTO8(70),hammel_transformational_1965,; cogid=846
 mM,pia,,,,UTO4(257),hammel_transformational_1965,
-mM,pia,,,,UTO8(71),hammel_transformational_1965,
 mS,tua,,,,UTO4(72),hammel_transformational_1965,; cogid=139a
-mS,tua,,,,UTO8(72),hammel_transformational_1965,; cogid=139a
 mD,petï',,,,UTO4(402),hammel_transformational_1965,; cogid=2576
-mD,petï',,,,UTO8(72),hammel_transformational_1965,; cogid=2576
 mFF,kïnu',,,,UTO4(200),hammel_transformational_1965,
-mFF,kïnu',,,,UTO8(70),hammel_transformational_1965,
 mMF,toko',,,,UTO4(200),hammel_transformational_1965,
-mMF,toko',,,,UTO8(70),hammel_transformational_1965,
 mMB,ara',,,,UTO4(381),hammel_transformational_1965,; cogid=2432
-mMB,ara',,,,UTO8(71),hammel_transformational_1965,; cogid=2432
 fyB,tami',,,,UTO4(?),hammel_transformational_1965,; cogid=308
-fyB,tami',,,,UTO8(71),hammel_transformational_1965,; cogid=308
 feZ,paci',,,,UTO4(?),hammel_transformational_1965,; cogid=305
-feZ,paci',,,,UTO8(71),hammel_transformational_1965,; cogid=305
 fF,ahpï,,,,UTO4(174),hammel_transformational_1965,; cogid=846
-fF,ahpï,,,,UTO8(70),hammel_transformational_1965,; cogid=846
 fM,pia,,,,UTO4(257),hammel_transformational_1965,
-fM,pia,,,,UTO8(71),hammel_transformational_1965,
 fS,tua,,,,UTO4(72),hammel_transformational_1965,; cogid=139a
-fS,tua,,,,UTO8(72),hammel_transformational_1965,; cogid=139a
 fD,petï',,,,UTO4(402),hammel_transformational_1965,; cogid=2576
-fD,petï',,,,UTO8(72),hammel_transformational_1965,; cogid=2576
 fFF,kïnu',,,,UTO4(200),hammel_transformational_1965,
-fFF,kïnu',,,,UTO8(70),hammel_transformational_1965,
 fMF,toko',,,,UTO4(200),hammel_transformational_1965,
-fMF,toko',,,,UTO8(70),hammel_transformational_1965,
 fMB,ara',,,,UTO4(381),hammel_transformational_1965,; cogid=2432
-fMB,ara',,,,UTO8(71),hammel_transformational_1965,; cogid=2432
 fH,kumahpï',,,,UTO4(227),hammel_transformational_1965,different spelling
-fH,kumahpï',,,,(UTO8(73),hammel_transformational_1965,different spelling
+meB,pabi'i,,,,UTO4(?),stubbs_uto-aztecan_2011,; cogid=304
+myZ,nami',,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2003
+mFM,kaku',,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1050b
+mMeB,ara',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2432
+mMyB,ara',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2432
+feB,pabi'i,,,,UTO4(?),stubbs_uto-aztecan_2011,; cogid=304
+fyZ,nami',,,,UTO4(327),stubbs_uto-aztecan_2011,; cogid=2003
+fFM,kaku',,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1050b
+fMeB,ara',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2432
+fMyB,ara',,,,UTO4(381),stubbs_uto-aztecan_2011,Inferred; ; cogid=2432
+myB,tami',,,,UTO8(71),stubbs_uto-aztecan_2011,; cogid=308
+meZ,paci',,,,UTO8(71),stubbs_uto-aztecan_2011,; cogid=305
+mF,ahpï,,,,UTO8(70),stubbs_uto-aztecan_2011,; cogid=846
+mM,pia,,,,UTO8(71),stubbs_uto-aztecan_2011,
+mS,tua,,,,UTO8(72),stubbs_uto-aztecan_2011,; cogid=139a
+mD,petï',,,,UTO8(72),stubbs_uto-aztecan_2011,; cogid=2576
+mFF,kïnu',,,,UTO8(70),stubbs_uto-aztecan_2011,
+mMF,toko',,,,UTO8(70),stubbs_uto-aztecan_2011,
+mMB,ara',,,,UTO8(71),stubbs_uto-aztecan_2011,; cogid=2432
+fyB,tami',,,,UTO8(71),stubbs_uto-aztecan_2011,; cogid=308
+feZ,paci',,,,UTO8(71),stubbs_uto-aztecan_2011,; cogid=305
+fF,ahpï,,,,UTO8(70),stubbs_uto-aztecan_2011,; cogid=846
+fM,pia,,,,UTO8(71),stubbs_uto-aztecan_2011,
+fS,tua,,,,UTO8(72),stubbs_uto-aztecan_2011,; cogid=139a
+fD,petï',,,,UTO8(72),stubbs_uto-aztecan_2011,; cogid=2576
+fFF,kïnu',,,,UTO8(70),stubbs_uto-aztecan_2011,
+fMF,toko',,,,UTO8(70),stubbs_uto-aztecan_2011,
+fMB,ara',,,,UTO8(71),stubbs_uto-aztecan_2011,; cogid=2432
+fH,kumahpï',,,,(UTO8(73),stubbs_uto-aztecan_2011,different spelling
