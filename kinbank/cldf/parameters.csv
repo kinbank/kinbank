@@ -578,3 +578,7 @@ feHZ,female ego's elder husband's sister,,,feHZ,Affines,
 fyHZ,female ego's younger husband's sister,,,fyHZ,Affines,
 mHBDS,male ego's husband's brother's daughter's son,,,mHBDS,Affines,
 mHMBS,male ego's husband's mother's brother's son,,,mHMBS,Affines,
+mWS_notS,male ego's wife's son (not ego's son),,,mWS(notS),Affines,varikin
+mWD_notD,male ego's wife's daughter (not ego's daughter),,,mWD(notD),Affines,varikin
+fHS_notS,female ego's husband's son (not ego's son),,,fHS(notS),Affines,varikin
+fHD_notD,female ego's husband's daughter (not ego's daughter),,,fHD(notD),Affines,varikin

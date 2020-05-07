@@ -1,5 +1,5 @@
 pylexibank>=2.1
-cldfbench
+cldfbench[excel]
 pyglottolog
 pyconcepticon
 pytest-cldf
