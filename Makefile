@@ -1,10 +1,6 @@
 # define version:
-GLOTTOLOG=v4.1
-CONCEPTICON=v2.2.0
-
-help:
-	@echo "1. Run 'make install' to install the python requirements"
-	@echo "2. Run 'make cldf' to generate a CLDF dataset"
+GLOTTOLOG=v4.2.1
+CONCEPTICON=v2.3.0
 
 # install python venv and install python libraries
 env:
