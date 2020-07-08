@@ -39,19 +39,7 @@ installed into a virtual environment using this command:
 make install
 ```
 
-2. Clone and update the datasets:
-
-```shell
-make data
-```
-
-3. Merge the datasets:
-
-```shell
-make merge
-```
-
-4. Generate CLDF:
+2. Generate CLDF:
 
 ```shell
 make cldf
