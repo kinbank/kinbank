@@ -11,9 +11,9 @@ PARABANK=raw/parabank
 
 help:
 	@echo "1. Run 'make install' to install the python requirements"
-	@echo "2. Run 'make data' to clone and update the datasets"
-	@echo "3. Run 'make merge' to merge the datasets"
-	@echo "4. Run 'make cldf' to generate a CLDF dataset"
+# 	@echo "2. Run 'make data' to clone and update the datasets"
+# 	@echo "3. Run 'make merge' to merge the datasets"
+	@echo "2. Run 'make cldf' to generate a CLDF dataset"
 
 # install python venv and install python libraries
 env:
@@ -35,16 +35,16 @@ $(PARABANK):
 install: env
 	cd kinbank && ../env/bin/python setup.py develop && cd ..
 
-# Clone and Update the data
-data: $(VARIKIN) $(PARABANK)
-	cd $(VARIKIN) && git pull
-	cd $(PARABANK) && git pull
+# # Clone and Update the data
+# data: $(VARIKIN) $(PARABANK)
+# 	cd $(VARIKIN) && git pull
+# 	cd $(PARABANK) && git pull
 
-#  merge datasets into kinbank
-merge: env
-	@rm -rf ./kinbank/raw/  # remove any preexisiting stuff in raw
-	@mkdir -p ./kinbank/raw
-	./env/bin/python ./import.py
+# #  merge datasets into kinbank
+# merge: env
+# 	@rm -rf ./kinbank/raw/  # remove any preexisiting stuff in raw
+# 	@mkdir -p ./kinbank/raw
+# 	./env/bin/python ./import.py
 
 # generate CLDF
 cldf: env ./kinbank/raw/
