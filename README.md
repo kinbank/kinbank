@@ -25,8 +25,8 @@ Run this shell command:
 make cldf
 ```
 
-To Generate a Combined CLDF dataset:
-------------------------------------
+To Generate a CLDF dataset:
+---------------------------
 
 The shell utility [make](https://www.gnu.org/software/make/) and the programming language [python (v3.6+)](https://www.python.org/) are required.
 
