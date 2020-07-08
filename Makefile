@@ -9,6 +9,8 @@ VARIKIN_REPO=https://github.com/SamPassmore/varikin-kinbank
 VARIKIN=raw/varikin
 PARABANK=raw/parabank
 
+.PHONY: help clean update test
+
 help:
 	@echo "1. Run 'make install' to install the python requirements"
 # 	@echo "2. Run 'make data' to clone and update the datasets"
