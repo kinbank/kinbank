@@ -1,6 +1,6 @@
 # define version:
-GLOTTOLOG=v4.1
-CONCEPTICON=v2.2.0
+GLOTTOLOG=v4.2.1
+CONCEPTICON=v2.3.0
 
 # define repositories:
 PARABANK_REPO=https://github.com/parabank/parabank-kinship-data
@@ -13,13 +13,19 @@ help:
 	@echo "1. Run 'make install' to install the python requirements"
 # 	@echo "2. Run 'make data' to clone and update the datasets"
 # 	@echo "3. Run 'make merge' to merge the datasets"
-	@echo "2. Run 'make cldf' to generate a CLDF dataset"
+        @echo "2. Run 'make update' to update to latest versions of Glottolog, Concepticon, and CLDF libraries."
+        @echo "3. Run 'make cldf' to generate a CLDF dataset"
 
 # install python venv and install python libraries
 env:
 	python -m venv env
 	./env/bin/python ./env/bin/pip3 install -r requirements.txt
 	./env/bin/cldfbench catconfig
+
+update: env
+	./env/bin/python ./env/bin/pip3 install --upgrade -r requirements.txt
+	./env/bin/cldfbench catupdate
+
 
 # install data from kinbank
 $(VARIKIN):
