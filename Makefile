@@ -10,8 +10,8 @@ CONCEPTICON=v2.3.0
 
 help:
 	@echo "1. Run 'make install' to install the python requirements"
-        @echo "2. Run 'make update' to update to latest versions of Glottolog, Concepticon, and CLDF libraries."
-        @echo "3. Run 'make cldf' to generate a CLDF dataset"
+	@echo "2. Run 'make update' to update to latest versions of Glottolog, Concepticon, and CLDF libraries."
+	@echo "3. Run 'make cldf' to generate a CLDF dataset"
 
 # install python venv and install python libraries
 env:
