@@ -696,3 +696,12 @@ fFBCCCC,fFBCCCC,female ego's father's brother's child's child's child's child,Co
 fFZCCCC,fFZCCCC,female ego's father's sister's child's child's child's child,Cousins,,,varikin
 fMBCCCC,fMBCCCC,female ego's mother's brother's child's child's child's child,Cousins,,,varikin
 fMZCCCC,fMZCCCC,female ego's mother's sister's child's child's child's child,Cousins,,,varikin
+,mSSW,male ego's son's son's wife,Affines,,,
+,mSDH,male ego's son's daughter's husband,Affines,,,
+,mDSW,male ego's daughter's son's wife,Affines,,,
+,mDDH,male ego's daughter's daughter's husband,Affines,,,
+,fSSW,female ego's son's son's wife,Affines,,,
+,fSDH,female ego's son's daughter's husband,Affines,,,
+,fDSW,female ego's daughter's son's wife,Affines,,,
+,fDDH,female ego's daughter's daughter's husband,Affines,,,
+,mFFZD,male ego's father's father's sister's daughter,Cousins,,,
