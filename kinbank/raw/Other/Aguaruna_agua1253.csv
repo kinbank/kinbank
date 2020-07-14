@@ -1,205 +1,238 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,
-mZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,
-mF,apa-g,,,,CHIB3,deicat_aguaruna_2015,
-mM,duku,,,,CHIB3,deicat_aguaruna_2015,
-mC,uči-g,,,,CHIB3,deicat_aguaruna_2015,
-mS,uči-g,,,,CHIB3,deicat_aguaruna_2015,
-mD,nawanhi,,,,CHIB3,deicat_aguaruna_2015,
-mFF,apa-č,,,,CHIB3,deicat_aguaruna_2015,
-mFM,duku-č,,,,CHIB3,deicat_aguaruna_2015,
-mMF,apa-č,,,,CHIB3,deicat_aguaruna_2015,
-mMM,duku-č,,,,CHIB3,deicat_aguaruna_2015,
-mSS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-mSD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-mDS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-mDD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-mFB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,
-mFZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,
-mMB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mMZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,
-mMZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,
-mBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,
-mBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,
-mZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,
-mZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,
-mFZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mFBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mMBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mMZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mFBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mFZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mMBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mMZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-mH,aiši,,,,CHIB3,deicat_aguaruna_2015,
-mW,nuwa-tk-amu,,,,CHIB3,deicat_aguaruna_2015,
-mHF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,
-mHF,diič,,,,CHIB3,deicat_aguaruna_2015,
-mHM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,
-mHM,duku-g,,,,CHIB3,deicat_aguaruna_2015,
-mWF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,
-mWF,diič,,,,CHIB3,deicat_aguaruna_2015,
-mWM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,
-mWM,duku-g,,,,CHIB3,deicat_aguaruna_2015,
-mSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,
-mSW,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,
-mSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,
-mSW,nawan,,,,CHIB3,deicat_aguaruna_2015,
-mDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,
-mDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,
-meB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-myB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-meZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-myZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFeB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFyB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFeZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFyZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-meBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-myBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-meBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-myBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-meZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-myZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-meZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-myZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mFZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-mMZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,
-fZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,
-fF,apa-g,,,,CHIB3,deicat_aguaruna_2015,
-fM,duku,,,,CHIB3,deicat_aguaruna_2015,
-fC,uči-g,,,,CHIB3,deicat_aguaruna_2015,
-fS,uči-g,,,,CHIB3,deicat_aguaruna_2015,
-fD,nawanhi,,,,CHIB3,deicat_aguaruna_2015,
-fFF,apa-č,,,,CHIB3,deicat_aguaruna_2015,
-fFM,duku-č,,,,CHIB3,deicat_aguaruna_2015,
-fMF,apa-č,,,,CHIB3,deicat_aguaruna_2015,
-fMM,duku-č,,,,CHIB3,deicat_aguaruna_2015,
-fSS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-fSD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-fDS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-fDD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,
-fFB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,
-fFZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,
-fMB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fMZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,
-fMZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,
-fBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,
-fBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,
-fZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,
-fZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,
-fFZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fFBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fMBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fMZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fFBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fFZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fMBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fMZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,
-fH,aiši,,,,CHIB3,deicat_aguaruna_2015,
-fW,nuwa-tk-amu,,,,CHIB3,deicat_aguaruna_2015,
-fHF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,
-fHF,diič,,,,CHIB3,deicat_aguaruna_2015,
-fHM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,
-fHM,duku-g,,,,CHIB3,deicat_aguaruna_2015,
-fWF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,
-fWF,diič,,,,CHIB3,deicat_aguaruna_2015,
-fWM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,
-fWM,duku-g,,,,CHIB3,deicat_aguaruna_2015,
-fSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,
-fSW,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,
-fSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,
-fSW,nawan,,,,CHIB3,deicat_aguaruna_2015,
-fDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,
-fDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,
-feB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fyB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-feZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fyZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFeB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFyB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFeZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFyZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-feBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fyBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-feBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fyBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-feZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fyZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-feZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fyZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fFZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
-fMZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment,
+mB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,,
+mB,yatsug,,,,,godelier_transformations_1998-2�,,
+mZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,,
+mZ,uban,,,,,godelier_transformations_1998-2�,,
+mF,apa-g,,,,CHIB3,deicat_aguaruna_2015,,
+mF,apag,,,,,godelier_transformations_1998-2�,,
+mM,duku,,,,CHIB3,deicat_aguaruna_2015,,
+mM,dukug,,,,,godelier_transformations_1998-2�,,
+mC,uči-g,,,,CHIB3,deicat_aguaruna_2015,,
+mS,uči-g,,,,CHIB3,deicat_aguaruna_2015,,
+mS,uchin,,,,,godelier_transformations_1998-2�,,
+mD,nawanhi,,,,CHIB3,deicat_aguaruna_2015,,
+mD,nawant,,,,,godelier_transformations_1998-2�,,
+mFF,apa-č,,,,CHIB3,deicat_aguaruna_2015,,
+mFM,duku-č,,,,CHIB3,deicat_aguaruna_2015,,
+mMF,apa-č,,,,CHIB3,deicat_aguaruna_2015,,
+mMM,duku-č,,,,CHIB3,deicat_aguaruna_2015,,
+mSS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+mSD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+mDS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+mDD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+mFB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,,
+mFB,apag,,,,,godelier_transformations_1998-2�,,
+mFZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,,
+mFZ,dukug,,,,,godelier_transformations_1998-2�,,
+mMB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mMB,diich,,,,,godelier_transformations_1998-2�,,
+mMZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,,
+mMZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,,
+mMZ,dukug,,,,,godelier_transformations_1998-2�,,
+mBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,,
+mBS,uchin,,,,,godelier_transformations_1998-2�,,
+mBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,,
+mBD,nawant,,,,,godelier_transformations_1998-2�,,
+mZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,,
+mZS,aweg,,,,,godelier_transformations_1998-2�,,
+mZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,,
+mZD,aweg,,,,,godelier_transformations_1998-2�,,
+mFZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mFZD,antsug,,,,,godelier_transformations_1998-2�,,
+mFBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mFBD,uban,,,,,godelier_transformations_1998-2�,,
+mMBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mMBD,antsug,,,,,godelier_transformations_1998-2�,,
+mMZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mMZD,uban,,,,,godelier_transformations_1998-2�,,
+mFBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mFZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mFZS,saig,,,,,godelier_transformations_1998-2�,,
+mMBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mMBS,saig,,,,,godelier_transformations_1998-2�,,
+mMZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+mH,aiši,,,,CHIB3,deicat_aguaruna_2015,,
+mW,nuwa-tk-amu,,,,CHIB3,deicat_aguaruna_2015,,
+mHF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,,
+mHF,diič,,,,CHIB3,deicat_aguaruna_2015,,
+mHF,weag,,,,,godelier_transformations_1998-2�,,
+mHM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,,
+mHM,duku-g,,,,CHIB3,deicat_aguaruna_2015,,
+mHM,tsatsag,,,,,godelier_transformations_1998-2�,,
+mWF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,,
+mWF,diič,,,,CHIB3,deicat_aguaruna_2015,,
+mWF,weag,,,,,godelier_transformations_1998-2�,,
+mWM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,,
+mWM,duku-g,,,,CHIB3,deicat_aguaruna_2015,,
+mWM,tsatsag,,,,,godelier_transformations_1998-2�,,
+mSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,,
+mSW,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,,
+mSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,,
+mSW,nawan,,,,CHIB3,deicat_aguaruna_2015,,
+mDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,,
+mDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,,
+meB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+myB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+meZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+myZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFeB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFyB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFeZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFyZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+meBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+myBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+meBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+myBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+meZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+myZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+meZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+myZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mMZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,,
+fZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,,
+fF,apa-g,,,,CHIB3,deicat_aguaruna_2015,,
+fM,duku,,,,CHIB3,deicat_aguaruna_2015,,
+fC,uči-g,,,,CHIB3,deicat_aguaruna_2015,,
+fS,uči-g,,,,CHIB3,deicat_aguaruna_2015,,
+fD,nawanhi,,,,CHIB3,deicat_aguaruna_2015,,
+fFF,apa-č,,,,CHIB3,deicat_aguaruna_2015,,
+fFM,duku-č,,,,CHIB3,deicat_aguaruna_2015,,
+fMF,apa-č,,,,CHIB3,deicat_aguaruna_2015,,
+fMM,duku-č,,,,CHIB3,deicat_aguaruna_2015,,
+fSS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+fSD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+fDS,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+fDD,tiha-g,,,,CHIB3,deicat_aguaruna_2015,,
+fFB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,,
+fFZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,,
+fMB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fMZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,,
+fMZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,,
+fBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,,
+fBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,,
+fZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,,
+fZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,,
+fFZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fFBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fMBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fMZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fFBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fFZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fMBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fMZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,,
+fH,aiši,,,,CHIB3,deicat_aguaruna_2015,,
+fW,nuwa-tk-amu,,,,CHIB3,deicat_aguaruna_2015,,
+fHF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,,
+fHF,diič,,,,CHIB3,deicat_aguaruna_2015,,
+fHM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,,
+fHM,duku-g,,,,CHIB3,deicat_aguaruna_2015,,
+fWF,wɨga-g,,,,CHIB3,deicat_aguaruna_2015,,
+fWF,diič,,,,CHIB3,deicat_aguaruna_2015,,
+fWM,c̷ac̷a-g,,,,CHIB3,deicat_aguaruna_2015,,
+fWM,duku-g,,,,CHIB3,deicat_aguaruna_2015,,
+fSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,,
+fSW,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,,
+fSW,uči-'hi nuwɨ,,,,CHIB3,deicat_aguaruna_2015,,
+fSW,nawan,,,,CHIB3,deicat_aguaruna_2015,,
+fDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,,
+fDH,awɨ-g,,,,CHIB3,deicat_aguaruna_2015,,
+feB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fyB,yac̷u-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+feZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fyZ,uba-g,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFeB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFyB,apa-'hu yači,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFeZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFyZ,apa-'hu uma-yi,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyZ,u'ma,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyZ,uma-yui,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyB,yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+feBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fyBS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+feBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fyBD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+feZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fyZS,awɨ-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+feZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fyZD,awɨt,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyBS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyZS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyBD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMeZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMyZD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fFZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMBeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMByS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMZeS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMZyS,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMBeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMByD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMZeD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+fMZyD,i'ka 'yac̷u-t,,,,CHIB3,deicat_aguaruna_2015,Inferred; NA,
+mFZH,apag,,,,,godelier_transformations_1998-2�,,
+mMBW,dukug,,,,,godelier_transformations_1998-2�,,
+mBW,waheg,,,,,godelier_transformations_1998-2�,,
+mMBDS,ajika,,,,,godelier_transformations_1998-2�,,
+mFZDS,ajika,,,,,godelier_transformations_1998-2�,,
+mMBDD,nuwasa,,,,,godelier_transformations_1998-2�,,
+mFZDD,nuwasa,,,,,godelier_transformations_1998-2�,,
+,,,,,,,,
+,,,,,,,,
