@@ -1,145 +1,169 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,bisep,bisep,,,YE1(3),noauthor_ket_nodate,
-mB,hīˑɣebišep,,,,YE1(3),noauthor_ket_nodate,
-meB,bisep,bisep,,,YE1(3),noauthor_ket_nodate,
-myB,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,"generic term for 'class of junior relatives' ie. ego's younger siblings, ego's marital partner's younger siblings and children of marital partner's siblings."
-myZ,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,
-mP,amang,"amáŋ,",,,YE1(1),noauthor_ket_nodate,plural form meaning 'parents'. Derived from Proto-Yeniseian 'amə' meaning mother.
-mF,ob,ōˑp,,,YE1(8),noauthor_ket_nodate,
-mM,am,āˑm,,,YE1(1),noauthor_ket_nodate,
-mC,dil,d!̄ˑl,,täte!(voc. form),YE1(4),noauthor_ket_nodate,
-mS,pyvo,pɨvo,,,YE1(10),noauthor_ket_nodate,source lists both terms
-mS,hyp,hɨˀp,,,YE1(10),noauthor_ket_nodate,
-mFF,qibbat,qīˑp,,,YE1(11),noauthor_ket_nodate,qibbat is a term for 'class of elder male relatives. qīˑp for specific 'grandfather'.
-mFF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,
-mFM,qima,,,,YE1(11),noauthor_ket_nodate,
-mMF,qibbat,,,,YE1(11),noauthor_ket_nodate,
-mMF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,
-mMM,qima,,,,YE1(11),noauthor_ket_nodate,
-mCC,qaloq,,,,YE1(11),noauthor_ket_nodate,
-mSS,qä qal,,,,YE1(11),noauthor_ket_nodate,Meaning eldest grandson. SK dialect 'qä qal'. CK dialect qeˀ qaloq.
-mFZD,amdus,,,,YE1(3),noauthor_ket_nodate,
-mFBD,amdus,,,,YE1(3),noauthor_ket_nodate,
-mMBD,amdus,,,,YE1(3),noauthor_ket_nodate,
-mMZD,amdus,,,,YE1(3),noauthor_ket_nodate,
-mFBS,amdun,,,,YE1(3),noauthor_ket_nodate,
-mFZS,amdun,,,,YE1(3),noauthor_ket_nodate,
-mMBS,amdun,,,,YE1(3),noauthor_ket_nodate,
-mMZS,amdun,,,,YE1(3),noauthor_ket_nodate,
-mH,tyet,tēˑt,,,YE1(16),noauthor_ket_nodate,
-mW,qim,qīˑm,,,YE1(14),noauthor_ket_nodate,
-mHF,qibbat,,,,YE1(11),noauthor_ket_nodate,
-mWF,qibbat,,,,YE1(11),noauthor_ket_nodate,
-myBW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest brother's wife
-mBW,atbam,atbaːm,,,YE1(2),noauthor_ket_nodate,
-mZH,bolbes,,,,YE1(2),noauthor_ket_nodate,
-mWyB,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,
-mWB,bolbes,,,,YE1(2),noauthor_ket_nodate,
-mWyZ,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,
-mWZ,huram,huʁam,,,YE1(10),noauthor_ket_nodate,
-mySW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest son's wife
-mFBW,atbam,atbaːm,,,YE1(2),noauthor_ket_nodate,
-mMBW,atbam,atbaːm,,,YE1(2),noauthor_ket_nodate,
-mFeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mFZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-mMZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fG,bisep,bisep,,,YE1(3),noauthor_ket_nodate,
-fB,hīˑɣebišep,hīˑɣebišep,,,YE1(3),noauthor_ket_nodate,
-feB,bisep,bisep,,,YE1(3),noauthor_ket_nodate,
-fyB,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,"generic term for 'class of junior relatives' ie. ego's younger siblings, ego's marital partner's younger siblings and children of marital partner's siblings."
-fyZ,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,
-fP,amang,"amáŋ,",,,YE1(1),noauthor_ket_nodate,plural form meaning 'parents'. Derived from Proto-Yeniseian 'amə' meaning mother.
-fF,ob,ōˑp,,,YE1(8),noauthor_ket_nodate,
-fM,am,āˑm,,,YE1(1),noauthor_ket_nodate,
-fC,dil,d!̄ˑl,,täte!(voc. form),YE1(4),noauthor_ket_nodate,
-fS,pyvo,pɨvo,,,YE1(10),noauthor_ket_nodate,source lists both terms
-fS,hyp,hɨˀp,,,YE1(10),noauthor_ket_nodate,
-fFF,qibbat,qīˑp,,,YE1(11),noauthor_ket_nodate,qibbat is a term for 'class of elder male relatives. qīˑp for specific 'grandfather'.
-fFF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,
-fFM,qima,,,,YE1(11),noauthor_ket_nodate,
-fMF,qibbat,,,,YE1(11),noauthor_ket_nodate,
-fMF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,
-fMM,qima,,,,YE1(11),noauthor_ket_nodate,
-fCC,qaloq,,,,YE1(11),noauthor_ket_nodate,
-fSS,qä qal,,,,YE1(11),noauthor_ket_nodate,Meaning eldest grandson. SK dialect 'qä qal'. CK dialect qeˀ qaloq.
-fFZD,amdus,,,,YE1(3),noauthor_ket_nodate,
-fFBD,amdus,,,,YE1(3),noauthor_ket_nodate,
-fMBD,amdus,,,,YE1(3),noauthor_ket_nodate,
-fMZD,amdus,,,,YE1(3),noauthor_ket_nodate,
-fFBS,amdun,,,,YE1(3),noauthor_ket_nodate,
-fFZS,amdun,,,,YE1(3),noauthor_ket_nodate,
-fMBS,amdun,,,,YE1(3),noauthor_ket_nodate,
-fMZS,amdun,,,,YE1(3),noauthor_ket_nodate,
-fH,tyet,tēˑt,,,YE1(16),noauthor_ket_nodate,
-fW,qim,qīˑm,,,YE1(14),noauthor_ket_nodate,
-fHF,qibbat,,,,YE1(11),noauthor_ket_nodate,
-fWF,qibbat,,,,YE1(11),noauthor_ket_nodate,
-fyBW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest brother's wife
-fBW,bolbesam,,,,YE1(2),noauthor_ket_nodate,
-fZH,bolbes,,,,YE1(2),noauthor_ket_nodate,
-fWyB,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,
-fWB,bolbes,,,,YE1(2),noauthor_ket_nodate,
-fWyZ,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,
-fWZ,huram,huʁam,,,YE1(10),noauthor_ket_nodate,
-fySW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest son's wife
-fFeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fFZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
-fMZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment,,,,,,,,,
+mG,bisep,bisep,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mB,hīˑɣebišep,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+meB,bisep,bisep,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+myB,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,"generic term for 'class of junior relatives' ie. ego's younger siblings, ego's marital partner's younger siblings and children of marital partner's siblings.",,,,,,,,,
+myZ,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mP,amang,"amáŋ,",,,YE1(1),noauthor_ket_nodate,plural form meaning 'parents'. Derived from Proto-Yeniseian 'amə' meaning mother.,,,,,,,,,
+mF,ob,ōˑp,,,YE1(8),noauthor_ket_nodate,,,,,,,,,,
+mM,am,āˑm,,,YE1(1),noauthor_ket_nodate,,,,,,,,,,
+mC,dil,d!̄ˑl,,täte!(voc. form),YE1(4),noauthor_ket_nodate,,,,,,,,,,
+mS,pyvo,pɨvo,,,YE1(10),noauthor_ket_nodate,source lists both terms,,,,,,,,,
+mS,hyp,hɨˀp,,,YE1(10),noauthor_ket_nodate,,,,,,,,,,
+mFF,qibbat,qīˑp,,,YE1(11),noauthor_ket_nodate,qibbat is a term for 'class of elder male relatives. qīˑp for specific 'grandfather'.,,,,,,,,,
+mFF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mFM,qima,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mMF,qibbat,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mMF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mMM,qima,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mCC,qaloq,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mSS,qä qal,,,,YE1(11),noauthor_ket_nodate,Meaning eldest grandson. SK dialect 'qä qal'. CK dialect qeˀ qaloq.,,,,,,,,,
+mFZD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mFBD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mMBD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mMZD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mFBS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,, 
+mFZS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mMBS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mMZS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+mH,tyet,tēˑt,,,YE1(16),noauthor_ket_nodate,,,,,,,,,,
+mW,qim,qīˑm,,,YE1(14),noauthor_ket_nodate,,,,,,,,,,
+mHF,qibbat,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+mWF,qibbat,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+myBW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest brother's wife,,,,,,,,,
+mBW,atbam,atbaːm,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mZH,bolbes,,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mWyB,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mWB,bolbes,,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mWyZ,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mWZ,huram,huʁam,,,YE1(10),noauthor_ket_nodate,,,,,,,,,,
+mySW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest son's wife,,,,,,,,,
+mFBW,atbam,atbaːm,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mMBW,atbam,atbaːm,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+mFeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mFZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+mMZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fG,bisep,bisep,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fB,hīˑɣebišep,hīˑɣebišep,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+feB,bisep,bisep,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fyB,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,"generic term for 'class of junior relatives' ie. ego's younger siblings, ego's marital partner's younger siblings and children of marital partner's siblings.",,,,,,,,,
+fyZ,bistɨl,bistɨl,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fP,amang,"amáŋ,",,,YE1(1),noauthor_ket_nodate,plural form meaning 'parents'. Derived from Proto-Yeniseian 'amə' meaning mother.,,,,,,,,,
+fF,ob,ōˑp,,,YE1(8),noauthor_ket_nodate,,,,,,,,,,
+fM,am,āˑm,,,YE1(1),noauthor_ket_nodate,,,,,,,,,,
+fC,dil,d!̄ˑl,,täte!(voc. form),YE1(4),noauthor_ket_nodate,,,,,,,,,,
+fS,pyvo,pɨvo,,,YE1(10),noauthor_ket_nodate,source lists both terms,,,,,,,,,
+fS,hyp,hɨˀp,,,YE1(10),noauthor_ket_nodate,,,,,,,,,,
+fFF,qibbat,qīˑp,,,YE1(11),noauthor_ket_nodate,qibbat is a term for 'class of elder male relatives. qīˑp for specific 'grandfather'.,,,,,,,,,
+fFF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fFM,qima,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fMF,qibbat,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fMF,qip,qīˑp,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fMM,qima,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fCC,qaloq,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fSS,qä qal,,,,YE1(11),noauthor_ket_nodate,Meaning eldest grandson. SK dialect 'qä qal'. CK dialect qeˀ qaloq.,,,,,,,,,
+fFZD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fFBD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fMBD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fMZD,amdus,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fFBS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fFZS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fMBS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fMZS,amdun,,,,YE1(3),noauthor_ket_nodate,,,,,,,,,,
+fH,tyet,tēˑt,,,YE1(16),noauthor_ket_nodate,,,,,,,,,,
+fW,qim,qīˑm,,,YE1(14),noauthor_ket_nodate,,,,,,,,,,
+fHF,qibbat,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fWF,qibbat,,,,YE1(11),noauthor_ket_nodate,,,,,,,,,,
+fyBW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest brother's wife,,,,,,,,,
+fBW,bolbesam,,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+fZH,bolbes,,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+fWyB,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+fWB,bolbes,,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+fWyZ,bistɨl,bistɨl,,,YE1(2),noauthor_ket_nodate,,,,,,,,,,
+fWZ,huram,huʁam,,,YE1(10),noauthor_ket_nodate,,,,,,,,,,
+fySW,ennam,,,,YE1(5),noauthor_ket_nodate,Youngest son's wife,,,,,,,,,
+fFeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMeBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMyBS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMeZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMyZS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMeBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMyBD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMeZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMyZD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fFZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMBeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMByS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMZeS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMZyS,amdun,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMBeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMByD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMZeD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMZyD,amdus,,,,YE1(3),noauthor_ket_nodate,Inferred; NA,,,,,,,,,
+fMyZ,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fMyZ,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fMyB,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fMyB,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fFyB,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fFyB,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fFyZ,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fFyZ,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mMyZ,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mMyZ,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mMyB,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mMyB,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mFyB,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mFyB,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mFyZ,qōj,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mFyZ,qoja,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fMeZ,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fMeB,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fFeB,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+fFeZ,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mMeZ,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mMeB,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mFeB,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,
+mFeZ,beˀp,,,,,Vajda_Nefedov_2009,,,,,,,,,,

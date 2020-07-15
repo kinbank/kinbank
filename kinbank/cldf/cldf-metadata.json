@@ -11,13 +11,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.0"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -44,7 +44,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 181850,
+            "dc:extent": 182476,
             "tableSchema": {
                 "columns": [
                     {
@@ -147,7 +147,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1141,
+            "dc:extent": 1143,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +241,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 583,
+            "dc:extent": 695,
             "tableSchema": {
                 "columns": [
                     {
