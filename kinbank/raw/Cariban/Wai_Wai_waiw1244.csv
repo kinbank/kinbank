@@ -1,16 +1,27 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mB,oy-akno,,,,CB5,hawkins_wai_2015,
 mZ,oy-eΦeka,,,,CB5,hawkins_wai_2015,
 mF,yɨɨm,,,,CB5,hawkins_wai_2015,aa-mo: your father
 mM,noro yon,,,,CB5,hawkins_wai_2015,yɨ-son: 3rd mother
 mC,o-mšɨk-rɨ,,,,CB5,hawkins_wai_2015,
 mS,o-mumu-ru,,,,CB5,hawkins_wai_2015,
+mS,omïmïrï,,,,p520,Mentore_1987,
 mD,oyemsɨrɨ,,,,CB5,hawkins_wai_2015,
 mA,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 mFF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 mFM,yɨ-noči,,,,CB5,hawkins_wai_2015,
+mFM,chacha,,,,p524,Mentore_1987,"Unclear source: ""The Waiwai infer avuncular marriage (or, as it is more commonly termed,
+ marriage with the sister's daughter) from the terminology of their prescriptive
+ alliance system (that is, from equating all women of the second ascending
+ generation to ego who are father's sister with grandmother by calling them
+ chacha)"""
 mMF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 mMM,yɨ-noči,,,,CB5,hawkins_wai_2015,
+mMM,chacha,,,,p524,Mentore_1987,"Unclear source: ""The Waiwai infer avuncular marriage (or, as it is more commonly termed,
+ marriage with the sister's daughter) from the terminology of their prescriptive
+ alliance system (that is, from equating all women of the second ascending
+ generation to ego who are father's sister with grandmother by calling them
+ chacha)"""
 mSS,∅-Φarɨ,,,,CB5,hawkins_wai_2015,
 mSD,∅-Φarɨ,,,,CB5,hawkins_wai_2015,
 mDS,∅-Φarɨ,,,,CB5,hawkins_wai_2015,
@@ -22,6 +33,7 @@ mMZ,yɨ-son,,,,CB5,hawkins_wai_2015,
 mFZD,oy-akno,,,,CB5,hawkins_wai_2015,
 mFBD,oy-akno,,,,CB5,hawkins_wai_2015,
 mMBD,oy-akno,,,,CB5,hawkins_wai_2015,
+mMBD,wayamnu,,,,p519,Mentore_1987,
 mMZD,oy-akno,,,,CB5,hawkins_wai_2015,
 mFBS,oy-akno,,,,CB5,hawkins_wai_2015,
 mFZS,oy-akno,,,,CB5,hawkins_wai_2015,
@@ -29,7 +41,9 @@ mMBS,oy-akno,,,,CB5,hawkins_wai_2015,
 mMZS,oy-akno,,,,CB5,hawkins_wai_2015,
 mH,aa-ɲo,,,,CB5,hawkins_wai_2015,
 mW,yi-Φi-či,,,,CB5,hawkins_wai_2015,
+mW,čwya,,,,p521,Mentore_1987,
 mWF,o-tam-ru,,,,CB5,hawkins_wai_2015,
+mWF,tamchi,,,,p520,Mentore_1987,
 mWM,∅-wayam-nu,,,,CB5,hawkins_wai_2015,
 mDH,o-Φamo-rɨ,,,,CB5,hawkins_wai_2015,
 mDH,wayam-nu,,,,CB5,hawkins_wai_2015,
@@ -80,6 +94,7 @@ mMZyD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 fB,oy-eΦeka,,,,CB5,hawkins_wai_2015,
 fZ,oy-akno,,,,CB5,hawkins_wai_2015,
 fF,yɨɨm,,,,CB5,hawkins_wai_2015,aa-mo: your father
+fF,apapa,,,,p521,Mentore_1987,
 fM,noro yon,,,,CB5,hawkins_wai_2015,yɨ-son: 3rd mother
 fC,o-mšɨk-rɨ,,,,CB5,hawkins_wai_2015,
 fS,omrerɨ,,,,CB5,hawkins_wai_2015,
@@ -87,8 +102,18 @@ fD,oyemsɨrɨ,,,,CB5,hawkins_wai_2015,
 fA,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 fFF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 fFM,yɨ-noči,,,,CB5,hawkins_wai_2015,
+fFM,chacha,,,,p524,Mentore_1987,"Unclear source: ""The Waiwai infer avuncular marriage (or, as it is more commonly termed,
+ marriage with the sister's daughter) from the terminology of their prescriptive
+ alliance system (that is, from equating all women of the second ascending
+ generation to ego who are father's sister with grandmother by calling them
+ chacha)"""
 fMF,∅-Φori-n,,,,CB5,hawkins_wai_2015,
 fMM,yɨ-noči,,,,CB5,hawkins_wai_2015,
+fMM,chacha,,,,p524,Mentore_1987,"Unclear source: ""The Waiwai infer avuncular marriage (or, as it is more commonly termed,
+ marriage with the sister's daughter) from the terminology of their prescriptive
+ alliance system (that is, from equating all women of the second ascending
+ generation to ego who are father's sister with grandmother by calling them
+ chacha)"""
 fSS,∅-Φarɨ,,,,CB5,hawkins_wai_2015,
 fSD,∅-Φarɨ,,,,CB5,hawkins_wai_2015,
 fDS,∅-Φarɨ,,,,CB5,hawkins_wai_2015,
@@ -103,9 +128,11 @@ fMBD,oy-akno,,,,CB5,hawkins_wai_2015,
 fMZD,oy-akno,,,,CB5,hawkins_wai_2015,
 fFBS,oy-akno,,,,CB5,hawkins_wai_2015,
 fFZS,oy-akno,,,,CB5,hawkins_wai_2015,
+fFZS,wayamnu,,,,p519,Mentore_1987,
 fMBS,oy-akno,,,,CB5,hawkins_wai_2015,
 fMZS,oy-akno,,,,CB5,hawkins_wai_2015,
 fH,aa-ɲo,,,,CB5,hawkins_wai_2015,
+fH,opiči,,,,p521,Mentore_1987,
 fW,yi-Φi-či,,,,CB5,hawkins_wai_2015,
 fWF,o-tam-ru,,,,CB5,hawkins_wai_2015,
 fWM,∅-wayam-nu,,,,CB5,hawkins_wai_2015,
@@ -155,3 +182,4 @@ fMBeD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 fMByD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 fMZeD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
 fMZyD,oy-akno,,,,CB5,hawkins_wai_2015,Inferred; NA
+mWB,poimo,,,,p520,Mentore_1987,
