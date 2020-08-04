@@ -826,99 +826,133 @@ myW,myW,"male speaker's younger wife, i.e. any wife married after the first one 
 mWeB,mWeB,male speaker's wife's elder brother,Affines,,,varikin
 fHyZ,fHyZ,female speaker's husband's younger sister,Affines,,,varikin
 fHeZ,fHeZ,female speaker's husband's elder sister,Affines,,,varikin
-mMeZH,mMeZH,male speaker's mother's elder sister's husband,Affines,,,
-fMeZH,fMeZH,female speaker's mother's elder sister's husband,Affines,,,
-mMyZH,mMyZH,male speaker's mother's younger sister's husband,Affines,,,
-fMyZH,fMyZH,female speaker's mother's younger sister's husband,Affines,,,
-mFyBW,mFyBW,male speaker's father's younger brother's wife,Affines,,,
-fFyBW,fFyBW,female speaker's father's younger brother's wife,Affines,,,
-mWFFB,mWFFB,male speaker's wife's father's father's brother,Affines,,,
-mWFFZH,mWFFZH,male speaker's wife's father's father's sister's husband,Affines,,,
-mWFMB,mWFMB,male speaker's wife's father's mother's brother,Affines,,,
-mWFMZH,mWFMZH,male speaker's wife's father's mother's sister's husband,Affines,,,
-mWMFB,mWMFB,male speaker's wife's mother's father's brother,Affines,,,
-mWMFZH,mWMFZH,male speaker's wife's mother's father's sister's husband,Affines,,,
-mWMMB,mWMMB,male speaker's wife's mother's mother's brother,Affines,,,
-mWMMZH,mWMMZH,male speaker's wife's mother's mother's sister's husband,Affines,,,
-fHFFZH,fHFFZH,female speaker's husband's father's father's sister's husband,Affines,,,
-fHFMZH,fHFMZH,female speaker's husband's father's mother's sister's husband,Affines,,,
-fHMFB,fHMFB,female speaker's husband's mother's father's brother,Affines,,,
-fHMFZH,fHMFZH,female speaker's husband's mother's father's sister's husband,Affines,,,
-fHMMB,fHMMB,female speaker's husband's mother's mother's brother,Affines,,,
-fHMMZH,fHMMZH,female speaker's husband's mother's mother's sister's husband,Affines,,,
-mWFFBW,mWFFBW,male speaker's wife's father's father's brother's wife,Affines,,,
-mWFMBW,mWFMBW,male speaker's wife's father's mother's brother's wife,Affines,,,
-mWMFBW,mWMFBW,male speaker's wife's mother's father's brother's wife,Affines,,,
-mWMFZ,mWMFZ,male speaker's wife's mother's father's sister,Affines,,,
-mWMMBW,mWMMBW,male speaker's wife's mother's mother's brother's wife,Affines,,,
-mWMMZ,mWMMZ,male speaker's wife's mother's mother's sister ,Affines,,,
-fHFFBW,fHFFBW,female speaker's husband's father's father's brother's wife,Affines,,,
-fHFFZ,fHFFZ,female speaker's husband's father's father's sister,Affines,,,
-fHFMBW,fHFMBW,female speaker's husband's father's mother's brother's wife,Affines,,,
-fHFMZ,fHFMZ,female speaker's husband's father's mother's sister ,Affines,,,
-fHMFBW,fHMFBW,female speaker's husband's mother's father's brother's wife,Affines,,,
-fHMFZ,fHMFZ,female speaker's husband's mother's father's sister,Affines,,,
-fHMMBW,fHMMBW,female speaker's husband's mother's mother's brother's wife,Affines,,,
-fHMMZ,fHMMZ,female speaker's husband's mother's mother's sister ,Affines,,,
-mFFeBS,mFFeBS,male speaker's father's father's elder brother's son,Cousins,,,
-mFFyBS,mFFyBS,male speaker's father's father's younger brother's son,Cousins,,,
-mFFeZS,mFFeZS,male speaker's father's father's elder sister's son,Cousins,,,
-mFFyZS,mFFyZS,male speaker's father's father's younger sister's son,Cousins,,,
-mFMeBS,mFMeBS,male speaker's father's mother's elder brother's son,Cousins,,,
-mFMyBS,mFMyBS,male speaker's father's mother's younger brother's son,Cousins,,,
-mFMeZS,mFMeZS,male speaker's father's mother's elder sister's son,Cousins,,,
-mFMyZS,mFMyZS,male speaker's father's mother's younger sister's son,Cousins,,,
-fFFeBS,fFFeBS,female speaker's father's father's elder brother's son,Cousins,,,
-fFFyBS,fFFyBS,female speaker's father's father's younger brother's son,Cousins,,,
-fFFeZS,fFFeZS,female speaker's father's father's elder sister's son,Cousins,,,
-fFFyZS,fFFyZS,female speaker's father's father's younger sister's son,Cousins,,,
-fFMeBS,fFMeBS,female speaker's father's mother's elder brother's son,Cousins,,,
-fFMyBS,fFMyBS,female speaker's father's mother's younger brother's son,Cousins,,,
-fFMeZS,fFMeZS,female speaker's father's mother's elder sister's son,Cousins,,,
-fFMyZS,fFMyZS,female speaker's father's mother's younger sister's son,Cousins,,,
-mMFBDH,mMFBDH,male speaker's mother's father's brother's daughter's husband,Affines,,,
-mMMBDH,mMMBDH,male speaker's mother's mother's brother's daughter's husband,Affines,,,
-mMFZDH ,mMFZDH ,male speaker's mother's father's sister's daughter's husband,Affines,,,
-mMMZDH,mMMZDH,male speaker's mother's mother's sister's daughter's husband,Affines,,,
-fMFBDH,fMFBDH,female speaker's mother's father's brother's daughter's husband,Affines,,,
-fMMBDH,fMMBDH,female speaker's mother's mother's brother's daughter's husband,Affines,,,
-fMFZDH ,fMFZDH ,female speaker's mother's father's sister's daughter's husband,Affines,,,
-fMMZDH,fMMZDH,female speaker's mother's mother's sister's daughter's husband,Affines,,,
-mFFeBSW,mFFeBSW,male speaker's father's father's elder brother's son's wife,Affines,,,
-mFFyBSW,mFFyBSW,male speaker's father's father's younger brother's son's wife,Affines,,,
-mFFeZSW,mFFeZSW,male speaker's father's father's elder sister's son's wife,Affines,,,
-mFFyZSW,mFFyZSW,male speaker's father's father's younger sister's son's wife,Affines,,,
-mFMeBSW,mFMeBSW,male speaker's father's mother's elder brother's son's wife,Affines,,,
-mFMyBSW,mFMyBSW,male speaker's father's mother's younger brother's son's wife,Affines,,,
-mFMeZSW,mFMeZSW,male speaker's father's mother's elder sister's son's wife,Affines,,,
-mFMyZSW,mFMyZSW,male speaker's father's mother's younger sister's son's wife,Affines,,,
-fFFeBSW,fFFeBSW,female speaker's father's father's elder brother's son's wife,Affines,,,
-fFFyBSW,fFFyBSW,female speaker's father's father's younger brother's son's wife,Affines,,,
-fFFeZSW,fFFeZSW,female speaker's father's father's elder sister's son's wife,Affines,,,
-fFFyZSW,fFFyZSW,female speaker's father's father's younger sister's son's wife,Affines,,,
-fFMeBSW,fFMeBSW,female speaker's father's mother's elder brother's son's wife,Affines,,,
-fFMyBSW,fFMyBSW,female speaker's father's mother's younger brother's son's wife,Affines,,,
-fFMeZSW,fFMeZSW,female speaker's father's mother's elder sister's son's wife,Affines,,,
-fFMyZSW,fFMyZSW,female speaker's father's mother's younger sister's son's wife,Affines,,,
-mFBWB,mFBWB,male speaker's father's brother's wife's brother,Affines,,,
-fFBWB,fFBWB,female speaker's father's brother's wife's brother,Affines,,,
-mFBWBW,mFBWBW,female speaker's father's brother's wife's brother's wife,Affines,,,
-fFBWBW,fFBWBW,female speaker's father's brother's wife's brother's wife,Affines,,,
-fHFB,fHFB,female speaker's husband's father's brother,Affines,,,
-mWFB,mWFB,male speaker's wife's father's brother,Affines,,,
-fHMZH,fHMZH,female speaker's husband's mother's sister's husband,Affines,,,
-mWMZH,mWMZH,male speaker's wife's mother's sister's husband,Affines,,,
-mZHF,mZHF,male speaker's sister's husband's father,Affines,,,
-mZHFB,mZHFB,male speaker's sister's husband's father's brother,Affines,,,
-mBWF,mBWF,male speaker's brother's wife's father,Affines,,,
-fZHF,fZHF,female speaker's sister's husband's father,Affines,,,
-fZHFB,fZHFB,female speaker's sister's husband's father's brother,Affines,,,
-fBWF,fBWF,female speaker's brother's wife's father,Affines,,,
-fHFBW,fHFBW,female speaker's husband's father's brother's wife,Affines,,,
-mWFBW,mWFBW,male speaker's wife's father's brother's wife,Affines,,,
-mZHFW,mZHFW,male speaker's sister's husband's father's wife,Affines,,,
-mZHFBW,mZHFBW,male speaker's sister's husband's father's brother's wife,Affines,,,
-mBWFW,mBWFW,male speaker's brother's wife's father's wife,Affines,,,
-fZHFW,fZHFW,female speaker's sister's husband's father's wife,Affines,,,
-fZHFBW,fZHFBW,female speaker's sister's husband's father's brother's wife,Affines,,,
-fBWFW,fBWFW,female speaker's brother's wife's father's wife,Affines,,,
+mMeZH,mMeZH,male speaker's mother's elder sister's husband,Affines,,,varikin
+fMeZH,fMeZH,female speaker's mother's elder sister's husband,Affines,,,varikin
+mMyZH,mMyZH,male speaker's mother's younger sister's husband,Affines,,,varikin
+fMyZH,fMyZH,female speaker's mother's younger sister's husband,Affines,,,varikin
+mFyBW,mFyBW,male speaker's father's younger brother's wife,Affines,,,varikin
+fFyBW,fFyBW,female speaker's father's younger brother's wife,Affines,,,varikin
+mWFFB,mWFFB,male speaker's wife's father's father's brother,Affines,,,varikin
+mWFFZH,mWFFZH,male speaker's wife's father's father's sister's husband,Affines,,,varikin
+mWFMB,mWFMB,male speaker's wife's father's mother's brother,Affines,,,varikin
+mWFMZH,mWFMZH,male speaker's wife's father's mother's sister's husband,Affines,,,varikin
+mWMFB,mWMFB,male speaker's wife's mother's father's brother,Affines,,,varikin
+mWMFZH,mWMFZH,male speaker's wife's mother's father's sister's husband,Affines,,,varikin
+mWMMB,mWMMB,male speaker's wife's mother's mother's brother,Affines,,,varikin
+mWMMZH,mWMMZH,male speaker's wife's mother's mother's sister's husband,Affines,,,varikin
+fHFFZH,fHFFZH,female speaker's husband's father's father's sister's husband,Affines,,,varikin
+fHFMZH,fHFMZH,female speaker's husband's father's mother's sister's husband,Affines,,,varikin
+fHMFB,fHMFB,female speaker's husband's mother's father's brother,Affines,,,varikin
+fHMFZH,fHMFZH,female speaker's husband's mother's father's sister's husband,Affines,,,varikin
+fHMMB,fHMMB,female speaker's husband's mother's mother's brother,Affines,,,varikin
+fHMMZH,fHMMZH,female speaker's husband's mother's mother's sister's husband,Affines,,,varikin
+mWFFBW,mWFFBW,male speaker's wife's father's father's brother's wife,Affines,,,varikin
+mWFMBW,mWFMBW,male speaker's wife's father's mother's brother's wife,Affines,,,varikin
+mWMFBW,mWMFBW,male speaker's wife's mother's father's brother's wife,Affines,,,varikin
+mWMFZ,mWMFZ,male speaker's wife's mother's father's sister,Affines,,,varikin
+mWMMBW,mWMMBW,male speaker's wife's mother's mother's brother's wife,Affines,,,varikin
+mWMMZ,mWMMZ,male speaker's wife's mother's mother's sister ,Affines,,,varikin
+fHFFBW,fHFFBW,female speaker's husband's father's father's brother's wife,Affines,,,varikin
+fHFFZ,fHFFZ,female speaker's husband's father's father's sister,Affines,,,varikin
+fHFMBW,fHFMBW,female speaker's husband's father's mother's brother's wife,Affines,,,varikin
+fHFMZ,fHFMZ,female speaker's husband's father's mother's sister ,Affines,,,varikin
+fHMFBW,fHMFBW,female speaker's husband's mother's father's brother's wife,Affines,,,varikin
+fHMFZ,fHMFZ,female speaker's husband's mother's father's sister,Affines,,,varikin
+fHMMBW,fHMMBW,female speaker's husband's mother's mother's brother's wife,Affines,,,varikin
+fHMMZ,fHMMZ,female speaker's husband's mother's mother's sister ,Affines,,,varikin
+mFFeBS,mFFeBS,male speaker's father's father's elder brother's son,Cousins,,,varikin
+mFFyBS,mFFyBS,male speaker's father's father's younger brother's son,Cousins,,,varikin
+mFFeZS,mFFeZS,male speaker's father's father's elder sister's son,Cousins,,,varikin
+mFFyZS,mFFyZS,male speaker's father's father's younger sister's son,Cousins,,,varikin
+mFMeBS,mFMeBS,male speaker's father's mother's elder brother's son,Cousins,,,varikin
+mFMyBS,mFMyBS,male speaker's father's mother's younger brother's son,Cousins,,,varikin
+mFMeZS,mFMeZS,male speaker's father's mother's elder sister's son,Cousins,,,varikin
+mFMyZS,mFMyZS,male speaker's father's mother's younger sister's son,Cousins,,,varikin
+fFFeBS,fFFeBS,female speaker's father's father's elder brother's son,Cousins,,,varikin
+fFFyBS,fFFyBS,female speaker's father's father's younger brother's son,Cousins,,,varikin
+fFFeZS,fFFeZS,female speaker's father's father's elder sister's son,Cousins,,,varikin
+fFFyZS,fFFyZS,female speaker's father's father's younger sister's son,Cousins,,,varikin
+fFMeBS,fFMeBS,female speaker's father's mother's elder brother's son,Cousins,,,varikin
+fFMyBS,fFMyBS,female speaker's father's mother's younger brother's son,Cousins,,,varikin
+fFMeZS,fFMeZS,female speaker's father's mother's elder sister's son,Cousins,,,varikin
+fFMyZS,fFMyZS,female speaker's father's mother's younger sister's son,Cousins,,,varikin
+mMFBDH,mMFBDH,male speaker's mother's father's brother's daughter's husband,Affines,,,varikin
+mMMBDH,mMMBDH,male speaker's mother's mother's brother's daughter's husband,Affines,,,varikin
+mMFZDH ,mMFZDH ,male speaker's mother's father's sister's daughter's husband,Affines,,,varikin
+mMMZDH,mMMZDH,male speaker's mother's mother's sister's daughter's husband,Affines,,,varikin
+fMFBDH,fMFBDH,female speaker's mother's father's brother's daughter's husband,Affines,,,varikin
+fMMBDH,fMMBDH,female speaker's mother's mother's brother's daughter's husband,Affines,,,varikin
+fMFZDH ,fMFZDH ,female speaker's mother's father's sister's daughter's husband,Affines,,,varikin
+fMMZDH,fMMZDH,female speaker's mother's mother's sister's daughter's husband,Affines,,,varikin
+mFFeBSW,mFFeBSW,male speaker's father's father's elder brother's son's wife,Affines,,,varikin
+mFFyBSW,mFFyBSW,male speaker's father's father's younger brother's son's wife,Affines,,,varikin
+mFFeZSW,mFFeZSW,male speaker's father's father's elder sister's son's wife,Affines,,,varikin
+mFFyZSW,mFFyZSW,male speaker's father's father's younger sister's son's wife,Affines,,,varikin
+mFMeBSW,mFMeBSW,male speaker's father's mother's elder brother's son's wife,Affines,,,varikin
+mFMyBSW,mFMyBSW,male speaker's father's mother's younger brother's son's wife,Affines,,,varikin
+mFMeZSW,mFMeZSW,male speaker's father's mother's elder sister's son's wife,Affines,,,varikin
+mFMyZSW,mFMyZSW,male speaker's father's mother's younger sister's son's wife,Affines,,,varikin
+fFFeBSW,fFFeBSW,female speaker's father's father's elder brother's son's wife,Affines,,,varikin
+fFFyBSW,fFFyBSW,female speaker's father's father's younger brother's son's wife,Affines,,,varikin
+fFFeZSW,fFFeZSW,female speaker's father's father's elder sister's son's wife,Affines,,,varikin
+fFFyZSW,fFFyZSW,female speaker's father's father's younger sister's son's wife,Affines,,,varikin
+fFMeBSW,fFMeBSW,female speaker's father's mother's elder brother's son's wife,Affines,,,varikin
+fFMyBSW,fFMyBSW,female speaker's father's mother's younger brother's son's wife,Affines,,,varikin
+fFMeZSW,fFMeZSW,female speaker's father's mother's elder sister's son's wife,Affines,,,varikin
+fFMyZSW,fFMyZSW,female speaker's father's mother's younger sister's son's wife,Affines,,,varikin
+mFBWB,mFBWB,male speaker's father's brother's wife's brother,Affines,,,varikin
+fFBWB,fFBWB,female speaker's father's brother's wife's brother,Affines,,,varikin
+mFBWBW,mFBWBW,female speaker's father's brother's wife's brother's wife,Affines,,,varikin
+fFBWBW,fFBWBW,female speaker's father's brother's wife's brother's wife,Affines,,,varikin
+fHFB,fHFB,female speaker's husband's father's brother,Affines,,,varikin
+mWFB,mWFB,male speaker's wife's father's brother,Affines,,,varikin
+fHMZH,fHMZH,female speaker's husband's mother's sister's husband,Affines,,,varikin
+mWMZH,mWMZH,male speaker's wife's mother's sister's husband,Affines,,,varikin
+mZHF,mZHF,male speaker's sister's husband's father,Affines,,,varikin
+mZHFB,mZHFB,male speaker's sister's husband's father's brother,Affines,,,varikin
+mBWF,mBWF,male speaker's brother's wife's father,Affines,,,varikin
+fZHF,fZHF,female speaker's sister's husband's father,Affines,,,varikin
+fZHFB,fZHFB,female speaker's sister's husband's father's brother,Affines,,,varikin
+fBWF,fBWF,female speaker's brother's wife's father,Affines,,,varikin
+fHFBW,fHFBW,female speaker's husband's father's brother's wife,Affines,,,varikin
+mWFBW,mWFBW,male speaker's wife's father's brother's wife,Affines,,,varikin
+mZHFBW,mZHFBW,male speaker's sister's husband's father's brother's wife,Affines,,,varikin
+fZHFBW,fZHFBW,female speaker's sister's husband's father's brother's wife,Affines,,,varikin
+fBWB,fBWB,female speaker's brother's wife's brother,Affines,,,varikin
+mZHB,mZHB,male speaker's sister's husband's brother,Affines,,,varikin
+fZHB,fZHB,female speaker's sister's husband's brother,Affines,,,varikin
+mWeBW,mWeBW,male speaker's wife's elder brother's wife,Affines,,,varikin
+mWyBW,mWyBW,male speaker's wife's younger brother's wife,Affines,,,varikin
+mWBSW,mWBSW,male speaker's wife's brother's son's wife,Affines,,,varikin
+mWFBSW,mWFBSW,male speaker's wife's father's brother's son's wife,Affines,,,varikin
+mWMBSW,mWMBSW,male speaker's wife's mother's brother's son's wife,Affines,,,varikin
+mWFZSW,mWFZSW,male speaker's wife's father's sister's son's wife,Affines,,,varikin
+mWMZSW,mWMZSW,male speaker's wife's mother's sister's son's wife,Affines,,,varikin
+mZHZ,mZHZ,male speaker's sister's husband's sister,Affines,,,varikin
+fZHZ,fZHZ,female speaker's sister's husband's sister,Affines,,,varikin
+mWeZH,mWeZH,male speaker's wife's elder sister's husband,Affines,,,varikin
+mWyZH,mWyZH,male speaker's wife's younger sister's husband,Affines,,,varikin
+mZHZH,mZHZH,male speaker's sister's husband's sister's husband,Affines,,,varikin
+fZHZH,fZHZH,female speaker's sister's husband's sister's husband,Affines,,,varikin
+fHFZS,fHFZS,female speaker's husband's father's sister's son,Affines,,,varikin
+fHFBSW,fHFBSW,female speaker's husband's father's brother's son's wife,Affines,,,varikin
+fHMBSW,fHMBSW,female speaker's husband's mother's brother's son's wife,Affines,,,varikin
+fHFZSW,fHFZSW,female speaker's husband's mother's brother's son's wife,Affines,,,varikin
+fHMZSW,fHMZSW,female speaker's husband's father's sister's son's wife,Affines,,,varikin
+fHFZD,fHFZD,female speaker's husband's father's sister's daughter,Affines,,,varikin
+fHeZH,fHeZH,female speaker's husband's elder sister's husband,Affines,,,varikin
+fHyZH,fHyZH,female speaker's husband's younger sister's husband,Affines,,,varikin
+mBWM,mBWM,male speaker's brother's wife's mother,Affines,,,varikin
+fBWM,fBWM,female speaker's brother's wife's mother,Affines,,,varikin
+mZHM,mZHM,male speaker's sister's husband's mother,Affines,,,varikin
+fZHM,fZHM,female speaker's sister's husband's mother,Affines,,,varikin
+fSWB,fSWB,female speaker's son's wife's brother,Affines,,,varikin
+mSWB,mSWB,male speaker's son's wife's brother,Affines,,,varikin
+fDHB,fDHB,female speaker's daughter's husband's brother,Affines,,,varikin
+mDHB,mDHB,male speaker's daughter's husband's brother,Affines,,,varikin
+fyZHB,fyZHB,female speaker's younger sister's husband's brother,Affines,,,varikin
+myZHB,myZHB,male speaker's younger sister's husband's brother,Affines,,,varikin
+fSWZ,fSWZ,female speaker's son's wife's sister,Affines,,,varikin
+mSWZ,mSWZ,male speaker's son's wife's sister,Affines,,,varikin
+fDHZ,fDHZ,female speaker's daughter's husband's sister,Affines,,,varikin
+mDHZ,mDHZ,male speaker's daughter's husband's sister,Affines,,,varikin
