@@ -1,6 +1,5 @@
 import json
 from pathlib import Path
-from textwrap import dedent
 
 import attr
 from clldutils.misc import slug
