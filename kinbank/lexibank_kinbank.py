@@ -50,9 +50,12 @@ class Dataset(BaseDataset):
 
         for filename in sorted(self.raw_dir.glob("*/*.csv")):
             lang_id = languages[filename.stem]
-            for row in self.raw_dir.read_csv(filename, dicts=True):
-
-                concept_id = concepts.get(row['parameter'], row['parameter'])
+            for lineid, row in enumerate(self.raw_dir.read_csv(filename, dicts=True), 1):
+                try:
+                    concept_id = concepts.get(row['parameter'], row['parameter'])
+                except Exception as e:
+                    print("Error getting concept_id on line %d for %s:%s" % (lineid, filename, row['parameter']))
+                    raise
 
                 # default to IPA column if present otherwise use word column
                 value = row['ipa'] if len(row['ipa']) else row['word']
