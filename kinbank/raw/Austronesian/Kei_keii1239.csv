@@ -1,4 +1,4 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,,,male speaker's sibling,,,,
 mB,,,male speaker's brother,,,,
 mZ,uran,,male speaker's sister,,p288,Godelier_Trautmann_TjonSieFat_1998,
@@ -233,9 +233,9 @@ meBW,a'an vat ,,male speaker's elder brother's wife,,p288,Godelier_Trautmann_Tjo
 mWeZ,a'an vat ,,male speaker's wife's elder sister,,p288,Godelier_Trautmann_TjonSieFat_1998,
 myBW,warin vat,,male speaker's younger brother's wife,,p288,Godelier_Trautmann_TjonSieFat_1998,
 mWyZ,warin vat,,male speaker's wife's younger sister,,p288,Godelier_Trautmann_TjonSieFat_1998,
-mBCh,yanan duan,,male speaker's brother's child,,p288,Godelier_Trautmann_TjonSieFat_1998,"written in source as ""BC"" which is assumed to be a typo of ""BCh"""
-mZCh,yanan duan,,male speaker's sister's child,,p288,Godelier_Trautmann_TjonSieFat_1998,
-mWBCh,yanan duan,,male speaker's wife's brother's child,,p288,Godelier_Trautmann_TjonSieFat_1998,
+mBC,yanan duan,,male speaker's brother's child,,p288,Godelier_Trautmann_TjonSieFat_1998,"written in source as ""BC"" which is assumed to be a typo of ""BCh"""
+mZC,yanan duan,,male speaker's sister's child,,p288,Godelier_Trautmann_TjonSieFat_1998,
+mWBC,yanan duan,,male speaker's wife's brother's child,,p288,Godelier_Trautmann_TjonSieFat_1998,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
