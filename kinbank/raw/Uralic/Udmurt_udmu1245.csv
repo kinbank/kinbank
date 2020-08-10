@@ -1,4 +1,4 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 myB,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
 myZ,suzer̃-vɩn,,,,UR17,jedygarova_udmu1245_2020,younger siblings
 meB,apay-agay,,,,UR17,jedygarova_udmu1245_2020,elder siblings
@@ -208,7 +208,7 @@ mD,nɩl,,,,UR14,karpova_udmurt_2015,
 mFF,pesʸatay,,,,UR14,karpova_udmurt_2015,
 mFM,pesʸanay,,,,UR14,karpova_udmurt_2015,
 mSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,"here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! ""Mom!""  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'"
-mSD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+mSD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
 mDS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
 mFB,agay,,,,UR14,karpova_udmurt_2015,
 mMyB,čužmurt,,,,UR14,karpova_udmurt_2015,
@@ -219,8 +219,10 @@ mZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
 myZD,suzer̃len nɩlɩz,,,,UR14,karpova_udmurt_2015,
 mFZD,apay,,,,UR14,karpova_udmurt_2015,
 mFBD,apay,,,,UR14,karpova_udmurt_2015,
-mFBeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
-mFZeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
+mFBeS,agay,,,,UR14,karpova_udmurt_2015,
+mFBeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
+mFZeS,agay,,,,UR14,karpova_udmurt_2015,
+mFZeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
 mMBS,čužodig,,,,UR14,karpova_udmurt_2015,
 mH,kar̃t,,,,UR14,karpova_udmurt_2015,
 mH,kuzpal,,,,UR14,karpova_udmurt_2015,
@@ -248,7 +250,7 @@ fD,nɩl,,,,UR14,karpova_udmurt_2015,
 fFF,pesʸatay,,,,UR14,karpova_udmurt_2015,
 fFM,pesʸanay,,,,UR14,karpova_udmurt_2015,
 fSS,piyezlen piyez,,,,UR14,karpova_udmurt_2015,"here and further both components have the possessive suffix 3SG:  nɩl-ɩz-len pi-yez girl-3SG-GEN boy-3SG. Actually all kin terms in Udmurt are used with possessive suffixes. They are not used only when adressing, e.g. anay! ""Mom!""  Except words nɩl-ɩ girl-1SG 'daughter!' and pi-ye boy-1SG 'Son!'"
-fSD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+fSD,piyezlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fDS,nɩlɩzlen piyez,,,,UR14,karpova_udmurt_2015,
 fFB,agay,,,,UR14,karpova_udmurt_2015,
 fMyB,čužmurt,,,,UR14,karpova_udmurt_2015,
@@ -259,8 +261,10 @@ fZD,apaylen (suzer̃len) nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fyZD,suzer̃len nɩlɩz,,,,UR14,karpova_udmurt_2015,
 fFZD,apay,,,,UR14,karpova_udmurt_2015,
 fFBD,apay,,,,UR14,karpova_udmurt_2015,
-fFBeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
-fFZeS,"agay, dʸdʸay",,,,UR14,karpova_udmurt_2015,
+fFBeS,agay,,,,UR14,karpova_udmurt_2015,
+fFBeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
+fFZeS,agay,,,,UR14,karpova_udmurt_2015,
+fFZeS,dʸdʸay,,,,UR14,karpova_udmurt_2015,
 fMBS,čužodig,,,,UR14,karpova_udmurt_2015,
 fH,kar̃t,,,,UR14,karpova_udmurt_2015,
 fH,kuzpal,,,,UR14,karpova_udmurt_2015,
@@ -279,64 +283,66 @@ fFZeD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
 fFZyD,apay,,,,UR14,karpova_udmurt_2015,Inferred;
 fMBeS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
 fMByS,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
-myB,vɩn,,,,UR17,karpova_udmurt_2015,younger brother; it is not used in all dialects
-meB,agay,,,,UR17,karpova_udmurt_2015,elder brother
-myZ,suzer̃,,,,UR17,karpova_udmurt_2015,younger sister
-meZ,apay,,,,UR17,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
-mP,mumɩ-bubɩ,,,,UR17,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
-mM,mumɩ,,,,UR17,karpova_udmurt_2015,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
-mC,nɩlpi,,,,UR17,karpova_udmurt_2015,a child in southern dialects
-mC,pinal,,,,UR17,karpova_udmurt_2015,a child in middle and northern dialects
-mPP,peresʸ anay-atay,,,,UR17,karpova_udmurt_2015,
-mMF,čužatay,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-mDD,nɩlɩzlen nɩlɩz,,,,UR17,karpova_udmurt_2015,
-mFZ,apay,,,,UR17,karpova_udmurt_2015,
-mMB,čužmurt,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-mMZ,čužapay,,,,UR17,karpova_udmurt_2015,
-mMZ,"čužapa, čužaka",,,,UR17,karpova_udmurt_2015,
-mMBD,čužodig,,,,UR17,karpova_udmurt_2015,
-mMZD,čužodig,,,,UR17,karpova_udmurt_2015,
-mE,kuzpaljos,,,,UR17,karpova_udmurt_2015,for both in plural form
-mHF,aymurt,,,,UR17,karpova_udmurt_2015,"the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ"
-mHM,anayzɩ,,,,UR17,karpova_udmurt_2015,"Also  memeyzɩ, nenezɩ"
-mWF,var̃may,,,,UR17,karpova_udmurt_2015,"Also var̃matay, var̃mayɩ"
-mWM,var̃mumɩ,,,,UR17,karpova_udmurt_2015,"Also var̃manay, var̃nene"
-mMH(notF),sʸuratay,,,,UR17,karpova_udmurt_2015,Also sʸurbubɩ
-mMeBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMyBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMeZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMyZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMBeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMByD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMZeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-mMZyD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fyB,vɩn,,,,UR17,karpova_udmurt_2015,younger brother; it is not used in all dialects
-feB,agay,,,,UR17,karpova_udmurt_2015,elder brother
-fyZ,suzer̃,,,,UR17,karpova_udmurt_2015,younger sister
-feZ,apay,,,,UR17,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
-fP,mumɩ-bubɩ,,,,UR17,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
-fM,mumɩ,,,,UR17,karpova_udmurt_2015,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
-fC,nɩlpi,,,,UR17,karpova_udmurt_2015,a child in southern dialects
-fC,pinal,,,,UR17,karpova_udmurt_2015,a child in middle and northern dialects
-fPP,peresʸ anay-atay,,,,UR17,karpova_udmurt_2015,
-fMF,čužatay,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-fDD,nɩlɩzlen nɩlɩz,,,,UR17,karpova_udmurt_2015,
-fFZ,apay,,,,UR17,karpova_udmurt_2015,
-fMB,čužmurt,,,,UR17,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
-fMZ,čužapay,,,,UR17,karpova_udmurt_2015,
-fMZ,"čužapa, čužaka",,,,UR17,karpova_udmurt_2015,
-fMBD,čužodig,,,,UR17,karpova_udmurt_2015,
-fMZD,čužodig,,,,UR17,karpova_udmurt_2015,
-fE,kuzpaljos,,,,UR17,karpova_udmurt_2015,for both in plural form
-fHM,anayzɩ,,,,UR17,karpova_udmurt_2015,"Also  memeyzɩ, nenezɩ"
-fWF,var̃may,,,,UR17,karpova_udmurt_2015,"Also var̃matay, var̃mayɩ"
-fWM,var̃mumɩ,,,,UR17,karpova_udmurt_2015,"Also var̃manay, var̃nene"
-fMH(notF),sʸuratay,,,,UR17,karpova_udmurt_2015,Also sʸurbubɩ
-fMeBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMyBD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMeZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMyZD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMBeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMByD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMZeD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
-fMZyD,čužodig,,,,UR17,karpova_udmurt_2015,Inferred;
+myB,vɩn,,,,UR14,karpova_udmurt_2015,younger brother; it is not used in all dialects
+meB,agay,,,,UR14,karpova_udmurt_2015,elder brother
+myZ,suzer̃,,,,UR14,karpova_udmurt_2015,younger sister
+meZ,apay,,,,UR14,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
+mP,mumɩ-bubɩ,,,,UR14,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
+mM,mumɩ,,,,UR14,karpova_udmurt_2015,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
+mC,nɩlpi,,,,UR14,karpova_udmurt_2015,a child in southern dialects
+mC,pinal,,,,UR14,karpova_udmurt_2015,a child in middle and northern dialects
+mPP,peresʸ anay-atay,,,,UR14,karpova_udmurt_2015,
+mMF,čužatay,,,,UR14,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+mDD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+mFZ,apay,,,,UR14,karpova_udmurt_2015,
+mMB,čužmurt,,,,UR14,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+mMZ,čužapay,,,,UR14,karpova_udmurt_2015,
+mMZ,čužapa,,,,UR14,karpova_udmurt_2015,
+mMZ,čužaka,,,,UR14,,
+mMBD,čužodig,,,,UR14,karpova_udmurt_2015,
+mMZD,čužodig,,,,UR14,karpova_udmurt_2015,
+mE,kuzpaljos,,,,UR14,karpova_udmurt_2015,for both in plural form
+mHF,aymurt,,,,UR14,karpova_udmurt_2015,"the form like atay-zɩ means father-PX3PL lit. 'their father' , the 3PL became lexicalized here. The same thing happens with the husband's mother. Also , ayɩmurt, atayzɩ, dʸadʸayzɩ"
+mHM,anayzɩ,,,,UR14,karpova_udmurt_2015,"Also  memeyzɩ, nenezɩ"
+mWF,var̃may,,,,UR14,karpova_udmurt_2015,"Also var̃matay, var̃mayɩ"
+mWM,var̃mumɩ,,,,UR14,karpova_udmurt_2015,"Also var̃manay, var̃nene"
+mMH(notF),sʸuratay,,,,UR14,karpova_udmurt_2015,Also sʸurbubɩ
+mMeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+mMZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fyB,vɩn,,,,UR14,karpova_udmurt_2015,younger brother; it is not used in all dialects
+feB,agay,,,,UR14,karpova_udmurt_2015,elder brother
+fyZ,suzer̃,,,,UR14,karpova_udmurt_2015,younger sister
+feZ,apay,,,,UR14,karpova_udmurt_2015,elder sister; in some dialects apa 'elder sister; aunt'
+fP,mumɩ-bubɩ,,,,UR14,karpova_udmurt_2015,mumɩ-bubɩ is used mostly in middle dialects
+fM,mumɩ,,,,UR14,karpova_udmurt_2015,"also has meaning female animal e.g. mumi puni 'female dog', it is not used when adressing"
+fC,nɩlpi,,,,UR14,karpova_udmurt_2015,a child in southern dialects
+fC,pinal,,,,UR14,karpova_udmurt_2015,a child in middle and northern dialects
+fPP,peresʸ anay-atay,,,,UR14,karpova_udmurt_2015,
+fMF,čužatay,,,,UR14,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+fDD,nɩlɩzlen nɩlɩz,,,,UR14,karpova_udmurt_2015,
+fFZ,apay,,,,UR14,karpova_udmurt_2015,
+fMB,čužmurt,,,,UR14,karpova_udmurt_2015,"relatives from mother's side have the first component čuž- which, I think, is relevent to Komi word čʸužnɩ 'to birth'"
+fMZ,čužapay,,,,UR14,karpova_udmurt_2015,
+fMZ,čužapa,,,,UR14,karpova_udmurt_2015,
+fMZ,čužaka,,,,UR15,karpova_udmurt_2015,
+fMBD,čužodig,,,,UR14,karpova_udmurt_2015,
+fMZD,čužodig,,,,UR14,karpova_udmurt_2015,
+fE,kuzpaljos,,,,UR14,karpova_udmurt_2015,for both in plural form
+fHM,anayzɩ,,,,UR14,karpova_udmurt_2015,"Also  memeyzɩ, nenezɩ"
+fWF,var̃may,,,,UR14,karpova_udmurt_2015,"Also var̃matay, var̃mayɩ"
+fWM,var̃mumɩ,,,,UR14,karpova_udmurt_2015,"Also var̃manay, var̃nene"
+fMH(notF),sʸuratay,,,,UR14,karpova_udmurt_2015,Also sʸurbubɩ
+fMeBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMyBD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMeZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMyZD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMBeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMByD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMZeD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
+fMZyD,čužodig,,,,UR14,karpova_udmurt_2015,Inferred;
