@@ -1,3 +1,4 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,ušdu,,,,ND9,khalilov_archi_2015-1,ушду
 mG,došdur,,,,ND9,khalilov_archi_2015-1,дошдур
@@ -36,22 +37,14 @@ mZS,ušmun lo,,,,ND9,khalilov_archi_2015-1,ушмун ло
 mZS,došmin lo,,,,ND9,khalilov_archi_2015-1,дошмин ло
 mZD,ušmun lo,,,,ND9,khalilov_archi_2015-1,ушмун ло
 mZD,došmin lo,,,,ND9,khalilov_archi_2015-1,дошмин ло
-mFZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 mFZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
-mFBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 mFBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
-mMBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 mMBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
-mMZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 mMZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 mFBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-mFBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 mFZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-mFZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 mMBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-mMBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 mMZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-mMZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 mH,bošor,,,,ND9,khalilov_archi_2015-1,бошор
 mW,ɬ̄onnol,,,,ND9,khalilov_archi_2015-1,лълъоннол
 mHF,waƛ̄ʼad,,,,ND9,khalilov_archi_2015-1,вакьад
@@ -97,68 +90,37 @@ meZD,došmin lo,,,,ND9,khalilov_archi_2015-1,Inferred; дошмин ло
 myZD,ušmun lo,,,,ND9,khalilov_archi_2015-1,Inferred; ушмун ло
 myZD,došmin lo,,,,ND9,khalilov_archi_2015-1,Inferred; дошмин ло
 mFeBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFeBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFyBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFyBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFeZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFeZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFyZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFyZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFeBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFeBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFyBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFyBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFeZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFeZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFyZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFyZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMeBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMeBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMyBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMyBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMeZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMeZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMyZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMyZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMeBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMeBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMyBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMyBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMeZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMeZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMyZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMyZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFBeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFBeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFByS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFByS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFZeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFZeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mFZyS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mFZyS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFBeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFBeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFByD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFByD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFZeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFZeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mFZyD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mFZyD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMBeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMBeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMByS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMByS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMZeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMZeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 mMZyS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-mMZyS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMBeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMBeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMByD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMByD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMZeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMZeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-mMZyD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 mMZyD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fG,ušdu,,,,ND9,khalilov_archi_2015-1,ушду
 fG,дошдур,,,,ND9,khalilov_archi_2015-1,дошдур
@@ -197,20 +159,13 @@ fZS,ušmun lo,,,,ND9,khalilov_archi_2015-1,ушмун ло
 fZS,došmin lo,,,,ND9,khalilov_archi_2015-1,дошмин ло
 fZD,ušmun lo,,,,ND9,khalilov_archi_2015-1,ушмун ло
 fZD,došmin lo,,,,ND9,khalilov_archi_2015-1,дошмин ло
-fFZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 fFZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
-fFBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 fFBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
-fMBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 fMBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
-fMZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 fMZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 fFBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-fFBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 fFZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-fFZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 fMBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
-fMBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,шекерттур
 fMZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,шекерттуру
 fMZS,шекерттур,,,,ND9,khalilov_archi_2015-1,шекерттур
 fH,bošor,,,,ND9,khalilov_archi_2015-1,бошор
@@ -258,66 +213,35 @@ feZD,došmin lo,,,,ND9,khalilov_archi_2015-1,Inferred; дошмин ло
 fyZD,ušmun lo,,,,ND9,khalilov_archi_2015-1,Inferred; ушмун ло
 fyZD,došmin lo,,,,ND9,khalilov_archi_2015-1,Inferred; дошмин ло
 fFeBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFeBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFyBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFyBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFeZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFeZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFyZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFyZS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFeBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFeBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFyBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFyBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFeZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFeZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFyZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFyZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMeBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMeBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMyBS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMyBS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMeZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMeZS,шекерттур,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMyZS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMyZS,шекерттур,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMeBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMeBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMyBD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMyBD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMeZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMeZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMyZD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMyZD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFBeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFBeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFByS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFByS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFZeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFZeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fFZyS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fFZyS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFBeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFBeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFByD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFByD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFZeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFZeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fFZyD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fFZyD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMBeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMBeS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMByS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMByS,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMZeS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMZeS,шекерттур,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMZyS,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
-fMZyS,шекерттур,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
 fMBeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMBeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMByD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMByD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMZeD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMZeD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
-fMZyD,šekert̄u,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттуру
 fMZyD,šekert̄ur,,,,ND9,khalilov_archi_2015-1,Inferred; шекерттур
