@@ -1,11 +1,7 @@
 ﻿ID,Parameter,Gloss,Group,Concepticon_ID,Concepticon_Gloss,Dataset
 BornSameDay,BornSameDay,Born on the Same Day,,,,parabank
 FMZD,FMZD,father's mother's sister's daughter,,,,parabank
-HB,HB,husband's brother,Affines,,,parabank
-HZ,HZ,husband's sister,Affines,,,parabank
 HusbandsSameGroup,HusbandsSameGroup,Husbands Same Group,,,,parabank
-WB,WB,wife's brother,Affines,,,parabank
-WZ,WZ,wife's sister,Affines,,,parabank
 WifesSameGroup,WifesSameGroup,Wifes Same Group,Affines,,,parabank
 fBW,fBW,female ego's brother's wife,Affines,,,varikin;parabank
 fD,fD,female ego's daughter,children,,,varikin;parabank
@@ -207,8 +203,6 @@ myBS,myBS,male ego's younger brother's son,Nieces & Nephews,,,varikin;parabank
 myZ,myZ,male ego's younger sister,Siblings,2420,YOUNGER SISTER (OF MAN),varikin;parabank
 myZD,myZD,male ego's younger sister's daughter,Nieces & Nephews,,,varikin;parabank
 myZS,myZS,male ego's younger sister's son,Nieces & Nephews,,,varikin;parabank
-sibling,sibling,Sibling,Siblings,,,parabank
-spouse,spouse,Spouse,Affines,,,parabank
 f_a_eZD,f(a)eZD,female ego's agnatic elder sister's daughter,Nieces & Nephews,,,varikin
 f_a_eZS,f(a)eZS,female ego's agnatic elder sister's son,Nieces & Nephews,,,varikin
 f_a_yZD,f(a)yZD,female ego's agnatic younger sister's daughter,Nieces & Nephews,,,varikin
@@ -292,7 +286,7 @@ fPP,fPP,female ego's parents' parent,Grandparents & -children,,,varikin
 fSSC,fSSC,female ego's son's son's child,Grandparents & -children,,,varikin
 fSWF,fSWF,female ego's son's wife's father,Affines,,,varikin
 fSWM,fSWM,female ego's son's wife's mother,Affines,,,varikin
-fTW,fTW,female ego's twin,Siblings,,,varikin
+fTW,fT,female ego's twin,Siblings,,,varikin
 fW,fW,female ego's wife,Affines,,,varikin
 fWB,fWB,female ego's wife's brother,Affines,,,varikin
 fWBW,fWBW,female ego's wife's brother's wife,Affines,,,varikin
@@ -441,7 +435,7 @@ mP,mP,male ego's parent,,,,varikin
 mPP,mPP,male ego's parent's parent,,,,varikin
 mSWF,mSWF,male ego's son's wife's father,Affines,,,varikin
 mSWM,mSWM,male ego's son's wife's mother,Affines,,,varikin
-mTW,mTW,male ego's twin,,,,varikin
+mTW,mT,male ego's twin,Siblings,,,varikin
 mWFBD,mWFBD,male ego's wife's father's brother's daughter,Affines,,,varikin
 mWFBS,mWFBS,male ego's wife's father's brother's son,Affines,,,varikin
 mWFZD,mWFZD,male ego's wife's father's sister's daughter,Affines,,,varikin
@@ -576,15 +570,7 @@ mFAff,mFAff,male ego's female affines,,,,
 fHBSW,fHBSW,female ego's husband's brother's son's wife,Affines,,,
 fMAff,fMAff,female ego's male affines,,,,
 fFAff,fFAff,female ego's female affines,,,,
-meHB,meHB,male ego's elder husband's brother,Affines,,,
-myHB,myHB,male ego's younger husband's brother,Affines,,,
-meHZ,meHZ,male ego's elder husband's sister,Affines,,,
-myHZ,myHZ,male ego's younger husband's sister,Affines,,,
 mWSH,mWSH,male ego's wife's son's husband,Affines,,,
-feHB,feHB,female ego's elder husband's brother,Affines,,,
-fyHB,fyHB,female ego's younger husband's brother,Affines,,,
-feHZ,feHZ,female ego's elder husband's sister,Affines,,,
-fyHZ,fyHZ,female ego's younger husband's sister,Affines,,,
 mHBDS,mHBDS,male ego's husband's brother's daughter's son,Affines,,,
 mHMBS,mHMBS,male ego's husband's mother's brother's son,Affines,,,
 mWS_notS,mWS(notS),male ego's wife's son (not ego's son),Affines,,,varikin
@@ -963,4 +949,6 @@ fHMF,fHMF,female speaker's husband's mother's father,Affines,,,varikin
 mWMM,mWMM,male speaker's wife's mother's mother,Affines,,,varikin
 fHMM,fHMM,female speaker's husband's mother's mother,Affines,,,varikin
 fHFM,fHFM,female speaker's husband's father's mother,Affines,,,varikin
-mZC,mZC,male speaker's sister's child,Nieces & Nephews,,,
+mZC,mZC,male speaker's sister's child,Nieces & Nephews,,,varikin
+mHeZ,mHeZ,male speaker's husband's elder sister,Affines,,,varikin
+mHyZ,mHyZ,male speaker's husband's younger sister,Affines,,,varikin

@@ -1,4 +1,4 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 meB,"tai, tai kpur",tai k͡pur,male speaker's older brother,,,,"(=VOC, ref= kpaalu-POSS)"
 myB,tai ses,tai sɛs,male speaker's younger brother,,,,
 feB,"tai, tai kpur",,female speaker's older brother,,,,
@@ -65,7 +65,8 @@ fHM,ati,,female speaker's husband's mother,,,,
 mWM,ati,,male speaker's wife's mother,,,,
 fHF,apu,,female speaker's husband's father,,,,
 mWF,apu,,male speaker's wife's father,,,,
-spouse,nanre nafenrin,,male or female person’s spouse,,,,
+mE,nanre nafenrin,,male speaker's spouse,,,,
+fE,nanre nafenrin,,female speaker’s spouse,,,,
 mFBeS,"tai, tai kpur",,male speaker‘s father‘s brother‘s older son,,,,
 mFByS,tai ses,,male speaker‘s father‘s brother‘s younger son,,,,
 mFBeD,tet kpur,,male speaker‘s father‘s brother‘s older daughter,,,,

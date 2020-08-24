@@ -1,4 +1,4 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 meB,natwé (dwe),naˈtwe,male ego's older brother,,,,unpossessed dwe ‘mister’ as a generic noun or form of address
 myB,naldani (nani),naˈɮaɲi,male ego's younger brother,,,,younger sibling of same sex
 feB,natwé (dwe),naˈtwe,female ego's older brother,,,,
@@ -23,14 +23,22 @@ fSS,natukkwa (tukkwa),,female ego's son's son,,,,
 fSD,natukkwa (tukkwa),,female ego's son's daughter,,,,
 fDS,natukkwa (tukkwa),,female ego's daughter's son,,,,
 fDD,natukkwa (tukkwa),,female ego's daugher's daughter,,,,
-mFF,"nabama (mama), nahate dweba (hate dweba)",naˈbama,male ego's father‘s father,,,,unpossessed mama ‘sun’
-mFM,"nasaka (saka), nahaba wẽzhu (haba wẽzhu)",naˈsaχa,male ego's father's mother,,,,unpossessed saka ‘moon’
-mMF,"nabama (mama), nahate dweba (hate dweba)",,male ego's mother's father,,,,
-mMM,"nasaka (saka), nahaba wẽzhu (haba wẽzhu)",,male ego's mother's mother,,,,
-fFF,"nabama (mama), nahate dweba (hate dweba)",,female ego's father's father,,,,
-fFM,"nasaka (saka), nahaba wẽzhu (haba wẽzhu)",,female ego's father's mother,,,,
-fMF,"nabama (mama), nahate dweba (hate dweba)",,female ego's mother's father,,,,
-fMM,"nasaka (saka), nahaba wẽzhu (haba wẽzhu)",,female ego's mother's mother,,,,
+mFF,nabama (mama),naˈbama,male ego's father‘s father,,,,unpossessed mama ‘sun’
+mFF,nahate dweba (hate dweba),,male ego's father‘s father,,,,
+mFM,nasaka (saka),naˈsaχa,male ego's father's mother,,,,unpossessed saka ‘moon’
+mFM,nahaba wẽzhu (haba wẽzhu),,male ego's father's mother,,,,
+mMF,nabama (mama),,male ego's mother's father,,,,
+mMF,nahate dweba (hate dweba),,male ego's mother's father,,,,
+mMM,nasaka (saka),,male ego's mother's mother,,,,
+mMM,nahaba wẽzhu (haba wẽzhu),,male ego's mother's mother,,,,
+fFF,nabama (mama),,female ego's father's father,,,,
+fFF,nahate dweba (hate dweba),,female ego's father's father,,,,
+fFM,nasaka (saka),,female ego's father's mother,,,,
+fFM,nahaba wẽzhu (haba wẽzhu),,female ego's father's mother,,,,
+fMF,nabama (mama),,female ego's mother's father,,,,
+fMF,nahate dweba (hate dweba),,female ego's mother's father,,,,
+fMM,nasaka (saka),,female ego's mother's mother,,,,
+fMM,nahaba wẽzhu (haba wẽzhu),,female ego's mother's mother,,,,
 meBS,naskwá (sukkwa),,male ego's older brother's son,,,,no dedicated term
 myBS,naskwá (sukkwa),,male ego's younger brother's son,,,,
 meZS,naskwá (sukkwa),,male ego's older sister's son,,,,
