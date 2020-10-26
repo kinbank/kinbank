@@ -3,4 +3,5 @@ env
 __pycache__
 raw/parabank
 raw/varikin
-
+*.zenodo.json
+kinbank/cldf/.transcription-report.json
