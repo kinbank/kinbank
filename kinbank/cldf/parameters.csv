@@ -1,8 +1,5 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Parameter,Group,Dataset
-BornSameDay,Born on the Same Day,,,BornSameDay,,parabank
 FMZD,father's mother's sister's daughter,,,FMZD,,parabank
-HusbandsSameGroup,Husbands Same Group,,,HusbandsSameGroup,,parabank
-WifesSameGroup,Wifes Same Group,,,WifesSameGroup,Affines,parabank
 fBW,female ego's brother's wife,,,fBW,Affines,varikin;parabank
 fD,female ego's daughter,,,fD,children,varikin;parabank
 fDD,female ego's daugher's daughter,,,fDD,Grandparents & -children,varikin;parabank
@@ -30,13 +27,9 @@ fFZyS,female ego‘s father‘s sisters‘s younger son,,,fFZyS,Cousins by relat
 fFeB,female ego's father's older brother,,,fFeB,Uncles & Aunts,varikin;parabank
 fFeBD,female ego's father‘s older brother‘s daughter,,,fFeBD,Cousins by relative age of parent,varikin;parabank
 fFeBS,female ego's father‘s older brother‘s son,,,fFeBS,Cousins by relative age of parent,varikin;parabank
-fFeBW,fFeBW,,,fFeBW,,parabank
 fFeZ,female ego's father's older sister,,,fFeZ,Uncles & Aunts,varikin;parabank
 fFeZD,female ego's father‘s older sister‘s daughter,,,fFeZD,Cousins by relative age of parent,varikin;parabank
 fFeZS,female ego's father‘s older sister‘s son,,,fFeZS,Cousins by relative age of parent,varikin;parabank
-fFexchangeZ,fFexchangeZ,,,fFexchangeZ,,parabank
-fFexchangeZD,fFexchangeZD,,,fFexchangeZD,,parabank
-fFexchangeZS,fFexchangeZS,,,fFexchangeZS,,parabank
 fFyB,female ego's father's younger brother,,,fFyB,Uncles & Aunts,varikin;parabank
 fFyBD,female ego‘s father‘s younger brother‘s daughter,,,fFyBD,Cousins by relative age of parent,varikin;parabank
 fFyBS,female ego‘s father‘s younger brother‘s son,,,fFyBS,Cousins by relative age of parent,varikin;parabank
@@ -48,7 +41,6 @@ fHB,female ego's husband's brother,,,fHB,Affines,varikin;parabank
 fHBW,female ego's husband's brother's wife,,,fHBW,Affines,parabank
 fHF,female ego's husband's father,2254,FATHER-IN-LAW (OF WOMAN),fHF,Affines,varikin;parabank
 fHM,female ego's husband's mother,2256,MOTHER-IN-LAW (OF WOMAN),fHM,Affines,varikin;parabank
-fHW,female ego's husband's wife,,,fHW,Affines,varikin;parabank
 fHZ,female ego's husband's sister,,,fHZ,Affines,varikin;parabank
 fHZH,female ego's husband's sister's husband,,,fHZH,Affines,varikin;parabank
 fM,female ego's mother,,,fM,Parents,varikin;parabank
@@ -76,7 +68,6 @@ fMeBS,female ego's mother‘s older brother‘s son,,,fMeBS,Cousins by relative 
 fMeZ,female ego's mother's older sister,,,fMeZ,Uncles & Aunts,varikin;parabank
 fMeZD,female ego's mother‘s older sister‘s daughter,,,fMeZD,Cousins by relative age of parent,varikin;parabank
 fMeZS,female ego's mother‘s older sister‘s son,,,fMeZS,Cousins by relative age of parent,varikin;parabank
-fMexchangeB,fMexchangeB,,,fMexchangeB,,parabank
 fMyB,female ego's mother's younger brother,,,fMyB,Uncles & Aunts,varikin;parabank
 fMyBD,female ego‘s mother‘s younger brother‘s daughter,,,fMyBD,Cousins by relative age of parent,varikin;parabank
 fMyBS,female ego‘s mother‘s younger brother‘s son,,,fMyBS,Cousins by relative age of parent,varikin;parabank
@@ -94,8 +85,6 @@ feBS,female ego's older brother's son,,,feBS,Nieces & Nephews,varikin;parabank
 feZ,female ego's older sister,2419,OLDER SISTER (OF WOMAN),feZ,Siblings,varikin;parabank
 feZD,female ego's older sister's daughter,,,feZD,Nieces & Nephews,varikin;parabank
 feZS,female ego's older sister's son,,,feZS,Nieces & Nephews,varikin;parabank
-fexchangeB,fexchangeB,,,fexchangeB,,parabank
-fexchangeBW,fexchangeBW,,,fexchangeBW,,parabank
 fyB,female ego's younger brother,2417,YOUNGER BROTHER (OF WOMAN),fyB,Siblings,varikin;parabank
 fyBD,female ego's younger brother's daughter,,,fyBD,Nieces & Nephews,varikin;parabank
 fyBS,female ego's younger brother's son,,,fyBS,Nieces & Nephews,varikin;parabank
@@ -130,13 +119,9 @@ mFZyS,male ego‘s father‘s sisters‘s younger son,,,mFZyS,Cousins by relativ
 mFeB,male ego's father's older brother,,,mFeB,Uncles & Aunts,varikin;parabank
 mFeBD,male ego's father‘s older brother‘s daughter,,,mFeBD,Cousins by relative age of parent,varikin;parabank
 mFeBS,male ego's father‘s older brother‘s son,,,mFeBS,Cousins by relative age of parent,varikin;parabank
-mFeBW,male ego's father‘s older brother‘s wife,,,mFeBW,Affines,parabank
 mFeZ,male ego's father's older sister,,,mFeZ,Uncles & Aunts,varikin;parabank
 mFeZD,male ego's father‘s older sister‘s daughter,,,mFeZD,Cousins by relative age of parent,varikin;parabank
 mFeZS,male ego's father‘s older sister‘s son,,,mFeZS,Cousins by relative age of parent,varikin;parabank
-mFexchangeZ,mFexchangeZ,,,mFexchangeZ,,parabank
-mFexchangeZD,mFexchangeZD,,,mFexchangeZD,,parabank
-mFexchangeZS,mFexchangeZS,,,mFexchangeZS,,parabank
 mFyB,male ego's father's younger brother,,,mFyB,Uncles & Aunts,varikin;parabank
 mFyBD,male ego‘s father‘s younger brother‘s daughter,,,mFyBD,Cousins by relative age of parent,varikin;parabank
 mFyBS,male ego‘s father‘s younger brother‘s son,,,mFyBS,Cousins by relative age of parent,varikin;parabank
@@ -168,7 +153,6 @@ mMeBS,male ego's mother‘s older brother‘s son,,,mMeBS,Cousins by relative ag
 mMeZ,male ego's mother's older sister,,,mMeZ,Uncles & Aunts,varikin;parabank
 mMeZD,male ego's mother‘s older sister‘s daughter,,,mMeZD,Cousins by relative age of parent,varikin;parabank
 mMeZS,male ego's mother‘s older sister‘s son,,,mMeZS,Cousins by relative age of parent,varikin;parabank
-mMexchangeB,mMexchangeB,,,mMexchangeB,,parabank
 mMyB,male ego's mother's younger brother,,,mMyB,Uncles & Aunts,varikin;parabank
 mMyBD,male ego‘s mother‘s younger brother‘s daughter,,,mMyBD,Cousins by relative age of parent,varikin;parabank
 mMyBS,male ego‘s mother‘s younger brother‘s son,,,mMyBS,Cousins by relative age of parent,varikin;parabank
@@ -195,20 +179,12 @@ meBS,male ego's older brother's son,,,meBS,Nieces & Nephews,varikin;parabank
 meZ,male ego's older sister,2418,OLDER SISTER (OF MAN),meZ,Siblings,varikin;parabank
 meZD,male ego's older sister's daughter,,,meZD,Nieces & Nephews,varikin;parabank
 meZS,male ego's older sister's son,,,meZS,Nieces & Nephews,varikin;parabank
-mexchangeZ,mexchangeZ,,,mexchangeZ,,parabank
-mexchangeZH,mexchangeZH,,,mexchangeZH,,parabank
 myB,male ego's younger brother,2416,YOUNGER BROTHER (OF MAN),myB,Siblings,varikin;parabank
 myBD,male ego's younger brother's daughter,,,myBD,Nieces & Nephews,varikin;parabank
 myBS,male ego's younger brother's son,,,myBS,Nieces & Nephews,varikin;parabank
 myZ,male ego's younger sister,2420,YOUNGER SISTER (OF MAN),myZ,Siblings,varikin;parabank
 myZD,male ego's younger sister's daughter,,,myZD,Nieces & Nephews,varikin;parabank
 myZS,male ego's younger sister's son,,,myZS,Nieces & Nephews,varikin;parabank
-f_a_eZD,female ego's agnatic elder sister's daughter,,,f(a)eZD,Nieces & Nephews,varikin
-f_a_eZS,female ego's agnatic elder sister's son,,,f(a)eZS,Nieces & Nephews,varikin
-f_a_yZD,female ego's agnatic younger sister's daughter,,,f(a)yZD,Nieces & Nephews,varikin
-f_a_yZS,female ego's agnatic younger sister's son,,,f(a)yZS,Nieces & Nephews,varikin
-f_c_MeZ,female ego's cognatic mother's elder sister,,,f(c)MeZ,Uncles & Aunts,varikin
-f_c_MyZ,female ego's cognatic mother's younger sister,,,f(c)MyZ,Uncles & Aunts,varikin
 fA,female ego's ancestor,,,fA,Grandparents & -children,varikin
 fB,female ego's brother,,,fB,Siblings,varikin
 fBCC,female ego's brother's child,,,fBCC,Nieces & Nephews,varikin
@@ -226,16 +202,6 @@ fFBSD,female ego's father's brother's son's daughter,,,fFBSD,Grandparents & -chi
 fFBSS,female ego's father's brother's son's son,,,fFBSS,Grandparents & -children,varikin
 fFBSW,female ego's father's brother's son's wife,,,fFBSW,Affines,varikin
 fFBW,female ego's father's brother's wife,,,fFBW,Affines,varikin
-fFFBDyD,female ego's father's father's brother's daughter's younger daughter,,,fFFBDyD,Grandparents & -children,varikin
-fFFBDyS,female ego's father's father's brother's daughter's younger son,,,fFFBDyS,,varikin
-fFFBSS,female ego's father's father's brother's son's son,,,fFFBSS,,varikin
-fFFBSeD,female ego's father's father's brother's son's elder daughter,,,fFFBSeD,,varikin
-fFFBSyD,female ego's father's father's brother's son's younger daughter,,,fFFBSyD,,varikin
-fFMZDyD,female ego's father's mother's sister's daughter's younger daughter,,,fFMZDyD,,varikin
-fFMZDyS,female ego's father's mother's sister's daughter's younger son,,,fFMZDyS,,varikin
-fFMZSS,female ego's father's mother's sister's son's elder daughter,,,fFMZSS,,varikin
-fFMZSeD,female ego's father's mother's sister's son's elder daughter,,,fFMZSeD,,varikin
-fFMZSyD,female ego's father's mother's sister's son's younger daughter,,,fFMZSyD,,varikin
 fFW_notM,female ego's father's wife (not mother),,,fFW(notM),Affines,varikin
 fFZ,female ego's father's sister,,,fFZ,Uncles & Aunts,varikin
 fFZDD,female ego's father's sister's daughter,,,fFZDD,Cousins,varikin
@@ -244,36 +210,15 @@ fFZH,female ego's father's sister's husband,,,fFZH,Affines,varikin
 fFZSD,female ego's father's sister's son's daughter,,,fFZSD,Nieces & Nephews,varikin
 fFZSS,female ego's father's sister's son,,,fFZSS,Cousins,varikin
 fG,female ego's grandparent,,,fG,Grandparents & -children,varikin
-fHBD,female ego's husband's brother's daughter,,,fHBD,Affines,varikin
-fHBS,female ego's husband's brother's son,,,fHBS,Affines,varikin
-fHFBD,female ego's husband's father's brother's daughter,,,fHFBD,Affines,varikin
-fHMZ,female ego's husband's mother's sister,,,fHMZ,Affines,varikin
-fHMZD,female ego's husband's mother's sister's daughter,,,fHMZD,Affines,varikin
 fHeB,female ego's husband's elder brother,,,fHeB,Affines,varikin
-fHeBW,female ego's husband's elder brother's wife,,,fHeBW,Affines,varikin
 fHyB,female ego's husband's younger brother,,,fHyB,Affines,varikin
-fHyBW,female ego's husband's younger brother's wife,,,fHyBW,Affines,varikin
 fMB,female ego's mother's brother,,,fMB,Uncles & Aunts,varikin
 fMBDD,female ego's mother's brother's daughter,,,fMBDD,Cousins,varikin
 fMBDS,female ego's mother's brother's daughter's son,,,fMBDS,Nieces & Nephews,varikin
 fMBSD,female ego's mother's brother's son's daughter,,,fMBSD,Nieces & Nephews,varikin
 fMBSS,female ego's mother's brother's son,,,fMBSS,Cousins,varikin
 fMBW,female ego's mother's brother's wife,,,fMBW,Affines,varikin
-fMFBDS,female ego's mother's father's brother's daughter's son,,,fMFBDS,,varikin
-fMFBDeD,female ego's mother's father's brother's daughter's elder daughter,,,fMFBDeD,,varikin
-fMFBDyD,female ego's mother's father's brother's daughter's younger daughter,,,fMFBDyD,,varikin
-fMFBSyS,female ego's mother's father's brother's son's younger son,,,fMFBSyS,,varikin
 fMH_notF,female ego's mother's husband (not father),,,fMH(notF),Affines,varikin
-fMMBD,female ego's mother's mother's brother's daughter's,,,fMMBD,,varikin
-fMMBS,female ego's mother's mother's brother's son,,,fMMBS,,varikin
-fMMZ,female ego's mother's mother's sister,,,fMMZ,,varikin
-fMMZD,female ego's mother's mother's sister's daughter,,,fMMZD,,varikin
-fMMZDS,female ego's mother's mother's sister's daughter's son,,,fMMZDS,,varikin
-fMMZDeD,female ego's mother's mother's sister's daughter's elder daughter,,,fMMZDeD,,varikin
-fMMZDyD,female ego's mother's mother's sister's daughter's younger daughter,,,fMMZDyD,,varikin
-fMMZS,female ego's mother's mother's sister's son,,,fMMZS,,varikin
-fMMZSyD,female ego's mother's mother's sister's son's younger daughter,,,fMMZSyD,,varikin
-fMMZSyS,female ego's mother's mother's sister's son's younger son,,,fMMZSyS,,varikin
 fMZ,female ego's mother's sister,,,fMZ,Uncles & Aunts,varikin
 fMZDD,female ego's mother's sister's daughter's daughter,,,fMZDD,,varikin
 fMZDS,female ego's mother's sister's daughter's son,,,fMZDS,,varikin
@@ -283,58 +228,27 @@ fMZSS,female ego's mother's sister's son's son,,,fMZSS,,varikin
 fMZSW,female ego's mother's sister's son's wife,,,fMZSW,Affines,varikin
 fP,female ego's parent,,,fP,,varikin
 fPP,female ego's parents' parent,,,fPP,Grandparents & -children,varikin
-fSSC,female ego's son's son's child,,,fSSC,Grandparents & -children,varikin
 fSWF,female ego's son's wife's father,,,fSWF,Affines,varikin
 fSWM,female ego's son's wife's mother,,,fSWM,Affines,varikin
-fTW,female ego's twin,,,fT,Siblings,varikin
 fW,female ego's wife,,,fW,Affines,varikin
 fWB,female ego's wife's brother,,,fWB,Affines,varikin
-fWBW,female ego's wife's brother's wife,,,fWBW,Affines,varikin
 fWF,female ego's wife's father,,,fWF,Affines,varikin
 fWM,female ego's wife's mother,,,fWM,Affines,varikin
 fWZ,female ego's wife's sister,,,fWZ,Affines,varikin
-fWZH,female ego's wife's sister's husband,,,fWZH,Affines,varikin
 fWeZ,female ego's wife's elder sister,,,fWeZ,Affines,varikin
-fWyB,female ego's wife's younger brother,,,fWyB,Affines,varikin
 fWyZ,female ego's wife's younger sister,,,fWyZ,Affines,varikin
 fZ,female ego's sister,,,fZ,Siblings,varikin
 fZD,female ego's sister's daughter,,,fZD,Nieces & Nephews,varikin
-fZDD,female ego's sister's daughter's daughter,,,fZDD,,varikin
 fZDH,female ego's sister's daughter's husband,,,fZDH,Affines,varikin
-fZDS,female ego's sister's daughter's son,,,fZDS,,varikin
 fZS,female ego's sister's son,,,fZS,,varikin
 fZSW,female ego's sister's son's wife,,,fZSW,Affines,varikin
 f_co_H,female ego's co- husband,,,fco-H,Affines,varikin
 f_co_W,female ego's co- wife,,,fco-W,Affines,varikin
 feBW,female ego's elder brother's wife,,,feBW,Affines,varikin
-feD,female ego's elder daughter,,,feD,Siblings,varikin
-feS,female ego's elder son,,,feS,Siblings,varikin
 feZH,female ego's elder sister's husband,,,feZH,Affines,varikin
 fyBW,female ego's younger brother wife,,,fyBW,Affines,varikin
-fyD,female ego's younger daughter,,,fyD,Siblings,varikin
 fyS,female ego's younger son,,,fyS,Siblings,varikin
-fySW,female ego's younger son's wife,,,fySW,Affines,varikin
 fyZH,female ego's younger sister's husband,,,fyZH,Affines,varikin
-m_a_eBD,male ego's agnatic elder brother's daughter,,,m(a)eBD,Nieces & Nephews,varikin
-m_a_eBS,male ego's agnatic elder brother's son,,,m(a)eBS,Nieces & Nephews,varikin
-m_a_eZD,male ego's agnatic elder sister's daughter,,,m(a)eZD,Nieces & Nephews,varikin
-m_a_eZS,male ego's agnatic elder sister's son,,,m(a)eZS,Nieces & Nephews,varikin
-m_a_yBD,male ego's agnatic younger brother's daughter,,,m(a)yBD,Nieces & Nephews,varikin
-m_a_yBS,male ego's agnatic younger brother's son,,,m(a)yBS,Nieces & Nephews,varikin
-m_a_yZD,male ego's agnatic younger sister's daughter,,,m(a)yZD,Nieces & Nephews,varikin
-m_a_yZS,male ego's agnatic younger sister's son,,,m(a)yZS,Nieces & Nephews,varikin
-m_c_BC,male ego's cognatic brother's child,,,m(c)BC,Nieces & Nephews,varikin
-m_c_MeZ,male ego's cognatic mother's elder sister,,,m(c)MeZ,Uncles & Aunts,varikin
-m_c_MyZ,male ego's cognatic mother's younger sister,,,m(c)MyZ,Uncles & Aunts,varikin
-m_c_ZC,male ego's cognatic sister's child,,,m(c)ZC,Nieces & Nephews,varikin
-m_c_eBD,male ego's cognatic elder brother's daughter,,,m(c)eBD,Nieces & Nephews,varikin
-m_c_eBS,male ego's cognatic elder brother's son,,,m(c)eBS,Nieces & Nephews,varikin
-m_c_eZD,male ego's cognatic elder sister's daughter,,,m(c)eZD,Nieces & Nephews,varikin
-m_c_eZS,male ego's cognatic elder sister's son,,,m(c)eZS,Nieces & Nephews,varikin
-m_c_yBD,male ego's cognatic younger brother's daughter,,,m(c)yBD,Nieces & Nephews,varikin
-m_c_yBS,male ego's cognatic younger brother's son,,,m(c)yBS,Nieces & Nephews,varikin
-m_c_yZD,male ego's cognatic younger sister's daughter,,,m(c)yZD,Nieces & Nephews,varikin
-m_c_yZS,male ego's cognatic younger sister's son,,,m(c)yZS,Nieces & Nephews,varikin
 mA,male ego's ancestor,,,mA,Grandparents & -children,varikin
 mB,male ego's brother,,,mB,Siblings,varikin
 mBCC,male ego's brother's child,,,mBCC,Nieces & Nephews,varikin
@@ -348,83 +262,34 @@ mE,male ego's spouse,,,mE,Affines,varikin
 mFB,male ego's father's brother,,,mFB,Uncles & Aunts,varikin
 mFBDD,male ego's father's brother's daughter's daughter,,,mFBDD,,varikin
 mFBDS,male ego's father's brother's daughter's son,,,mFBDS,,varikin
-mFBSD,male ego's father's brother's son's daughter,,,mFBSD,,varikin
 mFBSS,male ego's father's brother's son's son,,,mFBSS,,varikin
 mFBW,male ego's father's brother's wife,,,mFBW,Affines,varikin
 mFFB,male ego's father's father's brother,,,mFFB,,varikin
-mFFBD,male ego's father's father's brother's daughter,,,mFFBD,,varikin
-mFFBDeD,male ego's father's father's brother's daughter's elder daughter,,,mFFBDeD,,varikin
-mFFBDeS,male ego's father's father's brother's daughter's elder son,,,mFFBDeS,,varikin
-mFFBS,male ego's father's father's brother's son,,,mFFBS,,varikin
-mFFBSD,male ego's father's father's brother's son daughter,,,mFFBSD,,varikin
-mFFBSeS,male ego's father's father's brother's son's elder son,,,mFFBSeS,,varikin
-mFFBSyS,male ego's father's father's brother's son's younger son,,,mFFBSyS,,varikin
 mFFZ,male ego's father's father's sister,,,mFFZ,,varikin
 mFMB,male ego's father's mother's brother,,,mFMB,,varikin
 mFMZ,male ego's father's mother's sister,,,mFMZ,,varikin
-mFMZD,male ego's father's mother's sister's daughter,,,mFMZD,,varikin
-mFMZDeD,male ego's father's mother's sister's daughter's elder daughter,,,mFMZDeD,,varikin
-mFMZDeS,male ego's father's mother's sister's daughter's elder son,,,mFMZDeS,,varikin
-mFMZS,male ego's father's mother's sister's son,,,mFMZS,,varikin
-mFMZSD,male ego's father's mother's sister's son's daughter,,,mFMZSD,,varikin
-mFMZSeS,male ego's father's mother's sister's son's elder son,,,mFMZSeS,,varikin
-mFMZSyS,male ego's father's mother's sister's son's younger son,,,mFMZSyS,,varikin
 mFW_notM,male ego's father's wife (not mother),,,mFW(notM),Affines,varikin
 mFZ,male ego's father's sister,,,mFZ,Uncles & Aunts,varikin
 mFZDD,male ego's father's sister's daughter's daughter,,,mFZDD,,varikin
 mFZDS,male ego's father's sister's daughter's son,,,mFZDS,,varikin
-mFZDyD,male ego's father's sister's daughter's younger daughter,,,mFZDyD,,varikin
-mFZDyS,male ego's father's sister's daughter's younger son,,,mFZDyS,,varikin
 mFZH,male ego's father's sister's husband,,,mFZH,Affines,varikin
-mFZSD,male ego's father's sister's son's daughter,,,mFZSD,,varikin
 mFZSS,male ego's father's sister's son's son,,,mFZSS,,varikin
 mG,male ego's Grandparent,,,mG,,varikin
 mH,male ego's husband,,,mH,Affines,varikin
 mHB,male ego's husband's brother,,,mHB,Affines,varikin
-mHBD,male ego's husband's brother's daughter,,,mHBD,,varikin
-mHBS,male ego's husband's brother's son,,,mHBS,Affines,varikin
 mHF,male ego's husband's father,,,mHF,Affines,varikin
 mHM,male ego's husband's mother,,,mHM,Affines,varikin
-mHW,male ego's husband's wife,,,mHW,Affines,varikin
 mHZ,male ego's husband's sister,,,mHZ,Affines,varikin
-mHZH,male ego's husband's sister's husband,,,mHZH,Affines,varikin
-mHeB,male ego's husband's elder brother,,,mHeB,Affines,varikin
-mHeBW,male ego's husband's elder brother's wife,,,mHeBW,Affines,varikin
-mHyB,male ego's husband's younger brother,,,mHyB,Affines,varikin
-mHyBW,male ego's husband's younger brother's wife,,,mHyBW,Affines,varikin
 mMB,male ego's mother's brother,,,mMB,Uncles & Aunts,varikin
 mMBDD,male ego's mother's brother's daughter's daughter,,,mMBDD,,varikin
 mMBDS,male ego's mother's brother's daughter's son,,,mMBDS,,varikin
-mMBDyD,male ego's mother's brother's daughter's younger daughter,,,mMBDyD,,varikin
-mMBDyS,male ego's mother's brother's daughter's younger son,,,mMBDyS,,varikin
 mMBSD,male ego's mother's brother's son's daughter,,,mMBSD,,varikin
 mMBSS,male ego's mother's brother's son's son,,,mMBSS,,varikin
 mMBW,male ego's mother's brother's wife,,,mMBW,Affines,varikin
-mMFB,male ego's mother's father's brother,,,mMFB,,varikin
-mMFBD,male ego's mother's father's brother's daughter,,,mMFBD,,varikin
-mMFBDD,male ego's mother's father's brother's daughter's daughter,,,mMFBDD,,varikin
-mMFBDeS,male ego's mother's father's brother's daughter's elder son,,,mMFBDeS,,varikin
-mMFBDyS,male ego's mother's father's brother's daughter's younger son,,,mMFBDyS,,varikin
-mMFBS,male ego's mother's father's brother's son,,,mMFBS,,varikin
-mMFBSeD,male ego's mother's father's brother's son's elder daughter,,,mMFBSeD,,varikin
-mMFBSeS,male ego's mother's father's brother's son's elder son,,,mMFBSeS,,varikin
-mMFBSyD,male ego's mother's father's brother's son's younger daughter,,,mMFBSyD,,varikin
-mMFBSyS,male ego's mother's father's brother's son's younger son,,,mMFBSyS,,varikin
-mMFZ,male ego's mother's father's sister,,,mMFZ,,varikin
 mMH_notF,male ego's mother's husband's (not father),,,mMH(notF),Affines,varikin
-mMMB,male ego's mother's mother's brother,,,mMMB,,varikin
-mMMBD,male ego's mother's mother's brother's daughter,,,mMMBD,,varikin
-mMMBS,male ego's mother's mother's brother's son,,,mMMBS,,varikin
-mMMZ,male ego's mother's mother's sister,,,mMMZ,,varikin
 mMMZD,male ego's mother's mother's sister's daughter,,,mMMZD,,varikin
-mMMZDD,male ego's mother's mother's sister's daughter's daughter,,,mMMZDD,,varikin
-mMMZDeS,male ego's mother's mother's sister's daughter's elder son,,,mMMZDeS,,varikin
 mMMZDyS,male ego's mother's mother's sister's daughter's younger son,,,mMMZDyS,,varikin
 mMMZS,male ego's mother's mother's sister's son,,,mMMZS,,varikin
-mMMZSeD,male ego's mother's mother's sister's son's elder daughter,,,mMMZSeD,,varikin
-mMMZSeS,male ego's mother's mother's sister's son's elder son,,,mMMZSeS,,varikin
-mMMZSyD,male ego's mother's mother's sister's son's younger daughter,,,mMMZSyD,,varikin
-mMMZSyS,male ego's mother's mother's sister's son's younger son,,,mMMZSyS,,varikin
 mMZ,male ego's mother's sister,,,mMZ,Uncles & Aunts,varikin
 mMZDD,male ego's mother's sister's daughter's daughter,,,mMZDD,,varikin
 mMZDS,male ego's mother's sister's daughter's son,,,mMZDS,,varikin
@@ -435,135 +300,26 @@ mP,male ego's parent,,,mP,,varikin
 mPP,male ego's parent's parent,,,mPP,,varikin
 mSWF,male ego's son's wife's father,,,mSWF,Affines,varikin
 mSWM,male ego's son's wife's mother,,,mSWM,Affines,varikin
-mTW,male ego's twin,,,mT,Siblings,varikin
-mWFBD,male ego's wife's father's brother's daughter,,,mWFBD,Affines,varikin
-mWFBS,male ego's wife's father's brother's son,,,mWFBS,Affines,varikin
-mWFZD,male ego's wife's father's sister's daughter,,,mWFZD,Affines,varikin
-mWFZS,male ego's wife's father's sister's son,,,mWFZS,Affines,varikin
-mWMZ,male ego's wife's mother's sister,,,mWMZ,Affines,varikin
-mWZD,male ego's wife's sister's daughter,,,mWZD,Affines,varikin
-mWZS,male ego's wife's sister's son,,,mWZS,Affines,varikin
 mWeZ,male ego's wife's elder sister,,,mWeZ,Affines,varikin
 mWyB,male ego's wife's younger brother,,,mWyB,Affines,varikin
 mWyZ,male ego's wife's younger sister,,,mWyZ,Affines,varikin
 mZ,male ego's sister,,,mZ,Siblings,varikin
 mZD,male ego's sister's daughter,,,mZD,Nieces & Nephews,varikin
-mZDD,male ego's sister's daughter's daughter,,,mZDD,,varikin
-mZDS,male ego's sister's daughter's son,,,mZDS,,varikin
 mZS,male ego's sister's son,,,mZS,Nieces & Nephews,varikin
 m_co_H,male ego's co- husband,,,mco-H,Affines,varikin
 m_co_W,male ego's co- wife,,,mco-W,Affines,varikin
 meBW,male ego's elder brother's wife,,,meBW,Affines,varikin
-meD,male ego's elder daughter,,,meD,Children,varikin
 meS,male ego's elder son,,,meS,Children,varikin
 meZH,male ego's elder sister's husband,,,meZH,Affines,varikin
 myBW,male ego's younger brother's wife,,,myBW,Affines,varikin
-myD,male ego's younger daughter,,,myD,Children,varikin
 myS,male ego's younger son,,,myS,Children,varikin
-mySW,male ego's younger son's wife,,,mySW,Affines,varikin
 myZH,male ego's younger sister's husband,,,myZH,Affines,varikin
-mWMBD,male ego's wife's brother's daughter,,,mWMBD,Affines,varikin
-mWMBS,male ego's wife's brother's son,,,mWMBS,Affines,varikin
-mWMZD,male ego's wife's mother's sister's daughter,,,mWMZD,Affines,varikin
-mWMZS,male ego's wife's mother's sister's son,,,mWMZS,Affines,varikin
-mFFZH,male ego's father's father's sister's husband,,,mFFZH,Affines,
-mFMZH,male ego's father's mother's sister's husband,,,mFMZH,Affines,
-mMFZH,male ego's mother's father's sister's husband,,,mMFZH,Affines,
-mMMZH,male ego's mother's mother's sister's husband,,,mMMZH,Affines,
-mFMBW,male ego's father's mother's brother's wife,,,mFMBW,Affines,
-mFFBW,male ego's father's father's brother's wife,,,mFFBW,Affines,
-mMMBW,male ego's mother's mother's brother's wife,,,mMMBW,Affines,
-mMFBW,male ego's mother's father's brother's wife,,,mMFBW,Affines,
 mWBS,male ego's wife's brother's son,,,mWBS,Affines,
-mHZS,male ego's husband's sister's son,,,mHZS,Affines,
 mWBD,male ego's wife's brother's daughter,,,mWBD,Affines,
-mHZD,male ego's husband's sister's daughter,,,mHZD,Affines,
-mBSS,male ego's brother's son's son,,,mBSS,,
-mBSD,male ego's brother's son's daughter,,,mBSD,,
-mZSS,male ego's sister's son's son,,,mZSS,,
-mZSD,male ego's sister's son's daughter,,,mZSD,,
-mBDS,male ego's brother's daughter's son,,,mBDS,,
-mBDD,male ego's brother's daughter's daughter,,,mBDD,,
-mWBSS,male ego's wife's brother's son's son,,,mWBSS,Affines,
-mWBSD,male ego's wife's brother's son's daughter,,,mWBSD,Affines,
-mWBDS,male ego's wife's brother's daughter's son,,,mWBDS,Affines,
-mWBDD,male ego's wife's brother's daughter's daughter,,,mWBDD,Affines,
-mWZDS,male ego's wife's sister's daughter's son,,,mWZDS,Affines,
-mWZDD,male ego's wife's sister's daughter's daughter,,,mWZDD,Affines,
-mHBSS,male ego's husband's brother's son's son,,,mHBSS,Affines,
-mHBSD,male ego's husband's brother's son's daughter,,,mHBSD,Affines,
-mHZSS,male ego's husband's sister's son's son,,,mHZSS,Affines,
-mHZSD,male ego's husband's sister's son's daughter,,,mHZSD,Affines,
-mHZDS,male ego's husband's sister's daughter's son,,,mHZDS,Affines,
-mHBDD,male ego's husband's brother's daughter's daughter,,,mHBDD,Affines,
-mHZDD,male ego's husband's sister's daughter's daughter,,,mHZDD,Affines,
-mHFBS,male ego's husband's father's brother's son,,,mHFBS,Affines,
-mHFBD,male ego's husband's father's brother's daughter,,,mHFBD,Affines,
-mHMBD,male ego's husband's mother's brother's daughter,,,mHMBD,Affines,
-mHMZS,male ego's husband's mother's sister's son,,,mHMZS,Affines,
-mHMZD,male ego's husband's mother's sister's daughter,,,mHMZD,Affines,
-mHBW,male ego's husband's brother's wife,,,mHBW,Affines,
 fFFB,female ego's father's father's brother,,,fFFB,,
-fFFZH,female ego's father's father's sister's husband,,,fFFZH,Affines,
 fFMB,female ego's father's mother's brother,,,fFMB,,
-fFMZH,female ego's father's mother's sister's husband,,,fFMZH,Affines,
-fMFB,female ego's mother's father's brother,,,fMFB,,
-fMFZH,female ego's mother's father's sister's husband,,,fMFZH,Affines,
-fMMB,female ego's mother's mother's brother,,,fMMB,,
-fMMZH,female ego's mother's mother's sister's husband,,,fMMZH,Affines,
 fFMZ,female ego's father's mother's sister,,,fFMZ,,
-fFMBW,female ego's father's mother's brother's wife,,,fFMBW,Affines,
 fFFZ,female ego's father's father's sister,,,fFFZ,,
-fFFBW,female ego's father's father's brother's wife,,,fFFBW,Affines,
-fMMBW,female ego's mother's mother's brother's wife,,,fMMBW,Affines,
-fMFZ,female ego's mother's father's sister,,,fMFZ,,
-fMFBW,female ego's mother's father's brother's wife,,,fMFBW,Affines,
-fWBS,female ego's wife's brother's son,,,fWBS,Affines,
-fWZS,female ego's wife's sister's son,,,fWZS,Affines,
-fHZS,female ego's husband's sister's son,,,fHZS,Affines,
-fWBD,female ego's wife's brother's daughter,,,fWBD,Affines,
-fWZD,female ego's wife's sister's daughter,,,fWZD,Affines,
-fHZD,female ego's husband's sister's daughter,,,fHZD,Affines,
-fBSS,female ego's brother's son's son,,,fBSS,,
-fBSD,female ego's brother's son's daughter,,,fBSD,,
-fZSS,female ego's sister's son's son,,,fZSS,,
-fZSD,female ego's sister's son's daughter,,,fZSD,,
-fBDS,female ego's brother's daughter's son,,,fBDS,,
-fBDD,female ego's brother's daughter's daughter,,,fBDD,,
-fWBSS,female ego's wife's brother's son's son,,,fWBSS,Affines,
-fWBSD,female ego's wife's brother's son's daughter,,,fWBSD,Affines,
-fWBDS,female ego's wife's brother's daughter's son,,,fWBDS,Affines,
-fWBDD,female ego's wife's brother's daughter's daughter,,,fWBDD,Affines,
-fWZDS,female ego's wife's sister's daughter's son,,,fWZDS,Affines,
-fWZDD,female ego's wife's sister's daughter's daughter,,,fWZDD,Affines,
-fHBSS,female ego's husband's brother's son's son,,,fHBSS,Affines,
-fHBSD,female ego's husband's brother's son's daughter,,,fHBSD,Affines,
-fHZSS,female ego's husband's sister's son's son,,,fHZSS,Affines,
-fHZSD,female ego's husband's sister's son's daughter,,,fHZSD,Affines,
-fHBDS,female ego's husband's brother's daughter's son,,,fHBDS,Affines,
-fHBDD,female ego's husband's brother's daughter's daughter,,,fHBDD,Affines,
-fHZDS,female ego's husband's sister's daughter's son,,,fHZDS,Affines,
-fHZDD,female ego's husband's sister's daughter's daughter,,,fHZDD,Affines,
-fWFBS,female ego's wife's father's brother's son,,,fWFBS,Affines,
-fWFBD,female ego's wife's father's brother's daughter,,,fWFBD,Affines,
-fWFZS,female ego's wife's father's sister's son,,,fWFZS,Affines,
-fWFZD,female ego's wife's father's sister's daughter,,,fWFZD,Affines,
-fWMBS,female ego's wife's mother's brother's son,,,fWMBS,Affines,
-fWMBD,female ego's wife's mother's brother's daughter,,,fWMBD,Affines,
-fWMZS,female ego's wife's mother's sister's son,,,fWMZS,Affines,
-fWMZD,female ego's wife's mother's sister's daughter,,,fWMZD,Affines,
-fHFBS,female ego's husband's father's brother's son,,,fHFBS,Affines,
-fHMBS,female ego's husband's mother's brother's son,,,fHMBS,Affines,
-fHMBD,female ego's husband's mother's brother's daughter,,,fHMBD,Affines,
-fHMZS,female ego's husband's mother's sister's son,,,fHMZS,Affines,
-mMAff,male ego's male affines,,,mMAff,,
-mFAff,male ego's female affines,,,mFAff,,
-fHBSW,female ego's husband's brother's son's wife,,,fHBSW,Affines,
-fMAff,female ego's male affines,,,fMAff,,
-fFAff,female ego's female affines,,,fFAff,,
-mWSH,male ego's wife's son's husband,,,mWSH,Affines,
-mHBDS,male ego's husband's brother's daughter's son,,,mHBDS,Affines,
-mHMBS,male ego's husband's mother's brother's son,,,mHMBS,Affines,
 mWS_notS,male ego's wife's son (not ego's son),,,mWS(notS),Affines,varikin
 mWD_notD,male ego's wife's daughter (not ego's daughter),,,mWD(notD),Affines,varikin
 fHS_notS,female ego's husband's son (not ego's son),,,fHS(notS),Affines,varikin
@@ -680,109 +436,7 @@ fSDH,female ego's son's daughter's husband,,,fSDH,Affines,varikin
 fDSW,female ego's daughter's son's wife,,,fDSW,Affines,varikin
 fDDH,female ego's daughter's daughter's husband,,,fDDH,Affines,varikin
 mFFZD,male ego's father's father's sister's daughter,,,mFFZD,Cousins,varikin
-mPPP,male ego's parent's parent's parent,,,mPPP,Grandparents & -children,varikin
-fPPP,female ego's parent's parent's parent,,,fPPP,Grandparents & -children,varikin
-mMMZDH,male ego's mother's mother's sister's daughter's husband,,,mMMZDH,Affines,varikin
-mFFFBSS,male ego's father's father's father's brother's son's son,,,mFFFBSS,Cousins,varikin
-mFMBS,male ego's father's mother's brother's son,,,mFMBS,Cousins,varikin
-fFFBS,female ego's father's father's brother's son,,,fFFBS,Cousins,varikin
-fFMZS,female ego's father's mother's sister's son,,,fFMZS,Cousins,varikin
-fMMZDH,female ego's mother's mother's sister's daughter's husband,,,fMMZDH,Affines,varikin
-fFFFBSS,female ego's father's father's father's brother's son's son,,,fFFFBSS,Cousins,varikin
-fFMBS,female ego's father's mother's brother's son,,,fFMBS,Cousins,varikin
-fFFZS,female ego's father's father's sister's son,,,fFFZS,Cousins,varikin
-mFFBSW,male ego's father's father's brother's son's wife,,,mFFBSW,Affines,varikin
-mMFFBSD,male ego's mother's father's father's brother's son's daughter,,,mMFFBSD,Affines,varikin
-mMFZD,male ego's mother's father's sister's daughter,,,mMFZD,Cousins,varikin
-fMFBD,female ego's mother's father's brother's daughter,,,fMFBD,Cousins,varikin
-fFFBSW,female ego's father's father's brother's son's wife,,,fFFBSW,Affines,varikin
-fMFFBSD,female ego's mother's father's father's brother's son's daughter,,,fMFFBSD,Cousins,varikin
-fMFZD,female ego's mother's father's sister's daughter,,,fMFZD,Cousins,varikin
-mFFBDH,male ego's father's father's brother's daughter's husband,,,mFFBDH,Affines,varikin
-mFMZDH,male ego's father's mother's sister's daughter's husband,,,mFMZDH,Affines,varikin
-mMFZS,male ego's mother's father's sister's son,,,mMFZS,Cousins,varikin
-mFMBDH,male ego's father's mother's brother's daughter's husband,,,mFMBDH,Affines,varikin
-mFFZDH,male ego's father's father's sister's daughter's husband,,,mFFZDH,Affines,varikin
-mWMB,male ego's wife's mother's brother,,,mWMB,Affines,varikin
-mWFZH,male ego's wife's father's sister's husband,,,mWFZH,Affines,varikin
-fMFBS,female ego's mother's father's brother's son,,,fMFBS,Cousins,varikin
-fFFBDH,female ego's father's father's brother's daughter's husband,,,fFFBDH,Affines,varikin
-fFMZDH,female ego's father's mother's sister's daughter's husband,,,fFMZDH,Affines,varikin
-fMFZS,female ego's mother's father's sister's son,,,fMFZS,Cousins,varikin
-fFMBDH,female ego's father's mother's brother's daughter's husband,,,fFMBDH,Affines,varikin
-fFFZDH,female ego's father's father's sister's daughter's husband,,,fFFZDH,Affines,varikin
-fHMB,female ego's husband's mother's brother,,,fHMB,Affines,varikin
-fHFZH,female ego's husband's father's sister's husband,,,fHFZH,Affines,varikin
-mMFBSW,male ego's mother's father's brother's son's wife,,,mMFBSW,Affines,varikin
-mMMZSW,male ego's mother's mother's sister's son's wife,,,mMMZSW,Affines,varikin
-mFMBD,male ego's father's mother's brother's daughter,,,mFMBD,Cousins,varikin
-mMFZSW,male ego's mother's father's sister's son's wife,,,mMFZSW,Affines,varikin
-mMMBSW,male ego's mother's mother's brother's son's wife,,,mMMBSW,Affines,varikin
-fFFBD,female ego's father's father's brother's daughter,,,fFFBD,Cousins,varikin
-fFMZD,female ego's father's mother's sister's daughter,,,fFMZD,Cousins,varikin
-fMFBSW,female ego's mother's father's brother's sister's wife,,,fMFBSW,Affines,varikin
-fMMZSW,female ego's mother's mother's sister's son's wife,,,fMMZSW,Affines,varikin
-fFFZD,female ego's father's father's sister's daughter,,,fFFZD,Cousins,varikin
-fFMBD,female ego's father's mother's brother's daughter,,,fFMBD,Cousins,varikin
-fMFZSW,female ego's mother's father's sister's son's wife,,,fMFZSW,Affines,varikin
-fMMBSW,female ego's mother's mother's brother's son's wife,,,fMMBSW,Affines,varikin
-mWFZ,male ego's wife's father's sister,,,mWFZ,Affines,varikin
-mWMBW,male ego's wife's mother's brother's wife,,,mWMBW,Affines,varikin
-fHFZ,female ego's husband's father's sister,,,fHFZ,Affines,varikin
-fHMBW,female ego's husband's mother's brother's wife,,,fHMBW,Affines,varikin
-mEFB,male ego's spouse's father's brother,,,mEFB,Affines,varikin
-mEMZH,male ego's spouse's mother's sister's husband,,,mEMZH,Affines,varikin
-fEFB,female ego's spouse's father's brother,,,fEFB,Affines,varikin
-fEMZH,female ego's spouse's mother's sister's husband,,,fEMZH,Affines,varikin
-mEMZ,male ego's spouse's mother's sister,,,mEMZ,Affines,varikin
-mEFBW,male ego's spouse's father's brother's wife,,,mEFBW,Affines,varikin
-fEMZ,female ego's spouse's mother's sister,,,fEMZ,Affines,varikin
-fEFBW,female ego's spouse's father's brother's wife,,,fEFBW,Affines,varikin
-mMMZDSS,male ego's mother's mother's sister's daughter's son's son,,,mMMZDSS,Cousins,varikin
-fMMZDDS,female ego's mother's mother's sister's daughter's daughter's son,,,fMMZDDS,Cousins,varikin
-mMMZDSD,male ego's mother's mother's sister's daughter's son's daughter,,,mMMZDSD,Cousins,varikin
-fMMZDDD,female ego's mother's mother's sister's daughter's daughter's daughter,,,fMMZDDD,Cousins,varikin
 mWBC,male ego's wife's brother's child,,,mWBC,Affines,varikin
-fHZC,female ego's husband's sister's child,,,fHZC,Affines,varikin
-mMZDC,male ego's father's brother's daughter's son,,,mMZDC,Cousins,varikin
-fFBC,male ego's mother's sister's daughter's child,,,fFBC,Cousins,varikin
-fFBSC,female ego's father's brother's child,,,fFBSC,Cousins,varikin
-mZCE,female ego's father's brother's son's child,,,mZCE,Affines,varikin
-fBCE,male ego's sister's child's spouse,,,fBCE,Affines,varikin
-mFZDC,female ego's brother's child's spouse,,,mFZDC,Cousins,varikin
-mMBDC,male ego's father's sister's daughter's child,,,mMBDC,Cousins,varikin
-fFZSC,male ego's mother's brother's daughter's child,,,fFZSC,Cousins,varikin
-fMBSC,female ego's father's sister's sister's child,,,fMBSC,Cousins,varikin
-mWZDH,male ego's wife's sister's daughter's husband,,,mWZDH,Affines,varikin
-fHBDH,female ego's husband's brother's daughter's husband,,,fHBDH,Affines,varikin
-mFBSDH,male ego's father's brother's son's daughter's husband,,,mFBSDH,Affines,varikin
-fFBDDH,female ego's father's brother's daughter's daughter's husband,,,fFBDDH,Affines,varikin
-mWZSW,male ego's wife's sister's son's wife,,,mWZSW,Affines,varikin
-mFBSSW,male ego's father's brother's son's son's wife,,,mFBSSW,Affines,varikin
-fFBDSW,female ego's father's brother's daughter's son's wife,,,fFBDSW,Affines,varikin
-mFWS_notBorhB,male ego's father's wife's son that is not a brother or half brother.,,,mFWS(not B or hB),Affines,varikin
-mMHS_notBorhB,male ego's mother's husband's son that is not a brother or half brother.,,,mMHS(not B or hB),Affines,varikin
-fFWD_notZorhZ,female ego's father's wife's daughter that is not a sister or half sister,,,fFWD(not Z or hZ),Affines,varikin
-fMHD_notZorhZ,female ego's mother's husband's daughter that is not a sister or half sister,,,fMHD(not Z or hZ),Affines,varikin
-mFFBSS,male ego's father's father's brother's son's son,,,mFFBSS,Cousins,varikin
-fFFBSD,female ego's father's father's brother's son's daughter,,,fFFBSD,Cousins,varikin
-fFWS_notBorhB,female ego's father's wife's son that is not a brother or half brother.,,,fFWS(not B or hB),Affines,varikin
-fMHS_notBorhB,female ego's mother's husband's son that is not a brother or half brother.,,,fMHS(not B or hB),Affines,varikin
-mFWD_notZorhZ,male ego's father's wife's daughter that is not a sister or half sister,,,mFWD(not Z or hZ),Affines,varikin
-mMHD_notZorhZ,male ego's mother's husband's daughter that is not a sister or half sister,,,mMHD(not Z or hZ),Affines,varikin
-mEGE,male ego's spouse's sibling's spouse,,,mEGE,Affines,varikin
-fEGE,female ego's spouse's sibling's spouse,,,fEGE,Affines,varikin
-fCEFB,female ego's child's spouse's father's brother,,,fCEFB,Affines,varikin
-mCEFB,male ego's child's spouse's father's brother,,,mCEFB,Affines,varikin
-fCEMZH,female ego's child's spouse's mother's sister's husband,,,fCEMZH,Affines,varikin
-mCEMZH,male ego's child's spouse's mother's sister's husband,,,mCEMZH,Affines,varikin
-fCEMZ,female ego's child's spouse's mother's sister,,,fCEMZ,Affines,varikin
-mCEMZ,male ego's child's spouse's mother's sister,,,mCEMZ,Affines,varikin
-fCEFBW,female ego's child's spouse's father's brother's wife,,,fCEFBW,Affines,varikin
-mCEFBW,male ego's child's spouse's father's brother's wife,,,mCEFBW,Affines,varikin
-mhB,male ego's half brother,,,mhB,Siblings,varikin
-fhZ,female ego's half sister,,,fhZ,Siblings,varikin
-fhB,female ego's half brother,,,fhB,Siblings,varikin
 mhB_FS,male speaker's paternal half brother,,,mhB_FS,Siblings,varikin
 mhZ_FD,male speaker's paternal half sister,,,mhZ_FD,Siblings,varikin
 mhB_MS,male speaker's maternal half brother,,,mhB_MS,Siblings,varikin
@@ -800,141 +454,5 @@ myW,"male speaker's younger wife, i.e. any wife married after the first one beca
 mWeB,male speaker's wife's elder brother,,,mWeB,Affines,varikin
 fHyZ,female speaker's husband's younger sister,,,fHyZ,Affines,varikin
 fHeZ,female speaker's husband's elder sister,,,fHeZ,Affines,varikin
-mMeZH,male speaker's mother's elder sister's husband,,,mMeZH,Affines,varikin
-fMeZH,female speaker's mother's elder sister's husband,,,fMeZH,Affines,varikin
-mMyZH,male speaker's mother's younger sister's husband,,,mMyZH,Affines,varikin
-fMyZH,female speaker's mother's younger sister's husband,,,fMyZH,Affines,varikin
-mFyBW,male speaker's father's younger brother's wife,,,mFyBW,Affines,varikin
-fFyBW,female speaker's father's younger brother's wife,,,fFyBW,Affines,varikin
-mWFFB,male speaker's wife's father's father's brother,,,mWFFB,Affines,varikin
-mWFFZH,male speaker's wife's father's father's sister's husband,,,mWFFZH,Affines,varikin
-mWFMB,male speaker's wife's father's mother's brother,,,mWFMB,Affines,varikin
-mWFMZH,male speaker's wife's father's mother's sister's husband,,,mWFMZH,Affines,varikin
-mWMFB,male speaker's wife's mother's father's brother,,,mWMFB,Affines,varikin
-mWMFZH,male speaker's wife's mother's father's sister's husband,,,mWMFZH,Affines,varikin
-mWMMB,male speaker's wife's mother's mother's brother,,,mWMMB,Affines,varikin
-mWMMZH,male speaker's wife's mother's mother's sister's husband,,,mWMMZH,Affines,varikin
-fHFFZH,female speaker's husband's father's father's sister's husband,,,fHFFZH,Affines,varikin
-fHFMZH,female speaker's husband's father's mother's sister's husband,,,fHFMZH,Affines,varikin
-fHMFB,female speaker's husband's mother's father's brother,,,fHMFB,Affines,varikin
-fHMFZH,female speaker's husband's mother's father's sister's husband,,,fHMFZH,Affines,varikin
-fHMMB,female speaker's husband's mother's mother's brother,,,fHMMB,Affines,varikin
-fHMMZH,female speaker's husband's mother's mother's sister's husband,,,fHMMZH,Affines,varikin
-mWFFBW,male speaker's wife's father's father's brother's wife,,,mWFFBW,Affines,varikin
-mWFMBW,male speaker's wife's father's mother's brother's wife,,,mWFMBW,Affines,varikin
-mWMFBW,male speaker's wife's mother's father's brother's wife,,,mWMFBW,Affines,varikin
-mWMFZ,male speaker's wife's mother's father's sister,,,mWMFZ,Affines,varikin
-mWMMBW,male speaker's wife's mother's mother's brother's wife,,,mWMMBW,Affines,varikin
-mWMMZ,male speaker's wife's mother's mother's sister,,,mWMMZ,Affines,varikin
-fHFFBW,female speaker's husband's father's father's brother's wife,,,fHFFBW,Affines,varikin
-fHFFZ,female speaker's husband's father's father's sister,,,fHFFZ,Affines,varikin
-fHFMBW,female speaker's husband's father's mother's brother's wife,,,fHFMBW,Affines,varikin
-fHFMZ,female speaker's husband's father's mother's sister,,,fHFMZ,Affines,varikin
-fHMFBW,female speaker's husband's mother's father's brother's wife,,,fHMFBW,Affines,varikin
-fHMFZ,female speaker's husband's mother's father's sister,,,fHMFZ,Affines,varikin
-fHMMBW,female speaker's husband's mother's mother's brother's wife,,,fHMMBW,Affines,varikin
-fHMMZ,female speaker's husband's mother's mother's sister,,,fHMMZ,Affines,varikin
-mFFeBS,male speaker's father's father's elder brother's son,,,mFFeBS,Cousins,varikin
-mFFyBS,male speaker's father's father's younger brother's son,,,mFFyBS,Cousins,varikin
-mFFeZS,male speaker's father's father's elder sister's son,,,mFFeZS,Cousins,varikin
-mFFyZS,male speaker's father's father's younger sister's son,,,mFFyZS,Cousins,varikin
-mFMeBS,male speaker's father's mother's elder brother's son,,,mFMeBS,Cousins,varikin
-mFMyBS,male speaker's father's mother's younger brother's son,,,mFMyBS,Cousins,varikin
-mFMeZS,male speaker's father's mother's elder sister's son,,,mFMeZS,Cousins,varikin
-mFMyZS,male speaker's father's mother's younger sister's son,,,mFMyZS,Cousins,varikin
-fFFeBS,female speaker's father's father's elder brother's son,,,fFFeBS,Cousins,varikin
-fFFyBS,female speaker's father's father's younger brother's son,,,fFFyBS,Cousins,varikin
-fFFeZS,female speaker's father's father's elder sister's son,,,fFFeZS,Cousins,varikin
-fFFyZS,female speaker's father's father's younger sister's son,,,fFFyZS,Cousins,varikin
-fFMeBS,female speaker's father's mother's elder brother's son,,,fFMeBS,Cousins,varikin
-fFMyBS,female speaker's father's mother's younger brother's son,,,fFMyBS,Cousins,varikin
-fFMeZS,female speaker's father's mother's elder sister's son,,,fFMeZS,Cousins,varikin
-fFMyZS,female speaker's father's mother's younger sister's son,,,fFMyZS,Cousins,varikin
-mMFBDH,male speaker's mother's father's brother's daughter's husband,,,mMFBDH,Affines,varikin
-mMMBDH,male speaker's mother's mother's brother's daughter's husband,,,mMMBDH,Affines,varikin
-mMFZDH,male speaker's mother's father's sister's daughter's husband,,,mMFZDH,Affines,varikin
-fMFBDH,female speaker's mother's father's brother's daughter's husband,,,fMFBDH,Affines,varikin
-fMMBDH,female speaker's mother's mother's brother's daughter's husband,,,fMMBDH,Affines,varikin
-fMFZDH,female speaker's mother's father's sister's daughter's husband,,,fMFZDH,Affines,varikin
-mFFeBSW,male speaker's father's father's elder brother's son's wife,,,mFFeBSW,Affines,varikin
-mFFyBSW,male speaker's father's father's younger brother's son's wife,,,mFFyBSW,Affines,varikin
-mFFeZSW,male speaker's father's father's elder sister's son's wife,,,mFFeZSW,Affines,varikin
-mFFyZSW,male speaker's father's father's younger sister's son's wife,,,mFFyZSW,Affines,varikin
-mFMeBSW,male speaker's father's mother's elder brother's son's wife,,,mFMeBSW,Affines,varikin
-mFMyBSW,male speaker's father's mother's younger brother's son's wife,,,mFMyBSW,Affines,varikin
-mFMeZSW,male speaker's father's mother's elder sister's son's wife,,,mFMeZSW,Affines,varikin
-mFMyZSW,male speaker's father's mother's younger sister's son's wife,,,mFMyZSW,Affines,varikin
-fFFeBSW,female speaker's father's father's elder brother's son's wife,,,fFFeBSW,Affines,varikin
-fFFyBSW,female speaker's father's father's younger brother's son's wife,,,fFFyBSW,Affines,varikin
-fFFeZSW,female speaker's father's father's elder sister's son's wife,,,fFFeZSW,Affines,varikin
-fFFyZSW,female speaker's father's father's younger sister's son's wife,,,fFFyZSW,Affines,varikin
-fFMeBSW,female speaker's father's mother's elder brother's son's wife,,,fFMeBSW,Affines,varikin
-fFMyBSW,female speaker's father's mother's younger brother's son's wife,,,fFMyBSW,Affines,varikin
-fFMeZSW,female speaker's father's mother's elder sister's son's wife,,,fFMeZSW,Affines,varikin
-fFMyZSW,female speaker's father's mother's younger sister's son's wife,,,fFMyZSW,Affines,varikin
-mFBWB,male speaker's father's brother's wife's brother,,,mFBWB,Affines,varikin
-fFBWB,female speaker's father's brother's wife's brother,,,fFBWB,Affines,varikin
-mFBWBW,female speaker's father's brother's wife's brother's wife,,,mFBWBW,Affines,varikin
-fFBWBW,female speaker's father's brother's wife's brother's wife,,,fFBWBW,Affines,varikin
-fHFB,female speaker's husband's father's brother,,,fHFB,Affines,varikin
-mWFB,male speaker's wife's father's brother,,,mWFB,Affines,varikin
-fHMZH,female speaker's husband's mother's sister's husband,,,fHMZH,Affines,varikin
-mWMZH,male speaker's wife's mother's sister's husband,,,mWMZH,Affines,varikin
-mZHF,male speaker's sister's husband's father,,,mZHF,Affines,varikin
-mZHFB,male speaker's sister's husband's father's brother,,,mZHFB,Affines,varikin
-mBWF,male speaker's brother's wife's father,,,mBWF,Affines,varikin
-fZHF,female speaker's sister's husband's father,,,fZHF,Affines,varikin
-fZHFB,female speaker's sister's husband's father's brother,,,fZHFB,Affines,varikin
-fBWF,female speaker's brother's wife's father,,,fBWF,Affines,varikin
-fHFBW,female speaker's husband's father's brother's wife,,,fHFBW,Affines,varikin
-mWFBW,male speaker's wife's father's brother's wife,,,mWFBW,Affines,varikin
-mZHFBW,male speaker's sister's husband's father's brother's wife,,,mZHFBW,Affines,varikin
-fZHFBW,female speaker's sister's husband's father's brother's wife,,,fZHFBW,Affines,varikin
-fBWB,female speaker's brother's wife's brother,,,fBWB,Affines,varikin
-mZHB,male speaker's sister's husband's brother,,,mZHB,Affines,varikin
-fZHB,female speaker's sister's husband's brother,,,fZHB,Affines,varikin
-mWeBW,male speaker's wife's elder brother's wife,,,mWeBW,Affines,varikin
-mWyBW,male speaker's wife's younger brother's wife,,,mWyBW,Affines,varikin
-mWBSW,male speaker's wife's brother's son's wife,,,mWBSW,Affines,varikin
-mWFBSW,male speaker's wife's father's brother's son's wife,,,mWFBSW,Affines,varikin
-mWMBSW,male speaker's wife's mother's brother's son's wife,,,mWMBSW,Affines,varikin
-mWFZSW,male speaker's wife's father's sister's son's wife,,,mWFZSW,Affines,varikin
-mWMZSW,male speaker's wife's mother's sister's son's wife,,,mWMZSW,Affines,varikin
-mZHZ,male speaker's sister's husband's sister,,,mZHZ,Affines,varikin
-fZHZ,female speaker's sister's husband's sister,,,fZHZ,Affines,varikin
-mWeZH,male speaker's wife's elder sister's husband,,,mWeZH,Affines,varikin
-mWyZH,male speaker's wife's younger sister's husband,,,mWyZH,Affines,varikin
-mZHZH,male speaker's sister's husband's sister's husband,,,mZHZH,Affines,varikin
-fZHZH,female speaker's sister's husband's sister's husband,,,fZHZH,Affines,varikin
-fHFZS,female speaker's husband's father's sister's son,,,fHFZS,Affines,varikin
-fHFBSW,female speaker's husband's father's brother's son's wife,,,fHFBSW,Affines,varikin
-fHMBSW,female speaker's husband's mother's brother's son's wife,,,fHMBSW,Affines,varikin
-fHFZSW,female speaker's husband's mother's brother's son's wife,,,fHFZSW,Affines,varikin
-fHMZSW,female speaker's husband's father's sister's son's wife,,,fHMZSW,Affines,varikin
-fHFZD,female speaker's husband's father's sister's daughter,,,fHFZD,Affines,varikin
-fHeZH,female speaker's husband's elder sister's husband,,,fHeZH,Affines,varikin
-fHyZH,female speaker's husband's younger sister's husband,,,fHyZH,Affines,varikin
-mBWM,male speaker's brother's wife's mother,,,mBWM,Affines,varikin
-fBWM,female speaker's brother's wife's mother,,,fBWM,Affines,varikin
-mZHM,male speaker's sister's husband's mother,,,mZHM,Affines,varikin
-fZHM,female speaker's sister's husband's mother,,,fZHM,Affines,varikin
-fSWB,female speaker's son's wife's brother,,,fSWB,Affines,varikin
-mSWB,male speaker's son's wife's brother,,,mSWB,Affines,varikin
-fDHB,female speaker's daughter's husband's brother,,,fDHB,Affines,varikin
-mDHB,male speaker's daughter's husband's brother,,,mDHB,Affines,varikin
-fyZHB,female speaker's younger sister's husband's brother,,,fyZHB,Affines,varikin
-myZHB,male speaker's younger sister's husband's brother,,,myZHB,Affines,varikin
-fSWZ,female speaker's son's wife's sister,,,fSWZ,Affines,varikin
-mSWZ,male speaker's son's wife's sister,,,mSWZ,Affines,varikin
-fDHZ,female speaker's daughter's husband's sister,,,fDHZ,Affines,varikin
-mDHZ,male speaker's daughter's husband's sister,,,mDHZ,Affines,varikin
 mBC,male speaker's brother's child,,,mBC,Nieces & Nephews,varikin
-mWFF,male speaker's wife's father's father,,,mWFF,Affines,varikin
-mWMF,male speaker's wife's mother's father,,,mWMF,Affines,varikin
-fHMF,female speaker's husband's mother's father,,,fHMF,Affines,varikin
-mWMM,male speaker's wife's mother's mother,,,mWMM,Affines,varikin
-fHMM,female speaker's husband's mother's mother,,,fHMM,Affines,varikin
-fHFM,female speaker's husband's father's mother,,,fHFM,Affines,varikin
 mZC,male speaker's sister's child,,,mZC,Nieces & Nephews,varikin
-mHeZ,male speaker's husband's elder sister,,,mHeZ,Affines,varikin
-mHyZ,male speaker's husband's younger sister,,,mHyZ,Affines,varikin

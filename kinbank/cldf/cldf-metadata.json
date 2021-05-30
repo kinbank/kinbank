@@ -4,7 +4,6 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:related": null,
-    "dc:source": "sources.bib",
     "dc:title": "kinbank/varikin",
     "prov:wasDerivedFrom": [
         {
@@ -44,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 183756,
+            "dc:extent": 50462,
             "tableSchema": {
                 "columns": [
                     {
@@ -147,7 +146,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1154,
+            "dc:extent": 408,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +240,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 939,
+            "dc:extent": 457,
             "tableSchema": {
                 "columns": [
                     {
