@@ -2,9 +2,11 @@
 GLOTTOLOG=v4.2.1
 CONCEPTICON=v2.3.0
 
-# old repositories:
-#PARABANK_REPO=https://github.com/parabank/parabank-kinship-data
-#VARIKIN_REPO=https://github.com/SamPassmore/varikin-kinbank
+# Repositories:
+PARABANK_REPO=https://github.com/kinbank/parabank
+VARIKIN_REPO=https://github.com/kinbank/varikin
+KINURA_REPO=https://github.com/kinbank/kinura
+GOELDI_REPO=https://github.com/kinbank/goeldi
 
 .PHONY: help clean update test
 
@@ -23,13 +25,23 @@ update: env
 	./env/bin/python ./env/bin/pip3 install --upgrade -r requirements.txt
 	./env/bin/cldfbench catupdate
 
-# Install kinbank into venv
+# Install kinbank into venv and download all collections
 install: env
 	cd kinbank && ../env/bin/python setup.py develop && cd ..
 
-# bring in all raw files from other databases. 
-merge: env
 
+# bring in all raw files from other databases and copy into own folder
+merge: env
+	# empty old raw folder
+	rm -rf ./kinbank/raw
+	# get raw data
+	mkdir -p collections
+	cd collections/ && git clone $(PARABANK_REPO)
+	cd collections/ && git clone $(VARIKIN_REPO)
+	cd collections/ && git clone $(KINURA_REPO)
+	cd collections/ && git clone $(GOELDI_REPO)
+	python merge_collections.py
+	rm -rf collections
 
 # generate CLDF
 cldf: env ./kinbank/raw/
