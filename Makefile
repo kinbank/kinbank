@@ -27,6 +27,9 @@ update: env
 install: env
 	cd kinbank && ../env/bin/python setup.py develop && cd ..
 
+# bring in all raw files from other databases. 
+merge: env
+
 
 # generate CLDF
 cldf: env ./kinbank/raw/
