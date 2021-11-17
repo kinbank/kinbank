@@ -1,6 +1,6 @@
 # define version:
-GLOTTOLOG=v4.2.1
-CONCEPTICON=v2.3.0
+GLOTTOLOG=v4.4
+CONCEPTICON=v2.5
 
 # Repositories:
 PARABANK_REPO=https://github.com/kinbank/parabank
