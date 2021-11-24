@@ -1,6 +1,6 @@
 # define version:
 GLOTTOLOG=v4.4
-CONCEPTICON=v2.5
+CONCEPTICON=v2.5.0
 
 # Repositories:
 PARABANK_REPO=https://github.com/kinbank/parabank
@@ -42,6 +42,7 @@ merge: env
 	cd collections/ && git clone $(GOELDI_REPO)
 	python merge_collections.py
 	rm -rf collections
+	cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
 
 # generate CLDF
 cldf: env ./kinbank/raw/
