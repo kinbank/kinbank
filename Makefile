@@ -13,7 +13,8 @@ GOELDI_REPO=https://github.com/kinbank/goeldi
 help:
 	@echo "1. Run 'make install' to install the python requirements"
 	@echo "2. Run 'make update' to update to latest versions of Glottolog, Concepticon, and CLDF libraries."
-	@echo "3. Run 'make cldf' to generate a CLDF dataset"
+	@echo "3. Run 'make merge' to download the separate kinbank datasets and merge them into one."
+	@echo "4. Run 'make cldf' to generate a CLDF dataset"
 
 # install python venv and install python libraries
 env:
@@ -28,7 +29,6 @@ update: env
 # Install kinbank into venv and download all collections
 install: env
 	cd kinbank && ../env/bin/python setup.py develop && cd ..
-
 
 # bring in all raw files from other databases and copy into own folder
 merge: env
