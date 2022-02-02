@@ -1,7 +1,7 @@
-Kinbank (Parabank & Varikin)
+Kinbank
 ============================
 
-This repository contains the merged data from [Varikin](https://github.com/SamPassmore/kinbank) and [Parabank](https://github.com/parabank/parabank-kinship-data)
+This repository contains the merged data from [Varikin](https://github.com/SamPassmore/kinbank), [Parabank](https://github.com/parabank/parabank-kinship-data), [Kinura](https://github.com/kinbank/kinura), and [MPEGKin](https://github.com/kinbank/goeldi)
 
 
 To add a new language:
