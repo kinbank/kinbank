@@ -2,8 +2,7 @@ import glob
 import os
 from shutil import move
 from pathlib import Path
-
-
+import pandas as pd
 
 def new_path(path):
     return("/".join(Path(path).parts[2:]))
@@ -38,3 +37,14 @@ print("Copying Kinura")
 kinura_files = glob.glob("collections/kinura/kinbank/raw/**/*.csv", recursive=True)
 move_files(kinura_files)
 
+### Combine metadata
+all_filenames = [
+    "collections/varikin/kinbank/etc/languages.csv",
+    "collections/parabank/kinbank/etc/languages.csv",
+    "collections/kinura/kinbank/etc/languages.csv",
+    "collections/goeldi/kinbank/etc/languages.csv",
+]
+#combine all files in the list
+combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ])
+#export to csv
+combined_csv.to_csv("kinbank/etc/languages.csv", index=False, encoding='utf-8-sig')
