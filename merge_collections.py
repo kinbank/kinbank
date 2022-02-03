@@ -3,8 +3,15 @@ import os
 from shutil import move
 from pathlib import Path
 
+
+
+def new_path(path):
+    return("/".join(Path(path).parts[2:]))
+
+print(new_path("collections/kinura/kinbank/raw/Uralic/Finnish_finn1318.csv"))
+
 def move_files(filenames):
-    new_filenames =  ['./' + f[20:] for f in filenames]
+    new_filenames =  ['./' + new_path(f) for f in filenames]
     for old, new in zip(filenames, new_filenames):
         print(old + "  " + os.path.dirname(new))
         if not os.path.isdir(os.path.dirname(new)):
@@ -16,15 +23,15 @@ print("Copying Varikin")
 varikin_files = glob.glob("collections/varikin/kinbank/raw/**/*.csv", recursive=True)
 move_files(varikin_files)
 
-# ## Parabank
+## Parabank
 print("Copying Parabank")
 parabank_files = glob.glob("collections/parabank/kinbank/raw/**/*.csv", recursive=True)
 move_files(parabank_files)
 
 ## Goeldi
 print("Copying Goeldi")
-goedldi_files = glob.glob("collections/goeldi/kinbank/raw/**/*.csv", recursive=True)
-move_files(goedldi_files)
+goeldi_files = glob.glob("collections/goeldi/kinbank/raw/**/*.csv", recursive=True)
+move_files(goeldi_files)
 
 ## Kinura
 print("Copying Kinura")

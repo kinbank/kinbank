@@ -43,6 +43,7 @@ merge: env
 	python merge_collections.py
 	rm -rf collections
 	cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
+	cp ./kinbank/etc/languages.csv ./kinbank/cldf/languages.csv
 
 # generate CLDF
 cldf: env ./kinbank/raw/

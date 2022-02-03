@@ -48,7 +48,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 178024,
+            "dc:extent": 170425,
             "tableSchema": {
                 "columns": [
                     {
@@ -151,7 +151,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1122,
+            "dc:extent": 1063,
             "tableSchema": {
                 "columns": [
                     {
@@ -245,7 +245,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 865,
+            "dc:extent": 859,
             "tableSchema": {
                 "columns": [
                     {

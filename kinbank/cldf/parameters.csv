@@ -259,7 +259,6 @@ fMZSS,female ego's mother's sister's son's son,,,fMZSS,,varikin
 fMZSW,female ego's mother's sister's son's wife,,,fMZSW,Affines,varikin
 fP,female ego's parent,,,fP,,varikin
 fPP,female ego's parents' parent,,,fPP,Grandparents & -children,varikin
-fSSC,female ego's son's son's child,,,fSSC,Grandparents & -children,varikin
 fSWF,female ego's son's wife's father,,,fSWF,Affines,varikin
 fSWM,female ego's son's wife's mother,,,fSWM,Affines,varikin
 fTW,female ego's twin,,,fT,Siblings,varikin
@@ -333,9 +332,7 @@ mHM,male ego's husband's mother,,,mHM,Affines,varikin
 mHW,male ego's husband's wife,,,mHW,Affines,varikin
 mHZ,male ego's husband's sister,,,mHZ,Affines,varikin
 mHZH,male ego's husband's sister's husband,,,mHZH,Affines,varikin
-mHeB,male ego's husband's elder brother,,,mHeB,Affines,varikin
 mHeBW,male ego's husband's elder brother's wife,,,mHeBW,Affines,varikin
-mHyB,male ego's husband's younger brother,,,mHyB,Affines,varikin
 mHyBW,male ego's husband's younger brother's wife,,,mHyBW,Affines,varikin
 mMB,male ego's mother's brother,,,mMB,Uncles & Aunts,varikin
 mMBDD,male ego's mother's brother's daughter's daughter,,,mMBDD,,varikin
@@ -487,7 +484,6 @@ fHMBS,female ego's husband's mother's brother's son,,,fHMBS,Affines,
 fHMBD,female ego's husband's mother's brother's daughter,,,fHMBD,Affines,
 fHMZS,female ego's husband's mother's sister's son,,,fHMZS,Affines,
 fHBSW,female ego's husband's brother's son's wife,,,fHBSW,Affines,
-mWSH,male ego's wife's son's husband,,,mWSH,Affines,
 mHBDS,male ego's husband's brother's daughter's son,,,mHBDS,Affines,
 mHMBS,male ego's husband's mother's brother's son,,,mHMBS,Affines,
 mWS_notS,male ego's wife's son (not ego's son),,,mWS(notS),Affines,varikin
@@ -862,5 +858,3 @@ mWMM,male speaker's wife's mother's mother,,,mWMM,Affines,varikin
 fHMM,female speaker's husband's mother's mother,,,fHMM,Affines,varikin
 fHFM,female speaker's husband's father's mother,,,fHFM,Affines,varikin
 mZC,male speaker's sister's child,,,mZC,Nieces & Nephews,varikin
-mHeZ,male speaker's husband's elder sister,,,mHeZ,Affines,varikin
-mHyZ,male speaker's husband's younger sister,,,mHyZ,Affines,varikin
