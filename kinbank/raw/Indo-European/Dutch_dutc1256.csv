@@ -1,205 +1,205 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,.,,,,IE73,anouk_dutch_nodate,
-mB,broer,,,,IE73,anouk_dutch_nodate,"broeder (this term is not used in normal speech, only in certain expressions, or with the meaning of ""comrade"")"
-mZ,zus,,,,IE73,anouk_dutch_nodate,zuster (this alternative for zus is probably not common in all regions in the Netherlands; but it can be used in certain expressions or to emphasize it)
-meB,broer,,,,IE73,anouk_dutch_nodate,
-myB,broer,,,,IE73,anouk_dutch_nodate,
-meZ,zus,,,,IE73,anouk_dutch_nodate,
-myZ,zus,,,,IE73,anouk_dutch_nodate,
-mP,ouder,,,,IE73,anouk_dutch_nodate,
-mF,vader,,,,IE73,anouk_dutch_nodate,"papa, pa"
-mM,moeder,,,,IE73,anouk_dutch_nodate,"mama, ma"
-mC,kind,,,,IE73,anouk_dutch_nodate,
-mS,zoon,,,,IE73,anouk_dutch_nodate,
-mD,dochter,,,,IE73,anouk_dutch_nodate,
-mPP,grootouder,,,,IE73,anouk_dutch_nodate,
-mFF,opa,,,,IE73,anouk_dutch_nodate,grootvader
-mFM,oma,,,,IE73,anouk_dutch_nodate,grootmoeder
-mMF,opa,,,,IE73,anouk_dutch_nodate,grootvader
-mMM,oma,,,,IE73,anouk_dutch_nodate,grootmoeder
-mCC,kleinkind,,,,IE73,anouk_dutch_nodate,
-mSS,kleinzoon,,,,IE73,anouk_dutch_nodate,
-mSD,kleindochter,,,,IE73,anouk_dutch_nodate,
-mDS,kleinzoon,,,,IE73,anouk_dutch_nodate,
-mDD,kleindochter,,,,IE73,anouk_dutch_nodate,
-mFB,oom,,,,IE73,anouk_dutch_nodate,
-mFZ,tante,,,,IE73,anouk_dutch_nodate,
-mMB,oom,,,,IE73,anouk_dutch_nodate,
-mMZ,tante,,,,IE73,anouk_dutch_nodate,
-mFeB,oom,,,,IE73,anouk_dutch_nodate,
-mFyB,oom,,,,IE73,anouk_dutch_nodate,
-mFeZ,tante,,,,IE73,anouk_dutch_nodate,
-mFyZ,tante,,,,IE73,anouk_dutch_nodate,
-mMeZ,tante,,,,IE73,anouk_dutch_nodate,
-mMyZ,tante,,,,IE73,anouk_dutch_nodate,
-mMeB,oom,,,,IE73,anouk_dutch_nodate,
-mMyB,oom,,,,IE73,anouk_dutch_nodate,
-mBS,neef,,,,IE73,anouk_dutch_nodate,"maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
-mBD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-mZS,neef,,,,IE73,anouk_dutch_nodate,maybe: oomzegger
-mZD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-meBS,neef,,,,IE73,anouk_dutch_nodate,"maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
-myBS,neef,,,,IE73,anouk_dutch_nodate,"maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
-meBD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-myBD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-meZS,neef,,,,IE73,anouk_dutch_nodate,maybe: oomzegger
-myZS,neef,,,,IE73,anouk_dutch_nodate,maybe: oomzegger
-meZD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-myZD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-mFZD,nicht,,,,IE73,anouk_dutch_nodate,
-mFBD,nicht,,,,IE73,anouk_dutch_nodate,
-mMBD,nicht,,,,IE73,anouk_dutch_nodate,
-mMZD,nicht,,,,IE73,anouk_dutch_nodate,
-mFBS,neef,,,,IE73,anouk_dutch_nodate,
-mFZS,neef,,,,IE73,anouk_dutch_nodate,
-mMBS,neef,,,,IE73,anouk_dutch_nodate,
-mMZS,neef,,,,IE73,anouk_dutch_nodate,
-mFeBS,neef,,,,IE73,anouk_dutch_nodate,
-mFyBS,neef,,,,IE73,anouk_dutch_nodate,
-mFeZS,neef,,,,IE73,anouk_dutch_nodate,
-mFyZS,neef,,,,IE73,anouk_dutch_nodate,
-mFeBD,nicht,,,,IE73,anouk_dutch_nodate,
-mFyBD,nicht,,,,IE73,anouk_dutch_nodate,
-mFeZD,nicht,,,,IE73,anouk_dutch_nodate,
-mFyZD,nicht,,,,IE73,anouk_dutch_nodate,
-mMeBS,neef,,,,IE73,anouk_dutch_nodate,
-mMyBS,neef,,,,IE73,anouk_dutch_nodate,
-mMeZS,neef,,,,IE73,anouk_dutch_nodate,
-mMyZS,neef,,,,IE73,anouk_dutch_nodate,
-mMeBD,nicht,,,,IE73,anouk_dutch_nodate,
-mMyBD,nicht,,,,IE73,anouk_dutch_nodate,
-mMeZD,nicht,,,,IE73,anouk_dutch_nodate,
-mMyZD,nicht,,,,IE73,anouk_dutch_nodate,
-mFBeS,neef,,,,IE73,anouk_dutch_nodate,
-mFByS,neef,,,,IE73,anouk_dutch_nodate,
-mFZeS,neef,,,,IE73,anouk_dutch_nodate,
-mFZyS,neef,,,,IE73,anouk_dutch_nodate,
-mFBeD,nicht,,,,IE73,anouk_dutch_nodate,
-mFByD,nicht,,,,IE73,anouk_dutch_nodate,
-mFZeD,nicht,,,,IE73,anouk_dutch_nodate,
-mFZyD,nicht,,,,IE73,anouk_dutch_nodate,
-mMBeS,neef,,,,IE73,anouk_dutch_nodate,
-mMByS,neef,,,,IE73,anouk_dutch_nodate,
-mMZeS,neef,,,,IE73,anouk_dutch_nodate,
-mMZyS,neef,,,,IE73,anouk_dutch_nodate,
-mMBeD,nicht,,,,IE73,anouk_dutch_nodate,
-mMByD,nicht,,,,IE73,anouk_dutch_nodate,
-mMZeD,nicht,,,,IE73,anouk_dutch_nodate,
-mMZyD,nicht,,,,IE73,anouk_dutch_nodate,
-mE,partner,,,,IE73,anouk_dutch_nodate,
-mH,man,,,,IE73,anouk_dutch_nodate,echtgenoot
-mW,vrouw,,,,IE73,anouk_dutch_nodate,echtgenote
-mHF,schoonvader,,,,IE73,anouk_dutch_nodate,
-mHM,schoonmoeder,,,,IE73,anouk_dutch_nodate,
-mWF,schoonvader,,,,IE73,anouk_dutch_nodate,
-mWM,schoonmoeder,,,,IE73,anouk_dutch_nodate,
-mBW,schoonzus,,,,IE73,anouk_dutch_nodate,schoonzuster
-mZH,schoonbroer,,,,IE73,anouk_dutch_nodate,"alternative term: zwager (the term schoonbroer, I suspect, is not used everywhere in the Netherlands; it might be specific for the region where I come from (Limburg))(I asked my brother, also from Limburg but now living 20 years in Amsterdam: he also knows and accepts both terms)"
-mWB,schoonbroer,,,,IE73,anouk_dutch_nodate,zwager
-mWZ,schoonzus,,,,IE73,anouk_dutch_nodate,
-mHB,schoonbroer,,,,IE73,anouk_dutch_nodate,zwager
-mHZ,schoonzus,,,,IE73,anouk_dutch_nodate,
-mSW,schoondochter,,,,IE73,anouk_dutch_nodate,
-mDH,schoonzoon,,,,IE73,anouk_dutch_nodate,
-fG,.,,,,IE73,anouk_dutch_nodate,
-fB,broer,,,,IE73,anouk_dutch_nodate,"broeder (this term is not used in normal speech, only in certain expressions, or with the meaning of ""comrade"")"
-fZ,zus,,,,IE73,anouk_dutch_nodate,zuster (this alternative for zus is probably not common in all regions in the Netherlands; but it can be used in certain expressions or to emphasize it)
-feB,broer,,,,IE73,anouk_dutch_nodate,
-fyB,broer,,,,IE73,anouk_dutch_nodate,
-feZ,zus,,,,IE73,anouk_dutch_nodate,
-fyZ,zus,,,,IE73,anouk_dutch_nodate,
-fP,ouder,,,,IE73,anouk_dutch_nodate,
-fF,vader,,,,IE73,anouk_dutch_nodate,"papa, pa"
-fM,moeder,,,,IE73,anouk_dutch_nodate,"mama, ma"
-fC,kind,,,,IE73,anouk_dutch_nodate,
-fS,zoon,,,,IE73,anouk_dutch_nodate,
-fD,dochter,,,,IE73,anouk_dutch_nodate,
-fPP,grootouder,,,,IE73,anouk_dutch_nodate,
-fFF,opa,,,,IE73,anouk_dutch_nodate,grootvader
-fFM,oma,,,,IE73,anouk_dutch_nodate,grootmoeder
-fMF,opa,,,,IE73,anouk_dutch_nodate,grootvader
-fMM,oma,,,,IE73,anouk_dutch_nodate,grootmoeder
-fCC,kleinkind,,,,IE73,anouk_dutch_nodate,
-fSS,kleinzoon,,,,IE73,anouk_dutch_nodate,
-fSD,kleindochter,,,,IE73,anouk_dutch_nodate,
-fDS,kleinzoon,,,,IE73,anouk_dutch_nodate,
-fDD,kleindochter,,,,IE73,anouk_dutch_nodate,
-fFB,oom,,,,IE73,anouk_dutch_nodate,
-fFZ,tante,,,,IE73,anouk_dutch_nodate,
-fMB,oom,,,,IE73,anouk_dutch_nodate,
-fMZ,tante,,,,IE73,anouk_dutch_nodate,
-fFeB,oom,,,,IE73,anouk_dutch_nodate,
-fFyB,oom,,,,IE73,anouk_dutch_nodate,
-fFeZ,tante,,,,IE73,anouk_dutch_nodate,
-fFyZ,tante,,,,IE73,anouk_dutch_nodate,
-fMeZ,tante,,,,IE73,anouk_dutch_nodate,
-fMyZ,tante,,,,IE73,anouk_dutch_nodate,
-fMeB,oom,,,,IE73,anouk_dutch_nodate,
-fMyB,oom,,,,IE73,anouk_dutch_nodate,
-fBS,neef,,,,IE73,anouk_dutch_nodate,"maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
-fBD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-fZS,neef,,,,IE73,anouk_dutch_nodate,maybe: oomzegger
-fZD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-feBS,neef,,,,IE73,anouk_dutch_nodate,"maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
-fyBS,neef,,,,IE73,anouk_dutch_nodate,"maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
-feBD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-fyBD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-feZS,neef,,,,IE73,anouk_dutch_nodate,maybe: oomzegger
-fyZS,neef,,,,IE73,anouk_dutch_nodate,maybe: oomzegger
-feZD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-fyZD,nicht,,,,IE73,anouk_dutch_nodate,"nichtje (maybe also oomzegger, in explaining)"
-fFZD,nicht,,,,IE73,anouk_dutch_nodate,
-fFBD,nicht,,,,IE73,anouk_dutch_nodate,
-fMBD,nicht,,,,IE73,anouk_dutch_nodate,
-fMZD,nicht,,,,IE73,anouk_dutch_nodate,
-fFBS,neef,,,,IE73,anouk_dutch_nodate,
-fFZS,neef,,,,IE73,anouk_dutch_nodate,
-fMBS,neef,,,,IE73,anouk_dutch_nodate,
-fMZS,neef,,,,IE73,anouk_dutch_nodate,
-fFeBS,neef,,,,IE73,anouk_dutch_nodate,
-fFyBS,neef,,,,IE73,anouk_dutch_nodate,
-fFeZS,neef,,,,IE73,anouk_dutch_nodate,
-fFyZS,neef,,,,IE73,anouk_dutch_nodate,
-fFeBD,nicht,,,,IE73,anouk_dutch_nodate,
-fFyBD,nicht,,,,IE73,anouk_dutch_nodate,
-fFeZD,nicht,,,,IE73,anouk_dutch_nodate,
-fFyZD,nicht,,,,IE73,anouk_dutch_nodate,
-fMeBS,neef,,,,IE73,anouk_dutch_nodate,
-fMyBS,neef,,,,IE73,anouk_dutch_nodate,
-fMeZS,neef,,,,IE73,anouk_dutch_nodate,
-fMyZS,neef,,,,IE73,anouk_dutch_nodate,
-fMeBD,nicht,,,,IE73,anouk_dutch_nodate,
-fMyBD,nicht,,,,IE73,anouk_dutch_nodate,
-fMeZD,nicht,,,,IE73,anouk_dutch_nodate,
-fMyZD,nicht,,,,IE73,anouk_dutch_nodate,
-fFBeS,neef,,,,IE73,anouk_dutch_nodate,
-fFByS,neef,,,,IE73,anouk_dutch_nodate,
-fFZeS,neef,,,,IE73,anouk_dutch_nodate,
-fFZyS,neef,,,,IE73,anouk_dutch_nodate,
-fFBeD,nicht,,,,IE73,anouk_dutch_nodate,
-fFByD,nicht,,,,IE73,anouk_dutch_nodate,
-fFZeD,nicht,,,,IE73,anouk_dutch_nodate,
-fFZyD,nicht,,,,IE73,anouk_dutch_nodate,
-fMBeS,neef,,,,IE73,anouk_dutch_nodate,
-fMByS,neef,,,,IE73,anouk_dutch_nodate,
-fMZeS,neef,,,,IE73,anouk_dutch_nodate,
-fMZyS,neef,,,,IE73,anouk_dutch_nodate,
-fMBeD,nicht,,,,IE73,anouk_dutch_nodate,
-fMByD,nicht,,,,IE73,anouk_dutch_nodate,
-fMZeD,nicht,,,,IE73,anouk_dutch_nodate,
-fMZyD,nicht,,,,IE73,anouk_dutch_nodate,
-fE,partner,,,,IE73,anouk_dutch_nodate,
-fH,man,,,,IE73,anouk_dutch_nodate,echtgenoot
-fW,vrouw,,,,IE73,anouk_dutch_nodate,echtgenote
-fHF,schoonvader,,,,IE73,anouk_dutch_nodate,
-fHM,schoonmoeder,,,,IE73,anouk_dutch_nodate,
-fWF,schoonvader,,,,IE73,anouk_dutch_nodate,
-fWM,schoonmoeder,,,,IE73,anouk_dutch_nodate,
-fBW,schoonzus,,,,IE73,anouk_dutch_nodate,schoonzuster
-fZH,schoonbroer,,,,IE73,anouk_dutch_nodate,"alternative term: zwager (the term schoonbroer, I suspect, is not used everywhere in the Netherlands; it might be specific for the region where I come from (Limburg))(I asked my brother, also from Limburg but now living 20 years in Amsterdam: he also knows and accepts both terms)"
-fWB,schoonbroer,,,,IE73,anouk_dutch_nodate,zwager
-fWZ,schoonzus,,,,IE73,anouk_dutch_nodate,
-fHB,schoonbroer,,,,IE73,anouk_dutch_nodate,zwager
-fHZ,schoonzus,,,,IE73,anouk_dutch_nodate,
-fSW,schoondochter,,,,IE73,anouk_dutch_nodate,
-fDH,schoonzoon,,,,IE73,anouk_dutch_nodate,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG",".",,,,"IE73","anouk_dutch_nodate",""
+"mB","broer",,,,"IE73","anouk_dutch_nodate","broeder (this term is not used in normal speech, only in certain expressions, or with the meaning of ""comrade"")"
+"mZ","zus",,,,"IE73","anouk_dutch_nodate","zuster (this alternative for zus is probably not common in all regions in the Netherlands; but it can be used in certain expressions or to emphasize it)"
+"meB","broer",,,,"IE73","anouk_dutch_nodate",""
+"myB","broer",,,,"IE73","anouk_dutch_nodate",""
+"meZ","zus",,,,"IE73","anouk_dutch_nodate",""
+"myZ","zus",,,,"IE73","anouk_dutch_nodate",""
+"mP","ouder",,,,"IE73","anouk_dutch_nodate",""
+"mF","vader",,,,"IE73","anouk_dutch_nodate","papa, pa"
+"mM","moeder",,,,"IE73","anouk_dutch_nodate","mama, ma"
+"mC","kind",,,,"IE73","anouk_dutch_nodate",""
+"mS","zoon",,,,"IE73","anouk_dutch_nodate",""
+"mD","dochter",,,,"IE73","anouk_dutch_nodate",""
+"mPP","grootouder",,,,"IE73","anouk_dutch_nodate",""
+"mFF","opa",,,,"IE73","anouk_dutch_nodate","grootvader"
+"mFM","oma",,,,"IE73","anouk_dutch_nodate","grootmoeder"
+"mMF","opa",,,,"IE73","anouk_dutch_nodate","grootvader"
+"mMM","oma",,,,"IE73","anouk_dutch_nodate","grootmoeder"
+"mCC","kleinkind",,,,"IE73","anouk_dutch_nodate",""
+"mSS","kleinzoon",,,,"IE73","anouk_dutch_nodate",""
+"mSD","kleindochter",,,,"IE73","anouk_dutch_nodate",""
+"mDS","kleinzoon",,,,"IE73","anouk_dutch_nodate",""
+"mDD","kleindochter",,,,"IE73","anouk_dutch_nodate",""
+"mFB","oom",,,,"IE73","anouk_dutch_nodate",""
+"mFZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"mMB","oom",,,,"IE73","anouk_dutch_nodate",""
+"mMZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"mFeB","oom",,,,"IE73","anouk_dutch_nodate",""
+"mFyB","oom",,,,"IE73","anouk_dutch_nodate",""
+"mFeZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"mFyZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"mMeZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"mMyZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"mMeB","oom",,,,"IE73","anouk_dutch_nodate",""
+"mMyB","oom",,,,"IE73","anouk_dutch_nodate",""
+"mBS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
+"mBD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"mZS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger"
+"mZD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"meBS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
+"myBS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
+"meBD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"myBD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"meZS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger"
+"myZS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger"
+"meZD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"myZD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"mFZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFeBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFyBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFeZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFyZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFeBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFyBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFeZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFyZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMeBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMyBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMeZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMyZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMeBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMyBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMeZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMyZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFBeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFByS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFZeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFZyS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mFBeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFByD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFZeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mFZyD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMBeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMByS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMZeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMZyS","neef",,,,"IE73","anouk_dutch_nodate",""
+"mMBeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMByD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMZeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mMZyD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"mE","partner",,,,"IE73","anouk_dutch_nodate",""
+"mH","man",,,,"IE73","anouk_dutch_nodate","echtgenoot"
+"mW","vrouw",,,,"IE73","anouk_dutch_nodate","echtgenote"
+"mHF","schoonvader",,,,"IE73","anouk_dutch_nodate",""
+"mHM","schoonmoeder",,,,"IE73","anouk_dutch_nodate",""
+"mWF","schoonvader",,,,"IE73","anouk_dutch_nodate",""
+"mWM","schoonmoeder",,,,"IE73","anouk_dutch_nodate",""
+"mBW","schoonzus",,,,"IE73","anouk_dutch_nodate","schoonzuster"
+"mZH","schoonbroer",,,,"IE73","anouk_dutch_nodate","alternative term: zwager (the term schoonbroer, I suspect, is not used everywhere in the Netherlands; it might be specific for the region where I come from (Limburg))(I asked my brother, also from Limburg but now living 20 years in Amsterdam: he also knows and accepts both terms)"
+"mWB","schoonbroer",,,,"IE73","anouk_dutch_nodate","zwager"
+"mWZ","schoonzus",,,,"IE73","anouk_dutch_nodate",""
+"mHB","schoonbroer",,,,"IE73","anouk_dutch_nodate","zwager"
+"mHZ","schoonzus",,,,"IE73","anouk_dutch_nodate",""
+"mSW","schoondochter",,,,"IE73","anouk_dutch_nodate",""
+"mDH","schoonzoon",,,,"IE73","anouk_dutch_nodate",""
+"fG",".",,,,"IE73","anouk_dutch_nodate",""
+"fB","broer",,,,"IE73","anouk_dutch_nodate","broeder (this term is not used in normal speech, only in certain expressions, or with the meaning of ""comrade"")"
+"fZ","zus",,,,"IE73","anouk_dutch_nodate","zuster (this alternative for zus is probably not common in all regions in the Netherlands; but it can be used in certain expressions or to emphasize it)"
+"feB","broer",,,,"IE73","anouk_dutch_nodate",""
+"fyB","broer",,,,"IE73","anouk_dutch_nodate",""
+"feZ","zus",,,,"IE73","anouk_dutch_nodate",""
+"fyZ","zus",,,,"IE73","anouk_dutch_nodate",""
+"fP","ouder",,,,"IE73","anouk_dutch_nodate",""
+"fF","vader",,,,"IE73","anouk_dutch_nodate","papa, pa"
+"fM","moeder",,,,"IE73","anouk_dutch_nodate","mama, ma"
+"fC","kind",,,,"IE73","anouk_dutch_nodate",""
+"fS","zoon",,,,"IE73","anouk_dutch_nodate",""
+"fD","dochter",,,,"IE73","anouk_dutch_nodate",""
+"fPP","grootouder",,,,"IE73","anouk_dutch_nodate",""
+"fFF","opa",,,,"IE73","anouk_dutch_nodate","grootvader"
+"fFM","oma",,,,"IE73","anouk_dutch_nodate","grootmoeder"
+"fMF","opa",,,,"IE73","anouk_dutch_nodate","grootvader"
+"fMM","oma",,,,"IE73","anouk_dutch_nodate","grootmoeder"
+"fCC","kleinkind",,,,"IE73","anouk_dutch_nodate",""
+"fSS","kleinzoon",,,,"IE73","anouk_dutch_nodate",""
+"fSD","kleindochter",,,,"IE73","anouk_dutch_nodate",""
+"fDS","kleinzoon",,,,"IE73","anouk_dutch_nodate",""
+"fDD","kleindochter",,,,"IE73","anouk_dutch_nodate",""
+"fFB","oom",,,,"IE73","anouk_dutch_nodate",""
+"fFZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"fMB","oom",,,,"IE73","anouk_dutch_nodate",""
+"fMZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"fFeB","oom",,,,"IE73","anouk_dutch_nodate",""
+"fFyB","oom",,,,"IE73","anouk_dutch_nodate",""
+"fFeZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"fFyZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"fMeZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"fMyZ","tante",,,,"IE73","anouk_dutch_nodate",""
+"fMeB","oom",,,,"IE73","anouk_dutch_nodate",""
+"fMyB","oom",,,,"IE73","anouk_dutch_nodate",""
+"fBS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
+"fBD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"fZS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger"
+"fZD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"feBS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
+"fyBS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger (not used in normal speech, but when explaining the relationship it can be used; about this term, I asked my brother and he said: never heard of); neefje (this is the term my brother would use)"
+"feBD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"fyBD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"feZS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger"
+"fyZS","neef",,,,"IE73","anouk_dutch_nodate","maybe: oomzegger"
+"feZD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"fyZD","nicht",,,,"IE73","anouk_dutch_nodate","nichtje (maybe also oomzegger, in explaining)"
+"fFZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFeBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFyBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFeZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFyZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFeBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFyBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFeZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFyZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMeBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMyBS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMeZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMyZS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMeBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMyBD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMeZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMyZD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFBeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFByS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFZeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFZyS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fFBeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFByD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFZeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fFZyD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMBeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMByS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMZeS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMZyS","neef",,,,"IE73","anouk_dutch_nodate",""
+"fMBeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMByD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMZeD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fMZyD","nicht",,,,"IE73","anouk_dutch_nodate",""
+"fE","partner",,,,"IE73","anouk_dutch_nodate",""
+"fH","man",,,,"IE73","anouk_dutch_nodate","echtgenoot"
+"fW","vrouw",,,,"IE73","anouk_dutch_nodate","echtgenote"
+"fHF","schoonvader",,,,"IE73","anouk_dutch_nodate",""
+"fHM","schoonmoeder",,,,"IE73","anouk_dutch_nodate",""
+"fWF","schoonvader",,,,"IE73","anouk_dutch_nodate",""
+"fWM","schoonmoeder",,,,"IE73","anouk_dutch_nodate",""
+"fBW","schoonzus",,,,"IE73","anouk_dutch_nodate","schoonzuster"
+"fZH","schoonbroer",,,,"IE73","anouk_dutch_nodate","alternative term: zwager (the term schoonbroer, I suspect, is not used everywhere in the Netherlands; it might be specific for the region where I come from (Limburg))(I asked my brother, also from Limburg but now living 20 years in Amsterdam: he also knows and accepts both terms)"
+"fWB","schoonbroer",,,,"IE73","anouk_dutch_nodate","zwager"
+"fWZ","schoonzus",,,,"IE73","anouk_dutch_nodate",""
+"fHB","schoonbroer",,,,"IE73","anouk_dutch_nodate","zwager"
+"fHZ","schoonzus",,,,"IE73","anouk_dutch_nodate",""
+"fSW","schoondochter",,,,"IE73","anouk_dutch_nodate",""
+"fDH","schoonzoon",,,,"IE73","anouk_dutch_nodate",""

@@ -1,434 +1,493 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,
-mF,taata,,,,AC45(266),ceyssens_pouvoir_1984,
-mM,maama,,,,AC45(266),ceyssens_pouvoir_1984,
-mC,mwana,,,,AC45(266),ceyssens_pouvoir_1984,
-meS,kaayi,,,,AC45(274),ceyssens_pouvoir_1984,
-mPP,nkaaka,,,,AC45(266),ceyssens_pouvoir_1984,
-mCC,mukaakana,,,,AC45(266),ceyssens_pouvoir_1984,
-mFZ,taata mukaatu,,,,AC45(267),ceyssens_pouvoir_1984,
-mBS,mwana,,,,AC45(268),ceyssens_pouvoir_1984,
-mBD,mwana,,,,AC45(268),ceyssens_pouvoir_1984,
-mZS,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,
-mZD,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,
-mFZD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-mMBD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-mFZS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-mMBS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-mFBeS,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-mFByS,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-mFZeS,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-mFZyS,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-mMBeS,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-mMByS,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-mMZeS,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-mMZyS,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-mH,mulumi,,,,AC45(268),ceyssens_pouvoir_1984,
-mW,mukadi,,,,AC45(268),ceyssens_pouvoir_1984,
-mBW,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-mZH,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-mWB,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-mWZ,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-mHB,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-mHZ,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-mFZH,taata,,,,AC45(267),ceyssens_pouvoir_1984,
-mFBW,maama,,,,AC45(267),ceyssens_pouvoir_1984,
-mMZH,taata,,,,AC45(267),ceyssens_pouvoir_1984,
-mMBW,maama,,,,AC45(267),ceyssens_pouvoir_1984,
-mFeZ,taata mukaatu,,,,AC45(267),ceyssens_pouvoir_1984,Inferred; NA
-mFyZ,taata mukaatu,,,,AC45(267),ceyssens_pouvoir_1984,Inferred; NA
-meBS,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-myBS,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-meBD,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-myBD,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-meZS,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-myZS,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-meZD,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-myZD,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-mFeZS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mFyZS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mFeZD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mFyZD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mMeBS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mMyBS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mMeBD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mMyBD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fZ,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,
-fF,taata,,,,AC45(266),ceyssens_pouvoir_1984,
-fM,maama,,,,AC45(266),ceyssens_pouvoir_1984,
-fC,mwana,,,,AC45(266),ceyssens_pouvoir_1984,
-fPP,nkaaka,,,,AC45(266),ceyssens_pouvoir_1984,
-fCC,mukaakana,,,,AC45(266),ceyssens_pouvoir_1984,
-fFZ,taata mukaatu,,,,AC45(267),ceyssens_pouvoir_1984,
-fBS,mwana,,,,AC45(268),ceyssens_pouvoir_1984,
-fBD,mwana,,,,AC45(268),ceyssens_pouvoir_1984,
-fZS,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,
-fZD,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,
-fFZD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-fMBD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-fFZS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-fMBS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,crossed cousin
-fFBeD,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-fFByD,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-fFZeD,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-fFZyD,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-fMBeD,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-fMByD,munkunyi,,,,AC45(267),ceyssens_pouvoir_1984,if younger than Ego
-fMZeD,mukulu,,,,AC45(267),ceyssens_pouvoir_1984,if older than Ego
-fH,mulumi,,,,AC45(268),ceyssens_pouvoir_1984,
-fW,mukadi,,,,AC45(268),ceyssens_pouvoir_1984,
-fBW,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-fZH,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-fWB,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-fWZ,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-fHB,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-fHZ,nkwedi,,,,AC45(269),ceyssens_pouvoir_1984,
-fFZH,taata,,,,AC45(267),ceyssens_pouvoir_1984,
-fFBW,maama,,,,AC45(267),ceyssens_pouvoir_1984,
-fMZH,taata,,,,AC45(267),ceyssens_pouvoir_1984,
-fMBW,maama,,,,AC45(267),ceyssens_pouvoir_1984,
-fFeZ,taata mukaatu,,,,AC45(267),ceyssens_pouvoir_1984,Inferred; NA
-fFyZ,taata mukaatu,,,,AC45(267),ceyssens_pouvoir_1984,Inferred; NA
-feBS,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-fyBS,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-feBD,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-fyBD,mwana,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-feZS,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-fyZS,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-feZD,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-fyZD,mwewu,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; NA
-fFeZS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fFyZS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fFeZD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fFyZD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fMeBS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fMyBS,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fMeBD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-fMyBD,musonyi,,,,AC45(268),ceyssens_pouvoir_1984,Inferred; crossed cousin
-mB,ijℇ,,,,AC44(177),mertens_dictionnaire_1939,
-mB,mpja,,,,AC44(177),mertens_dictionnaire_1939,
-mB,ŋkur,,,,AC44(177),mertens_dictionnaire_1939,
-meB,ibul intsœm,,,,AC44(129),mertens_dictionnaire_1939,
-meB,ŋkur wu kup,,,,AC44(129),mertens_dictionnaire_1939,
-myB,ŋkur mukje,,,,AC44(141),mertens_dictionnaire_1939,
-myB,mukoom,,,,AC44(141),mertens_dictionnaire_1939,
-meZ,ijℇ,,,,AC44(129),mertens_dictionnaire_1939,
-myZ,mukoom,,,,AC44(227),mertens_dictionnaire_1939,
-mP,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mF,taa,,,,AC44(206),mertens_dictionnaire_1939,
-mM,maa,,,,AC44(196),mertens_dictionnaire_1939,
-mM,ŋƔwa,,,,AC44(196),mertens_dictionnaire_1939,
-mM,ŋgwen,,,,AC44(101),mertens_dictionnaire_1939,
-mS,mwaa ibaal,,,,AC44(175),mertens_dictionnaire_1939,
-mS,mwan ntsjem,,,,AC44(175),mertens_dictionnaire_1939,
-myS,mwan ntsœŋ,,,,AC44(141),mertens_dictionnaire_1939,
-myS,mwan ŋƔuu,,,,AC44(141),mertens_dictionnaire_1939,
-mD,mukaar a mpu,,,,AC44(175),mertens_dictionnaire_1939,
-mA,bakul ba mintsoŋ,,,,AC44(128),mertens_dictionnaire_1939,
-mA,ba mintsuŋ,,,,AC44(128),mertens_dictionnaire_1939,
-mA,bataa bakup,,,,AC44(128),mertens_dictionnaire_1939,
-mFF,buko ba ntẛjœm,,,,AC44(128),mertens_dictionnaire_1939,
-mFF,muntiil,,,,AC44(128),mertens_dictionnaire_1939,
-mFF,mutiil,,,,AC44(128),mertens_dictionnaire_1939,
-mFM,buko ba mukaar,,,,AC44(128),mertens_dictionnaire_1939,
-mFM,ŋkaa,,,,AC44(128),mertens_dictionnaire_1939,
-mMF,maa ŋkaa,,,,AC44(180),mertens_dictionnaire_1939,
-mMM,buko ba mukaar,,,,AC44(128),mertens_dictionnaire_1939,
-mMM,ŋkaa,,,,AC44(128),mertens_dictionnaire_1939,
-mSS,muntiil,,,,AC44(207),mertens_dictionnaire_1939,
-mSS,mutiil,,,,AC44(207),mertens_dictionnaire_1939,
-mDS,muntiil,,,,AC44(207),mertens_dictionnaire_1939,
-mDS,mutiil,,,,AC44(207),mertens_dictionnaire_1939,
-mFB,taa koom,,,,AC44(201),mertens_dictionnaire_1939,
-mFZ,taa mukaar,,,buku (depending on closeness),AC44(231),mertens_dictionnaire_1939,
-mMB,maa mŋaŋ,,,,AC44(201),mertens_dictionnaire_1939,
-mMB,mpja,,,,AC44(201),mertens_dictionnaire_1939,
-mMZ,maa koom,,,,AC44(231),mertens_dictionnaire_1939,
-mFZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mFZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mFBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mFBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mMBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mMBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mMZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mMZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mFBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mFBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mFZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mFZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mMBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mMBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mMZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-mMZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-mH,mudzim,,,,AC44(169),mertens_dictionnaire_1939,
-mW,mukjaj,,,,AC44(169),mertens_dictionnaire_1939,
-mHF,taa buko,,,,AC44(137),mertens_dictionnaire_1939,
-mHF,buko ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-mHF,buŋkil ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-mHM,maa buko,,,,AC44(137),mertens_dictionnaire_1939,
-mHM,buko mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-mHM,buŋkil mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-mWF,taa buko,,,,AC44(137),mertens_dictionnaire_1939,
-mWF,buko ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-mWF,buŋkil ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-mWM,maa buko,,,,AC44(137),mertens_dictionnaire_1939,
-mWM,buko mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-mWM,buŋkil mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-mBW,mukjaj koom,,,,AC44(137),mertens_dictionnaire_1939,
-mZH,mulℇℇj,,,,AC44(137),mertens_dictionnaire_1939,
-mWB,mulℇℇj,,,,AC44(137),mertens_dictionnaire_1939,
-mWZ,mukjaj koom,,,,AC44(137),mertens_dictionnaire_1939,
-mHB,mulℇℇj,,,,AC44(137),mertens_dictionnaire_1939,
-mHZ,mukjaj koom,,,,AC44(137),mertens_dictionnaire_1939,
-mco-W,mpaabaal,,,,AC44(174),mertens_dictionnaire_1939,
-mco-W,mukjaj a mbœŋ,,,,AC44(174),mertens_dictionnaire_1939,first wife
-mSW,buko,,,buku,AC44(137),mertens_dictionnaire_1939,
-mDH,buko,,,buku,AC44(137),mertens_dictionnaire_1939,
-mDH,buko ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-mDH,buŋkil ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-mFeB,taa koom,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-mFyB,taa koom,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-mFeZ,taa mukaar,,,buku (depending on closeness),AC44(231),mertens_dictionnaire_1939,Inferred; NA
-mFyZ,taa mukaar,,,buku (depending on closeness),AC44(231),mertens_dictionnaire_1939,Inferred; NA
-mMeZ,maa koom,,,,AC44(231),mertens_dictionnaire_1939,Inferred; NA
-mMyZ,maa koom,,,,AC44(231),mertens_dictionnaire_1939,Inferred; NA
-mMeB,maa mŋaŋ,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-mMeB,mpja,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-mMyB,maa mŋaŋ,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-mMyB,mpja,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-mFeBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFeZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mFyZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMeZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mMyZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fB,ijℇ,,,,AC44(177),mertens_dictionnaire_1939,
-fB,mpja,,,,AC44(177),mertens_dictionnaire_1939,
-fB,ŋkur,,,,AC44(177),mertens_dictionnaire_1939,
-feB,ibul intsœm,,,,AC44(129),mertens_dictionnaire_1939,
-feB,ŋkur wu kup,,,,AC44(129),mertens_dictionnaire_1939,
-fyB,ŋkur mukje,,,,AC44(141),mertens_dictionnaire_1939,
-fyB,mukoom,,,,AC44(141),mertens_dictionnaire_1939,
-feZ,ijℇ,,,,AC44(129),mertens_dictionnaire_1939,
-fyZ,mukoom,,,,AC44(227),mertens_dictionnaire_1939,
-fP,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fF,taa,,,,AC44(206),mertens_dictionnaire_1939,
-fM,ŋƔwa,,,,AC44(196),mertens_dictionnaire_1939,
-fM,ŋgwen,,,,AC44(101),mertens_dictionnaire_1939,
-fS,mwaa ibaal,,,,AC44(175),mertens_dictionnaire_1939,
-fS,mwan ntsjem,,,,AC44(175),mertens_dictionnaire_1939,
-fyS,mwan ntsœŋ,,,,AC44(141),mertens_dictionnaire_1939,
-fyS,mwan ŋƔuu,,,,AC44(141),mertens_dictionnaire_1939,
-fD,mukaar a mpu,,,,AC44(175),mertens_dictionnaire_1939,
-fA,bakul ba mintsoŋ,,,,AC44(128),mertens_dictionnaire_1939,
-fA,ba mintsuŋ,,,,AC44(128),mertens_dictionnaire_1939,
-fA,bataa bakup,,,,AC44(128),mertens_dictionnaire_1939,
-fFF,buko ba ntẛjœm,,,,AC44(128),mertens_dictionnaire_1939,
-fFF,muntiil,,,,AC44(128),mertens_dictionnaire_1939,
-fFF,mutiil,,,,AC44(128),mertens_dictionnaire_1939,
-fFM,buko ba mukaar,,,,AC44(128),mertens_dictionnaire_1939,
-fFM,ŋkaa,,,,AC44(128),mertens_dictionnaire_1939,
-fMF,maa ŋkaa,,,,AC44(180),mertens_dictionnaire_1939,
-fMM,buko ba mukaar,,,,AC44(128),mertens_dictionnaire_1939,
-fMM,ŋkaa,,,,AC44(128),mertens_dictionnaire_1939,
-fSS,muntiil,,,,AC44(207),mertens_dictionnaire_1939,
-fSS,mutiil,,,,AC44(207),mertens_dictionnaire_1939,
-fDS,muntiil,,,,AC44(207),mertens_dictionnaire_1939,
-fDS,mutiil,,,,AC44(207),mertens_dictionnaire_1939,
-fFB,taa koom,,,,AC44(201),mertens_dictionnaire_1939,
-fFZ,taa mukaar,,,buku (depending on closeness),AC44(231),mertens_dictionnaire_1939,
-fMB,maa mŋaŋ,,,,AC44(201),mertens_dictionnaire_1939,
-fMB,mpja,,,,AC44(201),mertens_dictionnaire_1939,
-fMZ,maa koom,,,,AC44(231),mertens_dictionnaire_1939,
-fFZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fFZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fFBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fFBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fMBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fMBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fMZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fMZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fFBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fFBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fFZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fFZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fMBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fMBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fMZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,
-fMZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,
-fH,mudzim,,,,AC44(169),mertens_dictionnaire_1939,
-fW,mukjaj,,,,AC44(169),mertens_dictionnaire_1939,
-fHF,taa buko,,,,AC44(137),mertens_dictionnaire_1939,
-fHF,buko ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-fHF,buŋkil ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-fHM,maa buko,,,,AC44(137),mertens_dictionnaire_1939,
-fHM,buko mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-fHM,buŋkil mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-fWF,taa buko,,,,AC44(137),mertens_dictionnaire_1939,
-fWF,buko ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-fWF,buŋkil ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-fWM,maa buko,,,,AC44(137),mertens_dictionnaire_1939,
-fWM,buko mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-fWM,buŋkil mukaar,,,,AC44(137),mertens_dictionnaire_1939,
-fBW,mukjaj koom,,,,AC44(137),mertens_dictionnaire_1939,
-fZH,mulℇℇj,,,,AC44(137),mertens_dictionnaire_1939,
-fWB,mulℇℇj,,,,AC44(137),mertens_dictionnaire_1939,
-fWZ,mukjaj koom,,,,AC44(137),mertens_dictionnaire_1939,
-fHB,mulℇℇj,,,,AC44(137),mertens_dictionnaire_1939,
-fHZ,mukjaj koom,,,,AC44(137),mertens_dictionnaire_1939,
-fco-W,mpaabaal,,,,AC44(174),mertens_dictionnaire_1939,
-fco-W,mukjaj a mbœŋ,,,,AC44(174),mertens_dictionnaire_1939,first wife
-fSW,buko,,,buku,AC44(137),mertens_dictionnaire_1939,
-fDH,buko,,,buku,AC44(137),mertens_dictionnaire_1939,
-fDH,buko ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-fDH,buŋkil ibaal,,,,AC44(137),mertens_dictionnaire_1939,
-fFeB,taa koom,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-fFyB,taa koom,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-fFeZ,taa mukaar,,,buku (depending on closeness),AC44(231),mertens_dictionnaire_1939,Inferred; NA
-fFyZ,taa mukaar,,,buku (depending on closeness),AC44(231),mertens_dictionnaire_1939,Inferred; NA
-fMeZ,maa koom,,,,AC44(231),mertens_dictionnaire_1939,Inferred; NA
-fMyZ,maa koom,,,,AC44(231),mertens_dictionnaire_1939,Inferred; NA
-fMeB,maa mŋaŋ,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-fMeB,mpja,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-fMyB,maa mŋaŋ,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-fMyB,mpja,,,,AC44(201),mertens_dictionnaire_1939,Inferred; NA
-fFeBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFeZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fFyZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyBS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyBS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyZS,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyZS,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyBD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyBD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMeZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyZD,ŋkœm,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-fMyZD,mpaŋ,,,,AC44(152),mertens_dictionnaire_1939,Inferred; NA
-mA,bakul,,,,AC59(53),muluwa_lexique_2015,
-mSD,mutiil,,,,AC59(141),muluwa_lexique_2015,
-mDD,mutiil,,,,AC59(141),muluwa_lexique_2015,
-mBS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-mBD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-mZS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-mZD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-mFZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mFBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mMBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mMZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mFBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mFZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mMBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mMZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-mW,mukyay,,,,AC59(88),muluwa_lexique_2015,
-mDH,mutsiil,,,,AC59(59),muluwa_lexique_2015,
-meBS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-myBS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-meBD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-myBD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-meZS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-myZS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-meZD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-myZD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-mFeBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFyBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFeZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFyZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFeBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFyBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFeZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mFyZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMeBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMyBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMeZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMyZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMeBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMyBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMeZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-mMyZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fA,bakul,,,,AC59(53),muluwa_lexique_2015,
-fSD,mutiil,,,,AC59(141),muluwa_lexique_2015,
-fDD,mutiil,,,,AC59(141),muluwa_lexique_2015,
-fBS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-fBD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-fZS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-fZD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,
-fFZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fFBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fMBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fMZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fFBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fFZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fMBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fMZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,
-fW,mukyay,,,,AC59(88),muluwa_lexique_2015,
-fDH,mutsiil,,,,AC59(59),muluwa_lexique_2015,
-feBS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-fyBS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-feBD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-fyBD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-feZS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-fyZS,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-feZD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-fyZD,mwa kↄↄm,,,,AC59(126),muluwa_lexique_2015,Inferred; NA
-fFeBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFyBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFeZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFyZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFeBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFyBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFeZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fFyZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMeBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMyBS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMeZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMyZS,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMeBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMyBD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMeZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
-fMyZD,mwátaá,,,,AC59(76),muluwa_lexique_2015,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"mF","taata",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"mM","maama",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"mC","mwana",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"meS","kaayi",,,"","AC45(274)","ceyssens_pouvoir_1984",""
+"mPP","nkaaka",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"mCC","mukaakana",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"mFZ","taata mukaatu",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"mBS","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"mBD","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"mZS","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"mZD","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"mFZD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"mMBD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"mFZS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"mMBS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"mFBeS","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"mFByS","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"mFZeS","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"mFZyS","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"mMBeS","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"mMByS","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"mMZeS","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"mMZyS","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"mH","mulumi",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"mW","mukadi",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"mBW","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"mZH","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"mWB","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"mWZ","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"mHB","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"mHZ","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"mFZH","taata",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"mFBW","maama",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"mMZH","taata",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"mMBW","maama",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"mFeZ","taata mukaatu",,,"","AC45(267)","ceyssens_pouvoir_1984","Inferred; NA"
+"mFyZ","taata mukaatu",,,"","AC45(267)","ceyssens_pouvoir_1984","Inferred; NA"
+"meBS","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"myBS","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"meBD","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"myBD","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"meZS","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"myZS","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"meZD","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"myZD","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"mFeZS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mFyZS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mFeZD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mFyZD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mMeBS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mMyBS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mMeBD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mMyBD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fZ","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"fF","taata",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"fM","maama",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"fC","mwana",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"fPP","nkaaka",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"fCC","mukaakana",,,"","AC45(266)","ceyssens_pouvoir_1984",""
+"fFZ","taata mukaatu",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"fBS","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"fBD","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"fZS","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"fZD","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"fFZD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"fMBD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"fFZS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"fMBS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","crossed cousin"
+"fFBeD","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"fFByD","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"fFZeD","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"fFZyD","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"fMBeD","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"fMByD","munkunyi",,,"","AC45(267)","ceyssens_pouvoir_1984","if younger than Ego"
+"fMZeD","mukulu",,,"","AC45(267)","ceyssens_pouvoir_1984","if older than Ego"
+"fH","mulumi",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"fW","mukadi",,,"","AC45(268)","ceyssens_pouvoir_1984",""
+"fBW","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"fZH","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"fWB","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"fWZ","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"fHB","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"fHZ","nkwedi",,,"","AC45(269)","ceyssens_pouvoir_1984",""
+"fFZH","taata",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"fFBW","maama",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"fMZH","taata",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"fMBW","maama",,,"","AC45(267)","ceyssens_pouvoir_1984",""
+"fFeZ","taata mukaatu",,,"","AC45(267)","ceyssens_pouvoir_1984","Inferred; NA"
+"fFyZ","taata mukaatu",,,"","AC45(267)","ceyssens_pouvoir_1984","Inferred; NA"
+"feBS","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"fyBS","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"feBD","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"fyBD","mwana",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"feZS","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"fyZS","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"feZD","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"fyZD","mwewu",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; NA"
+"fFeZS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fFyZS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fFeZD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fFyZD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fMeBS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fMyBS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fMeBD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fMyBD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mB","ijℇ",,,"","AC44(177)","mertens_dictionnaire_1939",""
+"mB","mpja",,,"","AC44(177)","mertens_dictionnaire_1939",""
+"mB","ŋkur",,,"","AC44(177)","mertens_dictionnaire_1939",""
+"meB","ibul intsœm",,,"","AC44(129)","mertens_dictionnaire_1939",""
+"meB","ŋkur wu kup",,,"","AC44(129)","mertens_dictionnaire_1939",""
+"myB","ŋkur mukje",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"myB","mukoom",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"meZ","ijℇ",,,"","AC44(129)","mertens_dictionnaire_1939",""
+"myZ","mukoom",,,"","AC44(227)","mertens_dictionnaire_1939",""
+"mP","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mF","taa",,,"","AC44(206)","mertens_dictionnaire_1939",""
+"mM","maa",,,"","AC44(196)","mertens_dictionnaire_1939",""
+"mM","ŋƔwa",,,"","AC44(196)","mertens_dictionnaire_1939",""
+"mM","ŋgwen",,,"","AC44(101)","mertens_dictionnaire_1939",""
+"mS","mwaa ibaal",,,"","AC44(175)","mertens_dictionnaire_1939",""
+"mS","mwan ntsjem",,,"","AC44(175)","mertens_dictionnaire_1939",""
+"myS","mwan ntsœŋ",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"myS","mwan ŋƔuu",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"mD","mukaar a mpu",,,"","AC44(175)","mertens_dictionnaire_1939",""
+"mA","bakul ba mintsoŋ",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mA","ba mintsuŋ",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mA","bataa bakup",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mFF","buko ba ntẛjœm",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mFF","muntiil",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mFF","mutiil",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mFM","buko ba mukaar",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mFM","ŋkaa",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mMF","maa ŋkaa",,,"","AC44(180)","mertens_dictionnaire_1939",""
+"mMM","buko ba mukaar",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mMM","ŋkaa",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"mSS","muntiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"mSS","mutiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"mDS","muntiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"mDS","mutiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"mFB","taa koom",,,"","AC44(201)","mertens_dictionnaire_1939",""
+"mFZ","taa mukaar",,,"buku (depending on closeness)","AC44(231)","mertens_dictionnaire_1939",""
+"mMB","maa mŋaŋ",,,"","AC44(201)","mertens_dictionnaire_1939",""
+"mMB","mpja",,,"","AC44(201)","mertens_dictionnaire_1939",""
+"mMZ","maa koom",,,"","AC44(231)","mertens_dictionnaire_1939",""
+"mFZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mFZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mMZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"mH","mudzim",,,"","AC44(169)","mertens_dictionnaire_1939",""
+"mW","mukjaj",,,"","AC44(169)","mertens_dictionnaire_1939",""
+"mHF","taa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHF","buko ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHF","buŋkil ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHM","maa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHM","buko mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHM","buŋkil mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWF","taa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWF","buko ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWF","buŋkil ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWM","maa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWM","buko mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWM","buŋkil mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mBW","mukjaj koom",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mZH","mulℇℇj",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWB","mulℇℇj",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mWZ","mukjaj koom",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHB","mulℇℇj",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mHZ","mukjaj koom",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mco-W","mpaabaal",,,"","AC44(174)","mertens_dictionnaire_1939",""
+"mco-W","mukjaj a mbœŋ",,,"","AC44(174)","mertens_dictionnaire_1939","first wife"
+"mSW","buko",,,"buku","AC44(137)","mertens_dictionnaire_1939",""
+"mDH","buko",,,"buku","AC44(137)","mertens_dictionnaire_1939",""
+"mDH","buko ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mDH","buŋkil ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"mFeB","taa koom",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyB","taa koom",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeZ","taa mukaar",,,"buku (depending on closeness)","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyZ","taa mukaar",,,"buku (depending on closeness)","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeZ","maa koom",,,"","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyZ","maa koom",,,"","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeB","maa mŋaŋ",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeB","mpja",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyB","maa mŋaŋ",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyB","mpja",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFeZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mFyZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMeZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mMyZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fB","ijℇ",,,"","AC44(177)","mertens_dictionnaire_1939",""
+"fB","mpja",,,"","AC44(177)","mertens_dictionnaire_1939",""
+"fB","ŋkur",,,"","AC44(177)","mertens_dictionnaire_1939",""
+"feB","ibul intsœm",,,"","AC44(129)","mertens_dictionnaire_1939",""
+"feB","ŋkur wu kup",,,"","AC44(129)","mertens_dictionnaire_1939",""
+"fyB","ŋkur mukje",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"fyB","mukoom",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"feZ","ijℇ",,,"","AC44(129)","mertens_dictionnaire_1939",""
+"fyZ","mukoom",,,"","AC44(227)","mertens_dictionnaire_1939",""
+"fP","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fF","taa",,,"","AC44(206)","mertens_dictionnaire_1939",""
+"fM","ŋƔwa",,,"","AC44(196)","mertens_dictionnaire_1939",""
+"fM","ŋgwen",,,"","AC44(101)","mertens_dictionnaire_1939",""
+"fS","mwaa ibaal",,,"","AC44(175)","mertens_dictionnaire_1939",""
+"fS","mwan ntsjem",,,"","AC44(175)","mertens_dictionnaire_1939",""
+"fyS","mwan ntsœŋ",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"fyS","mwan ŋƔuu",,,"","AC44(141)","mertens_dictionnaire_1939",""
+"fD","mukaar a mpu",,,"","AC44(175)","mertens_dictionnaire_1939",""
+"fA","bakul ba mintsoŋ",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fA","ba mintsuŋ",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fA","bataa bakup",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fFF","buko ba ntẛjœm",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fFF","muntiil",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fFF","mutiil",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fFM","buko ba mukaar",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fFM","ŋkaa",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fMF","maa ŋkaa",,,"","AC44(180)","mertens_dictionnaire_1939",""
+"fMM","buko ba mukaar",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fMM","ŋkaa",,,"","AC44(128)","mertens_dictionnaire_1939",""
+"fSS","muntiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"fSS","mutiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"fDS","muntiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"fDS","mutiil",,,"","AC44(207)","mertens_dictionnaire_1939",""
+"fFB","taa koom",,,"","AC44(201)","mertens_dictionnaire_1939",""
+"fFZ","taa mukaar",,,"buku (depending on closeness)","AC44(231)","mertens_dictionnaire_1939",""
+"fMB","maa mŋaŋ",,,"","AC44(201)","mertens_dictionnaire_1939",""
+"fMB","mpja",,,"","AC44(201)","mertens_dictionnaire_1939",""
+"fMZ","maa koom",,,"","AC44(231)","mertens_dictionnaire_1939",""
+"fFZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fFZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fMZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939",""
+"fH","mudzim",,,"","AC44(169)","mertens_dictionnaire_1939",""
+"fW","mukjaj",,,"","AC44(169)","mertens_dictionnaire_1939",""
+"fHF","taa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHF","buko ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHF","buŋkil ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHM","maa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHM","buko mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHM","buŋkil mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWF","taa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWF","buko ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWF","buŋkil ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWM","maa buko",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWM","buko mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWM","buŋkil mukaar",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fBW","mukjaj koom",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fZH","mulℇℇj",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWB","mulℇℇj",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fWZ","mukjaj koom",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHB","mulℇℇj",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fHZ","mukjaj koom",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fco-W","mpaabaal",,,"","AC44(174)","mertens_dictionnaire_1939",""
+"fco-W","mukjaj a mbœŋ",,,"","AC44(174)","mertens_dictionnaire_1939","first wife"
+"fSW","buko",,,"buku","AC44(137)","mertens_dictionnaire_1939",""
+"fDH","buko",,,"buku","AC44(137)","mertens_dictionnaire_1939",""
+"fDH","buko ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fDH","buŋkil ibaal",,,"","AC44(137)","mertens_dictionnaire_1939",""
+"fFeB","taa koom",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyB","taa koom",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeZ","taa mukaar",,,"buku (depending on closeness)","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyZ","taa mukaar",,,"buku (depending on closeness)","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeZ","maa koom",,,"","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyZ","maa koom",,,"","AC44(231)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeB","maa mŋaŋ",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeB","mpja",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyB","maa mŋaŋ",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyB","mpja",,,"","AC44(201)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFeZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fFyZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyBS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyBS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyZS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyZS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyBD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyBD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMeZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyZD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"fMyZD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; NA"
+"mA","bakul",,,"","AC59(53)","muluwa_lexique_2015",""
+"mSD","mutiil",,,"","AC59(141)","muluwa_lexique_2015",""
+"mDD","mutiil",,,"","AC59(141)","muluwa_lexique_2015",""
+"mBS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"mBD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"mZS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"mZD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"mFZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mFBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mMBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mMZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mFBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mFZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mMBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mMZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"mW","mukyay",,,"","AC59(88)","muluwa_lexique_2015",""
+"mDH","mutsiil",,,"","AC59(59)","muluwa_lexique_2015",""
+"meBS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"myBS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"meBD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"myBD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"meZS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"myZS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"meZD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"myZD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"mFeBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFyBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFeZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFyZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFeBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFyBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFeZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFyZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMeBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMyBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMeZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMyZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMeBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMyBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMeZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mMyZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fA","bakul",,,"","AC59(53)","muluwa_lexique_2015",""
+"fSD","mutiil",,,"","AC59(141)","muluwa_lexique_2015",""
+"fDD","mutiil",,,"","AC59(141)","muluwa_lexique_2015",""
+"fBS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"fBD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"fZS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"fZD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015",""
+"fFZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fFBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fMBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fMZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fFBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fFZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fMBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fMZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015",""
+"fW","mukyay",,,"","AC59(88)","muluwa_lexique_2015",""
+"fDH","mutsiil",,,"","AC59(59)","muluwa_lexique_2015",""
+"feBS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"fyBS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"feBD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"fyBD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"feZS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"fyZS","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"feZD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"fyZD","mwa kↄↄm",,,"","AC59(126)","muluwa_lexique_2015","Inferred; NA"
+"fFeBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFyBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFeZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFyZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFeBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFyBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFeZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fFyZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMeBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMyBS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMeZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMyZS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMeBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMyBD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMeZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"fMyZD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; NA"
+"mFBeD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFBeD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFBeD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mFByD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFByD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFByD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mFZeD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mFZeD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFZeD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFZeD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mFZyD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mFZyD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFZyD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mFZyD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mMBeD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mMBeD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMBeD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMBeD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mMByD","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"mMByD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMByD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMByD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mMZeD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMZeD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMZeD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"mMZyD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMZyD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"mMZyD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fFBeS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFBeS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFBeS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fFByS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFByS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFByS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fFZeS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fFZeS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFZeS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFZeS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fFZyS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fFZyS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFZyS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fFZyS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fMBeS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fMBeS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMBeS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMBeS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fMByS","musonyi",,,"","AC45(268)","ceyssens_pouvoir_1984","Inferred; crossed cousin"
+"fMByS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMByS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMByS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fMZeS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMZeS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMZeS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fMZyS","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMZyS","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMZyS","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "
+"fMZyD","ŋkœm",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMZyD","mpaŋ",,,"","AC44(152)","mertens_dictionnaire_1939","Inferred; "
+"fMZyD","mwátaá",,,"","AC59(76)","muluwa_lexique_2015","Inferred; "

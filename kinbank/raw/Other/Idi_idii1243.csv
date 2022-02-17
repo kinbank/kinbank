@@ -1,107 +1,107 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mosən,mosən,male speaker's older brother,,,,
-myB,mənʤən,mənʤən,male speaker's younger brother,,,,
-feB,mosən,mosən,female speaker's older brother,,,,
-fyB,mənʤən,mənʤən,female speaker's younger brother,,,,
-meZ,mosən,mosən,male speaker's older sister,,,,
-myZ,mənʤən,mənʤən,male speaker's younger sister,,,,
-feZ,mosən,mosən,female speaker's older sister,,,,
-fyZ,mənʤən,mənʤən,female speaker's younger sister,,,,
-mF,yaya,yaya,male speaker's father,,,,
-mM,nænæ,nænæ,male speaker's mother,,,,
-fF,yaya,yaya,female speaker's father,,,,
-fM,nænæ,nænæ,female speaker's mother,,,,
-mS,gæd,gæd,male speaker's son,,,,
-fS,gæd,gæd,female speaker's son,,,,
-mD,gæd,gæd,male speaker's daughter,,,,
-fD,gæd,gæd,female speaker's daughter,,,,
-mSS,kak,kak,male speaker's son's son,,,,
-mSD,kak,kak,male speaker's son's daughter,,,,
-mDS,kak,kak,male speaker's daughter's son,,,,
-mDD,kak,kak,male speaker's daughter's daughter,,,,
-fSS,kak,kak,female speaker's son's son,,,,
-fSD,kak,kak,female speaker's son's daughter,,,,
-fDS,kak,kak,female speaker's daughter's son,,,,
-fDD,kak,kak,female speaker's daugher's daughter,,,,
-mFF,kak,kak,male speaker's father‘s father,,,,
-mFM,kak,kak,male speaker's father's mother,,,,
-mMF,kak,kak,male speaker's mother's father,,,,
-mMM,kak,kak,male speaker's mother's mother,,,,
-fFF,kak,kak,female speaker's father's father,,,,
-fFM,kak,kak,female speaker's father's mother,,,,
-fMF,kak,kak,female speaker's mother's father,,,,
-fMM,kak,kak,female speaker's mother's mother,,,,
-meBS,gæd,gæd,male speaker's older brother's son,,,,
-myBS,məndi,məndi,male speaker's younger brother's son,,,,
-meZS,baba,baba,male speaker's older sister's son,,,,
-myZS,baba,baba,male speaker's younger sister's son,,,,
-meBD,gæd,gæd,male speaker's older brother's daughter,,,,
-myBD,məndi,məndi,male speaker's younger brother's daughter,,,,
-meZD,baba,baba,male speaker's older sister's daughter,,,,
-myZD,baba,baba,male speaker's younger sister's daughter,,,,
-feBS,gæd,gæd,female speaker's older brother's son,,,,
-fyBS,məndi,məndi,female speaker's younger brother's son,,,,
-feZS,baba,baba,female speaker's older sister's son,,,,
-fyZS,baba,baba,female speaker's younger sister's son,,,,
-feBD,gæd,gæd,female speaker's older brother's daughter,,,,
-fyBD,məndi,məndi,female speaker's younger brother's daughter,,,,
-feZD,baba,baba,female speaker's older sister's daughter,,,,
-fyZD,baba,baba,female speaker's younger sister's daughter,,,,
-mFeB,məndi,məndi,male speaker's father's older brother,,,,
-mFyB,meyaŋg,meyaŋg,male speaker's father's younger brother,,,,
-mFeZ,məndi,məndi,male speaker's father's older sister,,,,
-mFyZ,eli,eli,male speaker's father's younger sister,,,,
-mMeB,baba,baba,male speaker's mother's older brother,,,,
-mMyB,baba,baba,male speaker's mother's younger brother,,,,
-mMeZ,"nænæ, nænæ risi","nænæ, nænæ risi",male speaker's mother's older sister,,,,
-mMyZ,"nænæ, nænæ kəɖ","nænæ, nænæ kəɖ",male speaker's mother's younger sister,,,,
-fFeB,məndi,məndi,female speaker's father's older brother,,,,
-fFyB,meyaŋg,meyaŋg,female speaker's father's younger brother,,,,
-fFeZ,məndi,məndi,female speaker's father's older sister,,,,
-fFyZ,eli,eli,female speaker's father's younger sister,,,,
-fMeB,baba,baba,female speaker's mother's older brother,,,,
-fMyB,baba,baba,female speaker's mother's younger brother,,,,
-fMeZ,"nænæ, nænæ risi","nænæ, nænæ risi",female speaker's mother's older sister,,,,
-fMyZ,"nænæ, nænæ kəɖ","nænæ, nænæ kəɖ",female speaker's mother's younger sister,,,,
-mW,(bo) məla,(bo) məla,speaker's wife,,,,
-fH,(bo) mənde,(bo) mənde,speaker‘s husband,,,,
-fDH,mənaŋg,mənaŋg,female speaker's daughter's husband,,,,
-mDH,mənaŋg,mənaŋg,male speaker's daughter's husband,,,,
-fSW,kak məla,kak məla,female speaker's son's wife,,,,"This and the following terms are built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman', bolo 'old man', etc"
-mSW,kak məla,kak məla,male speaker's son's wife,,,,
-fHM,"kak, kak eusi","kak, kak eusi",speaker's husband's mother,,,,
-mWM,mənaŋg,mənaŋg,speaker's wife's mother,,,,
-fHF,kak laməg,kak laməg,speaker's husband's father,,,,
-mWF,mənaŋg,mənaŋg,speaker's wife's father,,,,
-mFBeS,mosən,mosən,male speaker‘s father‘s brother‘s older son,,,,
-mFByS,mənʤən,mənʤən,male speaker‘s father‘s brother‘s younger son,,,,
-mFBeD,mosən,mosən,male speaker‘s father‘s brother‘s older daughter,,,,
-mFByD,mənʤən,mənʤən,male speaker‘s father‘s brother‘s younger daughter,,,,
-mFZeS,baba,baba,male speaker‘s father‘s sisters‘s older son,,,,
-mFZyS,baba,baba,male speaker‘s father‘s sisters‘s younger son,,,,
-mFZeD,baba,baba,male speaker‘s father‘s sisters‘s older daughter,,,,
-mFZyD,baba,baba,male speaker‘s father‘s sisters‘s younger daughter,,,,
-mMBeS,baba,baba,male speaker‘s mother‘s brother‘s older son,,,,
-mMByS,baba,baba,male speaker‘s mother‘s brother‘s younger son,,,,
-mMBeD,baba,baba,male speaker‘s mother‘s brother‘s older daughter,,,,
-mMByD,baba,baba,male speaker‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,yekeli,yekeli,male speaker‘s mother‘s sisters‘s older son,,,,
-mMZyS,yekeli,yekeli,male speaker‘s mother‘s sisters‘s younger son,,,,
-mMZeD,yekeli,yekeli,male speaker‘s mother‘s sisters‘s older daughter,,,,
-mMZyD,yekeli,yekeli,male speaker‘s mother‘s sisters‘s younger daughter,,,,
-fFBeS,mosən,mosən,female speaker‘s father‘s brother‘s older son,,,,
-fFByS,mənʤən,mənʤən,female speaker‘s father‘s brother‘s younger son,,,,
-fFBeD,mosən,mosən,female speaker‘s father‘s brother‘s older daughter,,,,
-fFByD,mənʤən,mənʤən,female speaker‘s father‘s brother‘s younger daughter,,,,
-fFZeS,baba,baba,female speaker‘s father‘s sisters‘s older son,,,,
-fFZyS,baba,baba,female speaker‘s father‘s sisters‘s younger son,,,,
-fFZeD,baba,baba,female speaker‘s father‘s sisters‘s older daughter,,,,
-fFZyD,baba,baba,female speaker‘s father‘s sisters‘s younger daughter,,,,
-fMBeS,baba,baba,female speaker‘s mother‘s brother‘s older son,,,,
-fMByS,baba,baba,female speaker‘s mother‘s brother‘s younger son,,,,
-fMBeD,baba,baba,female speaker‘s mother‘s brother‘s older daughter,,,,
-fMByD,baba,baba,female speaker‘s mother‘s brother‘s younger daughter,,,,
-fMZeS,yekeli,yekeli,female speaker‘s mother‘s sisters‘s older son,,,,
-fMZyS,yekeli,yekeli,female speaker‘s mother‘s sisters‘s younger son,,,,
-fMZeD,yekeli,yekeli,female speaker‘s mother‘s sisters‘s older daughter,,,,
-fMZyD,yekeli,yekeli,female speaker‘s mother‘s sisters‘s younger daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mosən","mosən","male speaker's older brother",,,,""
+"myB","mənʤən","mənʤən","male speaker's younger brother",,,,""
+"feB","mosən","mosən","female speaker's older brother",,,,""
+"fyB","mənʤən","mənʤən","female speaker's younger brother",,,,""
+"meZ","mosən","mosən","male speaker's older sister",,,,""
+"myZ","mənʤən","mənʤən","male speaker's younger sister",,,,""
+"feZ","mosən","mosən","female speaker's older sister",,,,""
+"fyZ","mənʤən","mənʤən","female speaker's younger sister",,,,""
+"mF","yaya","yaya","male speaker's father",,,,""
+"mM","nænæ","nænæ","male speaker's mother",,,,""
+"fF","yaya","yaya","female speaker's father",,,,""
+"fM","nænæ","nænæ","female speaker's mother",,,,""
+"mS","gæd","gæd","male speaker's son",,,,""
+"fS","gæd","gæd","female speaker's son",,,,""
+"mD","gæd","gæd","male speaker's daughter",,,,""
+"fD","gæd","gæd","female speaker's daughter",,,,""
+"mSS","kak","kak","male speaker's son's son",,,,""
+"mSD","kak","kak","male speaker's son's daughter",,,,""
+"mDS","kak","kak","male speaker's daughter's son",,,,""
+"mDD","kak","kak","male speaker's daughter's daughter",,,,""
+"fSS","kak","kak","female speaker's son's son",,,,""
+"fSD","kak","kak","female speaker's son's daughter",,,,""
+"fDS","kak","kak","female speaker's daughter's son",,,,""
+"fDD","kak","kak","female speaker's daugher's daughter",,,,""
+"mFF","kak","kak","male speaker's father‘s father",,,,""
+"mFM","kak","kak","male speaker's father's mother",,,,""
+"mMF","kak","kak","male speaker's mother's father",,,,""
+"mMM","kak","kak","male speaker's mother's mother",,,,""
+"fFF","kak","kak","female speaker's father's father",,,,""
+"fFM","kak","kak","female speaker's father's mother",,,,""
+"fMF","kak","kak","female speaker's mother's father",,,,""
+"fMM","kak","kak","female speaker's mother's mother",,,,""
+"meBS","gæd","gæd","male speaker's older brother's son",,,,""
+"myBS","məndi","məndi","male speaker's younger brother's son",,,,""
+"meZS","baba","baba","male speaker's older sister's son",,,,""
+"myZS","baba","baba","male speaker's younger sister's son",,,,""
+"meBD","gæd","gæd","male speaker's older brother's daughter",,,,""
+"myBD","məndi","məndi","male speaker's younger brother's daughter",,,,""
+"meZD","baba","baba","male speaker's older sister's daughter",,,,""
+"myZD","baba","baba","male speaker's younger sister's daughter",,,,""
+"feBS","gæd","gæd","female speaker's older brother's son",,,,""
+"fyBS","məndi","məndi","female speaker's younger brother's son",,,,""
+"feZS","baba","baba","female speaker's older sister's son",,,,""
+"fyZS","baba","baba","female speaker's younger sister's son",,,,""
+"feBD","gæd","gæd","female speaker's older brother's daughter",,,,""
+"fyBD","məndi","məndi","female speaker's younger brother's daughter",,,,""
+"feZD","baba","baba","female speaker's older sister's daughter",,,,""
+"fyZD","baba","baba","female speaker's younger sister's daughter",,,,""
+"mFeB","məndi","məndi","male speaker's father's older brother",,,,""
+"mFyB","meyaŋg","meyaŋg","male speaker's father's younger brother",,,,""
+"mFeZ","məndi","məndi","male speaker's father's older sister",,,,""
+"mFyZ","eli","eli","male speaker's father's younger sister",,,,""
+"mMeB","baba","baba","male speaker's mother's older brother",,,,""
+"mMyB","baba","baba","male speaker's mother's younger brother",,,,""
+"mMeZ","nænæ, nænæ risi","nænæ, nænæ risi","male speaker's mother's older sister",,,,""
+"mMyZ","nænæ, nænæ kəɖ","nænæ, nænæ kəɖ","male speaker's mother's younger sister",,,,""
+"fFeB","məndi","məndi","female speaker's father's older brother",,,,""
+"fFyB","meyaŋg","meyaŋg","female speaker's father's younger brother",,,,""
+"fFeZ","məndi","məndi","female speaker's father's older sister",,,,""
+"fFyZ","eli","eli","female speaker's father's younger sister",,,,""
+"fMeB","baba","baba","female speaker's mother's older brother",,,,""
+"fMyB","baba","baba","female speaker's mother's younger brother",,,,""
+"fMeZ","nænæ, nænæ risi","nænæ, nænæ risi","female speaker's mother's older sister",,,,""
+"fMyZ","nænæ, nænæ kəɖ","nænæ, nænæ kəɖ","female speaker's mother's younger sister",,,,""
+"mW","(bo) məla","(bo) məla","speaker's wife",,,,""
+"fH","(bo) mənde","(bo) mənde","speaker‘s husband",,,,""
+"fDH","mənaŋg","mənaŋg","female speaker's daughter's husband",,,,""
+"mDH","mənaŋg","mənaŋg","male speaker's daughter's husband",,,,""
+"fSW","kak məla","kak məla","female speaker's son's wife",,,,"This and the following terms are built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman', bolo 'old man', etc"
+"mSW","kak məla","kak məla","male speaker's son's wife",,,,""
+"fHM","kak, kak eusi","kak, kak eusi","speaker's husband's mother",,,,""
+"mWM","mənaŋg","mənaŋg","speaker's wife's mother",,,,""
+"fHF","kak laməg","kak laməg","speaker's husband's father",,,,""
+"mWF","mənaŋg","mənaŋg","speaker's wife's father",,,,""
+"mFBeS","mosən","mosən","male speaker‘s father‘s brother‘s older son",,,,""
+"mFByS","mənʤən","mənʤən","male speaker‘s father‘s brother‘s younger son",,,,""
+"mFBeD","mosən","mosən","male speaker‘s father‘s brother‘s older daughter",,,,""
+"mFByD","mənʤən","mənʤən","male speaker‘s father‘s brother‘s younger daughter",,,,""
+"mFZeS","baba","baba","male speaker‘s father‘s sisters‘s older son",,,,""
+"mFZyS","baba","baba","male speaker‘s father‘s sisters‘s younger son",,,,""
+"mFZeD","baba","baba","male speaker‘s father‘s sisters‘s older daughter",,,,""
+"mFZyD","baba","baba","male speaker‘s father‘s sisters‘s younger daughter",,,,""
+"mMBeS","baba","baba","male speaker‘s mother‘s brother‘s older son",,,,""
+"mMByS","baba","baba","male speaker‘s mother‘s brother‘s younger son",,,,""
+"mMBeD","baba","baba","male speaker‘s mother‘s brother‘s older daughter",,,,""
+"mMByD","baba","baba","male speaker‘s mother‘s brother‘s younger daughter",,,,""
+"mMZeS","yekeli","yekeli","male speaker‘s mother‘s sisters‘s older son",,,,""
+"mMZyS","yekeli","yekeli","male speaker‘s mother‘s sisters‘s younger son",,,,""
+"mMZeD","yekeli","yekeli","male speaker‘s mother‘s sisters‘s older daughter",,,,""
+"mMZyD","yekeli","yekeli","male speaker‘s mother‘s sisters‘s younger daughter",,,,""
+"fFBeS","mosən","mosən","female speaker‘s father‘s brother‘s older son",,,,""
+"fFByS","mənʤən","mənʤən","female speaker‘s father‘s brother‘s younger son",,,,""
+"fFBeD","mosən","mosən","female speaker‘s father‘s brother‘s older daughter",,,,""
+"fFByD","mənʤən","mənʤən","female speaker‘s father‘s brother‘s younger daughter",,,,""
+"fFZeS","baba","baba","female speaker‘s father‘s sisters‘s older son",,,,""
+"fFZyS","baba","baba","female speaker‘s father‘s sisters‘s younger son",,,,""
+"fFZeD","baba","baba","female speaker‘s father‘s sisters‘s older daughter",,,,""
+"fFZyD","baba","baba","female speaker‘s father‘s sisters‘s younger daughter",,,,""
+"fMBeS","baba","baba","female speaker‘s mother‘s brother‘s older son",,,,""
+"fMByS","baba","baba","female speaker‘s mother‘s brother‘s younger son",,,,""
+"fMBeD","baba","baba","female speaker‘s mother‘s brother‘s older daughter",,,,""
+"fMByD","baba","baba","female speaker‘s mother‘s brother‘s younger daughter",,,,""
+"fMZeS","yekeli","yekeli","female speaker‘s mother‘s sisters‘s older son",,,,""
+"fMZyS","yekeli","yekeli","female speaker‘s mother‘s sisters‘s younger son",,,,""
+"fMZeD","yekeli","yekeli","female speaker‘s mother‘s sisters‘s older daughter",,,,""
+"fMZyD","yekeli","yekeli","female speaker‘s mother‘s sisters‘s younger daughter",,,,""

@@ -1,112 +1,112 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,uwa-,,male ego's older brother,,,,
-myB,isi-,,male ego's younger brother,,,,
-feB,owo-,,female ego's older brother,,,,
-fyB,owo-,,female ego's younger brother,,,,
-meZ,owo-,,male ego's older sister,,,,
-myZ,owo-,,male ego's younger sister,,,,
-feZ,uwa-,,female ego's older sister,,,,
-fyZ,isi-,,female ego's younger sister,,,,
-mF,ama-,,male ego's father,,,,
-mM,vēvē-,,male ego's mother,,,,
-fF,ama-,,female ego's father,,,,
-fM,vēvē-,,female ego's mother,,,,
-mS,ni'I 'am̄an,,male ego's son,,,,
-fS,ni'i 'am̄an,,female ego's son,,,,
-mD,ni'I ren̄e,,male ego's daughter,,,,
-fD,ni'I ren̄e,,female ego's daughter,,,,
-mSS,ubu- an 'am̄an,,male ego's son's son,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mSD,ubu- an ren̄e,,male ego's son's daughter,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mDS,ubu- an 'am̄an,,male ego's daughter's son,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mDD,ubu- an ren̄e,,male ego's daughter's daughter,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fSS,ubu- an 'am̄an,,female ego's son's son,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fSD,ubu- an ren̄e,,female ego's son's daughter,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fDS,ubu- an 'am̄an,,female ego's daughter's son,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fDD,ubu- an ren̄e,,female ego's daugher's daughter,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mFF,ubu- an 'am̄an,,male ego's father‘s father,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mFM,ubu- an ren̄e,,male ego's father's mother,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mMF,ubu- an 'am̄an,,male ego's mother's father,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-mMM,ubu- an ren̄e,,male ego's mother's mother,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fFF,ubu- an 'am̄an,,female ego's father's father,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fFM,ubu- an ren̄e,,female ego's father's mother,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fMF,ubu- an 'am̄an,,female ego's mother's father,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-fMM,ubu- an ren̄e,,female ego's mother's mother,,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
-meBS,tētē,,male ego's older brother's son,,,,
-myBS,tētē,,male ego's younger brother's son,,,,
-meZS,tētē,,male ego's older sister's son,,,,
-myZS,tētē,,male ego's younger sister's son,,,,
-meBD,tētē,,male ego's older brother's daughter,,,,
-myBD,tētē,,male ego's younger brother's daughter,,,,
-meZD,tētē,,male ego's older sister's daughter,,,,
-myZD,tētē,,male ego's younger sister's daughter,,,,
-feBS,tētē,,female ego's older brother's son,,,,
-fyBS,tētē,,female ego's younger brother's son,,,,
-feZS,tētē,,female ego's older sister's son,,,,
-fyZS,tētē,,female ego's younger sister's son,,,,
-feBD,tētē,,female ego's older brother's daughter,,,,
-fyBD,tētē,,female ego's younger brother's daughter,,,,
-feZD,tētē,,female ego's older sister's daughter,,,,
-fyZD,tētē,,female ego's younger sister's daughter,,,,
-mFeB,ama-,,male ego's father's older brother,,,,
-mFyB,ama-,,male ego's father's younger brother,,,,
-mFeZ,vēvē-,,male ego's father's older sister,,,,
-mFyZ,vēvē-,,male ego's father's younger sister,,,,
-mMeB,maru-,,male ego's mother's older brother,,,,
-mMyB,maru-,,male ego's mother's younger brother,,,,
-mMeZ,vēvē-,,male ego's mother's older sister,,,,
-mMyZ,vēvē-,,male ego's mother's younger sister,,,,
-fFeB,ama-,,female ego's father's older brother,,,,
-fFyB,ama-,,female ego's father's younger brother,,,,
-fFeZ,vēvē-,,female ego's father's older sister,,,,
-fFyZ,vēvē-,,female ego's father's younger sister,,,,
-fMeB,maru-,,female ego's mother's older brother,,,,
-fMyB,maru-,,female ego's mother's younger brother,,,,
-fMeZ,vēvē-,,female ego's mother's older sister,,,,
-fMyZ,vēvē-,,female ego's mother's younger sister,,,,
-mW,gunu-,,male ego's wife,,,,
-fH,gunu-,,female ego‘s husband,,,,
-mDH,ren̄e mino,,male ego's daughter's husband,,,,
-fDH,qalega,,female ego's daughter's husband,,,,
-mSW,ren̄e mino,,male ego's son's wife,,,,
-fSW,ren̄e mino,,female ego's son's wife,,,,
-mWF,qalega,,male ego's wife's father,,,,
-mWM,qalega,,male ego's wife's mother,,,,
-mWB,wulus,,male ego's wife's brother,,,,
-mWZ,nemes,,male ego's wife's sister,,,,
-fHF,qalega,,female ego's husband's father,,,,
-fHM,qalega,,female ego's husband's mother,,,,
-fHZ,wulu-,,female ego's husband's sister,,,,
-fBW,wulu-,,female ego's brother's wife,,,,
-mZH,wulus,,male ego's sister's husband,,,,
-mFBeS,uwa-,,male ego‘s father‘s brother‘s older son,,,,
-mFByS,isi-,,male ego‘s father‘s brother‘s younger son,,,,
-mFBeD,owo-,,male ego‘s father‘s brother‘s older daughter,,,,
-mFByD,owo-,,male ego‘s father‘s brother‘s younger daughter,,,,
-mFZeS,"tētē, 'ama-",,male ego‘s father‘s sisters‘s older son,,,,
-mFZyS,"tētē, 'ama-",,male ego‘s father‘s sisters‘s younger son,,,,
-mFZeD,"tētē, vēvē-",,male ego‘s father‘s sisters‘s older daughter,,,,
-mFZyD,"tētē, vēvē-",,male ego‘s father‘s sisters‘s younger daughter,,,,
-mMBeS,"tētē, 'ama-",,male ego‘s mother‘s brother‘s older son,,,,
-mMByS,"tētē, 'ama-",,male ego‘s mother‘s brother‘s younger son,,,,
-mMBeD,"tētē, vēvē-",,male ego‘s mother‘s brother‘s older daughter,,,,
-mMByD,"tētē, vēvē-",,male ego‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,uwa-,,male ego‘s mother‘s sisters‘s older son,,,,
-mMZyS,isi-,,male ego‘s mother‘s sisters‘s younger son,,,,
-mMZeD,owo-,,male ego‘s mother‘s sisters‘s older daughter,,,,
-mMZyD,owo-,,male ego‘s mother‘s sisters‘s younger daughter,,,,
-fFBeS,owo-,,female ego‘s father‘s brother‘s older son,,,,
-fFByS,owo-,,female ego‘s father‘s brother‘s younger son,,,,
-fFBeD,uwa-,,female ego‘s father‘s brother‘s older daughter,,,,
-fFByD,isi-,,female ego‘s father‘s brother‘s younger daughter,,,,
-fFZeS,"tētē, 'ama-",,female ego‘s father‘s sisters‘s older son,,,,
-fFZyS,"tētē, 'ama-",,female ego‘s father‘s sisters‘s younger son,,,,
-fFZeD,"tētē, vēvē-",,female ego‘s father‘s sisters‘s older daughter,,,,
-fFZyD,"tētē, vēvē-",,female ego‘s father‘s sisters‘s younger daughter,,,,
-fMBeS,"tētē,'ama-",,female ego‘s mother‘s brother‘s older son,,,,
-fMByS,"tētē,'ama-",,female ego‘s mother‘s brother‘s younger son,,,,
-fMBeD,"tētē, vēvē-",,female ego‘s mother‘s brother‘s older daughter,,,,
-fMByD,"tētē, vēvē-",,female ego‘s mother‘s brother‘s younger daughter,,,,
-fMZeS,owo-,,female ego‘s mother‘s sisters‘s older son,,,,
-fMZyS,owo-,,female ego‘s mother‘s sisters‘s younger son,,,,
-fMZeD,uwa-,,female ego‘s mother‘s sisters‘s older daughter,,,,
-fMZyD,isi-,,female ego‘s mother‘s sisters‘s younger daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","uwa-",,"male ego's older brother",,,,""
+"myB","isi-",,"male ego's younger brother",,,,""
+"feB","owo-",,"female ego's older brother",,,,""
+"fyB","owo-",,"female ego's younger brother",,,,""
+"meZ","owo-",,"male ego's older sister",,,,""
+"myZ","owo-",,"male ego's younger sister",,,,""
+"feZ","uwa-",,"female ego's older sister",,,,""
+"fyZ","isi-",,"female ego's younger sister",,,,""
+"mF","ama-",,"male ego's father",,,,""
+"mM","vēvē-",,"male ego's mother",,,,""
+"fF","ama-",,"female ego's father",,,,""
+"fM","vēvē-",,"female ego's mother",,,,""
+"mS","ni'I 'am̄an",,"male ego's son",,,,""
+"fS","ni'i 'am̄an",,"female ego's son",,,,""
+"mD","ni'I ren̄e",,"male ego's daughter",,,,""
+"fD","ni'I ren̄e",,"female ego's daughter",,,,""
+"mSS","ubu- an 'am̄an",,"male ego's son's son",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mSD","ubu- an ren̄e",,"male ego's son's daughter",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mDS","ubu- an 'am̄an",,"male ego's daughter's son",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mDD","ubu- an ren̄e",,"male ego's daughter's daughter",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fSS","ubu- an 'am̄an",,"female ego's son's son",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fSD","ubu- an ren̄e",,"female ego's son's daughter",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fDS","ubu- an 'am̄an",,"female ego's daughter's son",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fDD","ubu- an ren̄e",,"female ego's daugher's daughter",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mFF","ubu- an 'am̄an",,"male ego's father‘s father",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mFM","ubu- an ren̄e",,"male ego's father's mother",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mMF","ubu- an 'am̄an",,"male ego's mother's father",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"mMM","ubu- an ren̄e",,"male ego's mother's mother",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fFF","ubu- an 'am̄an",,"female ego's father's father",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fFM","ubu- an ren̄e",,"female ego's father's mother",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fMF","ubu- an 'am̄an",,"female ego's mother's father",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"fMM","ubu- an ren̄e",,"female ego's mother's mother",,,,"the gender can only be expressed with a relative clause with a subject gap and the NP denoting the gender as a nominal predicate, gender differentiation is optional and restricted to special contexts"
+"meBS","tētē",,"male ego's older brother's son",,,,""
+"myBS","tētē",,"male ego's younger brother's son",,,,""
+"meZS","tētē",,"male ego's older sister's son",,,,""
+"myZS","tētē",,"male ego's younger sister's son",,,,""
+"meBD","tētē",,"male ego's older brother's daughter",,,,""
+"myBD","tētē",,"male ego's younger brother's daughter",,,,""
+"meZD","tētē",,"male ego's older sister's daughter",,,,""
+"myZD","tētē",,"male ego's younger sister's daughter",,,,""
+"feBS","tētē",,"female ego's older brother's son",,,,""
+"fyBS","tētē",,"female ego's younger brother's son",,,,""
+"feZS","tētē",,"female ego's older sister's son",,,,""
+"fyZS","tētē",,"female ego's younger sister's son",,,,""
+"feBD","tētē",,"female ego's older brother's daughter",,,,""
+"fyBD","tētē",,"female ego's younger brother's daughter",,,,""
+"feZD","tētē",,"female ego's older sister's daughter",,,,""
+"fyZD","tētē",,"female ego's younger sister's daughter",,,,""
+"mFeB","ama-",,"male ego's father's older brother",,,,""
+"mFyB","ama-",,"male ego's father's younger brother",,,,""
+"mFeZ","vēvē-",,"male ego's father's older sister",,,,""
+"mFyZ","vēvē-",,"male ego's father's younger sister",,,,""
+"mMeB","maru-",,"male ego's mother's older brother",,,,""
+"mMyB","maru-",,"male ego's mother's younger brother",,,,""
+"mMeZ","vēvē-",,"male ego's mother's older sister",,,,""
+"mMyZ","vēvē-",,"male ego's mother's younger sister",,,,""
+"fFeB","ama-",,"female ego's father's older brother",,,,""
+"fFyB","ama-",,"female ego's father's younger brother",,,,""
+"fFeZ","vēvē-",,"female ego's father's older sister",,,,""
+"fFyZ","vēvē-",,"female ego's father's younger sister",,,,""
+"fMeB","maru-",,"female ego's mother's older brother",,,,""
+"fMyB","maru-",,"female ego's mother's younger brother",,,,""
+"fMeZ","vēvē-",,"female ego's mother's older sister",,,,""
+"fMyZ","vēvē-",,"female ego's mother's younger sister",,,,""
+"mW","gunu-",,"male ego's wife",,,,""
+"fH","gunu-",,"female ego‘s husband",,,,""
+"mDH","ren̄e mino",,"male ego's daughter's husband",,,,""
+"fDH","qalega",,"female ego's daughter's husband",,,,""
+"mSW","ren̄e mino",,"male ego's son's wife",,,,""
+"fSW","ren̄e mino",,"female ego's son's wife",,,,""
+"mWF","qalega",,"male ego's wife's father",,,,""
+"mWM","qalega",,"male ego's wife's mother",,,,""
+"mWB","wulus",,"male ego's wife's brother",,,,""
+"mWZ","nemes",,"male ego's wife's sister",,,,""
+"fHF","qalega",,"female ego's husband's father",,,,""
+"fHM","qalega",,"female ego's husband's mother",,,,""
+"fHZ","wulu-",,"female ego's husband's sister",,,,""
+"fBW","wulu-",,"female ego's brother's wife",,,,""
+"mZH","wulus",,"male ego's sister's husband",,,,""
+"mFBeS","uwa-",,"male ego‘s father‘s brother‘s older son",,,,""
+"mFByS","isi-",,"male ego‘s father‘s brother‘s younger son",,,,""
+"mFBeD","owo-",,"male ego‘s father‘s brother‘s older daughter",,,,""
+"mFByD","owo-",,"male ego‘s father‘s brother‘s younger daughter",,,,""
+"mFZeS","tētē, 'ama-",,"male ego‘s father‘s sisters‘s older son",,,,""
+"mFZyS","tētē, 'ama-",,"male ego‘s father‘s sisters‘s younger son",,,,""
+"mFZeD","tētē, vēvē-",,"male ego‘s father‘s sisters‘s older daughter",,,,""
+"mFZyD","tētē, vēvē-",,"male ego‘s father‘s sisters‘s younger daughter",,,,""
+"mMBeS","tētē, 'ama-",,"male ego‘s mother‘s brother‘s older son",,,,""
+"mMByS","tētē, 'ama-",,"male ego‘s mother‘s brother‘s younger son",,,,""
+"mMBeD","tētē, vēvē-",,"male ego‘s mother‘s brother‘s older daughter",,,,""
+"mMByD","tētē, vēvē-",,"male ego‘s mother‘s brother‘s younger daughter",,,,""
+"mMZeS","uwa-",,"male ego‘s mother‘s sisters‘s older son",,,,""
+"mMZyS","isi-",,"male ego‘s mother‘s sisters‘s younger son",,,,""
+"mMZeD","owo-",,"male ego‘s mother‘s sisters‘s older daughter",,,,""
+"mMZyD","owo-",,"male ego‘s mother‘s sisters‘s younger daughter",,,,""
+"fFBeS","owo-",,"female ego‘s father‘s brother‘s older son",,,,""
+"fFByS","owo-",,"female ego‘s father‘s brother‘s younger son",,,,""
+"fFBeD","uwa-",,"female ego‘s father‘s brother‘s older daughter",,,,""
+"fFByD","isi-",,"female ego‘s father‘s brother‘s younger daughter",,,,""
+"fFZeS","tētē, 'ama-",,"female ego‘s father‘s sisters‘s older son",,,,""
+"fFZyS","tētē, 'ama-",,"female ego‘s father‘s sisters‘s younger son",,,,""
+"fFZeD","tētē, vēvē-",,"female ego‘s father‘s sisters‘s older daughter",,,,""
+"fFZyD","tētē, vēvē-",,"female ego‘s father‘s sisters‘s younger daughter",,,,""
+"fMBeS","tētē,'ama-",,"female ego‘s mother‘s brother‘s older son",,,,""
+"fMByS","tētē,'ama-",,"female ego‘s mother‘s brother‘s younger son",,,,""
+"fMBeD","tētē, vēvē-",,"female ego‘s mother‘s brother‘s older daughter",,,,""
+"fMByD","tētē, vēvē-",,"female ego‘s mother‘s brother‘s younger daughter",,,,""
+"fMZeS","owo-",,"female ego‘s mother‘s sisters‘s older son",,,,""
+"fMZyS","owo-",,"female ego‘s mother‘s sisters‘s younger son",,,,""
+"fMZeD","uwa-",,"female ego‘s mother‘s sisters‘s older daughter",,,,""
+"fMZyD","isi-",,"female ego‘s mother‘s sisters‘s younger daughter",,,,""

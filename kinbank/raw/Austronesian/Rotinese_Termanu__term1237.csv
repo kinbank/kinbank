@@ -1,180 +1,184 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,tolanok,,,,AUS52(334),fox_rotinese_1968-1,
-mZ,tolanok,,,,AUS52(334),fox_rotinese_1968-1,
-meB,kaäk,,,,AUS52(334),fox_rotinese_1968-1,
-myB,fadik,,,,AUS52(334),fox_rotinese_1968-1,
-mF,amak,,,,AUS52(334),fox_rotinese_1968-1,
-mM,ina,,,,AUS52(334),fox_rotinese_1968-1,
-mC,anak,,,,AUS52(334),fox_rotinese_1968-1,
-mS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,
-mD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,
-mFF,baik,,,,AUS52(333),fox_rotinese_1968-1,
-mFM,beik,,,,AUS52(333),fox_rotinese_1968-1,
-mMF,baik,,,,AUS52(333),fox_rotinese_1968-1,
-mMM,beik,,,,AUS52(333),fox_rotinese_1968-1,
-mSS,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-mSD,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-mDS,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-mDD,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-mFB,amak,,,,AUS52(333),fox_rotinese_1968-1,
-mFZ,teök,,,,AUS52(334),fox_rotinese_1968-1,
-mMB,toök,,,,AUS52(334),fox_rotinese_1968-1,
-mMZ,ina,,,,AUS52(334),fox_rotinese_1968-1,
-mFeB,ama matuak,,,,AUS52(333),fox_rotinese_1968-1,
-mFeB,ama kaäk,,,,AUS52(333),fox_rotinese_1968-1,
-mFyB,ama anak,,,,AUS52(333),fox_rotinese_1968-1,
-mFyB,ama fadik,,,,AUS52(333),fox_rotinese_1968-1,
-mMeZ,ina matuak,,,,AUS52(334),fox_rotinese_1968-1,
-mMeZ,ina kaäk,,,,AUS52(334),fox_rotinese_1968-1,
-mMyZ,ina anak,,,,AUS52(334),fox_rotinese_1968-1,
-mMyZ,ina fadik,,,,AUS52(334),fox_rotinese_1968-1,
-mBS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,
-mBD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,
-mZS,dadik,,,,AUS52(335),fox_rotinese_1968-1,
-mZD,dadik,,,,AUS52(335),fox_rotinese_1968-1,
-mFZD,feto dadik,,,,AUS52(334),fox_rotinese_1968-1,
-mFBD,feto daek,,,,AUS52(334),fox_rotinese_1968-1,
-mMBD,feto selek,,,,AUS52(334),fox_rotinese_1968-1,
-mFBS,tolanok,,,,AUS52(334),fox_rotinese_1968-1,
-mFZS,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,
-mFeBS,kaäk,,,,AUS52(334),fox_rotinese_1968-1,
-mFyBS,fadik,,,,AUS52(334),fox_rotinese_1968-1,
-mE,saok,,,,AUS52(335),fox_rotinese_1968-1,
-mH,touk,,,,AUS52(335),fox_rotinese_1968-1,
-mW,inak,,,,AUS52(334),fox_rotinese_1968-1,
-mHF,ali-amak,,,,AUS52(335),fox_rotinese_1968-1,
-mWF,ali-amak,,,,AUS52(335),fox_rotinese_1968-1,
-mBW,inak,,,,AUS52(334),fox_rotinese_1968-1,
-mBW,hiäk,,,,AUS52(335),fox_rotinese_1968-1,
-mZH,kela,,,,AUS52(335),fox_rotinese_1968-1,
-mWB,kela,,,,AUS52(335),fox_rotinese_1968-1,
-mWZ,inak,,,,AUS52(334),fox_rotinese_1968-1,
-mHZ,hiäk,,,,AUS52(335),fox_rotinese_1968-1,
-mFW(notM),ina-pala,,,,AUS52(335),fox_rotinese_1968-1,
-mMH(notF),ama-pala,,,,AUS52(335),fox_rotinese_1968-1,
-mSW,feto-feuk,,,,AUS52(335),fox_rotinese_1968-1,
-mDH,mane-feuk,,,,AUS52(335),fox_rotinese_1968-1,
-mFZH,ama teök,,,,AUS52(334),fox_rotinese_1968-1,
-mFBW,ina,,,,AUS52(334),fox_rotinese_1968-1,
-mMBW,ina toök,,,,AUS52(334),fox_rotinese_1968-1,
-mFeZ,teök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFyZ,teök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mMeB,toök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mMyB,toök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-meBS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-myBS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-meBD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-myBD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-meZS,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-myZS,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-meZD,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-myZD,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-mFeZS,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFyZS,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFeZD,feto dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFyZD,feto dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mMeBD,feto selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mMyBD,feto selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFBeS,tolanok,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFByS,tolanok,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFZeS,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFZyS,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFBeD,feto daek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFByD,feto daek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFZeD,feto dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mFZyD,feto dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mMBeD,feto selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-mMByD,feto selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fB,na bongik,,,,AUS52(334),fox_rotinese_1968-1,
-fB,tolanok,,,,AUS52(334),fox_rotinese_1968-1,
-fZ,feto bongik,,,,AUS52(334),fox_rotinese_1968-1,
-fZ,tolanok,,,,AUS52(334),fox_rotinese_1968-1,
-feZ,kaäk,,,,AUS52(334),fox_rotinese_1968-1,
-fyZ,fadik,,,,AUS52(334),fox_rotinese_1968-1,
-fF,amak,,,,AUS52(334),fox_rotinese_1968-1,
-fM,ina,,,,AUS52(334),fox_rotinese_1968-1,
-fC,anak,,,,AUS52(334),fox_rotinese_1968-1,
-fS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,
-fD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,
-fFF,baik,,,,AUS52(333),fox_rotinese_1968-1,
-fFM,beik,,,,AUS52(333),fox_rotinese_1968-1,
-fMF,baik,,,,AUS52(333),fox_rotinese_1968-1,
-fMM,beik,,,,AUS52(333),fox_rotinese_1968-1,
-fSS,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-fSD,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-fDS,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-fDD,upuk,,,,AUS52(335),fox_rotinese_1968-1,
-fFB,amak,,,,AUS52(333),fox_rotinese_1968-1,
-fFZ,teök,,,,AUS52(334),fox_rotinese_1968-1,
-fMB,toök,,,,AUS52(334),fox_rotinese_1968-1,
-fMZ,ina,,,,AUS52(334),fox_rotinese_1968-1,
-fFeB,ama matuak,,,,AUS52(333),fox_rotinese_1968-1,
-fFeB,ama kaäk,,,,AUS52(333),fox_rotinese_1968-1,
-fFyB,ama anak,,,,AUS52(333),fox_rotinese_1968-1,
-fFyB,ama fadik,,,,AUS52(333),fox_rotinese_1968-1,
-fMeZ,ina matuak,,,,AUS52(334),fox_rotinese_1968-1,
-fMeZ,ina kaäk,,,,AUS52(334),fox_rotinese_1968-1,
-fMyZ,ina anak,,,,AUS52(334),fox_rotinese_1968-1,
-fMyZ,ina fadik,,,,AUS52(334),fox_rotinese_1968-1,
-fBS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,
-fBD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,
-fZS,dadik,,,,AUS52(335),fox_rotinese_1968-1,
-fZD,dadik,,,,AUS52(335),fox_rotinese_1968-1,
-fFZD,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,
-fFBD,tolanok,,,,AUS52(334),fox_rotinese_1968-1,
-fMBD,tolano selek,,,,AUS52(334),fox_rotinese_1968-1,
-fFBS,na daek,,,,AUS52(334),fox_rotinese_1968-1,
-fFZS,na dadik,,,,AUS52(334),fox_rotinese_1968-1,
-fMBS,na selek,,,,AUS52(334),fox_rotinese_1968-1,
-fFeBD,kaäk,,,,AUS52(334),fox_rotinese_1968-1,
-fFyBD,fadik,,,,AUS52(334),fox_rotinese_1968-1,
-fE,saok,,,,AUS52(335),fox_rotinese_1968-1,
-fH,touk,,,,AUS52(335),fox_rotinese_1968-1,
-fW,inak,,,,AUS52(334),fox_rotinese_1968-1,
-fHF,ali-amak,,,,AUS52(335),fox_rotinese_1968-1,
-fWF,ali-amak,,,,AUS52(335),fox_rotinese_1968-1,
-fBW,inak,,,,AUS52(334),fox_rotinese_1968-1,
-fBW,hiäk,,,,AUS52(335),fox_rotinese_1968-1,
-fZH,kela,,,,AUS52(335),fox_rotinese_1968-1,
-fWB,kela,,,,AUS52(335),fox_rotinese_1968-1,
-fWZ,inak,,,,AUS52(334),fox_rotinese_1968-1,
-fHZ,hiäk,,,,AUS52(335),fox_rotinese_1968-1,
-fFW(notM),ina-pala,,,,AUS52(335),fox_rotinese_1968-1,
-fMH(notF),ama-pala,,,,AUS52(335),fox_rotinese_1968-1,
-fSW,feto-feuk,,,,AUS52(335),fox_rotinese_1968-1,
-fDH,mane-feuk,,,,AUS52(335),fox_rotinese_1968-1,
-fFZH,ama teök,,,,AUS52(334),fox_rotinese_1968-1,
-fFBW,ina,,,,AUS52(334),fox_rotinese_1968-1,
-fMBW,ina toök,,,,AUS52(334),fox_rotinese_1968-1,
-fFeZ,teök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFyZ,teök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMeB,toök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMyB,toök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-feBS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fyBS,ana manek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-feBD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fyBD,ana feök,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-feZS,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-fyZS,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-feZD,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-fyZD,dadik,,,,AUS52(335),fox_rotinese_1968-1,Inferred; NA
-fFeZS,na dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFyZS,na dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFeZD,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFyZD,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMeBS,na selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMyBS,na selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMeBD,tolano selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMyBD,tolano selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFBeS,na daek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFByS,na daek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFZeS,na dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFZyS,na dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFBeD,tolanok,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFByD,tolanok,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFZeD,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fFZyD,tolano dadik,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMBeS,na selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMByS,na selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMBeD,tolano selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
-fMByD,tolano selek,,,,AUS52(334),fox_rotinese_1968-1,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mZ","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"meB","kaäk",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"myB","fadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mF","amak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mM","ina",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mC","anak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFF","baik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mFM","beik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mMF","baik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mMM","beik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mSS","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mSD","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mDS","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mDD","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mFB","amak",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mFZ","teök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMB","toök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMZ","ina",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFeB","ama matuak",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mFeB","ama kaäk",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mFyB","ama anak",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mFyB","ama fadik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"mMeZ","ina matuak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMeZ","ina kaäk",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMyZ","ina anak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMyZ","ina fadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mBS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mBD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mZS","dadik",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mZD","dadik",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mFZD","feto dadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFBD","feto daek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMBD","feto selek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFBS","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFZS","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFeBS","kaäk",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFyBS","fadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mE","saok",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mH","touk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mW","inak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mHF","ali-amak",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mWF","ali-amak",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mBW","inak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mBW","hiäk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mZH","kela",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mWB","kela",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mWZ","inak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mHZ","hiäk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mFW(notM)","ina-pala",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mMH(notF)","ama-pala",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mSW","feto-feuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mDH","mane-feuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"mFZH","ama teök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFBW","ina",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mMBW","ina toök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"mFeZ","teök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFyZ","teök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mMeB","toök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mMyB","toök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"meBS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"myBS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"meBD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"myBD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"meZS","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"myZS","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"meZD","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"myZD","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"mFeZS","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFyZS","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFeZD","feto dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFyZD","feto dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mMeBD","feto selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mMyBD","feto selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFBeS","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFByS","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFZeS","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFZyS","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFBeD","feto daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFByD","feto daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFZeD","feto dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFZyD","feto dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mMBeD","feto selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mMByD","feto selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fB","na bongik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fB","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fZ","feto bongik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fZ","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"feZ","kaäk",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fyZ","fadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fF","amak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fM","ina",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fC","anak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFF","baik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fFM","beik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fMF","baik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fMM","beik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fSS","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fSD","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fDS","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fDD","upuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fFB","amak",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fFZ","teök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMB","toök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMZ","ina",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFeB","ama matuak",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fFeB","ama kaäk",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fFyB","ama anak",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fFyB","ama fadik",,,,"AUS52(333)","fox_rotinese_1968-1",""
+"fMeZ","ina matuak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMeZ","ina kaäk",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMyZ","ina anak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMyZ","ina fadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fBS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fBD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fZS","dadik",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fZD","dadik",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fFZD","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFBD","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMBD","tolano selek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFBS","na daek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFZS","na dadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMBS","na selek",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFeBD","kaäk",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFyBD","fadik",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fE","saok",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fH","touk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fW","inak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fHF","ali-amak",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fWF","ali-amak",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fBW","inak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fBW","hiäk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fZH","kela",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fWB","kela",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fWZ","inak",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fHZ","hiäk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fFW(notM)","ina-pala",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fMH(notF)","ama-pala",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fSW","feto-feuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fDH","mane-feuk",,,,"AUS52(335)","fox_rotinese_1968-1",""
+"fFZH","ama teök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFBW","ina",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fMBW","ina toök",,,,"AUS52(334)","fox_rotinese_1968-1",""
+"fFeZ","teök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFyZ","teök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMeB","toök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMyB","toök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"feBS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fyBS","ana manek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"feBD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fyBD","ana feök",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"feZS","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"fyZS","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"feZD","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"fyZD","dadik",,,,"AUS52(335)","fox_rotinese_1968-1","Inferred; NA"
+"fFeZS","na dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFyZS","na dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFeZD","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFyZD","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMeBS","na selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMyBS","na selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMeBD","tolano selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMyBD","tolano selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFBeS","na daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFByS","na daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFZeS","na dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFZyS","na dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFBeD","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFByD","tolanok",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFZeD","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fFZyD","tolano dadik",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMBeS","na selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMByS","na selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMBeD","tolano selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"fMByD","tolano selek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; NA"
+"mFeBD","feto daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; "
+"mFyBD","feto daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; "
+"fFeBS","na daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; "
+"fFyBS","na daek",,,,"AUS52(334)","fox_rotinese_1968-1","Inferred; "

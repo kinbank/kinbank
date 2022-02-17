@@ -1,85 +1,91 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,0,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mZ,pengaḷ,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-meB,cettan,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-myB,anujan ambi,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-meZ,ceṭṭati,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-meZ,eṭṭati,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-meZ,oppol,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-myZ,anujati,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-myZ,aniyatti,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mF,accaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mF,appaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mM,ammā,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mM,ammai,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mS,makan,,,,DR7(259),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFF,muttaccaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFF,vali-appan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFM,muthace,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMF,ammatu,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMF,muttaccan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMM,ammatu,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMM,muttaccan,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mSS,pera-makan,,,,DR7(259),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mSD,pera-kutty,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFZ,accan pengal,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMB,ammāman-ammavaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFeB,veliappan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFeB,perappan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFyB,cittippan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFeZ,accol,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mFeZ,accammā,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMeZ,perammā,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMeZ,peracci,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMyZ,cittamma,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mMyZ,cittacci,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mBS,0,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mBD,0,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mZS,maru-makan,,,,DR7(259),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mZD,maru-makal,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mH,bartavu,,,,DR7(261),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mWB,aḷiya,,,,DR7(261),karve_kinship_1968,"elder than wife, rarely; copied by CS from kinterm_mal.xls"
-mDH,marumakan,,,,DR7(264),karve_kinship_1968,copied by CS from kinterm_mal.xls
-mDHM,sampanti,,,,DR7(264),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fB,āngal,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fZ,0,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-feB,cettan,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fyB,anujan ambi,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-feZ,ceṭṭati,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-feZ,eṭṭati,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-feZ,oppol,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fyZ,anujati,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fyZ,aniyatti,,,,DR7(257),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fF,accaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fF,appaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fM,ammā,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fM,ammai,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fS,makan,,,,DR7(259),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFF,muttaccaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFF,vali-appan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFM,muthace,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMF,ammatu,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMF,muttaccan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMM,ammatu,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMM,muttaccan,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fSS,pera-makan,,,,DR7(259),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fSD,pera-kutty,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFZ,accan pengal,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMB,ammāman-ammavaṉ,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFeB,veliappan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFeB,perappan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFyB,cittippan,,,,DR7(255),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFeZ,accol,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fFeZ,accammā,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMeZ,perammā,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMeZ,peracci,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMyZ,cittamma,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fMyZ,cittacci,,,,DR7(256),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fBS,maru-makan,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fBD,maru-makal,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fZS,0,,,,DR7(259),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fZD,0,,,,DR7(260),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fH,bartavu,,,,DR7(261),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fWB,aḷiya,,,,DR7(261),karve_kinship_1968,"elder than wife, rarely; copied by CS from kinterm_mal.xls"
-fDH,marumakan,,,,DR7(264),karve_kinship_1968,copied by CS from kinterm_mal.xls
-fDHM,sampanti,,,,DR7(264),karve_kinship_1968,copied by CS from kinterm_mal.xls
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","0",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mZ","pengaḷ",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"meB","cettan",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"myB","anujan ambi",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"meZ","ceṭṭati",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"meZ","eṭṭati",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"meZ","oppol",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"myZ","anujati",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"myZ","aniyatti",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mF","accaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mF","appaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mM","ammā",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mM","ammai",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mS","makan",,,,"DR7(259)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFF","muttaccaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFF","vali-appan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFM","muthace",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMF","ammatu",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMF","muttaccan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMM","ammatu",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMM","muttaccan",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mSS","pera-makan",,,,"DR7(259)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mSD","pera-kutty",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFZ","accan pengal",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMB","ammāman-ammavaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFeB","veliappan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFeB","perappan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFyB","cittippan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFeZ","accol",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFeZ","accammā",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMeZ","perammā",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMeZ","peracci",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMyZ","cittamma",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mMyZ","cittacci",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mBS","0",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mBD","0",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mZS","maru-makan",,,,"DR7(259)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mZD","maru-makal",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mH","bartavu",,,,"DR7(261)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mWB","aḷiya",,,,"DR7(261)","karve_kinship_1968","elder than wife, rarely; copied by CS from kinterm_mal.xls"
+"mDH","marumakan",,,,"DR7(264)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mDHM","sampanti",,,,"DR7(264)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fB","āngal",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fZ","0",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"feB","cettan",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fyB","anujan ambi",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"feZ","ceṭṭati",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"feZ","eṭṭati",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"feZ","oppol",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fyZ","anujati",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fyZ","aniyatti",,,,"DR7(257)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fF","accaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fF","appaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fM","ammā",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fM","ammai",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fS","makan",,,,"DR7(259)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFF","muttaccaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFF","vali-appan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFM","muthace",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMF","ammatu",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMF","muttaccan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMM","ammatu",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMM","muttaccan",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fSS","pera-makan",,,,"DR7(259)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fSD","pera-kutty",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFZ","accan pengal",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMB","ammāman-ammavaṉ",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFeB","veliappan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFeB","perappan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFyB","cittippan",,,,"DR7(255)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFeZ","accol",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fFeZ","accammā",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMeZ","perammā",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMeZ","peracci",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMyZ","cittamma",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fMyZ","cittacci",,,,"DR7(256)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fBS","maru-makan",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fBD","maru-makal",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fZS","0",,,,"DR7(259)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fZD","0",,,,"DR7(260)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fH","bartavu",,,,"DR7(261)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fWB","aḷiya",,,,"DR7(261)","karve_kinship_1968","elder than wife, rarely; copied by CS from kinterm_mal.xls"
+"fDH","marumakan",,,,"DR7(264)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"fDHM","sampanti",,,,"DR7(264)","karve_kinship_1968","copied by CS from kinterm_mal.xls"
+"mFyZ","accan pengal",,,,"DR7(256)","karve_kinship_1968","Inferred; copied by CS from kinterm_mal.xls"
+"mMeB","ammāman-ammavaṉ",,,,"DR7(255)","karve_kinship_1968","Inferred; copied by CS from kinterm_mal.xls"
+"mMyB","ammāman-ammavaṉ",,,,"DR7(255)","karve_kinship_1968","Inferred; copied by CS from kinterm_mal.xls"
+"fFyZ","accan pengal",,,,"DR7(256)","karve_kinship_1968","Inferred; copied by CS from kinterm_mal.xls"
+"fMeB","ammāman-ammavaṉ",,,,"DR7(255)","karve_kinship_1968","Inferred; copied by CS from kinterm_mal.xls"
+"fMyB","ammāman-ammavaṉ",,,,"DR7(255)","karve_kinship_1968","Inferred; copied by CS from kinterm_mal.xls"

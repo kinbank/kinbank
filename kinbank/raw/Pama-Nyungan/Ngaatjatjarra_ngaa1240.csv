@@ -1,246 +1,246 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,,,male speaker's sibling,,,,
-mB,,,male speaker's brother,,,,
-mZ,,,male speaker's sister,,,,
-meB,kurta,,male speaker's elder brother,,,godelier_metamorphoses_2011,
-myB,marlanypa,,male speaker's younger brother,,,godelier_metamorphoses_2011,
-meZ,tjurtu,,male speaker's elder sister,,,godelier_metamorphoses_2011,
-myZ,marlanypa,,male speaker's younger sister,,,godelier_metamorphoses_2011,
-mP,,,male speaker's parent,,,,
-mF,mama,,male speaker's father,,,godelier_metamorphoses_2011,
-mM,ngunytju,,male speaker's mother,,,godelier_metamorphoses_2011,
-mC,,,male speaker's child,,,,
-mS,katja,,male speaker's son,,,,
-mD,yurntalpa,,male speaker's daughter,,,,
-mA,,,male speaker's ancestor,,,,
-mPP,,,male speaker's grandparent,,,,
-mFF,tjamu,,male speaker's father's father,,,godelier_metamorphoses_2011,
-mFM,kaparli,,male speaker's father's mother,,,godelier_metamorphoses_2011,
-mFM,kurri,,male speaker's father's mother,,,godelier_metamorphoses_2011,kurri is only used as a kinship term after the speaker is married. It means husband/wife. 
-mMF,tjamu,,male speaker's mother's father,,,godelier_metamorphoses_2011,
-mMM,kaparli,,male speaker's mother's mother,,,,
-mCC,,,male speaker's grandchild,,,,
-mSS,tjamu,,male speaker's son's son,,,godelier_metamorphoses_2011,
-mSD,kaparli,,male speaker's son's daughter,,,godelier_metamorphoses_2011,
-mDS,tjamu,,male speaker's daughter's son,,,godelier_metamorphoses_2011,
-mDD,kaparli,,male speaker's daughter's daughter,,,godelier_metamorphoses_2011,
-mDD,kurri,,male speaker's daughter's daughter,,,godelier_metamorphoses_2011,kurri is only used as a kinship term after the speaker is married.
-mFB,mama,,male speaker's father's brother,,,godelier_metamorphoses_2011,
-mFZ,kurntili,,male speaker's father's sister,,,godelier_metamorphoses_2011,
-mFZ,ngunytju,,male speaker's father's sister,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-mMB,kamuru,,male speaker's mother's brother,,,godelier_metamorphoses_2011,
-mMB,mama,,male speaker's mother's brother,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-mMZ,ngunytju,,male speaker's mother's sister,,,godelier_metamorphoses_2011,
-mFeB,,,male speaker's father's older brother,,,,
-mFyB,,,male speaker's father's younger brother,,,,
-mFeZ,,,male speaker's father's older sister,,,,
-mFyZ,,,male speaker's father's younger sister,,,,
-mMeZ,,,male speaker's mother's older sister,,,,
-mMyZ,,,male speaker's mother's younger sister,,,,
-mMeB,,,male speaker's mother's older brother,,,,
-mMyB,,,male speaker's mother's younger brother,,,,
-mBS,katja,,male speaker's brother's son,,,godelier_metamorphoses_2011,
-mBD,yurntalpa,,male speaker's brother's daughter,,,godelier_metamorphoses_2011,
-mZS,katja,,male speaker's sister's son,,,godelier_metamorphoses_2011,
-mZS,yukari,,male speaker's sister's son,,,godelier_metamorphoses_2011,
-mZD,yurntalpa,,male speaker's sister's daughter,,,godelier_metamorphoses_2011,
-meBS,,,male speaker's older brother's son,,,,
-myBS,,,male speaker's younger brother's son,,,,
-meBD,,,male speaker's older brother's daughter,,,,
-myBD,,,male speaker's younger brother's daughter,,,,
-meZS,,,male speaker's older sister's son,,,,
-myZS,,,male speaker's younger sister's son,,,,
-meZD,,,male speaker's older sister's daughter,,,,
-myZD,,,male speaker's younger sister's daughter,,,,
-mFZD,watjirra,,male speaker's father's sister's daughter,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-mFBD,,,male speaker's father's brother's daughter,,,,
-mMBD,watjirra,,male speaker's mother's brother's daughter,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-mMZD,,,male speaker's mother's sister's daughter,,,,
-mFBS,,,male speaker's father's brother's son,,,,
-mFZS,watjirra,,male speaker's father's sister's son,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-mMBS,watjirra,,male speaker's mother's brother's son,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-mMZS,,,male speaker's mother's sister's son,,,,
-mFeBS,kurta,,male speaker's father's older brother's son,,,godelier_metamorphoses_2011,
-mFyBS,marlanypa,,male speaker's father's younger brother's son,,,godelier_metamorphoses_2011,
-mFeZS,kurta,,male speaker's father's older sister's son,,,godelier_metamorphoses_2011,
-mFyZS,marlanypa,,male speaker's father's younger sister's son,,,godelier_metamorphoses_2011,
-mFeBD,tjurtu,,male speaker's father's older brother's daughter,,,godelier_metamorphoses_2011,
-mFyBD,marlanypa,,male speaker's father's younger brother's daughter,,,godelier_metamorphoses_2011,
-mFeZD,tjurtu,,male speaker's father's older sister's daughter,,,godelier_metamorphoses_2011,
-mFyZD,marlanypa,,male speaker's father's younger sister's daughter,,,godelier_metamorphoses_2011,
-mMeBS,kurta,,male speaker's mother's older brother's son,,,godelier_metamorphoses_2011,
-mMyBS,marlanypa,,male speaker's mother's younger brother's son,,,godelier_metamorphoses_2011,
-mMeZS,kurta,,male speaker's mother's older sister's son,,,godelier_metamorphoses_2011,
-mMyZS,marlanypa,,male speaker's mother's younger sister's son,,,godelier_metamorphoses_2011,
-mMeBD,tjurtu,,male speaker's mother's older brother's daughter,,,godelier_metamorphoses_2011,
-mMyBD,marlanypa,,male speaker's mother's younger brother's daughter,,,godelier_metamorphoses_2011,
-mMeZD,tjurtu,,male speaker's mother's older sister's daughter,,,godelier_metamorphoses_2011,
-mMyZD,marlanypa,,male speaker's mother's younger sister's daughter,,,godelier_metamorphoses_2011,
-mFBeS,,,male speaker's father's brother's older son,,,,
-mFByS,,,male speaker's father's brother's younger son,,,,
-mFZeS,,,male speaker's father's sister's older son,,,,
-mFZyS,,,male speaker's father's sister's younger son,,,,
-mFBeD,,,male speaker's father's brother's older daughter,,,,
-mFByD,,,male speaker's father's brother's younger daughter,,,,
-mFZeD,,,male speaker's father's sister's older daughter,,,,
-mFZyD,,,male speaker's father's sister's younger daughter,,,,
-mMBeS,,,male speaker's mother's brother's older son,,,,
-mMByS,,,male speaker's mother's brother's younger son,,,,
-mMZeS,,,male speaker's mother's sister's older son,,,,
-mMZyS,,,male speaker's mother's sister's younger son,,,,
-mMBeD,,,male speaker's mother's brother's older daughter,,,,
-mMByD,,,male speaker's mother's brother's younger daughter,,,,
-mMZeD,,,male speaker's mother's sister's older daughter,,,,
-mMZyD,,,male speaker's mother's sister's younger daughter,,,,
-mE,,,male speaker's spouse,,,,
-mH,,,male speaker's husband,,,,
-mW,kurri,,male speaker's wife,,,godelier_metamorphoses_2011,
-mHF,,,male speaker's husband's father,,,,
-mHM,,,male speaker's husband's mother,,,,
-mWF,waputju,,male speaker's wife's father,,,godelier_metamorphoses_2011,
-mWM,yumari,,male speaker's wife's mother,,,godelier_metamorphoses_2011,
-mBW,,,male speaker's brother's wife,,,,
-mZH,marutju,,male speaker's sister's husband,,,godelier_metamorphoses_2011,
-mWB,marutju,,male speaker's wife's brother,,,godelier_metamorphoses_2011,
-mWZ,,,male speaker's wife's sister,,,,
-mHB,,,male speaker's husband's brother,,,,
-mHZ,,,male speaker's husband's sister,,,,
-mco-W,,,male speaker's co-wife,,,,
-mco-H,,,male speaker's co-husband,,,,
-mFW(notM),,,male speaker's father's wife (not mother),,,,
-mMH(notF),,,male speaker's mother's husband (not father),,,,
-mSW,mingkayi,,male speaker's son's wife,,,godelier_metamorphoses_2011,
-mSW,yumari,,male speaker's son's wife,,,godelier_metamorphoses_2011,this variant is not used as often as the other one
-mSWM,,,male speaker's son's wife's mother,,,,
-mSWF,,,male speaker's son's wife's father,,,,
-mDH,waputju,,male speaker's daughter's husband,,,,
-mDHM,,,male speaker's daughter's husband's mother,,,,
-mDHF,,,male speaker's daughter's husband's father,,,,
-mFZH,kamuru,,male speaker's father's sister's husband,,,godelier_metamorphoses_2011,
-mFZH,mama,,male speaker's father's sister's husband,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-mFBW,,,male speaker's father's brother's wife,,,,
-mMZH,,,male speaker's mother's sister's husband,,,,
-mMBW,kurntili,,male speaker's mother's brother's wife,,,godelier_metamorphoses_2011,
-mMBW,ngunytju,,male speaker's mother's brother's wife,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-fG,,,female speaker's sibling,,,,
-fB,,,female speaker's brother,,,,
-fZ,,,female speaker's sister,,,,
-feB,kurta,,female speaker's elder brother,,,godelier_metamorphoses_2011,
-fyB,marlanypa,,female speaker's younger brother,,,godelier_metamorphoses_2011,
-feZ,tjurtu,,female speaker's elder sister,,,godelier_metamorphoses_2011,
-fyZ,marlanypa,,female speaker's younger sister,,,godelier_metamorphoses_2011,
-fP,,,female speaker's parent,,,,
-fF,mama,,female speaker's father,,,godelier_metamorphoses_2011,
-fM,ngunytju,,female speaker's mother,,,godelier_metamorphoses_2011,
-fC,,,female speaker's child,,,,
-fS,katja,,female speaker's son,,,godelier_metamorphoses_2011,
-fD,yurntalpa,,female speaker's daughter,,,godelier_metamorphoses_2011,
-fA,,,female speaker's ancestor,,,,
-fPP,,,female speaker's grandparent,,,,
-fFF,tjamu,,female speaker's father's father,,,godelier_metamorphoses_2011,
-fFM,kaparli,,female speaker's father's mother,,,godelier_metamorphoses_2011,
-fMF,tjamu,,female speaker's mother's father,,,godelier_metamorphoses_2011,
-fMF,kurri,,female speaker's mother's father,,,godelier_metamorphoses_2011,kurri is only used as a kinship term after the speaker is married. It means husband/wife. 
-fMM,kaparli,,female speaker's mother's mother,,,godelier_metamorphoses_2011,
-fCC,,,female speaker's grandchild,,,,
-fSS,tjamu,,female speaker's son's son,,,godelier_metamorphoses_2011,
-fSS,kurri,,female speaker's son's son,,,godelier_metamorphoses_2011,kurri is only used as a kinship term after the speaker is married. It means husband/wife. 
-fSD,kaparli,,female speaker's son's daughter,,,godelier_metamorphoses_2011,
-fDS,tjamu,,female speaker's daughter's son,,,godelier_metamorphoses_2011,
-fDD,kaparli,,female speaker's daughter's daughter,,,godelier_metamorphoses_2011,
-fFB,mama,,female speaker's father's brother,,,godelier_metamorphoses_2011,
-fFZ,kurntili,,female speaker's father's sister,,,godelier_metamorphoses_2011,
-fFZ,ngunytju,,female speaker's father's sister,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-fMB,kamuru,,female speaker's mother's brother,,,godelier_metamorphoses_2011,
-fMB,mama,,female speaker's mother's brother,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-fMZ,ngunytju,,female speaker's mother's sister,,,godelier_metamorphoses_2011,
-fFeB,,,female speaker's father's older brother,,,,
-fFyB,,,female speaker's father's younger brother,,,,
-fFeZ,,,female speaker's father's older sister,,,,
-fFyZ,,,female speaker's father's younger sister,,,,
-fMeZ,,,female speaker's mother's older sister,,,,
-fMyZ,,,female speaker's mother's younger sister,,,,
-fMeB,,,female speaker's mother's older brother,,,,
-fMyB,,,female speaker's mother's younger brother,,,,
-fBS,katja,,female speaker's brother's son,,,godelier_metamorphoses_2011,
-fBD,yurntalpa,,female speaker's brother's daughter,,,godelier_metamorphoses_2011,
-fBD,yukari,,female speaker's brother's daughter,,,godelier_metamorphoses_2011,
-fZS,katja,,female speaker's sister's son,,,godelier_metamorphoses_2011,
-fZD,yurntalpa,,female speaker's sister's daughter,,,godelier_metamorphoses_2011,
-feBS,,,female speaker's older brother's son,,,,
-fyBS,,,female speaker's younger brother's son,,,,
-feBD,,,female speaker's older brother's daughter,,,,
-fyBD,,,female speaker's younger brother's daughter,,,,
-feZS,,,female speaker's older sister's son,,,,
-fyZS,,,female speaker's younger sister's son,,,,
-feZD,,,female speaker's older sister's daughter,,,,
-fyZD,,,female speaker's younger sister's daughter,,,,
-fFZD,watjirra,,male speaker's father's sister's daughter,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-fFBD,,,male speaker's father's brother's daughter,,,,
-fMBD,watjirra,,male speaker's mother's brother's daughter,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-fMZD,,,male speaker's mother's sister's daughter,,,,
-fFBS,,,male speaker's father's brother's son,,,,
-fFZS,watjirra,,male speaker's father's sister's son,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-fMBS,watjirra,,male speaker's mother's brother's son,,,godelier_metamorphoses_2011,watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   
-fMZS,,,female speaker's mother's sister's son,,,,
-fFeBS,kurta,,female speaker's father's older brother's son,,,godelier_metamorphoses_2011,
-fFyBS,marlanypa,,female speaker's father's younger brother's son,,,godelier_metamorphoses_2011,
-fFeZS,kurta,,female speaker's father's older sister's son,,,godelier_metamorphoses_2011,
-fFyZS,marlanypa,,female speaker's father's younger sister's son,,,godelier_metamorphoses_2011,
-fFeBD,tjurtu,,female speaker's father's older brother's daughter,,,godelier_metamorphoses_2011,
-fFyBD,marlanypa,,female speaker's father's younger brother's daughter,,,godelier_metamorphoses_2011,
-fFeZD,tjurtu,,female speaker's father's older sister's daughter,,,godelier_metamorphoses_2011,
-fFyZD,marlanypa,,female speaker's father's younger sister's daughter,,,godelier_metamorphoses_2011,
-fMeBS,kurta,,female speaker's mother's older brother's son,,,godelier_metamorphoses_2011,
-fMyBS,marlanypa,,female speaker's mother's younger brother's son,,,godelier_metamorphoses_2011,
-fMeZS,kurta,,female speaker's mother's older sister's son,,,godelier_metamorphoses_2011,
-fMyZS,marlanypa,,female speaker's mother's younger sister's son,,,godelier_metamorphoses_2011,
-fMeBD,tjurtu,,female speaker's mother's older brother's daughter,,,godelier_metamorphoses_2011,
-fMyBD,marlanypa,,female speaker's mother's younger brother's daughter,,,godelier_metamorphoses_2011,
-fMeZD,tjurtu,,female speaker's mother's older sister's daughter,,,godelier_metamorphoses_2011,
-fMyZD,marlanypa,,female speaker's mother's younger sister's daughter,,,godelier_metamorphoses_2011,
-fFBeS,,,female speaker's father's brother's older son,,,,
-fFByS,,,female speaker's father's brother's younger son,,,,
-fFZeS,,,female speaker's father's sister's older son,,,,
-fFZyS,,,female speaker's father's sister's younger son,,,,
-fFBeD,,,female speaker's father's brother's older daughter,,,,
-fFByD,,,female speaker's father's brother's younger daughter,,,,
-fFZeD,,,female speaker's father's sister's older daughter,,,,
-fFZyD,,,female speaker's father's sister's younger daughter,,,,
-fMBeS,,,female speaker's mother's brother's older son,,,,
-fMByS,,,female speaker's mother's brother's younger son,,,,
-fMZeS,,,female speaker's mother's sister's older son,,,,
-fMZyS,,,female speaker's mother's sister's younger son,,,,
-fMBeD,,,female speaker's mother's brother's older daughter,,,,
-fMByD,,,female speaker's mother's brother's younger daughter,,,,
-fMZeD,,,female speaker's mother's sister's older daughter,,,,
-fMZyD,,,female speaker's mother's sister's younger daughter,,,,
-fE,,,female speaker's spouse,,,,
-fH,kurri,,female speaker's husband,,,godelier_metamorphoses_2011,
-fW,,,female speaker's wife,,,,
-fHF,mingkayi,,female speaker's husband's father,,,godelier_metamorphoses_2011,
-fHM,mingkayi,,female speaker's husband's mother,,,godelier_metamorphoses_2011,
-fWF,,,female speaker's wife's father,,,,
-fWM,,,female speaker's wife's mother,,,,
-fBW,tjuwari,,female speaker's brother's wife,,,godelier_metamorphoses_2011,
-fZH,,,female speaker's sister's husband,,,,
-fWB,,,female speaker's wife's brother,,,,
-fWZ,,,female speaker's wife's sister,,,,
-fHB,,,female speaker's husband's brother,,,,
-fHZ,tjuwari,,female speaker's husband's sister,,,godelier_metamorphoses_2011,
-fco-W,,,female speaker's co-wife,,,,
-fco-H,,,female speaker's co-husband,,,,
-fFW(notM),,,female speaker's father's wife (not mother),,,,
-fMH(notF),,,female speaker's wife's husband (not father),,,,
-fSW,,,female speaker's son's wife,,,,
-fSWM,,,female speaker's son's wife's mother,,,,
-fSWF,,,female speaker's son's wife's father,,,,
-fDH,,,female speaker's daughter's husband,,,,
-fDHM,,,female speaker's daughter's husband's mother,,,,
-fDHF,,,female speaker's daughter's husband's father,,,,
-fFZH,kamuru,,female speaker's father's sister's husband,,,godelier_metamorphoses_2011,
-fFZH,mama,,female speaker's father's sister's husband,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
-fFBW,,,female speaker's father's brother's wife,,,,
-fMZH,,,female speaker's mother's sister's husband,,,,
-fMBW,kurntili,,female speaker's mother's brother's wife,,,godelier_metamorphoses_2011,
-fMBW,ngunytju,,female speaker's mother's brother's wife,,,godelier_metamorphoses_2011,"after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","",,"male speaker's sibling",,,"",""
+"mB","",,"male speaker's brother",,,"",""
+"mZ","",,"male speaker's sister",,,"",""
+"meB","kurta",,"male speaker's elder brother",,,"godelier_metamorphoses_2011",""
+"myB","marlanypa",,"male speaker's younger brother",,,"godelier_metamorphoses_2011",""
+"meZ","tjurtu",,"male speaker's elder sister",,,"godelier_metamorphoses_2011",""
+"myZ","marlanypa",,"male speaker's younger sister",,,"godelier_metamorphoses_2011",""
+"mP","",,"male speaker's parent",,,"",""
+"mF","mama",,"male speaker's father",,,"godelier_metamorphoses_2011",""
+"mM","ngunytju",,"male speaker's mother",,,"godelier_metamorphoses_2011",""
+"mC","",,"male speaker's child",,,"",""
+"mS","katja",,"male speaker's son",,,"",""
+"mD","yurntalpa",,"male speaker's daughter",,,"",""
+"mA","",,"male speaker's ancestor",,,"",""
+"mPP","",,"male speaker's grandparent",,,"",""
+"mFF","tjamu",,"male speaker's father's father",,,"godelier_metamorphoses_2011",""
+"mFM","kaparli",,"male speaker's father's mother",,,"godelier_metamorphoses_2011",""
+"mFM","kurri",,"male speaker's father's mother",,,"godelier_metamorphoses_2011","kurri is only used as a kinship term after the speaker is married. It means husband/wife. "
+"mMF","tjamu",,"male speaker's mother's father",,,"godelier_metamorphoses_2011",""
+"mMM","kaparli",,"male speaker's mother's mother",,,"",""
+"mCC","",,"male speaker's grandchild",,,"",""
+"mSS","tjamu",,"male speaker's son's son",,,"godelier_metamorphoses_2011",""
+"mSD","kaparli",,"male speaker's son's daughter",,,"godelier_metamorphoses_2011",""
+"mDS","tjamu",,"male speaker's daughter's son",,,"godelier_metamorphoses_2011",""
+"mDD","kaparli",,"male speaker's daughter's daughter",,,"godelier_metamorphoses_2011",""
+"mDD","kurri",,"male speaker's daughter's daughter",,,"godelier_metamorphoses_2011","kurri is only used as a kinship term after the speaker is married."
+"mFB","mama",,"male speaker's father's brother",,,"godelier_metamorphoses_2011",""
+"mFZ","kurntili",,"male speaker's father's sister",,,"godelier_metamorphoses_2011",""
+"mFZ","ngunytju",,"male speaker's father's sister",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"mMB","kamuru",,"male speaker's mother's brother",,,"godelier_metamorphoses_2011",""
+"mMB","mama",,"male speaker's mother's brother",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"mMZ","ngunytju",,"male speaker's mother's sister",,,"godelier_metamorphoses_2011",""
+"mFeB","",,"male speaker's father's older brother",,,"",""
+"mFyB","",,"male speaker's father's younger brother",,,"",""
+"mFeZ","",,"male speaker's father's older sister",,,"",""
+"mFyZ","",,"male speaker's father's younger sister",,,"",""
+"mMeZ","",,"male speaker's mother's older sister",,,"",""
+"mMyZ","",,"male speaker's mother's younger sister",,,"",""
+"mMeB","",,"male speaker's mother's older brother",,,"",""
+"mMyB","",,"male speaker's mother's younger brother",,,"",""
+"mBS","katja",,"male speaker's brother's son",,,"godelier_metamorphoses_2011",""
+"mBD","yurntalpa",,"male speaker's brother's daughter",,,"godelier_metamorphoses_2011",""
+"mZS","katja",,"male speaker's sister's son",,,"godelier_metamorphoses_2011",""
+"mZS","yukari",,"male speaker's sister's son",,,"godelier_metamorphoses_2011",""
+"mZD","yurntalpa",,"male speaker's sister's daughter",,,"godelier_metamorphoses_2011",""
+"meBS","",,"male speaker's older brother's son",,,"",""
+"myBS","",,"male speaker's younger brother's son",,,"",""
+"meBD","",,"male speaker's older brother's daughter",,,"",""
+"myBD","",,"male speaker's younger brother's daughter",,,"",""
+"meZS","",,"male speaker's older sister's son",,,"",""
+"myZS","",,"male speaker's younger sister's son",,,"",""
+"meZD","",,"male speaker's older sister's daughter",,,"",""
+"myZD","",,"male speaker's younger sister's daughter",,,"",""
+"mFZD","watjirra",,"male speaker's father's sister's daughter",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"mFBD","",,"male speaker's father's brother's daughter",,,"",""
+"mMBD","watjirra",,"male speaker's mother's brother's daughter",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"mMZD","",,"male speaker's mother's sister's daughter",,,"",""
+"mFBS","",,"male speaker's father's brother's son",,,"",""
+"mFZS","watjirra",,"male speaker's father's sister's son",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"mMBS","watjirra",,"male speaker's mother's brother's son",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"mMZS","",,"male speaker's mother's sister's son",,,"",""
+"mFeBS","kurta",,"male speaker's father's older brother's son",,,"godelier_metamorphoses_2011",""
+"mFyBS","marlanypa",,"male speaker's father's younger brother's son",,,"godelier_metamorphoses_2011",""
+"mFeZS","kurta",,"male speaker's father's older sister's son",,,"godelier_metamorphoses_2011",""
+"mFyZS","marlanypa",,"male speaker's father's younger sister's son",,,"godelier_metamorphoses_2011",""
+"mFeBD","tjurtu",,"male speaker's father's older brother's daughter",,,"godelier_metamorphoses_2011",""
+"mFyBD","marlanypa",,"male speaker's father's younger brother's daughter",,,"godelier_metamorphoses_2011",""
+"mFeZD","tjurtu",,"male speaker's father's older sister's daughter",,,"godelier_metamorphoses_2011",""
+"mFyZD","marlanypa",,"male speaker's father's younger sister's daughter",,,"godelier_metamorphoses_2011",""
+"mMeBS","kurta",,"male speaker's mother's older brother's son",,,"godelier_metamorphoses_2011",""
+"mMyBS","marlanypa",,"male speaker's mother's younger brother's son",,,"godelier_metamorphoses_2011",""
+"mMeZS","kurta",,"male speaker's mother's older sister's son",,,"godelier_metamorphoses_2011",""
+"mMyZS","marlanypa",,"male speaker's mother's younger sister's son",,,"godelier_metamorphoses_2011",""
+"mMeBD","tjurtu",,"male speaker's mother's older brother's daughter",,,"godelier_metamorphoses_2011",""
+"mMyBD","marlanypa",,"male speaker's mother's younger brother's daughter",,,"godelier_metamorphoses_2011",""
+"mMeZD","tjurtu",,"male speaker's mother's older sister's daughter",,,"godelier_metamorphoses_2011",""
+"mMyZD","marlanypa",,"male speaker's mother's younger sister's daughter",,,"godelier_metamorphoses_2011",""
+"mFBeS","",,"male speaker's father's brother's older son",,,"",""
+"mFByS","",,"male speaker's father's brother's younger son",,,"",""
+"mFZeS","",,"male speaker's father's sister's older son",,,"",""
+"mFZyS","",,"male speaker's father's sister's younger son",,,"",""
+"mFBeD","",,"male speaker's father's brother's older daughter",,,"",""
+"mFByD","",,"male speaker's father's brother's younger daughter",,,"",""
+"mFZeD","",,"male speaker's father's sister's older daughter",,,"",""
+"mFZyD","",,"male speaker's father's sister's younger daughter",,,"",""
+"mMBeS","",,"male speaker's mother's brother's older son",,,"",""
+"mMByS","",,"male speaker's mother's brother's younger son",,,"",""
+"mMZeS","",,"male speaker's mother's sister's older son",,,"",""
+"mMZyS","",,"male speaker's mother's sister's younger son",,,"",""
+"mMBeD","",,"male speaker's mother's brother's older daughter",,,"",""
+"mMByD","",,"male speaker's mother's brother's younger daughter",,,"",""
+"mMZeD","",,"male speaker's mother's sister's older daughter",,,"",""
+"mMZyD","",,"male speaker's mother's sister's younger daughter",,,"",""
+"mE","",,"male speaker's spouse",,,"",""
+"mH","",,"male speaker's husband",,,"",""
+"mW","kurri",,"male speaker's wife",,,"godelier_metamorphoses_2011",""
+"mHF","",,"male speaker's husband's father",,,"",""
+"mHM","",,"male speaker's husband's mother",,,"",""
+"mWF","waputju",,"male speaker's wife's father",,,"godelier_metamorphoses_2011",""
+"mWM","yumari",,"male speaker's wife's mother",,,"godelier_metamorphoses_2011",""
+"mBW","",,"male speaker's brother's wife",,,"",""
+"mZH","marutju",,"male speaker's sister's husband",,,"godelier_metamorphoses_2011",""
+"mWB","marutju",,"male speaker's wife's brother",,,"godelier_metamorphoses_2011",""
+"mWZ","",,"male speaker's wife's sister",,,"",""
+"mHB","",,"male speaker's husband's brother",,,"",""
+"mHZ","",,"male speaker's husband's sister",,,"",""
+"mco-W","",,"male speaker's co-wife",,,"",""
+"mco-H","",,"male speaker's co-husband",,,"",""
+"mFW(notM)","",,"male speaker's father's wife (not mother)",,,"",""
+"mMH(notF)","",,"male speaker's mother's husband (not father)",,,"",""
+"mSW","mingkayi",,"male speaker's son's wife",,,"godelier_metamorphoses_2011",""
+"mSW","yumari",,"male speaker's son's wife",,,"godelier_metamorphoses_2011","this variant is not used as often as the other one"
+"mSWM","",,"male speaker's son's wife's mother",,,"",""
+"mSWF","",,"male speaker's son's wife's father",,,"",""
+"mDH","waputju",,"male speaker's daughter's husband",,,"",""
+"mDHM","",,"male speaker's daughter's husband's mother",,,"",""
+"mDHF","",,"male speaker's daughter's husband's father",,,"",""
+"mFZH","kamuru",,"male speaker's father's sister's husband",,,"godelier_metamorphoses_2011",""
+"mFZH","mama",,"male speaker's father's sister's husband",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"mFBW","",,"male speaker's father's brother's wife",,,"",""
+"mMZH","",,"male speaker's mother's sister's husband",,,"",""
+"mMBW","kurntili",,"male speaker's mother's brother's wife",,,"godelier_metamorphoses_2011",""
+"mMBW","ngunytju",,"male speaker's mother's brother's wife",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"fG","",,"female speaker's sibling",,,"",""
+"fB","",,"female speaker's brother",,,"",""
+"fZ","",,"female speaker's sister",,,"",""
+"feB","kurta",,"female speaker's elder brother",,,"godelier_metamorphoses_2011",""
+"fyB","marlanypa",,"female speaker's younger brother",,,"godelier_metamorphoses_2011",""
+"feZ","tjurtu",,"female speaker's elder sister",,,"godelier_metamorphoses_2011",""
+"fyZ","marlanypa",,"female speaker's younger sister",,,"godelier_metamorphoses_2011",""
+"fP","",,"female speaker's parent",,,"",""
+"fF","mama",,"female speaker's father",,,"godelier_metamorphoses_2011",""
+"fM","ngunytju",,"female speaker's mother",,,"godelier_metamorphoses_2011",""
+"fC","",,"female speaker's child",,,"",""
+"fS","katja",,"female speaker's son",,,"godelier_metamorphoses_2011",""
+"fD","yurntalpa",,"female speaker's daughter",,,"godelier_metamorphoses_2011",""
+"fA","",,"female speaker's ancestor",,,"",""
+"fPP","",,"female speaker's grandparent",,,"",""
+"fFF","tjamu",,"female speaker's father's father",,,"godelier_metamorphoses_2011",""
+"fFM","kaparli",,"female speaker's father's mother",,,"godelier_metamorphoses_2011",""
+"fMF","tjamu",,"female speaker's mother's father",,,"godelier_metamorphoses_2011",""
+"fMF","kurri",,"female speaker's mother's father",,,"godelier_metamorphoses_2011","kurri is only used as a kinship term after the speaker is married. It means husband/wife. "
+"fMM","kaparli",,"female speaker's mother's mother",,,"godelier_metamorphoses_2011",""
+"fCC","",,"female speaker's grandchild",,,"",""
+"fSS","tjamu",,"female speaker's son's son",,,"godelier_metamorphoses_2011",""
+"fSS","kurri",,"female speaker's son's son",,,"godelier_metamorphoses_2011","kurri is only used as a kinship term after the speaker is married. It means husband/wife. "
+"fSD","kaparli",,"female speaker's son's daughter",,,"godelier_metamorphoses_2011",""
+"fDS","tjamu",,"female speaker's daughter's son",,,"godelier_metamorphoses_2011",""
+"fDD","kaparli",,"female speaker's daughter's daughter",,,"godelier_metamorphoses_2011",""
+"fFB","mama",,"female speaker's father's brother",,,"godelier_metamorphoses_2011",""
+"fFZ","kurntili",,"female speaker's father's sister",,,"godelier_metamorphoses_2011",""
+"fFZ","ngunytju",,"female speaker's father's sister",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"fMB","kamuru",,"female speaker's mother's brother",,,"godelier_metamorphoses_2011",""
+"fMB","mama",,"female speaker's mother's brother",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"fMZ","ngunytju",,"female speaker's mother's sister",,,"godelier_metamorphoses_2011",""
+"fFeB","",,"female speaker's father's older brother",,,"",""
+"fFyB","",,"female speaker's father's younger brother",,,"",""
+"fFeZ","",,"female speaker's father's older sister",,,"",""
+"fFyZ","",,"female speaker's father's younger sister",,,"",""
+"fMeZ","",,"female speaker's mother's older sister",,,"",""
+"fMyZ","",,"female speaker's mother's younger sister",,,"",""
+"fMeB","",,"female speaker's mother's older brother",,,"",""
+"fMyB","",,"female speaker's mother's younger brother",,,"",""
+"fBS","katja",,"female speaker's brother's son",,,"godelier_metamorphoses_2011",""
+"fBD","yurntalpa",,"female speaker's brother's daughter",,,"godelier_metamorphoses_2011",""
+"fBD","yukari",,"female speaker's brother's daughter",,,"godelier_metamorphoses_2011",""
+"fZS","katja",,"female speaker's sister's son",,,"godelier_metamorphoses_2011",""
+"fZD","yurntalpa",,"female speaker's sister's daughter",,,"godelier_metamorphoses_2011",""
+"feBS","",,"female speaker's older brother's son",,,"",""
+"fyBS","",,"female speaker's younger brother's son",,,"",""
+"feBD","",,"female speaker's older brother's daughter",,,"",""
+"fyBD","",,"female speaker's younger brother's daughter",,,"",""
+"feZS","",,"female speaker's older sister's son",,,"",""
+"fyZS","",,"female speaker's younger sister's son",,,"",""
+"feZD","",,"female speaker's older sister's daughter",,,"",""
+"fyZD","",,"female speaker's younger sister's daughter",,,"",""
+"fFZD","watjirra",,"male speaker's father's sister's daughter",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"fFBD","",,"male speaker's father's brother's daughter",,,"",""
+"fMBD","watjirra",,"male speaker's mother's brother's daughter",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"fMZD","",,"male speaker's mother's sister's daughter",,,"",""
+"fFBS","",,"male speaker's father's brother's son",,,"",""
+"fFZS","watjirra",,"male speaker's father's sister's son",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"fMBS","watjirra",,"male speaker's mother's brother's son",,,"godelier_metamorphoses_2011","watjirra listed as alternative term for parallel cousins relations. The terms for siblings/parallel cousins can also be used to describe them.   "
+"fMZS","",,"female speaker's mother's sister's son",,,"",""
+"fFeBS","kurta",,"female speaker's father's older brother's son",,,"godelier_metamorphoses_2011",""
+"fFyBS","marlanypa",,"female speaker's father's younger brother's son",,,"godelier_metamorphoses_2011",""
+"fFeZS","kurta",,"female speaker's father's older sister's son",,,"godelier_metamorphoses_2011",""
+"fFyZS","marlanypa",,"female speaker's father's younger sister's son",,,"godelier_metamorphoses_2011",""
+"fFeBD","tjurtu",,"female speaker's father's older brother's daughter",,,"godelier_metamorphoses_2011",""
+"fFyBD","marlanypa",,"female speaker's father's younger brother's daughter",,,"godelier_metamorphoses_2011",""
+"fFeZD","tjurtu",,"female speaker's father's older sister's daughter",,,"godelier_metamorphoses_2011",""
+"fFyZD","marlanypa",,"female speaker's father's younger sister's daughter",,,"godelier_metamorphoses_2011",""
+"fMeBS","kurta",,"female speaker's mother's older brother's son",,,"godelier_metamorphoses_2011",""
+"fMyBS","marlanypa",,"female speaker's mother's younger brother's son",,,"godelier_metamorphoses_2011",""
+"fMeZS","kurta",,"female speaker's mother's older sister's son",,,"godelier_metamorphoses_2011",""
+"fMyZS","marlanypa",,"female speaker's mother's younger sister's son",,,"godelier_metamorphoses_2011",""
+"fMeBD","tjurtu",,"female speaker's mother's older brother's daughter",,,"godelier_metamorphoses_2011",""
+"fMyBD","marlanypa",,"female speaker's mother's younger brother's daughter",,,"godelier_metamorphoses_2011",""
+"fMeZD","tjurtu",,"female speaker's mother's older sister's daughter",,,"godelier_metamorphoses_2011",""
+"fMyZD","marlanypa",,"female speaker's mother's younger sister's daughter",,,"godelier_metamorphoses_2011",""
+"fFBeS","",,"female speaker's father's brother's older son",,,"",""
+"fFByS","",,"female speaker's father's brother's younger son",,,"",""
+"fFZeS","",,"female speaker's father's sister's older son",,,"",""
+"fFZyS","",,"female speaker's father's sister's younger son",,,"",""
+"fFBeD","",,"female speaker's father's brother's older daughter",,,"",""
+"fFByD","",,"female speaker's father's brother's younger daughter",,,"",""
+"fFZeD","",,"female speaker's father's sister's older daughter",,,"",""
+"fFZyD","",,"female speaker's father's sister's younger daughter",,,"",""
+"fMBeS","",,"female speaker's mother's brother's older son",,,"",""
+"fMByS","",,"female speaker's mother's brother's younger son",,,"",""
+"fMZeS","",,"female speaker's mother's sister's older son",,,"",""
+"fMZyS","",,"female speaker's mother's sister's younger son",,,"",""
+"fMBeD","",,"female speaker's mother's brother's older daughter",,,"",""
+"fMByD","",,"female speaker's mother's brother's younger daughter",,,"",""
+"fMZeD","",,"female speaker's mother's sister's older daughter",,,"",""
+"fMZyD","",,"female speaker's mother's sister's younger daughter",,,"",""
+"fE","",,"female speaker's spouse",,,"",""
+"fH","kurri",,"female speaker's husband",,,"godelier_metamorphoses_2011",""
+"fW","",,"female speaker's wife",,,"",""
+"fHF","mingkayi",,"female speaker's husband's father",,,"godelier_metamorphoses_2011",""
+"fHM","mingkayi",,"female speaker's husband's mother",,,"godelier_metamorphoses_2011",""
+"fWF","",,"female speaker's wife's father",,,"",""
+"fWM","",,"female speaker's wife's mother",,,"",""
+"fBW","tjuwari",,"female speaker's brother's wife",,,"godelier_metamorphoses_2011",""
+"fZH","",,"female speaker's sister's husband",,,"",""
+"fWB","",,"female speaker's wife's brother",,,"",""
+"fWZ","",,"female speaker's wife's sister",,,"",""
+"fHB","",,"female speaker's husband's brother",,,"",""
+"fHZ","tjuwari",,"female speaker's husband's sister",,,"godelier_metamorphoses_2011",""
+"fco-W","",,"female speaker's co-wife",,,"",""
+"fco-H","",,"female speaker's co-husband",,,"",""
+"fFW(notM)","",,"female speaker's father's wife (not mother)",,,"",""
+"fMH(notF)","",,"female speaker's wife's husband (not father)",,,"",""
+"fSW","",,"female speaker's son's wife",,,"",""
+"fSWM","",,"female speaker's son's wife's mother",,,"",""
+"fSWF","",,"female speaker's son's wife's father",,,"",""
+"fDH","",,"female speaker's daughter's husband",,,"",""
+"fDHM","",,"female speaker's daughter's husband's mother",,,"",""
+"fDHF","",,"female speaker's daughter's husband's father",,,"",""
+"fFZH","kamuru",,"female speaker's father's sister's husband",,,"godelier_metamorphoses_2011",""
+"fFZH","mama",,"female speaker's father's sister's husband",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "
+"fFBW","",,"female speaker's father's brother's wife",,,"",""
+"fMZH","",,"female speaker's mother's sister's husband",,,"",""
+"fMBW","kurntili",,"female speaker's mother's brother's wife",,,"godelier_metamorphoses_2011",""
+"fMBW","ngunytju",,"female speaker's mother's brother's wife",,,"godelier_metamorphoses_2011","after marriage, kinship terms once used only for direct/parallel relations can be used for cross-relatives. "

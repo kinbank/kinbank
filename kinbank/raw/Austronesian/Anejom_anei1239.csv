@@ -1,97 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"etwa-, inraimu",,male ego's older brother,inmetou,,,inmetou = oldest brother
-myB,"etwa-, inraimu",,male ego's younger brother,,,,
-feB,"nataman, inraimu",,female ego's older brother,,,,inmetou = oldest brother
-fyB,"nataman, inraimu",,female ego's younger brother,,,,
-meZ,"natahen, inraimu",,male ego's older sister,,,,
-myZ,"natahen, inraimu",,male ego's younger sister,,,,
-feZ,"etwa-, inraimu",,female ego's older sister,,,,
-fyZ,"etwa-, inraimu",,female ego's younger sister,,,,
-mF,etma-,,male ego's father,"papa, tata",,,"papa, tata = address"
-mM,risi-,,male ego's mother,mama,,,mama = address
-fF,etma-,,female ego's father,"papa, tata",,,"papa, tata = address"
-fM,risi-,,female ego's mother,mama,,,mama = address
-mS,inhal,,male ego's son,,,,
-fS,inhal,,female ego's son,,,,
-mD,inhal,,male ego's daughter,,,,
-fD,inhal,,female ego's daughter,,,,
-mSS,mapo-,,male ego's son's son,,,,
-mSD,mapo-,,male ego's son's daughter,,,,
-mDS,mapo-,,male ego's daughter's son,,,,
-mDD,mapo-,,male ego's daughter's daughter,,,,
-fSS,mapo-,,female ego's son's son,,,,
-fSD,mapo-,,female ego's son's daughter,,,,
-fDS,mapo-,,female ego's daughter's son,,,,
-fDD,mapo-,,female ego's daugher's daughter,,,,
-mFF,etpo-,,male ego's father‘s father,puaa,,,puaa = address
-mFM,etop-,,male ego's father's mother,puaa,,,puaa = address
-mMF,etpo-,,male ego's mother's father,puaa,,,puaa = address
-mMM,etop-,,male ego's mother's mother,puaa,,,puaa = address
-fFF,etpo-,,female ego's father's father,puaa,,,puaa = address
-fFM,etop-,,female ego's father's mother,puaa,,,puaa = address
-fMF,etpo-,,female ego's mother's father,puaa,,,puaa = address
-fMM,etop-,,female ego's mother's mother,puaa,,,puaa = address
-meBS,"inhal, nohowanig",,male ego's older brother's son,,,,
-myBS,"inhal, nohowanig",,male ego's younger brother's son,,,,
-meZS,"inhal, nohowanig",,male ego's older sister's son,,,,
-myZS,"inhal, nohowanig",,male ego's younger sister's son,,,,
-meBD,"inhal, nohowanig",,male ego's older brother's daughter,,,,
-myBD,"inhal, nohowanig",,male ego's younger brother's daughter,,,,
-meZD,"inhal, nohowanig",,male ego's older sister's daughter,,,,
-myZD,"inhal, nohowanig",,male ego's younger sister's daughter,,,,
-feBS,"inhal, nohowanig",,female ego's older brother's son,,,,
-fyBS,"inhal, nohowanig",,female ego's younger brother's son,,,,
-feZS,"inhal, nohowanig",,female ego's older sister's son,,,,
-fyZS,"inhal, nohowanig",,female ego's younger sister's son,,,,
-feBD,"inhal, nohowanig",,female ego's older brother's daughter,,,,
-fyBD,"inhal, nohowanig",,female ego's younger brother's daughter,,,,
-feZD,"inhal, nohowanig",,female ego's older sister's daughter,,,,
-fyZD,"inhal, nohowanig",,female ego's younger sister's daughter,,,,
-mFeB,etma-,,male ego's father's older brother,,,,
-mFyB,etma-,,male ego's father's younger brother,,,,
-mFeZ,risi-,,male ego's father's older sister,,,,
-mFyZ,risi-,,male ego's father's younger sister,,,,
-mMeB,mata-,,male ego's mother's older brother,,,,
-mMyB,mata-,,male ego's mother's younger brother,,,,
-mMeZ,risi-,,male ego's mother's older sister,,,,
-mMyZ,risi-,,male ego's mother's younger sister,,,,
-fFeB,etma-,,female ego's father's older brother,,,,
-fFyB,etma-,,female ego's father's younger brother,,,,
-fFeZ,risi-,,female ego's father's older sister,,,,
-fFyZ,risi-,,female ego's father's younger sister,,,,
-fMeB,mata-,,female ego's mother's older brother,,,,
-fMyB,mata-,,female ego's mother's younger brother,,,,
-fMeZ,risi-,,female ego's mother's older sister,,,,
-fMyZ,risi-,,female ego's mother's younger sister,,,,
-mW,ega-,,male ego's wife,,,,
-fH,"natamn-, nomrag",,female ego‘s husband,,,,
-mDH,nohowanig,,male ego's daughter's husband,,,,
-fDH,nohowanig,,female ego's daughter's husband,,,,
-mSW,nohowanig,,male ego's son's wife,,,,
-fSW,nohowanig,,female ego's son's wife,,,,
-mWF,mata-,,male ego's wife's father,,,,
-mWB,nega,,male ego's wife's brother,,,,
-mWZ,ega-,,male ego's wife's sister,,,,
-fHF,mata-,,female ego's husband's father,,,,
-fHB,natamn-,,female ego's husband's brother,,,,
-fHZ,hodna-,,female ego's husband's sister,,,,
-mBW,"risi-, hodna-",,male ego's brother's wife,,,,
-fBW,risi-,,female ego's brother's wife,,,,
-mZH,"etma-, mata-",,male ego's sister's husband,,,,
-fZH,"nataman, etma-, mata-",,female ego's sister's husband,,,,
-mFBS,etwa-,,male ego's father's brother's son,,,,
-mFZS,natahen,,male ego's father's sister's son,,,,
-mMBS,nega,,male ego's mother's brother's son,,,,
-mMZS,ega-,,male ego's mother's sister's son,,,,
-mFBD,nega,,male ego's father's brother's daughter,,,,
-mFZD,ega-,,male ego's father's sister's daughter,,,,
-mMBD,nega,,male ego's mother's brother's daughter,,,,
-mMZD,ega-,,male ego's mother's sister's daughter,,,,
-fFBS,nataman,,female ego's father's brother's son,,,,
-fFZS,etwa-,,female ego's father's sister's son,,,,
-fMBS,natamn-,,female ego's mother's brother's son,,,,
-fMZS,nega,,female ego's mother's sister's son,,,,
-fFBD,natamn-,,female ego's father's brother's daughter,,,,
-fFZD,nega,,female ego's father's sister's daughter,,,,
-fMBD,natamn-,,female ego's mother's brother's daughter,,,,
-fMZD,nega,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","etwa-, inraimu",,"male ego's older brother","inmetou",,,"inmetou = oldest brother"
+"myB","etwa-, inraimu",,"male ego's younger brother","",,,""
+"feB","nataman, inraimu",,"female ego's older brother","",,,"inmetou = oldest brother"
+"fyB","nataman, inraimu",,"female ego's younger brother","",,,""
+"meZ","natahen, inraimu",,"male ego's older sister","",,,""
+"myZ","natahen, inraimu",,"male ego's younger sister","",,,""
+"feZ","etwa-, inraimu",,"female ego's older sister","",,,""
+"fyZ","etwa-, inraimu",,"female ego's younger sister","",,,""
+"mF","etma-",,"male ego's father","papa, tata",,,"papa, tata = address"
+"mM","risi-",,"male ego's mother","mama",,,"mama = address"
+"fF","etma-",,"female ego's father","papa, tata",,,"papa, tata = address"
+"fM","risi-",,"female ego's mother","mama",,,"mama = address"
+"mS","inhal",,"male ego's son","",,,""
+"fS","inhal",,"female ego's son","",,,""
+"mD","inhal",,"male ego's daughter","",,,""
+"fD","inhal",,"female ego's daughter","",,,""
+"mSS","mapo-",,"male ego's son's son","",,,""
+"mSD","mapo-",,"male ego's son's daughter","",,,""
+"mDS","mapo-",,"male ego's daughter's son","",,,""
+"mDD","mapo-",,"male ego's daughter's daughter","",,,""
+"fSS","mapo-",,"female ego's son's son","",,,""
+"fSD","mapo-",,"female ego's son's daughter","",,,""
+"fDS","mapo-",,"female ego's daughter's son","",,,""
+"fDD","mapo-",,"female ego's daugher's daughter","",,,""
+"mFF","etpo-",,"male ego's father‘s father","puaa",,,"puaa = address"
+"mFM","etop-",,"male ego's father's mother","puaa",,,"puaa = address"
+"mMF","etpo-",,"male ego's mother's father","puaa",,,"puaa = address"
+"mMM","etop-",,"male ego's mother's mother","puaa",,,"puaa = address"
+"fFF","etpo-",,"female ego's father's father","puaa",,,"puaa = address"
+"fFM","etop-",,"female ego's father's mother","puaa",,,"puaa = address"
+"fMF","etpo-",,"female ego's mother's father","puaa",,,"puaa = address"
+"fMM","etop-",,"female ego's mother's mother","puaa",,,"puaa = address"
+"meBS","inhal, nohowanig",,"male ego's older brother's son","",,,""
+"myBS","inhal, nohowanig",,"male ego's younger brother's son","",,,""
+"meZS","inhal, nohowanig",,"male ego's older sister's son","",,,""
+"myZS","inhal, nohowanig",,"male ego's younger sister's son","",,,""
+"meBD","inhal, nohowanig",,"male ego's older brother's daughter","",,,""
+"myBD","inhal, nohowanig",,"male ego's younger brother's daughter","",,,""
+"meZD","inhal, nohowanig",,"male ego's older sister's daughter","",,,""
+"myZD","inhal, nohowanig",,"male ego's younger sister's daughter","",,,""
+"feBS","inhal, nohowanig",,"female ego's older brother's son","",,,""
+"fyBS","inhal, nohowanig",,"female ego's younger brother's son","",,,""
+"feZS","inhal, nohowanig",,"female ego's older sister's son","",,,""
+"fyZS","inhal, nohowanig",,"female ego's younger sister's son","",,,""
+"feBD","inhal, nohowanig",,"female ego's older brother's daughter","",,,""
+"fyBD","inhal, nohowanig",,"female ego's younger brother's daughter","",,,""
+"feZD","inhal, nohowanig",,"female ego's older sister's daughter","",,,""
+"fyZD","inhal, nohowanig",,"female ego's younger sister's daughter","",,,""
+"mFeB","etma-",,"male ego's father's older brother","",,,""
+"mFyB","etma-",,"male ego's father's younger brother","",,,""
+"mFeZ","risi-",,"male ego's father's older sister","",,,""
+"mFyZ","risi-",,"male ego's father's younger sister","",,,""
+"mMeB","mata-",,"male ego's mother's older brother","",,,""
+"mMyB","mata-",,"male ego's mother's younger brother","",,,""
+"mMeZ","risi-",,"male ego's mother's older sister","",,,""
+"mMyZ","risi-",,"male ego's mother's younger sister","",,,""
+"fFeB","etma-",,"female ego's father's older brother","",,,""
+"fFyB","etma-",,"female ego's father's younger brother","",,,""
+"fFeZ","risi-",,"female ego's father's older sister","",,,""
+"fFyZ","risi-",,"female ego's father's younger sister","",,,""
+"fMeB","mata-",,"female ego's mother's older brother","",,,""
+"fMyB","mata-",,"female ego's mother's younger brother","",,,""
+"fMeZ","risi-",,"female ego's mother's older sister","",,,""
+"fMyZ","risi-",,"female ego's mother's younger sister","",,,""
+"mW","ega-",,"male ego's wife","",,,""
+"fH","natamn-, nomrag",,"female ego‘s husband","",,,""
+"mDH","nohowanig",,"male ego's daughter's husband","",,,""
+"fDH","nohowanig",,"female ego's daughter's husband","",,,""
+"mSW","nohowanig",,"male ego's son's wife","",,,""
+"fSW","nohowanig",,"female ego's son's wife","",,,""
+"mWF","mata-",,"male ego's wife's father","",,,""
+"mWB","nega",,"male ego's wife's brother","",,,""
+"mWZ","ega-",,"male ego's wife's sister","",,,""
+"fHF","mata-",,"female ego's husband's father","",,,""
+"fHB","natamn-",,"female ego's husband's brother","",,,""
+"fHZ","hodna-",,"female ego's husband's sister","",,,""
+"mBW","risi-, hodna-",,"male ego's brother's wife","",,,""
+"fBW","risi-",,"female ego's brother's wife","",,,""
+"mZH","etma-, mata-",,"male ego's sister's husband","",,,""
+"fZH","nataman, etma-, mata-",,"female ego's sister's husband","",,,""
+"mFBS","etwa-",,"male ego's father's brother's son","",,,""
+"mFZS","natahen",,"male ego's father's sister's son","",,,""
+"mMBS","nega",,"male ego's mother's brother's son","",,,""
+"mMZS","ega-",,"male ego's mother's sister's son","",,,""
+"mFBD","nega",,"male ego's father's brother's daughter","",,,""
+"mFZD","ega-",,"male ego's father's sister's daughter","",,,""
+"mMBD","nega",,"male ego's mother's brother's daughter","",,,""
+"mMZD","ega-",,"male ego's mother's sister's daughter","",,,""
+"fFBS","nataman",,"female ego's father's brother's son","",,,""
+"fFZS","etwa-",,"female ego's father's sister's son","",,,""
+"fMBS","natamn-",,"female ego's mother's brother's son","",,,""
+"fMZS","nega",,"female ego's mother's sister's son","",,,""
+"fFBD","natamn-",,"female ego's father's brother's daughter","",,,""
+"fFZD","nega",,"female ego's father's sister's daughter","",,,""
+"fMBD","natamn-",,"female ego's mother's brother's daughter","",,,""
+"fMZD","nega",,"female ego's mother's sister's daughter","",,,""
+"mFeBS","etwa-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFyBS","etwa-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFeZS","natahen",,"male ego's father's sister's son","",,,"Inferred; "
+"mFyZS","natahen",,"male ego's father's sister's son","",,,"Inferred; "
+"mFeBD","nega",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","nega",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFeZD","ega-",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFyZD","ega-",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMeBS","nega",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMyBS","nega",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMeZS","ega-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMyZS","ega-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMeBD","nega",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","nega",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMeZD","ega-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","ega-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeS","etwa-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFByS","etwa-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFZeS","natahen",,"male ego's father's sister's son","",,,"Inferred; "
+"mFZyS","natahen",,"male ego's father's sister's son","",,,"Inferred; "
+"mFBeD","nega",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","nega",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFZeD","ega-",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFZyD","ega-",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMBeS","nega",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMByS","nega",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMZeS","ega-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMZyS","ega-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMBeD","nega",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","nega",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMZeD","ega-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","ega-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"fFeBS","nataman",,"female ego's father's brother's son","",,,"Inferred; "
+"fFyBS","nataman",,"female ego's father's brother's son","",,,"Inferred; "
+"fFeZS","etwa-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFyZS","etwa-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFeBD","natamn-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fFyBD","natamn-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fFeZD","nega",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fFyZD","nega",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fMeBS","natamn-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMyBS","natamn-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMeZS","nega",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMyZS","nega",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMeBD","natamn-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMyBD","natamn-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMeZD","nega",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fMyZD","nega",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fFBeS","nataman",,"female ego's father's brother's son","",,,"Inferred; "
+"fFByS","nataman",,"female ego's father's brother's son","",,,"Inferred; "
+"fFZeS","etwa-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFZyS","etwa-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFBeD","natamn-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fFByD","natamn-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fFZeD","nega",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fFZyD","nega",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fMBeS","natamn-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMByS","natamn-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMZeS","nega",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMZyS","nega",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMBeD","natamn-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMByD","natamn-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMZeD","nega",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fMZyD","nega",,"female ego's mother's sister's daughter","",,,"Inferred; "

@@ -1,91 +1,155 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,sia'ang,,male ego's older brother,,,,
-myB,tuai,,male ego's younger brother,,,,
-feB,sia'ang,,female ego's older brother,,,,
-fyB,tuai,,female ego's younger brother,,,,
-meZ,sia'ang,,male ego's older sister,,,,
-myZ,tuai,,male ego's younger sister,,,,
-feZ,sia'ang,,female ego's older sister,,,,
-fyZ,tuai,,female ego's younger sister,,,,
-mF,siama,,male ego's father,,,,
-mM,"sina, siina -nyo",,male ego's mother,,,,
-fF,siama,,female ego's father,,,,
-fM,"sina, siina -nyo",,female ego's mother,,,,
-mS,"unga, unga langkai, unga benkel",,male ego's son,,,,
-fS,"unga, unga langkai, unga benkel",,female ego's son,,,,
-mD,"unga, unga langkai, unga benkel",,male ego's daughter,,,,
-fD,"unga, unga langkai, unga benkel",,female ego's daughter,,,,
-mSS,mo'upu,,male ego's son's son,,,,
-mSD,mo'upu,,male ego's son's daughter,,,,
-mDS,mo'upu,,male ego's daughter's son,,,,
-mDD,mo'upu,,male ego's daughter's daughter,,,,
-fSS,mo'upu,,female ego's son's son,,,,
-fSD,mo'upu,,female ego's son's daughter,,,,
-fDS,mo'upu,,female ego's daughter's son,,,,
-fDD,mo'upu,,female ego's daugher's daughter,,,,
-mFF,"siopu/siompu langkai, si kakai",,male ego's father‘s father,,,,
-mFM,sibe'e,,male ego's father's mother,,,,
-mMF,"siopu/siompu langkai, si kakai",,male ego's mother's father,,,,
-mMM,sibe'e,,male ego's mother's mother,,,,
-fFF,"siopu/siompu langkai, si kakai",,female ego's father's father,,,,
-fFM,sibe'e,,female ego's father's mother,,,,
-fMF,"siopu/siompu langkai, si kakai",,female ego's mother's father,,,,
-fMM,sibe'e,,female ego's mother's mother,,,,
-meBS,ponungao,,male ego's older brother's son,,,,
-myBS,ponungao,,male ego's younger brother's son,,,,
-meZS,ponungao,,male ego's older sister's son,,,,
-myZS,ponungao,,male ego's younger sister's son,,,,
-meBD,ponungao,,male ego's older brother's daughter,,,,
-myBD,ponungao,,male ego's younger brother's daughter,,,,
-meZD,ponungao,,male ego's older sister's daughter,,,,
-myZD,ponungao,,male ego's younger sister's daughter,,,,
-feBS,ponungao,,female ego's older brother's son,,,,
-fyBS,ponungao,,female ego's younger brother's son,,,,
-feZS,ponungao,,female ego's older sister's son,,,,
-fyZS,ponungao,,female ego's younger sister's son,,,,
-feBD,ponungao,,female ego's older brother's daughter,,,,
-fyBD,ponungao,,female ego's younger brother's daughter,,,,
-feZD,ponungao,,female ego's older sister's daughter,,,,
-fyZD,ponungao,,female ego's younger sister's daughter,,,,
-mFeB,"posiamao, posiama' -onyo",,male ego's father's older brother,,,,
-mFyB,"posiamao, posiama' -onyo",,male ego's father's younger brother,,,,
-mFeZ,"posinao, posina' -onyo",,male ego's father's older sister,,,,
-mFyZ,"posinao, posina' -onyo",,male ego's father's younger sister,,,,
-mMeB,"posiamao, posiama' -onyo",,male ego's mother's older brother,,,,
-mMyB,"posiamao, posiama' -onyo",,male ego's mother's younger brother,,,,
-mMeZ,"posinao, posina' -onyo",,male ego's mother's older sister,,,,
-mMyZ,"posinao, posina' -onyo",,male ego's mother's younger sister,,,,
-fFeB,"posiamao, posiama' -onyo",,female ego's father's older brother,,,,
-fFyB,"posiamao, posiama' -onyo",,female ego's father's younger brother,,,,
-fFeZ,"posinao, posina' -onyo",,female ego's father's older sister,,,,
-fFyZ,"posinao, posina' -onyo",,female ego's father's younger sister,,,,
-fMeB,"posiamao, posiama' -onyo",,female ego's mother's older brother,,,,
-fMyB,"posiamao, posiama' -onyo",,female ego's mother's younger brother,,,,
-fMeZ,"posinao, posina' -onyo",,female ego's mother's older sister,,,,
-fMyZ,"posinao, posina' -onyo",,female ego's mother's younger sister,,,,
-mW,rapi,,male ego's wife,,,,
-fH,rapi,,female ego‘s husband,,,,
-mWF,memeniang/meniang,,male ego's wife's father,,,,
-mWM,memeniang/meniang,,male ego's wife's mother,,,,
-mWB,ipag,,male ego's wife's brother,,,,
-fHF,memeniang/meniang,,female ego's husband's father,,,,
-fHM,memeniang/meniang,,female ego's husband's mother,,,,
-fHB,ipag,,female ego's husband's brother,,,,
-mZH,ipag,,male ego's sister's husband,,,,
-fZH,ipag,,female ego's sister's husband,,,,
-mFBS,sampesuwu,,male ego's father's brother's son,,,,
-mFZS,sampesuwu,,male ego's father's sister's son,,,,
-mMBS,sampesuwu,,male ego's mother's brother's son,,,,
-mMZS,sampesuwu,,male ego's mother's sister's son,,,,
-mFBD,sampesuwu,,male ego's father's brother's daughter,,,,
-mFZD,sampesuwu,,male ego's father's sister's daughter,,,,
-mMBD,sampesuwu,,male ego's mother's brother's daughter,,,,
-mMZD,sampesuwu,,male ego's mother's sister's daughter,,,,
-fFBS,sampesuwu,,female ego's father's brother's son,,,,
-fFZS,sampesuwu,,female ego's father's sister's son,,,,
-fMBS,sampesuwu,,female ego's mother's brother's son,,,,
-fMZS,sampesuwu,,female ego's mother's sister's son,,,,
-fFBD,sampesuwu,,female ego's father's brother's daughter,,,,
-fFZD,sampesuwu,,female ego's father's sister's daughter,,,,
-fMBD,sampesuwu,,female ego's mother's brother's daughter,,,,
-fMZD,sampesuwu,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","sia'ang",,"male ego's older brother",,,,
+"myB","tuai",,"male ego's younger brother",,,,
+"feB","sia'ang",,"female ego's older brother",,,,
+"fyB","tuai",,"female ego's younger brother",,,,
+"meZ","sia'ang",,"male ego's older sister",,,,
+"myZ","tuai",,"male ego's younger sister",,,,
+"feZ","sia'ang",,"female ego's older sister",,,,
+"fyZ","tuai",,"female ego's younger sister",,,,
+"mF","siama",,"male ego's father",,,,
+"mM","sina, siina -nyo",,"male ego's mother",,,,
+"fF","siama",,"female ego's father",,,,
+"fM","sina, siina -nyo",,"female ego's mother",,,,
+"mS","unga, unga langkai, unga benkel",,"male ego's son",,,,
+"fS","unga, unga langkai, unga benkel",,"female ego's son",,,,
+"mD","unga, unga langkai, unga benkel",,"male ego's daughter",,,,
+"fD","unga, unga langkai, unga benkel",,"female ego's daughter",,,,
+"mSS","mo'upu",,"male ego's son's son",,,,
+"mSD","mo'upu",,"male ego's son's daughter",,,,
+"mDS","mo'upu",,"male ego's daughter's son",,,,
+"mDD","mo'upu",,"male ego's daughter's daughter",,,,
+"fSS","mo'upu",,"female ego's son's son",,,,
+"fSD","mo'upu",,"female ego's son's daughter",,,,
+"fDS","mo'upu",,"female ego's daughter's son",,,,
+"fDD","mo'upu",,"female ego's daugher's daughter",,,,
+"mFF","siopu/siompu langkai, si kakai",,"male ego's father‘s father",,,,
+"mFM","sibe'e",,"male ego's father's mother",,,,
+"mMF","siopu/siompu langkai, si kakai",,"male ego's mother's father",,,,
+"mMM","sibe'e",,"male ego's mother's mother",,,,
+"fFF","siopu/siompu langkai, si kakai",,"female ego's father's father",,,,
+"fFM","sibe'e",,"female ego's father's mother",,,,
+"fMF","siopu/siompu langkai, si kakai",,"female ego's mother's father",,,,
+"fMM","sibe'e",,"female ego's mother's mother",,,,
+"meBS","ponungao",,"male ego's older brother's son",,,,
+"myBS","ponungao",,"male ego's younger brother's son",,,,
+"meZS","ponungao",,"male ego's older sister's son",,,,
+"myZS","ponungao",,"male ego's younger sister's son",,,,
+"meBD","ponungao",,"male ego's older brother's daughter",,,,
+"myBD","ponungao",,"male ego's younger brother's daughter",,,,
+"meZD","ponungao",,"male ego's older sister's daughter",,,,
+"myZD","ponungao",,"male ego's younger sister's daughter",,,,
+"feBS","ponungao",,"female ego's older brother's son",,,,
+"fyBS","ponungao",,"female ego's younger brother's son",,,,
+"feZS","ponungao",,"female ego's older sister's son",,,,
+"fyZS","ponungao",,"female ego's younger sister's son",,,,
+"feBD","ponungao",,"female ego's older brother's daughter",,,,
+"fyBD","ponungao",,"female ego's younger brother's daughter",,,,
+"feZD","ponungao",,"female ego's older sister's daughter",,,,
+"fyZD","ponungao",,"female ego's younger sister's daughter",,,,
+"mFeB","posiamao, posiama' -onyo",,"male ego's father's older brother",,,,
+"mFyB","posiamao, posiama' -onyo",,"male ego's father's younger brother",,,,
+"mFeZ","posinao, posina' -onyo",,"male ego's father's older sister",,,,
+"mFyZ","posinao, posina' -onyo",,"male ego's father's younger sister",,,,
+"mMeB","posiamao, posiama' -onyo",,"male ego's mother's older brother",,,,
+"mMyB","posiamao, posiama' -onyo",,"male ego's mother's younger brother",,,,
+"mMeZ","posinao, posina' -onyo",,"male ego's mother's older sister",,,,
+"mMyZ","posinao, posina' -onyo",,"male ego's mother's younger sister",,,,
+"fFeB","posiamao, posiama' -onyo",,"female ego's father's older brother",,,,
+"fFyB","posiamao, posiama' -onyo",,"female ego's father's younger brother",,,,
+"fFeZ","posinao, posina' -onyo",,"female ego's father's older sister",,,,
+"fFyZ","posinao, posina' -onyo",,"female ego's father's younger sister",,,,
+"fMeB","posiamao, posiama' -onyo",,"female ego's mother's older brother",,,,
+"fMyB","posiamao, posiama' -onyo",,"female ego's mother's younger brother",,,,
+"fMeZ","posinao, posina' -onyo",,"female ego's mother's older sister",,,,
+"fMyZ","posinao, posina' -onyo",,"female ego's mother's younger sister",,,,
+"mW","rapi",,"male ego's wife",,,,
+"fH","rapi",,"female ego‘s husband",,,,
+"mWF","memeniang/meniang",,"male ego's wife's father",,,,
+"mWM","memeniang/meniang",,"male ego's wife's mother",,,,
+"mWB","ipag",,"male ego's wife's brother",,,,
+"fHF","memeniang/meniang",,"female ego's husband's father",,,,
+"fHM","memeniang/meniang",,"female ego's husband's mother",,,,
+"fHB","ipag",,"female ego's husband's brother",,,,
+"mZH","ipag",,"male ego's sister's husband",,,,
+"fZH","ipag",,"female ego's sister's husband",,,,
+"mFBS","sampesuwu",,"male ego's father's brother's son",,,,
+"mFZS","sampesuwu",,"male ego's father's sister's son",,,,
+"mMBS","sampesuwu",,"male ego's mother's brother's son",,,,
+"mMZS","sampesuwu",,"male ego's mother's sister's son",,,,
+"mFBD","sampesuwu",,"male ego's father's brother's daughter",,,,
+"mFZD","sampesuwu",,"male ego's father's sister's daughter",,,,
+"mMBD","sampesuwu",,"male ego's mother's brother's daughter",,,,
+"mMZD","sampesuwu",,"male ego's mother's sister's daughter",,,,
+"fFBS","sampesuwu",,"female ego's father's brother's son",,,,
+"fFZS","sampesuwu",,"female ego's father's sister's son",,,,
+"fMBS","sampesuwu",,"female ego's mother's brother's son",,,,
+"fMZS","sampesuwu",,"female ego's mother's sister's son",,,,
+"fFBD","sampesuwu",,"female ego's father's brother's daughter",,,,
+"fFZD","sampesuwu",,"female ego's father's sister's daughter",,,,
+"fMBD","sampesuwu",,"female ego's mother's brother's daughter",,,,
+"fMZD","sampesuwu",,"female ego's mother's sister's daughter",,,,
+"mFeBS","sampesuwu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","sampesuwu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","sampesuwu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","sampesuwu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","sampesuwu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","sampesuwu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","sampesuwu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","sampesuwu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","sampesuwu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","sampesuwu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","sampesuwu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","sampesuwu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","sampesuwu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","sampesuwu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","sampesuwu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","sampesuwu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","sampesuwu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","sampesuwu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","sampesuwu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","sampesuwu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","sampesuwu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","sampesuwu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","sampesuwu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","sampesuwu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","sampesuwu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","sampesuwu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","sampesuwu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","sampesuwu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","sampesuwu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","sampesuwu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","sampesuwu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","sampesuwu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","sampesuwu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","sampesuwu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","sampesuwu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","sampesuwu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","sampesuwu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","sampesuwu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","sampesuwu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","sampesuwu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","sampesuwu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","sampesuwu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","sampesuwu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","sampesuwu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","sampesuwu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","sampesuwu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","sampesuwu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","sampesuwu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","sampesuwu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","sampesuwu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","sampesuwu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","sampesuwu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","sampesuwu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","sampesuwu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","sampesuwu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","sampesuwu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","sampesuwu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","sampesuwu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","sampesuwu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","sampesuwu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","sampesuwu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","sampesuwu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","sampesuwu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","sampesuwu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

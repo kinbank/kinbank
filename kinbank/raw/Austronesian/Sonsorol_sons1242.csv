@@ -1,50 +1,114 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,keinapa,,male ego's older brother,,,,
-myB,widi,,male ego's younger brother,,,,
-feB,meaŋa-i,,female ego's older brother,,,,
-fyB,meaŋa-i,,female ego's younger brother,,,,
-meZ,meaŋa-i,,male ego's older sister,,,,
-myZ,meaŋa-i,,male ego's younger sister,,,,
-feZ,meaŋa-i,,female ego's older sister,,,,
-fyZ,meaŋa-i,,female ego's younger sister,,,,
-mF,"tama-i, papa-i",,male ego's father,,,,
-mM,"neira-i, di-n",,male ego's mother,,,,
-fF,"tama-i, papa-i",,female ego's father,,,,
-fM,"neira-i, di-n",,female ego's mother,,,,
-mS,taw-r mar,,male ego's son,,,,
-fS,taw-r mar,,female ego's son,,,,
-mD,raw-ra fäivi,,male ego's daughter,,,,
-fD,raw-ra fäivi,,female ego's daughter,,,,
-mFF,tamar tama-i,,male ego's father‘s father,,,,
-mFM,dirar tama-i,,male ego's father's mother,,,,
-mMF,tamar neira-i,,male ego's mother's father,,,,
-mMM,dirar neira-i,,male ego's mother's mother,,,,
-fFF,tamar tama-i,,female ego's father's father,,,,
-fFM,dirar tama-i,,female ego's father's mother,,,,
-fMF,tamar neira-i,,female ego's mother's father,,,,
-fMM,dirar neira-i,,female ego's mother's mother,,,,
-mFeB,bwidi ri papa-i,,male ego's father's older brother,,,,
-mFyB,bwidi ri papa-i,,male ego's father's younger brother,,,,
-mMeB,bwidi ri neira-i,,male ego's mother's older brother,,,,
-mMyB,bwidi ri neira-i,,male ego's mother's younger brother,,,,
-fFeB,bwidi ri papa-i,,female ego's father's older brother,,,,
-fFyB,bwidi ri papa-i,,female ego's father's younger brother,,,,
-fMeB,bwidi ri neira-i,,female ego's mother's older brother,,,,
-fMyB,bwidi ri neira-i,,female ego's mother's younger brother,,,,
-fH,"li, mar",,female ego‘s husband,,,,
-mFBS,bwidi,,male ego's father's brother's son,,,,
-mFZS,bwidi,,male ego's father's sister's son,,,,
-mMBS,bwidi,,male ego's mother's brother's son,,,,
-mMZS,bwidi,,male ego's mother's sister's son,,,,
-mFBD,bwidi,,male ego's father's brother's daughter,,,,
-mFZD,bwidi,,male ego's father's sister's daughter,,,,
-mMBD,bwidi,,male ego's mother's brother's daughter,,,,
-mMZD,bwidi,,male ego's mother's sister's daughter,,,,
-fFBS,bwidi,,female ego's father's brother's son,,,,
-fFZS,bwidi,,female ego's father's sister's son,,,,
-fMBS,bwidi,,female ego's mother's brother's son,,,,
-fMZS,bwidi,,female ego's mother's sister's son,,,,
-fFBD,bwidi,,female ego's father's brother's daughter,,,,
-fFZD,bwidi,,female ego's father's sister's daughter,,,,
-fMBD,bwidi,,female ego's mother's brother's daughter,,,,
-fMZD,bwidi,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","keinapa",,"male ego's older brother",,,,
+"myB","widi",,"male ego's younger brother",,,,
+"feB","meaŋa-i",,"female ego's older brother",,,,
+"fyB","meaŋa-i",,"female ego's younger brother",,,,
+"meZ","meaŋa-i",,"male ego's older sister",,,,
+"myZ","meaŋa-i",,"male ego's younger sister",,,,
+"feZ","meaŋa-i",,"female ego's older sister",,,,
+"fyZ","meaŋa-i",,"female ego's younger sister",,,,
+"mF","tama-i, papa-i",,"male ego's father",,,,
+"mM","neira-i, di-n",,"male ego's mother",,,,
+"fF","tama-i, papa-i",,"female ego's father",,,,
+"fM","neira-i, di-n",,"female ego's mother",,,,
+"mS","taw-r mar",,"male ego's son",,,,
+"fS","taw-r mar",,"female ego's son",,,,
+"mD","raw-ra fäivi",,"male ego's daughter",,,,
+"fD","raw-ra fäivi",,"female ego's daughter",,,,
+"mFF","tamar tama-i",,"male ego's father‘s father",,,,
+"mFM","dirar tama-i",,"male ego's father's mother",,,,
+"mMF","tamar neira-i",,"male ego's mother's father",,,,
+"mMM","dirar neira-i",,"male ego's mother's mother",,,,
+"fFF","tamar tama-i",,"female ego's father's father",,,,
+"fFM","dirar tama-i",,"female ego's father's mother",,,,
+"fMF","tamar neira-i",,"female ego's mother's father",,,,
+"fMM","dirar neira-i",,"female ego's mother's mother",,,,
+"mFeB","bwidi ri papa-i",,"male ego's father's older brother",,,,
+"mFyB","bwidi ri papa-i",,"male ego's father's younger brother",,,,
+"mMeB","bwidi ri neira-i",,"male ego's mother's older brother",,,,
+"mMyB","bwidi ri neira-i",,"male ego's mother's younger brother",,,,
+"fFeB","bwidi ri papa-i",,"female ego's father's older brother",,,,
+"fFyB","bwidi ri papa-i",,"female ego's father's younger brother",,,,
+"fMeB","bwidi ri neira-i",,"female ego's mother's older brother",,,,
+"fMyB","bwidi ri neira-i",,"female ego's mother's younger brother",,,,
+"fH","li, mar",,"female ego‘s husband",,,,
+"mFBS","bwidi",,"male ego's father's brother's son",,,,
+"mFZS","bwidi",,"male ego's father's sister's son",,,,
+"mMBS","bwidi",,"male ego's mother's brother's son",,,,
+"mMZS","bwidi",,"male ego's mother's sister's son",,,,
+"mFBD","bwidi",,"male ego's father's brother's daughter",,,,
+"mFZD","bwidi",,"male ego's father's sister's daughter",,,,
+"mMBD","bwidi",,"male ego's mother's brother's daughter",,,,
+"mMZD","bwidi",,"male ego's mother's sister's daughter",,,,
+"fFBS","bwidi",,"female ego's father's brother's son",,,,
+"fFZS","bwidi",,"female ego's father's sister's son",,,,
+"fMBS","bwidi",,"female ego's mother's brother's son",,,,
+"fMZS","bwidi",,"female ego's mother's sister's son",,,,
+"fFBD","bwidi",,"female ego's father's brother's daughter",,,,
+"fFZD","bwidi",,"female ego's father's sister's daughter",,,,
+"fMBD","bwidi",,"female ego's mother's brother's daughter",,,,
+"fMZD","bwidi",,"female ego's mother's sister's daughter",,,,
+"mFeBS","bwidi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","bwidi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","bwidi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","bwidi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","bwidi",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","bwidi",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","bwidi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","bwidi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","bwidi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","bwidi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","bwidi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","bwidi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","bwidi",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","bwidi",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","bwidi",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","bwidi",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","bwidi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","bwidi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","bwidi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","bwidi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","bwidi",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","bwidi",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","bwidi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","bwidi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","bwidi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","bwidi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","bwidi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","bwidi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","bwidi",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","bwidi",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","bwidi",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","bwidi",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","bwidi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","bwidi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","bwidi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","bwidi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","bwidi",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","bwidi",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","bwidi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","bwidi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","bwidi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","bwidi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","bwidi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","bwidi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","bwidi",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","bwidi",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","bwidi",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","bwidi",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","bwidi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","bwidi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","bwidi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","bwidi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","bwidi",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","bwidi",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","bwidi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","bwidi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","bwidi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","bwidi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","bwidi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","bwidi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","bwidi",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","bwidi",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","bwidi",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","bwidi",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

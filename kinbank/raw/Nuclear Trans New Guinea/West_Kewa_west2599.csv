@@ -1,68 +1,100 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ame,,male ego's older brother,,,,
-myB,ame,,male ego's younger brother,,,,
-feB,mbani,,female ego's older brother,,,,
-fyB,mbani,,female ego's younger brother,,,,
-meZ,mbani,,male ego's older sister,,,,
-myZ,mbani,,male ego's younger sister,,,,
-feZ,aaki,,female ego's older sister,,,,
-fyZ,aaki,,female ego's younger sister,,,,
-mF,aapa,,male ego's father,,,,
-mM,ama,,male ego's mother,,,,
-fF,aapa,,female ego's father,,,,
-fM,ama,,female ego's mother,,,,
-mS,si,,male ego's son,,,,
-fS,si,,female ego's son,,,,
-mD,wane,,male ego's daughter,,,,
-fD,wane,,female ego's daughter,,,,
-mSS,akua,,male ego's son's son,,,,
-mSD,ayaa,,male ego's son's daughter,,,,
-mDS,akua,,male ego's daughter's son,,,,
-mDD,ayaa,,male ego's daughter's daughter,,,,
-fSS,akua,,female ego's son's son,,,,
-fSD,ayaa,,female ego's son's daughter,,,,
-fDS,akua,,female ego's daughter's son,,,,
-fDD,ayaa,,female ego's daugher's daughter,,,,
-mFF,akua,,male ego's father‘s father,,,,
-mFM,ayaa,,male ego's father's mother,,,,
-mMF,akua,,male ego's mother's father,,,,
-mMM,ayaa,,male ego's mother's mother,,,,
-fFF,akua,,female ego's father's father,,,,
-fFM,ayaa,,female ego's father's mother,,,,
-fMF,akua,,female ego's mother's father,,,,
-fMM,ayaa,,female ego's mother's mother,,,,
-mFeB,mae,,male ego's father's older brother,,,,
-mFyB,mae,,male ego's father's younger brother,,,,
-mFeZ,arombo,,male ego's father's older sister,,,,
-mFyZ,arombo,,male ego's father's younger sister,,,,
-mMeB,"yaake, awa",,male ego's mother's older brother,,,,
-mMyB,"yaake, awa",,male ego's mother's younger brother,,,,
-mMeZ,papa,,male ego's mother's older sister,,,,
-mMyZ,papa,,male ego's mother's younger sister,,,,
-fFeB,mae,,female ego's father's older brother,,,,
-fFyB,mae,,female ego's father's younger brother,,,,
-fFeZ,arombo,,female ego's father's older sister,,,,
-fFyZ,arombo,,female ego's father's younger sister,,,,
-fMeB,"yaake, awa",,female ego's mother's older brother,,,,
-fMyB,"yaake, awa",,female ego's mother's younger brother,,,,
-fMeZ,papa,,female ego's mother's older sister,,,,
-fMyZ,papa,,female ego's mother's younger sister,,,,
-mW,ore,,male ego's wife,,,,
-fH,aani,,female ego‘s husband,,,,
-mSW,aai,,male ego's son's wife,,,,
-mWB,paase,,male ego's wife's brother,,,,
-mWZ,aai,,male ego's wife's sister,,,,
-fHB,paase,,female ego's husband's brother,,,,
-fHZ,yaake,,female ego's husband's sister,,,,
-mBW,aai,,male ego's brother's wife,,,,
-fBW,yaake,,female ego's brother's wife,,,,
-mZH,paase,,male ego's sister's husband,,,,
-fZH,paase,,female ego's sister's husband,,,,
-mFZS,aai,,male ego's father's sister's son,,,,
-mMBS,aai,,male ego's mother's brother's son,,,,
-mFZD,aai,,male ego's father's sister's daughter,,,,
-mMBD,aai,,male ego's mother's brother's daughter,,,,
-fFZS,aai,,female ego's father's sister's son,,,,
-fMBS,aai,,female ego's mother's brother's son,,,,
-fFZD,aai,,female ego's father's sister's daughter,,,,
-fMBD,aai,,female ego's mother's brother's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ame",,"male ego's older brother",,,,
+"myB","ame",,"male ego's younger brother",,,,
+"feB","mbani",,"female ego's older brother",,,,
+"fyB","mbani",,"female ego's younger brother",,,,
+"meZ","mbani",,"male ego's older sister",,,,
+"myZ","mbani",,"male ego's younger sister",,,,
+"feZ","aaki",,"female ego's older sister",,,,
+"fyZ","aaki",,"female ego's younger sister",,,,
+"mF","aapa",,"male ego's father",,,,
+"mM","ama",,"male ego's mother",,,,
+"fF","aapa",,"female ego's father",,,,
+"fM","ama",,"female ego's mother",,,,
+"mS","si",,"male ego's son",,,,
+"fS","si",,"female ego's son",,,,
+"mD","wane",,"male ego's daughter",,,,
+"fD","wane",,"female ego's daughter",,,,
+"mSS","akua",,"male ego's son's son",,,,
+"mSD","ayaa",,"male ego's son's daughter",,,,
+"mDS","akua",,"male ego's daughter's son",,,,
+"mDD","ayaa",,"male ego's daughter's daughter",,,,
+"fSS","akua",,"female ego's son's son",,,,
+"fSD","ayaa",,"female ego's son's daughter",,,,
+"fDS","akua",,"female ego's daughter's son",,,,
+"fDD","ayaa",,"female ego's daugher's daughter",,,,
+"mFF","akua",,"male ego's father‘s father",,,,
+"mFM","ayaa",,"male ego's father's mother",,,,
+"mMF","akua",,"male ego's mother's father",,,,
+"mMM","ayaa",,"male ego's mother's mother",,,,
+"fFF","akua",,"female ego's father's father",,,,
+"fFM","ayaa",,"female ego's father's mother",,,,
+"fMF","akua",,"female ego's mother's father",,,,
+"fMM","ayaa",,"female ego's mother's mother",,,,
+"mFeB","mae",,"male ego's father's older brother",,,,
+"mFyB","mae",,"male ego's father's younger brother",,,,
+"mFeZ","arombo",,"male ego's father's older sister",,,,
+"mFyZ","arombo",,"male ego's father's younger sister",,,,
+"mMeB","yaake, awa",,"male ego's mother's older brother",,,,
+"mMyB","yaake, awa",,"male ego's mother's younger brother",,,,
+"mMeZ","papa",,"male ego's mother's older sister",,,,
+"mMyZ","papa",,"male ego's mother's younger sister",,,,
+"fFeB","mae",,"female ego's father's older brother",,,,
+"fFyB","mae",,"female ego's father's younger brother",,,,
+"fFeZ","arombo",,"female ego's father's older sister",,,,
+"fFyZ","arombo",,"female ego's father's younger sister",,,,
+"fMeB","yaake, awa",,"female ego's mother's older brother",,,,
+"fMyB","yaake, awa",,"female ego's mother's younger brother",,,,
+"fMeZ","papa",,"female ego's mother's older sister",,,,
+"fMyZ","papa",,"female ego's mother's younger sister",,,,
+"mW","ore",,"male ego's wife",,,,
+"fH","aani",,"female ego‘s husband",,,,
+"mSW","aai",,"male ego's son's wife",,,,
+"mWB","paase",,"male ego's wife's brother",,,,
+"mWZ","aai",,"male ego's wife's sister",,,,
+"fHB","paase",,"female ego's husband's brother",,,,
+"fHZ","yaake",,"female ego's husband's sister",,,,
+"mBW","aai",,"male ego's brother's wife",,,,
+"fBW","yaake",,"female ego's brother's wife",,,,
+"mZH","paase",,"male ego's sister's husband",,,,
+"fZH","paase",,"female ego's sister's husband",,,,
+"mFZS","aai",,"male ego's father's sister's son",,,,
+"mMBS","aai",,"male ego's mother's brother's son",,,,
+"mFZD","aai",,"male ego's father's sister's daughter",,,,
+"mMBD","aai",,"male ego's mother's brother's daughter",,,,
+"fFZS","aai",,"female ego's father's sister's son",,,,
+"fMBS","aai",,"female ego's mother's brother's son",,,,
+"fFZD","aai",,"female ego's father's sister's daughter",,,,
+"fMBD","aai",,"female ego's mother's brother's daughter",,,,
+"mFeZS","aai",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","aai",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeZD","aai",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","aai",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","aai",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","aai",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeBD","aai",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","aai",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mFZeS","aai",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","aai",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZeD","aai",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","aai",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","aai",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","aai",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMBeD","aai",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","aai",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"fFeZS","aai",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","aai",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeZD","aai",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","aai",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","aai",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","aai",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeBD","aai",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","aai",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fFZeS","aai",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","aai",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZeD","aai",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","aai",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","aai",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","aai",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMBeD","aai",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","aai",,"female ego's mother's brother's daughter",,,,"Inferred; NA"

@@ -1,91 +1,91 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mame,,male ego's older brother,,,,
-myB,havungk,,male ego's younger brother,,,,
-feB,manungk,,female ego's older brother,,,,
-fyB,manungk,,female ego's younger brother,,,,
-meZ,vövönungk,,male ego's older sister,,,,
-myZ,vövönungk,,male ego's younger sister,,,,
-feZ,tugangk,,female ego's older sister,,,,
-fyZ,naaruongk,,female ego's younger sister,,,,
-mF,tate,,male ego's father,,,,
-mM,nane,,male ego's mother,,,,
-fF,tate,,female ego's father,,,,
-fM,nane,,female ego's mother,,,,
-mS,netungk,,male ego's son,,,,
-fS,netungk,,female ego's son,,,,
-mD,netungk ivungk,,male ego's daughter,,,,
-fD,netungk ivungk,,female ego's daughter,,,,
-mSS,naambungk,,male ego's son's son,,,,
-mSD,naambungk,,male ego's son's daughter,,,,
-mDS,naambungk,,male ego's daughter's son,,,,
-mDD,naambungk,,male ego's daughter's daughter,,,,
-fSS,naambungk,,female ego's son's son,,,,
-fSD,naambungk,,female ego's son's daughter,,,,
-fDS,naambungk,,female ego's daughter's son,,,,
-fDD,naambungk,,female ego's daugher's daughter,,,,
-mFF,bumbu,,male ego's father‘s father,,,,
-mFM,bumbu tevet,,male ego's father's mother,,,,
-mMF,bumbu,,male ego's mother's father,,,,
-mMM,bumbu tevet,,male ego's mother's mother,,,,
-fFF,bumbu,,female ego's father's father,,,,
-fFM,bumbu tevet,,female ego's father's mother,,,,
-fMF,bumbu,,female ego's mother's father,,,,
-fMM,bumbu tevet,,female ego's mother's mother,,,,
-meZS,metelo,,male ego's older sister's son,,,,
-myZS,metelo,,male ego's younger sister's son,,,,
-meZD,metelo,,male ego's older sister's daughter,,,,
-myZD,metelo,,male ego's younger sister's daughter,,,,
-feBS,netungk,,female ego's older brother's son,,,,
-fyBS,netungk,,female ego's younger brother's son,,,,
-feBD,netungk,,female ego's older brother's daughter,,,,
-fyBD,netungk,,female ego's younger brother's daughter,,,,
-mFeZ,vave,,male ego's father's older sister,,,,
-mFyZ,vave,,male ego's father's younger sister,,,,
-mMeB,bimbi,,male ego's mother's older brother,,,,
-mMyB,bimbi,,male ego's mother's younger brother,,,,
-fFeZ,vave,,female ego's father's older sister,,,,
-fFyZ,vave,,female ego's father's younger sister,,,,
-fMeB,bimbi,,female ego's mother's older brother,,,,
-fMyB,bimbi,,female ego's mother's younger brother,,,,
-mW,tenivungk,,male ego's wife,,,,
-fH,min sug sungk,,female ego‘s husband,,,,
-mDH,neligh,,male ego's daughter's husband,,,,
-fDH,neligh,,female ego's daughter's husband,,,,
-mSW,lembörens,,male ego's son's wife,,,,
-fSW,lembörens,,female ego's son's wife,,,,
-mWF,balghongk,,male ego's wife's father,,,,
-mWM,balghongk tevet,,male ego's wife's mother,,,,
-mWB,mur lag sungk,,male ego's wife's brother,,,,
-mWZ,tenivungk,,male ego's wife's sister,,,,
-fHF,balghongk,,female ego's husband's father,,,,
-fHM,balghongk tevet,,female ego's husband's mother,,,,
-fHB,"tugangk, min sug sungk",,female ego's husband's brother,,,,"tugangk = husband's elder brother, min sug sungk = husband's elder brother"
-fHZ,"vave, nevin lel sungk",,female ego's husband's sister,,,,
-mBW,"tenivungk, lembörens",,male ego's brother's wife,,,,"tenivungk = elder brother's wife, lembörens = younger brother's wife"
-fBW,lembörens,,female ego's brother's wife,,,,
-mZH,neligh,,male ego's sister's husband,,,,
-fZH,min sug sungk,,female ego's sister's husband,,,,
-mFeBS,mame,,male ego's father‘s older brother‘s son,,,,
-mFyBS,havungk,,male ego‘s father‘s younger brother‘s son,,,,
-mFeZS,tat uve,,male ego's father‘s older sister‘s son,,,,
-mFyZS,tat uve,,male ego‘s father‘s younger sister‘s son,,,,
-mFeBD,vövönungk,,male ego's father‘s older brother‘s daughter,,,,
-mFyBD,vövönungk,,male ego‘s father‘s younger brother‘s daughter,,,,
-mFeZD,vave,,male ego's father‘s older sister‘s daughter,,,,
-mFyZD,vave,,male ego‘s father‘s younger sister‘s daughter,,,,
-mMeBS,netungk,,male ego's mother‘s older brother‘s son,,,,
-mMyBS,netungk,,male ego‘s mother‘s younger brother‘s son,,,,
-mMeBD,netungk,,male ego's mother‘s older brother‘s daughter,,,,
-mMyBD,netungk,,male ego‘s mother‘s younger brother‘s daughter,,,,
-fFeBS,manungk,,female ego's father‘s older brother‘s son,,,,
-fFyBS,manungk,,female ego‘s father‘s younger brother‘s son,,,,
-fFeZS,tat uve,,female ego's father‘s older sister‘s son,,,,
-fFyZS,tat uve,,female ego‘s father‘s younger sister‘s son,,,,
-fFeBD,tugangk,,female ego's father‘s older brother‘s daughter,,,,
-fFyBD,naaruongk,,female ego‘s father‘s younger brother‘s daughter,,,,
-fFeZD,vave,,female ego's father‘s older sister‘s daughter,,,,
-fFyZD,vave,,female ego‘s father‘s younger sister‘s daughter,,,,
-fMeBS,netungk,,female ego's mother‘s older brother‘s son,,,,
-fMyBS,netungk,,female ego‘s mother‘s younger brother‘s son,,,,
-fMeBD,netungk,,female ego's mother‘s older brother‘s daughter,,,,
-fMyBD,netungk,,female ego‘s mother‘s younger brother‘s daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mame",,"male ego's older brother",,,,""
+"myB","havungk",,"male ego's younger brother",,,,""
+"feB","manungk",,"female ego's older brother",,,,""
+"fyB","manungk",,"female ego's younger brother",,,,""
+"meZ","vövönungk",,"male ego's older sister",,,,""
+"myZ","vövönungk",,"male ego's younger sister",,,,""
+"feZ","tugangk",,"female ego's older sister",,,,""
+"fyZ","naaruongk",,"female ego's younger sister",,,,""
+"mF","tate",,"male ego's father",,,,""
+"mM","nane",,"male ego's mother",,,,""
+"fF","tate",,"female ego's father",,,,""
+"fM","nane",,"female ego's mother",,,,""
+"mS","netungk",,"male ego's son",,,,""
+"fS","netungk",,"female ego's son",,,,""
+"mD","netungk ivungk",,"male ego's daughter",,,,""
+"fD","netungk ivungk",,"female ego's daughter",,,,""
+"mSS","naambungk",,"male ego's son's son",,,,""
+"mSD","naambungk",,"male ego's son's daughter",,,,""
+"mDS","naambungk",,"male ego's daughter's son",,,,""
+"mDD","naambungk",,"male ego's daughter's daughter",,,,""
+"fSS","naambungk",,"female ego's son's son",,,,""
+"fSD","naambungk",,"female ego's son's daughter",,,,""
+"fDS","naambungk",,"female ego's daughter's son",,,,""
+"fDD","naambungk",,"female ego's daugher's daughter",,,,""
+"mFF","bumbu",,"male ego's father‘s father",,,,""
+"mFM","bumbu tevet",,"male ego's father's mother",,,,""
+"mMF","bumbu",,"male ego's mother's father",,,,""
+"mMM","bumbu tevet",,"male ego's mother's mother",,,,""
+"fFF","bumbu",,"female ego's father's father",,,,""
+"fFM","bumbu tevet",,"female ego's father's mother",,,,""
+"fMF","bumbu",,"female ego's mother's father",,,,""
+"fMM","bumbu tevet",,"female ego's mother's mother",,,,""
+"meZS","metelo",,"male ego's older sister's son",,,,""
+"myZS","metelo",,"male ego's younger sister's son",,,,""
+"meZD","metelo",,"male ego's older sister's daughter",,,,""
+"myZD","metelo",,"male ego's younger sister's daughter",,,,""
+"feBS","netungk",,"female ego's older brother's son",,,,""
+"fyBS","netungk",,"female ego's younger brother's son",,,,""
+"feBD","netungk",,"female ego's older brother's daughter",,,,""
+"fyBD","netungk",,"female ego's younger brother's daughter",,,,""
+"mFeZ","vave",,"male ego's father's older sister",,,,""
+"mFyZ","vave",,"male ego's father's younger sister",,,,""
+"mMeB","bimbi",,"male ego's mother's older brother",,,,""
+"mMyB","bimbi",,"male ego's mother's younger brother",,,,""
+"fFeZ","vave",,"female ego's father's older sister",,,,""
+"fFyZ","vave",,"female ego's father's younger sister",,,,""
+"fMeB","bimbi",,"female ego's mother's older brother",,,,""
+"fMyB","bimbi",,"female ego's mother's younger brother",,,,""
+"mW","tenivungk",,"male ego's wife",,,,""
+"fH","min sug sungk",,"female ego‘s husband",,,,""
+"mDH","neligh",,"male ego's daughter's husband",,,,""
+"fDH","neligh",,"female ego's daughter's husband",,,,""
+"mSW","lembörens",,"male ego's son's wife",,,,""
+"fSW","lembörens",,"female ego's son's wife",,,,""
+"mWF","balghongk",,"male ego's wife's father",,,,""
+"mWM","balghongk tevet",,"male ego's wife's mother",,,,""
+"mWB","mur lag sungk",,"male ego's wife's brother",,,,""
+"mWZ","tenivungk",,"male ego's wife's sister",,,,""
+"fHF","balghongk",,"female ego's husband's father",,,,""
+"fHM","balghongk tevet",,"female ego's husband's mother",,,,""
+"fHB","tugangk, min sug sungk",,"female ego's husband's brother",,,,"tugangk = husband's elder brother, min sug sungk = husband's elder brother"
+"fHZ","vave, nevin lel sungk",,"female ego's husband's sister",,,,""
+"mBW","tenivungk, lembörens",,"male ego's brother's wife",,,,"tenivungk = elder brother's wife, lembörens = younger brother's wife"
+"fBW","lembörens",,"female ego's brother's wife",,,,""
+"mZH","neligh",,"male ego's sister's husband",,,,""
+"fZH","min sug sungk",,"female ego's sister's husband",,,,""
+"mFeBS","mame",,"male ego's father‘s older brother‘s son",,,,""
+"mFyBS","havungk",,"male ego‘s father‘s younger brother‘s son",,,,""
+"mFeZS","tat uve",,"male ego's father‘s older sister‘s son",,,,""
+"mFyZS","tat uve",,"male ego‘s father‘s younger sister‘s son",,,,""
+"mFeBD","vövönungk",,"male ego's father‘s older brother‘s daughter",,,,""
+"mFyBD","vövönungk",,"male ego‘s father‘s younger brother‘s daughter",,,,""
+"mFeZD","vave",,"male ego's father‘s older sister‘s daughter",,,,""
+"mFyZD","vave",,"male ego‘s father‘s younger sister‘s daughter",,,,""
+"mMeBS","netungk",,"male ego's mother‘s older brother‘s son",,,,""
+"mMyBS","netungk",,"male ego‘s mother‘s younger brother‘s son",,,,""
+"mMeBD","netungk",,"male ego's mother‘s older brother‘s daughter",,,,""
+"mMyBD","netungk",,"male ego‘s mother‘s younger brother‘s daughter",,,,""
+"fFeBS","manungk",,"female ego's father‘s older brother‘s son",,,,""
+"fFyBS","manungk",,"female ego‘s father‘s younger brother‘s son",,,,""
+"fFeZS","tat uve",,"female ego's father‘s older sister‘s son",,,,""
+"fFyZS","tat uve",,"female ego‘s father‘s younger sister‘s son",,,,""
+"fFeBD","tugangk",,"female ego's father‘s older brother‘s daughter",,,,""
+"fFyBD","naaruongk",,"female ego‘s father‘s younger brother‘s daughter",,,,""
+"fFeZD","vave",,"female ego's father‘s older sister‘s daughter",,,,""
+"fFyZD","vave",,"female ego‘s father‘s younger sister‘s daughter",,,,""
+"fMeBS","netungk",,"female ego's mother‘s older brother‘s son",,,,""
+"fMyBS","netungk",,"female ego‘s mother‘s younger brother‘s son",,,,""
+"fMeBD","netungk",,"female ego's mother‘s older brother‘s daughter",,,,""
+"fMyBD","netungk",,"female ego‘s mother‘s younger brother‘s daughter",,,,""

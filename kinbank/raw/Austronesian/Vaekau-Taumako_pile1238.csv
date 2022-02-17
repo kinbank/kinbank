@@ -1,99 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,thokana,,male ego's older brother,,,,
-myB,teina,,male ego's younger brother,,,,
-feB,thungane,,female ego's older brother,,,,
-fyB,thungane,,female ego's younger brother,,,,
-meZ,thuohine,,male ego's older sister,,,,
-myZ,thuohine,,male ego's younger sister,,,,
-feZ,thokana,,female ego's older sister,,,,
-fyZ,teina,,female ego's younger sister,,,,
-mF,"tamana, mhana",,male ego's father,,,,
-mM,"hinana, nhana",,male ego's mother,,,,
-fF,"tamana, mhana",,female ego's father,,,,
-fM,"hinana, nhana",,female ego's mother,,,,
-mS,ataliki,,male ego's son,,,,
-fS,tama,,female ego's son,,,,
-mD,ahahine,,male ego's daughter,,,,
-fD,taine,,female ego's daughter,,,,
-mSS,mokupuna,,male ego's son's son,,,,
-mSD,mokupuna,,male ego's son's daughter,,,,
-mDS,mokupuna,,male ego's daughter's son,,,,
-mDD,mokupuna,,male ego's daughter's daughter,,,,
-fSS,mokupuna,,female ego's son's son,,,,
-fSD,mokupuna,,female ego's son's daughter,,,,
-fDS,mokupuna,,female ego's daughter's son,,,,
-fDD,mokupuna,,female ego's daugher's daughter,,,,
-mFF,thupuna,,male ego's father‘s father,,,,
-mFM,thupuna,,male ego's father's mother,,,,
-mMF,thupuna,,male ego's mother's father,,,,
-mMM,thupuna,,male ego's mother's mother,,,,
-fFF,thupuna,,female ego's father's father,,,,
-fFM,thupuna,,female ego's father's mother,,,,
-fMF,thupuna,,female ego's mother's father,,,,
-fMM,thupuna,,female ego's mother's mother,,,,
-meBS,ataliki,,male ego's older brother's son,,,,
-myBS,ataliki,,male ego's younger brother's son,,,,
-meZS,ilamotu,,male ego's older sister's son,,,,
-myZS,ilamotu,,male ego's younger sister's son,,,,
-meBD,ahahine,,male ego's older brother's daughter,,,,
-myBD,ahahine,,male ego's younger brother's daughter,,,,
-meZD,ilamotu,,male ego's older sister's daughter,,,,
-myZD,ilamotu,,male ego's younger sister's daughter,,,,
-feBS,tama,,female ego's older brother's son,,,,
-fyBS,tama,,female ego's younger brother's son,,,,
-feZS,tama,,female ego's older sister's son,,,,
-fyZS,tama,,female ego's younger sister's son,,,,
-feBD,taine,,female ego's older brother's daughter,,,,
-fyBD,taine,,female ego's younger brother's daughter,,,,
-feZD,taine,,female ego's older sister's daughter,,,,
-fyZD,taine,,female ego's younger sister's daughter,,,,
-mFeB,"tamana, mhana",,male ego's father's older brother,,,,
-mFyB,"tamana, mhana",,male ego's father's younger brother,,,,
-mFeZ,"hinana, nhana",,male ego's father's older sister,,,,
-mFyZ,"hinana, nhana",,male ego's father's younger sister,,,,
-mMeB,ingoa,,male ego's mother's older brother,,,,
-mMyB,ingoa,,male ego's mother's younger brother,,,,
-mMeZ,"hinana, nhana",,male ego's mother's older sister,,,,
-mMyZ,"hinana, nhana",,male ego's mother's younger sister,,,,
-fFeB,"tamana, mhana",,female ego's father's older brother,,,,
-fFyB,"tamana, mhana",,female ego's father's younger brother,,,,
-fFeZ,"hinana, nhana",,female ego's father's older sister,,,,
-fFyZ,"hinana, nhana",,female ego's father's younger sister,,,,
-fMeB,ingoa,,female ego's mother's older brother,,,,
-fMyB,ingoa,,female ego's mother's younger brother,,,,
-fMeZ,"hinana, nhana",,female ego's mother's older sister,,,,
-fMyZ,"hinana, nhana",,female ego's mother's younger sister,,,,
-mW,nohine,,male ego's wife,,,,
-fH,"matua, pengi",,female ego‘s husband,,,,
-mDH,hungo,,male ego's daughter's husband,,,,
-fDH,hungo,,female ego's daughter's husband,,,,
-mSW,hungo,,male ego's son's wife,,,,
-fSW,hungo,,female ego's son's wife,,,,
-mWF,nghobae,,male ego's wife's father,,,,
-mWM,nghobae,,male ego's wife's mother,,,,
-mWB,mā,,male ego's wife's brother,,,,
-mWZ,hungo,,male ego's wife's sister,,,,
-fHF,nghobae,,female ego's husband's father,,,,
-fHM,nghobae,,female ego's husband's mother,,,,
-fHB,hungo,,female ego's husband's brother,,,,
-fHZ,mā,,female ego's husband's sister,,,,
-mBW,mā,,male ego's brother's wife,,,,
-fBW,hungo,,female ego's brother's wife,,,,
-mZH,mā,,male ego's sister's husband,,,,
-fZH,hungo,,female ego's sister's husband,,,,
-mFBS,kave,,male ego's father's brother's son,,,,
-mFZS,kave,,male ego's father's sister's son,,,,
-mMBS,kave,,male ego's mother's brother's son,,,,
-mMZS,kave,,male ego's mother's sister's son,,,,
-mFBD,thuohine,,male ego's father's brother's daughter,,,,
-mFZD,thuohine,,male ego's father's sister's daughter,,,,
-mMBD,thuohine,,male ego's mother's brother's daughter,,,,
-mMZD,thuohine,,male ego's mother's sister's daughter,,,,
-fFBS,thungane,,female ego's father's brother's son,,,,
-fFZS,thungane,,female ego's father's sister's son,,,,
-fMBS,thungane,,female ego's mother's brother's son,,,,
-fMZS,thungane,,female ego's mother's sister's son,,,,
-fFBD,kave,,female ego's father's brother's daughter,,,,
-fFZD,kave,,female ego's father's sister's daughter,,,,
-fMBD,kave,,female ego's mother's brother's daughter,,,,
-fMZD,kave,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","thokana",,"male ego's older brother",,,,
+"myB","teina",,"male ego's younger brother",,,,
+"feB","thungane",,"female ego's older brother",,,,
+"fyB","thungane",,"female ego's younger brother",,,,
+"meZ","thuohine",,"male ego's older sister",,,,
+"myZ","thuohine",,"male ego's younger sister",,,,
+"feZ","thokana",,"female ego's older sister",,,,
+"fyZ","teina",,"female ego's younger sister",,,,
+"mF","tamana, mhana",,"male ego's father",,,,
+"mM","hinana, nhana",,"male ego's mother",,,,
+"fF","tamana, mhana",,"female ego's father",,,,
+"fM","hinana, nhana",,"female ego's mother",,,,
+"mS","ataliki",,"male ego's son",,,,
+"fS","tama",,"female ego's son",,,,
+"mD","ahahine",,"male ego's daughter",,,,
+"fD","taine",,"female ego's daughter",,,,
+"mSS","mokupuna",,"male ego's son's son",,,,
+"mSD","mokupuna",,"male ego's son's daughter",,,,
+"mDS","mokupuna",,"male ego's daughter's son",,,,
+"mDD","mokupuna",,"male ego's daughter's daughter",,,,
+"fSS","mokupuna",,"female ego's son's son",,,,
+"fSD","mokupuna",,"female ego's son's daughter",,,,
+"fDS","mokupuna",,"female ego's daughter's son",,,,
+"fDD","mokupuna",,"female ego's daugher's daughter",,,,
+"mFF","thupuna",,"male ego's father‘s father",,,,
+"mFM","thupuna",,"male ego's father's mother",,,,
+"mMF","thupuna",,"male ego's mother's father",,,,
+"mMM","thupuna",,"male ego's mother's mother",,,,
+"fFF","thupuna",,"female ego's father's father",,,,
+"fFM","thupuna",,"female ego's father's mother",,,,
+"fMF","thupuna",,"female ego's mother's father",,,,
+"fMM","thupuna",,"female ego's mother's mother",,,,
+"meBS","ataliki",,"male ego's older brother's son",,,,
+"myBS","ataliki",,"male ego's younger brother's son",,,,
+"meZS","ilamotu",,"male ego's older sister's son",,,,
+"myZS","ilamotu",,"male ego's younger sister's son",,,,
+"meBD","ahahine",,"male ego's older brother's daughter",,,,
+"myBD","ahahine",,"male ego's younger brother's daughter",,,,
+"meZD","ilamotu",,"male ego's older sister's daughter",,,,
+"myZD","ilamotu",,"male ego's younger sister's daughter",,,,
+"feBS","tama",,"female ego's older brother's son",,,,
+"fyBS","tama",,"female ego's younger brother's son",,,,
+"feZS","tama",,"female ego's older sister's son",,,,
+"fyZS","tama",,"female ego's younger sister's son",,,,
+"feBD","taine",,"female ego's older brother's daughter",,,,
+"fyBD","taine",,"female ego's younger brother's daughter",,,,
+"feZD","taine",,"female ego's older sister's daughter",,,,
+"fyZD","taine",,"female ego's younger sister's daughter",,,,
+"mFeB","tamana, mhana",,"male ego's father's older brother",,,,
+"mFyB","tamana, mhana",,"male ego's father's younger brother",,,,
+"mFeZ","hinana, nhana",,"male ego's father's older sister",,,,
+"mFyZ","hinana, nhana",,"male ego's father's younger sister",,,,
+"mMeB","ingoa",,"male ego's mother's older brother",,,,
+"mMyB","ingoa",,"male ego's mother's younger brother",,,,
+"mMeZ","hinana, nhana",,"male ego's mother's older sister",,,,
+"mMyZ","hinana, nhana",,"male ego's mother's younger sister",,,,
+"fFeB","tamana, mhana",,"female ego's father's older brother",,,,
+"fFyB","tamana, mhana",,"female ego's father's younger brother",,,,
+"fFeZ","hinana, nhana",,"female ego's father's older sister",,,,
+"fFyZ","hinana, nhana",,"female ego's father's younger sister",,,,
+"fMeB","ingoa",,"female ego's mother's older brother",,,,
+"fMyB","ingoa",,"female ego's mother's younger brother",,,,
+"fMeZ","hinana, nhana",,"female ego's mother's older sister",,,,
+"fMyZ","hinana, nhana",,"female ego's mother's younger sister",,,,
+"mW","nohine",,"male ego's wife",,,,
+"fH","matua, pengi",,"female ego‘s husband",,,,
+"mDH","hungo",,"male ego's daughter's husband",,,,
+"fDH","hungo",,"female ego's daughter's husband",,,,
+"mSW","hungo",,"male ego's son's wife",,,,
+"fSW","hungo",,"female ego's son's wife",,,,
+"mWF","nghobae",,"male ego's wife's father",,,,
+"mWM","nghobae",,"male ego's wife's mother",,,,
+"mWB","mā",,"male ego's wife's brother",,,,
+"mWZ","hungo",,"male ego's wife's sister",,,,
+"fHF","nghobae",,"female ego's husband's father",,,,
+"fHM","nghobae",,"female ego's husband's mother",,,,
+"fHB","hungo",,"female ego's husband's brother",,,,
+"fHZ","mā",,"female ego's husband's sister",,,,
+"mBW","mā",,"male ego's brother's wife",,,,
+"fBW","hungo",,"female ego's brother's wife",,,,
+"mZH","mā",,"male ego's sister's husband",,,,
+"fZH","hungo",,"female ego's sister's husband",,,,
+"mFBS","kave",,"male ego's father's brother's son",,,,
+"mFZS","kave",,"male ego's father's sister's son",,,,
+"mMBS","kave",,"male ego's mother's brother's son",,,,
+"mMZS","kave",,"male ego's mother's sister's son",,,,
+"mFBD","thuohine",,"male ego's father's brother's daughter",,,,
+"mFZD","thuohine",,"male ego's father's sister's daughter",,,,
+"mMBD","thuohine",,"male ego's mother's brother's daughter",,,,
+"mMZD","thuohine",,"male ego's mother's sister's daughter",,,,
+"fFBS","thungane",,"female ego's father's brother's son",,,,
+"fFZS","thungane",,"female ego's father's sister's son",,,,
+"fMBS","thungane",,"female ego's mother's brother's son",,,,
+"fMZS","thungane",,"female ego's mother's sister's son",,,,
+"fFBD","kave",,"female ego's father's brother's daughter",,,,
+"fFZD","kave",,"female ego's father's sister's daughter",,,,
+"fMBD","kave",,"female ego's mother's brother's daughter",,,,
+"fMZD","kave",,"female ego's mother's sister's daughter",,,,
+"mFeBS","kave",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","kave",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","kave",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","kave",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","thuohine",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","thuohine",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","thuohine",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","thuohine",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","kave",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","kave",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","kave",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","kave",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","thuohine",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","thuohine",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","thuohine",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","thuohine",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","kave",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","kave",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","kave",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","kave",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","thuohine",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","thuohine",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","thuohine",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","thuohine",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","kave",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","kave",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","kave",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","kave",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","thuohine",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","thuohine",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","thuohine",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","thuohine",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","thungane",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","thungane",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","thungane",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","thungane",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","kave",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","kave",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","kave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","kave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","thungane",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","thungane",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","thungane",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","thungane",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","kave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","kave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","kave",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","kave",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","thungane",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","thungane",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","thungane",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","thungane",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","kave",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","kave",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","kave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","kave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","thungane",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","thungane",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","thungane",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","thungane",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","kave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","kave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","kave",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","kave",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

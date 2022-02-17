@@ -1,31 +1,31 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kheni,,male ego's older brother,,,,
-myB,kheni,,male ego's younger brother,,,,
-feB,khane,,female ego's older brother,,,,
-fyB,khane,,female ego's younger brother,,,,
-meZ,khane,,male ego's older sister,,,,
-myZ,khane,,male ego's younger sister,,,,
-feZ,hakini,,female ego's older sister,,,,
-fyZ,hakini,,female ego's younger sister,,,,
-mF,àwa,,male ego's father,ame,,,No contrast between ame and awa has as yet been noted. Many speakers also use the (?Huli-derived) term apa.
-mM,andia,,male ego's mother,,,,
-fF,àwa,,female ego's father,ame,,,No contrast between ame and awa has as yet been noted. Many speakers also use the (?Huli-derived) term apa.
-fM,andia,,female ego's mother,,,,
-mS,ingini,,male ego's son,,,,
-fS,ingini,,female ego's son,,,,
-mD,wane,,male ego's daughter,,,,
-fD,wane,,female ego's daughter,,,,
-mFeB,àwa,,male ego's father's older brother,ame,,,
-mFyB,àwa,,male ego's father's younger brother,ame,,,
-mMeB,àwane,,male ego's mother's older brother,,,,"tentative, need to double-check cross-sex relationship for this term"
-mMyB,àwane,,male ego's mother's younger brother,,,,"tentative, need to double-check cross-sex relationship for this term"
-mMeZ,andia,,male ego's mother's older sister,,,,
-mMyZ,andia,,male ego's mother's younger sister,,,,
-fFeB,àwa,,female ego's father's older brother,,,,
-fFyB,àwa,,female ego's father's younger brother,,,,
-fFeZ,arene,,female ego's father's older sister,,,,
-fFyZ,arene,,female ego's father's younger sister,,,,
-fMeB,àwane,,female ego's mother's older brother,,,,need to double-check cross-sex relationship for this term
-fMyB,àwane,,female ego's mother's younger brother,,,,need to double-check cross-sex relationship for this term
-fMeZ,antia,,female ego's mother's older sister,,,,
-fMyZ,antia,,female ego's mother's younger sister,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kheni",,"male ego's older brother","",,,""
+"myB","kheni",,"male ego's younger brother","",,,""
+"feB","khane",,"female ego's older brother","",,,""
+"fyB","khane",,"female ego's younger brother","",,,""
+"meZ","khane",,"male ego's older sister","",,,""
+"myZ","khane",,"male ego's younger sister","",,,""
+"feZ","hakini",,"female ego's older sister","",,,""
+"fyZ","hakini",,"female ego's younger sister","",,,""
+"mF","àwa",,"male ego's father","ame",,,"No contrast between ame and awa has as yet been noted. Many speakers also use the (?Huli-derived) term apa."
+"mM","andia",,"male ego's mother","",,,""
+"fF","àwa",,"female ego's father","ame",,,"No contrast between ame and awa has as yet been noted. Many speakers also use the (?Huli-derived) term apa."
+"fM","andia",,"female ego's mother","",,,""
+"mS","ingini",,"male ego's son","",,,""
+"fS","ingini",,"female ego's son","",,,""
+"mD","wane",,"male ego's daughter","",,,""
+"fD","wane",,"female ego's daughter","",,,""
+"mFeB","àwa",,"male ego's father's older brother","ame",,,""
+"mFyB","àwa",,"male ego's father's younger brother","ame",,,""
+"mMeB","àwane",,"male ego's mother's older brother","",,,"tentative, need to double-check cross-sex relationship for this term"
+"mMyB","àwane",,"male ego's mother's younger brother","",,,"tentative, need to double-check cross-sex relationship for this term"
+"mMeZ","andia",,"male ego's mother's older sister","",,,""
+"mMyZ","andia",,"male ego's mother's younger sister","",,,""
+"fFeB","àwa",,"female ego's father's older brother","",,,""
+"fFyB","àwa",,"female ego's father's younger brother","",,,""
+"fFeZ","arene",,"female ego's father's older sister","",,,""
+"fFyZ","arene",,"female ego's father's younger sister","",,,""
+"fMeB","àwane",,"female ego's mother's older brother","",,,"need to double-check cross-sex relationship for this term"
+"fMyB","àwane",,"female ego's mother's younger brother","",,,"need to double-check cross-sex relationship for this term"
+"fMeZ","antia",,"female ego's mother's older sister","",,,""
+"fMyZ","antia",,"female ego's mother's younger sister","",,,""

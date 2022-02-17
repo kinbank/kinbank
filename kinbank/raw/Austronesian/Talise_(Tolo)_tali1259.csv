@@ -1,99 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kasina gare,,male ego's older brother,,,,
-myB,kasina gare,,male ego's younger brother,,,,
-feB,vavinena,,female ego's older brother,,,,
-fyB,vavinena,,female ego's younger brother,,,,
-meZ,vavinena,,male ego's older sister,,,,
-myZ,vavinena,,male ego's younger sister,,,,
-feZ,kasina daki,,female ego's older sister,,,,
-fyZ,kasina daki,,female ego's younger sister,,,,
-mF,"kaka, tamana",,male ego's father,,,,
-mM,"lake, nana(na)",,male ego's mother,,,,
-fF,"kaka, tamana",,female ego's father,,,,
-fM,"lake, nana(na)",,female ego's mother,,,,
-mS,dalena gare,,male ego's son,,,,
-fS,dalena gare,,female ego's son,,,,
-mD,dalena daki,,male ego's daughter,,,,
-fD,dalena daki,,female ego's daughter,,,,
-mSS,kukuana,,male ego's son's son,,,,
-mSD,kukuana,,male ego's son's daughter,,,,
-mDS,kukuana,,male ego's daughter's son,,,,
-mDD,kukuana,,male ego's daughter's daughter,,,,
-fSS,kukuana,,female ego's son's son,,,,
-fSD,kukuana,,female ego's son's daughter,,,,
-fDS,kukuana,,female ego's daughter's son,,,,
-fDD,kukuana,,female ego's daugher's daughter,,,,
-mFF,kukuana,,male ego's father‘s father,,,,
-mFM,"kakave, kukuana",,male ego's father's mother,,,,
-mMF,kukuana,,male ego's mother's father,,,,
-mMM,"kakave, kukuana",,male ego's mother's mother,,,,
-fFF,kukuana,,female ego's father's father,,,,
-fFM,"kakave, kukuana",,female ego's father's mother,,,,
-fMF,kukuana,,female ego's mother's father,,,,
-fMM,"kakave, kukuana",,female ego's mother's mother,,,,
-meBS,tsagina,,male ego's older brother's son,,,,
-myBS,tsagina,,male ego's younger brother's son,,,,
-meZS,tsagina,,male ego's older sister's son,,,,
-myZS,tsagina,,male ego's younger sister's son,,,,
-meBD,tsagina,,male ego's older brother's daughter,,,,
-myBD,tsagina,,male ego's younger brother's daughter,,,,
-meZD,tsagina,,male ego's older sister's daughter,,,,
-myZD,tsagina,,male ego's younger sister's daughter,,,,
-feBS,tsagina,,female ego's older brother's son,,,,
-fyBS,tsagina,,female ego's younger brother's son,,,,
-feZS,tsagina,,female ego's older sister's son,,,,
-fyZS,tsagina,,female ego's younger sister's son,,,,
-feBD,tsagina,,female ego's older brother's daughter,,,,
-fyBD,tsagina,,female ego's younger brother's daughter,,,,
-feZD,tsagina,,female ego's older sister's daughter,,,,
-fyZD,tsagina,,female ego's younger sister's daughter,,,,
-mFeB,"kaka, tamana",,male ego's father's older brother,,,,
-mFyB,"kaka, tamana",,male ego's father's younger brother,,,,
-mFeZ,tsagina,,male ego's father's older sister,,,,
-mFyZ,tsagina,,male ego's father's younger sister,,,,
-mMeB,tsagina,,male ego's mother's older brother,,,,
-mMyB,tsagina,,male ego's mother's younger brother,,,,
-mMeZ,"lake, nana(na)",,male ego's mother's older sister,,,,
-mMyZ,"lake, nana(na)",,male ego's mother's younger sister,,,,
-fFeB,"kaka, tamana",,female ego's father's older brother,,,,
-fFyB,"kaka, tamana",,female ego's father's younger brother,,,,
-fFeZ,tsagina,,female ego's father's older sister,,,,
-fFyZ,tsagina,,female ego's father's younger sister,,,,
-fMeB,tsagina,,female ego's mother's older brother,,,,
-fMyB,tsagina,,female ego's mother's younger brother,,,,
-fMeZ,"lake, nana(na)",,female ego's mother's older sister,,,,
-fMyZ,"lake, nana(na)",,female ego's mother's younger sister,,,,
-mW,atina,,male ego's wife,,,,
-fH,husband,,female ego‘s husband,,,,
-mDH,vungona,,male ego's daughter's husband,,,,
-fDH,vungona,,female ego's daughter's husband,,,,
-mSW,vungona,,male ego's son's wife,,,,
-fSW,vungona,,female ego's son's wife,,,,
-mWF,vungona,,male ego's wife's father,,,,
-mWM,vungona,,male ego's wife's mother,,,,
-mWB,doma,,male ego's wife's brother,,,,
-mWZ,"lahina, doma(na)",,male ego's wife's sister,,,,
-fHF,vungona,,female ego's husband's father,,,,
-fHM,vungona,,female ego's husband's mother,,,,
-fHB,doma,,female ego's husband's brother,,,,
-fHZ,"lahina, doma(na)",,female ego's husband's sister,,,,
-mBW,"lahina, doma(na)",,male ego's brother's wife,,,,
-fBW,"lahina, doma(na)",,female ego's brother's wife,,,,
-mZH,doma,,male ego's sister's husband,,,,
-fZH,doma,,female ego's sister's husband,,,,
-mFBS,kasina gare,,male ego's father's brother's son,,,,
-mFZS,kasina gare,,male ego's father's sister's son,,,,
-mMBS,kasina gare,,male ego's mother's brother's son,,,,
-mMZS,kasina gare,,male ego's mother's sister's son,,,,
-mFBD,vavinena,,male ego's father's brother's daughter,,,,
-mFZD,vavinena,,male ego's father's sister's daughter,,,,
-mMBD,vavinena,,male ego's mother's brother's daughter,,,,
-mMZD,vavinena,,male ego's mother's sister's daughter,,,,
-fFBS,vavinena,,female ego's father's brother's son,,,,
-fFZS,vavinena,,female ego's father's sister's son,,,,
-fMBS,vavinena,,female ego's mother's brother's son,,,,
-fMZS,vavinena,,female ego's mother's sister's son,,,,
-fFBD,kasina daki,,female ego's father's brother's daughter,,,,
-fFZD,kasina daki,,female ego's father's sister's daughter,,,,
-fMBD,kasina daki,,female ego's mother's brother's daughter,,,,
-fMZD,kasina daki,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kasina gare",,"male ego's older brother",,,,
+"myB","kasina gare",,"male ego's younger brother",,,,
+"feB","vavinena",,"female ego's older brother",,,,
+"fyB","vavinena",,"female ego's younger brother",,,,
+"meZ","vavinena",,"male ego's older sister",,,,
+"myZ","vavinena",,"male ego's younger sister",,,,
+"feZ","kasina daki",,"female ego's older sister",,,,
+"fyZ","kasina daki",,"female ego's younger sister",,,,
+"mF","kaka, tamana",,"male ego's father",,,,
+"mM","lake, nana(na)",,"male ego's mother",,,,
+"fF","kaka, tamana",,"female ego's father",,,,
+"fM","lake, nana(na)",,"female ego's mother",,,,
+"mS","dalena gare",,"male ego's son",,,,
+"fS","dalena gare",,"female ego's son",,,,
+"mD","dalena daki",,"male ego's daughter",,,,
+"fD","dalena daki",,"female ego's daughter",,,,
+"mSS","kukuana",,"male ego's son's son",,,,
+"mSD","kukuana",,"male ego's son's daughter",,,,
+"mDS","kukuana",,"male ego's daughter's son",,,,
+"mDD","kukuana",,"male ego's daughter's daughter",,,,
+"fSS","kukuana",,"female ego's son's son",,,,
+"fSD","kukuana",,"female ego's son's daughter",,,,
+"fDS","kukuana",,"female ego's daughter's son",,,,
+"fDD","kukuana",,"female ego's daugher's daughter",,,,
+"mFF","kukuana",,"male ego's father‘s father",,,,
+"mFM","kakave, kukuana",,"male ego's father's mother",,,,
+"mMF","kukuana",,"male ego's mother's father",,,,
+"mMM","kakave, kukuana",,"male ego's mother's mother",,,,
+"fFF","kukuana",,"female ego's father's father",,,,
+"fFM","kakave, kukuana",,"female ego's father's mother",,,,
+"fMF","kukuana",,"female ego's mother's father",,,,
+"fMM","kakave, kukuana",,"female ego's mother's mother",,,,
+"meBS","tsagina",,"male ego's older brother's son",,,,
+"myBS","tsagina",,"male ego's younger brother's son",,,,
+"meZS","tsagina",,"male ego's older sister's son",,,,
+"myZS","tsagina",,"male ego's younger sister's son",,,,
+"meBD","tsagina",,"male ego's older brother's daughter",,,,
+"myBD","tsagina",,"male ego's younger brother's daughter",,,,
+"meZD","tsagina",,"male ego's older sister's daughter",,,,
+"myZD","tsagina",,"male ego's younger sister's daughter",,,,
+"feBS","tsagina",,"female ego's older brother's son",,,,
+"fyBS","tsagina",,"female ego's younger brother's son",,,,
+"feZS","tsagina",,"female ego's older sister's son",,,,
+"fyZS","tsagina",,"female ego's younger sister's son",,,,
+"feBD","tsagina",,"female ego's older brother's daughter",,,,
+"fyBD","tsagina",,"female ego's younger brother's daughter",,,,
+"feZD","tsagina",,"female ego's older sister's daughter",,,,
+"fyZD","tsagina",,"female ego's younger sister's daughter",,,,
+"mFeB","kaka, tamana",,"male ego's father's older brother",,,,
+"mFyB","kaka, tamana",,"male ego's father's younger brother",,,,
+"mFeZ","tsagina",,"male ego's father's older sister",,,,
+"mFyZ","tsagina",,"male ego's father's younger sister",,,,
+"mMeB","tsagina",,"male ego's mother's older brother",,,,
+"mMyB","tsagina",,"male ego's mother's younger brother",,,,
+"mMeZ","lake, nana(na)",,"male ego's mother's older sister",,,,
+"mMyZ","lake, nana(na)",,"male ego's mother's younger sister",,,,
+"fFeB","kaka, tamana",,"female ego's father's older brother",,,,
+"fFyB","kaka, tamana",,"female ego's father's younger brother",,,,
+"fFeZ","tsagina",,"female ego's father's older sister",,,,
+"fFyZ","tsagina",,"female ego's father's younger sister",,,,
+"fMeB","tsagina",,"female ego's mother's older brother",,,,
+"fMyB","tsagina",,"female ego's mother's younger brother",,,,
+"fMeZ","lake, nana(na)",,"female ego's mother's older sister",,,,
+"fMyZ","lake, nana(na)",,"female ego's mother's younger sister",,,,
+"mW","atina",,"male ego's wife",,,,
+"fH","husband",,"female ego‘s husband",,,,
+"mDH","vungona",,"male ego's daughter's husband",,,,
+"fDH","vungona",,"female ego's daughter's husband",,,,
+"mSW","vungona",,"male ego's son's wife",,,,
+"fSW","vungona",,"female ego's son's wife",,,,
+"mWF","vungona",,"male ego's wife's father",,,,
+"mWM","vungona",,"male ego's wife's mother",,,,
+"mWB","doma",,"male ego's wife's brother",,,,
+"mWZ","lahina, doma(na)",,"male ego's wife's sister",,,,
+"fHF","vungona",,"female ego's husband's father",,,,
+"fHM","vungona",,"female ego's husband's mother",,,,
+"fHB","doma",,"female ego's husband's brother",,,,
+"fHZ","lahina, doma(na)",,"female ego's husband's sister",,,,
+"mBW","lahina, doma(na)",,"male ego's brother's wife",,,,
+"fBW","lahina, doma(na)",,"female ego's brother's wife",,,,
+"mZH","doma",,"male ego's sister's husband",,,,
+"fZH","doma",,"female ego's sister's husband",,,,
+"mFBS","kasina gare",,"male ego's father's brother's son",,,,
+"mFZS","kasina gare",,"male ego's father's sister's son",,,,
+"mMBS","kasina gare",,"male ego's mother's brother's son",,,,
+"mMZS","kasina gare",,"male ego's mother's sister's son",,,,
+"mFBD","vavinena",,"male ego's father's brother's daughter",,,,
+"mFZD","vavinena",,"male ego's father's sister's daughter",,,,
+"mMBD","vavinena",,"male ego's mother's brother's daughter",,,,
+"mMZD","vavinena",,"male ego's mother's sister's daughter",,,,
+"fFBS","vavinena",,"female ego's father's brother's son",,,,
+"fFZS","vavinena",,"female ego's father's sister's son",,,,
+"fMBS","vavinena",,"female ego's mother's brother's son",,,,
+"fMZS","vavinena",,"female ego's mother's sister's son",,,,
+"fFBD","kasina daki",,"female ego's father's brother's daughter",,,,
+"fFZD","kasina daki",,"female ego's father's sister's daughter",,,,
+"fMBD","kasina daki",,"female ego's mother's brother's daughter",,,,
+"fMZD","kasina daki",,"female ego's mother's sister's daughter",,,,
+"mFeBS","kasina gare",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","kasina gare",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","kasina gare",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","kasina gare",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","vavinena",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","vavinena",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","vavinena",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","vavinena",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","kasina gare",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","kasina gare",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","kasina gare",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","kasina gare",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","vavinena",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","vavinena",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","vavinena",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","vavinena",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","kasina gare",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","kasina gare",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","kasina gare",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","kasina gare",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","vavinena",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","vavinena",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","vavinena",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","vavinena",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","kasina gare",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","kasina gare",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","kasina gare",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","kasina gare",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","vavinena",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","vavinena",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","vavinena",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","vavinena",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","vavinena",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","vavinena",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","vavinena",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","vavinena",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","kasina daki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","kasina daki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","kasina daki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","kasina daki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","vavinena",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","vavinena",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","vavinena",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","vavinena",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","kasina daki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","kasina daki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","kasina daki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","kasina daki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","vavinena",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","vavinena",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","vavinena",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","vavinena",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","kasina daki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","kasina daki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","kasina daki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","kasina daki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","vavinena",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","vavinena",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","vavinena",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","vavinena",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","kasina daki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","kasina daki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","kasina daki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","kasina daki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

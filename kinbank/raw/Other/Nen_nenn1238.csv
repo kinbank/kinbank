@@ -1,107 +1,107 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ane,,male speaker's older brother,,,,
-myB,nngn,,male speaker's younger brother,,,,
-feB,"ane, sakr",,female speaker's older brother,,,,
-fyB,"nngn, sakr",,female speaker's younger brother,,,,
-meZ,"ane, mleg",,male speaker's older sister,,,,
-myZ,"nngn, mleg",,male speaker's younger sister,,,,
-feZ,ane,,female speaker's older sister,,,,
-fyZ,nngn,,female speaker's younger sister,,,,
-mF,dede,,male speaker's father,,,,
-mM,ama,,male speaker's mother,,,,
-fF,dede,,female speaker's father,,,,
-fM,ama,,female speaker's mother,,,,
-mS,toge,,male speaker's son,,,,
-fS,toge,,female speaker's son,,,,
-mD,toge,,male speaker's daughter,,,,
-fD,toge,,female speaker's daughter,,,,
-mSS,kake,,male speaker's son's son,,,,
-mSD,kake,,male speaker's son's daughter,,,,
-mDS,kake,,male speaker's daughter's son,,,,
-mDD,kake,,male speaker's daughter's daughter,,,,
-fSS,kake,,female speaker's son's son,,,,
-fSD,kake,,female speaker's son's daughter,,,,
-fDS,kake,,female speaker's daughter's son,,,,
-fDD,kake,,female speaker's daugher's daughter,,,,
-mFF,kake,,male speaker's father‘s father,,,,
-mFM,kake,,male speaker's father's mother,,,,
-mMF,kake,,male speaker's mother's father,,,,
-mMM,kake,,male speaker's mother's mother,,,,
-fFF,kake,,female speaker's father's father,,,,
-fFM,kake,,female speaker's father's mother,,,,
-fMF,kake,,female speaker's mother's father,,,,
-fMM,kake,,female speaker's mother's mother,,,,
-meBS,toge,,male speaker's older brother's son,,,,
-myBS,seser,,male speaker's younger brother's son,,,,
-meZS,baba,,male speaker's older sister's son,,,,
-myZS,baba,,male speaker's younger sister's son,,,,
-meBD,toge,,male speaker's older brother's daughter,,,,
-myBD,seser,,male speaker's younger brother's daughter,,,,
-meZD,baba,,male speaker's older sister's daughter,,,,
-myZD,baba,,male speaker's younger sister's daughter,,,,
-feBS,toge,,female speaker's older brother's son,,,,
-fyBS,seser,,female speaker's younger brother's son,,,,
-feZS,baba,,female speaker's older sister's son,,,,
-fyZS,baba,,female speaker's younger sister's son,,,,
-feBD,toge,,female speaker's older brother's daughter,,,,
-fyBD,seser,,female speaker's younger brother's daughter,,,,
-feZD,baba,,female speaker's older sister's daughter,,,,
-fyZD,baba,,female speaker's younger sister's daughter,,,,
-mFeB,seser,,male speaker's father's older brother,,,,
-mFyB,"dede, dede toge",,male speaker's father's younger brother,,,,
-mFeZ,seser,,male speaker's father's older sister,,,,
-mFyZ,mitadma,,male speaker's father's younger sister,,,,
-mMeB,baba,,male speaker's mother's older brother,,,,
-mMyB,baba,,male speaker's mother's younger brother,,,,
-mMeZ,ama kitong,,male speaker's mother's older sister,babale,,,"ama kitong means 'big mother', the term babale is an innovation among young people, extending from its original meaning of MBW. Once MZ marries out, (whether mMZ or fMZ, whether MeZ or MyZ) she gets renamed as yakal yadma 'yakal mother', her husband is kn"
-mMyZ,ama toge,,male speaker's mother's younger sister,babale,,,babale is an innovation among younger people from its original MBW meaning
-fFeB,seser,,female speaker's father's older brother,,,,
-fFyB,"dede, dede toge",,female speaker's father's younger brother,,,,
-fFeZ,seser,,female speaker's father's older sister,,,,
-fFyZ,mitadma,,female speaker's father's younger sister,,,,
-fMeB,baba,,female speaker's mother's older brother,,,,
-fMyB,baba,,female speaker's mother's younger brother,,,,
-fMeZ,ama kitong,,female speaker's mother's older sister,babale,,,"ama kitong means 'big mother', the term babale is an innovation among young people, extending from its original meaning of MBW. Once MZ marries out, (whether mMZ or fMZ, whether MeZ or MyZ) she gets renamed as yakal yadma 'yakal mother', her husband is kn"
-fMyZ,ama toge,,female speaker's mother's younger sister,babale,,,babale is an innovation among younger people from its original MBW meaning
-mW,"(tande) dmab, tale",,speaker's wife,,,,"tande means 'my', it is usually present in referring expressions. When the pivot is other than 1st person, another appropriate possessive pronoun would be used, e.g. yande dmab 'his wife'"
-fH,"(tande) är, tanzär",,speaker‘s husband,,,,"tande means 'my' and could be replaced by another possessive pronoun as appropriate. The form tanzär is reduced from tanzo är 'my own man', and there are corresponding forms for other person/numbers, e.g. yanzär  'her husband'"
-fDH,tanat,,female speaker's daughter's husband,,,,
-mDH,tanat,,male speaker's daughter's husband,,,,
-fSW,"(tande) kake, (tande) kake dmab",,female speaker's son's wife,,,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman',"
-mSW,"(tande) kake, (tande) kake dmab",,male speaker's son's wife,,,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman',"
-fHM,(tande) kake aosa,,speaker's husband's mother,,,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman',"
-mWM,tanat,,speaker's wife's mother,,,,
-fHF,(tande) kake bolo,,speaker's husband's father,,,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer."
-mWF,tanat,,speaker's wife's father,,,,
-mFBeS,ane,,male speaker‘s father‘s brother‘s older son,,,,
-mFByS,nngn,,male speaker‘s father‘s brother‘s younger son,,,,
-mFBeD,ane,,male speaker‘s father‘s brother‘s older daughter,,,,
-mFByD,nngn,,male speaker‘s father‘s brother‘s younger daughter,,,,
-mFZeS,baba,,male speaker‘s father‘s sisters‘s older son,,,,
-mFZyS,baba,,male speaker‘s father‘s sisters‘s younger son,,,,
-mFZeD,baba,,male speaker‘s father‘s sisters‘s older daughter,,,,
-mFZyD,baba,,male speaker‘s father‘s sisters‘s younger daughter,,,,
-mMBeS,baba,,male speaker‘s mother‘s brother‘s older son,,,,
-mMByS,baba,,male speaker‘s mother‘s brother‘s younger son,,,,
-mMBeD,baba,,male speaker‘s mother‘s brother‘s older daughter,,,,
-mMByD,baba,,male speaker‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,yakal,,male speaker‘s mother‘s sisters‘s older son,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-mMZyS,yakal,,male speaker‘s mother‘s sisters‘s younger son,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-mMZeD,yakal,,male speaker‘s mother‘s sisters‘s older daughter,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-mMZyD,yakal,,male speaker‘s mother‘s sisters‘s younger daughter,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-fFBeS,ane,,female speaker‘s father‘s brother‘s older son,,,,
-fFByS,nngn,,female speaker‘s father‘s brother‘s younger son,,,,
-fFBeD,ane,,female speaker‘s father‘s brother‘s older daughter,,,,
-fFByD,nngn,,female speaker‘s father‘s brother‘s younger daughter,,,,
-fFZeS,baba,,female speaker‘s father‘s sisters‘s older son,,,,
-fFZyS,baba,,female speaker‘s father‘s sisters‘s younger son,,,,
-fFZeD,baba,,female speaker‘s father‘s sisters‘s older daughter,,,,
-fFZyD,baba,,female speaker‘s father‘s sisters‘s younger daughter,,,,
-fMBeS,baba,,female speaker‘s mother‘s brother‘s older son,,,,
-fMByS,baba,,female speaker‘s mother‘s brother‘s younger son,,,,
-fMBeD,baba,,female speaker‘s mother‘s brother‘s older daughter,,,,
-fMByD,baba,,female speaker‘s mother‘s brother‘s younger daughter,,,,
-fMZeS,yakal,,female speaker‘s mother‘s sisters‘s older son,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-fMZyS,yakal,,female speaker‘s mother‘s sisters‘s younger son,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-fMZeD,yakal,,female speaker‘s mother‘s sisters‘s older daughter,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
-fMZyD,yakal,,female speaker‘s mother‘s sisters‘s younger daughter,yekeli,,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ane",,"male speaker's older brother","",,,""
+"myB","nngn",,"male speaker's younger brother","",,,""
+"feB","ane, sakr",,"female speaker's older brother","",,,""
+"fyB","nngn, sakr",,"female speaker's younger brother","",,,""
+"meZ","ane, mleg",,"male speaker's older sister","",,,""
+"myZ","nngn, mleg",,"male speaker's younger sister","",,,""
+"feZ","ane",,"female speaker's older sister","",,,""
+"fyZ","nngn",,"female speaker's younger sister","",,,""
+"mF","dede",,"male speaker's father","",,,""
+"mM","ama",,"male speaker's mother","",,,""
+"fF","dede",,"female speaker's father","",,,""
+"fM","ama",,"female speaker's mother","",,,""
+"mS","toge",,"male speaker's son","",,,""
+"fS","toge",,"female speaker's son","",,,""
+"mD","toge",,"male speaker's daughter","",,,""
+"fD","toge",,"female speaker's daughter","",,,""
+"mSS","kake",,"male speaker's son's son","",,,""
+"mSD","kake",,"male speaker's son's daughter","",,,""
+"mDS","kake",,"male speaker's daughter's son","",,,""
+"mDD","kake",,"male speaker's daughter's daughter","",,,""
+"fSS","kake",,"female speaker's son's son","",,,""
+"fSD","kake",,"female speaker's son's daughter","",,,""
+"fDS","kake",,"female speaker's daughter's son","",,,""
+"fDD","kake",,"female speaker's daugher's daughter","",,,""
+"mFF","kake",,"male speaker's father‘s father","",,,""
+"mFM","kake",,"male speaker's father's mother","",,,""
+"mMF","kake",,"male speaker's mother's father","",,,""
+"mMM","kake",,"male speaker's mother's mother","",,,""
+"fFF","kake",,"female speaker's father's father","",,,""
+"fFM","kake",,"female speaker's father's mother","",,,""
+"fMF","kake",,"female speaker's mother's father","",,,""
+"fMM","kake",,"female speaker's mother's mother","",,,""
+"meBS","toge",,"male speaker's older brother's son","",,,""
+"myBS","seser",,"male speaker's younger brother's son","",,,""
+"meZS","baba",,"male speaker's older sister's son","",,,""
+"myZS","baba",,"male speaker's younger sister's son","",,,""
+"meBD","toge",,"male speaker's older brother's daughter","",,,""
+"myBD","seser",,"male speaker's younger brother's daughter","",,,""
+"meZD","baba",,"male speaker's older sister's daughter","",,,""
+"myZD","baba",,"male speaker's younger sister's daughter","",,,""
+"feBS","toge",,"female speaker's older brother's son","",,,""
+"fyBS","seser",,"female speaker's younger brother's son","",,,""
+"feZS","baba",,"female speaker's older sister's son","",,,""
+"fyZS","baba",,"female speaker's younger sister's son","",,,""
+"feBD","toge",,"female speaker's older brother's daughter","",,,""
+"fyBD","seser",,"female speaker's younger brother's daughter","",,,""
+"feZD","baba",,"female speaker's older sister's daughter","",,,""
+"fyZD","baba",,"female speaker's younger sister's daughter","",,,""
+"mFeB","seser",,"male speaker's father's older brother","",,,""
+"mFyB","dede, dede toge",,"male speaker's father's younger brother","",,,""
+"mFeZ","seser",,"male speaker's father's older sister","",,,""
+"mFyZ","mitadma",,"male speaker's father's younger sister","",,,""
+"mMeB","baba",,"male speaker's mother's older brother","",,,""
+"mMyB","baba",,"male speaker's mother's younger brother","",,,""
+"mMeZ","ama kitong",,"male speaker's mother's older sister","babale",,,"ama kitong means 'big mother', the term babale is an innovation among young people, extending from its original meaning of MBW. Once MZ marries out, (whether mMZ or fMZ, whether MeZ or MyZ) she gets renamed as yakal yadma 'yakal mother', her husband is kn"
+"mMyZ","ama toge",,"male speaker's mother's younger sister","babale",,,"babale is an innovation among younger people from its original MBW meaning"
+"fFeB","seser",,"female speaker's father's older brother","",,,""
+"fFyB","dede, dede toge",,"female speaker's father's younger brother","",,,""
+"fFeZ","seser",,"female speaker's father's older sister","",,,""
+"fFyZ","mitadma",,"female speaker's father's younger sister","",,,""
+"fMeB","baba",,"female speaker's mother's older brother","",,,""
+"fMyB","baba",,"female speaker's mother's younger brother","",,,""
+"fMeZ","ama kitong",,"female speaker's mother's older sister","babale",,,"ama kitong means 'big mother', the term babale is an innovation among young people, extending from its original meaning of MBW. Once MZ marries out, (whether mMZ or fMZ, whether MeZ or MyZ) she gets renamed as yakal yadma 'yakal mother', her husband is kn"
+"fMyZ","ama toge",,"female speaker's mother's younger sister","babale",,,"babale is an innovation among younger people from its original MBW meaning"
+"mW","(tande) dmab, tale",,"speaker's wife","",,,"tande means 'my', it is usually present in referring expressions. When the pivot is other than 1st person, another appropriate possessive pronoun would be used, e.g. yande dmab 'his wife'"
+"fH","(tande) är, tanzär",,"speaker‘s husband","",,,"tande means 'my' and could be replaced by another possessive pronoun as appropriate. The form tanzär is reduced from tanzo är 'my own man', and there are corresponding forms for other person/numbers, e.g. yanzär  'her husband'"
+"fDH","tanat",,"female speaker's daughter's husband","",,,""
+"mDH","tanat",,"male speaker's daughter's husband","",,,""
+"fSW","(tande) kake, (tande) kake dmab",,"female speaker's son's wife","",,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman',"
+"mSW","(tande) kake, (tande) kake dmab",,"male speaker's son's wife","",,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman',"
+"fHM","(tande) kake aosa",,"speaker's husband's mother","",,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: dmab 'woman, wife', aosa 'old woman',"
+"mWM","tanat",,"speaker's wife's mother","",,,""
+"fHF","(tande) kake bolo",,"speaker's husband's father","",,,"This term is built around kake 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer."
+"mWF","tanat",,"speaker's wife's father","",,,""
+"mFBeS","ane",,"male speaker‘s father‘s brother‘s older son","",,,""
+"mFByS","nngn",,"male speaker‘s father‘s brother‘s younger son","",,,""
+"mFBeD","ane",,"male speaker‘s father‘s brother‘s older daughter","",,,""
+"mFByD","nngn",,"male speaker‘s father‘s brother‘s younger daughter","",,,""
+"mFZeS","baba",,"male speaker‘s father‘s sisters‘s older son","",,,""
+"mFZyS","baba",,"male speaker‘s father‘s sisters‘s younger son","",,,""
+"mFZeD","baba",,"male speaker‘s father‘s sisters‘s older daughter","",,,""
+"mFZyD","baba",,"male speaker‘s father‘s sisters‘s younger daughter","",,,""
+"mMBeS","baba",,"male speaker‘s mother‘s brother‘s older son","",,,""
+"mMByS","baba",,"male speaker‘s mother‘s brother‘s younger son","",,,""
+"mMBeD","baba",,"male speaker‘s mother‘s brother‘s older daughter","",,,""
+"mMByD","baba",,"male speaker‘s mother‘s brother‘s younger daughter","",,,""
+"mMZeS","yakal",,"male speaker‘s mother‘s sisters‘s older son","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"mMZyS","yakal",,"male speaker‘s mother‘s sisters‘s younger son","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"mMZeD","yakal",,"male speaker‘s mother‘s sisters‘s older daughter","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"mMZyD","yakal",,"male speaker‘s mother‘s sisters‘s younger daughter","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"fFBeS","ane",,"female speaker‘s father‘s brother‘s older son","",,,""
+"fFByS","nngn",,"female speaker‘s father‘s brother‘s younger son","",,,""
+"fFBeD","ane",,"female speaker‘s father‘s brother‘s older daughter","",,,""
+"fFByD","nngn",,"female speaker‘s father‘s brother‘s younger daughter","",,,""
+"fFZeS","baba",,"female speaker‘s father‘s sisters‘s older son","",,,""
+"fFZyS","baba",,"female speaker‘s father‘s sisters‘s younger son","",,,""
+"fFZeD","baba",,"female speaker‘s father‘s sisters‘s older daughter","",,,""
+"fFZyD","baba",,"female speaker‘s father‘s sisters‘s younger daughter","",,,""
+"fMBeS","baba",,"female speaker‘s mother‘s brother‘s older son","",,,""
+"fMByS","baba",,"female speaker‘s mother‘s brother‘s younger son","",,,""
+"fMBeD","baba",,"female speaker‘s mother‘s brother‘s older daughter","",,,""
+"fMByD","baba",,"female speaker‘s mother‘s brother‘s younger daughter","",,,""
+"fMZeS","yakal",,"female speaker‘s mother‘s sisters‘s older son","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"fMZyS","yakal",,"female speaker‘s mother‘s sisters‘s younger son","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"fMZeD","yakal",,"female speaker‘s mother‘s sisters‘s older daughter","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"
+"fMZyD","yakal",,"female speaker‘s mother‘s sisters‘s younger daughter","yekeli",,,"the difference between yekeli and yakal seems to be idiolectal, JN gave yekeli, MB gave yakal, though it was also suggested that JN's preference for yekeli is influenced by his Idi mother"

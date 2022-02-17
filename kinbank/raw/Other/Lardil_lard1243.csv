@@ -1,99 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,thabu,kuu,male ego's older brother,,,,
-myB,kungku,kuu,male ego's younger brother,,,,
-feB,kungku,,female ego's older brother,,,,
-fyB,kungku,,female ego's younger brother,,,,
-meZ,yaku,kuu,male ego's older sister,bunjikarnan,,,bunjikarnan = honorific
-myZ,yaku,kuu,male ego's younger sister,bunjikarnan,,,bunjikarnan = honorific
-feZ,yaku,,female ego's older sister,,,,
-fyZ,kungku,,female ego's younger sister,,,,
-mF,kantha,thungaa,male ego's father,,,,
-mM,ngama,kuu,male ego's mother,,,,
-fF,kantha,,female ego's father,,,,
-fM,ngama,,female ego's mother,,,,
-mS,kambin,thungaa,male ego's son,,,,
-fS,karda,,female ego's son,,,,
-mD,kambin,thungaa,male ego's daughter,,,,
-fD,karda,,female ego's daughter,,,,
-mSS,kangkur,kuu,male ego's son's son,,,,
-mSD,kangkur,kuu,male ego's son's daughter,,,,
-mDS,"benyin,",jii,male ego's daughter's son,,,,
-mDD,benyin,jii,male ego's daughter's daughter,,,,
-fSS,kangkur,,female ego's son's son,,,,
-fSD,kangkur,,female ego's son's daughter,,,,
-fDS,benyin,,female ego's daughter's son,,,,
-fDD,benyin,,female ego's daugher's daughter,,,,
-mFF,kangkar,kuu,male ego's father‘s father,,,,
-mFM,pape,n!2a,male ego's father's mother,,,,
-mMF,jembe,jii,male ego's mother's father,,,,
-mMM,nyerre,kungaa,male ego's mother's mother,,,,
-fFF,kangkar,,female ego's father's father,,,,
-fFM,pape,,female ego's father's mother,,,,
-fMF,jembe,,female ego's mother's father,,,,
-fMM,nyerre,,female ego's mother's mother,,,,
-meBS,kambin,,male ego's older brother's son,,,,
-myBS,kambin,,male ego's younger brother's son,,,,
-meZS,karda,kuu,male ego's older sister's son,,,,
-myZS,karda,kuu,male ego's younger sister's son,,,,
-meBD,kambin,,male ego's older brother's daughter,,,,
-myBD,kambin,,male ego's younger brother's daughter,,,,
-meZD,karda,kuu,male ego's older sister's daughter,,,,
-myZD,karda,kuu,male ego's younger sister's daughter,,,,
-feBS,kambin,,female ego's older brother's son,,,,
-fyBS,kambin,,female ego's younger brother's son,,,,
-feZS,karta,,female ego's older sister's son,,,,
-fyZS,karta,,female ego's younger sister's son,,,,
-feBD,kambin,,female ego's older brother's daughter,,,,
-fyBD,kambin,,female ego's younger brother's daughter,,,,
-feZD,karta,,female ego's older sister's daughter,,,,
-fyZD,karta,,female ego's younger sister's daughter,,,,
-mFeB,mutha kantha,thungaa,male ego's father's older brother,,,,
-mFyB,kirdi kantha,thungaa,male ego's father's younger brother,,,,
-mFeZ,merrka,thungaa,male ego's father's older sister,,,,
-mFyZ,merrka,thungaa,male ego's father's younger sister,,,,
-mMeB,kaku,kuu,male ego's mother's older brother,,,,
-mMyB,kaku,kuu,male ego's mother's younger brother,,,,
-mMeZ,ngama,,male ego's mother's older sister,,,,
-mMyZ,ngama,,male ego's mother's younger sister,,,,
-fFeB,mutha kantha,,female ego's father's older brother,,,,
-fFyB,kirdi kantha,,female ego's father's younger brother,,,,
-fFeZ,merrka,,female ego's father's older sister,,,,
-fFyZ,merrka,,female ego's father's younger sister,,,,
-fMeB,kaku,,female ego's mother's older brother,,,,
-fMyB,kaku,,female ego's mother's younger brother,,,,
-fMeZ,ngama,,female ego's mother's older sister,,,,
-fMyZ,ngama,,female ego's mother's younger sister,,,,
-mW,kernde,,male ego's wife,,,,
-fH,yukarr,,female ego‘s husband,,,,
-mDH,wuyinjin-kaku,,male ego's daughter's husband,,,,
-fDH,kunawun,,female ego's daughter's husband,,,,
-mSW,ngama,,male ego's son's wife,,,,
-fSW,kunawun,,female ego's son's wife,,,,
-mWF,wuyinjin,,male ego's wife's father,,,,
-mWM,kunawun,,male ego's wife's mother,,,,
-mWB,dunja,,male ego's wife's brother,,,,"wunga = older brother of wife, tunja = younger brother of wife"
-mWZ,"yaku, kungku",,male ego's wife's sister,,,,"yaku = older sister of wife, kungku = younger sister of wife"
-fHF,karda,,female ego's husband's father,,,,
-fHM,kunawun,,female ego's husband's mother,,,,
-fHB,babe,,female ego's husband's brother,,,,
-fHZ,babe,,female ego's husband's sister,,,,
-mBW,kernde,,male ego's brother's wife,,,,
-fBW,kernde,,female ego's brother's wife,,,,
-mZH,dunja,,male ego's sister's husband,,,,
-fZH,wunga,,female ego's sister's husband,,,,
-mFBS,jembe,,male ego's father's brother's son,,,,
-mFZS,benyin,,male ego's father's sister's son,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-mMBS,jembe,jii,male ego's mother's brother's son,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-mMZS,benyin,,male ego's mother's sister's son,,,,
-mFBD,jembe,,male ego's father's brother's daughter,,,,
-mFZD,benyin,,male ego's father's sister's daughter,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-mMBD,jembe,jii,male ego's mother's brother's daughter,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-mMZD,benyin,,male ego's mother's sister's daughter,,,,
-fFBS,jembe,,female ego's father's brother's son,,,,
-fFZS,benyin,,female ego's father's sister's son,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-fMBS,jembe,,female ego's mother's brother's son,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-fMZS,benyin,,female ego's mother's sister's son,,,,
-fFBD,jembe,,female ego's father's brother's daughter,,,,
-fFZD,benyin,,female ego's father's sister's daughter,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-fMBD,jembe,,female ego's mother's brother's daughter,yurrwardin,,,yurrwardin = reference term not used between first cross cousins but more distant cross cousins
-fMZD,benyin,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","thabu","kuu","male ego's older brother","",,,""
+"myB","kungku","kuu","male ego's younger brother","",,,""
+"feB","kungku","","female ego's older brother","",,,""
+"fyB","kungku","","female ego's younger brother","",,,""
+"meZ","yaku","kuu","male ego's older sister","bunjikarnan",,,"bunjikarnan = honorific"
+"myZ","yaku","kuu","male ego's younger sister","bunjikarnan",,,"bunjikarnan = honorific"
+"feZ","yaku","","female ego's older sister","",,,""
+"fyZ","kungku","","female ego's younger sister","",,,""
+"mF","kantha","thungaa","male ego's father","",,,""
+"mM","ngama","kuu","male ego's mother","",,,""
+"fF","kantha","","female ego's father","",,,""
+"fM","ngama","","female ego's mother","",,,""
+"mS","kambin","thungaa","male ego's son","",,,""
+"fS","karda","","female ego's son","",,,""
+"mD","kambin","thungaa","male ego's daughter","",,,""
+"fD","karda","","female ego's daughter","",,,""
+"mSS","kangkur","kuu","male ego's son's son","",,,""
+"mSD","kangkur","kuu","male ego's son's daughter","",,,""
+"mDS","benyin,","jii","male ego's daughter's son","",,,""
+"mDD","benyin","jii","male ego's daughter's daughter","",,,""
+"fSS","kangkur","","female ego's son's son","",,,""
+"fSD","kangkur","","female ego's son's daughter","",,,""
+"fDS","benyin","","female ego's daughter's son","",,,""
+"fDD","benyin","","female ego's daugher's daughter","",,,""
+"mFF","kangkar","kuu","male ego's father‘s father","",,,""
+"mFM","pape","n!2a","male ego's father's mother","",,,""
+"mMF","jembe","jii","male ego's mother's father","",,,""
+"mMM","nyerre","kungaa","male ego's mother's mother","",,,""
+"fFF","kangkar","","female ego's father's father","",,,""
+"fFM","pape","","female ego's father's mother","",,,""
+"fMF","jembe","","female ego's mother's father","",,,""
+"fMM","nyerre","","female ego's mother's mother","",,,""
+"meBS","kambin","","male ego's older brother's son","",,,""
+"myBS","kambin","","male ego's younger brother's son","",,,""
+"meZS","karda","kuu","male ego's older sister's son","",,,""
+"myZS","karda","kuu","male ego's younger sister's son","",,,""
+"meBD","kambin","","male ego's older brother's daughter","",,,""
+"myBD","kambin","","male ego's younger brother's daughter","",,,""
+"meZD","karda","kuu","male ego's older sister's daughter","",,,""
+"myZD","karda","kuu","male ego's younger sister's daughter","",,,""
+"feBS","kambin","","female ego's older brother's son","",,,""
+"fyBS","kambin","","female ego's younger brother's son","",,,""
+"feZS","karta","","female ego's older sister's son","",,,""
+"fyZS","karta","","female ego's younger sister's son","",,,""
+"feBD","kambin","","female ego's older brother's daughter","",,,""
+"fyBD","kambin","","female ego's younger brother's daughter","",,,""
+"feZD","karta","","female ego's older sister's daughter","",,,""
+"fyZD","karta","","female ego's younger sister's daughter","",,,""
+"mFeB","mutha kantha","thungaa","male ego's father's older brother","",,,""
+"mFyB","kirdi kantha","thungaa","male ego's father's younger brother","",,,""
+"mFeZ","merrka","thungaa","male ego's father's older sister","",,,""
+"mFyZ","merrka","thungaa","male ego's father's younger sister","",,,""
+"mMeB","kaku","kuu","male ego's mother's older brother","",,,""
+"mMyB","kaku","kuu","male ego's mother's younger brother","",,,""
+"mMeZ","ngama","","male ego's mother's older sister","",,,""
+"mMyZ","ngama","","male ego's mother's younger sister","",,,""
+"fFeB","mutha kantha","","female ego's father's older brother","",,,""
+"fFyB","kirdi kantha","","female ego's father's younger brother","",,,""
+"fFeZ","merrka","","female ego's father's older sister","",,,""
+"fFyZ","merrka","","female ego's father's younger sister","",,,""
+"fMeB","kaku","","female ego's mother's older brother","",,,""
+"fMyB","kaku","","female ego's mother's younger brother","",,,""
+"fMeZ","ngama","","female ego's mother's older sister","",,,""
+"fMyZ","ngama","","female ego's mother's younger sister","",,,""
+"mW","kernde","","male ego's wife","",,,""
+"fH","yukarr","","female ego‘s husband","",,,""
+"mDH","wuyinjin-kaku","","male ego's daughter's husband","",,,""
+"fDH","kunawun","","female ego's daughter's husband","",,,""
+"mSW","ngama","","male ego's son's wife","",,,""
+"fSW","kunawun","","female ego's son's wife","",,,""
+"mWF","wuyinjin","","male ego's wife's father","",,,""
+"mWM","kunawun","","male ego's wife's mother","",,,""
+"mWB","dunja","","male ego's wife's brother","",,,"wunga = older brother of wife, tunja = younger brother of wife"
+"mWZ","yaku, kungku","","male ego's wife's sister","",,,"yaku = older sister of wife, kungku = younger sister of wife"
+"fHF","karda","","female ego's husband's father","",,,""
+"fHM","kunawun","","female ego's husband's mother","",,,""
+"fHB","babe","","female ego's husband's brother","",,,""
+"fHZ","babe","","female ego's husband's sister","",,,""
+"mBW","kernde","","male ego's brother's wife","",,,""
+"fBW","kernde","","female ego's brother's wife","",,,""
+"mZH","dunja","","male ego's sister's husband","",,,""
+"fZH","wunga","","female ego's sister's husband","",,,""
+"mFBS","jembe","","male ego's father's brother's son","",,,""
+"mFZS","benyin","","male ego's father's sister's son","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMBS","jembe","jii","male ego's mother's brother's son","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMZS","benyin","","male ego's mother's sister's son","",,,""
+"mFBD","jembe","","male ego's father's brother's daughter","",,,""
+"mFZD","benyin","","male ego's father's sister's daughter","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMBD","jembe","jii","male ego's mother's brother's daughter","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMZD","benyin","","male ego's mother's sister's daughter","",,,""
+"fFBS","jembe","","female ego's father's brother's son","",,,""
+"fFZS","benyin","","female ego's father's sister's son","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMBS","jembe","","female ego's mother's brother's son","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMZS","benyin","","female ego's mother's sister's son","",,,""
+"fFBD","jembe","","female ego's father's brother's daughter","",,,""
+"fFZD","benyin","","female ego's father's sister's daughter","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMBD","jembe","","female ego's mother's brother's daughter","yurrwardin",,,"yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMZD","benyin","","female ego's mother's sister's daughter","",,,""
+"mFeBS","jembe","","male ego's father's brother's son","",,,"Inferred; "
+"mFyBS","jembe","","male ego's father's brother's son","",,,"Inferred; "
+"mFeZS","benyin","","male ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mFyZS","benyin","","male ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mFeBD","jembe","","male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","jembe","","male ego's father's brother's daughter","",,,"Inferred; "
+"mFeZD","benyin","","male ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mFyZD","benyin","","male ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMeBS","jembe","jii","male ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMyBS","jembe","jii","male ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMeZS","benyin","","male ego's mother's sister's son","",,,"Inferred; "
+"mMyZS","benyin","","male ego's mother's sister's son","",,,"Inferred; "
+"mMeBD","jembe","jii","male ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMyBD","jembe","jii","male ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMeZD","benyin","","male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","benyin","","male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeS","jembe","","male ego's father's brother's son","",,,"Inferred; "
+"mFByS","jembe","","male ego's father's brother's son","",,,"Inferred; "
+"mFZeS","benyin","","male ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mFZyS","benyin","","male ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mFBeD","jembe","","male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","jembe","","male ego's father's brother's daughter","",,,"Inferred; "
+"mFZeD","benyin","","male ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mFZyD","benyin","","male ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMBeS","jembe","jii","male ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMByS","jembe","jii","male ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMZeS","benyin","","male ego's mother's sister's son","",,,"Inferred; "
+"mMZyS","benyin","","male ego's mother's sister's son","",,,"Inferred; "
+"mMBeD","jembe","jii","male ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMByD","jembe","jii","male ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"mMZeD","benyin","","male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","benyin","","male ego's mother's sister's daughter","",,,"Inferred; "
+"fFeBS","jembe","","female ego's father's brother's son","",,,"Inferred; "
+"fFyBS","jembe","","female ego's father's brother's son","",,,"Inferred; "
+"fFeZS","benyin","","female ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fFyZS","benyin","","female ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fFeBD","jembe","","female ego's father's brother's daughter","",,,"Inferred; "
+"fFyBD","jembe","","female ego's father's brother's daughter","",,,"Inferred; "
+"fFeZD","benyin","","female ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fFyZD","benyin","","female ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMeBS","jembe","","female ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMyBS","jembe","","female ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMeZS","benyin","","female ego's mother's sister's son","",,,"Inferred; "
+"fMyZS","benyin","","female ego's mother's sister's son","",,,"Inferred; "
+"fMeBD","jembe","","female ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMyBD","jembe","","female ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMeZD","benyin","","female ego's mother's sister's daughter","",,,"Inferred; "
+"fMyZD","benyin","","female ego's mother's sister's daughter","",,,"Inferred; "
+"fFBeS","jembe","","female ego's father's brother's son","",,,"Inferred; "
+"fFByS","jembe","","female ego's father's brother's son","",,,"Inferred; "
+"fFZeS","benyin","","female ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fFZyS","benyin","","female ego's father's sister's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fFBeD","jembe","","female ego's father's brother's daughter","",,,"Inferred; "
+"fFByD","jembe","","female ego's father's brother's daughter","",,,"Inferred; "
+"fFZeD","benyin","","female ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fFZyD","benyin","","female ego's father's sister's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMBeS","jembe","","female ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMByS","jembe","","female ego's mother's brother's son","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMZeS","benyin","","female ego's mother's sister's son","",,,"Inferred; "
+"fMZyS","benyin","","female ego's mother's sister's son","",,,"Inferred; "
+"fMBeD","jembe","","female ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMByD","jembe","","female ego's mother's brother's daughter","yurrwardin",,,"Inferred; yurrwardin = reference term not used between first cross cousins but more distant cross cousins"
+"fMZeD","benyin","","female ego's mother's sister's daughter","",,,"Inferred; "
+"fMZyD","benyin","","female ego's mother's sister's daughter","",,,"Inferred; "

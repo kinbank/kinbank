@@ -1,109 +1,109 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,al-len,,,,ISO10,judy_movima_2015,
-mB,al-lakʷa,,,,ISO10,judy_movima_2015,
-mZ,al-kʷeya,,,,ISO10,judy_movima_2015,
-myB,a-na,,,,ISO10,judy_movima_2015,
-myZ,a-na,,,,ISO10,judy_movima_2015,
-mF,paʔa,,,,ISO10,judy_movima_2015,
-mM,maʔa,,,,ISO10,judy_movima_2015,
-mC,mah-ni,,,,ISO10,judy_movima_2015,
-mS,mah-ni,,,,ISO10,judy_movima_2015,
-mD,mah-ni,,,,ISO10,judy_movima_2015,
-mFF,nonoʔo,,,,ISO10,judy_movima_2015,
-mFM,nonoʔo,,,,ISO10,judy_movima_2015,
-mMF,nonoʔo,,,,ISO10,judy_movima_2015,
-mMM,nonoʔo,,,,ISO10,judy_movima_2015,
-mSS,ona-čo,,,,ISO10,judy_movima_2015,
-mSD,ona-čo,,,,ISO10,judy_movima_2015,
-mDS,ona-čo,,,,ISO10,judy_movima_2015,
-mDD,ona-čo,,,,ISO10,judy_movima_2015,
-mFB,yayaʔa,,,,ISO10,judy_movima_2015,
-mFZ,aiku,,,,ISO10,judy_movima_2015,
-mMB,yayaʔa,,,,ISO10,judy_movima_2015,
-mMZ,aiku,,,,ISO10,judy_movima_2015,
-mBS,yani-kai,,,,ISO10,judy_movima_2015,
-mBD,yani-kai,,,,ISO10,judy_movima_2015,
-mZS,yani-kai,,,,ISO10,judy_movima_2015,
-mZD,yani-kai,,,,ISO10,judy_movima_2015,
-mH,al-wah,,,,ISO10,judy_movima_2015,
-mW,al-wah,,,,ISO10,judy_movima_2015,
-mHF,ul-čaɬ,,,,ISO10,judy_movima_2015,
-mHM,ul-čaɬ,,,,ISO10,judy_movima_2015,
-mWF,ul-čaɬ,,,,ISO10,judy_movima_2015,
-mWM,ul-čaɬ,,,,ISO10,judy_movima_2015,
-mSW,ul-čaɬ,,,,ISO10,judy_movima_2015,
-mSW,ul-�aɬ,,,,ISO10,judy_movima_2015,
-mDH,ul-čaɬ,,,,ISO10,judy_movima_2015,
-mDH,ul-čaɬ,,,,ISO10,judy_movima_2015,
-meB,al-lakʷa,,,,ISO10,judy_movima_2015,Inferred; NA
-meZ,al-kʷeya,,,,ISO10,judy_movima_2015,Inferred; NA
-mFeB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-mFyB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-mFeZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-mFyZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-mMeZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-mMyZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-mMeB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-mMyB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-meBS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-myBS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-meBD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-myBD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-meZS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-myZS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-meZD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-myZD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-fG,al-len,,,,ISO10,judy_movima_2015,
-fB,al-lakʷa,,,,ISO10,judy_movima_2015,
-fZ,al-kʷeya,,,,ISO10,judy_movima_2015,
-fyB,a-na,,,,ISO10,judy_movima_2015,
-fyZ,a-na,,,,ISO10,judy_movima_2015,
-fF,paʔa,,,,ISO10,judy_movima_2015,
-fM,maʔa,,,,ISO10,judy_movima_2015,
-fC,mah-ni,,,,ISO10,judy_movima_2015,
-fS,mah-ni,,,,ISO10,judy_movima_2015,
-fD,mah-ni,,,,ISO10,judy_movima_2015,
-fFF,nonoʔo,,,,ISO10,judy_movima_2015,
-fFM,nonoʔo,,,,ISO10,judy_movima_2015,
-fMF,nonoʔo,,,,ISO10,judy_movima_2015,
-fMM,nonoʔo,,,,ISO10,judy_movima_2015,
-fSS,ona-čo,,,,ISO10,judy_movima_2015,
-fSD,ona-čo,,,,ISO10,judy_movima_2015,
-fDS,ona-čo,,,,ISO10,judy_movima_2015,
-fDD,ona-čo,,,,ISO10,judy_movima_2015,
-fFB,yayaʔa,,,,ISO10,judy_movima_2015,
-fFZ,aiku,,,,ISO10,judy_movima_2015,
-fMB,yayaʔa,,,,ISO10,judy_movima_2015,
-fMZ,aiku,,,,ISO10,judy_movima_2015,
-fBS,yani-kai,,,,ISO10,judy_movima_2015,
-fBD,yani-kai,,,,ISO10,judy_movima_2015,
-fZS,yani-kai,,,,ISO10,judy_movima_2015,
-fZD,yani-kai,,,,ISO10,judy_movima_2015,
-fH,al-wah,,,,ISO10,judy_movima_2015,
-fW,al-wah,,,,ISO10,judy_movima_2015,
-fHF,ul-čaɬ,,,,ISO10,judy_movima_2015,
-fHM,ul-čaɬ,,,,ISO10,judy_movima_2015,
-fWF,ul-čaɬ,,,,ISO10,judy_movima_2015,
-fWM,ul-čaɬ,,,,ISO10,judy_movima_2015,
-fSW,ul-čaɬ,,,,ISO10,judy_movima_2015,
-fSW,ul-�aɬ,,,,ISO10,judy_movima_2015,
-fDH,ul-čaɬ,,,,ISO10,judy_movima_2015,
-fDH,ul-čaɬ,,,,ISO10,judy_movima_2015,
-feB,al-lakʷa,,,,ISO10,judy_movima_2015,Inferred; NA
-feZ,al-kʷeya,,,,ISO10,judy_movima_2015,Inferred; NA
-fFeB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-fFyB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-fFeZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-fFyZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-fMeZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-fMyZ,aiku,,,,ISO10,judy_movima_2015,Inferred; NA
-fMeB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-fMyB,yayaʔa,,,,ISO10,judy_movima_2015,Inferred; NA
-feBS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-fyBS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-feBD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-fyBD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-feZS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-fyZS,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-feZD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
-fyZD,yani-kai,,,,ISO10,judy_movima_2015,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","al-len",,,,"ISO10","judy_movima_2015",""
+"mB","al-lakʷa",,,,"ISO10","judy_movima_2015",""
+"mZ","al-kʷeya",,,,"ISO10","judy_movima_2015",""
+"myB","a-na",,,,"ISO10","judy_movima_2015",""
+"myZ","a-na",,,,"ISO10","judy_movima_2015",""
+"mF","paʔa",,,,"ISO10","judy_movima_2015",""
+"mM","maʔa",,,,"ISO10","judy_movima_2015",""
+"mC","mah-ni",,,,"ISO10","judy_movima_2015",""
+"mS","mah-ni",,,,"ISO10","judy_movima_2015",""
+"mD","mah-ni",,,,"ISO10","judy_movima_2015",""
+"mFF","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"mFM","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"mMF","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"mMM","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"mSS","ona-čo",,,,"ISO10","judy_movima_2015",""
+"mSD","ona-čo",,,,"ISO10","judy_movima_2015",""
+"mDS","ona-čo",,,,"ISO10","judy_movima_2015",""
+"mDD","ona-čo",,,,"ISO10","judy_movima_2015",""
+"mFB","yayaʔa",,,,"ISO10","judy_movima_2015",""
+"mFZ","aiku",,,,"ISO10","judy_movima_2015",""
+"mMB","yayaʔa",,,,"ISO10","judy_movima_2015",""
+"mMZ","aiku",,,,"ISO10","judy_movima_2015",""
+"mBS","yani-kai",,,,"ISO10","judy_movima_2015",""
+"mBD","yani-kai",,,,"ISO10","judy_movima_2015",""
+"mZS","yani-kai",,,,"ISO10","judy_movima_2015",""
+"mZD","yani-kai",,,,"ISO10","judy_movima_2015",""
+"mH","al-wah",,,,"ISO10","judy_movima_2015",""
+"mW","al-wah",,,,"ISO10","judy_movima_2015",""
+"mHF","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"mHM","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"mWF","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"mWM","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"mSW","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"mSW","ul-�aɬ",,,,"ISO10","judy_movima_2015",""
+"mDH","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"mDH","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"meB","al-lakʷa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"meZ","al-kʷeya",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mFeB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mFyB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mFeZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mFyZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mMeZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mMyZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mMeB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"mMyB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"meBS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"myBS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"meBD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"myBD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"meZS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"myZS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"meZD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"myZD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fG","al-len",,,,"ISO10","judy_movima_2015",""
+"fB","al-lakʷa",,,,"ISO10","judy_movima_2015",""
+"fZ","al-kʷeya",,,,"ISO10","judy_movima_2015",""
+"fyB","a-na",,,,"ISO10","judy_movima_2015",""
+"fyZ","a-na",,,,"ISO10","judy_movima_2015",""
+"fF","paʔa",,,,"ISO10","judy_movima_2015",""
+"fM","maʔa",,,,"ISO10","judy_movima_2015",""
+"fC","mah-ni",,,,"ISO10","judy_movima_2015",""
+"fS","mah-ni",,,,"ISO10","judy_movima_2015",""
+"fD","mah-ni",,,,"ISO10","judy_movima_2015",""
+"fFF","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"fFM","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"fMF","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"fMM","nonoʔo",,,,"ISO10","judy_movima_2015",""
+"fSS","ona-čo",,,,"ISO10","judy_movima_2015",""
+"fSD","ona-čo",,,,"ISO10","judy_movima_2015",""
+"fDS","ona-čo",,,,"ISO10","judy_movima_2015",""
+"fDD","ona-čo",,,,"ISO10","judy_movima_2015",""
+"fFB","yayaʔa",,,,"ISO10","judy_movima_2015",""
+"fFZ","aiku",,,,"ISO10","judy_movima_2015",""
+"fMB","yayaʔa",,,,"ISO10","judy_movima_2015",""
+"fMZ","aiku",,,,"ISO10","judy_movima_2015",""
+"fBS","yani-kai",,,,"ISO10","judy_movima_2015",""
+"fBD","yani-kai",,,,"ISO10","judy_movima_2015",""
+"fZS","yani-kai",,,,"ISO10","judy_movima_2015",""
+"fZD","yani-kai",,,,"ISO10","judy_movima_2015",""
+"fH","al-wah",,,,"ISO10","judy_movima_2015",""
+"fW","al-wah",,,,"ISO10","judy_movima_2015",""
+"fHF","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"fHM","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"fWF","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"fWM","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"fSW","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"fSW","ul-�aɬ",,,,"ISO10","judy_movima_2015",""
+"fDH","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"fDH","ul-čaɬ",,,,"ISO10","judy_movima_2015",""
+"feB","al-lakʷa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"feZ","al-kʷeya",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fFeB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fFyB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fFeZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fFyZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fMeZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fMyZ","aiku",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fMeB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fMyB","yayaʔa",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"feBS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fyBS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"feBD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fyBD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"feZS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fyZS","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"feZD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"
+"fyZD","yani-kai",,,,"ISO10","judy_movima_2015","Inferred; NA"

@@ -1,52 +1,96 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,diagu,,male ego's older brother,,,,
-myB,diagu,,male ego's younger brother,,,,
-feB,diagu,,female ego's older brother,,,,
-fyB,diagu,,female ego's younger brother,,,,
-meZ,dimafingu,,male ego's older sister,,,,taboo
-myZ,dimafingu,,male ego's younger sister,,,,taboo
-feZ,diagu,,female ego's older sister,,,,
-fyZ,diagu,,female ego's younger sister,,,,
-mF,tamang,,male ego's father,,,,
-mM,namg,,male ego's mother,,,,
-fF,tamang,,female ego's father,,,,
-fM,namg,,female ego's mother,,,,
-mS,aliksugu,,male ego's son,,,,
-fS,aliksugu,,female ego's son,,,,
-meBS,aliksugu,,male ego's older brother's son,,,,
-myBS,aliksugu,,male ego's younger brother's son,,,,
-meZS,mogorugu,,male ego's older sister's son,,,,
-myZS,mogorugu,,male ego's younger sister's son,,,,
-feBS,kogol,,female ego's older brother's son,,,,
-fyBS,kogol,,female ego's younger brother's son,,,,
-mFeB,tamang,,male ego's father's older brother,,,,
-mFyB,tamang,,male ego's father's younger brother,,,,
-mFeZ,kogol,,male ego's father's older sister,,,,
-mFyZ,kogol,,male ego's father's younger sister,,,,
-mMeB,mogorugu,,male ego's mother's older brother,,,,
-mMyB,mogorugu,,male ego's mother's younger brother,,,,
-fFeB,tamang,,female ego's father's older brother,,,,
-fFyB,tamang,,female ego's father's younger brother,,,,
-fFeZ,kogol,,female ego's father's older sister,,,,
-fFyZ,kogol,,female ego's father's younger sister,,,,
-mW,aratesegu,,male ego's wife,,,,
-fH,aratesegu,,female ego‘s husband,,,,
-mWF,aianumg,,male ego's wife's father,,,,
-mWM,kogol,,male ego's wife's mother,,,,taboo
-fHF,nenagu,,female ego's husband's father,,,,
-fHM,nenagu,,female ego's husband's mother,,,,
-mBW,"fagu, kaiasgu",,male ego's brother's wife,,,,
-fBW,"fagu, kaiasgu",,female ego's brother's wife,,,,
-mZH,fagu,,male ego's sister's husband,,,,
-fZH,fagu,,female ego's sister's husband,,,,taboo
-mFBS,diagu,,male ego's father's brother's son,,,,
-mFZS,fagu,,male ego's father's sister's son,,,,
-mMBS,fagu,,male ego's mother's brother's son,,,,
-mFBD,dimafingu,,male ego's father's brother's daughter,,,,
-mFZD,"kaiasgu, aiamung",,male ego's father's sister's daughter,,,,
-mMBD,kaiasgu,,male ego's mother's brother's daughter,,,,
-fFBS,dimafingu,,female ego's father's brother's son,,,,
-fFZS,fagu,,female ego's father's sister's son,,,,
-fMBS,fagu,,female ego's mother's brother's son,,,,
-fFZD,"kaiasgu, aiamung",,female ego's father's sister's daughter,,,,
-fMBD,"dimafingu, kaiasgu",,female ego's mother's brother's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","diagu",,"male ego's older brother",,,,""
+"myB","diagu",,"male ego's younger brother",,,,""
+"feB","diagu",,"female ego's older brother",,,,""
+"fyB","diagu",,"female ego's younger brother",,,,""
+"meZ","dimafingu",,"male ego's older sister",,,,"taboo"
+"myZ","dimafingu",,"male ego's younger sister",,,,"taboo"
+"feZ","diagu",,"female ego's older sister",,,,""
+"fyZ","diagu",,"female ego's younger sister",,,,""
+"mF","tamang",,"male ego's father",,,,""
+"mM","namg",,"male ego's mother",,,,""
+"fF","tamang",,"female ego's father",,,,""
+"fM","namg",,"female ego's mother",,,,""
+"mS","aliksugu",,"male ego's son",,,,""
+"fS","aliksugu",,"female ego's son",,,,""
+"meBS","aliksugu",,"male ego's older brother's son",,,,""
+"myBS","aliksugu",,"male ego's younger brother's son",,,,""
+"meZS","mogorugu",,"male ego's older sister's son",,,,""
+"myZS","mogorugu",,"male ego's younger sister's son",,,,""
+"feBS","kogol",,"female ego's older brother's son",,,,""
+"fyBS","kogol",,"female ego's younger brother's son",,,,""
+"mFeB","tamang",,"male ego's father's older brother",,,,""
+"mFyB","tamang",,"male ego's father's younger brother",,,,""
+"mFeZ","kogol",,"male ego's father's older sister",,,,""
+"mFyZ","kogol",,"male ego's father's younger sister",,,,""
+"mMeB","mogorugu",,"male ego's mother's older brother",,,,""
+"mMyB","mogorugu",,"male ego's mother's younger brother",,,,""
+"fFeB","tamang",,"female ego's father's older brother",,,,""
+"fFyB","tamang",,"female ego's father's younger brother",,,,""
+"fFeZ","kogol",,"female ego's father's older sister",,,,""
+"fFyZ","kogol",,"female ego's father's younger sister",,,,""
+"mW","aratesegu",,"male ego's wife",,,,""
+"fH","aratesegu",,"female ego‘s husband",,,,""
+"mWF","aianumg",,"male ego's wife's father",,,,""
+"mWM","kogol",,"male ego's wife's mother",,,,"taboo"
+"fHF","nenagu",,"female ego's husband's father",,,,""
+"fHM","nenagu",,"female ego's husband's mother",,,,""
+"mBW","fagu, kaiasgu",,"male ego's brother's wife",,,,""
+"fBW","fagu, kaiasgu",,"female ego's brother's wife",,,,""
+"mZH","fagu",,"male ego's sister's husband",,,,""
+"fZH","fagu",,"female ego's sister's husband",,,,"taboo"
+"mFBS","diagu",,"male ego's father's brother's son",,,,""
+"mFZS","fagu",,"male ego's father's sister's son",,,,""
+"mMBS","fagu",,"male ego's mother's brother's son",,,,""
+"mFBD","dimafingu",,"male ego's father's brother's daughter",,,,""
+"mFZD","kaiasgu, aiamung",,"male ego's father's sister's daughter",,,,""
+"mMBD","kaiasgu",,"male ego's mother's brother's daughter",,,,""
+"fFBS","dimafingu",,"female ego's father's brother's son",,,,""
+"fFZS","fagu",,"female ego's father's sister's son",,,,""
+"fMBS","fagu",,"female ego's mother's brother's son",,,,""
+"fFZD","kaiasgu, aiamung",,"female ego's father's sister's daughter",,,,""
+"fMBD","dimafingu, kaiasgu",,"female ego's mother's brother's daughter",,,,""
+"mFeBS","diagu",,"male ego's father's brother's son",,,,"Inferred; "
+"mFyBS","diagu",,"male ego's father's brother's son",,,,"Inferred; "
+"mFeZS","fagu",,"male ego's father's sister's son",,,,"Inferred; "
+"mFyZS","fagu",,"male ego's father's sister's son",,,,"Inferred; "
+"mFeBD","dimafingu",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFyBD","dimafingu",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFeZD","kaiasgu, aiamung",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mFyZD","kaiasgu, aiamung",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mMeBS","fagu",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMyBS","fagu",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMeBD","kaiasgu",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mMyBD","kaiasgu",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mFBeS","diagu",,"male ego's father's brother's son",,,,"Inferred; "
+"mFByS","diagu",,"male ego's father's brother's son",,,,"Inferred; "
+"mFZeS","fagu",,"male ego's father's sister's son",,,,"Inferred; "
+"mFZyS","fagu",,"male ego's father's sister's son",,,,"Inferred; "
+"mFBeD","dimafingu",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFByD","dimafingu",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFZeD","kaiasgu, aiamung",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mFZyD","kaiasgu, aiamung",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mMBeS","fagu",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMByS","fagu",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMBeD","kaiasgu",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mMByD","kaiasgu",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"fFeBS","dimafingu",,"female ego's father's brother's son",,,,"Inferred; "
+"fFyBS","dimafingu",,"female ego's father's brother's son",,,,"Inferred; "
+"fFeZS","fagu",,"female ego's father's sister's son",,,,"Inferred; "
+"fFyZS","fagu",,"female ego's father's sister's son",,,,"Inferred; "
+"fFeZD","kaiasgu, aiamung",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fFyZD","kaiasgu, aiamung",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fMeBS","fagu",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMyBS","fagu",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMeBD","dimafingu, kaiasgu",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fMyBD","dimafingu, kaiasgu",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fFBeS","dimafingu",,"female ego's father's brother's son",,,,"Inferred; "
+"fFByS","dimafingu",,"female ego's father's brother's son",,,,"Inferred; "
+"fFZeS","fagu",,"female ego's father's sister's son",,,,"Inferred; "
+"fFZyS","fagu",,"female ego's father's sister's son",,,,"Inferred; "
+"fFZeD","kaiasgu, aiamung",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fFZyD","kaiasgu, aiamung",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fMBeS","fagu",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMByS","fagu",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMBeD","dimafingu, kaiasgu",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fMByD","dimafingu, kaiasgu",,"female ego's mother's brother's daughter",,,,"Inferred; "

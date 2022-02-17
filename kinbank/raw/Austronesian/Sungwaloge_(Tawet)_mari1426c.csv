@@ -1,91 +1,155 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tua-k,tua-k,male ego's older brother,taa-k,,,
-myB,tua-k,tua-k,male ego's younger brother,tasi-k,,,
-feB,ɸindi-k,ɸindi-k,female ego's older brother,,,,
-fyB,ɸindi-k,ɸindi-k,female ego's younger brother,,,,
-meZ,ɸindi-k,ɸindi-k,male ego's older sister,,,,
-myZ,ɸindi-k,ɸindi-k,male ego's younger sister,,,,
-feZ,tua-k,tua-k,female ego's older sister,,,,
-fyZ,tua-k,tua-k,female ego's younger sister,,,,
-mF,ˈtata,ˈtata,male ego's father,,,,
-mM,ˈᵐbʷau,ˈᵐbʷau,male ego's mother,,,,
-fF,ˈtata,ˈtata,female ego's father,,,,
-fM,ˈᵐbʷau,ˈᵐbʷau,female ego's mother,,,,
-mS,natu-k,natu-k,male ego's son,,,,
-fS,natu-k,natu-k,female ego's son,,,,
-mD,natu-k,natu-k,male ego's daughter,,,,
-fD,natu-k,natu-k,female ego's daughter,,,,
-mSS,ᵐbum,ᵐbum,male ego's son's son,,,,Loan? Expect ɸuɸu too?
-mSD,ᵐbum,ᵐbum,male ego's son's daughter,,,,Loan? Expect ɸuɸu too?
-mDS,ᵐbum,ᵐbum,male ego's daughter's son,,,,Loan? Expect ɸuɸu too?
-mDD,ᵐbum,ᵐbum,male ego's daughter's daughter,,,,Loan? Expect ɸuɸu too?
-fSS,ᵐbum,ᵐbum,female ego's son's son,,,,Loan? Expect ɸuɸu too?
-fSD,ᵐbum,ᵐbum,female ego's son's daughter,,,,Loan? Expect ɸuɸu too?
-fDS,ᵐbum,ᵐbum,female ego's daughter's son,,,,Loan? Expect ɸuɸu too?
-fDD,ᵐbum,ᵐbum,female ego's daugher's daughter,,,,Loan? Expect ɸuɸu too?
-mFF,ɸuɸu,ɸuɸu,male ego's father‘s father,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-mFM,ɸuɸu,ɸuɸu,male ego's father's mother,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-mMF,ɸuɸu,ɸuɸu,male ego's mother's father,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-mMM,ɸuɸu,ɸuɸu,male ego's mother's mother,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-fFF,ɸuɸu,ɸuɸu,female ego's father's father,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-fFM,ɸuɸu,ɸuɸu,female ego's father's mother,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-fMF,ɸuɸu,ɸuɸu,female ego's mother's father,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-fMM,ɸuɸu,ɸuɸu,female ego's mother's mother,"M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,
-meBS,natu-k,natu-k,male ego's older brother's son,,,,
-myBS,natu-k,natu-k,male ego's younger brother's son,,,,
-meZS,jaloa,jaloa,male ego's older sister's son,,,,
-myZS,jaloa,jaloa,male ego's younger sister's son,,,,
-meBD,natu-k,natu-k,male ego's older brother's daughter,,,,
-myBD,natu-k,natu-k,male ego's younger brother's daughter,,,,
-meZD,jaloa,jaloa,male ego's older sister's daughter,,,,
-myZD,jaloa,jaloa,male ego's younger sister's daughter,,,,
-feBS,natu-k,natu-k,female ego's older brother's son,,,,
-fyBS,natu-k,natu-k,female ego's younger brother's son,,,,
-feZS,natu-k,natu-k,female ego's older sister's son,,,,
-fyZS,natu-k,natu-k,female ego's younger sister's son,,,,
-feBD,natu-k,natu-k,female ego's older brother's daughter,,,,
-fyBD,natu-k,natu-k,female ego's younger brother's daughter,,,,
-feZD,natu-k,natu-k,female ego's older sister's daughter,,,,
-fyZD,natu-k,natu-k,female ego's younger sister's daughter,,,,
-mFeB,ˈtata,ˈtata,male ego's father's older brother,,,,
-mFyB,ˈtata,ˈtata,male ego's father's younger brother,,,,
-mFeZ,ˈraβe ˈkuru,ˈraβe ˈkuru,male ego's father's older sister,,,,
-mFyZ,ˈraβe ˈkuru,ˈraβe ˈkuru,male ego's father's younger sister,,,,
-mMeB,mamou,mamou,male ego's mother's older brother,,,,
-mMyB,mamou,mamou,male ego's mother's younger brother,,,,
-mMeZ,ˈᵐbʷau,ˈᵐbʷau,male ego's mother's older sister,,,,
-mMyZ,ˈᵐbʷau,ˈᵐbʷau,male ego's mother's younger sister,,,,
-fFeB,ˈtata,ˈtata,female ego's father's older brother,,,,
-fFyB,ˈtata,ˈtata,female ego's father's younger brother,,,,
-fFeZ,raβe,raβe,female ego's father's older sister,,,,
-fFyZ,raβe,raβe,female ego's father's younger sister,,,,
-fMeB,mamou,mamou,female ego's mother's older brother,,,,
-fMyB,mamou,mamou,female ego's mother's younger brother,,,,
-fMeZ,ˈᵐbʷau,ˈᵐbʷau,female ego's mother's older sister,,,,
-fMyZ,ˈᵐbʷau,ˈᵐbʷau,female ego's mother's younger sister,,,,
-mW,reinatu-k,reinatu-k,male ego's wife,,,,
-fH,tuᵐbu-k,tuᵐbu-k,female ego‘s husband,,,,
-mDH,ᵐbʷalɣa,ᵐbʷalɣa,male ego's daughter's husband,,,,
-fDH,ᵐbʷalɣa,ᵐbʷalɣa,female ego's daughter's husband,,,,
-mSW,raᵐbʷalɣa,raᵐbʷalɣa,male ego's son's wife,,,,
-fSW,raᵐbʷalɣa,raᵐbʷalɣa,female ego's son's wife,,,,
-mWF,ᵐbʷalɣa,ᵐbʷalɣa,male ego's wife's father,,,,
-mWM,raᵐbʷalɣa,raᵐbʷalɣa,male ego's wife's mother,,,,
-fHF,ᵐbʷalɣa,ᵐbʷalɣa,female ego's husband's father,,,,
-fHM,raᵐbʷalɣa,raᵐbʷalɣa,female ego's husband's mother,,,,
-mFBS,tua-k,tua-k,male ego's father's brother's son,,,,
-mFZS,tumtum,tumtum,male ego's father's sister's son,,,,
-mMBS,tumtum,tumtum,male ego's mother's brother's son,,,,
-mMZS,tua-k,tua-k,male ego's mother's sister's son,,,,
-mFBD,ɸindik,ɸindik,male ego's father's brother's daughter,,,,
-mFZD,tumtum,tumtum,male ego's father's sister's daughter,,,,
-mMBD,tumtum,tumtum,male ego's mother's brother's daughter,,,,
-mMZD,ɸindi-k,ɸindi-k,male ego's mother's sister's daughter,,,,
-fFBS,ɸindi-k,ɸindi-k,female ego's father's brother's son,,,,
-fFZS,tumtum,tumtum,female ego's father's sister's son,,,,
-fMBS,tumtum,tumtum,female ego's mother's brother's son,,,,
-fMZS,ɸindi-k,ɸindi-k,female ego's mother's sister's son,,,,
-fFBD,tua-k,tua-k,female ego's father's brother's daughter,,,,
-fFZD,tumtum,tumtum,female ego's father's sister's daughter,,,,
-fMBD,tumtum,tumtum,female ego's mother's brother's daughter,,,,
-fMZD,tua-k,tua-k,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tua-k","tua-k","male ego's older brother","taa-k",,,""
+"myB","tua-k","tua-k","male ego's younger brother","tasi-k",,,""
+"feB","ɸindi-k","ɸindi-k","female ego's older brother","",,,""
+"fyB","ɸindi-k","ɸindi-k","female ego's younger brother","",,,""
+"meZ","ɸindi-k","ɸindi-k","male ego's older sister","",,,""
+"myZ","ɸindi-k","ɸindi-k","male ego's younger sister","",,,""
+"feZ","tua-k","tua-k","female ego's older sister","",,,""
+"fyZ","tua-k","tua-k","female ego's younger sister","",,,""
+"mF","ˈtata","ˈtata","male ego's father","",,,""
+"mM","ˈᵐbʷau","ˈᵐbʷau","male ego's mother","",,,""
+"fF","ˈtata","ˈtata","female ego's father","",,,""
+"fM","ˈᵐbʷau","ˈᵐbʷau","female ego's mother","",,,""
+"mS","natu-k","natu-k","male ego's son","",,,""
+"fS","natu-k","natu-k","female ego's son","",,,""
+"mD","natu-k","natu-k","male ego's daughter","",,,""
+"fD","natu-k","natu-k","female ego's daughter","",,,""
+"mSS","ᵐbum","ᵐbum","male ego's son's son","",,,"Loan? Expect ɸuɸu too?"
+"mSD","ᵐbum","ᵐbum","male ego's son's daughter","",,,"Loan? Expect ɸuɸu too?"
+"mDS","ᵐbum","ᵐbum","male ego's daughter's son","",,,"Loan? Expect ɸuɸu too?"
+"mDD","ᵐbum","ᵐbum","male ego's daughter's daughter","",,,"Loan? Expect ɸuɸu too?"
+"fSS","ᵐbum","ᵐbum","female ego's son's son","",,,"Loan? Expect ɸuɸu too?"
+"fSD","ᵐbum","ᵐbum","female ego's son's daughter","",,,"Loan? Expect ɸuɸu too?"
+"fDS","ᵐbum","ᵐbum","female ego's daughter's son","",,,"Loan? Expect ɸuɸu too?"
+"fDD","ᵐbum","ᵐbum","female ego's daugher's daughter","",,,"Loan? Expect ɸuɸu too?"
+"mFF","ɸuɸu","ɸuɸu","male ego's father‘s father","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"mFM","ɸuɸu","ɸuɸu","male ego's father's mother","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"mMF","ɸuɸu","ɸuɸu","male ego's mother's father","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"mMM","ɸuɸu","ɸuɸu","male ego's mother's mother","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"fFF","ɸuɸu","ɸuɸu","female ego's father's father","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"fFM","ɸuɸu","ɸuɸu","female ego's father's mother","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"fMF","ɸuɸu","ɸuɸu","female ego's mother's father","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"fMM","ɸuɸu","ɸuɸu","female ego's mother's mother","M specified with postposed adjective mʷereta 'man',   F with ɸaɸine 'woman'",,,""
+"meBS","natu-k","natu-k","male ego's older brother's son","",,,""
+"myBS","natu-k","natu-k","male ego's younger brother's son","",,,""
+"meZS","jaloa","jaloa","male ego's older sister's son","",,,""
+"myZS","jaloa","jaloa","male ego's younger sister's son","",,,""
+"meBD","natu-k","natu-k","male ego's older brother's daughter","",,,""
+"myBD","natu-k","natu-k","male ego's younger brother's daughter","",,,""
+"meZD","jaloa","jaloa","male ego's older sister's daughter","",,,""
+"myZD","jaloa","jaloa","male ego's younger sister's daughter","",,,""
+"feBS","natu-k","natu-k","female ego's older brother's son","",,,""
+"fyBS","natu-k","natu-k","female ego's younger brother's son","",,,""
+"feZS","natu-k","natu-k","female ego's older sister's son","",,,""
+"fyZS","natu-k","natu-k","female ego's younger sister's son","",,,""
+"feBD","natu-k","natu-k","female ego's older brother's daughter","",,,""
+"fyBD","natu-k","natu-k","female ego's younger brother's daughter","",,,""
+"feZD","natu-k","natu-k","female ego's older sister's daughter","",,,""
+"fyZD","natu-k","natu-k","female ego's younger sister's daughter","",,,""
+"mFeB","ˈtata","ˈtata","male ego's father's older brother","",,,""
+"mFyB","ˈtata","ˈtata","male ego's father's younger brother","",,,""
+"mFeZ","ˈraβe ˈkuru","ˈraβe ˈkuru","male ego's father's older sister","",,,""
+"mFyZ","ˈraβe ˈkuru","ˈraβe ˈkuru","male ego's father's younger sister","",,,""
+"mMeB","mamou","mamou","male ego's mother's older brother","",,,""
+"mMyB","mamou","mamou","male ego's mother's younger brother","",,,""
+"mMeZ","ˈᵐbʷau","ˈᵐbʷau","male ego's mother's older sister","",,,""
+"mMyZ","ˈᵐbʷau","ˈᵐbʷau","male ego's mother's younger sister","",,,""
+"fFeB","ˈtata","ˈtata","female ego's father's older brother","",,,""
+"fFyB","ˈtata","ˈtata","female ego's father's younger brother","",,,""
+"fFeZ","raβe","raβe","female ego's father's older sister","",,,""
+"fFyZ","raβe","raβe","female ego's father's younger sister","",,,""
+"fMeB","mamou","mamou","female ego's mother's older brother","",,,""
+"fMyB","mamou","mamou","female ego's mother's younger brother","",,,""
+"fMeZ","ˈᵐbʷau","ˈᵐbʷau","female ego's mother's older sister","",,,""
+"fMyZ","ˈᵐbʷau","ˈᵐbʷau","female ego's mother's younger sister","",,,""
+"mW","reinatu-k","reinatu-k","male ego's wife","",,,""
+"fH","tuᵐbu-k","tuᵐbu-k","female ego‘s husband","",,,""
+"mDH","ᵐbʷalɣa","ᵐbʷalɣa","male ego's daughter's husband","",,,""
+"fDH","ᵐbʷalɣa","ᵐbʷalɣa","female ego's daughter's husband","",,,""
+"mSW","raᵐbʷalɣa","raᵐbʷalɣa","male ego's son's wife","",,,""
+"fSW","raᵐbʷalɣa","raᵐbʷalɣa","female ego's son's wife","",,,""
+"mWF","ᵐbʷalɣa","ᵐbʷalɣa","male ego's wife's father","",,,""
+"mWM","raᵐbʷalɣa","raᵐbʷalɣa","male ego's wife's mother","",,,""
+"fHF","ᵐbʷalɣa","ᵐbʷalɣa","female ego's husband's father","",,,""
+"fHM","raᵐbʷalɣa","raᵐbʷalɣa","female ego's husband's mother","",,,""
+"mFBS","tua-k","tua-k","male ego's father's brother's son","",,,""
+"mFZS","tumtum","tumtum","male ego's father's sister's son","",,,""
+"mMBS","tumtum","tumtum","male ego's mother's brother's son","",,,""
+"mMZS","tua-k","tua-k","male ego's mother's sister's son","",,,""
+"mFBD","ɸindik","ɸindik","male ego's father's brother's daughter","",,,""
+"mFZD","tumtum","tumtum","male ego's father's sister's daughter","",,,""
+"mMBD","tumtum","tumtum","male ego's mother's brother's daughter","",,,""
+"mMZD","ɸindi-k","ɸindi-k","male ego's mother's sister's daughter","",,,""
+"fFBS","ɸindi-k","ɸindi-k","female ego's father's brother's son","",,,""
+"fFZS","tumtum","tumtum","female ego's father's sister's son","",,,""
+"fMBS","tumtum","tumtum","female ego's mother's brother's son","",,,""
+"fMZS","ɸindi-k","ɸindi-k","female ego's mother's sister's son","",,,""
+"fFBD","tua-k","tua-k","female ego's father's brother's daughter","",,,""
+"fFZD","tumtum","tumtum","female ego's father's sister's daughter","",,,""
+"fMBD","tumtum","tumtum","female ego's mother's brother's daughter","",,,""
+"fMZD","tua-k","tua-k","female ego's mother's sister's daughter","",,,""
+"mFeBS","tua-k","tua-k","male ego's father's brother's son","",,,"Inferred; "
+"mFyBS","tua-k","tua-k","male ego's father's brother's son","",,,"Inferred; "
+"mFeZS","tumtum","tumtum","male ego's father's sister's son","",,,"Inferred; "
+"mFyZS","tumtum","tumtum","male ego's father's sister's son","",,,"Inferred; "
+"mFeBD","ɸindik","ɸindik","male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","ɸindik","ɸindik","male ego's father's brother's daughter","",,,"Inferred; "
+"mFeZD","tumtum","tumtum","male ego's father's sister's daughter","",,,"Inferred; "
+"mFyZD","tumtum","tumtum","male ego's father's sister's daughter","",,,"Inferred; "
+"mMeBS","tumtum","tumtum","male ego's mother's brother's son","",,,"Inferred; "
+"mMyBS","tumtum","tumtum","male ego's mother's brother's son","",,,"Inferred; "
+"mMeZS","tua-k","tua-k","male ego's mother's sister's son","",,,"Inferred; "
+"mMyZS","tua-k","tua-k","male ego's mother's sister's son","",,,"Inferred; "
+"mMeBD","tumtum","tumtum","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","tumtum","tumtum","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMeZD","ɸindi-k","ɸindi-k","male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","ɸindi-k","ɸindi-k","male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeS","tua-k","tua-k","male ego's father's brother's son","",,,"Inferred; "
+"mFByS","tua-k","tua-k","male ego's father's brother's son","",,,"Inferred; "
+"mFZeS","tumtum","tumtum","male ego's father's sister's son","",,,"Inferred; "
+"mFZyS","tumtum","tumtum","male ego's father's sister's son","",,,"Inferred; "
+"mFBeD","ɸindik","ɸindik","male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","ɸindik","ɸindik","male ego's father's brother's daughter","",,,"Inferred; "
+"mFZeD","tumtum","tumtum","male ego's father's sister's daughter","",,,"Inferred; "
+"mFZyD","tumtum","tumtum","male ego's father's sister's daughter","",,,"Inferred; "
+"mMBeS","tumtum","tumtum","male ego's mother's brother's son","",,,"Inferred; "
+"mMByS","tumtum","tumtum","male ego's mother's brother's son","",,,"Inferred; "
+"mMZeS","tua-k","tua-k","male ego's mother's sister's son","",,,"Inferred; "
+"mMZyS","tua-k","tua-k","male ego's mother's sister's son","",,,"Inferred; "
+"mMBeD","tumtum","tumtum","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","tumtum","tumtum","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMZeD","ɸindi-k","ɸindi-k","male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","ɸindi-k","ɸindi-k","male ego's mother's sister's daughter","",,,"Inferred; "
+"fFeBS","ɸindi-k","ɸindi-k","female ego's father's brother's son","",,,"Inferred; "
+"fFyBS","ɸindi-k","ɸindi-k","female ego's father's brother's son","",,,"Inferred; "
+"fFeZS","tumtum","tumtum","female ego's father's sister's son","",,,"Inferred; "
+"fFyZS","tumtum","tumtum","female ego's father's sister's son","",,,"Inferred; "
+"fFeBD","tua-k","tua-k","female ego's father's brother's daughter","",,,"Inferred; "
+"fFyBD","tua-k","tua-k","female ego's father's brother's daughter","",,,"Inferred; "
+"fFeZD","tumtum","tumtum","female ego's father's sister's daughter","",,,"Inferred; "
+"fFyZD","tumtum","tumtum","female ego's father's sister's daughter","",,,"Inferred; "
+"fMeBS","tumtum","tumtum","female ego's mother's brother's son","",,,"Inferred; "
+"fMyBS","tumtum","tumtum","female ego's mother's brother's son","",,,"Inferred; "
+"fMeZS","ɸindi-k","ɸindi-k","female ego's mother's sister's son","",,,"Inferred; "
+"fMyZS","ɸindi-k","ɸindi-k","female ego's mother's sister's son","",,,"Inferred; "
+"fMeBD","tumtum","tumtum","female ego's mother's brother's daughter","",,,"Inferred; "
+"fMyBD","tumtum","tumtum","female ego's mother's brother's daughter","",,,"Inferred; "
+"fMeZD","tua-k","tua-k","female ego's mother's sister's daughter","",,,"Inferred; "
+"fMyZD","tua-k","tua-k","female ego's mother's sister's daughter","",,,"Inferred; "
+"fFBeS","ɸindi-k","ɸindi-k","female ego's father's brother's son","",,,"Inferred; "
+"fFByS","ɸindi-k","ɸindi-k","female ego's father's brother's son","",,,"Inferred; "
+"fFZeS","tumtum","tumtum","female ego's father's sister's son","",,,"Inferred; "
+"fFZyS","tumtum","tumtum","female ego's father's sister's son","",,,"Inferred; "
+"fFBeD","tua-k","tua-k","female ego's father's brother's daughter","",,,"Inferred; "
+"fFByD","tua-k","tua-k","female ego's father's brother's daughter","",,,"Inferred; "
+"fFZeD","tumtum","tumtum","female ego's father's sister's daughter","",,,"Inferred; "
+"fFZyD","tumtum","tumtum","female ego's father's sister's daughter","",,,"Inferred; "
+"fMBeS","tumtum","tumtum","female ego's mother's brother's son","",,,"Inferred; "
+"fMByS","tumtum","tumtum","female ego's mother's brother's son","",,,"Inferred; "
+"fMZeS","ɸindi-k","ɸindi-k","female ego's mother's sister's son","",,,"Inferred; "
+"fMZyS","ɸindi-k","ɸindi-k","female ego's mother's sister's son","",,,"Inferred; "
+"fMBeD","tumtum","tumtum","female ego's mother's brother's daughter","",,,"Inferred; "
+"fMByD","tumtum","tumtum","female ego's mother's brother's daughter","",,,"Inferred; "
+"fMZeD","tua-k","tua-k","female ego's mother's sister's daughter","",,,"Inferred; "
+"fMZyD","tua-k","tua-k","female ego's mother's sister's daughter","",,,"Inferred; "

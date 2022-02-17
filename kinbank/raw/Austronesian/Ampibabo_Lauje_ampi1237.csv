@@ -1,89 +1,153 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,sia'ang,,male ego's older brother,,,,
-myB,tuai,,male ego's younger brother,,,,
-feB,sia'ang,,female ego's older brother,,,,
-fyB,tuai,,female ego's younger brother,,,,
-meZ,sia'ang,,male ego's older sister,,,,
-myZ,tuai,,male ego's younger sister,,,,
-feZ,sia'ang,,female ego's older sister,,,,
-fyZ,tuai,,female ego's younger sister,,,,
-mF,siama,,male ego's father,,,,
-mM,siina,,male ego's mother,,,,
-fF,siama,,female ego's father,,,,
-fM,siina,,female ego's mother,,,,
-mS,unga,,male ego's son,,,,
-fS,unga,,female ego's son,,,,
-mD,unga,,male ego's daughter,,,,
-fD,unga,,female ego's daughter,,,,
-mSS,"mo'opu -nyo, moupu",,male ego's son's son,,,,
-mSD,"mo'opu -nyo, moupu",,male ego's son's daughter,,,,
-mDS,"mo'opu -nyo, moupu",,male ego's daughter's son,,,,
-mDD,"mo'opu -nyo, moupu",,male ego's daughter's daughter,,,,
-fSS,"mo'opu -nyo, moupu",,female ego's son's son,,,,
-fSD,"mo'opu -nyo, moupu",,female ego's son's daughter,,,,
-fDS,"mo'opu -nyo, moupu",,female ego's daughter's son,,,,
-fDD,"mo'opu -nyo, moupu",,female ego's daugher's daughter,,,,
-mFF,silangkai,,male ego's father‘s father,,,,
-mFM,siopu,,male ego's father's mother,,,,
-mMF,silangkai,,male ego's mother's father,,,,
-mMM,siopu,,male ego's mother's mother,,,,
-fFF,silangkai,,female ego's father's father,,,,
-fFM,siopu,,female ego's father's mother,,,,
-fMF,silangkai,,female ego's mother's father,,,,
-fMM,siopu,,female ego's mother's mother,,,,
-meBS,ponungao,,male ego's older brother's son,,,,
-myBS,ponungao,,male ego's younger brother's son,,,,
-meZS,ponungao,,male ego's older sister's son,,,,
-myZS,ponungao,,male ego's younger sister's son,,,,
-meBD,ponungao,,male ego's older brother's daughter,,,,
-myBD,ponungao,,male ego's younger brother's daughter,,,,
-meZD,ponungao,,male ego's older sister's daughter,,,,
-myZD,ponungao,,male ego's younger sister's daughter,,,,
-feBS,ponungao,,female ego's older brother's son,,,,
-fyBS,ponungao,,female ego's younger brother's son,,,,
-feZS,ponungao,,female ego's older sister's son,,,,
-fyZS,ponungao,,female ego's younger sister's son,,,,
-feBD,ponungao,,female ego's older brother's daughter,,,,
-fyBD,ponungao,,female ego's younger brother's daughter,,,,
-feZD,ponungao,,female ego's older sister's daughter,,,,
-fyZD,ponungao,,female ego's younger sister's daughter,,,,
-mFeB,"somama' -onyo, posiamao -nyo",,male ego's father's older brother,,,,
-mFyB,"somama' -onyo, posiamao -nyo",,male ego's father's younger brother,,,,
-mFeZ,"sitete, posinao",,male ego's father's older sister,,,,
-mFyZ,"sitete, posinao",,male ego's father's younger sister,,,,
-mMeB,"somama' -onyo, posiamao -nyo",,male ego's mother's older brother,,,,
-mMyB,"somama' -onyo, posiamao -nyo",,male ego's mother's younger brother,,,,
-mMeZ,"sitete, posinao",,male ego's mother's older sister,,,,
-mMyZ,"sitete, posinao",,male ego's mother's younger sister,,,,
-fFeB,"somama' -onyo, posiamao -nyo",,female ego's father's older brother,,,,
-fFyB,"somama' -onyo, posiamao -nyo",,female ego's father's younger brother,,,,
-fFeZ,"sitete, posinao",,female ego's father's older sister,,,,
-fFyZ,"sitete, posinao",,female ego's father's younger sister,,,,
-fMeB,"somama' -onyo, posiamao -nyo",,female ego's mother's older brother,,,,
-fMyB,"somama' -onyo, posiamao -nyo",,female ego's mother's younger brother,,,,
-fMeZ,"sitete, posinao",,female ego's mother's older sister,,,,
-fMyZ,"sitete, posinao",,female ego's mother's younger sister,,,,
-mWF,memeniang,,male ego's wife's father,,,,
-mWM,memeniang,,male ego's wife's mother,,,,
-mWB,ipag,,male ego's wife's brother,,,,
-fHF,memeniang,,female ego's husband's father,,,,
-fHM,memeniang,,female ego's husband's mother,,,,
-fHB,ipag,,female ego's husband's brother,,,,
-mZH,ipag,,male ego's sister's husband,,,,
-fZH,ipag,,female ego's sister's husband,,,,
-mFBS,"lulus sangaing, lulus uongkaing",,male ego's father's brother's son,,,,
-mFZS,"lulus sangaing, lulus uongkaing",,male ego's father's sister's son,,,,
-mMBS,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's son,,,,
-mMZS,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's son,,,,
-mFBD,"lulus sangaing, lulus uongkaing",,male ego's father's brother's daughter,,,,
-mFZD,"lulus sangaing, lulus uongkaing",,male ego's father's sister's daughter,,,,
-mMBD,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's daughter,,,,
-mMZD,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's daughter,,,,
-fFBS,"lulus sangaing, lulus uongkaing",,female ego's father's brother's son,,,,
-fFZS,"lulus sangaing, lulus uongkaing",,female ego's father's sister's son,,,,
-fMBS,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's son,,,,
-fMZS,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's son,,,,
-fFBD,"lulus sangaing, lulus uongkaing",,female ego's father's brother's daughter,,,,
-fFZD,"lulus sangaing, lulus uongkaing",,female ego's father's sister's daughter,,,,
-fMBD,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's daughter,,,,
-fMZD,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","sia'ang",,"male ego's older brother",,,,
+"myB","tuai",,"male ego's younger brother",,,,
+"feB","sia'ang",,"female ego's older brother",,,,
+"fyB","tuai",,"female ego's younger brother",,,,
+"meZ","sia'ang",,"male ego's older sister",,,,
+"myZ","tuai",,"male ego's younger sister",,,,
+"feZ","sia'ang",,"female ego's older sister",,,,
+"fyZ","tuai",,"female ego's younger sister",,,,
+"mF","siama",,"male ego's father",,,,
+"mM","siina",,"male ego's mother",,,,
+"fF","siama",,"female ego's father",,,,
+"fM","siina",,"female ego's mother",,,,
+"mS","unga",,"male ego's son",,,,
+"fS","unga",,"female ego's son",,,,
+"mD","unga",,"male ego's daughter",,,,
+"fD","unga",,"female ego's daughter",,,,
+"mSS","mo'opu -nyo, moupu",,"male ego's son's son",,,,
+"mSD","mo'opu -nyo, moupu",,"male ego's son's daughter",,,,
+"mDS","mo'opu -nyo, moupu",,"male ego's daughter's son",,,,
+"mDD","mo'opu -nyo, moupu",,"male ego's daughter's daughter",,,,
+"fSS","mo'opu -nyo, moupu",,"female ego's son's son",,,,
+"fSD","mo'opu -nyo, moupu",,"female ego's son's daughter",,,,
+"fDS","mo'opu -nyo, moupu",,"female ego's daughter's son",,,,
+"fDD","mo'opu -nyo, moupu",,"female ego's daugher's daughter",,,,
+"mFF","silangkai",,"male ego's father‘s father",,,,
+"mFM","siopu",,"male ego's father's mother",,,,
+"mMF","silangkai",,"male ego's mother's father",,,,
+"mMM","siopu",,"male ego's mother's mother",,,,
+"fFF","silangkai",,"female ego's father's father",,,,
+"fFM","siopu",,"female ego's father's mother",,,,
+"fMF","silangkai",,"female ego's mother's father",,,,
+"fMM","siopu",,"female ego's mother's mother",,,,
+"meBS","ponungao",,"male ego's older brother's son",,,,
+"myBS","ponungao",,"male ego's younger brother's son",,,,
+"meZS","ponungao",,"male ego's older sister's son",,,,
+"myZS","ponungao",,"male ego's younger sister's son",,,,
+"meBD","ponungao",,"male ego's older brother's daughter",,,,
+"myBD","ponungao",,"male ego's younger brother's daughter",,,,
+"meZD","ponungao",,"male ego's older sister's daughter",,,,
+"myZD","ponungao",,"male ego's younger sister's daughter",,,,
+"feBS","ponungao",,"female ego's older brother's son",,,,
+"fyBS","ponungao",,"female ego's younger brother's son",,,,
+"feZS","ponungao",,"female ego's older sister's son",,,,
+"fyZS","ponungao",,"female ego's younger sister's son",,,,
+"feBD","ponungao",,"female ego's older brother's daughter",,,,
+"fyBD","ponungao",,"female ego's younger brother's daughter",,,,
+"feZD","ponungao",,"female ego's older sister's daughter",,,,
+"fyZD","ponungao",,"female ego's younger sister's daughter",,,,
+"mFeB","somama' -onyo, posiamao -nyo",,"male ego's father's older brother",,,,
+"mFyB","somama' -onyo, posiamao -nyo",,"male ego's father's younger brother",,,,
+"mFeZ","sitete, posinao",,"male ego's father's older sister",,,,
+"mFyZ","sitete, posinao",,"male ego's father's younger sister",,,,
+"mMeB","somama' -onyo, posiamao -nyo",,"male ego's mother's older brother",,,,
+"mMyB","somama' -onyo, posiamao -nyo",,"male ego's mother's younger brother",,,,
+"mMeZ","sitete, posinao",,"male ego's mother's older sister",,,,
+"mMyZ","sitete, posinao",,"male ego's mother's younger sister",,,,
+"fFeB","somama' -onyo, posiamao -nyo",,"female ego's father's older brother",,,,
+"fFyB","somama' -onyo, posiamao -nyo",,"female ego's father's younger brother",,,,
+"fFeZ","sitete, posinao",,"female ego's father's older sister",,,,
+"fFyZ","sitete, posinao",,"female ego's father's younger sister",,,,
+"fMeB","somama' -onyo, posiamao -nyo",,"female ego's mother's older brother",,,,
+"fMyB","somama' -onyo, posiamao -nyo",,"female ego's mother's younger brother",,,,
+"fMeZ","sitete, posinao",,"female ego's mother's older sister",,,,
+"fMyZ","sitete, posinao",,"female ego's mother's younger sister",,,,
+"mWF","memeniang",,"male ego's wife's father",,,,
+"mWM","memeniang",,"male ego's wife's mother",,,,
+"mWB","ipag",,"male ego's wife's brother",,,,
+"fHF","memeniang",,"female ego's husband's father",,,,
+"fHM","memeniang",,"female ego's husband's mother",,,,
+"fHB","ipag",,"female ego's husband's brother",,,,
+"mZH","ipag",,"male ego's sister's husband",,,,
+"fZH","ipag",,"female ego's sister's husband",,,,
+"mFBS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,,
+"mFZS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,,
+"mMBS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,,
+"mMZS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,,
+"mFBD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,,
+"mFZD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,,
+"mMBD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,,
+"mMZD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,,
+"fFBS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,,
+"fFZS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,,
+"fMBS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,,
+"fMZS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,,
+"fFBD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,,
+"fFZD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,,
+"fMBD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,,
+"fMZD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,,
+"mFeBS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

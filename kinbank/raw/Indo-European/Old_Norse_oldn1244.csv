@@ -1,161 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,brōðir,,,,IE997,westvik_old_2015,
-mZ,systir,,,,IE997,westvik_old_2015,
-mF,faðir,,,,IE997,westvik_old_2015,
-mM,mōðir,,,,IE997,westvik_old_2015,
-mS,sunr,,,,IE997,westvik_old_2015,
-mS,sonr,,,,IE997,westvik_old_2015,
-mD,dōttir,,,,IE997,westvik_old_2015,
-mFF,foður-faðir,,,,IE997,westvik_old_2015,
-mFF,afi,,,,IE997,westvik_old_2015,
-mFM,foður-mōðir,,,,IE997,westvik_old_2015,
-mFM,amma,,,,IE997,westvik_old_2015,
-mMF,mōður-faðir,,,,IE997,westvik_old_2015,
-mMF,afi,,,,IE997,westvik_old_2015,
-mMM,mōður-mōðir,,,,IE997,westvik_old_2015,
-mMM,amma,,,,IE997,westvik_old_2015,
-mSS,sonar-sonr,,,,IE997,westvik_old_2015,
-mSD,sonar-dōttur,,,,IE997,westvik_old_2015,sonar-dōttir
-mDS,dōttur-sonr,,,,IE997,westvik_old_2015,
-mDD,dōttur-dōttir,,,,IE997,westvik_old_2015,
-mFB,foður-brōðir,,,,IE997,westvik_old_2015,
-mFZ,foður-systir,,,,IE997,westvik_old_2015,
-mMB,mōður-brōðir,,,,IE997,westvik_old_2015,
-mMZ,mōðir-systir,,,,IE997,westvik_old_2015,
-mBS,nefi,,,,IE997,westvik_old_2015,
-mBD,nipt,,,,IE997,westvik_old_2015,
-mZS,nefi,,,,IE997,westvik_old_2015,
-mZD,nipt,,,,IE997,westvik_old_2015,
-mFBD,brœðrunga,,,,IE997,westvik_old_2015,
-mMZD,systrunga,,,,IE997,westvik_old_2015,
-mFBS,brœðrungr,,,,IE997,westvik_old_2015,
-mMZS,systrungr,,,,IE997,westvik_old_2015,
-mH,verr,,,,IE997,westvik_old_2015,
-mH,maðr,,,,IE997,westvik_old_2015,
-mH,hūs-bōndi,,,,IE997,westvik_old_2015,
-mW,kona,,,,IE997,westvik_old_2015,
-mW,kvān,,,,IE997,westvik_old_2015,
-mHF,verfaðir,,,,IE997,westvik_old_2015,
-mHM,vermōðir,,,,IE997,westvik_old_2015,
-mWF,māgr,,,,IE997,westvik_old_2015,
-mWM,svœ̄ra,,,,IE997,westvik_old_2015,
-mWM,māgkona,,,,IE997,westvik_old_2015,
-mSW,snor,,,,IE997,westvik_old_2015,
-mSW,māgkona,,,,IE997,westvik_old_2015,
-mDH,māgr,,,,IE997,westvik_old_2015,
-meB,brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-myB,brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-meZ,systir,,,,IE997,westvik_old_2015,Inferred; NA
-myZ,systir,,,,IE997,westvik_old_2015,Inferred; NA
-mFeB,foður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-mFyB,foður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-mFeZ,foður-systir,,,,IE997,westvik_old_2015,Inferred; NA
-mFyZ,foður-systir,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZ,mōðir-systir,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZ,mōðir-systir,,,,IE997,westvik_old_2015,Inferred; NA
-mMeB,mōður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-mMyB,mōður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-meBS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-myBS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-meBD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-myBD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-meZS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-myZS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-meZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-myZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFeBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFyBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMeZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMyZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFByS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mFBeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mFByD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-mMZeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-mMZyD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fB,brōðir,,,,IE997,westvik_old_2015,
-fZ,systir,,,,IE997,westvik_old_2015,
-fF,faðir,,,,IE997,westvik_old_2015,
-fM,mōðir,,,,IE997,westvik_old_2015,
-fS,sunr,,,,IE997,westvik_old_2015,
-fS,sonr,,,,IE997,westvik_old_2015,
-fD,dōttir,,,,IE997,westvik_old_2015,
-fFF,foður-faðir,,,,IE997,westvik_old_2015,
-fFF,afi,,,,IE997,westvik_old_2015,
-fFM,foður-mōðir,,,,IE997,westvik_old_2015,
-fFM,amma,,,,IE997,westvik_old_2015,
-fMF,mōður-faðir,,,,IE997,westvik_old_2015,
-fMF,afi,,,,IE997,westvik_old_2015,
-fMM,mōður-mōðir,,,,IE997,westvik_old_2015,
-fMM,amma,,,,IE997,westvik_old_2015,
-fSS,sonar-sonr,,,,IE997,westvik_old_2015,
-fSD,sonar-dōttur,,,,IE997,westvik_old_2015,sonar-dōttir
-fDS,dōttur-sonr,,,,IE997,westvik_old_2015,
-fDD,dōttur-dōttir,,,,IE997,westvik_old_2015,
-fFB,foður-brōðir,,,,IE997,westvik_old_2015,
-fFZ,foður-systir,,,,IE997,westvik_old_2015,
-fMB,mōður-brōðir,,,,IE997,westvik_old_2015,
-fMZ,mōðir-systir,,,,IE997,westvik_old_2015,
-fBS,nefi,,,,IE997,westvik_old_2015,
-fBD,nipt,,,,IE997,westvik_old_2015,
-fZS,nefi,,,,IE997,westvik_old_2015,
-fZD,nipt,,,,IE997,westvik_old_2015,
-fFBD,brœðrunga,,,,IE997,westvik_old_2015,
-fMZD,systrunga,,,,IE997,westvik_old_2015,
-fFBS,brœðrungr,,,,IE997,westvik_old_2015,
-fMZS,systrungr,,,,IE997,westvik_old_2015,
-fH,verr,,,,IE997,westvik_old_2015,
-fH,maðr,,,,IE997,westvik_old_2015,
-fH,hūs-bōndi,,,,IE997,westvik_old_2015,
-fW,kona,,,,IE997,westvik_old_2015,
-fW,kvān,,,,IE997,westvik_old_2015,
-fHF,verfaðir,,,,IE997,westvik_old_2015,
-fHM,vermōðir,,,,IE997,westvik_old_2015,
-fWF,māgr,,,,IE997,westvik_old_2015,
-fWM,svœ̄ra,,,,IE997,westvik_old_2015,
-fWM,māgkona,,,,IE997,westvik_old_2015,
-fSW,snor,,,,IE997,westvik_old_2015,
-fSW,māgkona,,,,IE997,westvik_old_2015,
-fDH,māgr,,,,IE997,westvik_old_2015,
-feB,brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-fyB,brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-feZ,systir,,,,IE997,westvik_old_2015,Inferred; NA
-fyZ,systir,,,,IE997,westvik_old_2015,Inferred; NA
-fFeB,foður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-fFyB,foður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-fFeZ,foður-systir,,,,IE997,westvik_old_2015,Inferred; NA
-fFyZ,foður-systir,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZ,mōðir-systir,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZ,mōðir-systir,,,,IE997,westvik_old_2015,Inferred; NA
-fMeB,mōður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-fMyB,mōður-brōðir,,,,IE997,westvik_old_2015,Inferred; NA
-feBS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-fyBS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-feBD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-fyBD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-feZS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-fyZS,nefi,,,,IE997,westvik_old_2015,Inferred; NA
-feZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-fyZD,nipt,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFeBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFyBD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMeZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMyZD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFByS,brœðrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fFBeD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fFByD,brœðrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyS,systrungr,,,,IE997,westvik_old_2015,Inferred; NA
-fMZeD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
-fMZyD,systrunga,,,,IE997,westvik_old_2015,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","brōðir",,,,"IE997","westvik_old_2015",""
+"mZ","systir",,,,"IE997","westvik_old_2015",""
+"mF","faðir",,,,"IE997","westvik_old_2015",""
+"mM","mōðir",,,,"IE997","westvik_old_2015",""
+"mS","sunr",,,,"IE997","westvik_old_2015",""
+"mS","sonr",,,,"IE997","westvik_old_2015",""
+"mD","dōttir",,,,"IE997","westvik_old_2015",""
+"mFF","foður-faðir",,,,"IE997","westvik_old_2015",""
+"mFF","afi",,,,"IE997","westvik_old_2015",""
+"mFM","foður-mōðir",,,,"IE997","westvik_old_2015",""
+"mFM","amma",,,,"IE997","westvik_old_2015",""
+"mMF","mōður-faðir",,,,"IE997","westvik_old_2015",""
+"mMF","afi",,,,"IE997","westvik_old_2015",""
+"mMM","mōður-mōðir",,,,"IE997","westvik_old_2015",""
+"mMM","amma",,,,"IE997","westvik_old_2015",""
+"mSS","sonar-sonr",,,,"IE997","westvik_old_2015",""
+"mSD","sonar-dōttur",,,,"IE997","westvik_old_2015","sonar-dōttir"
+"mDS","dōttur-sonr",,,,"IE997","westvik_old_2015",""
+"mDD","dōttur-dōttir",,,,"IE997","westvik_old_2015",""
+"mFB","foður-brōðir",,,,"IE997","westvik_old_2015",""
+"mFZ","foður-systir",,,,"IE997","westvik_old_2015",""
+"mMB","mōður-brōðir",,,,"IE997","westvik_old_2015",""
+"mMZ","mōðir-systir",,,,"IE997","westvik_old_2015",""
+"mBS","nefi",,,,"IE997","westvik_old_2015",""
+"mBD","nipt",,,,"IE997","westvik_old_2015",""
+"mZS","nefi",,,,"IE997","westvik_old_2015",""
+"mZD","nipt",,,,"IE997","westvik_old_2015",""
+"mFBD","brœðrunga",,,,"IE997","westvik_old_2015",""
+"mMZD","systrunga",,,,"IE997","westvik_old_2015",""
+"mFBS","brœðrungr",,,,"IE997","westvik_old_2015",""
+"mMZS","systrungr",,,,"IE997","westvik_old_2015",""
+"mH","verr",,,,"IE997","westvik_old_2015",""
+"mH","maðr",,,,"IE997","westvik_old_2015",""
+"mH","hūs-bōndi",,,,"IE997","westvik_old_2015",""
+"mW","kona",,,,"IE997","westvik_old_2015",""
+"mW","kvān",,,,"IE997","westvik_old_2015",""
+"mHF","verfaðir",,,,"IE997","westvik_old_2015",""
+"mHM","vermōðir",,,,"IE997","westvik_old_2015",""
+"mWF","māgr",,,,"IE997","westvik_old_2015",""
+"mWM","svœ̄ra",,,,"IE997","westvik_old_2015",""
+"mWM","māgkona",,,,"IE997","westvik_old_2015",""
+"mSW","snor",,,,"IE997","westvik_old_2015",""
+"mSW","māgkona",,,,"IE997","westvik_old_2015",""
+"mDH","māgr",,,,"IE997","westvik_old_2015",""
+"meB","brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"myB","brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"meZ","systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"myZ","systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFeB","foður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFyB","foður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFeZ","foður-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFyZ","foður-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMeZ","mōðir-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMyZ","mōðir-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMeB","mōður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMyB","mōður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"meBS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"myBS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"meBD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"myBD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"meZS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"myZS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"meZD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"myZD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFeBS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFyBS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFeBD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFyBD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMeZS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMyZS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMeZD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMyZD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFBeS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFByS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFBeD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mFByD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMZeS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMZyS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMZeD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"mMZyD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fB","brōðir",,,,"IE997","westvik_old_2015",""
+"fZ","systir",,,,"IE997","westvik_old_2015",""
+"fF","faðir",,,,"IE997","westvik_old_2015",""
+"fM","mōðir",,,,"IE997","westvik_old_2015",""
+"fS","sunr",,,,"IE997","westvik_old_2015",""
+"fS","sonr",,,,"IE997","westvik_old_2015",""
+"fD","dōttir",,,,"IE997","westvik_old_2015",""
+"fFF","foður-faðir",,,,"IE997","westvik_old_2015",""
+"fFF","afi",,,,"IE997","westvik_old_2015",""
+"fFM","foður-mōðir",,,,"IE997","westvik_old_2015",""
+"fFM","amma",,,,"IE997","westvik_old_2015",""
+"fMF","mōður-faðir",,,,"IE997","westvik_old_2015",""
+"fMF","afi",,,,"IE997","westvik_old_2015",""
+"fMM","mōður-mōðir",,,,"IE997","westvik_old_2015",""
+"fMM","amma",,,,"IE997","westvik_old_2015",""
+"fSS","sonar-sonr",,,,"IE997","westvik_old_2015",""
+"fSD","sonar-dōttur",,,,"IE997","westvik_old_2015","sonar-dōttir"
+"fDS","dōttur-sonr",,,,"IE997","westvik_old_2015",""
+"fDD","dōttur-dōttir",,,,"IE997","westvik_old_2015",""
+"fFB","foður-brōðir",,,,"IE997","westvik_old_2015",""
+"fFZ","foður-systir",,,,"IE997","westvik_old_2015",""
+"fMB","mōður-brōðir",,,,"IE997","westvik_old_2015",""
+"fMZ","mōðir-systir",,,,"IE997","westvik_old_2015",""
+"fBS","nefi",,,,"IE997","westvik_old_2015",""
+"fBD","nipt",,,,"IE997","westvik_old_2015",""
+"fZS","nefi",,,,"IE997","westvik_old_2015",""
+"fZD","nipt",,,,"IE997","westvik_old_2015",""
+"fFBD","brœðrunga",,,,"IE997","westvik_old_2015",""
+"fMZD","systrunga",,,,"IE997","westvik_old_2015",""
+"fFBS","brœðrungr",,,,"IE997","westvik_old_2015",""
+"fMZS","systrungr",,,,"IE997","westvik_old_2015",""
+"fH","verr",,,,"IE997","westvik_old_2015",""
+"fH","maðr",,,,"IE997","westvik_old_2015",""
+"fH","hūs-bōndi",,,,"IE997","westvik_old_2015",""
+"fW","kona",,,,"IE997","westvik_old_2015",""
+"fW","kvān",,,,"IE997","westvik_old_2015",""
+"fHF","verfaðir",,,,"IE997","westvik_old_2015",""
+"fHM","vermōðir",,,,"IE997","westvik_old_2015",""
+"fWF","māgr",,,,"IE997","westvik_old_2015",""
+"fWM","svœ̄ra",,,,"IE997","westvik_old_2015",""
+"fWM","māgkona",,,,"IE997","westvik_old_2015",""
+"fSW","snor",,,,"IE997","westvik_old_2015",""
+"fSW","māgkona",,,,"IE997","westvik_old_2015",""
+"fDH","māgr",,,,"IE997","westvik_old_2015",""
+"feB","brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fyB","brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"feZ","systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fyZ","systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFeB","foður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFyB","foður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFeZ","foður-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFyZ","foður-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMeZ","mōðir-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMyZ","mōðir-systir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMeB","mōður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMyB","mōður-brōðir",,,,"IE997","westvik_old_2015","Inferred; NA"
+"feBS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fyBS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"feBD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fyBD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"feZS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fyZS","nefi",,,,"IE997","westvik_old_2015","Inferred; NA"
+"feZD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fyZD","nipt",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFeBS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFyBS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFeBD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFyBD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMeZS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMyZS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMeZD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMyZD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFBeS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFByS","brœðrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFBeD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fFByD","brœðrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMZeS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMZyS","systrungr",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMZeD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"
+"fMZyD","systrunga",,,,"IE997","westvik_old_2015","Inferred; NA"

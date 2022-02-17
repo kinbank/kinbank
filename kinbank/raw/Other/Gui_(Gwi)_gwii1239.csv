@@ -1,130 +1,163 @@
-﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"òō, cīā-χō",,male speaker's older brother,,,,
-myB,"òō, ɟìbā-χō",,male speaker's younger brother,,,,
-feB,"òō, cīā-χō",,female speaker's older brother,,,,
-fyB,"òō, ɟìbā-χō",,female speaker's younger brother,,,,
-meZ,"òō, cīā-χō",,male speaker's older sister,,,,
-myZ,"òō, ɟìbā-χō",,male speaker's younger sister,,,,
-feZ,"òō, cīā-χō",,female speaker's older sister,,,,
-fyZ,"òō, ɟìbā-χō",,female speaker's younger sister,,,,
-mF,ǁūũ̄ / bàā,,male speaker's father,,,,
-mM,ǁūũ̄ / ɟìē,,male speaker's mother,,,,
-fF,ǁūũ̄ / bàā,,female speaker's father,,,,
-fM,ǁūũ̄ / ɟìē,,female speaker's mother,,,,
-mS,ǀúã́,,male speaker's son,,,,
-fS,ǀúã́,,female speaker's son,,,,
-mD,ǀúã́,,male speaker's daughter,,,,
-fD,ǀúã́,,female speaker's daughter,,,,
-mSS,ŋǁóòrī,,male speaker's son's son,,,,
-mSD,ŋǁóòrī,,male speaker's son's daughter,,,,
-mDS,ŋǁóòrī,,male speaker's daughter's son,,,,
-mDD,ŋǁóòrī,,male speaker's daughter's daughter,,,,
-fSS,ŋǁóòrī,,female speaker's son's son,,,,
-fSD,ŋǁóòrī,,female speaker's son's daughter,,,,
-fDS,ŋǁóòrī,,female speaker's daughter's son,,,,
-fDD,ŋǁóòrī,,female speaker's daugher's daughter,,,,
-mFF,cīāǁū / páábà,,male speaker's father‘s father,,,,
-mFM,cīāǁū / máá,,male speaker's father's mother,,,,
-mMF,cīāǁū / páábà,,male speaker's mother's father,,,,
-mMM,cīāǁū / máá,,male speaker's mother's mother,,,,
-fFF,cīāǁū / páábà,,female speaker's father's father,,,,
-fFM,cīāǁū / máá,,female speaker's father's mother,,,,
-fMF,cīāǁū / páábà,,female speaker's mother's father,,,,
-fMM,cīāǁū / máá,,female speaker's mother's mother,,,,
-meBS,ǀúã́,,male speaker's older brother's son,,,,
-myBS,ŋǁóòrī,,male speaker's younger brother's son,,,,
-meZS,ŋǁóòrī,,male speaker's older sister's son,,,,
-myZS,ŋǁóòrī,,male speaker's younger sister's son,,,,
-meBD,ǀúã́,,male speaker's older brother's daughter,,,,
-myBD,ŋǁóòrī,,male speaker's younger brother's daughter,,,,
-meZD,ŋǁóòrī,,male speaker's older sister's daughter,,,,
-myZD,ŋǁóòrī,,male speaker's younger sister's daughter,,,,
-feBS,ŋǁóòrī,,female speaker's older brother's son,,,,
-fyBS,ŋǁóòrī,,female speaker's younger brother's son,,,,
-feZS,ǀúã́,,female speaker's older sister's son,,,,
-fyZS,ŋǁóòrī,,female speaker's younger sister's son,,,,
-feBD,ŋǁóòrī,,female speaker's older brother's daughter,,,,
-fyBD,ŋǁóòrī,,female speaker's younger brother's daughter,,,,
-feZD,ǀúã́,,female speaker's older sister's daughter,,,,
-fyZD,ŋǁóòrī,,female speaker's younger sister's daughter,,,,
-mFeB,cīāǁū / páábà,,male speaker's father's older brother,,,,
-mFyB,ǁūũ̄-ǀùà/ bàā-ǀùà,,male speaker's father's younger brother,,,,-ǀùà' is diminutive.
-mFeZ,cīāǁū / máá,,male speaker's father's older sister,,,,
-mFyZ,cīāǁū / máá,,male speaker's father's younger sister,,,,
-mMeB,cīāǁū / páábà,,male speaker's mother's older brother,,,,
-mMyB,cīāǁū / páábà,,male speaker's mother's younger brother,,,,
-mMeZ,cīāǁū / máá,,male speaker's mother's older sister,,,,
-mMyZ,ǁūũ̄-ǀùà / ɟìē-ǀùà,,male speaker's mother's younger sister,,,,
-fFeB,cīāǁū / páábà,,female speaker's father's older brother,,,,
-fFyB,ǁūũ̄-ǀùà/ bàā-ǀùà,,female speaker's father's younger brother,,,,
-fFeZ,cīāǁū / máá,,female speaker's father's older sister,,,,
-fFyZ,cīāǁū / máá,,female speaker's father's younger sister,,,,
-fMeB,cīāǁū / páábà,,female speaker's mother's older brother,,,,
-fMyB,cīāǁū / páábà,,female speaker's mother's younger brother,,,,
-fMeZ,cīāǁū / máá,,female speaker's mother's older sister,,,,
-fMyZ,ǁūũ̄-ǀùà / ɟìē-ǀùà,,female speaker's mother's younger sister,,,,
-mW,/ qχʼáò,,male speaker's wife,,,,
-fH,/ ɡǁàē,,female speaker‘s husband,,,,
-fDH,ǀʔūī,,female speaker's daughter's husband,,,,
-mDH,ǀʔūī,,male speaker's daughter's husband,,,,
-fSW,ǀʔūī,,female speaker's son's wife,,,,
-mSW,ǀʔūī,,male speaker's son's wife,,,,
-fHM,ǀʔūī,,female speaker's husband's mother,,,,
-mWM,ǀʔūī,,male speaker's wife's mother,,,,
-fHF,ǀʔūī,,female speaker's husband's father,,,,
-mWF,ǀʔūī,,male speaker's wife's father,,,,
-mFBS,òō,,male speaker's father's brother's son,,,,
-mFZS,ɡǂùā-ʔō,,male speaker's father's sister's son,,,,
-mMBS,ɡǂùā-ʔō,,male speaker's mother's brother's son,,,,
-mMZS,òō,,male speaker's mother's sister's son,,,,
-mFBD,òō,,male speaker's father's brother's daughter,,,,
-mFZD,ɡǂùā-ʔō,,male speaker's father's sister's daughter,,,,
-mMBD,ɡǂùā-ʔō,,male speaker's mother's brother's daughter,,,,
-mMZD,òō,,male speaker's mother's sister's daughter,,,,
-fFBS,òō,,female speaker's father's brother's son,,,,
-fFZS,ɡǂùā-ʔō,,female speaker's father's sister's son,,,,
-fMBS,ɡǂùā-ʔō,,female speaker's mother's brother's son,,,,
-fMZS,òō,,female speaker's mother's sister's son,,,,
-fFBD,òō,,female speaker's father's brother's daughter,,,,
-fFZD,ɡǂùā-ʔō,,female speaker's father's sister's daughter,,,,
-fMBD,ɡǂùā-ʔō,,female speaker's mother's brother's daughter,,,,
-fMZD,òō,,female speaker's mother's sister's daughter,,,,
-mFeBS,"òō, cīāχō",,male speaker's father‘s older brother‘s son,,,,
-mFyBS,"òō, ɟìbāχō",,male speaker‘s father‘s younger brother‘s son,,,,
-mFeZS,ɡǂùā-ʔō,,male speaker's father‘s older sister‘s son,,,,
-mFyZS,ɡǂùā-ʔō,,male speaker‘s father‘s younger sister‘s son,,,,
-mFeBD,"òō, cīāχō",,male speaker's father‘s older brother‘s daughter,,,,
-mFyBD,"òō, ɟìbāχō",,male speaker‘s father‘s younger brother‘s daughter,,,,
-mFeZD,ɡǂùā-ʔō,,male speaker's father‘s older sister‘s daughter,,,,
-mFyZD,ɡǂùā-ʔō,,male speaker‘s father‘s younger sister‘s daughter,,,,
-mMeBS,ɡǂùā-ʔō,,male speaker's mother‘s older brother‘s son,,,,
-mMyBS,ɡǂùā-ʔō,,male speaker‘s mother‘s younger brother‘s son,,,,
-mMeZS,"òō, cīāχō",,male speaker's mother‘s older sister‘s son,,,,
-mMyZS,"òō, ɟìbāχō",,male speaker‘s mother‘s younger sister‘s son,,,,
-mMeBD,ɡǂùā-ʔō,,male speaker's mother‘s older brother‘s daughter,,,,
-mMyBD,ɡǂùā-ʔō,,male speaker‘s mother‘s younger brother‘s daughter,,,,
-mMeZD,"òō, cīāχō",,male speaker's mother‘s older sister‘s daughter,,,,
-mMyZD,"òō, ɟìbāχō",,male speaker‘s mother‘s younger sister‘s daughter,,,,
-fFeBS,"òō, cīāχō",,female speaker's father‘s older brother‘s son,,,,
-fFyBS,"òō, ɟìbāχō",,female speaker‘s father‘s younger brother‘s son,,,,
-fFeZS,ɡǂùā-ʔō,,female speaker's father‘s older sister‘s son,,,,
-fFyZS,ɡǂùā-ʔō,,female speaker‘s father‘s younger sister‘s son,,,,
-fFeBD,"òō, cīāχō",,female speaker's father‘s older brother‘s daughter,,,,
-fFyBD,"òō, ɟìbāχō",,female speaker‘s father‘s younger brother‘s daughter,,,,
-fFeZD,ɡǂùā-ʔō,,female speaker's father‘s older sister‘s daughter,,,,
-fFyZD,ɡǂùā-ʔō,,female speaker‘s father‘s younger sister‘s daughter,,,,
-fMeBS,ɡǂùā-ʔō,,female speaker's mother‘s older brother‘s son,,,,
-fMyBS,ɡǂùā-ʔō,,female speaker‘s mother‘s younger brother‘s son,,,,
-fMeZS,"òō, cīāχō",,female speaker's mother‘s older sister‘s son,,,,
-fMyZS,"òō, ɟìbāχō",,female speaker‘s mother‘s younger sister‘s son,,,,
-fMeBD,ɡǂùā-ʔō,,female speaker's mother‘s older brother‘s daughter,,,,
-fMyBD,ɡǂùā-ʔō,,female speaker‘s mother‘s younger brother‘s daughter,,,,
-fMeZD,"òō, cīāχō",,female speaker's mother‘s older sister‘s daughter,,,,
-mWZ,ǀʔūī / ɡǁàē (WyZ),,,,,,spouse's older same sex siblings turn into strong avoidance while spouse's younger same sex siblings remain potential partner as well as affine.
-mWB,ǀʔūī,,,,,,
-fHB,ǀʔūī / qχʼáò (HyB),,,,,,
-fHZ,ǀʔūī,,,,,,
-mZH,ǀʔūī,,,,,,
-mBW,ǀʔūī / ɡǁàē (meBW),,,,,,
-fZH,ǀʔūī / qχʼáò (feZH),,,,,,
-fBW,ǀʔūī,,,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","òō, cīā-χō",,"male speaker's older brother",,,,""
+"myB","òō, ɟìbā-χō",,"male speaker's younger brother",,,,""
+"feB","òō, cīā-χō",,"female speaker's older brother",,,,""
+"fyB","òō, ɟìbā-χō",,"female speaker's younger brother",,,,""
+"meZ","òō, cīā-χō",,"male speaker's older sister",,,,""
+"myZ","òō, ɟìbā-χō",,"male speaker's younger sister",,,,""
+"feZ","òō, cīā-χō",,"female speaker's older sister",,,,""
+"fyZ","òō, ɟìbā-χō",,"female speaker's younger sister",,,,""
+"mF","ǁūũ̄ / bàā",,"male speaker's father",,,,""
+"mM","ǁūũ̄ / ɟìē",,"male speaker's mother",,,,""
+"fF","ǁūũ̄ / bàā",,"female speaker's father",,,,""
+"fM","ǁūũ̄ / ɟìē",,"female speaker's mother",,,,""
+"mS","ǀúã́",,"male speaker's son",,,,""
+"fS","ǀúã́",,"female speaker's son",,,,""
+"mD","ǀúã́",,"male speaker's daughter",,,,""
+"fD","ǀúã́",,"female speaker's daughter",,,,""
+"mSS","ŋǁóòrī",,"male speaker's son's son",,,,""
+"mSD","ŋǁóòrī",,"male speaker's son's daughter",,,,""
+"mDS","ŋǁóòrī",,"male speaker's daughter's son",,,,""
+"mDD","ŋǁóòrī",,"male speaker's daughter's daughter",,,,""
+"fSS","ŋǁóòrī",,"female speaker's son's son",,,,""
+"fSD","ŋǁóòrī",,"female speaker's son's daughter",,,,""
+"fDS","ŋǁóòrī",,"female speaker's daughter's son",,,,""
+"fDD","ŋǁóòrī",,"female speaker's daugher's daughter",,,,""
+"mFF","cīāǁū / páábà",,"male speaker's father‘s father",,,,""
+"mFM","cīāǁū / máá",,"male speaker's father's mother",,,,""
+"mMF","cīāǁū / páábà",,"male speaker's mother's father",,,,""
+"mMM","cīāǁū / máá",,"male speaker's mother's mother",,,,""
+"fFF","cīāǁū / páábà",,"female speaker's father's father",,,,""
+"fFM","cīāǁū / máá",,"female speaker's father's mother",,,,""
+"fMF","cīāǁū / páábà",,"female speaker's mother's father",,,,""
+"fMM","cīāǁū / máá",,"female speaker's mother's mother",,,,""
+"meBS","ǀúã́",,"male speaker's older brother's son",,,,""
+"myBS","ŋǁóòrī",,"male speaker's younger brother's son",,,,""
+"meZS","ŋǁóòrī",,"male speaker's older sister's son",,,,""
+"myZS","ŋǁóòrī",,"male speaker's younger sister's son",,,,""
+"meBD","ǀúã́",,"male speaker's older brother's daughter",,,,""
+"myBD","ŋǁóòrī",,"male speaker's younger brother's daughter",,,,""
+"meZD","ŋǁóòrī",,"male speaker's older sister's daughter",,,,""
+"myZD","ŋǁóòrī",,"male speaker's younger sister's daughter",,,,""
+"feBS","ŋǁóòrī",,"female speaker's older brother's son",,,,""
+"fyBS","ŋǁóòrī",,"female speaker's younger brother's son",,,,""
+"feZS","ǀúã́",,"female speaker's older sister's son",,,,""
+"fyZS","ŋǁóòrī",,"female speaker's younger sister's son",,,,""
+"feBD","ŋǁóòrī",,"female speaker's older brother's daughter",,,,""
+"fyBD","ŋǁóòrī",,"female speaker's younger brother's daughter",,,,""
+"feZD","ǀúã́",,"female speaker's older sister's daughter",,,,""
+"fyZD","ŋǁóòrī",,"female speaker's younger sister's daughter",,,,""
+"mFeB","cīāǁū / páábà",,"male speaker's father's older brother",,,,""
+"mFyB","ǁūũ̄-ǀùà/ bàā-ǀùà",,"male speaker's father's younger brother",,,,"-ǀùà' is diminutive."
+"mFeZ","cīāǁū / máá",,"male speaker's father's older sister",,,,""
+"mFyZ","cīāǁū / máá",,"male speaker's father's younger sister",,,,""
+"mMeB","cīāǁū / páábà",,"male speaker's mother's older brother",,,,""
+"mMyB","cīāǁū / páábà",,"male speaker's mother's younger brother",,,,""
+"mMeZ","cīāǁū / máá",,"male speaker's mother's older sister",,,,""
+"mMyZ","ǁūũ̄-ǀùà / ɟìē-ǀùà",,"male speaker's mother's younger sister",,,,""
+"fFeB","cīāǁū / páábà",,"female speaker's father's older brother",,,,""
+"fFyB","ǁūũ̄-ǀùà/ bàā-ǀùà",,"female speaker's father's younger brother",,,,""
+"fFeZ","cīāǁū / máá",,"female speaker's father's older sister",,,,""
+"fFyZ","cīāǁū / máá",,"female speaker's father's younger sister",,,,""
+"fMeB","cīāǁū / páábà",,"female speaker's mother's older brother",,,,""
+"fMyB","cīāǁū / páábà",,"female speaker's mother's younger brother",,,,""
+"fMeZ","cīāǁū / máá",,"female speaker's mother's older sister",,,,""
+"fMyZ","ǁūũ̄-ǀùà / ɟìē-ǀùà",,"female speaker's mother's younger sister",,,,""
+"mW","/ qχʼáò",,"male speaker's wife",,,,""
+"fH","/ ɡǁàē",,"female speaker‘s husband",,,,""
+"fDH","ǀʔūī",,"female speaker's daughter's husband",,,,""
+"mDH","ǀʔūī",,"male speaker's daughter's husband",,,,""
+"fSW","ǀʔūī",,"female speaker's son's wife",,,,""
+"mSW","ǀʔūī",,"male speaker's son's wife",,,,""
+"fHM","ǀʔūī",,"female speaker's husband's mother",,,,""
+"mWM","ǀʔūī",,"male speaker's wife's mother",,,,""
+"fHF","ǀʔūī",,"female speaker's husband's father",,,,""
+"mWF","ǀʔūī",,"male speaker's wife's father",,,,""
+"mFBS","òō",,"male speaker's father's brother's son",,,,""
+"mFZS","ɡǂùā-ʔō",,"male speaker's father's sister's son",,,,""
+"mMBS","ɡǂùā-ʔō",,"male speaker's mother's brother's son",,,,""
+"mMZS","òō",,"male speaker's mother's sister's son",,,,""
+"mFBD","òō",,"male speaker's father's brother's daughter",,,,""
+"mFZD","ɡǂùā-ʔō",,"male speaker's father's sister's daughter",,,,""
+"mMBD","ɡǂùā-ʔō",,"male speaker's mother's brother's daughter",,,,""
+"mMZD","òō",,"male speaker's mother's sister's daughter",,,,""
+"fFBS","òō",,"female speaker's father's brother's son",,,,""
+"fFZS","ɡǂùā-ʔō",,"female speaker's father's sister's son",,,,""
+"fMBS","ɡǂùā-ʔō",,"female speaker's mother's brother's son",,,,""
+"fMZS","òō",,"female speaker's mother's sister's son",,,,""
+"fFBD","òō",,"female speaker's father's brother's daughter",,,,""
+"fFZD","ɡǂùā-ʔō",,"female speaker's father's sister's daughter",,,,""
+"fMBD","ɡǂùā-ʔō",,"female speaker's mother's brother's daughter",,,,""
+"fMZD","òō",,"female speaker's mother's sister's daughter",,,,""
+"mFeBS","òō, cīāχō",,"male speaker's father‘s older brother‘s son",,,,""
+"mFyBS","òō, ɟìbāχō",,"male speaker‘s father‘s younger brother‘s son",,,,""
+"mFeZS","ɡǂùā-ʔō",,"male speaker's father‘s older sister‘s son",,,,""
+"mFyZS","ɡǂùā-ʔō",,"male speaker‘s father‘s younger sister‘s son",,,,""
+"mFeBD","òō, cīāχō",,"male speaker's father‘s older brother‘s daughter",,,,""
+"mFyBD","òō, ɟìbāχō",,"male speaker‘s father‘s younger brother‘s daughter",,,,""
+"mFeZD","ɡǂùā-ʔō",,"male speaker's father‘s older sister‘s daughter",,,,""
+"mFyZD","ɡǂùā-ʔō",,"male speaker‘s father‘s younger sister‘s daughter",,,,""
+"mMeBS","ɡǂùā-ʔō",,"male speaker's mother‘s older brother‘s son",,,,""
+"mMyBS","ɡǂùā-ʔō",,"male speaker‘s mother‘s younger brother‘s son",,,,""
+"mMeZS","òō, cīāχō",,"male speaker's mother‘s older sister‘s son",,,,""
+"mMyZS","òō, ɟìbāχō",,"male speaker‘s mother‘s younger sister‘s son",,,,""
+"mMeBD","ɡǂùā-ʔō",,"male speaker's mother‘s older brother‘s daughter",,,,""
+"mMyBD","ɡǂùā-ʔō",,"male speaker‘s mother‘s younger brother‘s daughter",,,,""
+"mMeZD","òō, cīāχō",,"male speaker's mother‘s older sister‘s daughter",,,,""
+"mMyZD","òō, ɟìbāχō",,"male speaker‘s mother‘s younger sister‘s daughter",,,,""
+"fFeBS","òō, cīāχō",,"female speaker's father‘s older brother‘s son",,,,""
+"fFyBS","òō, ɟìbāχō",,"female speaker‘s father‘s younger brother‘s son",,,,""
+"fFeZS","ɡǂùā-ʔō",,"female speaker's father‘s older sister‘s son",,,,""
+"fFyZS","ɡǂùā-ʔō",,"female speaker‘s father‘s younger sister‘s son",,,,""
+"fFeBD","òō, cīāχō",,"female speaker's father‘s older brother‘s daughter",,,,""
+"fFyBD","òō, ɟìbāχō",,"female speaker‘s father‘s younger brother‘s daughter",,,,""
+"fFeZD","ɡǂùā-ʔō",,"female speaker's father‘s older sister‘s daughter",,,,""
+"fFyZD","ɡǂùā-ʔō",,"female speaker‘s father‘s younger sister‘s daughter",,,,""
+"fMeBS","ɡǂùā-ʔō",,"female speaker's mother‘s older brother‘s son",,,,""
+"fMyBS","ɡǂùā-ʔō",,"female speaker‘s mother‘s younger brother‘s son",,,,""
+"fMeZS","òō, cīāχō",,"female speaker's mother‘s older sister‘s son",,,,""
+"fMyZS","òō, ɟìbāχō",,"female speaker‘s mother‘s younger sister‘s son",,,,""
+"fMeBD","ɡǂùā-ʔō",,"female speaker's mother‘s older brother‘s daughter",,,,""
+"fMyBD","ɡǂùā-ʔō",,"female speaker‘s mother‘s younger brother‘s daughter",,,,""
+"fMeZD","òō, cīāχō",,"female speaker's mother‘s older sister‘s daughter",,,,""
+"mWZ","ǀʔūī / ɡǁàē (WyZ)",,"",,,,"spouse's older same sex siblings turn into strong avoidance while spouse's younger same sex siblings remain potential partner as well as affine."
+"mWB","ǀʔūī",,"",,,,""
+"fHB","ǀʔūī / qχʼáò (HyB)",,"",,,,""
+"fHZ","ǀʔūī",,"",,,,""
+"mZH","ǀʔūī",,"",,,,""
+"mBW","ǀʔūī / ɡǁàē (meBW)",,"",,,,""
+"fZH","ǀʔūī / qχʼáò (feZH)",,"",,,,""
+"fBW","ǀʔūī",,"",,,,""
+"mFBeS","òō",,"male speaker's father's brother's son",,,,"Inferred; "
+"mFByS","òō",,"male speaker's father's brother's son",,,,"Inferred; "
+"mFZeS","ɡǂùā-ʔō",,"male speaker's father's sister's son",,,,"Inferred; "
+"mFZyS","ɡǂùā-ʔō",,"male speaker's father's sister's son",,,,"Inferred; "
+"mFBeD","òō",,"male speaker's father's brother's daughter",,,,"Inferred; "
+"mFByD","òō",,"male speaker's father's brother's daughter",,,,"Inferred; "
+"mFZeD","ɡǂùā-ʔō",,"male speaker's father's sister's daughter",,,,"Inferred; "
+"mFZyD","ɡǂùā-ʔō",,"male speaker's father's sister's daughter",,,,"Inferred; "
+"mMBeS","ɡǂùā-ʔō",,"male speaker's mother's brother's son",,,,"Inferred; "
+"mMByS","ɡǂùā-ʔō",,"male speaker's mother's brother's son",,,,"Inferred; "
+"mMZeS","òō",,"male speaker's mother's sister's son",,,,"Inferred; "
+"mMZyS","òō",,"male speaker's mother's sister's son",,,,"Inferred; "
+"mMBeD","ɡǂùā-ʔō",,"male speaker's mother's brother's daughter",,,,"Inferred; "
+"mMByD","ɡǂùā-ʔō",,"male speaker's mother's brother's daughter",,,,"Inferred; "
+"mMZeD","òō",,"male speaker's mother's sister's daughter",,,,"Inferred; "
+"mMZyD","òō",,"male speaker's mother's sister's daughter",,,,"Inferred; "
+"fMyZD","òō",,"female speaker's mother's sister's daughter",,,,"Inferred; "
+"fFBeS","òō",,"female speaker's father's brother's son",,,,"Inferred; "
+"fFByS","òō",,"female speaker's father's brother's son",,,,"Inferred; "
+"fFZeS","ɡǂùā-ʔō",,"female speaker's father's sister's son",,,,"Inferred; "
+"fFZyS","ɡǂùā-ʔō",,"female speaker's father's sister's son",,,,"Inferred; "
+"fFBeD","òō",,"female speaker's father's brother's daughter",,,,"Inferred; "
+"fFByD","òō",,"female speaker's father's brother's daughter",,,,"Inferred; "
+"fFZeD","ɡǂùā-ʔō",,"female speaker's father's sister's daughter",,,,"Inferred; "
+"fFZyD","ɡǂùā-ʔō",,"female speaker's father's sister's daughter",,,,"Inferred; "
+"fMBeS","ɡǂùā-ʔō",,"female speaker's mother's brother's son",,,,"Inferred; "
+"fMByS","ɡǂùā-ʔō",,"female speaker's mother's brother's son",,,,"Inferred; "
+"fMZeS","òō",,"female speaker's mother's sister's son",,,,"Inferred; "
+"fMZyS","òō",,"female speaker's mother's sister's son",,,,"Inferred; "
+"fMBeD","ɡǂùā-ʔō",,"female speaker's mother's brother's daughter",,,,"Inferred; "
+"fMByD","ɡǂùā-ʔō",,"female speaker's mother's brother's daughter",,,,"Inferred; "
+"fMZeD","òō",,"female speaker's mother's sister's daughter",,,,"Inferred; "
+"fMZyD","òō",,"female speaker's mother's sister's daughter",,,,"Inferred; "

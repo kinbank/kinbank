@@ -1,107 +1,107 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,thabuju,ṱapucu,male speaker's older brother,,,,
-myB,gunathu,kunaṱu,male speaker's younger brother,,,,
-feB,wanggurdu,waŋkuʈu,female speaker's older brother,,,,
-fyB,gunathu,kunaṱu,female speaker's younger brother,,,,
-meZ,"yakukathu, balkaji","jakukaṱu, palkaci",male speaker's older sister,,,,
-myZ,"gunathu, balkaji","kunaṱu, palkaci",male speaker's younger sister,,,,
-feZ,yakukathu,jakukaṱu,female speaker's older sister,,,,
-fyZ,gunathu,kunaṱu,female speaker's younger sister,,,,
-mF,kanthathu,kaṋṱaṱu,male speaker's father,,,,
-mM,ngamathu,ŋamaṱu,male speaker's mother,,,,
-fF,kanthathu,kaṋṱaṱu,female speaker's father,,,,
-fM,ngamathu,ŋamaṱu,female speaker's mother,,,,
-mS,bingganngu,piŋkanŋu,male speaker's son,,,,
-fS,garduwa,kaʈuwa,female speaker's son,,,,
-mD,bingganngu,piŋkanŋu,male speaker's daughter,,,,
-fD,garduwa,kaʈuwa,female speaker's daughter,,,,
-mSS,kangku,kaŋku,male speaker's son's son,,,,
-mSD,kangku,kaŋku,male speaker's son's daughter,,,,
-mDS,jambathu,campaṱu,male speaker's daughter's son,,,,
-mDD,jambathu,campaṱu,male speaker's daughter's daughter,,,,
-fSS,ngarrmandathu,ŋarmantaṱu,female speaker's son's son,,,,
-fSD,ngarrmandathu,ŋarmantaṱu,female speaker's son's daughter,,,,
-fDS,malunginda,maluŋinta,female speaker's daughter's son,,,,
-fDD,girrgunku,kirkunku,female speaker's daugher's daughter,,,,
-mFF,"kangku, kangkarliju","kaŋku, kaŋkaɭicu",male speaker's father‘s father,,,,
-mFM,babiju,papicu,male speaker's father's mother,,,,
-mMF,jambathu,campaṱu,male speaker's mother's father,,,,
-mMM,ngarriju,ŋaricu,male speaker's mother's mother,,,,
-fFF,"kangku, kangkarliju","kaŋku, kaŋkaɭicu",female speaker's father's father,,,,
-fFM,babiju,papicu,female speaker's father's mother,,,,
-fMF,jambathu,campaṱu,female speaker's mother's father,,,,
-fMM,ngarriju,ŋaricu,female speaker's mother's mother,,,,
-meBS,bingganngu,piŋkanŋu,male speaker's older brother's son,,,,
-myBS,bingganngu,piŋkanŋu,male speaker's younger brother's son,,,,
-meZS,garduwa,kaʈuwa,male speaker's older sister's son,,,,
-myZS,garduwa,kaʈuwa,male speaker's younger sister's son,,,,
-meBD,bingganngu,piŋkanŋu,male speaker's older brother's daughter,,,,
-myBD,bingganngu,piŋkanŋu,male speaker's younger brother's daughter,,,,
-meZD,garduwa,kaʈuwa,male speaker's older sister's daughter,,,,
-myZD,garduwa,kaʈuwa,male speaker's younger sister's daughter,,,,
-feBS,bingganngu,piŋkanŋu,female speaker's older brother's son,,,,
-fyBS,bingganngu,piŋkanŋu,female speaker's younger brother's son,,,,
-feZS,garduwa,kaʈuwa,female speaker's older sister's son,,,,
-fyZS,garduwa,kaʈuwa,female speaker's younger sister's son,,,,
-feBD,bingganngu,piŋkanŋu,female speaker's older brother's daughter,,,,
-fyBD,bingganngu,piŋkanŋu,female speaker's younger brother's daughter,,,,
-feZD,garduwa,kaʈuwa,female speaker's older sister's daughter,,,,
-fyZD,garduwa,kaʈuwa,female speaker's younger sister's daughter,,,,
-mFeB,ganthathu,kaṋṱaṱu,male speaker's father's older brother,,,,
-mFyB,ganthathu,kaṋṱaṱu,male speaker's father's younger brother,,,,
-mFeZ,ngamathu,ŋamaṱu,male speaker's father's older sister,,,,
-mFyZ,ngamathu,ŋamaṱu,male speaker's father's younger sister,,,,
-mMeB,gaguju,kakucu,male speaker's mother's older brother,,,,
-mMyB,gaguju,kakucu,male speaker's mother's younger brother,,,,
-mMeZ,ngamathu,ŋamaṱu,male speaker's mother's older sister,,,,
-mMyZ,"ngamathu, kapirliju","ŋamaṱu, kapiɭicu",male speaker's mother's younger sister,,,,"Normally, the basic 'mother' term ngamathu is used for M and MyZ. However, if more precision is required, the term kabirliju [kapiɭicu] can be used for the 'mother's younger sister'. One source (Keen 1983) specifies the meaning 'mother's younger sister' f"
-fFeB,ganthathu,kaṋṱaṱu,female speaker's father's older brother,,,,
-fFyB,ganthathu,kaṋṱaṱu,female speaker's father's younger brother,,,,
-fFeZ,marrgathu,ŋamaṱu,female speaker's father's older sister,,,,
-fFyZ,marrgathu,ŋamaṱu,female speaker's father's younger sister,,,,
-fMeB,gaguju,kakucu,female speaker's mother's older brother,,,,
-fMyB,gaguju,kakucu,female speaker's mother's younger brother,,,,
-fMeZ,ngamathu,ŋamaṱu,female speaker's mother's older sister,,,,
-fMyZ,ngamathu,ŋamaṱu,female speaker's mother's younger sister,,,,
-mW,garndiya,gaɳʈija,male speaker's wife,,,,
-fH,"dunda, dirrgurli","tunta, tirkuɭi",female speaker‘s husband,,,,
-fDH,thawula,ṱawula,female speaker's daughter's husband,,,,
-mDH,yambiya,jambija,male speaker's daughter's husband,,,,
-fSW,ngardadathu,ŋaʈataṱu,female speaker's son's wife,,,,
-mSW,ngamathu,ŋamaṱu,male speaker's son's wife,,,,
-fHM,ganhingarrathu,kaṋiŋaraṱu,female speaker's husband's mother,,,,
-mWM,"jibarna, bibarra","cipaɳa, pipara",male speaker's wife's mother,,,,
-fHF,yambiya,jampija,female speaker's husband's father,,,,
-mWF,"kardunganja, yambiya","kaʈuŋanca, jampija",male speaker's wife's father,,,,
-mFBeS,thabuju,ṱapucu,"male speaker‘s father‘s brother‘s son, older than speaker",,,,
-mFByS,gunathu,kunaṱu,"male speaker‘s father‘s brother‘s son, younger than speaker",,,,
-mFBeD,bujirrinda,pucirinta,male speaker‘s father‘s brother‘s older daughter,,,,
-mFByD,bujirrinda,pucirinta,male speaker‘s father‘s brother‘s younger daughter,,,,
-mFZeS,jambathu,campaṱu,male speaker‘s father‘s sisters‘s older son,,,,
-mFZyS,jambathu,campaṱu,male speaker‘s father‘s sisters‘s younger son,,,,
-mFZeD,ngayarndathu,ŋajaɳʈaṱu,male speaker‘s father‘s sisters‘s older daughter,,,,
-mFZyD,ngayarndathu,ŋajaɳʈaṱu,male speaker‘s father‘s sisters‘s younger daughter,,,,
-mMBeS,jambathu,campaṱu,male speaker‘s mother‘s brother‘s older son,,,,
-mMByS,jambathu,campaṱu,male speaker‘s mother‘s brother‘s younger son,,,,
-mMBeD,ngayarndathu,ŋajaɳʈaṱu,male speaker‘s mother‘s brother‘s older daughter,,,,
-mMByD,ngayarndathu,ŋajaɳʈaṱu,male speaker‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,thabuju,ṱapucu,male speaker‘s mother‘s sisters‘s older son,,,,
-mMZyS,gunathu,kunaṱu,male speaker‘s mother‘s sisters‘s younger son,,,,
-mMZeD,bujirrinda,pucirinta,male speaker‘s mother‘s sisters‘s older daughter,,,,
-mMZyD,bujirrinda,pucirinta,male speaker‘s mother‘s sisters‘s younger daughter,,,,
-fFBeS,thabuju,ṱapucu,female speaker‘s father‘s brother‘s older son,,,,
-fFByS,gunathu,kunaṱu,female speaker‘s father‘s brother‘s younger son,,,,
-fFBeD,bujirrinda,pucirinta,female speaker‘s father‘s brother‘s older daughter,,,,
-fFByD,bujirrinda,pucirinta,female speaker‘s father‘s brother‘s younger daughter,,,,
-fFZeS,jambathu,campaṱu,female speaker‘s father‘s sisters‘s older son,,,,
-fFZyS,jambathu,campaṱu,female speaker‘s father‘s sisters‘s younger son,,,,
-fFZeD,ngayarndathu,ŋajaɳʈaṱu,female speaker‘s father‘s sisters‘s older daughter,,,,
-fFZyD,ngayarndathu,ŋajaɳʈaṱu,female speaker‘s father‘s sisters‘s younger daughter,,,,
-fMBeS,jambathu,campaṱu,female speaker‘s mother‘s brother‘s older son,,,,
-fMByS,jambathu,campaṱu,female speaker‘s mother‘s brother‘s younger son,,,,
-fMBeD,ngayarndathu,ŋajaɳʈaṱu,female speaker‘s mother‘s brother‘s older daughter,,,,
-fMByD,ngayarndathu,ŋajaɳʈaṱu,female speaker‘s mother‘s brother‘s younger daughter,,,,
-fMZeS,thabuju,ṱapucu,female speaker‘s mother‘s sisters‘s older son,,,,
-fMZyS,gunathu,kunaṱu,female speaker‘s mother‘s sisters‘s younger son,,,,
-fMZeD,bujirrinda,pucirinta,female speaker‘s mother‘s sisters‘s older daughter,,,,
-fMZyD,bujirrinda,pucirinta,female speaker‘s mother‘s sisters‘s younger daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","thabuju","ṱapucu","male speaker's older brother",,,,""
+"myB","gunathu","kunaṱu","male speaker's younger brother",,,,""
+"feB","wanggurdu","waŋkuʈu","female speaker's older brother",,,,""
+"fyB","gunathu","kunaṱu","female speaker's younger brother",,,,""
+"meZ","yakukathu, balkaji","jakukaṱu, palkaci","male speaker's older sister",,,,""
+"myZ","gunathu, balkaji","kunaṱu, palkaci","male speaker's younger sister",,,,""
+"feZ","yakukathu","jakukaṱu","female speaker's older sister",,,,""
+"fyZ","gunathu","kunaṱu","female speaker's younger sister",,,,""
+"mF","kanthathu","kaṋṱaṱu","male speaker's father",,,,""
+"mM","ngamathu","ŋamaṱu","male speaker's mother",,,,""
+"fF","kanthathu","kaṋṱaṱu","female speaker's father",,,,""
+"fM","ngamathu","ŋamaṱu","female speaker's mother",,,,""
+"mS","bingganngu","piŋkanŋu","male speaker's son",,,,""
+"fS","garduwa","kaʈuwa","female speaker's son",,,,""
+"mD","bingganngu","piŋkanŋu","male speaker's daughter",,,,""
+"fD","garduwa","kaʈuwa","female speaker's daughter",,,,""
+"mSS","kangku","kaŋku","male speaker's son's son",,,,""
+"mSD","kangku","kaŋku","male speaker's son's daughter",,,,""
+"mDS","jambathu","campaṱu","male speaker's daughter's son",,,,""
+"mDD","jambathu","campaṱu","male speaker's daughter's daughter",,,,""
+"fSS","ngarrmandathu","ŋarmantaṱu","female speaker's son's son",,,,""
+"fSD","ngarrmandathu","ŋarmantaṱu","female speaker's son's daughter",,,,""
+"fDS","malunginda","maluŋinta","female speaker's daughter's son",,,,""
+"fDD","girrgunku","kirkunku","female speaker's daugher's daughter",,,,""
+"mFF","kangku, kangkarliju","kaŋku, kaŋkaɭicu","male speaker's father‘s father",,,,""
+"mFM","babiju","papicu","male speaker's father's mother",,,,""
+"mMF","jambathu","campaṱu","male speaker's mother's father",,,,""
+"mMM","ngarriju","ŋaricu","male speaker's mother's mother",,,,""
+"fFF","kangku, kangkarliju","kaŋku, kaŋkaɭicu","female speaker's father's father",,,,""
+"fFM","babiju","papicu","female speaker's father's mother",,,,""
+"fMF","jambathu","campaṱu","female speaker's mother's father",,,,""
+"fMM","ngarriju","ŋaricu","female speaker's mother's mother",,,,""
+"meBS","bingganngu","piŋkanŋu","male speaker's older brother's son",,,,""
+"myBS","bingganngu","piŋkanŋu","male speaker's younger brother's son",,,,""
+"meZS","garduwa","kaʈuwa","male speaker's older sister's son",,,,""
+"myZS","garduwa","kaʈuwa","male speaker's younger sister's son",,,,""
+"meBD","bingganngu","piŋkanŋu","male speaker's older brother's daughter",,,,""
+"myBD","bingganngu","piŋkanŋu","male speaker's younger brother's daughter",,,,""
+"meZD","garduwa","kaʈuwa","male speaker's older sister's daughter",,,,""
+"myZD","garduwa","kaʈuwa","male speaker's younger sister's daughter",,,,""
+"feBS","bingganngu","piŋkanŋu","female speaker's older brother's son",,,,""
+"fyBS","bingganngu","piŋkanŋu","female speaker's younger brother's son",,,,""
+"feZS","garduwa","kaʈuwa","female speaker's older sister's son",,,,""
+"fyZS","garduwa","kaʈuwa","female speaker's younger sister's son",,,,""
+"feBD","bingganngu","piŋkanŋu","female speaker's older brother's daughter",,,,""
+"fyBD","bingganngu","piŋkanŋu","female speaker's younger brother's daughter",,,,""
+"feZD","garduwa","kaʈuwa","female speaker's older sister's daughter",,,,""
+"fyZD","garduwa","kaʈuwa","female speaker's younger sister's daughter",,,,""
+"mFeB","ganthathu","kaṋṱaṱu","male speaker's father's older brother",,,,""
+"mFyB","ganthathu","kaṋṱaṱu","male speaker's father's younger brother",,,,""
+"mFeZ","ngamathu","ŋamaṱu","male speaker's father's older sister",,,,""
+"mFyZ","ngamathu","ŋamaṱu","male speaker's father's younger sister",,,,""
+"mMeB","gaguju","kakucu","male speaker's mother's older brother",,,,""
+"mMyB","gaguju","kakucu","male speaker's mother's younger brother",,,,""
+"mMeZ","ngamathu","ŋamaṱu","male speaker's mother's older sister",,,,""
+"mMyZ","ngamathu, kapirliju","ŋamaṱu, kapiɭicu","male speaker's mother's younger sister",,,,"Normally, the basic 'mother' term ngamathu is used for M and MyZ. However, if more precision is required, the term kabirliju [kapiɭicu] can be used for the 'mother's younger sister'. One source (Keen 1983) specifies the meaning 'mother's younger sister' f"
+"fFeB","ganthathu","kaṋṱaṱu","female speaker's father's older brother",,,,""
+"fFyB","ganthathu","kaṋṱaṱu","female speaker's father's younger brother",,,,""
+"fFeZ","marrgathu","ŋamaṱu","female speaker's father's older sister",,,,""
+"fFyZ","marrgathu","ŋamaṱu","female speaker's father's younger sister",,,,""
+"fMeB","gaguju","kakucu","female speaker's mother's older brother",,,,""
+"fMyB","gaguju","kakucu","female speaker's mother's younger brother",,,,""
+"fMeZ","ngamathu","ŋamaṱu","female speaker's mother's older sister",,,,""
+"fMyZ","ngamathu","ŋamaṱu","female speaker's mother's younger sister",,,,""
+"mW","garndiya","gaɳʈija","male speaker's wife",,,,""
+"fH","dunda, dirrgurli","tunta, tirkuɭi","female speaker‘s husband",,,,""
+"fDH","thawula","ṱawula","female speaker's daughter's husband",,,,""
+"mDH","yambiya","jambija","male speaker's daughter's husband",,,,""
+"fSW","ngardadathu","ŋaʈataṱu","female speaker's son's wife",,,,""
+"mSW","ngamathu","ŋamaṱu","male speaker's son's wife",,,,""
+"fHM","ganhingarrathu","kaṋiŋaraṱu","female speaker's husband's mother",,,,""
+"mWM","jibarna, bibarra","cipaɳa, pipara","male speaker's wife's mother",,,,""
+"fHF","yambiya","jampija","female speaker's husband's father",,,,""
+"mWF","kardunganja, yambiya","kaʈuŋanca, jampija","male speaker's wife's father",,,,""
+"mFBeS","thabuju","ṱapucu","male speaker‘s father‘s brother‘s son, older than speaker",,,,""
+"mFByS","gunathu","kunaṱu","male speaker‘s father‘s brother‘s son, younger than speaker",,,,""
+"mFBeD","bujirrinda","pucirinta","male speaker‘s father‘s brother‘s older daughter",,,,""
+"mFByD","bujirrinda","pucirinta","male speaker‘s father‘s brother‘s younger daughter",,,,""
+"mFZeS","jambathu","campaṱu","male speaker‘s father‘s sisters‘s older son",,,,""
+"mFZyS","jambathu","campaṱu","male speaker‘s father‘s sisters‘s younger son",,,,""
+"mFZeD","ngayarndathu","ŋajaɳʈaṱu","male speaker‘s father‘s sisters‘s older daughter",,,,""
+"mFZyD","ngayarndathu","ŋajaɳʈaṱu","male speaker‘s father‘s sisters‘s younger daughter",,,,""
+"mMBeS","jambathu","campaṱu","male speaker‘s mother‘s brother‘s older son",,,,""
+"mMByS","jambathu","campaṱu","male speaker‘s mother‘s brother‘s younger son",,,,""
+"mMBeD","ngayarndathu","ŋajaɳʈaṱu","male speaker‘s mother‘s brother‘s older daughter",,,,""
+"mMByD","ngayarndathu","ŋajaɳʈaṱu","male speaker‘s mother‘s brother‘s younger daughter",,,,""
+"mMZeS","thabuju","ṱapucu","male speaker‘s mother‘s sisters‘s older son",,,,""
+"mMZyS","gunathu","kunaṱu","male speaker‘s mother‘s sisters‘s younger son",,,,""
+"mMZeD","bujirrinda","pucirinta","male speaker‘s mother‘s sisters‘s older daughter",,,,""
+"mMZyD","bujirrinda","pucirinta","male speaker‘s mother‘s sisters‘s younger daughter",,,,""
+"fFBeS","thabuju","ṱapucu","female speaker‘s father‘s brother‘s older son",,,,""
+"fFByS","gunathu","kunaṱu","female speaker‘s father‘s brother‘s younger son",,,,""
+"fFBeD","bujirrinda","pucirinta","female speaker‘s father‘s brother‘s older daughter",,,,""
+"fFByD","bujirrinda","pucirinta","female speaker‘s father‘s brother‘s younger daughter",,,,""
+"fFZeS","jambathu","campaṱu","female speaker‘s father‘s sisters‘s older son",,,,""
+"fFZyS","jambathu","campaṱu","female speaker‘s father‘s sisters‘s younger son",,,,""
+"fFZeD","ngayarndathu","ŋajaɳʈaṱu","female speaker‘s father‘s sisters‘s older daughter",,,,""
+"fFZyD","ngayarndathu","ŋajaɳʈaṱu","female speaker‘s father‘s sisters‘s younger daughter",,,,""
+"fMBeS","jambathu","campaṱu","female speaker‘s mother‘s brother‘s older son",,,,""
+"fMByS","jambathu","campaṱu","female speaker‘s mother‘s brother‘s younger son",,,,""
+"fMBeD","ngayarndathu","ŋajaɳʈaṱu","female speaker‘s mother‘s brother‘s older daughter",,,,""
+"fMByD","ngayarndathu","ŋajaɳʈaṱu","female speaker‘s mother‘s brother‘s younger daughter",,,,""
+"fMZeS","thabuju","ṱapucu","female speaker‘s mother‘s sisters‘s older son",,,,""
+"fMZyS","gunathu","kunaṱu","female speaker‘s mother‘s sisters‘s younger son",,,,""
+"fMZeD","bujirrinda","pucirinta","female speaker‘s mother‘s sisters‘s older daughter",,,,""
+"fMZyD","bujirrinda","pucirinta","female speaker‘s mother‘s sisters‘s younger daughter",,,,""

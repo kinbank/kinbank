@@ -1,29 +1,29 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,angin,,male ego's older brother,,,,same-sex sibling
-myB,angin,,male ego's younger brother,,,,same-sex sibling
-feB,kimul,,female ego's older brother,,,,opposite-sex sibling
-fyB,kimul,,female ego's younger brother,,,,opposite-sex sibling
-meZ,kimul,,male ego's older sister,,,,opposite-sex sibling
-myZ,kimul,,male ego's younger sister,,,,opposite-sex sibling
-feZ,angin,,female ego's older sister,,,,same-sex sibling
-fyZ,angin,,female ego's younger sister,,,,same-sex sibling
-mF,lapa,,male ego's father,,,,"for second person anchor the word for father is lanya, lapa is for first and third person anchor"
-mM,anum,,male ego's mother,,,,"for second person anchor the word for mother is amnya, anum is for first and third person anchor"
-fF,lapa,,female ego's father,,,,"for second person anchor the word for father is lanya, lapa is for first and third person anchor"
-fM,anum,,female ego's mother,,,,"or second person anchor the word for mother is amnya, anum is for first and third person anchor"
-mFeB,lapa,,male ego's father's older brother,,,,
-mFyB,lapa,,male ego's father's younger brother,,,,
-mFeZ,arin,,male ego's father's older sister,,,,
-mFyZ,arin,,male ego's father's younger sister,,,,
-mMeB,kepa,,male ego's mother's older brother,,,,
-mMyB,kepa,,male ego's mother's younger brother,,,,
-mMeZ,anum,,male ego's mother's older sister,,,,
-mMyZ,anum,,male ego's mother's younger sister,,,,
-fFeB,lapa,,female ego's father's older brother,,,,
-fFyB,lapa,,female ego's father's younger brother,,,,
-fFeZ,arin,,female ego's father's older sister,,,,
-fFyZ,arin,,female ego's father's younger sister,,,,
-fMeB,kepa,,female ego's mother's older brother,,,,
-fMyB,kepa,,female ego's mother's younger brother,,,,
-fMeZ,anum,,female ego's mother's older sister,,,,
-fMyZ,anum,,female ego's mother's younger sister,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","angin",,"male ego's older brother",,,,"same-sex sibling"
+"myB","angin",,"male ego's younger brother",,,,"same-sex sibling"
+"feB","kimul",,"female ego's older brother",,,,"opposite-sex sibling"
+"fyB","kimul",,"female ego's younger brother",,,,"opposite-sex sibling"
+"meZ","kimul",,"male ego's older sister",,,,"opposite-sex sibling"
+"myZ","kimul",,"male ego's younger sister",,,,"opposite-sex sibling"
+"feZ","angin",,"female ego's older sister",,,,"same-sex sibling"
+"fyZ","angin",,"female ego's younger sister",,,,"same-sex sibling"
+"mF","lapa",,"male ego's father",,,,"for second person anchor the word for father is lanya, lapa is for first and third person anchor"
+"mM","anum",,"male ego's mother",,,,"for second person anchor the word for mother is amnya, anum is for first and third person anchor"
+"fF","lapa",,"female ego's father",,,,"for second person anchor the word for father is lanya, lapa is for first and third person anchor"
+"fM","anum",,"female ego's mother",,,,"or second person anchor the word for mother is amnya, anum is for first and third person anchor"
+"mFeB","lapa",,"male ego's father's older brother",,,,""
+"mFyB","lapa",,"male ego's father's younger brother",,,,""
+"mFeZ","arin",,"male ego's father's older sister",,,,""
+"mFyZ","arin",,"male ego's father's younger sister",,,,""
+"mMeB","kepa",,"male ego's mother's older brother",,,,""
+"mMyB","kepa",,"male ego's mother's younger brother",,,,""
+"mMeZ","anum",,"male ego's mother's older sister",,,,""
+"mMyZ","anum",,"male ego's mother's younger sister",,,,""
+"fFeB","lapa",,"female ego's father's older brother",,,,""
+"fFyB","lapa",,"female ego's father's younger brother",,,,""
+"fFeZ","arin",,"female ego's father's older sister",,,,""
+"fFyZ","arin",,"female ego's father's younger sister",,,,""
+"fMeB","kepa",,"female ego's mother's older brother",,,,""
+"fMyB","kepa",,"female ego's mother's younger brother",,,,""
+"fMeZ","anum",,"female ego's mother's older sister",,,,""
+"fMyZ","anum",,"female ego's mother's younger sister",,,,""

@@ -1,115 +1,115 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kada,,male ego's older brother,,,,
-myB,kanugwa,,male ego's younger brother,,,,
-feB,kada,,female ego's older brother,,,,
-fyB,kanugwa,,female ego's younger brother,,,,
-meZ,kananji,,male ego's older sister,,,,
-myZ,kanab,,male ego's younger sister,,,,
-feZ,kananji,,female ego's older sister,,,,
-fyZ,kanab,,female ego's younger sister,,,,
-mF,kane,,male ego's father,"mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
-mM,kanei,,male ego's mother,na,,,na = address term for mother and daughter reciprocally
-fF,kane,,female ego's father,"mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
-fM,kanei,,female ego's mother,,,,na = address term for mother and daughter reciprocally
-mS,khomaljogho,,male ego's son,"mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
-fS,khomaljogho,,female ego's son,"mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
-mD,kumalji,,male ego's daughter,,,,na = address term for mother and daughter reciprocally
-fD,kumalji,,female ego's daughter,,,,na = address term for mother and daughter reciprocally
-mSS,kagwa,,male ego's son's son,,,,
-mSD,ka,,male ego's son's daughter,,,,
-mDS,kagwa,,male ego's daughter's son,,,,
-mDD,ka,,male ego's daughter's daughter,,,,
-fSS,kagwa,,female ego's son's son,,,,
-fSD,ka,,female ego's son's daughter,,,,
-fDS,kagwa,,female ego's daughter's son,,,,
-fDD,ka,,female ego's daugher's daughter,,,,
-mFF,kagwa,,male ego's father‘s father,,,,
-mFM,ka,,male ego's father's mother,,,,
-mMF,kagwa,,male ego's mother's father,,,,
-mMM,ka,,male ego's mother's mother,,,,
-fFF,kagwa,,female ego's father's father,,,,
-fFM,ka,,female ego's father's mother,,,,
-fMF,kagwa,,female ego's mother's father,,,,
-fMM,ka,,female ego's mother's mother,,,,
-meBS,khomaljogho,,male ego's older brother's son,,,,
-myBS,khomaljogho,,male ego's younger brother's son,,,,
-meZS,khomaljogho,,male ego's older sister's son,,,,
-myZS,khomaljogho,,male ego's younger sister's son,,,,
-meBD,kumalji,,male ego's older brother's daughter,,,,
-myBD,kumalji,,male ego's younger brother's daughter,,,,
-meZD,kumalji,,male ego's older sister's daughter,,,,
-myZD,kumalji,,male ego's younger sister's daughter,,,,
-feBS,khomaljogho,,female ego's older brother's son,,,,
-fyBS,khomaljogho,,female ego's younger brother's son,,,,
-feZS,khomaljogho,,female ego's older sister's son,,,,
-fyZS,khomaljogho,,female ego's younger sister's son,,,,
-feBD,kumalji,,female ego's older brother's daughter,,,,
-fyBD,kumalji,,female ego's younger brother's daughter,,,,
-feZD,kumalji,,female ego's older sister's daughter,,,,
-fyZD,kumalji,,female ego's younger sister's daughter,,,,
-mFeB,kane,,male ego's father's older brother,,,,
-mFyB,kane,,male ego's father's younger brother,,,,
-mFeZ,kalji,,male ego's father's older sister,,,,
-mFyZ,kalji,,male ego's father's younger sister,,,,
-mMeB,kame,,male ego's mother's older brother,,,,
-mMyB,kame,,male ego's mother's younger brother,,,,
-mMeZ,kanjima,,male ego's mother's older sister,,,,
-mMyZ,kanjima,,male ego's mother's younger sister,,,,
-fFeB,kane,,female ego's father's older brother,,,,
-fFyB,kane,,female ego's father's younger brother,,,,
-fFeZ,kalji,,female ego's father's older sister,,,,
-fFyZ,kalji,,female ego's father's younger sister,,,,
-fMeB,kame,,female ego's mother's older brother,,,,
-fMyB,kame,,female ego's mother's younger brother,,,,
-fMeZ,kanjima,,female ego's mother's older sister,,,,
-fMyZ,kanjima,,female ego's mother's younger sister,,,,
-mW,kaba,,male ego's wife,,,,
-fH,khologh,,female ego‘s husband,,,,
-mDH,kanale,,male ego's daughter's husband,,,,
-fDH,kanale,,female ego's daughter's husband,,,,
-mSW,ka,,male ego's son's wife,,,,
-fSW,ka,,female ego's son's wife,,,,
-mWF,kanale,,male ego's wife's father,,,,
-mWM,kanale,,male ego's wife's mother,,,,
-mWB,kanuba,,male ego's wife's brother,,,,
-mWZ,kanuba,,male ego's wife's sister,,,,
-fHF,kanale,,female ego's husband's father,,,,
-fHM,kanale,,female ego's husband's mother,,,,
-fHB,kane,,female ego's husband's brother,,,,
-fHZ,kalaghu,,female ego's husband's sister,,,,
-mBW,kalaghu,,male ego's brother's wife,,,,
-fBW,kalaghu,,female ego's brother's wife,,,,
-mZH,kanuba,,male ego's sister's husband,,,,
-fZH,kanuba,,female ego's sister's husband,,,,
-mFBeS,kada,,male ego‘s father‘s brother‘s older son,,,,
-mFByS,kanugwa,,male ego‘s father‘s brother‘s younger son,,,,
-mFBeD,kananji,,male ego‘s father‘s brother‘s older daughter,,,,
-mFByD,kanab,,male ego‘s father‘s brother‘s younger daughter,,,,
-mFZeS,kadakwa,,male ego‘s father‘s sisters‘s older son,,,,
-mFZyS,kadakwa,,male ego‘s father‘s sisters‘s younger son,,,,
-mFZeD,kadakwa,,male ego‘s father‘s sisters‘s older daughter,,,,
-mFZyD,kadakwa,,male ego‘s father‘s sisters‘s younger daughter,,,,
-mMBeS,kadakwa,,male ego‘s mother‘s brother‘s older son,,,,
-mMByS,kadakwa,,male ego‘s mother‘s brother‘s younger son,,,,
-mMBeD,kadakwa,,male ego‘s mother‘s brother‘s older daughter,,,,
-mMByD,kadakwa,,male ego‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,kada,,male ego‘s mother‘s sisters‘s older son,,,,
-mMZyS,kanugwa,,male ego‘s mother‘s sisters‘s younger son,,,,
-mMZeD,kananji,,male ego‘s mother‘s sisters‘s older daughter,,,,
-mMZyD,kanab,,male ego‘s mother‘s sisters‘s younger daughter,,,,
-fFBeS,kada,,female ego‘s father‘s brother‘s older son,,,,
-fFByS,kanugwa,,female ego‘s father‘s brother‘s younger son,,,,
-fFBeD,kananji,,female ego‘s father‘s brother‘s older daughter,,,,
-fFByD,kanab,,female ego‘s father‘s brother‘s younger daughter,,,,
-fFZeS,kadakwa,,female ego‘s father‘s sisters‘s older son,,,,
-fFZyS,kadakwa,,female ego‘s father‘s sisters‘s younger son,,,,
-fFZeD,kadakwa,,female ego‘s father‘s sisters‘s older daughter,,,,
-fFZyD,kadakwa,,female ego‘s father‘s sisters‘s younger daughter,,,,
-fMBeS,kadakwa,,female ego‘s mother‘s brother‘s older son,,,,
-fMByS,kadakwa,,female ego‘s mother‘s brother‘s younger son,,,,
-fMBeD,kadakwa,,female ego‘s mother‘s brother‘s older daughter,,,,
-fMByD,kadakwa,,female ego‘s mother‘s brother‘s younger daughter,,,,
-fMZeS,kada,,female ego‘s mother‘s sisters‘s older son,,,,
-fMZyS,kanugwa,,female ego‘s mother‘s sisters‘s younger son,,,,
-fMZeD,kananji,,female ego‘s mother‘s sisters‘s older daughter,,,,
-fMZyD,kanab,,female ego‘s mother‘s sisters‘s younger daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kada",,"male ego's older brother","",,,""
+"myB","kanugwa",,"male ego's younger brother","",,,""
+"feB","kada",,"female ego's older brother","",,,""
+"fyB","kanugwa",,"female ego's younger brother","",,,""
+"meZ","kananji",,"male ego's older sister","",,,""
+"myZ","kanab",,"male ego's younger sister","",,,""
+"feZ","kananji",,"female ego's older sister","",,,""
+"fyZ","kanab",,"female ego's younger sister","",,,""
+"mF","kane",,"male ego's father","mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
+"mM","kanei",,"male ego's mother","na",,,"na = address term for mother and daughter reciprocally"
+"fF","kane",,"female ego's father","mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
+"fM","kanei",,"female ego's mother","",,,"na = address term for mother and daughter reciprocally"
+"mS","khomaljogho",,"male ego's son","mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
+"fS","khomaljogho",,"female ego's son","mpa, mpo",,,"mpa, mpo = address term for father and son reciprocally"
+"mD","kumalji",,"male ego's daughter","",,,"na = address term for mother and daughter reciprocally"
+"fD","kumalji",,"female ego's daughter","",,,"na = address term for mother and daughter reciprocally"
+"mSS","kagwa",,"male ego's son's son","",,,""
+"mSD","ka",,"male ego's son's daughter","",,,""
+"mDS","kagwa",,"male ego's daughter's son","",,,""
+"mDD","ka",,"male ego's daughter's daughter","",,,""
+"fSS","kagwa",,"female ego's son's son","",,,""
+"fSD","ka",,"female ego's son's daughter","",,,""
+"fDS","kagwa",,"female ego's daughter's son","",,,""
+"fDD","ka",,"female ego's daugher's daughter","",,,""
+"mFF","kagwa",,"male ego's father‘s father","",,,""
+"mFM","ka",,"male ego's father's mother","",,,""
+"mMF","kagwa",,"male ego's mother's father","",,,""
+"mMM","ka",,"male ego's mother's mother","",,,""
+"fFF","kagwa",,"female ego's father's father","",,,""
+"fFM","ka",,"female ego's father's mother","",,,""
+"fMF","kagwa",,"female ego's mother's father","",,,""
+"fMM","ka",,"female ego's mother's mother","",,,""
+"meBS","khomaljogho",,"male ego's older brother's son","",,,""
+"myBS","khomaljogho",,"male ego's younger brother's son","",,,""
+"meZS","khomaljogho",,"male ego's older sister's son","",,,""
+"myZS","khomaljogho",,"male ego's younger sister's son","",,,""
+"meBD","kumalji",,"male ego's older brother's daughter","",,,""
+"myBD","kumalji",,"male ego's younger brother's daughter","",,,""
+"meZD","kumalji",,"male ego's older sister's daughter","",,,""
+"myZD","kumalji",,"male ego's younger sister's daughter","",,,""
+"feBS","khomaljogho",,"female ego's older brother's son","",,,""
+"fyBS","khomaljogho",,"female ego's younger brother's son","",,,""
+"feZS","khomaljogho",,"female ego's older sister's son","",,,""
+"fyZS","khomaljogho",,"female ego's younger sister's son","",,,""
+"feBD","kumalji",,"female ego's older brother's daughter","",,,""
+"fyBD","kumalji",,"female ego's younger brother's daughter","",,,""
+"feZD","kumalji",,"female ego's older sister's daughter","",,,""
+"fyZD","kumalji",,"female ego's younger sister's daughter","",,,""
+"mFeB","kane",,"male ego's father's older brother","",,,""
+"mFyB","kane",,"male ego's father's younger brother","",,,""
+"mFeZ","kalji",,"male ego's father's older sister","",,,""
+"mFyZ","kalji",,"male ego's father's younger sister","",,,""
+"mMeB","kame",,"male ego's mother's older brother","",,,""
+"mMyB","kame",,"male ego's mother's younger brother","",,,""
+"mMeZ","kanjima",,"male ego's mother's older sister","",,,""
+"mMyZ","kanjima",,"male ego's mother's younger sister","",,,""
+"fFeB","kane",,"female ego's father's older brother","",,,""
+"fFyB","kane",,"female ego's father's younger brother","",,,""
+"fFeZ","kalji",,"female ego's father's older sister","",,,""
+"fFyZ","kalji",,"female ego's father's younger sister","",,,""
+"fMeB","kame",,"female ego's mother's older brother","",,,""
+"fMyB","kame",,"female ego's mother's younger brother","",,,""
+"fMeZ","kanjima",,"female ego's mother's older sister","",,,""
+"fMyZ","kanjima",,"female ego's mother's younger sister","",,,""
+"mW","kaba",,"male ego's wife","",,,""
+"fH","khologh",,"female ego‘s husband","",,,""
+"mDH","kanale",,"male ego's daughter's husband","",,,""
+"fDH","kanale",,"female ego's daughter's husband","",,,""
+"mSW","ka",,"male ego's son's wife","",,,""
+"fSW","ka",,"female ego's son's wife","",,,""
+"mWF","kanale",,"male ego's wife's father","",,,""
+"mWM","kanale",,"male ego's wife's mother","",,,""
+"mWB","kanuba",,"male ego's wife's brother","",,,""
+"mWZ","kanuba",,"male ego's wife's sister","",,,""
+"fHF","kanale",,"female ego's husband's father","",,,""
+"fHM","kanale",,"female ego's husband's mother","",,,""
+"fHB","kane",,"female ego's husband's brother","",,,""
+"fHZ","kalaghu",,"female ego's husband's sister","",,,""
+"mBW","kalaghu",,"male ego's brother's wife","",,,""
+"fBW","kalaghu",,"female ego's brother's wife","",,,""
+"mZH","kanuba",,"male ego's sister's husband","",,,""
+"fZH","kanuba",,"female ego's sister's husband","",,,""
+"mFBeS","kada",,"male ego‘s father‘s brother‘s older son","",,,""
+"mFByS","kanugwa",,"male ego‘s father‘s brother‘s younger son","",,,""
+"mFBeD","kananji",,"male ego‘s father‘s brother‘s older daughter","",,,""
+"mFByD","kanab",,"male ego‘s father‘s brother‘s younger daughter","",,,""
+"mFZeS","kadakwa",,"male ego‘s father‘s sisters‘s older son","",,,""
+"mFZyS","kadakwa",,"male ego‘s father‘s sisters‘s younger son","",,,""
+"mFZeD","kadakwa",,"male ego‘s father‘s sisters‘s older daughter","",,,""
+"mFZyD","kadakwa",,"male ego‘s father‘s sisters‘s younger daughter","",,,""
+"mMBeS","kadakwa",,"male ego‘s mother‘s brother‘s older son","",,,""
+"mMByS","kadakwa",,"male ego‘s mother‘s brother‘s younger son","",,,""
+"mMBeD","kadakwa",,"male ego‘s mother‘s brother‘s older daughter","",,,""
+"mMByD","kadakwa",,"male ego‘s mother‘s brother‘s younger daughter","",,,""
+"mMZeS","kada",,"male ego‘s mother‘s sisters‘s older son","",,,""
+"mMZyS","kanugwa",,"male ego‘s mother‘s sisters‘s younger son","",,,""
+"mMZeD","kananji",,"male ego‘s mother‘s sisters‘s older daughter","",,,""
+"mMZyD","kanab",,"male ego‘s mother‘s sisters‘s younger daughter","",,,""
+"fFBeS","kada",,"female ego‘s father‘s brother‘s older son","",,,""
+"fFByS","kanugwa",,"female ego‘s father‘s brother‘s younger son","",,,""
+"fFBeD","kananji",,"female ego‘s father‘s brother‘s older daughter","",,,""
+"fFByD","kanab",,"female ego‘s father‘s brother‘s younger daughter","",,,""
+"fFZeS","kadakwa",,"female ego‘s father‘s sisters‘s older son","",,,""
+"fFZyS","kadakwa",,"female ego‘s father‘s sisters‘s younger son","",,,""
+"fFZeD","kadakwa",,"female ego‘s father‘s sisters‘s older daughter","",,,""
+"fFZyD","kadakwa",,"female ego‘s father‘s sisters‘s younger daughter","",,,""
+"fMBeS","kadakwa",,"female ego‘s mother‘s brother‘s older son","",,,""
+"fMByS","kadakwa",,"female ego‘s mother‘s brother‘s younger son","",,,""
+"fMBeD","kadakwa",,"female ego‘s mother‘s brother‘s older daughter","",,,""
+"fMByD","kadakwa",,"female ego‘s mother‘s brother‘s younger daughter","",,,""
+"fMZeS","kada",,"female ego‘s mother‘s sisters‘s older son","",,,""
+"fMZyS","kanugwa",,"female ego‘s mother‘s sisters‘s younger son","",,,""
+"fMZeD","kananji",,"female ego‘s mother‘s sisters‘s older daughter","",,,""
+"fMZyD","kanab",,"female ego‘s mother‘s sisters‘s younger daughter","",,,""

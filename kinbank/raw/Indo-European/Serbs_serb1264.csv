@@ -1,197 +1,197 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mH,muž,,,,IE65(25),halpern_serbian_nodate,
-mW,žena,,,,IE65(25),halpern_serbian_nodate,
-mHF,svekar,,,,IE65(25),halpern_serbian_nodate,
-mHM,svekrva,,,,IE65(25),halpern_serbian_nodate,
-mWF,tast,,,,IE65(25),halpern_serbian_nodate,
-mWM,tašta,,,,IE65(25),halpern_serbian_nodate,
-mBW,sna,,,,IE65(25),halpern_serbian_nodate,
-mZH,zet,,,,IE65(25),halpern_serbian_nodate,
-mWB,šurak,,,,IE65(25),halpern_serbian_nodate,
-mWZ,svastika,,,,IE65(25),halpern_serbian_nodate,
-mHB,dever,,,,IE65(25),halpern_serbian_nodate,
-mHZ,zaova,,,,IE65(25),halpern_serbian_nodate,
-fH,muž,,,,IE65(25),halpern_serbian_nodate,
-fW,žena,,,,IE65(25),halpern_serbian_nodate,
-fHF,svekar,,,,IE65(25),halpern_serbian_nodate,
-fHM,svekrva,,,,IE65(25),halpern_serbian_nodate,
-fWF,tast,,,,IE65(25),halpern_serbian_nodate,
-fWM,tašta,,,,IE65(25),halpern_serbian_nodate,
-fBW,sna,,,,IE65(25),halpern_serbian_nodate,
-fZH,zet,,,,IE65(25),halpern_serbian_nodate,
-fWB,šurak,,,,IE65(25),halpern_serbian_nodate,
-fWZ,svastika,,,,IE65(25),halpern_serbian_nodate,
-fHB,dever,,,,IE65(25),halpern_serbian_nodate,
-fHZ,zaova,,,,IE65(25),halpern_serbian_nodate,
-mB,brat,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mZ,sestra,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mF,otac,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mM,majka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mS,sin,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mD,ćerka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mFF,ded,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mFM,baba,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mMF,ded,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mMM,baba,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mSS,unuk,,,,IE20(49),hanmel_sebo-croatian_nodate,
-mSD,unuka,,,,IE20(49),hanmel_sebo-croatian_nodate,
-mDS,unuk,,,,IE20(49),hanmel_sebo-croatian_nodate,
-mDD,unuka,,,,IE20(49),hanmel_sebo-croatian_nodate,
-mFB,stric,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mFZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mMB,ujak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mMZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mBS,bratanac,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mBD,bratanica,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mZS,sestric,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mZD,sestričina,,,,IE20(48),hanmel_sebo-croatian_nodate,
-mFZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mFBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mMBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mMZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mFBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mFZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mMBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-mMZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-meB,brat,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-myB,brat,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-meZ,sestra,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-myZ,sestra,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFeB,stric,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFyB,stric,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFeZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFyZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMeZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMyZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMeB,ujak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMyB,ujak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-meBS,bratanac,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-myBS,bratanac,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-meBD,bratanica,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-myBD,bratanica,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-meZS,sestric,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-myZS,sestric,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-meZD,sestričina,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-myZD,sestričina,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-mFeBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFyBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFeZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFyZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFeBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFyBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFeZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFyZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMeBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMyBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMeZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMyZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMeBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMyBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMeZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMyZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFBeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFByS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFZeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFZyS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFBeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFByD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFZeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFZyD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMBeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMByS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMZeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMZyS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMBeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMByD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMZeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mMZyD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fB,brat,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fZ,sestra,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fF,otac,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fM,majka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fS,sin,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fD,ćerka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fFF,ded,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fFM,baba,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fMF,ded,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fMM,baba,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fSS,unuk,,,,IE20(49),hanmel_sebo-croatian_nodate,
-fSD,unuka,,,,IE20(49),hanmel_sebo-croatian_nodate,
-fDS,unuk,,,,IE20(49),hanmel_sebo-croatian_nodate,
-fDD,unuka,,,,IE20(49),hanmel_sebo-croatian_nodate,
-fFB,stric,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fFZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fMB,ujak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fMZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fBS,bratanac,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fBD,bratanica,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fZS,sestric,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fZD,sestričina,,,,IE20(48),hanmel_sebo-croatian_nodate,
-fFZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fFBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fMBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fMZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fFBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fFZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fMBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-fMZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,
-feB,brat,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fyB,brat,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-feZ,sestra,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fyZ,sestra,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFeB,stric,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFyB,stric,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFeZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFyZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMeZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMyZ,tetka,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMeB,ujak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMyB,ujak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-feBS,bratanac,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-fyBS,bratanac,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-feBD,bratanica,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-fyBD,bratanica,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-feZS,sestric,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-fyZS,sestric,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-feZD,sestričina,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-fyZD,sestričina,,,,IE20(48),hanmel_sebo-croatian_nodate,Inferred; NA
-fFeBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFyBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFeZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFyZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFeBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFyBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFeZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFyZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMeBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMyBS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMeZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMyZS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMeBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMyBD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMeZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMyZD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFBeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFByS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFZeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFZyS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFBeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFByD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFZeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fFZyD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMBeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMByS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMZeS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMZyS,rodjak,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMBeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMByD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMZeD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-fMZyD,rodjakinja,,,,IE20(47),hanmel_sebo-croatian_nodate,Inferred; NA
-mFW(notM),maćeha,,,,IE504(345),stankovic_russian_1998,
-mMH(notF),ochukh,,,,IE504(510),stankovic_russian_1998,
-mSW,snakha,,,,IE504(404),stankovic_russian_1998,
-mDH,zet,,,,IE504(247),stankovic_russian_1998,
-fFW(notM),maćeha,,,,IE504(345),stankovic_russian_1998,
-fMH(notF),ochukh,,,,IE504(510),stankovic_russian_1998,
-fSW,snakha,,,,IE504(404),stankovic_russian_1998,
-fDH,zet,,,,IE504(247),stankovic_russian_1998,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mH","muž",,,,"IE65(25)","halpern_serbian_nodate",""
+"mW","žena",,,,"IE65(25)","halpern_serbian_nodate",""
+"mHF","svekar",,,,"IE65(25)","halpern_serbian_nodate",""
+"mHM","svekrva",,,,"IE65(25)","halpern_serbian_nodate",""
+"mWF","tast",,,,"IE65(25)","halpern_serbian_nodate",""
+"mWM","tašta",,,,"IE65(25)","halpern_serbian_nodate",""
+"mBW","sna",,,,"IE65(25)","halpern_serbian_nodate",""
+"mZH","zet",,,,"IE65(25)","halpern_serbian_nodate",""
+"mWB","šurak",,,,"IE65(25)","halpern_serbian_nodate",""
+"mWZ","svastika",,,,"IE65(25)","halpern_serbian_nodate",""
+"mHB","dever",,,,"IE65(25)","halpern_serbian_nodate",""
+"mHZ","zaova",,,,"IE65(25)","halpern_serbian_nodate",""
+"fH","muž",,,,"IE65(25)","halpern_serbian_nodate",""
+"fW","žena",,,,"IE65(25)","halpern_serbian_nodate",""
+"fHF","svekar",,,,"IE65(25)","halpern_serbian_nodate",""
+"fHM","svekrva",,,,"IE65(25)","halpern_serbian_nodate",""
+"fWF","tast",,,,"IE65(25)","halpern_serbian_nodate",""
+"fWM","tašta",,,,"IE65(25)","halpern_serbian_nodate",""
+"fBW","sna",,,,"IE65(25)","halpern_serbian_nodate",""
+"fZH","zet",,,,"IE65(25)","halpern_serbian_nodate",""
+"fWB","šurak",,,,"IE65(25)","halpern_serbian_nodate",""
+"fWZ","svastika",,,,"IE65(25)","halpern_serbian_nodate",""
+"fHB","dever",,,,"IE65(25)","halpern_serbian_nodate",""
+"fHZ","zaova",,,,"IE65(25)","halpern_serbian_nodate",""
+"mB","brat",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mZ","sestra",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mF","otac",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mM","majka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mS","sin",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mD","ćerka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mFF","ded",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mFM","baba",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mMF","ded",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mMM","baba",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mSS","unuk",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"mSD","unuka",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"mDS","unuk",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"mDD","unuka",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"mFB","stric",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mFZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mMB","ujak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mMZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mBS","bratanac",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mBD","bratanica",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mZS","sestric",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mZD","sestričina",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"mFZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mFBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mMBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mMZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mFBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mFZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mMBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"mMZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"meB","brat",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"myB","brat",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"meZ","sestra",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"myZ","sestra",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFeB","stric",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFyB","stric",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFeZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFyZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMeZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMyZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMeB","ujak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMyB","ujak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"meBS","bratanac",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"myBS","bratanac",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"meBD","bratanica",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"myBD","bratanica",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"meZS","sestric",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"myZS","sestric",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"meZD","sestričina",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"myZD","sestričina",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFeBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFyBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFeZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFyZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFeBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFyBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFeZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFyZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMeBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMyBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMeZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMyZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMeBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMyBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMeZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMyZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFBeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFByS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFZeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFZyS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFBeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFByD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFZeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFZyD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMBeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMByS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMZeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMZyS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMBeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMByD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMZeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mMZyD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fB","brat",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fZ","sestra",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fF","otac",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fM","majka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fS","sin",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fD","ćerka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fFF","ded",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fFM","baba",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fMF","ded",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fMM","baba",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fSS","unuk",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"fSD","unuka",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"fDS","unuk",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"fDD","unuka",,,,"IE20(49)","hanmel_sebo-croatian_nodate",""
+"fFB","stric",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fFZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fMB","ujak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fMZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fBS","bratanac",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fBD","bratanica",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fZS","sestric",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fZD","sestričina",,,,"IE20(48)","hanmel_sebo-croatian_nodate",""
+"fFZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fFBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fMBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fMZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fFBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fFZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fMBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"fMZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate",""
+"feB","brat",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fyB","brat",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"feZ","sestra",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fyZ","sestra",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFeB","stric",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFyB","stric",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFeZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFyZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMeZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMyZ","tetka",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMeB","ujak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMyB","ujak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"feBS","bratanac",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fyBS","bratanac",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"feBD","bratanica",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fyBD","bratanica",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"feZS","sestric",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fyZS","sestric",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"feZD","sestričina",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fyZD","sestričina",,,,"IE20(48)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFeBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFyBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFeZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFyZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFeBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFyBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFeZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFyZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMeBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMyBS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMeZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMyZS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMeBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMyBD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMeZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMyZD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFBeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFByS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFZeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFZyS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFBeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFByD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFZeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fFZyD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMBeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMByS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMZeS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMZyS","rodjak",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMBeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMByD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMZeD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"fMZyD","rodjakinja",,,,"IE20(47)","hanmel_sebo-croatian_nodate","Inferred; NA"
+"mFW(notM)","maćeha",,,,"IE504(345)","stankovic_russian_1998",""
+"mMH(notF)","ochukh",,,,"IE504(510)","stankovic_russian_1998",""
+"mSW","snakha",,,,"IE504(404)","stankovic_russian_1998",""
+"mDH","zet",,,,"IE504(247)","stankovic_russian_1998",""
+"fFW(notM)","maćeha",,,,"IE504(345)","stankovic_russian_1998",""
+"fMH(notF)","ochukh",,,,"IE504(510)","stankovic_russian_1998",""
+"fSW","snakha",,,,"IE504(404)","stankovic_russian_1998",""
+"fDH","zet",,,,"IE504(247)","stankovic_russian_1998",""

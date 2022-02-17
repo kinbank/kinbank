@@ -1,89 +1,113 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"avenhai, prata",,male ego's older brother,,,,
-myB,"avenhai, prata",,male ego's younger brother,,,,
-feB,"man, prata",,female ego's older brother,,,,
-fyB,"man, nate viroc, prata",,female ego's younger brother,,,,
-meZ,veven,,male ego's older sister,,,,
-myZ,veven,,male ego's younger sister,,,,
-feZ,avenhai,,female ego's older sister,,,,
-fyZ,avenhai,,female ego's younger sister,,,,
-mF,"etmen, itmen, nate, papa",,male ego's father,,,,
-mM,"mama, namou, ndinme",,male ego's mother,,,,
-fF,"etmen, itmen, nate, papa",,female ego's father,,,,
-fM,"mama, namou, ndinme",,female ego's mother,,,,
-mS,"nelgalau, neten, netni, nitni",,male ego's son,,,,
-fS,"nelgalau, neten, netni, nitni",,female ego's son,,,,
-mD,"nelgalau, neten, netni, nitni",,male ego's daughter,,,,
-fD,"nelgalau, neten, netni, nitni",,female ego's daughter,,,,
-mSS,mocpon,,male ego's son's son,,,,
-mSD,mocpon,,male ego's son's daughter,,,,
-mDS,mocpon,,male ego's daughter's son,,,,
-mDD,mocpon,,male ego's daughter's daughter,,,,
-fSS,mocpon,,female ego's son's son,,,,
-fSD,mocpon,,female ego's son's daughter,,,,
-fDS,mocpon,,female ego's daughter's son,,,,
-fDD,mocpon,,female ego's daugher's daughter,,,,
-mFF,"(i)tahen, (i)tais",,male ego's father‘s father,,,,
-mFM,uyon,,male ego's father's mother,,,,
-mMF,"(i)tahen, (i)tais",,male ego's mother's father,,,,
-mMM,uyon,,male ego's mother's mother,,,,
-fFF,"(i)tahen, (i)tais",,female ego's father's father,,,,
-fFM,uyon,,female ego's father's mother,,,,
-fMF,"(i)tahen, (i)tais",,female ego's mother's father,,,,
-fMM,uyon,,female ego's mother's mother,,,,
-meBS,"alwon, neten, netni, nitni",,male ego's older brother's son,,,,
-myBS,"alwon, neten, netni, nitni",,male ego's younger brother's son,,,,
-meZS,alwon,,male ego's older sister's son,,,,
-myZS,alwon,,male ego's younger sister's son,,,,
-meBD,"alwon, neten, netni, nitni",,male ego's older brother's daughter,,,,
-myBD,"alwon, neten, netni, nitni",,male ego's younger brother's daughter,,,,
-meZD,alwon,,male ego's older sister's daughter,,,,
-myZD,alwon,,male ego's younger sister's daughter,,,,
-feBS,eten,,female ego's older brother's son,,,,
-fyBS,eten,,female ego's younger brother's son,,,,
-feZS,eten,,female ego's older sister's son,,,,
-fyZS,eten,,female ego's younger sister's son,,,,
-feBD,eten,,female ego's older brother's daughter,,,,
-fyBD,eten,,female ego's younger brother's daughter,,,,
-feZD,"eten, neten, netni, nitni",,female ego's older sister's daughter,,,,
-fyZD,"eten, neten, netni, nitni",,female ego's younger sister's daughter,,,,
-mFeB,itviroc,,male ego's father's older brother,,,,
-mFyB,"itviroc, nate viroc",,male ego's father's younger brother,,,,
-mFeZ,"namou viroc, ndetwon, retun",,male ego's father's older sister,,,,
-mFyZ,"namou viroc, ndetwon, retun",,male ego's father's younger sister,,,,
-mMeB,metan,,male ego's mother's older brother,,,,
-mMyB,metan,,male ego's mother's younger brother,,,,
-mMeZ,"ndetwon, retun, ndinmepelec",,male ego's mother's older sister,,,,
-mMyZ,"ndetwon, retun, ndinmepelec, namou viroc",,male ego's mother's younger sister,,,,
-fFeB,itviroc,,female ego's father's older brother,,,,
-fFyB,"itviroc, nate viroc",,female ego's father's younger brother,,,,
-fFeZ,"namou viroc, ndetwon, retun",,female ego's father's older sister,,,,
-fFyZ,"namou viroc, ndetwon, retun",,female ego's father's younger sister,,,,
-fMeB,metan,,female ego's mother's older brother,,,,
-fMyB,metan,,female ego's mother's younger brother,,,,
-fMeZ,"ndetwon, retun, ndinmepelec",,female ego's mother's older sister,,,,
-fMyZ,"ndetwon, retun, ndinmepelec, namou viroc",,female ego's mother's younger sister,,,,
-mW,retpon,,male ego's wife,,,,
-fH,"ahwon, asun",,female ego‘s husband,,,,
-mDH,etemachi,,male ego's daughter's husband,,,,
-fDH,etemachi,,female ego's daughter's husband,,,,
-mSW,etemachi,,male ego's son's wife,,,,
-fSW,etemachi,,female ego's son's wife,,,,
-mWF,etemachi,,male ego's wife's father,,,,
-mWM,"etemachi, ntample",,male ego's wife's mother,,,,
-mWB,etemachi,,male ego's wife's brother,,,,
-mWZ,avenai,,male ego's wife's sister,,,,
-fHF,etemachi,,female ego's husband's father,,,,
-fHM,"etemachi, ntample",,female ego's husband's mother,,,,
-fHB,etemachi,,female ego's husband's brother,,,,
-fHZ,etemachi,,female ego's husband's sister,,,,
-mBW,rovgun,,male ego's brother's wife,,,,
-fBW,rovgun,,female ego's brother's wife,nahimnalam,,,wife of chief
-mZH,etemachi,,male ego's sister's husband,,,,
-fZH,"ahwon, asun",,female ego's sister's husband,,,,
-mFZS,alwon,,male ego's father's sister's son,,,,
-mMBS,alwon,,male ego's mother's brother's son,,,,
-mFZD,alwon,,male ego's father's sister's daughter,,,,
-mMBD,alwon,,male ego's mother's brother's daughter,,,,
-fMBS,alwon,,female ego's mother's brother's son,,,,
-fMBD,alwon,,female ego's mother's brother's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","avenhai, prata",,"male ego's older brother","",,,""
+"myB","avenhai, prata",,"male ego's younger brother","",,,""
+"feB","man, prata",,"female ego's older brother","",,,""
+"fyB","man, nate viroc, prata",,"female ego's younger brother","",,,""
+"meZ","veven",,"male ego's older sister","",,,""
+"myZ","veven",,"male ego's younger sister","",,,""
+"feZ","avenhai",,"female ego's older sister","",,,""
+"fyZ","avenhai",,"female ego's younger sister","",,,""
+"mF","etmen, itmen, nate, papa",,"male ego's father","",,,""
+"mM","mama, namou, ndinme",,"male ego's mother","",,,""
+"fF","etmen, itmen, nate, papa",,"female ego's father","",,,""
+"fM","mama, namou, ndinme",,"female ego's mother","",,,""
+"mS","nelgalau, neten, netni, nitni",,"male ego's son","",,,""
+"fS","nelgalau, neten, netni, nitni",,"female ego's son","",,,""
+"mD","nelgalau, neten, netni, nitni",,"male ego's daughter","",,,""
+"fD","nelgalau, neten, netni, nitni",,"female ego's daughter","",,,""
+"mSS","mocpon",,"male ego's son's son","",,,""
+"mSD","mocpon",,"male ego's son's daughter","",,,""
+"mDS","mocpon",,"male ego's daughter's son","",,,""
+"mDD","mocpon",,"male ego's daughter's daughter","",,,""
+"fSS","mocpon",,"female ego's son's son","",,,""
+"fSD","mocpon",,"female ego's son's daughter","",,,""
+"fDS","mocpon",,"female ego's daughter's son","",,,""
+"fDD","mocpon",,"female ego's daugher's daughter","",,,""
+"mFF","(i)tahen, (i)tais",,"male ego's father‘s father","",,,""
+"mFM","uyon",,"male ego's father's mother","",,,""
+"mMF","(i)tahen, (i)tais",,"male ego's mother's father","",,,""
+"mMM","uyon",,"male ego's mother's mother","",,,""
+"fFF","(i)tahen, (i)tais",,"female ego's father's father","",,,""
+"fFM","uyon",,"female ego's father's mother","",,,""
+"fMF","(i)tahen, (i)tais",,"female ego's mother's father","",,,""
+"fMM","uyon",,"female ego's mother's mother","",,,""
+"meBS","alwon, neten, netni, nitni",,"male ego's older brother's son","",,,""
+"myBS","alwon, neten, netni, nitni",,"male ego's younger brother's son","",,,""
+"meZS","alwon",,"male ego's older sister's son","",,,""
+"myZS","alwon",,"male ego's younger sister's son","",,,""
+"meBD","alwon, neten, netni, nitni",,"male ego's older brother's daughter","",,,""
+"myBD","alwon, neten, netni, nitni",,"male ego's younger brother's daughter","",,,""
+"meZD","alwon",,"male ego's older sister's daughter","",,,""
+"myZD","alwon",,"male ego's younger sister's daughter","",,,""
+"feBS","eten",,"female ego's older brother's son","",,,""
+"fyBS","eten",,"female ego's younger brother's son","",,,""
+"feZS","eten",,"female ego's older sister's son","",,,""
+"fyZS","eten",,"female ego's younger sister's son","",,,""
+"feBD","eten",,"female ego's older brother's daughter","",,,""
+"fyBD","eten",,"female ego's younger brother's daughter","",,,""
+"feZD","eten, neten, netni, nitni",,"female ego's older sister's daughter","",,,""
+"fyZD","eten, neten, netni, nitni",,"female ego's younger sister's daughter","",,,""
+"mFeB","itviroc",,"male ego's father's older brother","",,,""
+"mFyB","itviroc, nate viroc",,"male ego's father's younger brother","",,,""
+"mFeZ","namou viroc, ndetwon, retun",,"male ego's father's older sister","",,,""
+"mFyZ","namou viroc, ndetwon, retun",,"male ego's father's younger sister","",,,""
+"mMeB","metan",,"male ego's mother's older brother","",,,""
+"mMyB","metan",,"male ego's mother's younger brother","",,,""
+"mMeZ","ndetwon, retun, ndinmepelec",,"male ego's mother's older sister","",,,""
+"mMyZ","ndetwon, retun, ndinmepelec, namou viroc",,"male ego's mother's younger sister","",,,""
+"fFeB","itviroc",,"female ego's father's older brother","",,,""
+"fFyB","itviroc, nate viroc",,"female ego's father's younger brother","",,,""
+"fFeZ","namou viroc, ndetwon, retun",,"female ego's father's older sister","",,,""
+"fFyZ","namou viroc, ndetwon, retun",,"female ego's father's younger sister","",,,""
+"fMeB","metan",,"female ego's mother's older brother","",,,""
+"fMyB","metan",,"female ego's mother's younger brother","",,,""
+"fMeZ","ndetwon, retun, ndinmepelec",,"female ego's mother's older sister","",,,""
+"fMyZ","ndetwon, retun, ndinmepelec, namou viroc",,"female ego's mother's younger sister","",,,""
+"mW","retpon",,"male ego's wife","",,,""
+"fH","ahwon, asun",,"female ego‘s husband","",,,""
+"mDH","etemachi",,"male ego's daughter's husband","",,,""
+"fDH","etemachi",,"female ego's daughter's husband","",,,""
+"mSW","etemachi",,"male ego's son's wife","",,,""
+"fSW","etemachi",,"female ego's son's wife","",,,""
+"mWF","etemachi",,"male ego's wife's father","",,,""
+"mWM","etemachi, ntample",,"male ego's wife's mother","",,,""
+"mWB","etemachi",,"male ego's wife's brother","",,,""
+"mWZ","avenai",,"male ego's wife's sister","",,,""
+"fHF","etemachi",,"female ego's husband's father","",,,""
+"fHM","etemachi, ntample",,"female ego's husband's mother","",,,""
+"fHB","etemachi",,"female ego's husband's brother","",,,""
+"fHZ","etemachi",,"female ego's husband's sister","",,,""
+"mBW","rovgun",,"male ego's brother's wife","",,,""
+"fBW","rovgun",,"female ego's brother's wife","nahimnalam",,,"wife of chief"
+"mZH","etemachi",,"male ego's sister's husband","",,,""
+"fZH","ahwon, asun",,"female ego's sister's husband","",,,""
+"mFZS","alwon",,"male ego's father's sister's son","",,,""
+"mMBS","alwon",,"male ego's mother's brother's son","",,,""
+"mFZD","alwon",,"male ego's father's sister's daughter","",,,""
+"mMBD","alwon",,"male ego's mother's brother's daughter","",,,""
+"fMBS","alwon",,"female ego's mother's brother's son","",,,""
+"fMBD","alwon",,"female ego's mother's brother's daughter","",,,""
+"mFeZS","alwon",,"male ego's father's sister's son","",,,"Inferred; "
+"mFyZS","alwon",,"male ego's father's sister's son","",,,"Inferred; "
+"mFeZD","alwon",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFyZD","alwon",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMeBS","alwon",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMyBS","alwon",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMeBD","alwon",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","alwon",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mFZeS","alwon",,"male ego's father's sister's son","",,,"Inferred; "
+"mFZyS","alwon",,"male ego's father's sister's son","",,,"Inferred; "
+"mFZeD","alwon",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFZyD","alwon",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMBeS","alwon",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMByS","alwon",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMBeD","alwon",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","alwon",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"fMeBS","alwon",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMyBS","alwon",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMeBD","alwon",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMyBD","alwon",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMBeS","alwon",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMByS","alwon",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMBeD","alwon",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMByD","alwon",,"female ego's mother's brother's daughter","",,,"Inferred; "

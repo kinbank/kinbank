@@ -1,113 +1,177 @@
-﻿parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,abi,,male speaker's older brother,,,,kardeš can also be used as the most generic word for siblings of either sex or seniority
-meB,ağabey,,male speaker's older brother,,,,
-myB,kardeš,,male speaker's younger brother,,,,kardeš can also be used as the most generic word for siblings of either sex or seniority
-feB,abi,,female speaker's older brother,,,,"to specify gender, kız or erkek can be added for f or m"
-feB,ağabey,,female speaker's older brother,,,,
-fyB,kardeš,,female speaker's younger brother,,,,"to specify gender, kız or erkek can be added for f or m"
-meZ,abla,,male speaker's older sister,,,,
-myZ,kardeš,,male speaker's younger sister,,,,
-feZ,abla,,female speaker's older sister,,,,
-fyZ,kardeš,,female speaker's younger sister,,,,
-mF,baba,,male speaker's father,,,,
-mM,anne,,male speaker's mother,,,,
-fF,baba,,female speaker's father,,,,
-fM,anne,,female speaker's mother,,,,
-mS,oğul,,male speaker's son,,,,
-fS,oğul,,female speaker's son,,,,
-mD,kız,,male speaker's daughter,,,,
-fD,kız,,female speaker's daughter,,,,
-mSS,torun,,male speaker's son's son,,,,
-mSD,torun,,male speaker's son's daughter,,,,
-mDS,torun,,male speaker's daughter's son,,,,
-mDD,torun,,male speaker's daughter's daughter,,,,
-fSS,torun,,female speaker's son's son,,,,
-fSD,torun,,female speaker's son's daughter,,,,
-fDS,torun,,female speaker's daughter's son,,,,
-fDD,torun,,female speaker's daugher's daughter,,,,
-mFF,dede,,male speaker's father‘s father,,,,
-mFF,büyük baba,,male speaker's father‘s father,,,,
-mFM,nine,,male speaker's father's mother,,,,
-mFM,nene,,male speaker's father's mother,,,,
-mFM,babaanne,,male speaker's father's mother,,,,
-mMF,dede,,male speaker's mother's father,,,,
-mMM,"nine, nene, anneanne",,male speaker's mother's mother,,,,
-mMM,nene,,male speaker's mother's mother,,,,
-mMM,babaanne,,male speaker's mother's mother,,,,
-fFF,dede,,female speaker's father's father,,,,
-fFF,büyük baba,,female speaker's father's father,,,,
-fFM,nine,,female speaker's father's mother,,,,
-fFM,nene,,female speaker's father's mother,,,,
-fFM,babaanne,,female speaker's father's mother,,,,
-fMF,dede,,female speaker's mother's father,,,,
-fMM,nine,,female speaker's mother's mother,,,,
-fMM,nene,,female speaker's mother's mother,,,,
-fMM,anneanne,,female speaker's mother's mother,,,,
-meBS,yeğen,,male speaker's older brother's son,,,,
-myBS,yeğen,,male speaker's younger brother's son,,,,
-meZS,yeğen,,male speaker's older sister's son,,,,
-myZS,yeğen,,male speaker's younger sister's son,,,,
-meBD,yeğen,,male speaker's older brother's daughter,,,,
-myBD,yeğen,,male speaker's younger brother's daughter,,,,
-meZD,yeğen,,male speaker's older sister's daughter,,,,
-myZD,yeğen,,male speaker's younger sister's daughter,,,,
-feBS,yeğen,,female speaker's older brother's son,,,,
-fyBS,yeğen,,female speaker's younger brother's son,,,,
-feZS,yeğen,,female speaker's older sister's son,,,,
-fyZS,yeğen,,female speaker's younger sister's son,,,,
-feBD,yeğen,,female speaker's older brother's daughter,,,,
-fyBD,yeğen,,female speaker's younger brother's daughter,,,,
-feZD,yeğen,,female speaker's older sister's daughter,,,,
-fyZD,yeğen,,female speaker's younger sister's daughter,,,,
-mFeB,amca,,male speaker's father's older brother,,,,"Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term warrawarrayarrba can be used for the father's oldest brother"
-mFyB,amca,,male speaker's father's younger brother,,,,"Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term kunyaa kanthathu can be used for FyB"
-mFeZ,hala,,male speaker's father's older sister,,,,
-mFyZ,hala,,male speaker's father's younger sister,,,,
-mMeB,dayı,,male speaker's mother's older brother,,,,
-mMyB,dayı,,male speaker's mother's younger brother,,,,
-mMeZ,teyze,,male speaker's mother's older sister,,,,
-mMyZ,teyze,,male speaker's mother's younger sister,,,,"Normally, the basic 'mother' term ngamathu is used for M and MyZ. However, if more precision is required, the term kabiriju can be used for the 'last mother', who is in fact the mother's youngest co-wife (and not necessarily the mother's biological sister"
-fFeB,amca,,female speaker's father's older brother,,,,
-fFyB,amca,,female speaker's father's younger brother,,,,
-fFeZ,hala,,female speaker's father's older sister,,,,
-fFyZ,hala,,female speaker's father's younger sister,,,,
-fMeB,dayı,,female speaker's mother's older brother,,,,
-fMyB,dayı,,female speaker's mother's younger brother,,,,
-fMeZ,teyze,,female speaker's mother's older sister,,,,
-fMyZ,teyze,,female speaker's mother's younger sister,,,,
-mW,karı,,male speaker's wife,,,,
-fH,koca,,female speaker‘s husband,,,,
-fDH,damat,,female speaker's daughter's husband,,,,
-mDH,damat,,male speaker's daughter's husband,,,,
-fSW,gelin,,female speaker's son's wife,,,,
-mSW,gelin,,male speaker's son's wife,,,,
-fHM,kaynana,,female speaker's husband's mother,,,,
-fHM,kayınvalide,,female speaker's husband's mother,,,,
-mWM,kaynana,,male speaker's wife's mother,,,,
-mWM,kayınvalide,,male speaker's wife's mother,,,,
-fHF,kayınbaba,,female speaker's husband's father,,,,
-fHF,kayınpeder,,female speaker's husband's father,,,,
-mWF,kayınbaba,,male speaker's wife's father,,,,
-mWF,kayınpeder,,male speaker's wife's father,,,,
-mFBS,kuzen,,male speaker's father's brother's son,,,,"choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
-mFZS,kuzen,,male speaker's father's sister's son,,,,
-mMBS,kuzen,,male speaker's mother's brother's son,,,,
-mMZS,kuzen,,male speaker's mother's sister's son,,,,"choice between thabuju and duujind depends on relative age, as with sib terms"
-mFBD,kuzen,,male speaker's father's brother's daughter,,,,
-mFZD,kuzen,,male speaker's father's sister's daughter,,,,
-mMBD,kuzen,,male speaker's mother's brother's daughter,,,,"ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
-mMZD,kuzen,,male speaker's mother's sister's daughter,,,,
-fFBS,kuzen,,female speaker's father's brother's son,,,,
-fFZS,kuzen,,female speaker's father's sister's son,,,,
-fMBS,kuzen,,female speaker's mother's brother's son,,,,
-fMZS,kuzen,,female speaker's mother's sister's son,,,,
-fFBD,kuzen,,female speaker's father's brother's daughter,,,,choice between yakukathu and duujind depends on relative ag
-fFZD,kuzen,,female speaker's father's sister's daughter,,,,
-fMBD,kuzen,,female speaker's mother's brother's daughter,,,,
-fMZD,kuzen,,female speaker's mother's sister's daughter,,,,"choice between yakukathu and duujind depends on relative age, as with sib terms"
-mWZ,baldız,,male speaker's wife's sister,,,,
-mWB,kayınbirader,,male speaker's wife's brother,,,,
-mWZH,bacanak,,male speaker's wife's sister's husband,,,,
-fHZ,görümce,,female speaker's husband's sister,,,,
-fHB,kayınbirader,,female speaker's husband's brother,,,,
-fBW,elti,,female speaker's husband's brother's wife,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","abi",,"male speaker's older brother",,,,"kardeš can also be used as the most generic word for siblings of either sex or seniority"
+"meB","ağabey",,"male speaker's older brother",,,,""
+"myB","kardeš",,"male speaker's younger brother",,,,"kardeš can also be used as the most generic word for siblings of either sex or seniority"
+"feB","abi",,"female speaker's older brother",,,,"to specify gender, kız or erkek can be added for f or m"
+"feB","ağabey",,"female speaker's older brother",,,,""
+"fyB","kardeš",,"female speaker's younger brother",,,,"to specify gender, kız or erkek can be added for f or m"
+"meZ","abla",,"male speaker's older sister",,,,""
+"myZ","kardeš",,"male speaker's younger sister",,,,""
+"feZ","abla",,"female speaker's older sister",,,,""
+"fyZ","kardeš",,"female speaker's younger sister",,,,""
+"mF","baba",,"male speaker's father",,,,""
+"mM","anne",,"male speaker's mother",,,,""
+"fF","baba",,"female speaker's father",,,,""
+"fM","anne",,"female speaker's mother",,,,""
+"mS","oğul",,"male speaker's son",,,,""
+"fS","oğul",,"female speaker's son",,,,""
+"mD","kız",,"male speaker's daughter",,,,""
+"fD","kız",,"female speaker's daughter",,,,""
+"mSS","torun",,"male speaker's son's son",,,,""
+"mSD","torun",,"male speaker's son's daughter",,,,""
+"mDS","torun",,"male speaker's daughter's son",,,,""
+"mDD","torun",,"male speaker's daughter's daughter",,,,""
+"fSS","torun",,"female speaker's son's son",,,,""
+"fSD","torun",,"female speaker's son's daughter",,,,""
+"fDS","torun",,"female speaker's daughter's son",,,,""
+"fDD","torun",,"female speaker's daugher's daughter",,,,""
+"mFF","dede",,"male speaker's father‘s father",,,,""
+"mFF","büyük baba",,"male speaker's father‘s father",,,,""
+"mFM","nine",,"male speaker's father's mother",,,,""
+"mFM","nene",,"male speaker's father's mother",,,,""
+"mFM","babaanne",,"male speaker's father's mother",,,,""
+"mMF","dede",,"male speaker's mother's father",,,,""
+"mMM","nine, nene, anneanne",,"male speaker's mother's mother",,,,""
+"mMM","nene",,"male speaker's mother's mother",,,,""
+"mMM","babaanne",,"male speaker's mother's mother",,,,""
+"fFF","dede",,"female speaker's father's father",,,,""
+"fFF","büyük baba",,"female speaker's father's father",,,,""
+"fFM","nine",,"female speaker's father's mother",,,,""
+"fFM","nene",,"female speaker's father's mother",,,,""
+"fFM","babaanne",,"female speaker's father's mother",,,,""
+"fMF","dede",,"female speaker's mother's father",,,,""
+"fMM","nine",,"female speaker's mother's mother",,,,""
+"fMM","nene",,"female speaker's mother's mother",,,,""
+"fMM","anneanne",,"female speaker's mother's mother",,,,""
+"meBS","yeğen",,"male speaker's older brother's son",,,,""
+"myBS","yeğen",,"male speaker's younger brother's son",,,,""
+"meZS","yeğen",,"male speaker's older sister's son",,,,""
+"myZS","yeğen",,"male speaker's younger sister's son",,,,""
+"meBD","yeğen",,"male speaker's older brother's daughter",,,,""
+"myBD","yeğen",,"male speaker's younger brother's daughter",,,,""
+"meZD","yeğen",,"male speaker's older sister's daughter",,,,""
+"myZD","yeğen",,"male speaker's younger sister's daughter",,,,""
+"feBS","yeğen",,"female speaker's older brother's son",,,,""
+"fyBS","yeğen",,"female speaker's younger brother's son",,,,""
+"feZS","yeğen",,"female speaker's older sister's son",,,,""
+"fyZS","yeğen",,"female speaker's younger sister's son",,,,""
+"feBD","yeğen",,"female speaker's older brother's daughter",,,,""
+"fyBD","yeğen",,"female speaker's younger brother's daughter",,,,""
+"feZD","yeğen",,"female speaker's older sister's daughter",,,,""
+"fyZD","yeğen",,"female speaker's younger sister's daughter",,,,""
+"mFeB","amca",,"male speaker's father's older brother",,,,"Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term warrawarrayarrba can be used for the father's oldest brother"
+"mFyB","amca",,"male speaker's father's younger brother",,,,"Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term kunyaa kanthathu can be used for FyB"
+"mFeZ","hala",,"male speaker's father's older sister",,,,""
+"mFyZ","hala",,"male speaker's father's younger sister",,,,""
+"mMeB","dayı",,"male speaker's mother's older brother",,,,""
+"mMyB","dayı",,"male speaker's mother's younger brother",,,,""
+"mMeZ","teyze",,"male speaker's mother's older sister",,,,""
+"mMyZ","teyze",,"male speaker's mother's younger sister",,,,"Normally, the basic 'mother' term ngamathu is used for M and MyZ. However, if more precision is required, the term kabiriju can be used for the 'last mother', who is in fact the mother's youngest co-wife (and not necessarily the mother's biological sister"
+"fFeB","amca",,"female speaker's father's older brother",,,,""
+"fFyB","amca",,"female speaker's father's younger brother",,,,""
+"fFeZ","hala",,"female speaker's father's older sister",,,,""
+"fFyZ","hala",,"female speaker's father's younger sister",,,,""
+"fMeB","dayı",,"female speaker's mother's older brother",,,,""
+"fMyB","dayı",,"female speaker's mother's younger brother",,,,""
+"fMeZ","teyze",,"female speaker's mother's older sister",,,,""
+"fMyZ","teyze",,"female speaker's mother's younger sister",,,,""
+"mW","karı",,"male speaker's wife",,,,""
+"fH","koca",,"female speaker‘s husband",,,,""
+"fDH","damat",,"female speaker's daughter's husband",,,,""
+"mDH","damat",,"male speaker's daughter's husband",,,,""
+"fSW","gelin",,"female speaker's son's wife",,,,""
+"mSW","gelin",,"male speaker's son's wife",,,,""
+"fHM","kaynana",,"female speaker's husband's mother",,,,""
+"fHM","kayınvalide",,"female speaker's husband's mother",,,,""
+"mWM","kaynana",,"male speaker's wife's mother",,,,""
+"mWM","kayınvalide",,"male speaker's wife's mother",,,,""
+"fHF","kayınbaba",,"female speaker's husband's father",,,,""
+"fHF","kayınpeder",,"female speaker's husband's father",,,,""
+"mWF","kayınbaba",,"male speaker's wife's father",,,,""
+"mWF","kayınpeder",,"male speaker's wife's father",,,,""
+"mFBS","kuzen",,"male speaker's father's brother's son",,,,"choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFZS","kuzen",,"male speaker's father's sister's son",,,,""
+"mMBS","kuzen",,"male speaker's mother's brother's son",,,,""
+"mMZS","kuzen",,"male speaker's mother's sister's son",,,,"choice between thabuju and duujind depends on relative age, as with sib terms"
+"mFBD","kuzen",,"male speaker's father's brother's daughter",,,,""
+"mFZD","kuzen",,"male speaker's father's sister's daughter",,,,""
+"mMBD","kuzen",,"male speaker's mother's brother's daughter",,,,"ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMZD","kuzen",,"male speaker's mother's sister's daughter",,,,""
+"fFBS","kuzen",,"female speaker's father's brother's son",,,,""
+"fFZS","kuzen",,"female speaker's father's sister's son",,,,""
+"fMBS","kuzen",,"female speaker's mother's brother's son",,,,""
+"fMZS","kuzen",,"female speaker's mother's sister's son",,,,""
+"fFBD","kuzen",,"female speaker's father's brother's daughter",,,,"choice between yakukathu and duujind depends on relative ag"
+"fFZD","kuzen",,"female speaker's father's sister's daughter",,,,""
+"fMBD","kuzen",,"female speaker's mother's brother's daughter",,,,""
+"fMZD","kuzen",,"female speaker's mother's sister's daughter",,,,"choice between yakukathu and duujind depends on relative age, as with sib terms"
+"mWZ","baldız",,"male speaker's wife's sister",,,,""
+"mWB","kayınbirader",,"male speaker's wife's brother",,,,""
+"mWZH","bacanak",,"male speaker's wife's sister's husband",,,,""
+"fHZ","görümce",,"female speaker's husband's sister",,,,""
+"fHB","kayınbirader",,"female speaker's husband's brother",,,,""
+"fBW","elti",,"female speaker's husband's brother's wife",,,,""
+"mFeBS","kuzen",,"male speaker's father's brother's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFyBS","kuzen",,"male speaker's father's brother's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFeZS","kuzen",,"male speaker's father's sister's son",,,,"Inferred; "
+"mFyZS","kuzen",,"male speaker's father's sister's son",,,,"Inferred; "
+"mFeBD","kuzen",,"male speaker's father's brother's daughter",,,,"Inferred; "
+"mFyBD","kuzen",,"male speaker's father's brother's daughter",,,,"Inferred; "
+"mFeZD","kuzen",,"male speaker's father's sister's daughter",,,,"Inferred; "
+"mFyZD","kuzen",,"male speaker's father's sister's daughter",,,,"Inferred; "
+"mMeBS","kuzen",,"male speaker's mother's brother's son",,,,"Inferred; "
+"mMyBS","kuzen",,"male speaker's mother's brother's son",,,,"Inferred; "
+"mMeZS","kuzen",,"male speaker's mother's sister's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMyZS","kuzen",,"male speaker's mother's sister's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMeBD","kuzen",,"male speaker's mother's brother's daughter",,,,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMyBD","kuzen",,"male speaker's mother's brother's daughter",,,,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMeZD","kuzen",,"male speaker's mother's sister's daughter",,,,"Inferred; "
+"mMyZD","kuzen",,"male speaker's mother's sister's daughter",,,,"Inferred; "
+"mFBeS","kuzen",,"male speaker's father's brother's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFByS","kuzen",,"male speaker's father's brother's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFZeS","kuzen",,"male speaker's father's sister's son",,,,"Inferred; "
+"mFZyS","kuzen",,"male speaker's father's sister's son",,,,"Inferred; "
+"mFBeD","kuzen",,"male speaker's father's brother's daughter",,,,"Inferred; "
+"mFByD","kuzen",,"male speaker's father's brother's daughter",,,,"Inferred; "
+"mFZeD","kuzen",,"male speaker's father's sister's daughter",,,,"Inferred; "
+"mFZyD","kuzen",,"male speaker's father's sister's daughter",,,,"Inferred; "
+"mMBeS","kuzen",,"male speaker's mother's brother's son",,,,"Inferred; "
+"mMByS","kuzen",,"male speaker's mother's brother's son",,,,"Inferred; "
+"mMZeS","kuzen",,"male speaker's mother's sister's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMZyS","kuzen",,"male speaker's mother's sister's son",,,,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMBeD","kuzen",,"male speaker's mother's brother's daughter",,,,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMByD","kuzen",,"male speaker's mother's brother's daughter",,,,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMZeD","kuzen",,"male speaker's mother's sister's daughter",,,,"Inferred; "
+"mMZyD","kuzen",,"male speaker's mother's sister's daughter",,,,"Inferred; "
+"fFeBS","kuzen",,"female speaker's father's brother's son",,,,"Inferred; "
+"fFyBS","kuzen",,"female speaker's father's brother's son",,,,"Inferred; "
+"fFeZS","kuzen",,"female speaker's father's sister's son",,,,"Inferred; "
+"fFyZS","kuzen",,"female speaker's father's sister's son",,,,"Inferred; "
+"fFeBD","kuzen",,"female speaker's father's brother's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFyBD","kuzen",,"female speaker's father's brother's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFeZD","kuzen",,"female speaker's father's sister's daughter",,,,"Inferred; "
+"fFyZD","kuzen",,"female speaker's father's sister's daughter",,,,"Inferred; "
+"fMeBS","kuzen",,"female speaker's mother's brother's son",,,,"Inferred; "
+"fMyBS","kuzen",,"female speaker's mother's brother's son",,,,"Inferred; "
+"fMeZS","kuzen",,"female speaker's mother's sister's son",,,,"Inferred; "
+"fMyZS","kuzen",,"female speaker's mother's sister's son",,,,"Inferred; "
+"fMeBD","kuzen",,"female speaker's mother's brother's daughter",,,,"Inferred; "
+"fMyBD","kuzen",,"female speaker's mother's brother's daughter",,,,"Inferred; "
+"fMeZD","kuzen",,"female speaker's mother's sister's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"fMyZD","kuzen",,"female speaker's mother's sister's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"fFBeS","kuzen",,"female speaker's father's brother's son",,,,"Inferred; "
+"fFByS","kuzen",,"female speaker's father's brother's son",,,,"Inferred; "
+"fFZeS","kuzen",,"female speaker's father's sister's son",,,,"Inferred; "
+"fFZyS","kuzen",,"female speaker's father's sister's son",,,,"Inferred; "
+"fFBeD","kuzen",,"female speaker's father's brother's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFByD","kuzen",,"female speaker's father's brother's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFZeD","kuzen",,"female speaker's father's sister's daughter",,,,"Inferred; "
+"fFZyD","kuzen",,"female speaker's father's sister's daughter",,,,"Inferred; "
+"fMBeS","kuzen",,"female speaker's mother's brother's son",,,,"Inferred; "
+"fMByS","kuzen",,"female speaker's mother's brother's son",,,,"Inferred; "
+"fMZeS","kuzen",,"female speaker's mother's sister's son",,,,"Inferred; "
+"fMZyS","kuzen",,"female speaker's mother's sister's son",,,,"Inferred; "
+"fMBeD","kuzen",,"female speaker's mother's brother's daughter",,,,"Inferred; "
+"fMByD","kuzen",,"female speaker's mother's brother's daughter",,,,"Inferred; "
+"fMZeD","kuzen",,"female speaker's mother's sister's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"fMZyD","kuzen",,"female speaker's mother's sister's daughter",,,,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"

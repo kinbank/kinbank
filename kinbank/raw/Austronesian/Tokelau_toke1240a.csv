@@ -1,92 +1,152 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"fetau-taina, uso",,male ego's older brother,"kimua, faka-mua",,,oldest brother or sister
-myB,"fetau-taina, uso",,male ego's younger brother,kimuli,,,youngest brothe ror sister
-feB,tua-gane,,female ego's older brother,"kimua, faka-mua",,,oldest brother or sister
-fyB,tua-gane,,female ego's younger brother,kimuli,,,youngest brothe ror sister
-meZ,tua-fafine,,male ego's older sister,"kimua, faka-mua",,,oldest brother or sister
-myZ,tua-fafine,,male ego's younger sister,kimuli,,,youngest brothe ror sister
-feZ,"fetau-taina, uso",,female ego's older sister,"kimua, faka-mua",,,oldest brother or sister
-fyZ,"fetau-taina, uso",,female ego's younger sister,kimuli,,,youngest brothe ror sister
-mF,tamana,,male ego's father,,,,
-mM,maatua,,male ego's mother,,,,
-fF,tamana,,female ego's father,,,,
-fM,maatua,,female ego's mother,,,,
-mS,"tama, ataliki, tama ataliki",,male ego's son,,,,
-fS,"tama, tama fafine",,female ego's son,,,,
-mD,"afafine, tama fafine",,male ego's daughter,,,,
-fD,"tama, tama fafine",,female ego's daughter,,,,
-mSS,makupuna,,male ego's son's son,,,,
-mSD,makupuna,,male ego's son's daughter,,,,
-mDS,"afafine, tama fafine, ilamutu",,male ego's daughter's son,,,,
-mDD,makupuna,,male ego's daughter's daughter,,,,
-fSS,makupuna,,female ego's son's son,,,,
-fSD,makupuna,,female ego's son's daughter,,,,
-fDS,makupuna,,female ego's daughter's son,,,,
-fDD,makupuna,,female ego's daugher's daughter,,,,
-mFF,tupuna,,male ego's father‘s father,,,,
-mFM,tupuna,,male ego's father's mother,,,,
-mMF,tupuna,,male ego's mother's father,,,,
-mMM,tupuna,,male ego's mother's mother,,,,
-fFF,tupuna,,female ego's father's father,,,,
-fFM,tupuna,,female ego's father's mother,,,,
-fMF,tupuna,,female ego's mother's father,,,,
-fMM,tupuna,,female ego's mother's mother,,,,
-meBS,"tama, ataliki, tama ataliki",,male ego's older brother's son,,,,
-myBS,"tama, ataliki, tama ataliki",,male ego's younger brother's son,,,,
-meZS,"ataliki, tama ataliki, ilamutu",,male ego's older sister's son,,,,
-myZS,"ataliki, tama ataliki, ilamutu",,male ego's younger sister's son,,,,
-meBD,"afafine, tama fafine",,male ego's older brother's daughter,,,,
-myBD,"afafine, tama fafine",,male ego's younger brother's daughter,,,,
-meZD,"afafine, tama fafine",,male ego's older sister's daughter,,,,
-myZD,"afafine, tama fafine",,male ego's younger sister's daughter,,,,
-feBS,tama sa,,female ego's older brother's son,,,,
-fyBS,tama sa,,female ego's younger brother's son,,,,
-feZS,fai-tama,,female ego's older sister's son,,,,
-fyZS,fai-tama,,female ego's younger sister's son,,,,
-feBD,tama sa,,female ego's older brother's daughter,,,,
-fyBD,tama sa,,female ego's younger brother's daughter,,,,
-feZD,fai-tama,,female ego's older sister's daughter,,,,
-fyZD,fai-tama,,female ego's younger sister's daughter,,,,
-mFeB,tamana,,male ego's father's older brother,,,,
-mFyB,tamana,,male ego's father's younger brother,,,,
-mFeZ,"matua sa, matua tau-aitu",,male ego's father's older sister,,,,
-mFyZ,"matua sa, matua tau-aitu",,male ego's father's younger sister,,,,
-mMeZ,maatua,,male ego's mother's older sister,,,,
-mMyZ,maatua,,male ego's mother's younger sister,,,,
-fFeB,tamana,,female ego's father's older brother,,,,
-fFyB,tamana,,female ego's father's younger brother,,,,
-fFeZ,"matua sa, matua tau-aitu",,female ego's father's older sister,,,,
-fFyZ,"matua sa, matua tau-aitu",,female ego's father's younger sister,,,,
-fMeZ,maatua,,female ego's mother's older sister,,,,
-fMyZ,maatua,,female ego's mother's younger sister,,,,
-mW,avaga,,male ego's wife,,,,
-fH,"avaga, taane",,female ego‘s husband,,,,
-mDH,"ataliki, tama ataliki",,male ego's daughter's husband,,,,
-fDH,"tama, funaoga",,female ego's daughter's husband,,,,
-mSW,"afafine, tama fafine",,male ego's son's wife,,,,
-fSW,"tama, funaoga",,female ego's son's wife,,,,
-mWF,tamana,,male ego's wife's father,,,,
-mWM,maatua,,male ego's wife's mother,,,,
-mWB,maa,,male ego's wife's brother,,,,
-mWZ,n/a,,male ego's wife's sister,,,,
-fHF,tamana,,female ego's husband's father,,,,
-fHM,maatua,,female ego's husband's mother,,,,
-fHB,n/a,,female ego's husband's brother,,,,
-fHZ,maa,,female ego's husband's sister,,,,
-fBW,maa,,female ego's brother's wife,,,,
-mZH,maa,,male ego's sister's husband,,,,
-mFBS,taina,,male ego's father's brother's son,,,,
-mFZS,ilamutu,,male ego's father's sister's son,,,,
-mMBS,tua-tina,,male ego's mother's brother's son,,,,
-mMZS,taina,,male ego's mother's sister's son,,,,
-mFBD,"taina fetau taina, taina, tua-fafin, faka-tua-fafine",,male ego's father's brother's daughter,,,,
-mFZD,"ilamutu, fai-tua-fafine",,male ego's father's sister's daughter,,,,
-mMBD,"fai-tua-fafine, tua-tina",,male ego's mother's brother's daughter,,,,
-mMZD,"tuafafine fetau taina, tua-fafin, faka-tua-fafine",,male ego's mother's sister's daughter,,,,
-fFBS,"taina fetau taina, faka-tua-gane",,female ego's father's brother's son,,,,
-fFZS,"ilamutu, fai-tuagane",,female ego's father's sister's son,,,,
-fMBS,"fai-tuagane, tua-tina",,female ego's mother's brother's son,,,,
-fMZS,"tuafafine fetau taina, tua-gane, faka-tua-gane",,female ego's mother's sister's son,,,,
-fFZD,"ilamutu, taina",,female ego's father's sister's daughter,,,,
-fMBD,tua-tina,,female ego's mother's brother's daughter,,,,
-fMZD,taina,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","fetau-taina, uso",,"male ego's older brother","kimua, faka-mua",,,"oldest brother or sister"
+"myB","fetau-taina, uso",,"male ego's younger brother","kimuli",,,"youngest brothe ror sister"
+"feB","tua-gane",,"female ego's older brother","kimua, faka-mua",,,"oldest brother or sister"
+"fyB","tua-gane",,"female ego's younger brother","kimuli",,,"youngest brothe ror sister"
+"meZ","tua-fafine",,"male ego's older sister","kimua, faka-mua",,,"oldest brother or sister"
+"myZ","tua-fafine",,"male ego's younger sister","kimuli",,,"youngest brothe ror sister"
+"feZ","fetau-taina, uso",,"female ego's older sister","kimua, faka-mua",,,"oldest brother or sister"
+"fyZ","fetau-taina, uso",,"female ego's younger sister","kimuli",,,"youngest brothe ror sister"
+"mF","tamana",,"male ego's father","",,,""
+"mM","maatua",,"male ego's mother","",,,""
+"fF","tamana",,"female ego's father","",,,""
+"fM","maatua",,"female ego's mother","",,,""
+"mS","tama, ataliki, tama ataliki",,"male ego's son","",,,""
+"fS","tama, tama fafine",,"female ego's son","",,,""
+"mD","afafine, tama fafine",,"male ego's daughter","",,,""
+"fD","tama, tama fafine",,"female ego's daughter","",,,""
+"mSS","makupuna",,"male ego's son's son","",,,""
+"mSD","makupuna",,"male ego's son's daughter","",,,""
+"mDS","afafine, tama fafine, ilamutu",,"male ego's daughter's son","",,,""
+"mDD","makupuna",,"male ego's daughter's daughter","",,,""
+"fSS","makupuna",,"female ego's son's son","",,,""
+"fSD","makupuna",,"female ego's son's daughter","",,,""
+"fDS","makupuna",,"female ego's daughter's son","",,,""
+"fDD","makupuna",,"female ego's daugher's daughter","",,,""
+"mFF","tupuna",,"male ego's father‘s father","",,,""
+"mFM","tupuna",,"male ego's father's mother","",,,""
+"mMF","tupuna",,"male ego's mother's father","",,,""
+"mMM","tupuna",,"male ego's mother's mother","",,,""
+"fFF","tupuna",,"female ego's father's father","",,,""
+"fFM","tupuna",,"female ego's father's mother","",,,""
+"fMF","tupuna",,"female ego's mother's father","",,,""
+"fMM","tupuna",,"female ego's mother's mother","",,,""
+"meBS","tama, ataliki, tama ataliki",,"male ego's older brother's son","",,,""
+"myBS","tama, ataliki, tama ataliki",,"male ego's younger brother's son","",,,""
+"meZS","ataliki, tama ataliki, ilamutu",,"male ego's older sister's son","",,,""
+"myZS","ataliki, tama ataliki, ilamutu",,"male ego's younger sister's son","",,,""
+"meBD","afafine, tama fafine",,"male ego's older brother's daughter","",,,""
+"myBD","afafine, tama fafine",,"male ego's younger brother's daughter","",,,""
+"meZD","afafine, tama fafine",,"male ego's older sister's daughter","",,,""
+"myZD","afafine, tama fafine",,"male ego's younger sister's daughter","",,,""
+"feBS","tama sa",,"female ego's older brother's son","",,,""
+"fyBS","tama sa",,"female ego's younger brother's son","",,,""
+"feZS","fai-tama",,"female ego's older sister's son","",,,""
+"fyZS","fai-tama",,"female ego's younger sister's son","",,,""
+"feBD","tama sa",,"female ego's older brother's daughter","",,,""
+"fyBD","tama sa",,"female ego's younger brother's daughter","",,,""
+"feZD","fai-tama",,"female ego's older sister's daughter","",,,""
+"fyZD","fai-tama",,"female ego's younger sister's daughter","",,,""
+"mFeB","tamana",,"male ego's father's older brother","",,,""
+"mFyB","tamana",,"male ego's father's younger brother","",,,""
+"mFeZ","matua sa, matua tau-aitu",,"male ego's father's older sister","",,,""
+"mFyZ","matua sa, matua tau-aitu",,"male ego's father's younger sister","",,,""
+"mMeZ","maatua",,"male ego's mother's older sister","",,,""
+"mMyZ","maatua",,"male ego's mother's younger sister","",,,""
+"fFeB","tamana",,"female ego's father's older brother","",,,""
+"fFyB","tamana",,"female ego's father's younger brother","",,,""
+"fFeZ","matua sa, matua tau-aitu",,"female ego's father's older sister","",,,""
+"fFyZ","matua sa, matua tau-aitu",,"female ego's father's younger sister","",,,""
+"fMeZ","maatua",,"female ego's mother's older sister","",,,""
+"fMyZ","maatua",,"female ego's mother's younger sister","",,,""
+"mW","avaga",,"male ego's wife","",,,""
+"fH","avaga, taane",,"female ego‘s husband","",,,""
+"mDH","ataliki, tama ataliki",,"male ego's daughter's husband","",,,""
+"fDH","tama, funaoga",,"female ego's daughter's husband","",,,""
+"mSW","afafine, tama fafine",,"male ego's son's wife","",,,""
+"fSW","tama, funaoga",,"female ego's son's wife","",,,""
+"mWF","tamana",,"male ego's wife's father","",,,""
+"mWM","maatua",,"male ego's wife's mother","",,,""
+"mWB","maa",,"male ego's wife's brother","",,,""
+"mWZ","n/a",,"male ego's wife's sister","",,,""
+"fHF","tamana",,"female ego's husband's father","",,,""
+"fHM","maatua",,"female ego's husband's mother","",,,""
+"fHB","n/a",,"female ego's husband's brother","",,,""
+"fHZ","maa",,"female ego's husband's sister","",,,""
+"fBW","maa",,"female ego's brother's wife","",,,""
+"mZH","maa",,"male ego's sister's husband","",,,""
+"mFBS","taina",,"male ego's father's brother's son","",,,""
+"mFZS","ilamutu",,"male ego's father's sister's son","",,,""
+"mMBS","tua-tina",,"male ego's mother's brother's son","",,,""
+"mMZS","taina",,"male ego's mother's sister's son","",,,""
+"mFBD","taina fetau taina, taina, tua-fafin, faka-tua-fafine",,"male ego's father's brother's daughter","",,,""
+"mFZD","ilamutu, fai-tua-fafine",,"male ego's father's sister's daughter","",,,""
+"mMBD","fai-tua-fafine, tua-tina",,"male ego's mother's brother's daughter","",,,""
+"mMZD","tuafafine fetau taina, tua-fafin, faka-tua-fafine",,"male ego's mother's sister's daughter","",,,""
+"fFBS","taina fetau taina, faka-tua-gane",,"female ego's father's brother's son","",,,""
+"fFZS","ilamutu, fai-tuagane",,"female ego's father's sister's son","",,,""
+"fMBS","fai-tuagane, tua-tina",,"female ego's mother's brother's son","",,,""
+"fMZS","tuafafine fetau taina, tua-gane, faka-tua-gane",,"female ego's mother's sister's son","",,,""
+"fFZD","ilamutu, taina",,"female ego's father's sister's daughter","",,,""
+"fMBD","tua-tina",,"female ego's mother's brother's daughter","",,,""
+"fMZD","taina",,"female ego's mother's sister's daughter","",,,""
+"mFeBS","taina",,"male ego's father's brother's son","",,,"Inferred; "
+"mFyBS","taina",,"male ego's father's brother's son","",,,"Inferred; "
+"mFeZS","ilamutu",,"male ego's father's sister's son","",,,"Inferred; "
+"mFyZS","ilamutu",,"male ego's father's sister's son","",,,"Inferred; "
+"mFeBD","taina fetau taina, taina, tua-fafin, faka-tua-fafine",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","taina fetau taina, taina, tua-fafin, faka-tua-fafine",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFeZD","ilamutu, fai-tua-fafine",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFyZD","ilamutu, fai-tua-fafine",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMeBS","tua-tina",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMyBS","tua-tina",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMeZS","taina",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMyZS","taina",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMeBD","fai-tua-fafine, tua-tina",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","fai-tua-fafine, tua-tina",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMeZD","tuafafine fetau taina, tua-fafin, faka-tua-fafine",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","tuafafine fetau taina, tua-fafin, faka-tua-fafine",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeS","taina",,"male ego's father's brother's son","",,,"Inferred; "
+"mFByS","taina",,"male ego's father's brother's son","",,,"Inferred; "
+"mFZeS","ilamutu",,"male ego's father's sister's son","",,,"Inferred; "
+"mFZyS","ilamutu",,"male ego's father's sister's son","",,,"Inferred; "
+"mFBeD","taina fetau taina, taina, tua-fafin, faka-tua-fafine",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","taina fetau taina, taina, tua-fafin, faka-tua-fafine",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFZeD","ilamutu, fai-tua-fafine",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFZyD","ilamutu, fai-tua-fafine",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMBeS","tua-tina",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMByS","tua-tina",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMZeS","taina",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMZyS","taina",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMBeD","fai-tua-fafine, tua-tina",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","fai-tua-fafine, tua-tina",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMZeD","tuafafine fetau taina, tua-fafin, faka-tua-fafine",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","tuafafine fetau taina, tua-fafin, faka-tua-fafine",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"fFeBS","taina fetau taina, faka-tua-gane",,"female ego's father's brother's son","",,,"Inferred; "
+"fFyBS","taina fetau taina, faka-tua-gane",,"female ego's father's brother's son","",,,"Inferred; "
+"fFeZS","ilamutu, fai-tuagane",,"female ego's father's sister's son","",,,"Inferred; "
+"fFyZS","ilamutu, fai-tuagane",,"female ego's father's sister's son","",,,"Inferred; "
+"fFeZD","ilamutu, taina",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fFyZD","ilamutu, taina",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fMeBS","fai-tuagane, tua-tina",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMyBS","fai-tuagane, tua-tina",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMeZS","tuafafine fetau taina, tua-gane, faka-tua-gane",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMyZS","tuafafine fetau taina, tua-gane, faka-tua-gane",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMeBD","tua-tina",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMyBD","tua-tina",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMeZD","taina",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fMyZD","taina",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fFBeS","taina fetau taina, faka-tua-gane",,"female ego's father's brother's son","",,,"Inferred; "
+"fFByS","taina fetau taina, faka-tua-gane",,"female ego's father's brother's son","",,,"Inferred; "
+"fFZeS","ilamutu, fai-tuagane",,"female ego's father's sister's son","",,,"Inferred; "
+"fFZyS","ilamutu, fai-tuagane",,"female ego's father's sister's son","",,,"Inferred; "
+"fFZeD","ilamutu, taina",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fFZyD","ilamutu, taina",,"female ego's father's sister's daughter","",,,"Inferred; "
+"fMBeS","fai-tuagane, tua-tina",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMByS","fai-tuagane, tua-tina",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMZeS","tuafafine fetau taina, tua-gane, faka-tua-gane",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMZyS","tuafafine fetau taina, tua-gane, faka-tua-gane",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMBeD","tua-tina",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMByD","tua-tina",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMZeD","taina",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fMZyD","taina",,"female ego's mother's sister's daughter","",,,"Inferred; "

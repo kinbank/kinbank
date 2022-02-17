@@ -1,69 +1,69 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,uwesu,,,,AC144(93),madan_wisa_1906,
-mZ,uwesu,,,,AC144(126),madan_wisa_1906,
-mP,umuvyasi,,,,AC144(119),madan_wisa_1906,
-mF,wata,,,,AC144(103),madan_wisa_1906,
-mM,wama,,,yangu,AC144(116),madan_wisa_1906,
-mC,umwana,,,,AC144(94),madan_wisa_1906,
-mS,umwana mulume,,,,AC144(127),madan_wisa_1906,
-mD,umwana mukazi,,,,AC144(98),madan_wisa_1906,
-mA,wata,,,,AC144(88),madan_wisa_1906,
-mFF,sikulu,,,,AC144(107),madan_wisa_1906,
-mMF,sikulu,,,,AC144(107),madan_wisa_1906,
-mCC,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-mSS,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-mSD,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-mDS,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-mDD,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-mFB,nyinalume,,,,AC144(103),madan_wisa_1906,
-mFZ,wawo,,,nyinalume,AC144(90),madan_wisa_1906,
-mMB,umwisyo,,,,AC144(133),madan_wisa_1906,
-mMZ,wama munini,,,,AC144(90),madan_wisa_1906,
-mW,umkazi,,,,AC144(135),madan_wisa_1906,
-mWF,wawisi vyala,,,,AC144(103),madan_wisa_1906,
-mWM,nyina vyala,,,,AC144(116),madan_wisa_1906,
-meB,uwesu,,,,AC144(93),madan_wisa_1906,Inferred; NA
-myB,uwesu,,,,AC144(93),madan_wisa_1906,Inferred; NA
-meZ,uwesu,,,,AC144(126),madan_wisa_1906,Inferred; NA
-myZ,uwesu,,,,AC144(126),madan_wisa_1906,Inferred; NA
-mFeB,nyinalume,,,,AC144(103),madan_wisa_1906,Inferred; NA
-mFyB,nyinalume,,,,AC144(103),madan_wisa_1906,Inferred; NA
-mFeZ,wawo,,,nyinalume,AC144(90),madan_wisa_1906,Inferred; NA
-mFyZ,wawo,,,nyinalume,AC144(90),madan_wisa_1906,Inferred; NA
-mMeZ,wama munini,,,,AC144(90),madan_wisa_1906,Inferred; NA
-mMyZ,wama munini,,,,AC144(90),madan_wisa_1906,Inferred; NA
-mMeB,umwisyo,,,,AC144(133),madan_wisa_1906,Inferred; NA
-mMyB,umwisyo,,,,AC144(133),madan_wisa_1906,Inferred; NA
-fB,uwesu,,,,AC144(93),madan_wisa_1906,
-fZ,uwesu,,,,AC144(126),madan_wisa_1906,
-fP,umuvyasi,,,,AC144(119),madan_wisa_1906,
-fF,wata,,,,AC144(103),madan_wisa_1906,
-fM,wama,,,yangu,AC144(116),madan_wisa_1906,
-fC,umwana,,,,AC144(94),madan_wisa_1906,
-fS,umwana mulume,,,,AC144(127),madan_wisa_1906,
-fD,umwana mukazi,,,,AC144(98),madan_wisa_1906,
-fA,wata,,,,AC144(88),madan_wisa_1906,
-fFF,sikulu,,,,AC144(107),madan_wisa_1906,
-fMF,sikulu,,,,AC144(107),madan_wisa_1906,
-fCC,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-fSS,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-fSD,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-fDS,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-fDD,umwisi mkulu,,,,AC144(107),madan_wisa_1906,
-fFB,nyinalume,,,,AC144(103),madan_wisa_1906,
-fFZ,wawo,,,nyinalume,AC144(90),madan_wisa_1906,
-fMB,umwisyo,,,,AC144(133),madan_wisa_1906,
-fMZ,wama munini,,,,AC144(90),madan_wisa_1906,
-fH,umulume,,,,AC144(109),madan_wisa_1906,
-feB,uwesu,,,,AC144(93),madan_wisa_1906,Inferred; NA
-fyB,uwesu,,,,AC144(93),madan_wisa_1906,Inferred; NA
-feZ,uwesu,,,,AC144(126),madan_wisa_1906,Inferred; NA
-fyZ,uwesu,,,,AC144(126),madan_wisa_1906,Inferred; NA
-fFeB,nyinalume,,,,AC144(103),madan_wisa_1906,Inferred; NA
-fFyB,nyinalume,,,,AC144(103),madan_wisa_1906,Inferred; NA
-fFeZ,wawo,,,nyinalume,AC144(90),madan_wisa_1906,Inferred; NA
-fFyZ,wawo,,,nyinalume,AC144(90),madan_wisa_1906,Inferred; NA
-fMeZ,wama munini,,,,AC144(90),madan_wisa_1906,Inferred; NA
-fMyZ,wama munini,,,,AC144(90),madan_wisa_1906,Inferred; NA
-fMeB,umwisyo,,,,AC144(133),madan_wisa_1906,Inferred; NA
-fMyB,umwisyo,,,,AC144(133),madan_wisa_1906,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","uwesu",,,"","AC144(93)","madan_wisa_1906",""
+"mZ","uwesu",,,"","AC144(126)","madan_wisa_1906",""
+"mP","umuvyasi",,,"","AC144(119)","madan_wisa_1906",""
+"mF","wata",,,"","AC144(103)","madan_wisa_1906",""
+"mM","wama",,,"yangu","AC144(116)","madan_wisa_1906",""
+"mC","umwana",,,"","AC144(94)","madan_wisa_1906",""
+"mS","umwana mulume",,,"","AC144(127)","madan_wisa_1906",""
+"mD","umwana mukazi",,,"","AC144(98)","madan_wisa_1906",""
+"mA","wata",,,"","AC144(88)","madan_wisa_1906",""
+"mFF","sikulu",,,"","AC144(107)","madan_wisa_1906",""
+"mMF","sikulu",,,"","AC144(107)","madan_wisa_1906",""
+"mCC","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"mSS","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"mSD","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"mDS","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"mDD","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"mFB","nyinalume",,,"","AC144(103)","madan_wisa_1906",""
+"mFZ","wawo",,,"nyinalume","AC144(90)","madan_wisa_1906",""
+"mMB","umwisyo",,,"","AC144(133)","madan_wisa_1906",""
+"mMZ","wama munini",,,"","AC144(90)","madan_wisa_1906",""
+"mW","umkazi",,,"","AC144(135)","madan_wisa_1906",""
+"mWF","wawisi vyala",,,"","AC144(103)","madan_wisa_1906",""
+"mWM","nyina vyala",,,"","AC144(116)","madan_wisa_1906",""
+"meB","uwesu",,,"","AC144(93)","madan_wisa_1906","Inferred; NA"
+"myB","uwesu",,,"","AC144(93)","madan_wisa_1906","Inferred; NA"
+"meZ","uwesu",,,"","AC144(126)","madan_wisa_1906","Inferred; NA"
+"myZ","uwesu",,,"","AC144(126)","madan_wisa_1906","Inferred; NA"
+"mFeB","nyinalume",,,"","AC144(103)","madan_wisa_1906","Inferred; NA"
+"mFyB","nyinalume",,,"","AC144(103)","madan_wisa_1906","Inferred; NA"
+"mFeZ","wawo",,,"nyinalume","AC144(90)","madan_wisa_1906","Inferred; NA"
+"mFyZ","wawo",,,"nyinalume","AC144(90)","madan_wisa_1906","Inferred; NA"
+"mMeZ","wama munini",,,"","AC144(90)","madan_wisa_1906","Inferred; NA"
+"mMyZ","wama munini",,,"","AC144(90)","madan_wisa_1906","Inferred; NA"
+"mMeB","umwisyo",,,"","AC144(133)","madan_wisa_1906","Inferred; NA"
+"mMyB","umwisyo",,,"","AC144(133)","madan_wisa_1906","Inferred; NA"
+"fB","uwesu",,,"","AC144(93)","madan_wisa_1906",""
+"fZ","uwesu",,,"","AC144(126)","madan_wisa_1906",""
+"fP","umuvyasi",,,"","AC144(119)","madan_wisa_1906",""
+"fF","wata",,,"","AC144(103)","madan_wisa_1906",""
+"fM","wama",,,"yangu","AC144(116)","madan_wisa_1906",""
+"fC","umwana",,,"","AC144(94)","madan_wisa_1906",""
+"fS","umwana mulume",,,"","AC144(127)","madan_wisa_1906",""
+"fD","umwana mukazi",,,"","AC144(98)","madan_wisa_1906",""
+"fA","wata",,,"","AC144(88)","madan_wisa_1906",""
+"fFF","sikulu",,,"","AC144(107)","madan_wisa_1906",""
+"fMF","sikulu",,,"","AC144(107)","madan_wisa_1906",""
+"fCC","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"fSS","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"fSD","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"fDS","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"fDD","umwisi mkulu",,,"","AC144(107)","madan_wisa_1906",""
+"fFB","nyinalume",,,"","AC144(103)","madan_wisa_1906",""
+"fFZ","wawo",,,"nyinalume","AC144(90)","madan_wisa_1906",""
+"fMB","umwisyo",,,"","AC144(133)","madan_wisa_1906",""
+"fMZ","wama munini",,,"","AC144(90)","madan_wisa_1906",""
+"fH","umulume",,,"","AC144(109)","madan_wisa_1906",""
+"feB","uwesu",,,"","AC144(93)","madan_wisa_1906","Inferred; NA"
+"fyB","uwesu",,,"","AC144(93)","madan_wisa_1906","Inferred; NA"
+"feZ","uwesu",,,"","AC144(126)","madan_wisa_1906","Inferred; NA"
+"fyZ","uwesu",,,"","AC144(126)","madan_wisa_1906","Inferred; NA"
+"fFeB","nyinalume",,,"","AC144(103)","madan_wisa_1906","Inferred; NA"
+"fFyB","nyinalume",,,"","AC144(103)","madan_wisa_1906","Inferred; NA"
+"fFeZ","wawo",,,"nyinalume","AC144(90)","madan_wisa_1906","Inferred; NA"
+"fFyZ","wawo",,,"nyinalume","AC144(90)","madan_wisa_1906","Inferred; NA"
+"fMeZ","wama munini",,,"","AC144(90)","madan_wisa_1906","Inferred; NA"
+"fMyZ","wama munini",,,"","AC144(90)","madan_wisa_1906","Inferred; NA"
+"fMeB","umwisyo",,,"","AC144(133)","madan_wisa_1906","Inferred; NA"
+"fMyB","umwisyo",,,"","AC144(133)","madan_wisa_1906","Inferred; NA"

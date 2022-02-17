@@ -1,99 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kakak,,male ego's older brother,,,,
-myB,adik,,male ego's younger brother,,,,
-feB,kakak,,female ego's older brother,,,,
-fyB,adik,,female ego's younger brother,,,,
-meZ,kakak,,male ego's older sister,,,,
-myZ,adik,,male ego's younger sister,,,,
-feZ,kakak,,female ego's older sister,,,,
-fyZ,adik,,female ego's younger sister,,,,
-mF,babak,,male ego's father,,,,
-mM,ibu,,male ego's mother,,,,
-fF,babak,,female ego's father,,,,
-fM,ibu,,female ego's mother,,,,
-mS,anak,,male ego's son,,,,
-fS,anak,,female ego's son,,,,
-mD,anak,,male ego's daughter,,,,
-fD,anak,,female ego's daughter,,,,
-mSS,tjutju,,male ego's son's son,,,,
-mSD,tjutju,,male ego's son's daughter,,,,
-mDS,tjutju,,male ego's daughter's son,,,,
-mDD,tjutju,,male ego's daughter's daughter,,,,
-fSS,tjutju,,female ego's son's son,,,,
-fSD,tjutju,,female ego's son's daughter,,,,
-fDS,tjutju,,female ego's daughter's son,,,,
-fDD,tjutju,,female ego's daugher's daughter,,,,
-mFF,nénék,,male ego's father‘s father,,,,
-mFM,nénék,,male ego's father's mother,,,,
-mMF,nénék,,male ego's mother's father,,,,
-mMM,nénék,,male ego's mother's mother,,,,
-fFF,nénék,,female ego's father's father,,,,
-fFM,nénék,,female ego's father's mother,,,,
-fMF,nénék,,female ego's mother's father,,,,
-fMM,nénék,,female ego's mother's mother,,,,
-meBS,kemanakan,,male ego's older brother's son,,,,
-myBS,kemanakan,,male ego's younger brother's son,,,,
-meZS,kemanakan,,male ego's older sister's son,,,,
-myZS,kemanakan,,male ego's younger sister's son,,,,
-meBD,kemanakan,,male ego's older brother's daughter,,,,
-myBD,kemanakan,,male ego's younger brother's daughter,,,,
-meZD,kemanakan,,male ego's older sister's daughter,,,,
-myZD,kemanakan,,male ego's younger sister's daughter,,,,
-feBS,kemanakan,,female ego's older brother's son,,,,
-fyBS,kemanakan,,female ego's younger brother's son,,,,
-feZS,kemanakan,,female ego's older sister's son,,,,
-fyZS,kemanakan,,female ego's younger sister's son,,,,
-feBD,kemanakan,,female ego's older brother's daughter,,,,
-fyBD,kemanakan,,female ego's younger brother's daughter,,,,
-feZD,kemanakan,,female ego's older sister's daughter,,,,
-fyZD,kemanakan,,female ego's younger sister's daughter,,,,
-mFeB,paman,,male ego's father's older brother,,,,
-mFyB,paman,,male ego's father's younger brother,,,,
-mFeZ,bibi,,male ego's father's older sister,,,,
-mFyZ,bibi,,male ego's father's younger sister,,,,
-mMeB,paman,,male ego's mother's older brother,,,,
-mMyB,paman,,male ego's mother's younger brother,,,,
-mMeZ,bibi,,male ego's mother's older sister,,,,
-mMyZ,bibi,,male ego's mother's younger sister,,,,
-fFeB,paman,,female ego's father's older brother,,,,
-fFyB,paman,,female ego's father's younger brother,,,,
-fFeZ,bibi,,female ego's father's older sister,,,,
-fFyZ,bibi,,female ego's father's younger sister,,,,
-fMeB,paman,,female ego's mother's older brother,,,,
-fMyB,paman,,female ego's mother's younger brother,,,,
-fMeZ,bibi,,female ego's mother's older sister,,,,
-fMyZ,bibi,,female ego's mother's younger sister,,,,
-mW,isteri,,male ego's wife,,,,
-fH,suami,,female ego‘s husband,,,,
-mDH,menantu,,male ego's daughter's husband,,,,
-fDH,menantu,,female ego's daughter's husband,,,,
-mSW,menantu,,male ego's son's wife,,,,
-fSW,menantu,,female ego's son's wife,,,,
-mWF,mertua,,male ego's wife's father,,,,
-mWM,mertua,,male ego's wife's mother,,,,
-mWB,ipar,,male ego's wife's brother,,,,
-mWZ,ipar,,male ego's wife's sister,,,,
-fHF,mertua,,female ego's husband's father,,,,
-fHM,mertua,,female ego's husband's mother,,,,
-fHB,ipar,,female ego's husband's brother,,,,
-fHZ,ipar,,female ego's husband's sister,,,,
-mBW,ipar,,male ego's brother's wife,,,,
-fBW,ipar,,female ego's brother's wife,,,,
-mZH,ipar,,male ego's sister's husband,,,,
-fZH,ipar,,female ego's sister's husband,,,,
-mFBS,sepupu,,male ego's father's brother's son,,,,
-mFZS,sepupu,,male ego's father's sister's son,,,,
-mMBS,sepupu,,male ego's mother's brother's son,,,,
-mMZS,sepupu,,male ego's mother's sister's son,,,,
-mFBD,sepupu,,male ego's father's brother's daughter,,,,
-mFZD,sepupu,,male ego's father's sister's daughter,,,,
-mMBD,sepupu,,male ego's mother's brother's daughter,,,,
-mMZD,sepupu,,male ego's mother's sister's daughter,,,,
-fFBS,sepupu,,female ego's father's brother's son,,,,
-fFZS,sepupu,,female ego's father's sister's son,,,,
-fMBS,sepupu,,female ego's mother's brother's son,,,,
-fMZS,sepupu,,female ego's mother's sister's son,,,,
-fFBD,sepupu,,female ego's father's brother's daughter,,,,
-fFZD,sepupu,,female ego's father's sister's daughter,,,,
-fMBD,sepupu,,female ego's mother's brother's daughter,,,,
-fMZD,sepupu,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kakak",,"male ego's older brother",,,,
+"myB","adik",,"male ego's younger brother",,,,
+"feB","kakak",,"female ego's older brother",,,,
+"fyB","adik",,"female ego's younger brother",,,,
+"meZ","kakak",,"male ego's older sister",,,,
+"myZ","adik",,"male ego's younger sister",,,,
+"feZ","kakak",,"female ego's older sister",,,,
+"fyZ","adik",,"female ego's younger sister",,,,
+"mF","babak",,"male ego's father",,,,
+"mM","ibu",,"male ego's mother",,,,
+"fF","babak",,"female ego's father",,,,
+"fM","ibu",,"female ego's mother",,,,
+"mS","anak",,"male ego's son",,,,
+"fS","anak",,"female ego's son",,,,
+"mD","anak",,"male ego's daughter",,,,
+"fD","anak",,"female ego's daughter",,,,
+"mSS","tjutju",,"male ego's son's son",,,,
+"mSD","tjutju",,"male ego's son's daughter",,,,
+"mDS","tjutju",,"male ego's daughter's son",,,,
+"mDD","tjutju",,"male ego's daughter's daughter",,,,
+"fSS","tjutju",,"female ego's son's son",,,,
+"fSD","tjutju",,"female ego's son's daughter",,,,
+"fDS","tjutju",,"female ego's daughter's son",,,,
+"fDD","tjutju",,"female ego's daugher's daughter",,,,
+"mFF","nénék",,"male ego's father‘s father",,,,
+"mFM","nénék",,"male ego's father's mother",,,,
+"mMF","nénék",,"male ego's mother's father",,,,
+"mMM","nénék",,"male ego's mother's mother",,,,
+"fFF","nénék",,"female ego's father's father",,,,
+"fFM","nénék",,"female ego's father's mother",,,,
+"fMF","nénék",,"female ego's mother's father",,,,
+"fMM","nénék",,"female ego's mother's mother",,,,
+"meBS","kemanakan",,"male ego's older brother's son",,,,
+"myBS","kemanakan",,"male ego's younger brother's son",,,,
+"meZS","kemanakan",,"male ego's older sister's son",,,,
+"myZS","kemanakan",,"male ego's younger sister's son",,,,
+"meBD","kemanakan",,"male ego's older brother's daughter",,,,
+"myBD","kemanakan",,"male ego's younger brother's daughter",,,,
+"meZD","kemanakan",,"male ego's older sister's daughter",,,,
+"myZD","kemanakan",,"male ego's younger sister's daughter",,,,
+"feBS","kemanakan",,"female ego's older brother's son",,,,
+"fyBS","kemanakan",,"female ego's younger brother's son",,,,
+"feZS","kemanakan",,"female ego's older sister's son",,,,
+"fyZS","kemanakan",,"female ego's younger sister's son",,,,
+"feBD","kemanakan",,"female ego's older brother's daughter",,,,
+"fyBD","kemanakan",,"female ego's younger brother's daughter",,,,
+"feZD","kemanakan",,"female ego's older sister's daughter",,,,
+"fyZD","kemanakan",,"female ego's younger sister's daughter",,,,
+"mFeB","paman",,"male ego's father's older brother",,,,
+"mFyB","paman",,"male ego's father's younger brother",,,,
+"mFeZ","bibi",,"male ego's father's older sister",,,,
+"mFyZ","bibi",,"male ego's father's younger sister",,,,
+"mMeB","paman",,"male ego's mother's older brother",,,,
+"mMyB","paman",,"male ego's mother's younger brother",,,,
+"mMeZ","bibi",,"male ego's mother's older sister",,,,
+"mMyZ","bibi",,"male ego's mother's younger sister",,,,
+"fFeB","paman",,"female ego's father's older brother",,,,
+"fFyB","paman",,"female ego's father's younger brother",,,,
+"fFeZ","bibi",,"female ego's father's older sister",,,,
+"fFyZ","bibi",,"female ego's father's younger sister",,,,
+"fMeB","paman",,"female ego's mother's older brother",,,,
+"fMyB","paman",,"female ego's mother's younger brother",,,,
+"fMeZ","bibi",,"female ego's mother's older sister",,,,
+"fMyZ","bibi",,"female ego's mother's younger sister",,,,
+"mW","isteri",,"male ego's wife",,,,
+"fH","suami",,"female ego‘s husband",,,,
+"mDH","menantu",,"male ego's daughter's husband",,,,
+"fDH","menantu",,"female ego's daughter's husband",,,,
+"mSW","menantu",,"male ego's son's wife",,,,
+"fSW","menantu",,"female ego's son's wife",,,,
+"mWF","mertua",,"male ego's wife's father",,,,
+"mWM","mertua",,"male ego's wife's mother",,,,
+"mWB","ipar",,"male ego's wife's brother",,,,
+"mWZ","ipar",,"male ego's wife's sister",,,,
+"fHF","mertua",,"female ego's husband's father",,,,
+"fHM","mertua",,"female ego's husband's mother",,,,
+"fHB","ipar",,"female ego's husband's brother",,,,
+"fHZ","ipar",,"female ego's husband's sister",,,,
+"mBW","ipar",,"male ego's brother's wife",,,,
+"fBW","ipar",,"female ego's brother's wife",,,,
+"mZH","ipar",,"male ego's sister's husband",,,,
+"fZH","ipar",,"female ego's sister's husband",,,,
+"mFBS","sepupu",,"male ego's father's brother's son",,,,
+"mFZS","sepupu",,"male ego's father's sister's son",,,,
+"mMBS","sepupu",,"male ego's mother's brother's son",,,,
+"mMZS","sepupu",,"male ego's mother's sister's son",,,,
+"mFBD","sepupu",,"male ego's father's brother's daughter",,,,
+"mFZD","sepupu",,"male ego's father's sister's daughter",,,,
+"mMBD","sepupu",,"male ego's mother's brother's daughter",,,,
+"mMZD","sepupu",,"male ego's mother's sister's daughter",,,,
+"fFBS","sepupu",,"female ego's father's brother's son",,,,
+"fFZS","sepupu",,"female ego's father's sister's son",,,,
+"fMBS","sepupu",,"female ego's mother's brother's son",,,,
+"fMZS","sepupu",,"female ego's mother's sister's son",,,,
+"fFBD","sepupu",,"female ego's father's brother's daughter",,,,
+"fFZD","sepupu",,"female ego's father's sister's daughter",,,,
+"fMBD","sepupu",,"female ego's mother's brother's daughter",,,,
+"fMZD","sepupu",,"female ego's mother's sister's daughter",,,,
+"mFeBS","sepupu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","sepupu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","sepupu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","sepupu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","sepupu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","sepupu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","sepupu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","sepupu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","sepupu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","sepupu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","sepupu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","sepupu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","sepupu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","sepupu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","sepupu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","sepupu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","sepupu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","sepupu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","sepupu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","sepupu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","sepupu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","sepupu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","sepupu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","sepupu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","sepupu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","sepupu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","sepupu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","sepupu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","sepupu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","sepupu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","sepupu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","sepupu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","sepupu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","sepupu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","sepupu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","sepupu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","sepupu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","sepupu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","sepupu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","sepupu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","sepupu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","sepupu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","sepupu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","sepupu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","sepupu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","sepupu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","sepupu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","sepupu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","sepupu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","sepupu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","sepupu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","sepupu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","sepupu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","sepupu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","sepupu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","sepupu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","sepupu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","sepupu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","sepupu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","sepupu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","sepupu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","sepupu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","sepupu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","sepupu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

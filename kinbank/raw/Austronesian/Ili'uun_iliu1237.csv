@@ -1,45 +1,109 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"ali, alin",,male ego's older brother,,,,
-myB,"ali, alin",,male ego's younger brother,,,,
-feB,"nara, naran, nusa",,female ego's older brother,,,,
-fyB,"nara, naran, nusa",,female ego's younger brother,,,,
-meZ,"nara, naran, nusa",,male ego's older sister,,,,
-myZ,"nara, naran, nusa",,male ego's younger sister,,,,
-feZ,"ali, alin",,female ego's older sister,,,,
-fyZ,"ali, alin",,female ego's younger sister,,,,
-mF,"ama, aman",,male ego's father,,,,
-mM,"ina, inan",,male ego's mother,,,,
-fF,"ama, aman",,female ego's father,,,,
-fM,"ina, inan",,female ego's mother,,,,
-mFeB,"ama, aman",,male ego's father's older brother,,,,
-mFyB,"ama, aman",,male ego's father's younger brother,,,,
-mFeZ,lain,,male ego's father's older sister,,,,
-mFyZ,lain,,male ego's father's younger sister,,,,
-mMeB,hain,,male ego's mother's older brother,,,,
-mMyB,hain,,male ego's mother's younger brother,,,,
-mMeZ,"ina, inan",,male ego's mother's older sister,,,,
-mMyZ,"ina, inan",,male ego's mother's younger sister,,,,
-fFeB,"ama, aman",,female ego's father's older brother,,,,
-fFyB,"ama, aman",,female ego's father's younger brother,,,,
-fFeZ,lain,,female ego's father's older sister,,,,
-fFyZ,lain,,female ego's father's younger sister,,,,
-fMeB,hain,,female ego's mother's older brother,,,,
-fMyB,hain,,female ego's mother's younger brother,,,,
-fMeZ,"ina, inan",,female ego's mother's older sister,,,,
-fMyZ,"ina, inan",,female ego's mother's younger sister,,,,
-mFBS,"ali, alin",,male ego's father's brother's son,,,,
-mFZS,"rian, riań",,male ego's father's sister's son,,,,
-mMBS,"rian, riań",,male ego's mother's brother's son,,,,
-mMZS,"ali, alin",,male ego's mother's sister's son,,,,
-mFBD,"ali, alin",,male ego's father's brother's daughter,,,,
-mFZD,"rian, riań",,male ego's father's sister's daughter,,,,
-mMBD,"rian, riań",,male ego's mother's brother's daughter,,,,
-mMZD,"ali, alin",,male ego's mother's sister's daughter,,,,
-fFBS,"ali, alin",,female ego's father's brother's son,,,,
-fFZS,"rian, riań",,female ego's father's sister's son,,,,
-fMBS,"rian, riań",,female ego's mother's brother's son,,,,
-fMZS,"ali, alin",,female ego's mother's sister's son,,,,
-fFBD,"ali, alin",,female ego's father's brother's daughter,,,,
-fFZD,"rian, riań",,female ego's father's sister's daughter,,,,
-fMBD,"rian, riań",,female ego's mother's brother's daughter,,,,
-fMZD,"ali, alin",,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ali, alin",,"male ego's older brother",,,,
+"myB","ali, alin",,"male ego's younger brother",,,,
+"feB","nara, naran, nusa",,"female ego's older brother",,,,
+"fyB","nara, naran, nusa",,"female ego's younger brother",,,,
+"meZ","nara, naran, nusa",,"male ego's older sister",,,,
+"myZ","nara, naran, nusa",,"male ego's younger sister",,,,
+"feZ","ali, alin",,"female ego's older sister",,,,
+"fyZ","ali, alin",,"female ego's younger sister",,,,
+"mF","ama, aman",,"male ego's father",,,,
+"mM","ina, inan",,"male ego's mother",,,,
+"fF","ama, aman",,"female ego's father",,,,
+"fM","ina, inan",,"female ego's mother",,,,
+"mFeB","ama, aman",,"male ego's father's older brother",,,,
+"mFyB","ama, aman",,"male ego's father's younger brother",,,,
+"mFeZ","lain",,"male ego's father's older sister",,,,
+"mFyZ","lain",,"male ego's father's younger sister",,,,
+"mMeB","hain",,"male ego's mother's older brother",,,,
+"mMyB","hain",,"male ego's mother's younger brother",,,,
+"mMeZ","ina, inan",,"male ego's mother's older sister",,,,
+"mMyZ","ina, inan",,"male ego's mother's younger sister",,,,
+"fFeB","ama, aman",,"female ego's father's older brother",,,,
+"fFyB","ama, aman",,"female ego's father's younger brother",,,,
+"fFeZ","lain",,"female ego's father's older sister",,,,
+"fFyZ","lain",,"female ego's father's younger sister",,,,
+"fMeB","hain",,"female ego's mother's older brother",,,,
+"fMyB","hain",,"female ego's mother's younger brother",,,,
+"fMeZ","ina, inan",,"female ego's mother's older sister",,,,
+"fMyZ","ina, inan",,"female ego's mother's younger sister",,,,
+"mFBS","ali, alin",,"male ego's father's brother's son",,,,
+"mFZS","rian, riań",,"male ego's father's sister's son",,,,
+"mMBS","rian, riań",,"male ego's mother's brother's son",,,,
+"mMZS","ali, alin",,"male ego's mother's sister's son",,,,
+"mFBD","ali, alin",,"male ego's father's brother's daughter",,,,
+"mFZD","rian, riań",,"male ego's father's sister's daughter",,,,
+"mMBD","rian, riań",,"male ego's mother's brother's daughter",,,,
+"mMZD","ali, alin",,"male ego's mother's sister's daughter",,,,
+"fFBS","ali, alin",,"female ego's father's brother's son",,,,
+"fFZS","rian, riań",,"female ego's father's sister's son",,,,
+"fMBS","rian, riań",,"female ego's mother's brother's son",,,,
+"fMZS","ali, alin",,"female ego's mother's sister's son",,,,
+"fFBD","ali, alin",,"female ego's father's brother's daughter",,,,
+"fFZD","rian, riań",,"female ego's father's sister's daughter",,,,
+"fMBD","rian, riań",,"female ego's mother's brother's daughter",,,,
+"fMZD","ali, alin",,"female ego's mother's sister's daughter",,,,
+"mFeBS","ali, alin",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","ali, alin",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","rian, riań",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","rian, riań",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","ali, alin",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","ali, alin",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","rian, riań",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","rian, riań",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","rian, riań",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","rian, riań",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","ali, alin",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","ali, alin",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","rian, riań",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","rian, riań",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","ali, alin",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","ali, alin",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","ali, alin",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","ali, alin",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","rian, riań",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","rian, riań",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","ali, alin",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","ali, alin",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","rian, riań",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","rian, riań",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","rian, riań",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","rian, riań",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","ali, alin",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","ali, alin",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","rian, riań",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","rian, riań",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","ali, alin",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","ali, alin",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","ali, alin",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","ali, alin",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","rian, riań",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","rian, riań",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","ali, alin",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","ali, alin",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","rian, riań",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","rian, riań",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","rian, riań",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","rian, riań",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","ali, alin",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","ali, alin",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","rian, riań",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","rian, riań",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","ali, alin",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","ali, alin",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","ali, alin",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","ali, alin",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","rian, riań",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","rian, riań",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","ali, alin",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","ali, alin",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","rian, riań",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","rian, riań",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","rian, riań",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","rian, riań",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","ali, alin",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","ali, alin",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","rian, riań",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","rian, riań",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","ali, alin",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","ali, alin",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

@@ -1,66 +1,98 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"wuwi, milimiti",,male ego's older brother,,,,
-myB,"gulmigi, wuwi, yukuyuku",,male ego's younger brother,,,,
-feB,wuwi,,female ego's older brother,,,,
-fyB,"gulmiki, wuwi, yukuyuku",,female ego's younger brother,,,,
-meZ,"gaditi, muginyinymigi",,male ego's older sister,,,,
-myZ,"gaditi, muginyinymigi",,male ego's younger sister,,,,
-feZ,"gaditi, muginyinymigi",,female ego's older sister,,,,
-fyZ,"gaditi, muginyinymigi",,female ego's younger sister,,,,
-mF,"djirra, djirrtjarr, gunydjirri, nyunyang",,male ego's father,,,,
-mM,"ama, mumngimi, ngambirri, ngirimigi",,male ego's mother,,,,
-fF,"djirra, djirrtjarr, gunydjirri, nyunyang",,female ego's father,,,,
-fM,"ama, mumngimi, ngambirri, ngirimigi",,female ego's mother,,,,
-mS,"djirrakay, walkiri",,male ego's son,,,,
-fS,"gapirri, djirrakay",,female ego's son,,,,
-mD,"galitjirringi, walkiri",,male ego's daughter,,,,
-fD,"rambirri, galitjirringi",,female ego's daughter,,,,
-mSS,marrangu,,male ego's son's son,,,,
-mSD,marrangu,,male ego's son's daughter,,,,
-mDS,migiri,,male ego's daughter's son,,,,
-mDD,migiri,,male ego's daughter's daughter,,,,
-fSS,marrangu,,female ego's son's son,,,,
-fSD,marrangu,,female ego's son's daughter,,,,
-fDS,gimnyirri,,female ego's daughter's son,,,,
-fDD,gimnyirri,,female ego's daugher's daughter,,,,
-mFF,mar'ming,,male ego's father‘s father,,,,
-mFM,ngatjitji,,male ego's father's mother,,,,
-mMF,ngatjitji,,male ego's mother's father,,,,
-mMM,midji,,male ego's mother's mother,,,,
-fFF,mar'ming,,female ego's father's father,,,,
-fFM,ngatjitji,,female ego's father's mother,,,,
-fMF,ngatjitji,,female ego's mother's father,,,,
-fMM,midji,,female ego's mother's mother,,,,
-meZS,gapirri,,male ego's older sister's son,,,,
-myZS,gapirri,,male ego's younger sister's son,,,,
-meZD,"rambirri, budjirri, gapirri",,male ego's older sister's daughter,,,,
-myZD,"rambirri, budjirri, gapirri",,male ego's younger sister's daughter,,,,
-feZS,gapirri,,female ego's older sister's son,,,,
-fyZS,gapirri,,female ego's younger sister's son,,,,
-feZD,rambirri,,female ego's older sister's daughter,,,,
-fyZD,rambirri,,female ego's younger sister's daughter,,,,
-mFeZ,"bapipi, bawupi",,male ego's father's older sister,,,,
-mFyZ,"bapipi, bawupi",,male ego's father's younger sister,,,,
-mMeB,gaykiy,,male ego's mother's older brother,,,,
-mMyB,gaykiy,,male ego's mother's younger brother,,,,
-fFeZ,"bapipi, bawupi",,female ego's father's older sister,,,,
-fFyZ,"bapipi, bawupi",,female ego's father's younger sister,,,,
-fMeB,gaykiy,,female ego's mother's older brother,,,,
-fMyB,gaykiy,,female ego's mother's younger brother,,,,
-mW,minini,,male ego's wife,,,,
-fH,galikali,,female ego‘s husband,,,,
-mWF,milmarra,,male ego's wife's father,,,,
-mWM,"midji, milmarra",,male ego's wife's mother,,,,
-mWB,"djuwayka, galikali, minini, wulukurr",,male ego's wife's brother,,,,
-fHF,milmarra,,female ego's husband's father,,,,
-fHM,"midji, milmarra",,female ego's husband's mother,,,,
-mBW,galikali,,male ego's brother's wife,,,,
-mZH,"djuwayka, galikali",,male ego's sister's husband,,,,
-mFZS,bapipagirang budjirrbi,,male ego's father's sister's son,,,,
-mMBS,minini,,male ego's mother's brother's son,,,,
-mFZD,bapipagirang budjirrbi,,male ego's father's sister's daughter,,,,
-mMBD,minini,,male ego's mother's brother's daughter,,,,
-fFZS,bapipagirang budjirrbi,,female ego's father's sister's son,,,,
-fMBS,minini,,female ego's mother's brother's son,,,,
-fFZD,bapipagirang budjirrbi,,female ego's father's sister's daughter,,,,
-fMBD,minini,,female ego's mother's brother's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","wuwi, milimiti",,"male ego's older brother",,,,
+"myB","gulmigi, wuwi, yukuyuku",,"male ego's younger brother",,,,
+"feB","wuwi",,"female ego's older brother",,,,
+"fyB","gulmiki, wuwi, yukuyuku",,"female ego's younger brother",,,,
+"meZ","gaditi, muginyinymigi",,"male ego's older sister",,,,
+"myZ","gaditi, muginyinymigi",,"male ego's younger sister",,,,
+"feZ","gaditi, muginyinymigi",,"female ego's older sister",,,,
+"fyZ","gaditi, muginyinymigi",,"female ego's younger sister",,,,
+"mF","djirra, djirrtjarr, gunydjirri, nyunyang",,"male ego's father",,,,
+"mM","ama, mumngimi, ngambirri, ngirimigi",,"male ego's mother",,,,
+"fF","djirra, djirrtjarr, gunydjirri, nyunyang",,"female ego's father",,,,
+"fM","ama, mumngimi, ngambirri, ngirimigi",,"female ego's mother",,,,
+"mS","djirrakay, walkiri",,"male ego's son",,,,
+"fS","gapirri, djirrakay",,"female ego's son",,,,
+"mD","galitjirringi, walkiri",,"male ego's daughter",,,,
+"fD","rambirri, galitjirringi",,"female ego's daughter",,,,
+"mSS","marrangu",,"male ego's son's son",,,,
+"mSD","marrangu",,"male ego's son's daughter",,,,
+"mDS","migiri",,"male ego's daughter's son",,,,
+"mDD","migiri",,"male ego's daughter's daughter",,,,
+"fSS","marrangu",,"female ego's son's son",,,,
+"fSD","marrangu",,"female ego's son's daughter",,,,
+"fDS","gimnyirri",,"female ego's daughter's son",,,,
+"fDD","gimnyirri",,"female ego's daugher's daughter",,,,
+"mFF","mar'ming",,"male ego's father‘s father",,,,
+"mFM","ngatjitji",,"male ego's father's mother",,,,
+"mMF","ngatjitji",,"male ego's mother's father",,,,
+"mMM","midji",,"male ego's mother's mother",,,,
+"fFF","mar'ming",,"female ego's father's father",,,,
+"fFM","ngatjitji",,"female ego's father's mother",,,,
+"fMF","ngatjitji",,"female ego's mother's father",,,,
+"fMM","midji",,"female ego's mother's mother",,,,
+"meZS","gapirri",,"male ego's older sister's son",,,,
+"myZS","gapirri",,"male ego's younger sister's son",,,,
+"meZD","rambirri, budjirri, gapirri",,"male ego's older sister's daughter",,,,
+"myZD","rambirri, budjirri, gapirri",,"male ego's younger sister's daughter",,,,
+"feZS","gapirri",,"female ego's older sister's son",,,,
+"fyZS","gapirri",,"female ego's younger sister's son",,,,
+"feZD","rambirri",,"female ego's older sister's daughter",,,,
+"fyZD","rambirri",,"female ego's younger sister's daughter",,,,
+"mFeZ","bapipi, bawupi",,"male ego's father's older sister",,,,
+"mFyZ","bapipi, bawupi",,"male ego's father's younger sister",,,,
+"mMeB","gaykiy",,"male ego's mother's older brother",,,,
+"mMyB","gaykiy",,"male ego's mother's younger brother",,,,
+"fFeZ","bapipi, bawupi",,"female ego's father's older sister",,,,
+"fFyZ","bapipi, bawupi",,"female ego's father's younger sister",,,,
+"fMeB","gaykiy",,"female ego's mother's older brother",,,,
+"fMyB","gaykiy",,"female ego's mother's younger brother",,,,
+"mW","minini",,"male ego's wife",,,,
+"fH","galikali",,"female ego‘s husband",,,,
+"mWF","milmarra",,"male ego's wife's father",,,,
+"mWM","midji, milmarra",,"male ego's wife's mother",,,,
+"mWB","djuwayka, galikali, minini, wulukurr",,"male ego's wife's brother",,,,
+"fHF","milmarra",,"female ego's husband's father",,,,
+"fHM","midji, milmarra",,"female ego's husband's mother",,,,
+"mBW","galikali",,"male ego's brother's wife",,,,
+"mZH","djuwayka, galikali",,"male ego's sister's husband",,,,
+"mFZS","bapipagirang budjirrbi",,"male ego's father's sister's son",,,,
+"mMBS","minini",,"male ego's mother's brother's son",,,,
+"mFZD","bapipagirang budjirrbi",,"male ego's father's sister's daughter",,,,
+"mMBD","minini",,"male ego's mother's brother's daughter",,,,
+"fFZS","bapipagirang budjirrbi",,"female ego's father's sister's son",,,,
+"fMBS","minini",,"female ego's mother's brother's son",,,,
+"fFZD","bapipagirang budjirrbi",,"female ego's father's sister's daughter",,,,
+"fMBD","minini",,"female ego's mother's brother's daughter",,,,
+"mFeZS","bapipagirang budjirrbi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","bapipagirang budjirrbi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeZD","bapipagirang budjirrbi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","bapipagirang budjirrbi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","minini",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","minini",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeBD","minini",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","minini",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mFZeS","bapipagirang budjirrbi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","bapipagirang budjirrbi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZeD","bapipagirang budjirrbi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","bapipagirang budjirrbi",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","minini",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","minini",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMBeD","minini",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","minini",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"fFeZS","bapipagirang budjirrbi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","bapipagirang budjirrbi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeZD","bapipagirang budjirrbi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","bapipagirang budjirrbi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","minini",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","minini",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeBD","minini",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","minini",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fFZeS","bapipagirang budjirrbi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","bapipagirang budjirrbi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZeD","bapipagirang budjirrbi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","bapipagirang budjirrbi",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","minini",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","minini",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMBeD","minini",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","minini",,"female ego's mother's brother's daughter",,,,"Inferred; NA"

@@ -1,97 +1,97 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,aphu,,male ego's older brother,,,,
-myB,anau,,male ego's younger brother,,,,
-feB,aphu,,female ego's older brother,,,,
-fyB,anau,,female ego's younger brother,,,,
-meZ,api,,male ego's older sister,,,,
-myZ,anau jan,,male ego's younger sister,,,,
-feZ,api,,female ego's older sister,,,,
-fyZ,anau jan,,female ego's younger sister,,,,
-mF,awa,,male ego's father,,,,
-mM,anu,,male ego's mother,ame,,,"anu (Singpho term), ame (Tai)"
-fF,awa,,female ego's father,,,,
-fM,anu,,female ego's mother,,,,
-mS,lasa maang,,male ego's son,,,,
-fS,lasa maang,,female ego's son,,,,
-mD,numsa maang,,male ego's daughter,,,,
-fD,numsa maang,,female ego's daughter,,,,
-mSS,ksu,,male ego's son's son,,,,
-mSD,ksu,,male ego's son's daughter,,,,
-mDS,ksu,,male ego's daughter's son,,,,
-mDD,ksu,,male ego's daughter's daughter,,,,
-fSS,ksu,,female ego's son's son,,,,
-fSD,ksu,,female ego's son's daughter,,,,
-fDS,ksu,,female ego's daughter's son,,,,
-fDD,ksu,,female ego's daugher's daughter,,,,
-mFF,apu,,male ego's father‘s father,,,,
-mFM,aya,,male ego's father's mother,,,,
-mMF,apu nai,,male ego's mother's father,,,,
-mMM,anai,,male ego's mother's mother,,,,
-fFF,apu,,female ego's father's father,,,,
-fFM,aya,,female ego's father's mother,,,,
-fMF,apu nai,,female ego's mother's father,,,,
-fMM,anai,,female ego's mother's mother,,,,
-meBS,ksa,,male ego's older brother's son,,,,
-myBS,ksa,,male ego's younger brother's son,,,,
-meZS,kkhri,,male ego's older sister's son,,,,
-myZS,kkhri,,male ego's younger sister's son,,,,
-meBD,ksa,,male ego's older brother's daughter,,,,
-myBD,ksa,,male ego's younger brother's daughter,,,,
-meZD,kkhri,,male ego's older sister's daughter,,,,
-myZD,kkhri,,male ego's younger sister's daughter,,,,
-feBS,ksa,,female ego's older brother's son,,,,
-fyBS,ksa,,female ego's younger brother's son,,,,
-feZS,kkhri,,female ego's older sister's son,,,,
-fyZS,kkhri,,female ego's younger sister's son,,,,
-feBD,ksa,,female ego's older brother's daughter,,,,
-fyBD,ksa,,female ego's younger brother's daughter,,,,
-feZD,kkhri,,female ego's older sister's daughter,,,,
-fyZD,kkhri,,female ego's younger sister's daughter,,,,
-mFeB,awa di,,male ego's father's older brother,,,,
-mFyB,adai,,male ego's father's younger brother,,,,
-mFeZ,apa,,male ego's father's older sister,,,,
-mFyZ,amoi,,male ego's father's younger sister,,,,
-mMeB,acha,,male ego's mother's older brother,,,,
-mMyB,acha,,male ego's mother's younger brother,,,,
-mMeZ,atung,,male ego's mother's older sister,,,,
-mMyZ,achi,,male ego's mother's younger sister,,,,
-fFeB,awa di,,female ego's father's older brother,,,,
-fFyB,adai,,female ego's father's younger brother,,,,
-fFeZ,apa,,female ego's father's older sister,,,,
-fFyZ,amoi,,female ego's father's younger sister,,,,
-fMeB,acha,,female ego's mother's older brother,,,,
-fMyB,acha,,female ego's mother's younger brother,,,,
-fMeZ,atung,,female ego's mother's older sister,,,,
-fMyZ,achi,,female ego's mother's younger sister,,,,
-mFBeS,aphu,,male ego‘s father‘s brother‘s older son,,,,
-mFByS,aphu,,male ego‘s father‘s brother‘s younger son,,,,
-mFBeD,api,,male ego‘s father‘s brother‘s older daughter,,,,
-mFByD,api,,male ego‘s father‘s brother‘s younger daughter,,,,
-mFZeS,akhau,,male ego‘s father‘s sisters‘s older son,,,,
-mFZyS,akhau,,male ego‘s father‘s sisters‘s younger son,,,,
-mFZeD,akhri,,male ego‘s father‘s sisters‘s older daughter,,,,
-mFZyD,akhri,,male ego‘s father‘s sisters‘s younger daughter,,,,
-mMBeS,akhau,,male ego‘s mother‘s brother‘s older son,,,,
-mMByS,akhau,,male ego‘s mother‘s brother‘s younger son,,,,
-mMBeD,arat,,male ego‘s mother‘s brother‘s older daughter,,,,
-mMByD,arat,,male ego‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,aphu,,male ego‘s mother‘s sisters‘s older son,,,,
-mMZyS,aphu,,male ego‘s mother‘s sisters‘s younger son,,,,
-mMZeD,api,,male ego‘s mother‘s sisters‘s older daughter,,,,
-mMZyD,api,,male ego‘s mother‘s sisters‘s younger daughter,,,,
-fFBeS,aphu,,female ego‘s father‘s brother‘s older son,,,,
-fFByS,aphu,,female ego‘s father‘s brother‘s younger son,,,,
-fFBeD,api,,female ego‘s father‘s brother‘s older daughter,,,,
-fFByD,api,,female ego‘s father‘s brother‘s younger daughter,,,,
-fFZeS,arat,,female ego‘s father‘s sisters‘s older son,,,,
-fFZyS,arat,,female ego‘s father‘s sisters‘s younger son,,,,
-fFZeD,aming,,female ego‘s father‘s sisters‘s older daughter,,,,
-fFZyD,ana,,female ego‘s father‘s sisters‘s younger daughter,,,,
-fMBeS,caa,,female ego‘s mother‘s brother‘s older son,,,,
-fMByS,caa,,female ego‘s mother‘s brother‘s younger son,,,,
-fMBeD,aning,,female ego‘s mother‘s brother‘s older daughter,,,,
-fMByD,ana,,female ego‘s mother‘s brother‘s younger daughter,,,,
-fMZeS,aphu,,female ego‘s mother‘s sisters‘s older son,,,,
-fMZyS,aphu,,female ego‘s mother‘s sisters‘s younger son,,,,
-fMZeD,api,,female ego‘s mother‘s sisters‘s older daughter,,,,
-fMZyD,api,,female ego‘s mother‘s sisters‘s younger daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","aphu",,"male ego's older brother","",,,""
+"myB","anau",,"male ego's younger brother","",,,""
+"feB","aphu",,"female ego's older brother","",,,""
+"fyB","anau",,"female ego's younger brother","",,,""
+"meZ","api",,"male ego's older sister","",,,""
+"myZ","anau jan",,"male ego's younger sister","",,,""
+"feZ","api",,"female ego's older sister","",,,""
+"fyZ","anau jan",,"female ego's younger sister","",,,""
+"mF","awa",,"male ego's father","",,,""
+"mM","anu",,"male ego's mother","ame",,,"anu (Singpho term), ame (Tai)"
+"fF","awa",,"female ego's father","",,,""
+"fM","anu",,"female ego's mother","",,,""
+"mS","lasa maang",,"male ego's son","",,,""
+"fS","lasa maang",,"female ego's son","",,,""
+"mD","numsa maang",,"male ego's daughter","",,,""
+"fD","numsa maang",,"female ego's daughter","",,,""
+"mSS","ksu",,"male ego's son's son","",,,""
+"mSD","ksu",,"male ego's son's daughter","",,,""
+"mDS","ksu",,"male ego's daughter's son","",,,""
+"mDD","ksu",,"male ego's daughter's daughter","",,,""
+"fSS","ksu",,"female ego's son's son","",,,""
+"fSD","ksu",,"female ego's son's daughter","",,,""
+"fDS","ksu",,"female ego's daughter's son","",,,""
+"fDD","ksu",,"female ego's daugher's daughter","",,,""
+"mFF","apu",,"male ego's father‘s father","",,,""
+"mFM","aya",,"male ego's father's mother","",,,""
+"mMF","apu nai",,"male ego's mother's father","",,,""
+"mMM","anai",,"male ego's mother's mother","",,,""
+"fFF","apu",,"female ego's father's father","",,,""
+"fFM","aya",,"female ego's father's mother","",,,""
+"fMF","apu nai",,"female ego's mother's father","",,,""
+"fMM","anai",,"female ego's mother's mother","",,,""
+"meBS","ksa",,"male ego's older brother's son","",,,""
+"myBS","ksa",,"male ego's younger brother's son","",,,""
+"meZS","kkhri",,"male ego's older sister's son","",,,""
+"myZS","kkhri",,"male ego's younger sister's son","",,,""
+"meBD","ksa",,"male ego's older brother's daughter","",,,""
+"myBD","ksa",,"male ego's younger brother's daughter","",,,""
+"meZD","kkhri",,"male ego's older sister's daughter","",,,""
+"myZD","kkhri",,"male ego's younger sister's daughter","",,,""
+"feBS","ksa",,"female ego's older brother's son","",,,""
+"fyBS","ksa",,"female ego's younger brother's son","",,,""
+"feZS","kkhri",,"female ego's older sister's son","",,,""
+"fyZS","kkhri",,"female ego's younger sister's son","",,,""
+"feBD","ksa",,"female ego's older brother's daughter","",,,""
+"fyBD","ksa",,"female ego's younger brother's daughter","",,,""
+"feZD","kkhri",,"female ego's older sister's daughter","",,,""
+"fyZD","kkhri",,"female ego's younger sister's daughter","",,,""
+"mFeB","awa di",,"male ego's father's older brother","",,,""
+"mFyB","adai",,"male ego's father's younger brother","",,,""
+"mFeZ","apa",,"male ego's father's older sister","",,,""
+"mFyZ","amoi",,"male ego's father's younger sister","",,,""
+"mMeB","acha",,"male ego's mother's older brother","",,,""
+"mMyB","acha",,"male ego's mother's younger brother","",,,""
+"mMeZ","atung",,"male ego's mother's older sister","",,,""
+"mMyZ","achi",,"male ego's mother's younger sister","",,,""
+"fFeB","awa di",,"female ego's father's older brother","",,,""
+"fFyB","adai",,"female ego's father's younger brother","",,,""
+"fFeZ","apa",,"female ego's father's older sister","",,,""
+"fFyZ","amoi",,"female ego's father's younger sister","",,,""
+"fMeB","acha",,"female ego's mother's older brother","",,,""
+"fMyB","acha",,"female ego's mother's younger brother","",,,""
+"fMeZ","atung",,"female ego's mother's older sister","",,,""
+"fMyZ","achi",,"female ego's mother's younger sister","",,,""
+"mFBeS","aphu",,"male ego‘s father‘s brother‘s older son","",,,""
+"mFByS","aphu",,"male ego‘s father‘s brother‘s younger son","",,,""
+"mFBeD","api",,"male ego‘s father‘s brother‘s older daughter","",,,""
+"mFByD","api",,"male ego‘s father‘s brother‘s younger daughter","",,,""
+"mFZeS","akhau",,"male ego‘s father‘s sisters‘s older son","",,,""
+"mFZyS","akhau",,"male ego‘s father‘s sisters‘s younger son","",,,""
+"mFZeD","akhri",,"male ego‘s father‘s sisters‘s older daughter","",,,""
+"mFZyD","akhri",,"male ego‘s father‘s sisters‘s younger daughter","",,,""
+"mMBeS","akhau",,"male ego‘s mother‘s brother‘s older son","",,,""
+"mMByS","akhau",,"male ego‘s mother‘s brother‘s younger son","",,,""
+"mMBeD","arat",,"male ego‘s mother‘s brother‘s older daughter","",,,""
+"mMByD","arat",,"male ego‘s mother‘s brother‘s younger daughter","",,,""
+"mMZeS","aphu",,"male ego‘s mother‘s sisters‘s older son","",,,""
+"mMZyS","aphu",,"male ego‘s mother‘s sisters‘s younger son","",,,""
+"mMZeD","api",,"male ego‘s mother‘s sisters‘s older daughter","",,,""
+"mMZyD","api",,"male ego‘s mother‘s sisters‘s younger daughter","",,,""
+"fFBeS","aphu",,"female ego‘s father‘s brother‘s older son","",,,""
+"fFByS","aphu",,"female ego‘s father‘s brother‘s younger son","",,,""
+"fFBeD","api",,"female ego‘s father‘s brother‘s older daughter","",,,""
+"fFByD","api",,"female ego‘s father‘s brother‘s younger daughter","",,,""
+"fFZeS","arat",,"female ego‘s father‘s sisters‘s older son","",,,""
+"fFZyS","arat",,"female ego‘s father‘s sisters‘s younger son","",,,""
+"fFZeD","aming",,"female ego‘s father‘s sisters‘s older daughter","",,,""
+"fFZyD","ana",,"female ego‘s father‘s sisters‘s younger daughter","",,,""
+"fMBeS","caa",,"female ego‘s mother‘s brother‘s older son","",,,""
+"fMByS","caa",,"female ego‘s mother‘s brother‘s younger son","",,,""
+"fMBeD","aning",,"female ego‘s mother‘s brother‘s older daughter","",,,""
+"fMByD","ana",,"female ego‘s mother‘s brother‘s younger daughter","",,,""
+"fMZeS","aphu",,"female ego‘s mother‘s sisters‘s older son","",,,""
+"fMZyS","aphu",,"female ego‘s mother‘s sisters‘s younger son","",,,""
+"fMZeD","api",,"female ego‘s mother‘s sisters‘s older daughter","",,,""
+"fMZyD","api",,"female ego‘s mother‘s sisters‘s younger daughter","",,,""

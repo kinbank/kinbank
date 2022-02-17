@@ -1,99 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tuakaqu,,male ego's older brother,,,,
-myB,taciqu,,male ego's younger brother,,,,
-feB,ganequ,,female ego's older brother,,,,
-fyB,ganequ,,female ego's younger brother,,,,
-meZ,genequ,,male ego's older sister,,,,
-myZ,genequ,,male ego's younger sister,,,,
-feZ,tuakaqu,,female ego's older sister,,,,
-fyZ,taciqu,,female ego's younger sister,,,,
-mF,tamaqu,,male ego's father,,,,
-mM,tinaqu,,male ego's mother,,,,
-fF,tamaqu,,female ego's father,,,,
-fM,tinaqu,,female ego's mother,,,,
-mS,luvequ,,male ego's son,,,,
-fS,luvequ,,female ego's son,,,,
-mD,luvequ,,male ego's daughter,,,,
-fD,luvequ,,female ego's daughter,,,,
-mSS,makubuqu,,male ego's son's son,,,,
-mSD,makubuqu,,male ego's son's daughter,,,,
-mDS,makubuqu,,male ego's daughter's son,,,,
-mDD,makubuqu,,male ego's daughter's daughter,,,,
-fSS,makubuqu,,female ego's son's son,,,,
-fSD,makubuqu,,female ego's son's daughter,,,,
-fDS,makubuqu,,female ego's daughter's son,,,,
-fDD,makubuqu,,female ego's daugher's daughter,,,,
-mFF,tubuqu,,male ego's father‘s father,,,,
-mFM,buqu,,male ego's father's mother,,,,
-mMF,tukaqu,,male ego's mother's father,,,,
-mMM,buqu,,male ego's mother's mother,,,,
-fFF,tubuqu,,female ego's father's father,,,,
-fFM,buqu,,female ego's father's mother,,,,
-fMF,tukaqu,,female ego's mother's father,,,,
-fMM,buqu,,female ego's mother's mother,,,,
-meBS,luvequ,,male ego's older brother's son,,,,
-myBS,luvequ,,male ego's younger brother's son,,,,
-meZS,"vugoqu, noqu vatuvu",,male ego's older sister's son,,,,
-myZS,"vugoqu, noqu vatuvu",,male ego's younger sister's son,,,,
-meBD,luvequ,,male ego's older brother's daughter,,,,
-myBD,luvequ,,male ego's younger brother's daughter,,,,
-meZD,"vugoqu, noqu vatuvu",,male ego's older sister's daughter,,,,
-myZD,"vugoqu, noqu vatuvu",,male ego's younger sister's daughter,,,,
-feBS,vugoqu,,female ego's older brother's son,,,,
-fyBS,vugoqu,,female ego's younger brother's son,,,,
-feZS,luvequ,,female ego's older sister's son,,,,
-fyZS,luvequ,,female ego's younger sister's son,,,,
-feBD,vugoqu,,female ego's older brother's daughter,,,,
-fyBD,vugoqu,,female ego's younger brother's daughter,,,,
-feZD,luvequ,,female ego's older sister's daughter,,,,
-fyZD,luvequ,,female ego's younger sister's daughter,,,,
-mFeB,tamaqu,,male ego's father's older brother,,,,
-mFyB,tamaqu,,male ego's father's younger brother,,,,
-mFeZ,"ganei, nei",,male ego's father's older sister,,,,
-mFyZ,"ganei, nei",,male ego's father's younger sister,,,,
-mMeB,momo,,male ego's mother's older brother,,,,
-mMyB,momo,,male ego's mother's younger brother,,,,
-mMeZ,tinaqu,,male ego's mother's older sister,,,,
-mMyZ,tinaqu,,male ego's mother's younger sister,,,,
-fFeB,tamaqu,,female ego's father's older brother,,,,
-fFyB,tamaqu,,female ego's father's younger brother,,,,
-fFeZ,"ganei, nei",,female ego's father's older sister,,,,
-fFyZ,"ganei, nei",,female ego's father's younger sister,,,,
-fMeB,momo,,female ego's mother's older brother,,,,
-fMyB,momo,,female ego's mother's younger brother,,,,
-fMeZ,tinaqu,,female ego's mother's older sister,,,,
-fMyZ,tinaqu,,female ego's mother's younger sister,,,,
-mW,watiqu,,male ego's wife,,,,
-fH,watiqu,,female ego‘s husband,,,,
-mDH,vugoqu,,male ego's daughter's husband,,,,
-fDH,vugoqu,,female ego's daughter's husband,,,,
-mSW,vugoqu,,male ego's son's wife,,,,
-fSW,vugoqu,,female ego's son's wife,,,,
-mWF,momo,,male ego's wife's father,,,,
-mWM,"ganei, nei",,male ego's wife's mother,,,,
-mWB,tavalequ,,male ego's wife's brother,,,,
-mWZ,noqu daku,,male ego's wife's sister,,,,
-fHF,momo,,female ego's husband's father,,,,
-fHM,"ganei, nei",,female ego's husband's mother,,,,
-fHB,noqu daku,,female ego's husband's brother,,,,
-fHZ,raivaqu,,female ego's husband's sister,,,,
-mBW,noqu daku,,male ego's brother's wife,,,,
-fBW,raivaqu,,female ego's brother's wife,,,,
-mZH,tavalequ,,male ego's sister's husband,,,,
-fZH,noqu daku,,female ego's sister's husband,,,,
-mFBS,"karuaqu, taciqu",,male ego's father's brother's son,,,,
-mFZS,tavalequ,,male ego's father's sister's son,,,,
-mMBS,tavalequ,,male ego's mother's brother's son,,,,
-mMZS,"karuaqu, taciqu",,male ego's mother's sister's son,,,,
-mFBD,"karuaqu, taciqu",,male ego's father's brother's daughter,,,,
-mFZD,"davolaqu, watiqu",,male ego's father's sister's daughter,,,,
-mMBD,"davolaqu, watiqu",,male ego's mother's brother's daughter,,,,
-mMZD,"karuaqu, taciqu",,male ego's mother's sister's daughter,,,,
-fFBS,"karuaqu, taciqu",,female ego's father's brother's son,,,,
-fFZS,"davolaqu, watiqu",,female ego's father's sister's son,,,,
-fMBS,"davolaqu, watiqu",,female ego's mother's brother's son,,,,
-fMZS,"karuaqu, taciqu",,female ego's mother's sister's son,,,,
-fFBD,"karuaqu, taciqu",,female ego's father's brother's daughter,,,,
-fFZD,raivaqu,,female ego's father's sister's daughter,,,,
-fMBD,raivaqu,,female ego's mother's brother's daughter,,,,
-fMZD,"karuaqu, taciqu",,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tuakaqu",,"male ego's older brother",,,,
+"myB","taciqu",,"male ego's younger brother",,,,
+"feB","ganequ",,"female ego's older brother",,,,
+"fyB","ganequ",,"female ego's younger brother",,,,
+"meZ","genequ",,"male ego's older sister",,,,
+"myZ","genequ",,"male ego's younger sister",,,,
+"feZ","tuakaqu",,"female ego's older sister",,,,
+"fyZ","taciqu",,"female ego's younger sister",,,,
+"mF","tamaqu",,"male ego's father",,,,
+"mM","tinaqu",,"male ego's mother",,,,
+"fF","tamaqu",,"female ego's father",,,,
+"fM","tinaqu",,"female ego's mother",,,,
+"mS","luvequ",,"male ego's son",,,,
+"fS","luvequ",,"female ego's son",,,,
+"mD","luvequ",,"male ego's daughter",,,,
+"fD","luvequ",,"female ego's daughter",,,,
+"mSS","makubuqu",,"male ego's son's son",,,,
+"mSD","makubuqu",,"male ego's son's daughter",,,,
+"mDS","makubuqu",,"male ego's daughter's son",,,,
+"mDD","makubuqu",,"male ego's daughter's daughter",,,,
+"fSS","makubuqu",,"female ego's son's son",,,,
+"fSD","makubuqu",,"female ego's son's daughter",,,,
+"fDS","makubuqu",,"female ego's daughter's son",,,,
+"fDD","makubuqu",,"female ego's daugher's daughter",,,,
+"mFF","tubuqu",,"male ego's father‘s father",,,,
+"mFM","buqu",,"male ego's father's mother",,,,
+"mMF","tukaqu",,"male ego's mother's father",,,,
+"mMM","buqu",,"male ego's mother's mother",,,,
+"fFF","tubuqu",,"female ego's father's father",,,,
+"fFM","buqu",,"female ego's father's mother",,,,
+"fMF","tukaqu",,"female ego's mother's father",,,,
+"fMM","buqu",,"female ego's mother's mother",,,,
+"meBS","luvequ",,"male ego's older brother's son",,,,
+"myBS","luvequ",,"male ego's younger brother's son",,,,
+"meZS","vugoqu, noqu vatuvu",,"male ego's older sister's son",,,,
+"myZS","vugoqu, noqu vatuvu",,"male ego's younger sister's son",,,,
+"meBD","luvequ",,"male ego's older brother's daughter",,,,
+"myBD","luvequ",,"male ego's younger brother's daughter",,,,
+"meZD","vugoqu, noqu vatuvu",,"male ego's older sister's daughter",,,,
+"myZD","vugoqu, noqu vatuvu",,"male ego's younger sister's daughter",,,,
+"feBS","vugoqu",,"female ego's older brother's son",,,,
+"fyBS","vugoqu",,"female ego's younger brother's son",,,,
+"feZS","luvequ",,"female ego's older sister's son",,,,
+"fyZS","luvequ",,"female ego's younger sister's son",,,,
+"feBD","vugoqu",,"female ego's older brother's daughter",,,,
+"fyBD","vugoqu",,"female ego's younger brother's daughter",,,,
+"feZD","luvequ",,"female ego's older sister's daughter",,,,
+"fyZD","luvequ",,"female ego's younger sister's daughter",,,,
+"mFeB","tamaqu",,"male ego's father's older brother",,,,
+"mFyB","tamaqu",,"male ego's father's younger brother",,,,
+"mFeZ","ganei, nei",,"male ego's father's older sister",,,,
+"mFyZ","ganei, nei",,"male ego's father's younger sister",,,,
+"mMeB","momo",,"male ego's mother's older brother",,,,
+"mMyB","momo",,"male ego's mother's younger brother",,,,
+"mMeZ","tinaqu",,"male ego's mother's older sister",,,,
+"mMyZ","tinaqu",,"male ego's mother's younger sister",,,,
+"fFeB","tamaqu",,"female ego's father's older brother",,,,
+"fFyB","tamaqu",,"female ego's father's younger brother",,,,
+"fFeZ","ganei, nei",,"female ego's father's older sister",,,,
+"fFyZ","ganei, nei",,"female ego's father's younger sister",,,,
+"fMeB","momo",,"female ego's mother's older brother",,,,
+"fMyB","momo",,"female ego's mother's younger brother",,,,
+"fMeZ","tinaqu",,"female ego's mother's older sister",,,,
+"fMyZ","tinaqu",,"female ego's mother's younger sister",,,,
+"mW","watiqu",,"male ego's wife",,,,
+"fH","watiqu",,"female ego‘s husband",,,,
+"mDH","vugoqu",,"male ego's daughter's husband",,,,
+"fDH","vugoqu",,"female ego's daughter's husband",,,,
+"mSW","vugoqu",,"male ego's son's wife",,,,
+"fSW","vugoqu",,"female ego's son's wife",,,,
+"mWF","momo",,"male ego's wife's father",,,,
+"mWM","ganei, nei",,"male ego's wife's mother",,,,
+"mWB","tavalequ",,"male ego's wife's brother",,,,
+"mWZ","noqu daku",,"male ego's wife's sister",,,,
+"fHF","momo",,"female ego's husband's father",,,,
+"fHM","ganei, nei",,"female ego's husband's mother",,,,
+"fHB","noqu daku",,"female ego's husband's brother",,,,
+"fHZ","raivaqu",,"female ego's husband's sister",,,,
+"mBW","noqu daku",,"male ego's brother's wife",,,,
+"fBW","raivaqu",,"female ego's brother's wife",,,,
+"mZH","tavalequ",,"male ego's sister's husband",,,,
+"fZH","noqu daku",,"female ego's sister's husband",,,,
+"mFBS","karuaqu, taciqu",,"male ego's father's brother's son",,,,
+"mFZS","tavalequ",,"male ego's father's sister's son",,,,
+"mMBS","tavalequ",,"male ego's mother's brother's son",,,,
+"mMZS","karuaqu, taciqu",,"male ego's mother's sister's son",,,,
+"mFBD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,,
+"mFZD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,,
+"mMBD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,,
+"mMZD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,,
+"fFBS","karuaqu, taciqu",,"female ego's father's brother's son",,,,
+"fFZS","davolaqu, watiqu",,"female ego's father's sister's son",,,,
+"fMBS","davolaqu, watiqu",,"female ego's mother's brother's son",,,,
+"fMZS","karuaqu, taciqu",,"female ego's mother's sister's son",,,,
+"fFBD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,,
+"fFZD","raivaqu",,"female ego's father's sister's daughter",,,,
+"fMBD","raivaqu",,"female ego's mother's brother's daughter",,,,
+"fMZD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,,
+"mFeBS","karuaqu, taciqu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","karuaqu, taciqu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","tavalequ",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","tavalequ",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","tavalequ",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","tavalequ",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","karuaqu, taciqu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","karuaqu, taciqu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","karuaqu, taciqu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","karuaqu, taciqu",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","tavalequ",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","tavalequ",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","tavalequ",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","tavalequ",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","karuaqu, taciqu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","karuaqu, taciqu",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","karuaqu, taciqu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","karuaqu, taciqu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","davolaqu, watiqu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","davolaqu, watiqu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","raivaqu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","raivaqu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","davolaqu, watiqu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","davolaqu, watiqu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","karuaqu, taciqu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","karuaqu, taciqu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","raivaqu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","raivaqu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","karuaqu, taciqu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","karuaqu, taciqu",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","davolaqu, watiqu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","davolaqu, watiqu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","raivaqu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","raivaqu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","davolaqu, watiqu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","davolaqu, watiqu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","karuaqu, taciqu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","karuaqu, taciqu",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","raivaqu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","raivaqu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

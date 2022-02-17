@@ -1,91 +1,139 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,wäwa,,male ego's older brother,,,,
-myB,yukuyuku,,male ego's younger brother,,,,
-feB,wäwa,,female ego's older brother,,,,
-fyB,yukuyuku,,female ego's younger brother,,,,
-meZ,yapa,,male ego's older sister,,,,
-myZ,yapa,,male ego's younger sister,,,,
-feZ,yapa,,female ego's older sister,,,,
-fyZ,yukuyuku,,female ego's younger sister,,,,
-mF,bäpa,,male ego's father,,,,
-mM,ŋandi,,male ego's mother,,,,
-fF,bäpa,,female ego's father,,,,
-fM,ŋandi,,female ego's mother,,,,
-mS,gäthu,,male ego's son,,,,
-fS,waku,,female ego's son,,,,
-mD,gäthu,,male ego's daughter,,,,
-fD,waku,,female ego's daughter,,,,
-mSS,marratja,,male ego's son's son,,,,
-mSD,marratja,,male ego's son's daughter,,,,
-mDS,gaminyarr,,male ego's daughter's son,,,,
-mDD,gaminyarr,,male ego's daughter's daughter,,,,
-fSS,gaminyarr,,female ego's son's son,,,,
-fSD,gaminyarr,,female ego's son's daughter,,,,
-fDS,gutharra,,female ego's daughter's son,,,,
-fDD,gutharra,,female ego's daugher's daughter,,,,
-mFF,"märi’mu, märi’muŋu",,male ego's father‘s father,,,,
-mFM,mumu,,male ego's father's mother,,,,
-mMF,ŋathi,,male ego's mother's father,,,,
-mMM,märi,,male ego's mother's mother,,,,
-fFF,"märi’mu, märi’muŋu",,female ego's father's father,,,,
-fFM,mumu,,female ego's father's mother,,,,
-fMF,ŋathi,,female ego's mother's father,,,,
-fMM,märi,,female ego's mother's mother,,,,
-meBS,gäthu,,male ego's older brother's son,,,,
-myBS,gäthu,,male ego's younger brother's son,,,,
-meZS,waku,,male ego's older sister's son,,,,
-myZS,waku,,male ego's younger sister's son,,,,
-meBD,gäthu,,male ego's older brother's daughter,,,,
-myBD,gäthu,,male ego's younger brother's daughter,,,,
-meZD,waku,,male ego's older sister's daughter,,,,
-myZD,waku,,male ego's younger sister's daughter,,,,
-feBS,gäthu,,female ego's older brother's son,,,,
-fyBS,gäthu,,female ego's younger brother's son,,,,
-feZS,"gaminyarr, waku",,female ego's older sister's son,,,,
-fyZS,"gaminyarr, waku",,female ego's younger sister's son,,,,
-feBD,gäthu,,female ego's older brother's daughter,,,,
-fyBD,gäthu,,female ego's younger brother's daughter,,,,
-feZD,"gaminyarr, waku",,female ego's older sister's daughter,,,,
-fyZD,"gaminyarr, waku",,female ego's younger sister's daughter,,,,
-mFeB,bäpa,,male ego's father's older brother,,,,
-mFyB,bäpa,,male ego's father's younger brother,,,,
-mFeZ,mukul bäpa,,male ego's father's older sister,,,,
-mFyZ,mukul bäpa,,male ego's father's younger sister,,,,
-mMeB,"ŋapipi, gawal",,male ego's mother's older brother,,,,
-mMyB,"ŋapipi, gawal",,male ego's mother's younger brother,,,,
-mMeZ,ŋandi,,male ego's mother's older sister,,,,
-mMyZ,ŋandi,,male ego's mother's younger sister,,,,
-fFeB,bäpa,,female ego's father's older brother,,,,
-fFyB,bäpa,,female ego's father's younger brother,,,,
-fFeZ,mukul bäpa,,female ego's father's older sister,,,,
-fFyZ,mukul bäpa,,female ego's father's younger sister,,,,
-fMeB,"ŋapipi, gawal",,female ego's mother's older brother,,,,
-fMyB,"ŋapipi, gawal",,female ego's mother's younger brother,,,,
-fMeZ,ŋandi,,female ego's mother's older sister,,,,
-fMyZ,ŋandi,,female ego's mother's younger sister,,,,
-mW,"galay, gunydjuy",,male ego's wife,,,,
-fH,dhuway,,female ego‘s husband,,,,
-fDH,"gurrung, gutharra",,female ego's daughter's husband,,,,
-mWF,"ŋapipi, gawal",,male ego's wife's father,,,,
-mWM,ŋandi,,male ego's wife's mother,,,,
-mWB,"galay, gunydjuy",,male ego's wife's brother,,,,
-fHF,"ŋapipi, gawal",,female ego's husband's father,,,,
-fHM,ŋandi,,female ego's husband's mother,,,,
-fHB,dhuway,,female ego's husband's brother,,,,
-fHZ,dhuway,,female ego's husband's sister,,,,
-mBW,"galay, gunydjuy",,male ego's brother's wife,,,,
-fBW,"galay, gunydjuy",,female ego's brother's wife,,,,
-mZH,dhuway,,male ego's sister's husband,,,,
-fZH,dhuway,,female ego's sister's husband,,,,
-mFZS,dhuway,,male ego's father's sister's son,,,,
-mMBS,"galay, gunydjuy",,male ego's mother's brother's son,,,,
-mFBD,yapa,,male ego's father's brother's daughter,,,,
-mFZD,dhuway,,male ego's father's sister's daughter,,,,
-mMBD,"galay, gunydjuy",,male ego's mother's brother's daughter,,,,
-mMZD,yapa,,male ego's mother's sister's daughter,,,,
-fFZS,dhuway,,female ego's father's sister's son,,,,
-fMBS,"galay, gunydjuy",,female ego's mother's brother's son,,,,
-fFBD,yapa,,female ego's father's brother's daughter,,,,
-fFZD,dhuway,,female ego's father's sister's daughter,,,,
-fMBD,"galay, gunydjuy",,female ego's mother's brother's daughter,,,,
-fMZD,yapa,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","wäwa",,"male ego's older brother",,,,
+"myB","yukuyuku",,"male ego's younger brother",,,,
+"feB","wäwa",,"female ego's older brother",,,,
+"fyB","yukuyuku",,"female ego's younger brother",,,,
+"meZ","yapa",,"male ego's older sister",,,,
+"myZ","yapa",,"male ego's younger sister",,,,
+"feZ","yapa",,"female ego's older sister",,,,
+"fyZ","yukuyuku",,"female ego's younger sister",,,,
+"mF","bäpa",,"male ego's father",,,,
+"mM","ŋandi",,"male ego's mother",,,,
+"fF","bäpa",,"female ego's father",,,,
+"fM","ŋandi",,"female ego's mother",,,,
+"mS","gäthu",,"male ego's son",,,,
+"fS","waku",,"female ego's son",,,,
+"mD","gäthu",,"male ego's daughter",,,,
+"fD","waku",,"female ego's daughter",,,,
+"mSS","marratja",,"male ego's son's son",,,,
+"mSD","marratja",,"male ego's son's daughter",,,,
+"mDS","gaminyarr",,"male ego's daughter's son",,,,
+"mDD","gaminyarr",,"male ego's daughter's daughter",,,,
+"fSS","gaminyarr",,"female ego's son's son",,,,
+"fSD","gaminyarr",,"female ego's son's daughter",,,,
+"fDS","gutharra",,"female ego's daughter's son",,,,
+"fDD","gutharra",,"female ego's daugher's daughter",,,,
+"mFF","märi’mu, märi’muŋu",,"male ego's father‘s father",,,,
+"mFM","mumu",,"male ego's father's mother",,,,
+"mMF","ŋathi",,"male ego's mother's father",,,,
+"mMM","märi",,"male ego's mother's mother",,,,
+"fFF","märi’mu, märi’muŋu",,"female ego's father's father",,,,
+"fFM","mumu",,"female ego's father's mother",,,,
+"fMF","ŋathi",,"female ego's mother's father",,,,
+"fMM","märi",,"female ego's mother's mother",,,,
+"meBS","gäthu",,"male ego's older brother's son",,,,
+"myBS","gäthu",,"male ego's younger brother's son",,,,
+"meZS","waku",,"male ego's older sister's son",,,,
+"myZS","waku",,"male ego's younger sister's son",,,,
+"meBD","gäthu",,"male ego's older brother's daughter",,,,
+"myBD","gäthu",,"male ego's younger brother's daughter",,,,
+"meZD","waku",,"male ego's older sister's daughter",,,,
+"myZD","waku",,"male ego's younger sister's daughter",,,,
+"feBS","gäthu",,"female ego's older brother's son",,,,
+"fyBS","gäthu",,"female ego's younger brother's son",,,,
+"feZS","gaminyarr, waku",,"female ego's older sister's son",,,,
+"fyZS","gaminyarr, waku",,"female ego's younger sister's son",,,,
+"feBD","gäthu",,"female ego's older brother's daughter",,,,
+"fyBD","gäthu",,"female ego's younger brother's daughter",,,,
+"feZD","gaminyarr, waku",,"female ego's older sister's daughter",,,,
+"fyZD","gaminyarr, waku",,"female ego's younger sister's daughter",,,,
+"mFeB","bäpa",,"male ego's father's older brother",,,,
+"mFyB","bäpa",,"male ego's father's younger brother",,,,
+"mFeZ","mukul bäpa",,"male ego's father's older sister",,,,
+"mFyZ","mukul bäpa",,"male ego's father's younger sister",,,,
+"mMeB","ŋapipi, gawal",,"male ego's mother's older brother",,,,
+"mMyB","ŋapipi, gawal",,"male ego's mother's younger brother",,,,
+"mMeZ","ŋandi",,"male ego's mother's older sister",,,,
+"mMyZ","ŋandi",,"male ego's mother's younger sister",,,,
+"fFeB","bäpa",,"female ego's father's older brother",,,,
+"fFyB","bäpa",,"female ego's father's younger brother",,,,
+"fFeZ","mukul bäpa",,"female ego's father's older sister",,,,
+"fFyZ","mukul bäpa",,"female ego's father's younger sister",,,,
+"fMeB","ŋapipi, gawal",,"female ego's mother's older brother",,,,
+"fMyB","ŋapipi, gawal",,"female ego's mother's younger brother",,,,
+"fMeZ","ŋandi",,"female ego's mother's older sister",,,,
+"fMyZ","ŋandi",,"female ego's mother's younger sister",,,,
+"mW","galay, gunydjuy",,"male ego's wife",,,,
+"fH","dhuway",,"female ego‘s husband",,,,
+"fDH","gurrung, gutharra",,"female ego's daughter's husband",,,,
+"mWF","ŋapipi, gawal",,"male ego's wife's father",,,,
+"mWM","ŋandi",,"male ego's wife's mother",,,,
+"mWB","galay, gunydjuy",,"male ego's wife's brother",,,,
+"fHF","ŋapipi, gawal",,"female ego's husband's father",,,,
+"fHM","ŋandi",,"female ego's husband's mother",,,,
+"fHB","dhuway",,"female ego's husband's brother",,,,
+"fHZ","dhuway",,"female ego's husband's sister",,,,
+"mBW","galay, gunydjuy",,"male ego's brother's wife",,,,
+"fBW","galay, gunydjuy",,"female ego's brother's wife",,,,
+"mZH","dhuway",,"male ego's sister's husband",,,,
+"fZH","dhuway",,"female ego's sister's husband",,,,
+"mFZS","dhuway",,"male ego's father's sister's son",,,,
+"mMBS","galay, gunydjuy",,"male ego's mother's brother's son",,,,
+"mFBD","yapa",,"male ego's father's brother's daughter",,,,
+"mFZD","dhuway",,"male ego's father's sister's daughter",,,,
+"mMBD","galay, gunydjuy",,"male ego's mother's brother's daughter",,,,
+"mMZD","yapa",,"male ego's mother's sister's daughter",,,,
+"fFZS","dhuway",,"female ego's father's sister's son",,,,
+"fMBS","galay, gunydjuy",,"female ego's mother's brother's son",,,,
+"fFBD","yapa",,"female ego's father's brother's daughter",,,,
+"fFZD","dhuway",,"female ego's father's sister's daughter",,,,
+"fMBD","galay, gunydjuy",,"female ego's mother's brother's daughter",,,,
+"fMZD","yapa",,"female ego's mother's sister's daughter",,,,
+"mFeZS","dhuway",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","dhuway",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","yapa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","yapa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","dhuway",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","dhuway",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","galay, gunydjuy",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","galay, gunydjuy",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeBD","galay, gunydjuy",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","galay, gunydjuy",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","yapa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","yapa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFZeS","dhuway",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","dhuway",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","yapa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","yapa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","dhuway",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","dhuway",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","galay, gunydjuy",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","galay, gunydjuy",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMBeD","galay, gunydjuy",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","galay, gunydjuy",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","yapa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","yapa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeZS","dhuway",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","dhuway",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","yapa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","yapa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","dhuway",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","dhuway",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","galay, gunydjuy",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","galay, gunydjuy",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeBD","galay, gunydjuy",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","galay, gunydjuy",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","yapa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","yapa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFZeS","dhuway",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","dhuway",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","yapa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","yapa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","dhuway",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","dhuway",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","galay, gunydjuy",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","galay, gunydjuy",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMBeD","galay, gunydjuy",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","galay, gunydjuy",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","yapa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","yapa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

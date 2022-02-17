@@ -1,231 +1,231 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,,,male speaker's sibling,,,,
-mB,yak”n”,,male speaker's brother,,,Silvia_1995,also used for FFBSS; yik”r”k” also used for FFBSS(fs)
-mZ,yinat”k”,,male speaker's sister,,,Silvia_1995,also used for FFBSS
-meB,mim,,male speaker's elder brother,,,Silvia_1995,also used for FFBSSe
-myB,t”ka,,male speaker's younger brother,,,Silvia_1995,also used for FFBSSy
-meZ,makba,,male speaker's elder sister,,,Silvia_1995,also used for FFBSDe
-myZ,t”ka,,male speaker's younger sister,,,Silvia_1995,also used for FFBSSy
-mP,,,male speaker's parent,,,,
-mF,yim”,,male speaker's father,,,Silvia_1995,
-mM,san”,,male speaker's mother,,,Silvia_1995,
-mC,,,male speaker's child,,,,
-mS,m”r”k”,,male speaker's son,,,Silvia_1995,
-mD,yimek”,,male speaker's daughter,,,Silvia_1995,
-mA,,,male speaker's ancestor,,,,
-mPP,,,male speaker's grandparent,,,,
-mFF,mee,,male speaker's father's father,,,Silvia_1995,"also used for FFB, FMB, FFF"
-mFM,wi,,male speaker's father's mother,,,Silvia_1995,also used for FFZ and FFM
-mMF,mee,,male speaker's mother's father,,,Silvia_1995,"also used for FFB, FMB, FFF"
-mMM,wi,,male speaker's mother's mother,,,Silvia_1995,
-mCC,pak”,,male speaker's grandchild,,,Silvia_1995,
-mSS,pak”,,male speaker's son's son,,,Silvia_1995,
-mSD,pak”,,male speaker's son's daughter,,,Silvia_1995,
-mDS,pak”,,male speaker's daughter's son,,,Silvia_1995,
-mDD,pak”,,male speaker's daughter's daughter,,,Silvia_1995,
-mFB,,,male speaker's father's brother,,,,
-mFZ,,,male speaker's father's sister,,,,
-mMB,,,male speaker's mother's brother,,,,
-mMZ,,,male speaker's mother's sister,,,,
-mFeB,y”mk”,,male speaker's father's older brother,,,Silvia_1995,"also used for FFBS, FFFBSS"
-mFyB,y”mk”,,male speaker's father's younger brother,,,Silvia_1995,"also used for FFBS, FFFBSS"
-mFeZ,w”h”,,male speaker's father's older sister,,,Silvia_1995,also FFBD and FFFBSD
-mFyZ,w”h”,,male speaker's father's younger sister,,,Silvia_1995,also FFBD and FFFBSD
-mMeZ,sank”,,male speaker's mother's older sister,,,Silvia_1995,"also used for FMBD, FWZ"
-mMyZ,sank”,,male speaker's mother's younger sister,,,Silvia_1995,
-mMeB,ya,,male speaker's mother's older brother,,,Silvia_1995,
-mMyB,ya,,male speaker's mother's younger brother,,,Silvia_1995,
-mBS,,,male speaker's brother's son,,,,
-mBD,,,male speaker's brother's daughter,,,,
-mZS,,,male speaker's sister's son,,,,
-mZD,,,male speaker's sister's daughter,,,,
-meBS,mir”ki,,male speaker's older brother's son,,,Silvia_1995,mir”ki also FBSS(ms) and FFBSSS(ms); pat”mk” also FBDS(ms) and MBSS(ms)
-myBS,mir”ki,,male speaker's younger brother's son,,,Silvia_1995,mir”ki also FBSS(ms) and FFBSSS(ms)
-meBD,yimek”k”,,male speaker's older brother's daughter,,,Silvia_1995,pask” also FBSD(ws) and FBDD(ms)
-myBD,yimek”k”,,male speaker's younger brother's daughter,,,Silvia_1995,
-meZS,pat”mk”,,male speaker's older sister's son,,,Silvia_1995,bik”k” also FBDS(ws) and MBSS(ws)
-myZS,pat”mk”,,male speaker's younger sister's son,,,Silvia_1995,
-meZD,pask”,,male speaker's older sister's daughter,,,Silvia_1995,
-myZD,pask”,,male speaker's younger sister's daughter,,,Silvia_1995,also FBSD(ms) and FBDD(ws)
-mFZD,,,male speaker's father's sister's daughter,,,,
-mFBD,yinat”k”,,male speaker's father's brother's daughter,,,Silvia_1995,yak”n” also used for FFBSS; yinat”k” also used for FFBSD(ms)
-mMBD,werik”,,male speaker's mother's brother's daughter,,,Silvia_1995,pa–/parim (co-resident/non-co-resident) can also be generally used for all same-generation affines/cousins (p.33/38)
-mMZD,,,male speaker's mother's sister's daughter,,,,
-mFBS,yak”n”,,male speaker's father's brother's son,,,Silvia_1995,also used for FFBSS
-mFZS,,,male speaker's father's sister's son,,,,
-mMBS,pa–,,male speaker's mother's brother's son,,,Silvia_1995,"discussion on p.38 contradicts the claims made in the term chart, where it says that weriki/bemiki are terms for same-generation different sex affines, and pa–/parim (co-resident/non-co-resident) are same-generation same-sex affines. It is likely the forms in the chart on p.33 are indeed errors due to overlap with the other terms"
-mMZS,,,male speaker's mother's sister's son,,,,
-mFeBS,,,male speaker's father's older brother's son,,,,
-mFyBS,,,male speaker's father's younger brother's son,,,,
-mFeZS,,,male speaker's father's older sister's son,,,,
-mFyZS,,,male speaker's father's younger sister's son,,,,
-mFeBD,,,male speaker's father's older brother's daughter,,,,
-mFyBD,,,male speaker's father's younger brother's daughter,,,,
-mFeZD,,,male speaker's father's older sister's daughter,,,,
-mFyZD,,,male speaker's father's younger sister's daughter,,,,
-mMeBS,,,male speaker's mother's older brother's son,,,,
-mMyBS,,,male speaker's mother's younger brother's son,,,,
-mMeZS,,,male speaker's mother's older sister's son,,,,
-mMyZS,,,male speaker's mother's younger sister's son,,,,
-mMeBD,,,male speaker's mother's older brother's daughter,,,,
-mMyBD,,,male speaker's mother's younger brother's daughter,,,,
-mMeZD,,,male speaker's mother's older sister's daughter,,,,
-mMyZD,,,male speaker's mother's younger sister's daughter,,,,also used for FFBSeS
-mFBeS,mim,,male speaker's father's brother's older son,,,Silvia_1995,also used for FFBSyS
-mFByS,t”ka,,male speaker's father's brother's younger son,,,Silvia_1995,
-mFZeS,,,male speaker's father's sister's older son,,,,
-mFZyS,,,male speaker's father's sister's younger son,,,,also used for FFBSeD
-mFBeD,makba,,male speaker's father's brother's older daughter,,,Silvia_1995,also used for FFBSyS
-mFByD,t”ka,,male speaker's father's brother's younger daughter,,,Silvia_1995,
-mFZeD,,,male speaker's father's sister's older daughter,,,,
-mFZyD,,,male speaker's father's sister's younger daughter,,,,
-mMBeS,,,male speaker's mother's brother's older son,,,,
-mMByS,,,male speaker's mother's brother's younger son,,,,
-mMZeS,,,male speaker's mother's sister's older son,,,,
-mMZyS,,,male speaker's mother's sister's younger son,,,,
-mMBeD,,,male speaker's mother's brother's older daughter,,,,
-mMByD,,,male speaker's mother's brother's younger daughter,,,,
-mMZeD,,,male speaker's mother's sister's older daughter,,,,
-mMZyD,,,male speaker's mother's sister's younger daughter,,,,
-mE,,,male speaker's spouse,,,,
-mH,yin,,male speaker's husband,,,Silvia_1995,
-mW,p”t”,,male speaker's wife,,,Silvia_1995,
-mHF,ya,,male speaker's husband's father,,,Silvia_1995,
-mHM,w”h”,,male speaker's husband's mother,,,Silvia_1995,also FFBD and FFFBSD
-mWF,ya,,male speaker's wife's father,,,Silvia_1995,
-mWM,w”h”,,male speaker's wife's mother,,,Silvia_1995,also FFBD and FFFBSD
-mBW,werik”,,male speaker's brother's wife,,,Silvia_1995,
-mZH,pa–,,male speaker's sister's husband,,,Silvia_1995,
-mWB,,,male speaker's wife's brother,,,,
-mWZ,werik”,,male speaker's wife's sister,,,,
-mHB,pa–,,male speaker's husband's brother,,,,
-mHZ,,,male speaker's husband's sister,,,,
-mco-W,,,male speaker's co-wife,,,,
-mco-H,,,male speaker's co-husband,,,,
-mFW(notM),,,male speaker's father's wife (not mother),,,,
-mMH(notF),,,male speaker's wife's husband (not father),,,,
-mSW,pask”,,male speaker's son's wife,,,Silvia_1995,
-mSWM,,,male speaker's son's wife's mother,,,,
-mSWF,,,male speaker's son's wife's father,,,,
-mDH,pat”mk”,,male speaker's daughter's husband,,,Silvia_1995,
-mDHM,,,male speaker's daughter's husband's mother,,,,
-mDHF,,,male speaker's daughter's husband's father,,,,
-mFZH,ya,,male speaker's father's sister's husband,,,Silvia_1995,
-mFBW,,,male speaker's father's brother's wife,,,,
-mMZH,,,male speaker's mother's sister's husband,,,,
-mMBW,,,male speaker's mother's brother's wife,,,,
-fG,,,female speaker's sibling,,,,
-fB,yik”r”k”,,female speaker's brother,,,,also used for FFBSS; yik”r”k” also used for FFBSS(fs)
-fZ,yak”n”,,female speaker's sister,,,,also used for FFBSS
-feB,mim,,female speaker's elder brother,,,,also used for FFBSSe
-fyB,t”ka,,female speaker's younger brother,,,,also used for FFBSSy
-feZ,makba,,female speaker's elder sister,,,,also used for FFBSDe
-fyZ,t”ka,,female speaker's younger sister,,,,also used for FFBSSy
-fP,,,female speaker's parent,,,,
-fF,yim”,,female speaker's father,,,,
-fM,san”,,female speaker's mother,,,,
-fC,,,female speaker's child,,,,
-fS,bik”,,female speaker's son,,,,
-fD,yimek”,,female speaker's daughter,,,,
-fA,,,female speaker's ancestor,,,,
-fPP,,,female speaker's grandparent,,,,
-fFF,mee,,female speaker's father's father,,,,"also used for FFB, FMB, FFF"
-fFM,wi,,female speaker's father's mother,,,,also used for FFZ and FFM
-fMF,mee,,female speaker's mother's father,,,,"also used for FFB, FMB, FFF"
-fMM,wi,,female speaker's mother's mother,,,,
-fCC,pak”,,female speaker's grandchild,,,,
-fSS,pak”,,female speaker's son's son,,,,
-fSD,pak”,,female speaker's son's daughter,,,,
-fDS,pak”,,female speaker's daughter's son,,,,
-fDD,pak”,,female speaker's daughter's daughter,,,,
-fFB,,,female speaker's father's brother,,,,
-fFZ,,,female speaker's father's sister,,,,
-fMB,,,female speaker's mother's brother,,,,
-fMZ,,,female speaker's mother's sister,,,,
-fFeB,y”mk”,,female speaker's father's older brother,,,,"also used for FFBS, FFFBSS"
-fFyB,y”mk”,,female speaker's father's younger brother,,,,"also used for FFBS, FFFBSS"
-fFeZ,w”h”,,female speaker's father's older sister,,,,also FFBD and FFFBSD
-fFyZ,w”h”,,female speaker's father's younger sister,,,,also FFBD and FFFBSD
-fMeZ,sank”,,female speaker's mother's older sister,,,,"also used for FMBD, FWZ"
-fMyZ,sank”,,female speaker's mother's younger sister,,,,
-fMeB,ya,,female speaker's mother's older brother,,,,
-fMyB,ya,,female speaker's mother's younger brother,,,,
-fBS,,,female speaker's brother's son,,,,
-fBD,,,female speaker's brother's daughter,,,,
-fZS,,,female speaker's sister's son,,,,
-fZD,,,female speaker's sister's daughter,,,,
-feBS,pat”mk”,,female speaker's older brother's son,,,,mir”ki also FBSS(ms) and FFBSSS(ms); pat”mk” also FBDS(ms) and MBSS(ms)
-fyBS,pat”mk”,,female speaker's younger brother's son,,,,mir”ki also FBSS(ms) and FFBSSS(ms)
-feBD,pask”,,female speaker's older brother's daughter,,,,pask” also FBSD(ws) and FBDD(ms)
-fyBD,pask”,,female speaker's younger brother's daughter,,,,
-feZS,bik”k”,,female speaker's older sister's son,,,,bik”k” also FBDS(ws) and MBSS(ws)
-fyZS,bik”k”,,female speaker's younger sister's son,,,,
-feZD,yimek”k”,,female speaker's older sister's daughter,,,,
-fyZD,yimek”k”,,female speaker's younger sister's daughter,,,,also FBSD(ms) and FBDD(ws)
-fFZD,,,female speaker's father's sister's daughter,,,,
-fFBD,yak”n”,,female speaker's father's brother's daughter,,,,yak”n” also used for FFBSS; yinat”k” also used for FFBSD(ms)
-fMBD,pa–,,female speaker's mother's brother's daughter,,,,pa–/parim (co-resident/non-co-resident) can also be generally used for all same-generation affines/cousins (p.33/38)
-fMZD,,,female speaker's mother's sister's daughter,,,,
-fFBS,yik”r”k”,,female speaker's father's brother's son,,,,also used for FFBSS
-fFZS,,,female speaker's father's sister's son,,,,
-fMBS,bem”k”,,female speaker's mother's brother's son,,,,"discussion on p.38 contradicts the claims made in the term chart, where it says that weriki/bemiki are terms for same-generation different sex affines, and pa–/parim (co-resident/non-co-resident) are same-generation same-sex affines. It is likely the forms in the chart on p.33 are indeed errors due to overlap with the other terms"
-fMZS,,,female speaker's mother's sister's son,,,,
-fFeBS,,,female speaker's father's older brother's son,,,,
-fFyBS,,,female speaker's father's younger brother's son,,,,
-fFeZS,,,female speaker's father's older sister's son,,,,
-fFyZS,,,female speaker's father's younger sister's son,,,,
-fFeBD,,,female speaker's father's older brother's daughter,,,,
-fFyBD,,,female speaker's father's younger brother's daughter,,,,
-fFeZD,,,female speaker's father's older sister's daughter,,,,
-fFyZD,,,female speaker's father's younger sister's daughter,,,,
-fMeBS,,,female speaker's mother's older brother's son,,,,
-fMyBS,,,female speaker's mother's younger brother's son,,,,
-fMeZS,,,female speaker's mother's older sister's son,,,,
-fMyZS,,,female speaker's mother's younger sister's son,,,,
-fMeBD,,,female speaker's mother's older brother's daughter,,,,
-fMyBD,,,female speaker's mother's younger brother's daughter,,,,
-fMeZD,,,female speaker's mother's older sister's daughter,,,,
-fMyZD,,,female speaker's mother's younger sister's daughter,,,,also used for FFBSeS
-fFBeS,mim,,female speaker's father's brother's older son,,,,also used for FFBSyS
-fFByS,t”ka,,female speaker's father's brother's younger son,,,,
-fFZeS,,,female speaker's father's sister's older son,,,,
-fFZyS,,,female speaker's father's sister's younger son,,,,also used for FFBSeD
-fFBeD,makba,,female speaker's father's brother's older daughter,,,,also used for FFBSyS
-fFByD,t”ka,,female speaker's father's brother's younger daughter,,,,
-fFZeD,,,female speaker's father's sister's older daughter,,,,
-fFZyD,,,female speaker's father's sister's younger daughter,,,,
-fMBeS,,,female speaker's mother's brother's older son,,,,
-fMByS,,,female speaker's mother's brother's younger son,,,,
-fMZeS,,,female speaker's mother's sister's older son,,,,
-fMZyS,,,female speaker's mother's sister's younger son,,,,
-fMBeD,,,female speaker's mother's brother's older daughter,,,,
-fMByD,,,female speaker's mother's brother's younger daughter,,,,
-fMZeD,,,female speaker's mother's sister's older daughter,,,,
-fMZyD,,,female speaker's mother's sister's younger daughter,,,,
-fE,,,female speaker's spouse,,,,
-fH,yin,,female speaker's husband,,,,
-fW,p”t”,,female speaker's wife,,,,
-fHF,ya,,female speaker's husband's father,,,,
-fHM,w”h”,,female speaker's husband's mother,,,,also FFBD and FFFBSD
-fWF,ya,,female speaker's wife's father,,,,
-fWM,w”h”,,female speaker's wife's mother,,,,also FFBD and FFFBSD
-fBW,pa–,,female speaker's brother's wife,,,,
-fZH,bem”k”,,female speaker's sister's husband,,,,
-fWB,,,female speaker's wife's brother,,,,
-fWZ,pa–,,female speaker's wife's sister,,,,
-fHB,bem”k”,,female speaker's husband's brother,,,,
-fHZ,,,female speaker's husband's sister,,,,
-fco-W,,,female speaker's co-wife,,,,
-fco-H,,,female speaker's co-husband,,,,
-fFW(notM),,,female speaker's father's wife (not mother),,,,
-fMH(notF),,,female speaker's wife's husband (not father),,,,
-fSW,pask”,,female speaker's son's wife,,,,
-fSWM,,,female speaker's son's wife's mother,,,,
-fSWF,,,female speaker's son's wife's father,,,,
-fDH,pat”mk”,,female speaker's daughter's husband,,,,
-fDHM,,,female speaker's daughter's husband's mother,,,,
-fDHF,,,female speaker's daughter's husband's father,,,,
-fFZH,ya,,female speaker's father's sister's husband,,,,
-fFBW,,,female speaker's father's brother's wife,,,,
-fMZH,,,female speaker's mother's sister's husband,,,,
-fMBW,,,female speaker's mother's brother's wife,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","",,"male speaker's sibling",,,"",""
+"mB","yak”n”",,"male speaker's brother",,,"Silvia_1995","also used for FFBSS; yik”r”k” also used for FFBSS(fs)"
+"mZ","yinat”k”",,"male speaker's sister",,,"Silvia_1995","also used for FFBSS"
+"meB","mim",,"male speaker's elder brother",,,"Silvia_1995","also used for FFBSSe"
+"myB","t”ka",,"male speaker's younger brother",,,"Silvia_1995","also used for FFBSSy"
+"meZ","makba",,"male speaker's elder sister",,,"Silvia_1995","also used for FFBSDe"
+"myZ","t”ka",,"male speaker's younger sister",,,"Silvia_1995","also used for FFBSSy"
+"mP","",,"male speaker's parent",,,"",""
+"mF","yim”",,"male speaker's father",,,"Silvia_1995",""
+"mM","san”",,"male speaker's mother",,,"Silvia_1995",""
+"mC","",,"male speaker's child",,,"",""
+"mS","m”r”k”",,"male speaker's son",,,"Silvia_1995",""
+"mD","yimek”",,"male speaker's daughter",,,"Silvia_1995",""
+"mA","",,"male speaker's ancestor",,,"",""
+"mPP","",,"male speaker's grandparent",,,"",""
+"mFF","mee",,"male speaker's father's father",,,"Silvia_1995","also used for FFB, FMB, FFF"
+"mFM","wi",,"male speaker's father's mother",,,"Silvia_1995","also used for FFZ and FFM"
+"mMF","mee",,"male speaker's mother's father",,,"Silvia_1995","also used for FFB, FMB, FFF"
+"mMM","wi",,"male speaker's mother's mother",,,"Silvia_1995",""
+"mCC","pak”",,"male speaker's grandchild",,,"Silvia_1995",""
+"mSS","pak”",,"male speaker's son's son",,,"Silvia_1995",""
+"mSD","pak”",,"male speaker's son's daughter",,,"Silvia_1995",""
+"mDS","pak”",,"male speaker's daughter's son",,,"Silvia_1995",""
+"mDD","pak”",,"male speaker's daughter's daughter",,,"Silvia_1995",""
+"mFB","",,"male speaker's father's brother",,,"",""
+"mFZ","",,"male speaker's father's sister",,,"",""
+"mMB","",,"male speaker's mother's brother",,,"",""
+"mMZ","",,"male speaker's mother's sister",,,"",""
+"mFeB","y”mk”",,"male speaker's father's older brother",,,"Silvia_1995","also used for FFBS, FFFBSS"
+"mFyB","y”mk”",,"male speaker's father's younger brother",,,"Silvia_1995","also used for FFBS, FFFBSS"
+"mFeZ","w”h”",,"male speaker's father's older sister",,,"Silvia_1995","also FFBD and FFFBSD"
+"mFyZ","w”h”",,"male speaker's father's younger sister",,,"Silvia_1995","also FFBD and FFFBSD"
+"mMeZ","sank”",,"male speaker's mother's older sister",,,"Silvia_1995","also used for FMBD, FWZ"
+"mMyZ","sank”",,"male speaker's mother's younger sister",,,"Silvia_1995",""
+"mMeB","ya",,"male speaker's mother's older brother",,,"Silvia_1995",""
+"mMyB","ya",,"male speaker's mother's younger brother",,,"Silvia_1995",""
+"mBS","",,"male speaker's brother's son",,,"",""
+"mBD","",,"male speaker's brother's daughter",,,"",""
+"mZS","",,"male speaker's sister's son",,,"",""
+"mZD","",,"male speaker's sister's daughter",,,"",""
+"meBS","mir”ki",,"male speaker's older brother's son",,,"Silvia_1995","mir”ki also FBSS(ms) and FFBSSS(ms); pat”mk” also FBDS(ms) and MBSS(ms)"
+"myBS","mir”ki",,"male speaker's younger brother's son",,,"Silvia_1995","mir”ki also FBSS(ms) and FFBSSS(ms)"
+"meBD","yimek”k”",,"male speaker's older brother's daughter",,,"Silvia_1995","pask” also FBSD(ws) and FBDD(ms)"
+"myBD","yimek”k”",,"male speaker's younger brother's daughter",,,"Silvia_1995",""
+"meZS","pat”mk”",,"male speaker's older sister's son",,,"Silvia_1995","bik”k” also FBDS(ws) and MBSS(ws)"
+"myZS","pat”mk”",,"male speaker's younger sister's son",,,"Silvia_1995",""
+"meZD","pask”",,"male speaker's older sister's daughter",,,"Silvia_1995",""
+"myZD","pask”",,"male speaker's younger sister's daughter",,,"Silvia_1995","also FBSD(ms) and FBDD(ws)"
+"mFZD","",,"male speaker's father's sister's daughter",,,"",""
+"mFBD","yinat”k”",,"male speaker's father's brother's daughter",,,"Silvia_1995","yak”n” also used for FFBSS; yinat”k” also used for FFBSD(ms)"
+"mMBD","werik”",,"male speaker's mother's brother's daughter",,,"Silvia_1995","pa–/parim (co-resident/non-co-resident) can also be generally used for all same-generation affines/cousins (p.33/38)"
+"mMZD","",,"male speaker's mother's sister's daughter",,,"",""
+"mFBS","yak”n”",,"male speaker's father's brother's son",,,"Silvia_1995","also used for FFBSS"
+"mFZS","",,"male speaker's father's sister's son",,,"",""
+"mMBS","pa–",,"male speaker's mother's brother's son",,,"Silvia_1995","discussion on p.38 contradicts the claims made in the term chart, where it says that weriki/bemiki are terms for same-generation different sex affines, and pa–/parim (co-resident/non-co-resident) are same-generation same-sex affines. It is likely the forms in the chart on p.33 are indeed errors due to overlap with the other terms"
+"mMZS","",,"male speaker's mother's sister's son",,,"",""
+"mFeBS","",,"male speaker's father's older brother's son",,,"",""
+"mFyBS","",,"male speaker's father's younger brother's son",,,"",""
+"mFeZS","",,"male speaker's father's older sister's son",,,"",""
+"mFyZS","",,"male speaker's father's younger sister's son",,,"",""
+"mFeBD","",,"male speaker's father's older brother's daughter",,,"",""
+"mFyBD","",,"male speaker's father's younger brother's daughter",,,"",""
+"mFeZD","",,"male speaker's father's older sister's daughter",,,"",""
+"mFyZD","",,"male speaker's father's younger sister's daughter",,,"",""
+"mMeBS","",,"male speaker's mother's older brother's son",,,"",""
+"mMyBS","",,"male speaker's mother's younger brother's son",,,"",""
+"mMeZS","",,"male speaker's mother's older sister's son",,,"",""
+"mMyZS","",,"male speaker's mother's younger sister's son",,,"",""
+"mMeBD","",,"male speaker's mother's older brother's daughter",,,"",""
+"mMyBD","",,"male speaker's mother's younger brother's daughter",,,"",""
+"mMeZD","",,"male speaker's mother's older sister's daughter",,,"",""
+"mMyZD","",,"male speaker's mother's younger sister's daughter",,,"","also used for FFBSeS"
+"mFBeS","mim",,"male speaker's father's brother's older son",,,"Silvia_1995","also used for FFBSyS"
+"mFByS","t”ka",,"male speaker's father's brother's younger son",,,"Silvia_1995",""
+"mFZeS","",,"male speaker's father's sister's older son",,,"",""
+"mFZyS","",,"male speaker's father's sister's younger son",,,"","also used for FFBSeD"
+"mFBeD","makba",,"male speaker's father's brother's older daughter",,,"Silvia_1995","also used for FFBSyS"
+"mFByD","t”ka",,"male speaker's father's brother's younger daughter",,,"Silvia_1995",""
+"mFZeD","",,"male speaker's father's sister's older daughter",,,"",""
+"mFZyD","",,"male speaker's father's sister's younger daughter",,,"",""
+"mMBeS","",,"male speaker's mother's brother's older son",,,"",""
+"mMByS","",,"male speaker's mother's brother's younger son",,,"",""
+"mMZeS","",,"male speaker's mother's sister's older son",,,"",""
+"mMZyS","",,"male speaker's mother's sister's younger son",,,"",""
+"mMBeD","",,"male speaker's mother's brother's older daughter",,,"",""
+"mMByD","",,"male speaker's mother's brother's younger daughter",,,"",""
+"mMZeD","",,"male speaker's mother's sister's older daughter",,,"",""
+"mMZyD","",,"male speaker's mother's sister's younger daughter",,,"",""
+"mE","",,"male speaker's spouse",,,"",""
+"mH","yin",,"male speaker's husband",,,"Silvia_1995",""
+"mW","p”t”",,"male speaker's wife",,,"Silvia_1995",""
+"mHF","ya",,"male speaker's husband's father",,,"Silvia_1995",""
+"mHM","w”h”",,"male speaker's husband's mother",,,"Silvia_1995","also FFBD and FFFBSD"
+"mWF","ya",,"male speaker's wife's father",,,"Silvia_1995",""
+"mWM","w”h”",,"male speaker's wife's mother",,,"Silvia_1995","also FFBD and FFFBSD"
+"mBW","werik”",,"male speaker's brother's wife",,,"Silvia_1995",""
+"mZH","pa–",,"male speaker's sister's husband",,,"Silvia_1995",""
+"mWB","",,"male speaker's wife's brother",,,"",""
+"mWZ","werik”",,"male speaker's wife's sister",,,"",""
+"mHB","pa–",,"male speaker's husband's brother",,,"",""
+"mHZ","",,"male speaker's husband's sister",,,"",""
+"mco-W","",,"male speaker's co-wife",,,"",""
+"mco-H","",,"male speaker's co-husband",,,"",""
+"mFW(notM)","",,"male speaker's father's wife (not mother)",,,"",""
+"mMH(notF)","",,"male speaker's wife's husband (not father)",,,"",""
+"mSW","pask”",,"male speaker's son's wife",,,"Silvia_1995",""
+"mSWM","",,"male speaker's son's wife's mother",,,"",""
+"mSWF","",,"male speaker's son's wife's father",,,"",""
+"mDH","pat”mk”",,"male speaker's daughter's husband",,,"Silvia_1995",""
+"mDHM","",,"male speaker's daughter's husband's mother",,,"",""
+"mDHF","",,"male speaker's daughter's husband's father",,,"",""
+"mFZH","ya",,"male speaker's father's sister's husband",,,"Silvia_1995",""
+"mFBW","",,"male speaker's father's brother's wife",,,"",""
+"mMZH","",,"male speaker's mother's sister's husband",,,"",""
+"mMBW","",,"male speaker's mother's brother's wife",,,"",""
+"fG","",,"female speaker's sibling",,,"",""
+"fB","yik”r”k”",,"female speaker's brother",,,"","also used for FFBSS; yik”r”k” also used for FFBSS(fs)"
+"fZ","yak”n”",,"female speaker's sister",,,"","also used for FFBSS"
+"feB","mim",,"female speaker's elder brother",,,"","also used for FFBSSe"
+"fyB","t”ka",,"female speaker's younger brother",,,"","also used for FFBSSy"
+"feZ","makba",,"female speaker's elder sister",,,"","also used for FFBSDe"
+"fyZ","t”ka",,"female speaker's younger sister",,,"","also used for FFBSSy"
+"fP","",,"female speaker's parent",,,"",""
+"fF","yim”",,"female speaker's father",,,"",""
+"fM","san”",,"female speaker's mother",,,"",""
+"fC","",,"female speaker's child",,,"",""
+"fS","bik”",,"female speaker's son",,,"",""
+"fD","yimek”",,"female speaker's daughter",,,"",""
+"fA","",,"female speaker's ancestor",,,"",""
+"fPP","",,"female speaker's grandparent",,,"",""
+"fFF","mee",,"female speaker's father's father",,,"","also used for FFB, FMB, FFF"
+"fFM","wi",,"female speaker's father's mother",,,"","also used for FFZ and FFM"
+"fMF","mee",,"female speaker's mother's father",,,"","also used for FFB, FMB, FFF"
+"fMM","wi",,"female speaker's mother's mother",,,"",""
+"fCC","pak”",,"female speaker's grandchild",,,"",""
+"fSS","pak”",,"female speaker's son's son",,,"",""
+"fSD","pak”",,"female speaker's son's daughter",,,"",""
+"fDS","pak”",,"female speaker's daughter's son",,,"",""
+"fDD","pak”",,"female speaker's daughter's daughter",,,"",""
+"fFB","",,"female speaker's father's brother",,,"",""
+"fFZ","",,"female speaker's father's sister",,,"",""
+"fMB","",,"female speaker's mother's brother",,,"",""
+"fMZ","",,"female speaker's mother's sister",,,"",""
+"fFeB","y”mk”",,"female speaker's father's older brother",,,"","also used for FFBS, FFFBSS"
+"fFyB","y”mk”",,"female speaker's father's younger brother",,,"","also used for FFBS, FFFBSS"
+"fFeZ","w”h”",,"female speaker's father's older sister",,,"","also FFBD and FFFBSD"
+"fFyZ","w”h”",,"female speaker's father's younger sister",,,"","also FFBD and FFFBSD"
+"fMeZ","sank”",,"female speaker's mother's older sister",,,"","also used for FMBD, FWZ"
+"fMyZ","sank”",,"female speaker's mother's younger sister",,,"",""
+"fMeB","ya",,"female speaker's mother's older brother",,,"",""
+"fMyB","ya",,"female speaker's mother's younger brother",,,"",""
+"fBS","",,"female speaker's brother's son",,,"",""
+"fBD","",,"female speaker's brother's daughter",,,"",""
+"fZS","",,"female speaker's sister's son",,,"",""
+"fZD","",,"female speaker's sister's daughter",,,"",""
+"feBS","pat”mk”",,"female speaker's older brother's son",,,"","mir”ki also FBSS(ms) and FFBSSS(ms); pat”mk” also FBDS(ms) and MBSS(ms)"
+"fyBS","pat”mk”",,"female speaker's younger brother's son",,,"","mir”ki also FBSS(ms) and FFBSSS(ms)"
+"feBD","pask”",,"female speaker's older brother's daughter",,,"","pask” also FBSD(ws) and FBDD(ms)"
+"fyBD","pask”",,"female speaker's younger brother's daughter",,,"",""
+"feZS","bik”k”",,"female speaker's older sister's son",,,"","bik”k” also FBDS(ws) and MBSS(ws)"
+"fyZS","bik”k”",,"female speaker's younger sister's son",,,"",""
+"feZD","yimek”k”",,"female speaker's older sister's daughter",,,"",""
+"fyZD","yimek”k”",,"female speaker's younger sister's daughter",,,"","also FBSD(ms) and FBDD(ws)"
+"fFZD","",,"female speaker's father's sister's daughter",,,"",""
+"fFBD","yak”n”",,"female speaker's father's brother's daughter",,,"","yak”n” also used for FFBSS; yinat”k” also used for FFBSD(ms)"
+"fMBD","pa–",,"female speaker's mother's brother's daughter",,,"","pa–/parim (co-resident/non-co-resident) can also be generally used for all same-generation affines/cousins (p.33/38)"
+"fMZD","",,"female speaker's mother's sister's daughter",,,"",""
+"fFBS","yik”r”k”",,"female speaker's father's brother's son",,,"","also used for FFBSS"
+"fFZS","",,"female speaker's father's sister's son",,,"",""
+"fMBS","bem”k”",,"female speaker's mother's brother's son",,,"","discussion on p.38 contradicts the claims made in the term chart, where it says that weriki/bemiki are terms for same-generation different sex affines, and pa–/parim (co-resident/non-co-resident) are same-generation same-sex affines. It is likely the forms in the chart on p.33 are indeed errors due to overlap with the other terms"
+"fMZS","",,"female speaker's mother's sister's son",,,"",""
+"fFeBS","",,"female speaker's father's older brother's son",,,"",""
+"fFyBS","",,"female speaker's father's younger brother's son",,,"",""
+"fFeZS","",,"female speaker's father's older sister's son",,,"",""
+"fFyZS","",,"female speaker's father's younger sister's son",,,"",""
+"fFeBD","",,"female speaker's father's older brother's daughter",,,"",""
+"fFyBD","",,"female speaker's father's younger brother's daughter",,,"",""
+"fFeZD","",,"female speaker's father's older sister's daughter",,,"",""
+"fFyZD","",,"female speaker's father's younger sister's daughter",,,"",""
+"fMeBS","",,"female speaker's mother's older brother's son",,,"",""
+"fMyBS","",,"female speaker's mother's younger brother's son",,,"",""
+"fMeZS","",,"female speaker's mother's older sister's son",,,"",""
+"fMyZS","",,"female speaker's mother's younger sister's son",,,"",""
+"fMeBD","",,"female speaker's mother's older brother's daughter",,,"",""
+"fMyBD","",,"female speaker's mother's younger brother's daughter",,,"",""
+"fMeZD","",,"female speaker's mother's older sister's daughter",,,"",""
+"fMyZD","",,"female speaker's mother's younger sister's daughter",,,"","also used for FFBSeS"
+"fFBeS","mim",,"female speaker's father's brother's older son",,,"","also used for FFBSyS"
+"fFByS","t”ka",,"female speaker's father's brother's younger son",,,"",""
+"fFZeS","",,"female speaker's father's sister's older son",,,"",""
+"fFZyS","",,"female speaker's father's sister's younger son",,,"","also used for FFBSeD"
+"fFBeD","makba",,"female speaker's father's brother's older daughter",,,"","also used for FFBSyS"
+"fFByD","t”ka",,"female speaker's father's brother's younger daughter",,,"",""
+"fFZeD","",,"female speaker's father's sister's older daughter",,,"",""
+"fFZyD","",,"female speaker's father's sister's younger daughter",,,"",""
+"fMBeS","",,"female speaker's mother's brother's older son",,,"",""
+"fMByS","",,"female speaker's mother's brother's younger son",,,"",""
+"fMZeS","",,"female speaker's mother's sister's older son",,,"",""
+"fMZyS","",,"female speaker's mother's sister's younger son",,,"",""
+"fMBeD","",,"female speaker's mother's brother's older daughter",,,"",""
+"fMByD","",,"female speaker's mother's brother's younger daughter",,,"",""
+"fMZeD","",,"female speaker's mother's sister's older daughter",,,"",""
+"fMZyD","",,"female speaker's mother's sister's younger daughter",,,"",""
+"fE","",,"female speaker's spouse",,,"",""
+"fH","yin",,"female speaker's husband",,,"",""
+"fW","p”t”",,"female speaker's wife",,,"",""
+"fHF","ya",,"female speaker's husband's father",,,"",""
+"fHM","w”h”",,"female speaker's husband's mother",,,"","also FFBD and FFFBSD"
+"fWF","ya",,"female speaker's wife's father",,,"",""
+"fWM","w”h”",,"female speaker's wife's mother",,,"","also FFBD and FFFBSD"
+"fBW","pa–",,"female speaker's brother's wife",,,"",""
+"fZH","bem”k”",,"female speaker's sister's husband",,,"",""
+"fWB","",,"female speaker's wife's brother",,,"",""
+"fWZ","pa–",,"female speaker's wife's sister",,,"",""
+"fHB","bem”k”",,"female speaker's husband's brother",,,"",""
+"fHZ","",,"female speaker's husband's sister",,,"",""
+"fco-W","",,"female speaker's co-wife",,,"",""
+"fco-H","",,"female speaker's co-husband",,,"",""
+"fFW(notM)","",,"female speaker's father's wife (not mother)",,,"",""
+"fMH(notF)","",,"female speaker's wife's husband (not father)",,,"",""
+"fSW","pask”",,"female speaker's son's wife",,,"",""
+"fSWM","",,"female speaker's son's wife's mother",,,"",""
+"fSWF","",,"female speaker's son's wife's father",,,"",""
+"fDH","pat”mk”",,"female speaker's daughter's husband",,,"",""
+"fDHM","",,"female speaker's daughter's husband's mother",,,"",""
+"fDHF","",,"female speaker's daughter's husband's father",,,"",""
+"fFZH","ya",,"female speaker's father's sister's husband",,,"",""
+"fFBW","",,"female speaker's father's brother's wife",,,"",""
+"fMZH","",,"female speaker's mother's sister's husband",,,"",""
+"fMBW","",,"female speaker's mother's brother's wife",,,"",""

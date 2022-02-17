@@ -1,30 +1,30 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-myB,čahqqá'i-či,,,,UTO4(?),stubbs_uto-aztecan_2011,; cogid=309
-myB,čahqqá'i,,,,UTO4(?),stubbs_uto-aztecan_2011,; cogid=309
-mF,muuwá-,,,,UTO4(174),stubbs_uto-aztecan_2011,; cogid=847
-mFF,kunúčin,,,,UTO4(200),stubbs_uto-aztecan_2011,
-mMF,tagőč,,,,UTO4(200),stubbs_uto-aztecan_2011,
-mMF,tagᵂő-či,,,,UTO4(200),stubbs_uto-aztecan_2011,
-mMF,töʕᵂő-či,,,,UTO4(200),stubbs_uto-aztecan_2011,
-mMM,kagú-či-n,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1050b
-mFB,aa-či-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"(my) uncle, dad's brother, n; cogid=2436"
-mFB,aáji-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"(my) uncle, dad's brother, n; cogid=2436"
-mFeB,aa-či-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-mFeB,aáji-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-mFyB,aa-či-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-mFyB,aáji-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-mW,piwá,,,,UTO4(402),stubbs_uto-aztecan_2011,; cogid=2579
-fyB,čahqqá'i-či,,,,UTO4(?),stubbs_uto-aztecan_2011,; cogid=309
-fyB,čahqqá'i,,,,UTO4(?),stubbs_uto-aztecan_2011,; cogid=309
-fF,muuwá-,,,,UTO4(174),stubbs_uto-aztecan_2011,; cogid=847
-fFF,kunúčin,,,,UTO4(200),stubbs_uto-aztecan_2011,
-fMF,tagőč,,,,UTO4(200),stubbs_uto-aztecan_2011,
-fMF,tagᵂő-či,,,,UTO4(200),stubbs_uto-aztecan_2011,
-fMF,töcᵂő-či,,,,UTO4(200),stubbs_uto-aztecan_2011,
-fMM,kagú-či-n,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1050b
-fFB,aa-či-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"(my) uncle, dad's brother, n; cogid=2436"
-fFB,aáji-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"(my) uncle, dad's brother, n; cogid=2436"
-fFeB,aa-či-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-fFeB,aáji-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-fFyB,aa-či-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
-fFyB,aáji-(n),,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"myB","čahqqá'i-či",,,,"UTO4(?)","stubbs_uto-aztecan_2011","; cogid=309"
+"myB","čahqqá'i",,,,"UTO4(?)","stubbs_uto-aztecan_2011","; cogid=309"
+"mF","muuwá-",,,,"UTO4(174)","stubbs_uto-aztecan_2011","; cogid=847"
+"mFF","kunúčin",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"mMF","tagőč",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"mMF","tagᵂő-či",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"mMF","töʕᵂő-či",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"mMM","kagú-či-n",,,,"UTO4(200)","stubbs_uto-aztecan_2011","; cogid=1050b"
+"mFB","aa-či-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","(my) uncle, dad's brother, n; cogid=2436"
+"mFB","aáji-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","(my) uncle, dad's brother, n; cogid=2436"
+"mFeB","aa-či-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"mFeB","aáji-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"mFyB","aa-či-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"mFyB","aáji-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"mW","piwá",,,,"UTO4(402)","stubbs_uto-aztecan_2011","; cogid=2579"
+"fyB","čahqqá'i-či",,,,"UTO4(?)","stubbs_uto-aztecan_2011","; cogid=309"
+"fyB","čahqqá'i",,,,"UTO4(?)","stubbs_uto-aztecan_2011","; cogid=309"
+"fF","muuwá-",,,,"UTO4(174)","stubbs_uto-aztecan_2011","; cogid=847"
+"fFF","kunúčin",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"fMF","tagőč",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"fMF","tagᵂő-či",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"fMF","töcᵂő-či",,,,"UTO4(200)","stubbs_uto-aztecan_2011",""
+"fMM","kagú-či-n",,,,"UTO4(200)","stubbs_uto-aztecan_2011","; cogid=1050b"
+"fFB","aa-či-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","(my) uncle, dad's brother, n; cogid=2436"
+"fFB","aáji-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","(my) uncle, dad's brother, n; cogid=2436"
+"fFeB","aa-či-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"fFeB","aáji-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"fFyB","aa-či-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"
+"fFyB","aáji-(n)",,,,"UTO4(381)","stubbs_uto-aztecan_2011","Inferred; (my) uncle, dad's brother, n; cogid=2436"

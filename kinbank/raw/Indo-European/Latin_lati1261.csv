@@ -1,291 +1,291 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-myB,frāter minor,,,,IE519,baldi_latin_2015,
-myZ,soror minor,,,,IE519,baldi_latin_2015,
-mC,nātī,,,,IE519,baldi_latin_2015,
-mC,līberī,,,,IE519,baldi_latin_2015,
-mS,nātus,,,,IE519,baldi_latin_2015,
-mD,nāta,,,,IE519,baldi_latin_2015,
-mH,vir,,,,IE519,baldi_latin_2015,
-mH,marītus,,,,IE519,baldi_latin_2015,
-mH,coniu(n)x,,,,IE519,baldi_latin_2015,
-mW,uxor,,,,IE519,baldi_latin_2015,
-mW,coniu(n)x,,,,IE519,baldi_latin_2015,
-mW,marīta,,,,IE519,baldi_latin_2015,
-mHF,socer,,,,IE519,baldi_latin_2015,
-mHM,socrus,,,,IE519,baldi_latin_2015,
-mWF,socer,,,,IE519,baldi_latin_2015,
-mWM,socrus,,,,IE519,baldi_latin_2015,
-mSW,nurus,,,,IE519,baldi_latin_2015,
-mSW,nurus,,,,IE519,baldi_latin_2015,
-mDH,gener,,,,IE519,baldi_latin_2015,
-mDH,gener,,,,IE519,baldi_latin_2015,
-fyB,frāter minor,,,,IE519,baldi_latin_2015,
-fyZ,soror minor,,,,IE519,baldi_latin_2015,
-fC,nātī,,,,IE519,baldi_latin_2015,
-fC,līberī,,,,IE519,baldi_latin_2015,
-fS,nātus,,,,IE519,baldi_latin_2015,
-fD,nāta,,,,IE519,baldi_latin_2015,
-fH,vir,,,,IE519,baldi_latin_2015,
-fH,marītus,,,,IE519,baldi_latin_2015,
-fH,coniu(n)x,,,,IE519,baldi_latin_2015,
-fW,uxor,,,,IE519,baldi_latin_2015,
-fW,coniu(n)x,,,,IE519,baldi_latin_2015,
-fW,marīta,,,,IE519,baldi_latin_2015,
-fHF,socer,,,,IE519,baldi_latin_2015,
-fHM,socrus,,,,IE519,baldi_latin_2015,
-fWF,socer,,,,IE519,baldi_latin_2015,
-fWM,socrus,,,,IE519,baldi_latin_2015,
-fSW,nurus,,,,IE519,baldi_latin_2015,
-fSW,nurus,,,,IE519,baldi_latin_2015,
-fDH,gener,,,,IE519,baldi_latin_2015,
-fDH,gener,,,,IE519,baldi_latin_2015,
-mB,frāter,,,,IE519,baldi_latin_2015,
-mZ,soror,,,,IE519,baldi_latin_2015,
-mF,pater,,,,IE519,baldi_latin_2015,
-mM,māter,,,,IE519,baldi_latin_2015,
-mS,fīlius,,,,IE519,baldi_latin_2015,
-mD,fīlia,,,,IE519,baldi_latin_2015,
-mFF,avus,,,,IE519,baldi_latin_2015,
-mFM,avia,,,,IE519,baldi_latin_2015,
-mMF,avus,,,,IE519,baldi_latin_2015,
-mMM,avia,,,,IE519,baldi_latin_2015,
-mSS,nepōs,,,,IE519,baldi_latin_2015,
-mSD,neptis,,,,IE519,baldi_latin_2015,
-mDS,nepōs,,,,IE519,baldi_latin_2015,
-mDD,neptis,,,,IE519,baldi_latin_2015,
-mBS,fīlius frātris,,,,IE519,baldi_latin_2015,
-mBD,fīlia frātris,,,,IE519,baldi_latin_2015,frātris fīlia
-mZD,filia sororis,,,,IE519,baldi_latin_2015,
-meB,frāter,,,,IE519,baldi_latin_2015,Inferred; NA
-meZ,soror,,,,IE519,baldi_latin_2015,Inferred; NA
-meBS,fīlius frātris,,,,IE519,baldi_latin_2015,Inferred; NA
-myBS,fīlius frātris,,,,IE519,baldi_latin_2015,Inferred; NA
-meBD,fīlia frātris,,,,IE519,baldi_latin_2015,Inferred; frātris fīlia
-myBD,fīlia frātris,,,,IE519,baldi_latin_2015,Inferred; frātris fīlia
-meZD,filia sororis,,,,IE519,baldi_latin_2015,Inferred; NA
-myZD,filia sororis,,,,IE519,baldi_latin_2015,Inferred; NA
-fB,frāter,,,,IE519,baldi_latin_2015,
-fZ,soror,,,,IE519,baldi_latin_2015,
-fF,pater,,,,IE519,baldi_latin_2015,
-fM,māter,,,,IE519,baldi_latin_2015,
-fS,fīlius,,,,IE519,baldi_latin_2015,
-fD,fīlia,,,,IE519,baldi_latin_2015,
-fFF,avus,,,,IE519,baldi_latin_2015,
-fFM,avia,,,,IE519,baldi_latin_2015,
-fMF,avus,,,,IE519,baldi_latin_2015,
-fMM,avia,,,,IE519,baldi_latin_2015,
-fSS,nepōs,,,,IE519,baldi_latin_2015,
-fSD,neptis,,,,IE519,baldi_latin_2015,
-fDS,nepōs,,,,IE519,baldi_latin_2015,
-fDD,neptis,,,,IE519,baldi_latin_2015,
-fBS,fīlius frātris,,,,IE519,baldi_latin_2015,
-fBD,fīlia frātris,,,,IE519,baldi_latin_2015,frātris fīlia
-fZD,filia sororis,,,,IE519,baldi_latin_2015,
-feB,frāter,,,,IE519,baldi_latin_2015,Inferred; NA
-feZ,soror,,,,IE519,baldi_latin_2015,Inferred; NA
-feBS,fīlius frātris,,,,IE519,baldi_latin_2015,Inferred; NA
-fyBS,fīlius frātris,,,,IE519,baldi_latin_2015,Inferred; NA
-feBD,fīlia frātris,,,,IE519,baldi_latin_2015,Inferred; frātris fīlia
-fyBD,fīlia frātris,,,,IE519,baldi_latin_2015,Inferred; frātris fīlia
-feZD,filia sororis,,,,IE519,baldi_latin_2015,Inferred; NA
-fyZD,filia sororis,,,,IE519,baldi_latin_2015,Inferred; NA
-mFB,patrus,,,,IE91(410),bush_latin_1971,patris frāter IE519
-mFZ,amita,,,,IE91(410),bush_latin_1971,patris soror IE519
-mMB,avunculus,,,,IE91(410),bush_latin_1971,mātris frāter IE519
-mMZ,matertera,,,,IE91(410),bush_latin_1971,mātris soror E519
-mZS,filius sororis,,,,IE91(410),bush_latin_1971,
-mFZD,amitina,,,,IE91(410),bush_latin_1971,Very rarely used
-mFZD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-mFBD,soror patruelis,,,,IE91(410),bush_latin_1971,
-mFBD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-mMBD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-mMZD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-mFBS,frater patruelis,,,,IE91(410),bush_latin_1971,
-mFBS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-mFZS,amitinus,,,,IE91(410),bush_latin_1971,Very rarely used
-mFZS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-mMBS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-mMZS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-mFeB,patrus,,,,IE91(410),bush_latin_1971,Inferred; patris frāter IE519
-mFyB,patrus,,,,IE91(410),bush_latin_1971,Inferred; patris frāter IE519
-mFeZ,amita,,,,IE91(410),bush_latin_1971,Inferred; patris soror IE519
-mFyZ,amita,,,,IE91(410),bush_latin_1971,Inferred; patris soror IE519
-mMeZ,matertera,,,,IE91(410),bush_latin_1971,Inferred; mātris soror E519
-mMyZ,matertera,,,,IE91(410),bush_latin_1971,Inferred; mātris soror E519
-mMeB,avunculus,,,,IE91(410),bush_latin_1971,Inferred; mātris frāter IE519
-mMyB,avunculus,,,,IE91(410),bush_latin_1971,Inferred; mātris frāter IE519
-meZS,filius sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-myZS,filius sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFeBS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFeBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFyBS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFyBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFeZS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFeZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFyZS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFyZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFeBD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFeBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFyBD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFyBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFeZD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFeZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFyZD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFyZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMeBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMyBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMeZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMyZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMeBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMyBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMeZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMyZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFBeS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFBeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFByS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFByS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFZeS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFZeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFZyS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFZyS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mFBeD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFBeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFByD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-mFByD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFZeD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFZeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mFZyD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-mFZyD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMBeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMByS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMZeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMZyS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-mMBeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMByD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMZeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mMZyD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFB,patrus,,,,IE91(410),bush_latin_1971,patris frāter IE519
-fFZ,amita,,,,IE91(410),bush_latin_1971,patris soror IE519
-fMB,avunculus,,,,IE91(410),bush_latin_1971,mātris frāter IE519
-fMZ,matertera,,,,IE91(410),bush_latin_1971,mātris soror E519
-fZS,filius sororis,,,,IE91(410),bush_latin_1971,
-fFZD,amitina,,,,IE91(410),bush_latin_1971,Very rarely used
-fFZD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-fFBD,soror patruelis,,,,IE91(410),bush_latin_1971,
-fFBD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-fMBD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-fMZD,consobrina,,,,IE91(410),bush_latin_1971,Either specifically MZD or classificatory term
-fFBS,frater patruelis,,,,IE91(410),bush_latin_1971,
-fFBS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-fFZS,amitinus,,,,IE91(410),bush_latin_1971,Very rarely used
-fFZS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-fMBS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-fMZS,consobrinu,,,,IE91(410),bush_latin_1971,Either specifically MZS or classificatory term
-fFeB,patrus,,,,IE91(410),bush_latin_1971,Inferred; patris frāter IE519
-fFyB,patrus,,,,IE91(410),bush_latin_1971,Inferred; patris frāter IE519
-fFeZ,amita,,,,IE91(410),bush_latin_1971,Inferred; patris soror IE519
-fFyZ,amita,,,,IE91(410),bush_latin_1971,Inferred; patris soror IE519
-fMeZ,matertera,,,,IE91(410),bush_latin_1971,Inferred; mātris soror E519
-fMyZ,matertera,,,,IE91(410),bush_latin_1971,Inferred; mātris soror E519
-fMeB,avunculus,,,,IE91(410),bush_latin_1971,Inferred; mātris frāter IE519
-fMyB,avunculus,,,,IE91(410),bush_latin_1971,Inferred; mātris frāter IE519
-feZS,filius sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fyZS,filius sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFeBS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFeBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFyBS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFyBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFeZS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFeZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFyZS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFyZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFeBD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFeBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFyBD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFyBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFeZD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFeZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFyZD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFyZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMeBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMyBS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMeZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMyZS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMeBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMyBD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMeZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMyZD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFBeS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFBeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFByS,frater patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFByS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFZeS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFZeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFZyS,amitinus,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFZyS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fFBeD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFBeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFByD,soror patruelis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fFByD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFZeD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFZeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fFZyD,amitina,,,,IE91(410),bush_latin_1971,Inferred; Very rarely used
-fFZyD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMBeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMByS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMZeS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMZyS,consobrinu,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZS or classificatory term
-fMBeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMByD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMZeD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-fMZyD,consobrina,,,,IE91(410),bush_latin_1971,Inferred; Either specifically MZD or classificatory term
-mB,frāter,,,,IE91(409),bush_latin_1971,
-mZ,soror,,,,IE91(409),bush_latin_1971,
-mF,pater,,,,IE91(409),bush_latin_1971,
-mM,māter,,,,IE91(409),bush_latin_1971,
-mS,fīlius,,,,IE91(409),bush_latin_1971,
-mD,fīlia,,,,IE91(409),bush_latin_1971,
-mFF,avus,,,,IE91(409),bush_latin_1971,
-mFM,avia,,,,IE91(409),bush_latin_1971,
-mMF,avus,,,,IE91(409),bush_latin_1971,
-mMM,avia,,,,IE91(409),bush_latin_1971,
-mSS,nepōs,,,,IE91(409),bush_latin_1971,
-mSD,neptis,,,,IE91(409),bush_latin_1971,
-mDS,nepōs,,,,IE91(409),bush_latin_1971,
-mDD,neptis,,,,IE91(409),bush_latin_1971,
-mBS,fīlius frātris,,,,IE91(410),bush_latin_1971,
-mBD,fīlia frātris,,,,IE91(410),bush_latin_1971,frātris fīlia
-mZD,filia sororis,,,,IE91(410),bush_latin_1971,
-meB,frāter,,,,IE91(409),bush_latin_1971,Inferred; NA
-meZ,soror,,,,IE91(409),bush_latin_1971,Inferred; NA
-meBS,fīlius frātris,,,,IE91(410),bush_latin_1971,Inferred; NA
-myBS,fīlius frātris,,,,IE91(410),bush_latin_1971,Inferred; NA
-meBD,fīlia frātris,,,,IE91(410),bush_latin_1971,Inferred; frātris fīlia
-myBD,fīlia frātris,,,,IE91(410),bush_latin_1971,Inferred; frātris fīlia
-meZD,filia sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-myZD,filia sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fB,frāter,,,,IE91(409),bush_latin_1971,
-fZ,soror,,,,IE91(409),bush_latin_1971,
-fF,pater,,,,IE91(409),bush_latin_1971,
-fM,māter,,,,IE91(409),bush_latin_1971,
-fS,fīlius,,,,IE91(409),bush_latin_1971,
-fD,fīlia,,,,IE91(409),bush_latin_1971,
-fFF,avus,,,,IE91(409),bush_latin_1971,
-fFM,avia,,,,IE91(409),bush_latin_1971,
-fMF,avus,,,,IE91(409),bush_latin_1971,
-fMM,avia,,,,IE91(409),bush_latin_1971,
-fSS,nepōs,,,,IE91(409),bush_latin_1971,
-fSD,neptis,,,,IE91(409),bush_latin_1971,
-fDS,nepōs,,,,IE91(409),bush_latin_1971,
-fDD,neptis,,,,IE91(409),bush_latin_1971,
-fBS,fīlius frātris,,,,IE91(410),bush_latin_1971,
-fBD,fīlia frātris,,,,IE91(410),bush_latin_1971,frātris fīlia
-fZD,filia sororis,,,,IE91(410),bush_latin_1971,
-feB,frāter,,,,IE91(409),bush_latin_1971,Inferred; NA
-feZ,soror,,,,IE91(409),bush_latin_1971,Inferred; NA
-feBS,fīlius frātris,,,,IE91(410),bush_latin_1971,Inferred; NA
-fyBS,fīlius frātris,,,,IE91(410),bush_latin_1971,Inferred; NA
-feBD,fīlia frātris,,,,IE91(410),bush_latin_1971,Inferred; frātris fīlia
-fyBD,fīlia frātris,,,,IE91(410),bush_latin_1971,Inferred; frātris fīlia
-feZD,filia sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
-fyZD,filia sororis,,,,IE91(410),bush_latin_1971,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"myB","frāter minor",,,,"IE519","baldi_latin_2015",""
+"myZ","soror minor",,,,"IE519","baldi_latin_2015",""
+"mC","nātī",,,,"IE519","baldi_latin_2015",""
+"mC","līberī",,,,"IE519","baldi_latin_2015",""
+"mS","nātus",,,,"IE519","baldi_latin_2015",""
+"mD","nāta",,,,"IE519","baldi_latin_2015",""
+"mH","vir",,,,"IE519","baldi_latin_2015",""
+"mH","marītus",,,,"IE519","baldi_latin_2015",""
+"mH","coniu(n)x",,,,"IE519","baldi_latin_2015",""
+"mW","uxor",,,,"IE519","baldi_latin_2015",""
+"mW","coniu(n)x",,,,"IE519","baldi_latin_2015",""
+"mW","marīta",,,,"IE519","baldi_latin_2015",""
+"mHF","socer",,,,"IE519","baldi_latin_2015",""
+"mHM","socrus",,,,"IE519","baldi_latin_2015",""
+"mWF","socer",,,,"IE519","baldi_latin_2015",""
+"mWM","socrus",,,,"IE519","baldi_latin_2015",""
+"mSW","nurus",,,,"IE519","baldi_latin_2015",""
+"mSW","nurus",,,,"IE519","baldi_latin_2015",""
+"mDH","gener",,,,"IE519","baldi_latin_2015",""
+"mDH","gener",,,,"IE519","baldi_latin_2015",""
+"fyB","frāter minor",,,,"IE519","baldi_latin_2015",""
+"fyZ","soror minor",,,,"IE519","baldi_latin_2015",""
+"fC","nātī",,,,"IE519","baldi_latin_2015",""
+"fC","līberī",,,,"IE519","baldi_latin_2015",""
+"fS","nātus",,,,"IE519","baldi_latin_2015",""
+"fD","nāta",,,,"IE519","baldi_latin_2015",""
+"fH","vir",,,,"IE519","baldi_latin_2015",""
+"fH","marītus",,,,"IE519","baldi_latin_2015",""
+"fH","coniu(n)x",,,,"IE519","baldi_latin_2015",""
+"fW","uxor",,,,"IE519","baldi_latin_2015",""
+"fW","coniu(n)x",,,,"IE519","baldi_latin_2015",""
+"fW","marīta",,,,"IE519","baldi_latin_2015",""
+"fHF","socer",,,,"IE519","baldi_latin_2015",""
+"fHM","socrus",,,,"IE519","baldi_latin_2015",""
+"fWF","socer",,,,"IE519","baldi_latin_2015",""
+"fWM","socrus",,,,"IE519","baldi_latin_2015",""
+"fSW","nurus",,,,"IE519","baldi_latin_2015",""
+"fSW","nurus",,,,"IE519","baldi_latin_2015",""
+"fDH","gener",,,,"IE519","baldi_latin_2015",""
+"fDH","gener",,,,"IE519","baldi_latin_2015",""
+"mB","frāter",,,,"IE519","baldi_latin_2015",""
+"mZ","soror",,,,"IE519","baldi_latin_2015",""
+"mF","pater",,,,"IE519","baldi_latin_2015",""
+"mM","māter",,,,"IE519","baldi_latin_2015",""
+"mS","fīlius",,,,"IE519","baldi_latin_2015",""
+"mD","fīlia",,,,"IE519","baldi_latin_2015",""
+"mFF","avus",,,,"IE519","baldi_latin_2015",""
+"mFM","avia",,,,"IE519","baldi_latin_2015",""
+"mMF","avus",,,,"IE519","baldi_latin_2015",""
+"mMM","avia",,,,"IE519","baldi_latin_2015",""
+"mSS","nepōs",,,,"IE519","baldi_latin_2015",""
+"mSD","neptis",,,,"IE519","baldi_latin_2015",""
+"mDS","nepōs",,,,"IE519","baldi_latin_2015",""
+"mDD","neptis",,,,"IE519","baldi_latin_2015",""
+"mBS","fīlius frātris",,,,"IE519","baldi_latin_2015",""
+"mBD","fīlia frātris",,,,"IE519","baldi_latin_2015","frātris fīlia"
+"mZD","filia sororis",,,,"IE519","baldi_latin_2015",""
+"meB","frāter",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"meZ","soror",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"meBS","fīlius frātris",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"myBS","fīlius frātris",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"meBD","fīlia frātris",,,,"IE519","baldi_latin_2015","Inferred; frātris fīlia"
+"myBD","fīlia frātris",,,,"IE519","baldi_latin_2015","Inferred; frātris fīlia"
+"meZD","filia sororis",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"myZD","filia sororis",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"fB","frāter",,,,"IE519","baldi_latin_2015",""
+"fZ","soror",,,,"IE519","baldi_latin_2015",""
+"fF","pater",,,,"IE519","baldi_latin_2015",""
+"fM","māter",,,,"IE519","baldi_latin_2015",""
+"fS","fīlius",,,,"IE519","baldi_latin_2015",""
+"fD","fīlia",,,,"IE519","baldi_latin_2015",""
+"fFF","avus",,,,"IE519","baldi_latin_2015",""
+"fFM","avia",,,,"IE519","baldi_latin_2015",""
+"fMF","avus",,,,"IE519","baldi_latin_2015",""
+"fMM","avia",,,,"IE519","baldi_latin_2015",""
+"fSS","nepōs",,,,"IE519","baldi_latin_2015",""
+"fSD","neptis",,,,"IE519","baldi_latin_2015",""
+"fDS","nepōs",,,,"IE519","baldi_latin_2015",""
+"fDD","neptis",,,,"IE519","baldi_latin_2015",""
+"fBS","fīlius frātris",,,,"IE519","baldi_latin_2015",""
+"fBD","fīlia frātris",,,,"IE519","baldi_latin_2015","frātris fīlia"
+"fZD","filia sororis",,,,"IE519","baldi_latin_2015",""
+"feB","frāter",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"feZ","soror",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"feBS","fīlius frātris",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"fyBS","fīlius frātris",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"feBD","fīlia frātris",,,,"IE519","baldi_latin_2015","Inferred; frātris fīlia"
+"fyBD","fīlia frātris",,,,"IE519","baldi_latin_2015","Inferred; frātris fīlia"
+"feZD","filia sororis",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"fyZD","filia sororis",,,,"IE519","baldi_latin_2015","Inferred; NA"
+"mFB","patrus",,,,"IE91(410)","bush_latin_1971","patris frāter IE519"
+"mFZ","amita",,,,"IE91(410)","bush_latin_1971","patris soror IE519"
+"mMB","avunculus",,,,"IE91(410)","bush_latin_1971","mātris frāter IE519"
+"mMZ","matertera",,,,"IE91(410)","bush_latin_1971","mātris soror E519"
+"mZS","filius sororis",,,,"IE91(410)","bush_latin_1971",""
+"mFZD","amitina",,,,"IE91(410)","bush_latin_1971","Very rarely used"
+"mFZD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"mFBD","soror patruelis",,,,"IE91(410)","bush_latin_1971",""
+"mFBD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"mMBD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"mMZD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"mFBS","frater patruelis",,,,"IE91(410)","bush_latin_1971",""
+"mFBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"mFZS","amitinus",,,,"IE91(410)","bush_latin_1971","Very rarely used"
+"mFZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"mMBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"mMZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"mFeB","patrus",,,,"IE91(410)","bush_latin_1971","Inferred; patris frāter IE519"
+"mFyB","patrus",,,,"IE91(410)","bush_latin_1971","Inferred; patris frāter IE519"
+"mFeZ","amita",,,,"IE91(410)","bush_latin_1971","Inferred; patris soror IE519"
+"mFyZ","amita",,,,"IE91(410)","bush_latin_1971","Inferred; patris soror IE519"
+"mMeZ","matertera",,,,"IE91(410)","bush_latin_1971","Inferred; mātris soror E519"
+"mMyZ","matertera",,,,"IE91(410)","bush_latin_1971","Inferred; mātris soror E519"
+"mMeB","avunculus",,,,"IE91(410)","bush_latin_1971","Inferred; mātris frāter IE519"
+"mMyB","avunculus",,,,"IE91(410)","bush_latin_1971","Inferred; mātris frāter IE519"
+"meZS","filius sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"myZS","filius sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFeBS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFeBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFyBS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFyBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFeZS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFeZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFyZS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFyZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFeBD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFeBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFyBD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFyBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFeZD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFeZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFyZD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFyZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMeBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMyBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMeZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMyZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMeBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMyBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMeZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMyZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFBeS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFBeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFByS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFByS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFZeS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFZeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFZyS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFZyS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mFBeD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFBeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFByD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"mFByD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFZeD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFZeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mFZyD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"mFZyD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMBeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMByS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMZeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMZyS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"mMBeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMByD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMZeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mMZyD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFB","patrus",,,,"IE91(410)","bush_latin_1971","patris frāter IE519"
+"fFZ","amita",,,,"IE91(410)","bush_latin_1971","patris soror IE519"
+"fMB","avunculus",,,,"IE91(410)","bush_latin_1971","mātris frāter IE519"
+"fMZ","matertera",,,,"IE91(410)","bush_latin_1971","mātris soror E519"
+"fZS","filius sororis",,,,"IE91(410)","bush_latin_1971",""
+"fFZD","amitina",,,,"IE91(410)","bush_latin_1971","Very rarely used"
+"fFZD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"fFBD","soror patruelis",,,,"IE91(410)","bush_latin_1971",""
+"fFBD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"fMBD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"fMZD","consobrina",,,,"IE91(410)","bush_latin_1971","Either specifically MZD or classificatory term"
+"fFBS","frater patruelis",,,,"IE91(410)","bush_latin_1971",""
+"fFBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"fFZS","amitinus",,,,"IE91(410)","bush_latin_1971","Very rarely used"
+"fFZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"fMBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"fMZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Either specifically MZS or classificatory term"
+"fFeB","patrus",,,,"IE91(410)","bush_latin_1971","Inferred; patris frāter IE519"
+"fFyB","patrus",,,,"IE91(410)","bush_latin_1971","Inferred; patris frāter IE519"
+"fFeZ","amita",,,,"IE91(410)","bush_latin_1971","Inferred; patris soror IE519"
+"fFyZ","amita",,,,"IE91(410)","bush_latin_1971","Inferred; patris soror IE519"
+"fMeZ","matertera",,,,"IE91(410)","bush_latin_1971","Inferred; mātris soror E519"
+"fMyZ","matertera",,,,"IE91(410)","bush_latin_1971","Inferred; mātris soror E519"
+"fMeB","avunculus",,,,"IE91(410)","bush_latin_1971","Inferred; mātris frāter IE519"
+"fMyB","avunculus",,,,"IE91(410)","bush_latin_1971","Inferred; mātris frāter IE519"
+"feZS","filius sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fyZS","filius sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFeBS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFeBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFyBS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFyBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFeZS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFeZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFyZS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFyZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFeBD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFeBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFyBD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFyBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFeZD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFeZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFyZD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFyZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMeBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMyBS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMeZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMyZS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMeBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMyBD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMeZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMyZD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFBeS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFBeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFByS","frater patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFByS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFZeS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFZeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFZyS","amitinus",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFZyS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fFBeD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFBeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFByD","soror patruelis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fFByD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFZeD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFZeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fFZyD","amitina",,,,"IE91(410)","bush_latin_1971","Inferred; Very rarely used"
+"fFZyD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMBeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMByS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMZeS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMZyS","consobrinu",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZS or classificatory term"
+"fMBeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMByD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMZeD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"fMZyD","consobrina",,,,"IE91(410)","bush_latin_1971","Inferred; Either specifically MZD or classificatory term"
+"mB","frāter",,,,"IE91(409)","bush_latin_1971",""
+"mZ","soror",,,,"IE91(409)","bush_latin_1971",""
+"mF","pater",,,,"IE91(409)","bush_latin_1971",""
+"mM","māter",,,,"IE91(409)","bush_latin_1971",""
+"mS","fīlius",,,,"IE91(409)","bush_latin_1971",""
+"mD","fīlia",,,,"IE91(409)","bush_latin_1971",""
+"mFF","avus",,,,"IE91(409)","bush_latin_1971",""
+"mFM","avia",,,,"IE91(409)","bush_latin_1971",""
+"mMF","avus",,,,"IE91(409)","bush_latin_1971",""
+"mMM","avia",,,,"IE91(409)","bush_latin_1971",""
+"mSS","nepōs",,,,"IE91(409)","bush_latin_1971",""
+"mSD","neptis",,,,"IE91(409)","bush_latin_1971",""
+"mDS","nepōs",,,,"IE91(409)","bush_latin_1971",""
+"mDD","neptis",,,,"IE91(409)","bush_latin_1971",""
+"mBS","fīlius frātris",,,,"IE91(410)","bush_latin_1971",""
+"mBD","fīlia frātris",,,,"IE91(410)","bush_latin_1971","frātris fīlia"
+"mZD","filia sororis",,,,"IE91(410)","bush_latin_1971",""
+"meB","frāter",,,,"IE91(409)","bush_latin_1971","Inferred; NA"
+"meZ","soror",,,,"IE91(409)","bush_latin_1971","Inferred; NA"
+"meBS","fīlius frātris",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"myBS","fīlius frātris",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"meBD","fīlia frātris",,,,"IE91(410)","bush_latin_1971","Inferred; frātris fīlia"
+"myBD","fīlia frātris",,,,"IE91(410)","bush_latin_1971","Inferred; frātris fīlia"
+"meZD","filia sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"myZD","filia sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fB","frāter",,,,"IE91(409)","bush_latin_1971",""
+"fZ","soror",,,,"IE91(409)","bush_latin_1971",""
+"fF","pater",,,,"IE91(409)","bush_latin_1971",""
+"fM","māter",,,,"IE91(409)","bush_latin_1971",""
+"fS","fīlius",,,,"IE91(409)","bush_latin_1971",""
+"fD","fīlia",,,,"IE91(409)","bush_latin_1971",""
+"fFF","avus",,,,"IE91(409)","bush_latin_1971",""
+"fFM","avia",,,,"IE91(409)","bush_latin_1971",""
+"fMF","avus",,,,"IE91(409)","bush_latin_1971",""
+"fMM","avia",,,,"IE91(409)","bush_latin_1971",""
+"fSS","nepōs",,,,"IE91(409)","bush_latin_1971",""
+"fSD","neptis",,,,"IE91(409)","bush_latin_1971",""
+"fDS","nepōs",,,,"IE91(409)","bush_latin_1971",""
+"fDD","neptis",,,,"IE91(409)","bush_latin_1971",""
+"fBS","fīlius frātris",,,,"IE91(410)","bush_latin_1971",""
+"fBD","fīlia frātris",,,,"IE91(410)","bush_latin_1971","frātris fīlia"
+"fZD","filia sororis",,,,"IE91(410)","bush_latin_1971",""
+"feB","frāter",,,,"IE91(409)","bush_latin_1971","Inferred; NA"
+"feZ","soror",,,,"IE91(409)","bush_latin_1971","Inferred; NA"
+"feBS","fīlius frātris",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fyBS","fīlius frātris",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"feBD","fīlia frātris",,,,"IE91(410)","bush_latin_1971","Inferred; frātris fīlia"
+"fyBD","fīlia frātris",,,,"IE91(410)","bush_latin_1971","Inferred; frātris fīlia"
+"feZD","filia sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"
+"fyZD","filia sororis",,,,"IE91(410)","bush_latin_1971","Inferred; NA"

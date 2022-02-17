@@ -1,91 +1,91 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tivalök,,male ego's older brother,,,,
-myB,tivalök nöngk,,male ego's younger brother,,,,
-feB,manök,,female ego's older brother,,,,
-fyB,manök,,female ego's younger brother,,,,
-meZ,evünök,,male ego's older sister,,,,
-myZ,evünök,,male ego's younger sister,,,,
-feZ,tivalök,,female ego's older sister,,,,
-fyZ,tivalök nöngk,,female ego's younger sister,,,,
-mF,tatei,,male ego's father,,,,
-mM,wunei,,male ego's mother,,,,
-fF,tatei,,female ego's father,,,,
-fM,wunei,,female ego's mother,,,,
-mS,natök,,male ego's son,,,,
-fS,natök,,female ego's son,,,,
-mD,natök,,male ego's daughter,,,,
-fD,natök,,female ego's daughter,,,,
-mSS,mokeibuk,,male ego's son's son,,,,
-mSD,mokeibuk,,male ego's son's daughter,,,,
-mDS,mokeibuk,,male ego's daughter's son,,,,
-mDD,mokeibuk,,male ego's daughter's daughter,,,,
-fSS,mokeibuk,,female ego's son's son,,,,
-fSD,mokeibuk,,female ego's son's daughter,,,,
-fDS,mokeibuk,,female ego's daughter's son,,,,
-fDD,mokeibuk,,female ego's daugher's daughter,,,,
-mFF,bumbu,,male ego's father‘s father,,,,
-mFM,tambök,,male ego's father's mother,,,,
-mMF,bumbu,,male ego's mother's father,,,,
-mMM,tambök,,male ego's mother's mother,,,,
-fFF,bumbu,,female ego's father's father,,,,
-fFM,tambök,,female ego's father's mother,,,,
-fMF,bumbu,,female ego's mother's father,,,,
-fMM,tambök,,female ego's mother's mother,,,,
-meBS,natök,,male ego's older brother's son,,,,
-myBS,natök,,male ego's younger brother's son,,,,
-meZS,mörire,,male ego's older sister's son,,,,
-myZS,mörire,,male ego's younger sister's son,,,,
-meBD,natök,,male ego's older brother's daughter,,,,
-myBD,natök,,male ego's younger brother's daughter,,,,
-meZD,mörire,,male ego's older sister's daughter,,,,
-myZD,mörire,,male ego's younger sister's daughter,,,,
-feBS,natök usöwei,,female ego's older brother's son,,,,
-fyBS,natök usöwei,,female ego's younger brother's son,,,,
-feZS,natök,,female ego's older sister's son,,,,
-fyZS,natök,,female ego's younger sister's son,,,,
-feBD,natök usöwei,,female ego's older brother's daughter,,,,
-fyBD,natök usöwei,,female ego's younger brother's daughter,,,,
-feZD,natök,,female ego's older sister's daughter,,,,
-fyZD,natök,,female ego's younger sister's daughter,,,,
-mFeB,tatei,,male ego's father's older brother,,,,
-mFyB,tatei,,male ego's father's younger brother,,,,
-mFeZ,vavwe,,male ego's father's older sister,,,,
-mFyZ,vavwe,,male ego's father's younger sister,,,,
-mMeB,bünei,,male ego's mother's older brother,,,,
-mMyB,bünei,,male ego's mother's younger brother,,,,
-mMeZ,wunei,,male ego's mother's older sister,,,,
-mMyZ,wunei,,male ego's mother's younger sister,,,,
-fFeB,tatei,,female ego's father's older brother,,,,
-fFyB,tatei,,female ego's father's younger brother,,,,
-fFeZ,vavwe,,female ego's father's older sister,,,,
-fFyZ,vavwe,,female ego's father's younger sister,,,,
-fMeB,bünei,,female ego's mother's older brother,,,,
-fMyB,bünei,,female ego's mother's younger brother,,,,
-fMeZ,wunei,,female ego's mother's older sister,,,,
-fMyZ,wunei,,female ego's mother's younger sister,,,,
-mDH,lalei,,male ego's daughter's husband,,,,
-fDH,lalei,,female ego's daughter's husband,,,,
-mSW,viliök,,male ego's son's wife,,,,
-fSW,viliök,,female ego's son's wife,,,,
-mWF,inök,,male ego's wife's father,,,,
-mWM,erinök,,male ego's wife's mother,,,,
-mWB,nru ilel wök,,male ego's wife's brother,,,,
-fHM,erinök,,female ego's husband's mother,,,,
-fHB,toghök,,female ego's husband's brother,,,,toghök husband's older brother
-fHZ,vavwe,,female ego's husband's sister,,,,
-mBW,viliök,,male ego's brother's wife,,,,
-fBW,viliök,,female ego's brother's wife,,,,
-mZH,halök,,male ego's sister's husband,,,,
-fZH,halök,,female ego's sister's husband,,,,
-mFeBS,tivalök,,male ego's father‘s older brother‘s son,,,,
-mFyBS,tivalök nöngk,,male ego‘s father‘s younger brother‘s son,,,,
-mFeZS,tet lalou,,male ego's father‘s older sister‘s son,,,,
-mFyZS,tet lalou,,male ego‘s father‘s younger sister‘s son,,,,
-mFeZD,"vavwe lil, vavwe mba",,male ego's father‘s older sister‘s daughter,,,,
-mFyZD,"vavwe lil, vavwe mba",,male ego‘s father‘s younger sister‘s daughter,,,,
-fFeZS,tet lalou,,female ego's father‘s older sister‘s son,,,,
-fFyZS,tet lalou,,female ego‘s father‘s younger sister‘s son,,,,
-fFeZD,"vavwe lil, vavwe mba",,female ego's father‘s older sister‘s daughter,,,,
-fFyZD,"vavwe lil, vavwe mba",,female ego‘s father‘s younger sister‘s daughter,,,,
-fMeBS,natök usöwei,,female ego's mother‘s older brother‘s son,,,,
-fMyBS,natök usöwei,,female ego‘s mother‘s younger brother‘s son,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tivalök",,"male ego's older brother",,,,""
+"myB","tivalök nöngk",,"male ego's younger brother",,,,""
+"feB","manök",,"female ego's older brother",,,,""
+"fyB","manök",,"female ego's younger brother",,,,""
+"meZ","evünök",,"male ego's older sister",,,,""
+"myZ","evünök",,"male ego's younger sister",,,,""
+"feZ","tivalök",,"female ego's older sister",,,,""
+"fyZ","tivalök nöngk",,"female ego's younger sister",,,,""
+"mF","tatei",,"male ego's father",,,,""
+"mM","wunei",,"male ego's mother",,,,""
+"fF","tatei",,"female ego's father",,,,""
+"fM","wunei",,"female ego's mother",,,,""
+"mS","natök",,"male ego's son",,,,""
+"fS","natök",,"female ego's son",,,,""
+"mD","natök",,"male ego's daughter",,,,""
+"fD","natök",,"female ego's daughter",,,,""
+"mSS","mokeibuk",,"male ego's son's son",,,,""
+"mSD","mokeibuk",,"male ego's son's daughter",,,,""
+"mDS","mokeibuk",,"male ego's daughter's son",,,,""
+"mDD","mokeibuk",,"male ego's daughter's daughter",,,,""
+"fSS","mokeibuk",,"female ego's son's son",,,,""
+"fSD","mokeibuk",,"female ego's son's daughter",,,,""
+"fDS","mokeibuk",,"female ego's daughter's son",,,,""
+"fDD","mokeibuk",,"female ego's daugher's daughter",,,,""
+"mFF","bumbu",,"male ego's father‘s father",,,,""
+"mFM","tambök",,"male ego's father's mother",,,,""
+"mMF","bumbu",,"male ego's mother's father",,,,""
+"mMM","tambök",,"male ego's mother's mother",,,,""
+"fFF","bumbu",,"female ego's father's father",,,,""
+"fFM","tambök",,"female ego's father's mother",,,,""
+"fMF","bumbu",,"female ego's mother's father",,,,""
+"fMM","tambök",,"female ego's mother's mother",,,,""
+"meBS","natök",,"male ego's older brother's son",,,,""
+"myBS","natök",,"male ego's younger brother's son",,,,""
+"meZS","mörire",,"male ego's older sister's son",,,,""
+"myZS","mörire",,"male ego's younger sister's son",,,,""
+"meBD","natök",,"male ego's older brother's daughter",,,,""
+"myBD","natök",,"male ego's younger brother's daughter",,,,""
+"meZD","mörire",,"male ego's older sister's daughter",,,,""
+"myZD","mörire",,"male ego's younger sister's daughter",,,,""
+"feBS","natök usöwei",,"female ego's older brother's son",,,,""
+"fyBS","natök usöwei",,"female ego's younger brother's son",,,,""
+"feZS","natök",,"female ego's older sister's son",,,,""
+"fyZS","natök",,"female ego's younger sister's son",,,,""
+"feBD","natök usöwei",,"female ego's older brother's daughter",,,,""
+"fyBD","natök usöwei",,"female ego's younger brother's daughter",,,,""
+"feZD","natök",,"female ego's older sister's daughter",,,,""
+"fyZD","natök",,"female ego's younger sister's daughter",,,,""
+"mFeB","tatei",,"male ego's father's older brother",,,,""
+"mFyB","tatei",,"male ego's father's younger brother",,,,""
+"mFeZ","vavwe",,"male ego's father's older sister",,,,""
+"mFyZ","vavwe",,"male ego's father's younger sister",,,,""
+"mMeB","bünei",,"male ego's mother's older brother",,,,""
+"mMyB","bünei",,"male ego's mother's younger brother",,,,""
+"mMeZ","wunei",,"male ego's mother's older sister",,,,""
+"mMyZ","wunei",,"male ego's mother's younger sister",,,,""
+"fFeB","tatei",,"female ego's father's older brother",,,,""
+"fFyB","tatei",,"female ego's father's younger brother",,,,""
+"fFeZ","vavwe",,"female ego's father's older sister",,,,""
+"fFyZ","vavwe",,"female ego's father's younger sister",,,,""
+"fMeB","bünei",,"female ego's mother's older brother",,,,""
+"fMyB","bünei",,"female ego's mother's younger brother",,,,""
+"fMeZ","wunei",,"female ego's mother's older sister",,,,""
+"fMyZ","wunei",,"female ego's mother's younger sister",,,,""
+"mDH","lalei",,"male ego's daughter's husband",,,,""
+"fDH","lalei",,"female ego's daughter's husband",,,,""
+"mSW","viliök",,"male ego's son's wife",,,,""
+"fSW","viliök",,"female ego's son's wife",,,,""
+"mWF","inök",,"male ego's wife's father",,,,""
+"mWM","erinök",,"male ego's wife's mother",,,,""
+"mWB","nru ilel wök",,"male ego's wife's brother",,,,""
+"fHM","erinök",,"female ego's husband's mother",,,,""
+"fHB","toghök",,"female ego's husband's brother",,,,"toghök husband's older brother"
+"fHZ","vavwe",,"female ego's husband's sister",,,,""
+"mBW","viliök",,"male ego's brother's wife",,,,""
+"fBW","viliök",,"female ego's brother's wife",,,,""
+"mZH","halök",,"male ego's sister's husband",,,,""
+"fZH","halök",,"female ego's sister's husband",,,,""
+"mFeBS","tivalök",,"male ego's father‘s older brother‘s son",,,,""
+"mFyBS","tivalök nöngk",,"male ego‘s father‘s younger brother‘s son",,,,""
+"mFeZS","tet lalou",,"male ego's father‘s older sister‘s son",,,,""
+"mFyZS","tet lalou",,"male ego‘s father‘s younger sister‘s son",,,,""
+"mFeZD","vavwe lil, vavwe mba",,"male ego's father‘s older sister‘s daughter",,,,""
+"mFyZD","vavwe lil, vavwe mba",,"male ego‘s father‘s younger sister‘s daughter",,,,""
+"fFeZS","tet lalou",,"female ego's father‘s older sister‘s son",,,,""
+"fFyZS","tet lalou",,"female ego‘s father‘s younger sister‘s son",,,,""
+"fFeZD","vavwe lil, vavwe mba",,"female ego's father‘s older sister‘s daughter",,,,""
+"fFyZD","vavwe lil, vavwe mba",,"female ego‘s father‘s younger sister‘s daughter",,,,""
+"fMeBS","natök usöwei",,"female ego's mother‘s older brother‘s son",,,,""
+"fMyBS","natök usöwei",,"female ego‘s mother‘s younger brother‘s son",,,,""

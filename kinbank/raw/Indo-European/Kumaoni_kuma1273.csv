@@ -1,576 +1,576 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,,,male speaker's sibling,,,,
-mB,,,male speaker's brother,,,,
-mZ,,,male speaker's sister,,,,
-meB,dad,,male speaker's elder brother,,,Godelier_Trautmann_TjonSieFat_1998,
-myB,bhulā,,male speaker's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-meZ,didi,,male speaker's elder sister,,,Godelier_Trautmann_TjonSieFat_1998,
-myZ,bhulī,,male speaker's younger sister,,,,
-mP,,,male speaker's parent,,,,
-mF,baujyu,,male speaker's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mF,bābu ,,male speaker's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mM,ijā,,male speaker's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mM,ij,,male speaker's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mC,,,male speaker's child,,,,
-mS,cyal,,male speaker's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mD,celi,,male speaker's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mA,,,male speaker's ancestor,,,,
-mPP,,,male speaker's grandparent,,,,
-mFF,bubu,,male speaker's father's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mFM,āmā,,male speaker's father's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mMF,bubu,,male speaker's mother's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mMM,āmā,,male speaker's mother's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mCC,,,male speaker's grandchild,,,,
-mSS,nāti,,male speaker's son's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mSD,nātini,,male speaker's son's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mDS,nāti,,male speaker's daughter's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mDD,nātini,,male speaker's daughter's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFB,,,male speaker's father's brother,,,,
-mFZ,didi,,male speaker's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mFZ,pusyāni,,male speaker's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mMB,mam,,male speaker's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mMZ,,,male speaker's mother's sister,,,,
-mFeB,thulbaujyu,,male speaker's father's older brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mFyB,kaka,,male speaker's father's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mFyB,kāśabaujyu,,male speaker's father's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mFeZ,,,male speaker's father's older sister,,,,
-mFyZ,,,male speaker's father's younger sister,,,,
-mMeZ,thulljā,,male speaker's mother's older sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mMyZ,kaij,,male speaker's mother's younger sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mMeB,,,male speaker's mother's older brother,,,,
-mMyB,,,male speaker's mother's younger brother,,,,
-mBS,cyal,,male speaker's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mBD,celi,,male speaker's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mZS,bhānga,,male speaker's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mZD,bhāngi,,male speaker's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-meBS,,,male speaker's older brother's son,,,,
-myBS,,,male speaker's younger brother's son,,,,
-meBD,,,male speaker's older brother's daughter,,,,
-myBD,,,male speaker's younger brother's daughter,,,,
-meZS,,,male speaker's older sister's son,,,,
-myZS,,,male speaker's younger sister's son,,,,
-meZD,,,male speaker's older sister's daughter,,,,
-myZD,,,male speaker's younger sister's daughter,,,,
-mFZD,didi,,male speaker's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mFZD,bhulī,,male speaker's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mFBD,didi,,male speaker's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mFBD,bhulī,,male speaker's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mMBD,didi,,male speaker's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mMBD,bhulī,,male speaker's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mMZD,didi,,male speaker's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mMZD,bhulī,,male speaker's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-mFBS,dad,,male speaker's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mFBS,bhulā,,male speaker's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mFZS,dad,,male speaker's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mFZS,bhulā,,male speaker's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mMBS,dad,,male speaker's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mMBS,bhulā,,male speaker's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mMZS,dad,,male speaker's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mMZS,bhulā,,male speaker's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-mFeBS,,,male speaker's father's older brother's son,,,,
-mFyBS,,,male speaker's father's younger brother's son,,,,
-mFeZS,,,male speaker's father's older sister's son,,,,
-mFyZS,,,male speaker's father's younger sister's son,,,,
-mFeBD,,,male speaker's father's older brother's daughter,,,,
-mFyBD,,,male speaker's father's younger brother's daughter,,,,
-mFeZD,,,male speaker's father's older sister's daughter,,,,
-mFyZD,,,male speaker's father's younger sister's daughter,,,,
-mMeBS,,,male speaker's mother's older brother's son,,,,
-mMyBS,,,male speaker's mother's younger brother's son,,,,
-mMeZS,,,male speaker's mother's older sister's son,,,,
-mMyZS,,,male speaker's mother's younger sister's son,,,,
-mMeBD,,,male speaker's mother's older brother's daughter,,,,
-mMyBD,,,male speaker's mother's younger brother's daughter,,,,
-mMeZD,,,male speaker's mother's older sister's daughter,,,,
-mMyZD,,,male speaker's mother's younger sister's daughter,,,,
-mFBeS,,,male speaker's father's brother's older son,,,,
-mFByS,,,male speaker's father's brother's younger son,,,,
-mFZeS,,,male speaker's father's sister's older son,,,,
-mFZyS,,,male speaker's father's sister's younger son,,,,
-mFBeD,,,male speaker's father's brother's older daughter,,,,
-mFByD,,,male speaker's father's brother's younger daughter,,,,
-mFZeD,,,male speaker's father's sister's older daughter,,,,
-mFZyD,,,male speaker's father's sister's younger daughter,,,,
-mMBeS,,,male speaker's mother's brother's older son,,,,
-mMByS,,,male speaker's mother's brother's younger son,,,,
-mMZeS,,,male speaker's mother's sister's older son,,,,
-mMZyS,,,male speaker's mother's sister's younger son,,,,
-mMBeD,,,male speaker's mother's brother's older daughter,,,,
-mMByD,,,male speaker's mother's brother's younger daughter,,,,
-mMZeD,,,male speaker's mother's sister's older daughter,,,,
-mMZyD,,,male speaker's mother's sister's younger daughter,,,,
-mE,,,male speaker's spouse,,,,
-mH,,,male speaker's husband,,,,
-mW,dulheni,,male speaker's wife,,,bawa_role_1967,
-mW,buari,,male speaker's wife,,,bawa_role_1967,
-mHF,,,male speaker's husband's father,,,,
-mHM,,,male speaker's husband's mother,,,,
-mWF,caur,,male speaker's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mWM,saśū,,male speaker's wife's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mBW,,,male speaker's brother's wife,,,,
-mZH,,,male speaker's sister's husband,,,,
-mWB,,,male speaker's wife's brother,,,,
-mWZ,,,male speaker's wife's sister,,,,
-mHB,,,male speaker's husband's brother,,,,
-mHZ,,,male speaker's husband's sister,,,,
-mco-W,,,male speaker's co-wife,,,,
-mco-H,,,male speaker's co-husband,,,,
-mFW(notM),,,male speaker's father's wife (not mother),,,,
-mMH(notF),,,male speaker's mother's husband (not father),,,,
-mSW,bvāri,,male speaker's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mSWM,samdyani,,male speaker's son's wife's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mSWF,samdi,,male speaker's son's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mDH,javaī,,male speaker's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mDHM,samdyani,,male speaker's daughter's husband's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mDHF,samdi,,male speaker's daughter's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mFZH,bhin,,male speaker's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFBW,,,male speaker's father's brother's wife,,,,
-mMZH,kāśabaujyu,,male speaker's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMBW,māmi,,male speaker's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fG,,,female speaker's sibling,,,,
-fB,,,female speaker's brother,,,,
-fZ,,,female speaker's sister,,,,
-feB,dad,,female speaker's elder brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fyB,bhulā,,female speaker's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-feZ,didi,,female speaker's elder sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fyZ,bhulī,,female speaker's younger sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fP,,,female speaker's parent,,,,
-fF,baujyu,,female speaker's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fF,bābu ,,female speaker's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fM,ijā,,female speaker's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fM,ij,,female speaker's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fC,,,female speaker's child,,,,
-fS,cyal,,female speaker's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fD,celi,,female speaker's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fA,,,female speaker's ancestor,,,,
-fPP,,,female speaker's grandparent,,,Godelier_Trautmann_TjonSieFat_1998,
-fFF,bubu,,female speaker's father's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fFM,āmā,,female speaker's father's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fMF,bubu,,female speaker's mother's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fMM,āmā,,female speaker's mother's mother,,,,
-fCC,,,female speaker's grandchild,,,,
-fSS,nāti,,female speaker's son's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fSD,nātini,,female speaker's son's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fDS,nāti,,female speaker's daughter's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fDD,nātini,,female speaker's daughter's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFB,,,female speaker's father's brother,,,,
-fFZ,didi,,female speaker's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fFZ,pusyāni,,female speaker's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fMB,mam,,female speaker's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fMZ,,,female speaker's mother's sister,,,,
-fFeB,thulbaujyu,,female speaker's father's older brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fFyB,kaka,,female speaker's father's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fFyB,kāśabaujyu,,female speaker's father's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fFeZ,,,female speaker's father's older sister,,,,
-fFyZ,,,female speaker's father's younger sister,,,,
-fMeZ,thulljā,,female speaker's mother's older sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fMyZ,kaij,,female speaker's mother's younger sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fMeB,,,female speaker's mother's older brother,,,,
-fMyB,,,female speaker's mother's younger brother,,,,
-fBS,bhadyā,,female speaker's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fBD,bhulī,,female speaker's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"note: for female speakers, BD is classed along with yZ"
-fBD,bhadye,,female speaker's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fZS,cyal,,female speaker's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fZD,celi,,female speaker's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-feBS,,,female speaker's older brother's son,,,,
-fyBS,,,female speaker's younger brother's son,,,,
-feBD,,,female speaker's older brother's daughter,,,,
-fyBD,,,female speaker's younger brother's daughter,,,,
-feZS,,,female speaker's older sister's son,,,,
-fyZS,,,female speaker's younger sister's son,,,,
-feZD,,,female speaker's older sister's daughter,,,,
-fyZD,,,female speaker's younger sister's daughter,,,,
-fFZD,didi,,female speaker's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fFZD,bhulī,,female speaker's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fFBD,didi,,female speaker's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fFBD,bhulī,,female speaker's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fMBD,didi,,female speaker's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fMBD,bhulī,,female speaker's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fMZD,didi,,female speaker's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fMZD,bhulī,,female speaker's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,"unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
-fFBS,dad,,female speaker's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fFBS,bhulā,,female speaker's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fFZS,dad,,female speaker's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fFZS,bhulā,,female speaker's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fMBS,dad,,female speaker's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fMBS,bhulā,,female speaker's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fMZS,dad,,female speaker's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fMZS,bhulā,,female speaker's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
-fFeBS,,,female speaker's father's older brother's son,,,,
-fFyBS,,,female speaker's father's younger brother's son,,,,
-fFeZS,,,female speaker's father's older sister's son,,,,
-fFyZS,,,female speaker's father's younger sister's son,,,,
-fFeBD,,,female speaker's father's older brother's daughter,,,,
-fFyBD,,,female speaker's father's younger brother's daughter,,,,
-fFeZD,,,female speaker's father's older sister's daughter,,,,
-fFyZD,,,female speaker's father's younger sister's daughter,,,,
-fMeBS,,,female speaker's mother's older brother's son,,,,
-fMyBS,,,female speaker's mother's younger brother's son,,,,
-fMeZS,,,female speaker's mother's older sister's son,,,,
-fMyZS,,,female speaker's mother's younger sister's son,,,,
-fMeBD,,,female speaker's mother's older brother's daughter,,,,
-fMyBD,,,female speaker's mother's younger brother's daughter,,,,
-fMeZD,,,female speaker's mother's older sister's daughter,,,,
-fMyZD,,,female speaker's mother's younger sister's daughter,,,,
-fFBeS,,,female speaker's father's brother's older son,,,,
-fFByS,,,female speaker's father's brother's younger son,,,,
-fFZeS,,,female speaker's father's sister's older son,,,,
-fFZyS,,,female speaker's father's sister's younger son,,,,
-fFBeD,,,female speaker's father's brother's older daughter,,,,
-fFByD,,,female speaker's father's brother's younger daughter,,,,
-fFZeD,,,female speaker's father's sister's older daughter,,,,
-fFZyD,,,female speaker's father's sister's younger daughter,,,,
-fMBeS,,,female speaker's mother's brother's older son,,,,
-fMByS,,,female speaker's mother's brother's younger son,,,,
-fMZeS,,,female speaker's mother's sister's older son,,,,
-fMZyS,,,female speaker's mother's sister's younger son,,,,
-fMBeD,,,female speaker's mother's brother's older daughter,,,,
-fMByD,,,female speaker's mother's brother's younger daughter,,,,
-fMZeD,,,female speaker's mother's sister's older daughter,,,,
-fMZyD,,,female speaker's mother's sister's younger daughter,,,,
-fE,,,female speaker's spouse,,,,
-fH,jamai,,female speaker's husband,,,bawa_role_1967,
-fW,,,female speaker's wife,,,,
-fHF,caur,,female speaker's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fHM,saśū,,female speaker's husband's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fWF,,,female speaker's wife's father,,,,
-fWM,,,female speaker's wife's mother,,,,
-fBW,,,female speaker's brother's wife,,,,
-fZH,,,female speaker's sister's husband,,,,
-fWB,,,female speaker's wife's brother,,,,
-fWZ,,,female speaker's wife's sister,,,,
-fHB,,,female speaker's husband's brother,,,,
-fHZ,,,female speaker's husband's sister,,,,
-fco-W,,,female speaker's co-wife,,,,
-fco-H,,,female speaker's co-husband,,,,
-fFW(notM),,,female speaker's father's wife (not mother),,,,
-fMH(notF),,,female speaker's wife's husband (not father),,,,
-fSW,bvāri,,female speaker's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fSWM,samdyani,,female speaker's son's wife's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fSWF,samdi,,female speaker's son's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fDH,javaī,,female speaker's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fDHM,samdyani,,female speaker's daughter's husband's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fDHF,samdi,,female speaker's daughter's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fFZH,bhin,,female speaker's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFBW,,,female speaker's father's brother's wife,,,,
-fMZH,kāśabaujyu,,female speaker's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMBW,māmi,,female speaker's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMeZH,thulbaujyu,,male speaker's mother's elder sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMeZH,thulbaujyu,,female speaker's mother's elder sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMyZH,kaka,,male speaker's mother's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMyZH,kāśabaujyu,,male speaker's mother's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMyZH,kaka,,female speaker's mother's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMyZH,kāśabaujyu,,female speaker's mother's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFeBW,thulljā,,male speaker's father's elder brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFeBW,thulljā,,female speaker's father's elder brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFyBW,kāki,,male speaker's father's younger brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFyBW,kāki,,female speaker's father's younger brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-meZH,bhin,,male speaker's elder sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-feZH,bhin,,female speaker's elder sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFB,bubu,,male speaker's father's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFZH,bubu,,male speaker's father's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMB,bubu,,male speaker's father's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMZH,bubu,,male speaker's father's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFB,bubu,,male speaker's mother's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFZH,bubu,,male speaker's mother's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMB,bubu,,male speaker's mother's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMZH,bubu,,male speaker's mother's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFB,bubu,,female speaker's father's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFZH,bubu,,female speaker's father's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMB,bubu,,female speaker's father's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMZH,bubu,,female speaker's father's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFB,bubu,,female speaker's mother's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFZH,bubu,,female speaker's mother's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMB,bubu,,female speaker's mother's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMZH,bubu,,female speaker's mother's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFBW,āmā,,male speaker's father's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFZ,āmā,,male speaker's father's father's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMBW,āmā,,male speaker's father's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMZ,āmā,,male speaker's father's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFBW,āmā,,male speaker's mother's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFZ,āmā,,male speaker's mother's father's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMBW,āmā,,male speaker's mother's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMZ,āmā,,male speaker's mother's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFBW,āmā,,female speaker's father's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFZ,āmā,,female speaker's father's father's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMBW,āmā,,female speaker's father's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMZ,āmā,,female speaker's father's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFBW,āmā,,female speaker's mother's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFZ,āmā,,female speaker's mother's father's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMBW,āmā,,female speaker's mother's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMZ,āmā,,female speaker's mother's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFF,bur caur,,male speaker's wife's father's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMF,bur caur,,male speaker's wife's mother's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFFB,bur caur,,male speaker's wife's father's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFFZH,bur caur,,male speaker's wife's father's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFMB,bur caur,,male speaker's wife's father's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFMZH,bur caur,,male speaker's wife's father's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMFB,bur caur,,male speaker's wife's mother's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMFZH,bur caur,,male speaker's wife's mother's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMMB,bur caur,,male speaker's wife's mother's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMMZH,bur caur,,male speaker's wife's mother's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFF,bur caur,,female speaker's husband's father's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMF,bur caur,,female speaker's husband's mother's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFFB,bur caur,,female speaker's husband's father's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFFZH,bur caur,,female speaker's husband's father's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFMB,bur caur,,female speaker's husband's father's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFMZH,bur caur,,female speaker's husband's father's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMFB,bur caur,,female speaker's husband's mother's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMFZH,bur caur,,female speaker's husband's mother's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMMB,bur caur,,female speaker's husband's mother's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMMZH,bur caur,,female speaker's husband's mother's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMM,bur saśū,,male speaker's wife's mother's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFM,bur saśū,,male speaker's wife's father's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFFBW,bur saśū,,male speaker's wife's father's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFFZ,bur saśū,,male speaker's wife's father's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFMBW,bur saśū,,male speaker's wife's father's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFMZ,bur saśū,,male speaker's wife's father's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMFBW,bur saśū,,male speaker's wife's mother's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMFZ,bur saśū,,male speaker's wife's mother's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMMBW,bur saśū,,male speaker's wife's mother's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMMZ,bur saśū,,male speaker's wife's mother's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMM,bur saśū,,female speaker's husband's mother's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFM,bur saśū,,female speaker's husband's father's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFFBW,bur saśū,,female speaker's husband's father's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFFZ,bur saśū,,female speaker's husband's father's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFMBW,bur saśū,,female speaker's husband's father's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFMZ,bur saśū,,female speaker's husband's father's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMFBW,bur saśū,,female speaker's husband's mother's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMFZ,bur saśū,,female speaker's husband's mother's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMMBW,bur saśū,,female speaker's husband's mother's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMMZ,bur saśū,,female speaker's husband's mother's mother's sister ,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFeBS,thulbaujyu,,male speaker's father's father's elder brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFyBS,kaka,,male speaker's father's father's younger brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFeZS,thulbaujyu,,male speaker's father's father's elder sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFyZS,kaka,,male speaker's father's father's younger sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMeBS,thulbaujyu,,male speaker's father's mother's elder brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMyBS,kaka,,male speaker's father's mother's younger brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMeZS,thulbaujyu,,male speaker's father's mother's elder sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMyZS,kaka,,male speaker's father's mother's younger sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFeBS,thulbaujyu,,female speaker's father's father's elder brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFyBS,kaka,,female speaker's father's father's younger brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFeZS,thulbaujyu,,female speaker's father's father's elder sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFyZS,kaka,,female speaker's father's father's younger sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMeBS,thulbaujyu,,female speaker's father's mother's elder brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMyBS,kaka,,female speaker's father's mother's younger brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMeZS,thulbaujyu,,female speaker's father's mother's elder sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMyZS,kaka,,female speaker's father's mother's younger sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFBDH,kāśabaujyu,,male speaker's mother's father's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMBDH,kāśabaujyu,,male speaker's mother's mother's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFZDH ,kāśabaujyu,,male speaker's mother's father's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMZDH,kāśabaujyu,,male speaker's mother's mother's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFBDH,kāśabaujyu,,female speaker's mother's father's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMBDH,kāśabaujyu,,female speaker's mother's mother's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFZDH ,kāśabaujyu,,female speaker's mother's father's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMZDH,kāśabaujyu,,female speaker's mother's mother's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFeBSW,thulljā,,male speaker's father's father's elder brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFyBSW,kāki,,male speaker's father's father's younger brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFeZSW,thulljā,,male speaker's father's father's elder sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFyZSW,kāki,,male speaker's father's father's younger sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMeBSW,thulljā,,male speaker's father's mother's elder brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMyBSW,kāki,,male speaker's father's mother's younger brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMeZSW,thulljā,,male speaker's father's mother's elder sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMyZSW,kāki,,male speaker's father's mother's younger sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFeBSW,thulljā,,female speaker's father's father's elder brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFyBSW,kāki,,female speaker's father's father's younger brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFeZSW,thulljā,,female speaker's father's father's elder sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFyZSW,kāki,,female speaker's father's father's younger sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMeBSW,thulljā,,female speaker's father's mother's elder brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMyBSW,kāki,,female speaker's father's mother's younger brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMeZSW,thulljā,,female speaker's father's mother's elder sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMyZSW,kāki,,female speaker's father's mother's younger sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFBS,mam,,male speaker's mother's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFZS,mam,,male speaker's mother's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMZS,mam,,male speaker's mother's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMBS,mam,,male speaker's mother's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mFBWB,mam,,male speaker's father's brother's wife's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFBS,mam,,female speaker's mother's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFZS,mam,,female speaker's mother's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMZS,mam,,female speaker's mother's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMBS,mam,,female speaker's mother's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fFBWB,mam,,female speaker's father's brother's wife's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFBSW,māmi,,male speaker's mother's father's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMFZSW,māmi,,male speaker's mother's father's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMZSW,māmi,,male speaker's mother's mother's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mMMBSW,māmi,,male speaker's mother's mother's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFBWBW,māmi,,male speaker's father's brother's wife's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFBSW,māmi,,female speaker's mother's father's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fMFZSW,māmi,,female speaker's mother's father's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMZSW,māmi,,female speaker's mother's mother's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fMMBSW,māmi,,female speaker's mother's mother's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fFBWBW,māmi,,female speaker's father's brother's wife's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFZD,didi,,male speaker's father's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFZD,pusyāni,,male speaker's father's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFBD,didi,,male speaker's father's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFBD,pusyāni,,male speaker's father's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMBD,didi,,male speaker's father's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMBD,pusyāni,,male speaker's father's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMZD,didi,,male speaker's father's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMZD,pusyāni,,male speaker's father's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFZD,didi,,female speaker's father's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFZD,pusyāni,,female speaker's father's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFBD,didi,,female speaker's father's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFBD,pusyāni,,female speaker's father's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMBD,didi,,female speaker's father's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMBD,pusyāni,,female speaker's father's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMZD,didi,,female speaker's father's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMZD,pusyāni,,female speaker's father's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFZDH,bhin,,male speaker's father's father's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFFBDH,bhin,,male speaker's father's father's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMBDH,bhin,,male speaker's father's mother's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mFMZDH,bhin,,male speaker's father's mother's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFZDH,bhin,,female speaker's father's father's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFFBDH,bhin,,female speaker's father's father's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMBDH,bhin,,female speaker's father's mother's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fFMZDH,bhin,,female speaker's father's mother's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFB,caur,,female speaker's husband's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFB,caur,,male speaker's wife's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMB,caur,,female speaker's husband's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMB,caur,,male speaker's wife's mother's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMZH,caur,,female speaker's husband's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMZH,caur,,male speaker's wife's mother's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHF,caur,,male speaker's sister's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHFB,caur,,male speaker's sister's husband's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mBWF,caur,,male speaker's brother's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHF,caur,,female speaker's sister's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHFB,caur,,female speaker's sister's husband's father's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fBWF,caur,,female speaker's brother's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFBW,saśū,,female speaker's husband's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWFBW,saśū,,male speaker's wife's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMBW,saśū,,female speaker's husband's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMBW,saśū,,male speaker's wife's mother's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMZ,saśū,,female speaker's husband's mother's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mWMZ,saśū,,male speaker's wife's mother's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHFBW,saśū,,male speaker's sister's husband's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHFBW,saśū,,female speaker's sister's husband's father's brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-meBW,boji,,male speaker's elder brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-feBW,boji,,female speaker's elder brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-myBW,bvāri,,male speaker's younger brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fyBW,bvāri,,female speaker's younger brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-myZH,javaī,,male speaker's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fyZH,javaī,,female speaker's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fBWB,javaī,,female speaker's brother's wife's brother,,,Godelier_Trautmann_TjonSieFat_1998,yZH is classed with BWB only for female speakers
-mZHB,bhin,,male speaker's sister's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHB,javaī,,male speaker's sister's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHB,javaī,,female speaker's sister's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHB,bhin,,female speaker's sister's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWeB,jethu,,male speaker's wife's elder brother,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWyB,sāu,,male speaker's wife's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWBS,sāu,,male speaker's wife's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,WBS classed with WyB for male speakers only
-mWFBS,jethu,,male speaker's wife's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWFBS,sāu,,male speaker's wife's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWMBS,jethu,,male speaker's wife's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWMBS,sāu,,male speaker's wife's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWFZS,jethu,,male speaker's wife's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWFZS,sāu,,male speaker's wife's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWMZS,jethu,,male speaker's wife's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWMZS,sāu,,male speaker's wife's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,"jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
-mWeBW,didi,,male speaker's wife's elder brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWyBW,bhulī,,male speaker's wife's younger brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWBSW,bhulī,,male speaker's wife's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,WBSW bhuli because corresponds to WBS who is classed alongside WyB
-mWFBSW,didi,,male speaker's wife's father's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWFBSW,bhulī,,male speaker's wife's father's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWMBSW,didi,,male speaker's wife's mother's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWMBSW,bhulī,,male speaker's wife's mother's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWFZSW,didi,,male speaker's wife's father's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWFZSW,bhulī,,male speaker's wife's father's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWMZSW,didi,,male speaker's wife's mother's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWMZSW,bhulī,,male speaker's wife's mother's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,"same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
-mWeZ,jethau,,male speaker's wife's elder sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mWeZ,paūnī,,male speaker's wife's elder sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mWyZ,sāi,,male speaker's wife's younger sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHZ,jethau,,male speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHZ,paūnī,,male speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHZ,sāi,,male speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHZ,jethau,,female speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHZ,paūnī,,female speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHZ,sāi,,female speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mWeZH,dad,,male speaker's wife's elder sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWyZH,bhuiā,,male speaker's wife's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHZH,dad,,male speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHZH,bhuiā,,male speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHZH,dad,,female speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHZH,bhuiā,,female speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHeB,jithānā,,female speaker's husband's elder brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHyB,dyor,,female speaker's husband's younger brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFBS,jithānā,,female speaker's husband's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFBS,dyor,,female speaker's husband's father's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMBS,jithānā,,female speaker's husband's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMBS,dyor,,female speaker's husband's mother's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZS,jithānā,,female speaker's husband's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZS,dyor,,female speaker's husband's father's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMZS,jithānā,,female speaker's husband's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMZS,dyor,,female speaker's husband's mother's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHeBW,jithānī,,female speaker's husband's elder brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHyBW,dyorānī,,female speaker's husband's younger brother's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFBSW,jithānī,,female speaker's husband's father's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFBSW,dyorānī,,female speaker's husband's father's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMBSW,jithānī,,female speaker's husband's mother's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMBSW,dyorānī,,female speaker's husband's mother's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZSW,jithānī,,female speaker's husband's father's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZSW,dyorānī,,female speaker's husband's father's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMZSW,jithānī,,female speaker's husband's mother's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMZSW,dyorānī,,female speaker's husband's mother's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHeZ,paūnī,,female speaker's husband's elder sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fHyZ,nand,,female speaker's husband's younger sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fHMBD,paūnī,,female speaker's husband's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMBD,nand,,female speaker's husband's mother's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFBD,paūnī,,female speaker's husband's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFBD,nand,,female speaker's husband's father's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMZD,paūnī,,female speaker's husband's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHMZD,nand,,female speaker's husband's mother's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZD,paūnī,,female speaker's husband's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZD,nand,,female speaker's husband's father's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fZHZ,paūnī,,female speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fZHZ,nand,,female speaker's sister's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHFZ,paūnī,,female speaker's husband's father's sister,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fHeZH,dad,,female speaker's husband's elder sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHyZH,bhuiā,,female speaker's husband's younger sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHFZH,dad,,female speaker's husband's father's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fZHZH,dad,,female speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-fZHZH,bhuiā,,female speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-mZHZH,dad,,male speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-mZHZH,bhuiā,,male speaker's sister's husband's sister's husband,,,Godelier_Trautmann_TjonSieFat_1998,ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information.
-mBWF,samdi,,male speaker's younger brother's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fBWF,samdi,,female speaker's younger brother's wife's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHF,samdi,,male speaker's younger sister's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHF,samdi,,female speaker's younger sister's husband's father,,,Godelier_Trautmann_TjonSieFat_1998,
-mBWM,samdyani,,male speaker's younger brother's wife's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fBWM,samdyani,,female speaker's younger brother's wife's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mZHM,samdyani,,male speaker's younger sister's husband's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-fZHM,samdyani,,female speaker's younger sister's husband's mother,,,Godelier_Trautmann_TjonSieFat_1998,
-mWZS,cyal,,male speaker's wife's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fHBS,cyal,,female speaker's husband's brother's son,,,Godelier_Trautmann_TjonSieFat_1998,
-mWZD,celi,,male speaker's wife's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-mWBD,sāi,,male speaker's wife's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fHBD,celi,,female speaker's husband's brother's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fHZD,bhānji,,female speaker's husband's sister's daughter,,,Godelier_Trautmann_TjonSieFat_1998,
-fHZS,bhānja,,female speaker's husband's sister's son,,,Godelier_Trautmann_TjonSieFat_1998,
-fSWB,javaī,,female speaker's son's wife's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mSWB,javaī,,male speaker's son's wife's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fDHB,javaī,,female speaker's daughter's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-mDHB,javaī,,male speaker's daughter's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fyZHB,javaī,,female speaker's sister's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-myZHB,javaī,,male speaker's sister's husband's brother,,,Godelier_Trautmann_TjonSieFat_1998,
-fSWZ,bvāri,,female speaker's son's wife's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mSWZ,bvāri,,male speaker's son's wife's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-fDHZ,bvāri,,female speaker's daughter's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mDHZ,bvāri,,male speaker's daughter's husband's sister,,,Godelier_Trautmann_TjonSieFat_1998,
-mBDH,javaī,,male speaker's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mWZDH,javaī,,male speaker's wife's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fZDH,javaī,,female speaker's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fHBDH,javaī,,female speaker's sister's husband's brother's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mZDH,javaī,,male speaker's sister's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fSDH,javaī,,female speaker's son's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-fDDH,javaī,,female speaker's daughter's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mSDH,javaī,,male speaker's son's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mDDH,javaī,,male speaker's daughter's daughter's husband,,,Godelier_Trautmann_TjonSieFat_1998,
-mBSW,bvāri,,male speaker's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mWZSW,bvāri,,male speaker's wife's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fZSW,bvāri,,female speaker's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fHBSW,bvāri,,female speaker's husband's brother's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mZSW,bvāri,,male speaker's sister's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mSSW,bvāri,,male speaker's son's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-mDSW,bvāri,,male speaker's daughter's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fSSW,bvāri,,female speaker's son's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
-fDSW,bvāri,,female speaker's daughter's son's wife,,,Godelier_Trautmann_TjonSieFat_1998,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","",,"male speaker's sibling",,,"",""
+"mB","",,"male speaker's brother",,,"",""
+"mZ","",,"male speaker's sister",,,"",""
+"meB","dad",,"male speaker's elder brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"myB","bhulā",,"male speaker's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"meZ","didi",,"male speaker's elder sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"myZ","bhulī",,"male speaker's younger sister",,,"",""
+"mP","",,"male speaker's parent",,,"",""
+"mF","baujyu",,"male speaker's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mF","bābu ",,"male speaker's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mM","ijā",,"male speaker's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mM","ij",,"male speaker's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mC","",,"male speaker's child",,,"",""
+"mS","cyal",,"male speaker's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mD","celi",,"male speaker's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mA","",,"male speaker's ancestor",,,"",""
+"mPP","",,"male speaker's grandparent",,,"",""
+"mFF","bubu",,"male speaker's father's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFM","āmā",,"male speaker's father's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMF","bubu",,"male speaker's mother's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMM","āmā",,"male speaker's mother's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mCC","",,"male speaker's grandchild",,,"",""
+"mSS","nāti",,"male speaker's son's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSD","nātini",,"male speaker's son's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDS","nāti",,"male speaker's daughter's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDD","nātini",,"male speaker's daughter's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFB","",,"male speaker's father's brother",,,"",""
+"mFZ","didi",,"male speaker's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFZ","pusyāni",,"male speaker's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMB","mam",,"male speaker's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMZ","",,"male speaker's mother's sister",,,"",""
+"mFeB","thulbaujyu",,"male speaker's father's older brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFyB","kaka",,"male speaker's father's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFyB","kāśabaujyu",,"male speaker's father's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFeZ","",,"male speaker's father's older sister",,,"",""
+"mFyZ","",,"male speaker's father's younger sister",,,"",""
+"mMeZ","thulljā",,"male speaker's mother's older sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMyZ","kaij",,"male speaker's mother's younger sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMeB","",,"male speaker's mother's older brother",,,"",""
+"mMyB","",,"male speaker's mother's younger brother",,,"",""
+"mBS","cyal",,"male speaker's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mBD","celi",,"male speaker's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZS","bhānga",,"male speaker's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZD","bhāngi",,"male speaker's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"meBS","",,"male speaker's older brother's son",,,"",""
+"myBS","",,"male speaker's younger brother's son",,,"",""
+"meBD","",,"male speaker's older brother's daughter",,,"",""
+"myBD","",,"male speaker's younger brother's daughter",,,"",""
+"meZS","",,"male speaker's older sister's son",,,"",""
+"myZS","",,"male speaker's younger sister's son",,,"",""
+"meZD","",,"male speaker's older sister's daughter",,,"",""
+"myZD","",,"male speaker's younger sister's daughter",,,"",""
+"mFZD","didi",,"male speaker's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mFZD","bhulī",,"male speaker's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mFBD","didi",,"male speaker's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mFBD","bhulī",,"male speaker's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mMBD","didi",,"male speaker's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mMBD","bhulī",,"male speaker's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mMZD","didi",,"male speaker's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mMZD","bhulī",,"male speaker's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"mFBS","dad",,"male speaker's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mFBS","bhulā",,"male speaker's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mFZS","dad",,"male speaker's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mFZS","bhulā",,"male speaker's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mMBS","dad",,"male speaker's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mMBS","bhulā",,"male speaker's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mMZS","dad",,"male speaker's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mMZS","bhulā",,"male speaker's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"mFeBS","",,"male speaker's father's older brother's son",,,"",""
+"mFyBS","",,"male speaker's father's younger brother's son",,,"",""
+"mFeZS","",,"male speaker's father's older sister's son",,,"",""
+"mFyZS","",,"male speaker's father's younger sister's son",,,"",""
+"mFeBD","",,"male speaker's father's older brother's daughter",,,"",""
+"mFyBD","",,"male speaker's father's younger brother's daughter",,,"",""
+"mFeZD","",,"male speaker's father's older sister's daughter",,,"",""
+"mFyZD","",,"male speaker's father's younger sister's daughter",,,"",""
+"mMeBS","",,"male speaker's mother's older brother's son",,,"",""
+"mMyBS","",,"male speaker's mother's younger brother's son",,,"",""
+"mMeZS","",,"male speaker's mother's older sister's son",,,"",""
+"mMyZS","",,"male speaker's mother's younger sister's son",,,"",""
+"mMeBD","",,"male speaker's mother's older brother's daughter",,,"",""
+"mMyBD","",,"male speaker's mother's younger brother's daughter",,,"",""
+"mMeZD","",,"male speaker's mother's older sister's daughter",,,"",""
+"mMyZD","",,"male speaker's mother's younger sister's daughter",,,"",""
+"mFBeS","",,"male speaker's father's brother's older son",,,"",""
+"mFByS","",,"male speaker's father's brother's younger son",,,"",""
+"mFZeS","",,"male speaker's father's sister's older son",,,"",""
+"mFZyS","",,"male speaker's father's sister's younger son",,,"",""
+"mFBeD","",,"male speaker's father's brother's older daughter",,,"",""
+"mFByD","",,"male speaker's father's brother's younger daughter",,,"",""
+"mFZeD","",,"male speaker's father's sister's older daughter",,,"",""
+"mFZyD","",,"male speaker's father's sister's younger daughter",,,"",""
+"mMBeS","",,"male speaker's mother's brother's older son",,,"",""
+"mMByS","",,"male speaker's mother's brother's younger son",,,"",""
+"mMZeS","",,"male speaker's mother's sister's older son",,,"",""
+"mMZyS","",,"male speaker's mother's sister's younger son",,,"",""
+"mMBeD","",,"male speaker's mother's brother's older daughter",,,"",""
+"mMByD","",,"male speaker's mother's brother's younger daughter",,,"",""
+"mMZeD","",,"male speaker's mother's sister's older daughter",,,"",""
+"mMZyD","",,"male speaker's mother's sister's younger daughter",,,"",""
+"mE","",,"male speaker's spouse",,,"",""
+"mH","",,"male speaker's husband",,,"",""
+"mW","dulheni",,"male speaker's wife",,,"bawa_role_1967",""
+"mW","buari",,"male speaker's wife",,,"bawa_role_1967",""
+"mHF","",,"male speaker's husband's father",,,"",""
+"mHM","",,"male speaker's husband's mother",,,"",""
+"mWF","caur",,"male speaker's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWM","saśū",,"male speaker's wife's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mBW","",,"male speaker's brother's wife",,,"",""
+"mZH","",,"male speaker's sister's husband",,,"",""
+"mWB","",,"male speaker's wife's brother",,,"",""
+"mWZ","",,"male speaker's wife's sister",,,"",""
+"mHB","",,"male speaker's husband's brother",,,"",""
+"mHZ","",,"male speaker's husband's sister",,,"",""
+"mco-W","",,"male speaker's co-wife",,,"",""
+"mco-H","",,"male speaker's co-husband",,,"",""
+"mFW(notM)","",,"male speaker's father's wife (not mother)",,,"",""
+"mMH(notF)","",,"male speaker's mother's husband (not father)",,,"",""
+"mSW","bvāri",,"male speaker's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSWM","samdyani",,"male speaker's son's wife's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSWF","samdi",,"male speaker's son's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDH","javaī",,"male speaker's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDHM","samdyani",,"male speaker's daughter's husband's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDHF","samdi",,"male speaker's daughter's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFZH","bhin",,"male speaker's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFBW","",,"male speaker's father's brother's wife",,,"",""
+"mMZH","kāśabaujyu",,"male speaker's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMBW","māmi",,"male speaker's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fG","",,"female speaker's sibling",,,"",""
+"fB","",,"female speaker's brother",,,"",""
+"fZ","",,"female speaker's sister",,,"",""
+"feB","dad",,"female speaker's elder brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fyB","bhulā",,"female speaker's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"feZ","didi",,"female speaker's elder sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fyZ","bhulī",,"female speaker's younger sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fP","",,"female speaker's parent",,,"",""
+"fF","baujyu",,"female speaker's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fF","bābu ",,"female speaker's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fM","ijā",,"female speaker's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fM","ij",,"female speaker's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fC","",,"female speaker's child",,,"",""
+"fS","cyal",,"female speaker's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fD","celi",,"female speaker's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fA","",,"female speaker's ancestor",,,"",""
+"fPP","",,"female speaker's grandparent",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFF","bubu",,"female speaker's father's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFM","āmā",,"female speaker's father's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMF","bubu",,"female speaker's mother's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMM","āmā",,"female speaker's mother's mother",,,"",""
+"fCC","",,"female speaker's grandchild",,,"",""
+"fSS","nāti",,"female speaker's son's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSD","nātini",,"female speaker's son's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDS","nāti",,"female speaker's daughter's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDD","nātini",,"female speaker's daughter's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFB","",,"female speaker's father's brother",,,"",""
+"fFZ","didi",,"female speaker's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFZ","pusyāni",,"female speaker's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMB","mam",,"female speaker's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMZ","",,"female speaker's mother's sister",,,"",""
+"fFeB","thulbaujyu",,"female speaker's father's older brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFyB","kaka",,"female speaker's father's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFyB","kāśabaujyu",,"female speaker's father's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFeZ","",,"female speaker's father's older sister",,,"",""
+"fFyZ","",,"female speaker's father's younger sister",,,"",""
+"fMeZ","thulljā",,"female speaker's mother's older sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMyZ","kaij",,"female speaker's mother's younger sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMeB","",,"female speaker's mother's older brother",,,"",""
+"fMyB","",,"female speaker's mother's younger brother",,,"",""
+"fBS","bhadyā",,"female speaker's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fBD","bhulī",,"female speaker's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","note: for female speakers, BD is classed along with yZ"
+"fBD","bhadye",,"female speaker's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZS","cyal",,"female speaker's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZD","celi",,"female speaker's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"feBS","",,"female speaker's older brother's son",,,"",""
+"fyBS","",,"female speaker's younger brother's son",,,"",""
+"feBD","",,"female speaker's older brother's daughter",,,"",""
+"fyBD","",,"female speaker's younger brother's daughter",,,"",""
+"feZS","",,"female speaker's older sister's son",,,"",""
+"fyZS","",,"female speaker's younger sister's son",,,"",""
+"feZD","",,"female speaker's older sister's daughter",,,"",""
+"fyZD","",,"female speaker's younger sister's daughter",,,"",""
+"fFZD","didi",,"female speaker's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fFZD","bhulī",,"female speaker's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fFBD","didi",,"female speaker's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fFBD","bhulī",,"female speaker's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fMBD","didi",,"female speaker's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fMBD","bhulī",,"female speaker's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fMZD","didi",,"female speaker's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fMZD","bhulī",,"female speaker's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","unclear in this context which term is used. didi means elder, and bhuli means younger, however the source is ambiguous about whether this is in relation to ego, or their parents birth order. Please see the source for more information."
+"fFBS","dad",,"female speaker's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fFBS","bhulā",,"female speaker's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fFZS","dad",,"female speaker's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fFZS","bhulā",,"female speaker's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fMBS","dad",,"female speaker's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fMBS","bhulā",,"female speaker's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fMZS","dad",,"female speaker's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fMZS","bhulā",,"female speaker's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as didi/bhuli. Dad = older term, bhulā = younger term. "
+"fFeBS","",,"female speaker's father's older brother's son",,,"",""
+"fFyBS","",,"female speaker's father's younger brother's son",,,"",""
+"fFeZS","",,"female speaker's father's older sister's son",,,"",""
+"fFyZS","",,"female speaker's father's younger sister's son",,,"",""
+"fFeBD","",,"female speaker's father's older brother's daughter",,,"",""
+"fFyBD","",,"female speaker's father's younger brother's daughter",,,"",""
+"fFeZD","",,"female speaker's father's older sister's daughter",,,"",""
+"fFyZD","",,"female speaker's father's younger sister's daughter",,,"",""
+"fMeBS","",,"female speaker's mother's older brother's son",,,"",""
+"fMyBS","",,"female speaker's mother's younger brother's son",,,"",""
+"fMeZS","",,"female speaker's mother's older sister's son",,,"",""
+"fMyZS","",,"female speaker's mother's younger sister's son",,,"",""
+"fMeBD","",,"female speaker's mother's older brother's daughter",,,"",""
+"fMyBD","",,"female speaker's mother's younger brother's daughter",,,"",""
+"fMeZD","",,"female speaker's mother's older sister's daughter",,,"",""
+"fMyZD","",,"female speaker's mother's younger sister's daughter",,,"",""
+"fFBeS","",,"female speaker's father's brother's older son",,,"",""
+"fFByS","",,"female speaker's father's brother's younger son",,,"",""
+"fFZeS","",,"female speaker's father's sister's older son",,,"",""
+"fFZyS","",,"female speaker's father's sister's younger son",,,"",""
+"fFBeD","",,"female speaker's father's brother's older daughter",,,"",""
+"fFByD","",,"female speaker's father's brother's younger daughter",,,"",""
+"fFZeD","",,"female speaker's father's sister's older daughter",,,"",""
+"fFZyD","",,"female speaker's father's sister's younger daughter",,,"",""
+"fMBeS","",,"female speaker's mother's brother's older son",,,"",""
+"fMByS","",,"female speaker's mother's brother's younger son",,,"",""
+"fMZeS","",,"female speaker's mother's sister's older son",,,"",""
+"fMZyS","",,"female speaker's mother's sister's younger son",,,"",""
+"fMBeD","",,"female speaker's mother's brother's older daughter",,,"",""
+"fMByD","",,"female speaker's mother's brother's younger daughter",,,"",""
+"fMZeD","",,"female speaker's mother's sister's older daughter",,,"",""
+"fMZyD","",,"female speaker's mother's sister's younger daughter",,,"",""
+"fE","",,"female speaker's spouse",,,"",""
+"fH","jamai",,"female speaker's husband",,,"bawa_role_1967",""
+"fW","",,"female speaker's wife",,,"",""
+"fHF","caur",,"female speaker's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHM","saśū",,"female speaker's husband's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fWF","",,"female speaker's wife's father",,,"",""
+"fWM","",,"female speaker's wife's mother",,,"",""
+"fBW","",,"female speaker's brother's wife",,,"",""
+"fZH","",,"female speaker's sister's husband",,,"",""
+"fWB","",,"female speaker's wife's brother",,,"",""
+"fWZ","",,"female speaker's wife's sister",,,"",""
+"fHB","",,"female speaker's husband's brother",,,"",""
+"fHZ","",,"female speaker's husband's sister",,,"",""
+"fco-W","",,"female speaker's co-wife",,,"",""
+"fco-H","",,"female speaker's co-husband",,,"",""
+"fFW(notM)","",,"female speaker's father's wife (not mother)",,,"",""
+"fMH(notF)","",,"female speaker's wife's husband (not father)",,,"",""
+"fSW","bvāri",,"female speaker's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSWM","samdyani",,"female speaker's son's wife's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSWF","samdi",,"female speaker's son's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDH","javaī",,"female speaker's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDHM","samdyani",,"female speaker's daughter's husband's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDHF","samdi",,"female speaker's daughter's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFZH","bhin",,"female speaker's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFBW","",,"female speaker's father's brother's wife",,,"",""
+"fMZH","kāśabaujyu",,"female speaker's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMBW","māmi",,"female speaker's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMeZH","thulbaujyu",,"male speaker's mother's elder sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMeZH","thulbaujyu",,"female speaker's mother's elder sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMyZH","kaka",,"male speaker's mother's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMyZH","kāśabaujyu",,"male speaker's mother's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMyZH","kaka",,"female speaker's mother's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMyZH","kāśabaujyu",,"female speaker's mother's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFeBW","thulljā",,"male speaker's father's elder brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFeBW","thulljā",,"female speaker's father's elder brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFyBW","kāki",,"male speaker's father's younger brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFyBW","kāki",,"female speaker's father's younger brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"meZH","bhin",,"male speaker's elder sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"feZH","bhin",,"female speaker's elder sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFB","bubu",,"male speaker's father's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFZH","bubu",,"male speaker's father's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMB","bubu",,"male speaker's father's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMZH","bubu",,"male speaker's father's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFB","bubu",,"male speaker's mother's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFZH","bubu",,"male speaker's mother's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMB","bubu",,"male speaker's mother's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMZH","bubu",,"male speaker's mother's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFB","bubu",,"female speaker's father's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFZH","bubu",,"female speaker's father's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMB","bubu",,"female speaker's father's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMZH","bubu",,"female speaker's father's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFB","bubu",,"female speaker's mother's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFZH","bubu",,"female speaker's mother's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMB","bubu",,"female speaker's mother's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMZH","bubu",,"female speaker's mother's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFBW","āmā",,"male speaker's father's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFZ","āmā",,"male speaker's father's father's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMBW","āmā",,"male speaker's father's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMZ","āmā",,"male speaker's father's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFBW","āmā",,"male speaker's mother's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFZ","āmā",,"male speaker's mother's father's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMBW","āmā",,"male speaker's mother's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMZ","āmā",,"male speaker's mother's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFBW","āmā",,"female speaker's father's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFZ","āmā",,"female speaker's father's father's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMBW","āmā",,"female speaker's father's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMZ","āmā",,"female speaker's father's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFBW","āmā",,"female speaker's mother's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFZ","āmā",,"female speaker's mother's father's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMBW","āmā",,"female speaker's mother's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMZ","āmā",,"female speaker's mother's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFF","bur caur",,"male speaker's wife's father's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMF","bur caur",,"male speaker's wife's mother's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFFB","bur caur",,"male speaker's wife's father's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFFZH","bur caur",,"male speaker's wife's father's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFMB","bur caur",,"male speaker's wife's father's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFMZH","bur caur",,"male speaker's wife's father's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMFB","bur caur",,"male speaker's wife's mother's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMFZH","bur caur",,"male speaker's wife's mother's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMMB","bur caur",,"male speaker's wife's mother's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMMZH","bur caur",,"male speaker's wife's mother's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFF","bur caur",,"female speaker's husband's father's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMF","bur caur",,"female speaker's husband's mother's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFFB","bur caur",,"female speaker's husband's father's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFFZH","bur caur",,"female speaker's husband's father's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFMB","bur caur",,"female speaker's husband's father's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFMZH","bur caur",,"female speaker's husband's father's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMFB","bur caur",,"female speaker's husband's mother's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMFZH","bur caur",,"female speaker's husband's mother's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMMB","bur caur",,"female speaker's husband's mother's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMMZH","bur caur",,"female speaker's husband's mother's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMM","bur saśū",,"male speaker's wife's mother's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFM","bur saśū",,"male speaker's wife's father's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFFBW","bur saśū",,"male speaker's wife's father's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFFZ","bur saśū",,"male speaker's wife's father's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFMBW","bur saśū",,"male speaker's wife's father's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFMZ","bur saśū",,"male speaker's wife's father's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMFBW","bur saśū",,"male speaker's wife's mother's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMFZ","bur saśū",,"male speaker's wife's mother's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMMBW","bur saśū",,"male speaker's wife's mother's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMMZ","bur saśū",,"male speaker's wife's mother's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMM","bur saśū",,"female speaker's husband's mother's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFM","bur saśū",,"female speaker's husband's father's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFFBW","bur saśū",,"female speaker's husband's father's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFFZ","bur saśū",,"female speaker's husband's father's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFMBW","bur saśū",,"female speaker's husband's father's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFMZ","bur saśū",,"female speaker's husband's father's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMFBW","bur saśū",,"female speaker's husband's mother's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMFZ","bur saśū",,"female speaker's husband's mother's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMMBW","bur saśū",,"female speaker's husband's mother's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMMZ","bur saśū",,"female speaker's husband's mother's mother's sister ",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFeBS","thulbaujyu",,"male speaker's father's father's elder brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFyBS","kaka",,"male speaker's father's father's younger brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFeZS","thulbaujyu",,"male speaker's father's father's elder sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFyZS","kaka",,"male speaker's father's father's younger sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMeBS","thulbaujyu",,"male speaker's father's mother's elder brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMyBS","kaka",,"male speaker's father's mother's younger brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMeZS","thulbaujyu",,"male speaker's father's mother's elder sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMyZS","kaka",,"male speaker's father's mother's younger sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFeBS","thulbaujyu",,"female speaker's father's father's elder brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFyBS","kaka",,"female speaker's father's father's younger brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFeZS","thulbaujyu",,"female speaker's father's father's elder sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFyZS","kaka",,"female speaker's father's father's younger sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMeBS","thulbaujyu",,"female speaker's father's mother's elder brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMyBS","kaka",,"female speaker's father's mother's younger brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMeZS","thulbaujyu",,"female speaker's father's mother's elder sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMyZS","kaka",,"female speaker's father's mother's younger sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFBDH","kāśabaujyu",,"male speaker's mother's father's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMBDH","kāśabaujyu",,"male speaker's mother's mother's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFZDH ","kāśabaujyu",,"male speaker's mother's father's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMZDH","kāśabaujyu",,"male speaker's mother's mother's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFBDH","kāśabaujyu",,"female speaker's mother's father's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMBDH","kāśabaujyu",,"female speaker's mother's mother's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFZDH ","kāśabaujyu",,"female speaker's mother's father's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMZDH","kāśabaujyu",,"female speaker's mother's mother's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFeBSW","thulljā",,"male speaker's father's father's elder brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFyBSW","kāki",,"male speaker's father's father's younger brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFeZSW","thulljā",,"male speaker's father's father's elder sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFyZSW","kāki",,"male speaker's father's father's younger sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMeBSW","thulljā",,"male speaker's father's mother's elder brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMyBSW","kāki",,"male speaker's father's mother's younger brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMeZSW","thulljā",,"male speaker's father's mother's elder sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMyZSW","kāki",,"male speaker's father's mother's younger sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFeBSW","thulljā",,"female speaker's father's father's elder brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFyBSW","kāki",,"female speaker's father's father's younger brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFeZSW","thulljā",,"female speaker's father's father's elder sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFyZSW","kāki",,"female speaker's father's father's younger sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMeBSW","thulljā",,"female speaker's father's mother's elder brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMyBSW","kāki",,"female speaker's father's mother's younger brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMeZSW","thulljā",,"female speaker's father's mother's elder sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMyZSW","kāki",,"female speaker's father's mother's younger sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFBS","mam",,"male speaker's mother's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFZS","mam",,"male speaker's mother's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMZS","mam",,"male speaker's mother's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMBS","mam",,"male speaker's mother's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFBWB","mam",,"male speaker's father's brother's wife's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFBS","mam",,"female speaker's mother's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFZS","mam",,"female speaker's mother's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMZS","mam",,"female speaker's mother's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMBS","mam",,"female speaker's mother's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFBWB","mam",,"female speaker's father's brother's wife's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFBSW","māmi",,"male speaker's mother's father's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMFZSW","māmi",,"male speaker's mother's father's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMZSW","māmi",,"male speaker's mother's mother's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mMMBSW","māmi",,"male speaker's mother's mother's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFBWBW","māmi",,"male speaker's father's brother's wife's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFBSW","māmi",,"female speaker's mother's father's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMFZSW","māmi",,"female speaker's mother's father's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMZSW","māmi",,"female speaker's mother's mother's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fMMBSW","māmi",,"female speaker's mother's mother's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFBWBW","māmi",,"female speaker's father's brother's wife's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFZD","didi",,"male speaker's father's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFZD","pusyāni",,"male speaker's father's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFBD","didi",,"male speaker's father's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFBD","pusyāni",,"male speaker's father's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMBD","didi",,"male speaker's father's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMBD","pusyāni",,"male speaker's father's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMZD","didi",,"male speaker's father's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMZD","pusyāni",,"male speaker's father's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFZD","didi",,"female speaker's father's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFZD","pusyāni",,"female speaker's father's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFBD","didi",,"female speaker's father's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFBD","pusyāni",,"female speaker's father's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMBD","didi",,"female speaker's father's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMBD","pusyāni",,"female speaker's father's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMZD","didi",,"female speaker's father's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMZD","pusyāni",,"female speaker's father's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFZDH","bhin",,"male speaker's father's father's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFFBDH","bhin",,"male speaker's father's father's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMBDH","bhin",,"male speaker's father's mother's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mFMZDH","bhin",,"male speaker's father's mother's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFZDH","bhin",,"female speaker's father's father's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFFBDH","bhin",,"female speaker's father's father's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMBDH","bhin",,"female speaker's father's mother's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fFMZDH","bhin",,"female speaker's father's mother's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFB","caur",,"female speaker's husband's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFB","caur",,"male speaker's wife's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMB","caur",,"female speaker's husband's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMB","caur",,"male speaker's wife's mother's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMZH","caur",,"female speaker's husband's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMZH","caur",,"male speaker's wife's mother's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHF","caur",,"male speaker's sister's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHFB","caur",,"male speaker's sister's husband's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mBWF","caur",,"male speaker's brother's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHF","caur",,"female speaker's sister's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHFB","caur",,"female speaker's sister's husband's father's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fBWF","caur",,"female speaker's brother's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFBW","saśū",,"female speaker's husband's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWFBW","saśū",,"male speaker's wife's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMBW","saśū",,"female speaker's husband's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMBW","saśū",,"male speaker's wife's mother's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMZ","saśū",,"female speaker's husband's mother's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWMZ","saśū",,"male speaker's wife's mother's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHFBW","saśū",,"male speaker's sister's husband's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHFBW","saśū",,"female speaker's sister's husband's father's brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"meBW","boji",,"male speaker's elder brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"feBW","boji",,"female speaker's elder brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"myBW","bvāri",,"male speaker's younger brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fyBW","bvāri",,"female speaker's younger brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"myZH","javaī",,"male speaker's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fyZH","javaī",,"female speaker's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fBWB","javaī",,"female speaker's brother's wife's brother",,,"Godelier_Trautmann_TjonSieFat_1998","yZH is classed with BWB only for female speakers"
+"mZHB","bhin",,"male speaker's sister's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHB","javaī",,"male speaker's sister's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHB","javaī",,"female speaker's sister's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHB","bhin",,"female speaker's sister's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWeB","jethu",,"male speaker's wife's elder brother",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWyB","sāu",,"male speaker's wife's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWBS","sāu",,"male speaker's wife's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","WBS classed with WyB for male speakers only"
+"mWFBS","jethu",,"male speaker's wife's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWFBS","sāu",,"male speaker's wife's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWMBS","jethu",,"male speaker's wife's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWMBS","sāu",,"male speaker's wife's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWFZS","jethu",,"male speaker's wife's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWFZS","sāu",,"male speaker's wife's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWMZS","jethu",,"male speaker's wife's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWMZS","sāu",,"male speaker's wife's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","jethu is used for an older WB relationship, and sau for a younger one. However, for other relationships classed as WB, it is ambiguous whether the terms apply to a WB older/younger than ego, older/younger than ego's wife, or to the birth order to the generation above (e.g. WMB, WFB etc.). "
+"mWeBW","didi",,"male speaker's wife's elder brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWyBW","bhulī",,"male speaker's wife's younger brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWBSW","bhulī",,"male speaker's wife's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","WBSW bhuli because corresponds to WBS who is classed alongside WyB"
+"mWFBSW","didi",,"male speaker's wife's father's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWFBSW","bhulī",,"male speaker's wife's father's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWMBSW","didi",,"male speaker's wife's mother's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWMBSW","bhulī",,"male speaker's wife's mother's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWFZSW","didi",,"male speaker's wife's father's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWFZSW","bhulī",,"male speaker's wife's father's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWMZSW","didi",,"male speaker's wife's mother's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWMZSW","bhulī",,"male speaker's wife's mother's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","same problem as with jethu/sau. However didi = a wife of a jethu, and a bhuli is the wife of a sau."
+"mWeZ","jethau",,"male speaker's wife's elder sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWeZ","paūnī",,"male speaker's wife's elder sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWyZ","sāi",,"male speaker's wife's younger sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHZ","jethau",,"male speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHZ","paūnī",,"male speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHZ","sāi",,"male speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHZ","jethau",,"female speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHZ","paūnī",,"female speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHZ","sāi",,"female speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWeZH","dad",,"male speaker's wife's elder sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWyZH","bhuiā",,"male speaker's wife's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHZH","dad",,"male speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHZH","bhuiā",,"male speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHZH","dad",,"female speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHZH","bhuiā",,"female speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHeB","jithānā",,"female speaker's husband's elder brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHyB","dyor",,"female speaker's husband's younger brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFBS","jithānā",,"female speaker's husband's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFBS","dyor",,"female speaker's husband's father's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMBS","jithānā",,"female speaker's husband's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMBS","dyor",,"female speaker's husband's mother's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZS","jithānā",,"female speaker's husband's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZS","dyor",,"female speaker's husband's father's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMZS","jithānā",,"female speaker's husband's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMZS","dyor",,"female speaker's husband's mother's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHeBW","jithānī",,"female speaker's husband's elder brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHyBW","dyorānī",,"female speaker's husband's younger brother's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFBSW","jithānī",,"female speaker's husband's father's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFBSW","dyorānī",,"female speaker's husband's father's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMBSW","jithānī",,"female speaker's husband's mother's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMBSW","dyorānī",,"female speaker's husband's mother's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZSW","jithānī",,"female speaker's husband's father's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZSW","dyorānī",,"female speaker's husband's father's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMZSW","jithānī",,"female speaker's husband's mother's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMZSW","dyorānī",,"female speaker's husband's mother's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHeZ","paūnī",,"female speaker's husband's elder sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHyZ","nand",,"female speaker's husband's younger sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHMBD","paūnī",,"female speaker's husband's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMBD","nand",,"female speaker's husband's mother's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFBD","paūnī",,"female speaker's husband's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFBD","nand",,"female speaker's husband's father's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMZD","paūnī",,"female speaker's husband's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHMZD","nand",,"female speaker's husband's mother's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZD","paūnī",,"female speaker's husband's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZD","nand",,"female speaker's husband's father's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fZHZ","paūnī",,"female speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fZHZ","nand",,"female speaker's sister's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHFZ","paūnī",,"female speaker's husband's father's sister",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fHeZH","dad",,"female speaker's husband's elder sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHyZH","bhuiā",,"female speaker's husband's younger sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHFZH","dad",,"female speaker's husband's father's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fZHZH","dad",,"female speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"fZHZH","bhuiā",,"female speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"mZHZH","dad",,"male speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"mZHZH","bhuiā",,"male speaker's sister's husband's sister's husband",,,"Godelier_Trautmann_TjonSieFat_1998","ambiguity of age terms and relation to ego/egos affines/relation again. Please see the source for more information."
+"mBWF","samdi",,"male speaker's younger brother's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fBWF","samdi",,"female speaker's younger brother's wife's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHF","samdi",,"male speaker's younger sister's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHF","samdi",,"female speaker's younger sister's husband's father",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mBWM","samdyani",,"male speaker's younger brother's wife's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fBWM","samdyani",,"female speaker's younger brother's wife's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZHM","samdyani",,"male speaker's younger sister's husband's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZHM","samdyani",,"female speaker's younger sister's husband's mother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWZS","cyal",,"male speaker's wife's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHBS","cyal",,"female speaker's husband's brother's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWZD","celi",,"male speaker's wife's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWBD","sāi",,"male speaker's wife's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHBD","celi",,"female speaker's husband's brother's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHZD","bhānji",,"female speaker's husband's sister's daughter",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHZS","bhānja",,"female speaker's husband's sister's son",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSWB","javaī",,"female speaker's son's wife's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSWB","javaī",,"male speaker's son's wife's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDHB","javaī",,"female speaker's daughter's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDHB","javaī",,"male speaker's daughter's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fyZHB","javaī",,"female speaker's sister's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"myZHB","javaī",,"male speaker's sister's husband's brother",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSWZ","bvāri",,"female speaker's son's wife's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSWZ","bvāri",,"male speaker's son's wife's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDHZ","bvāri",,"female speaker's daughter's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDHZ","bvāri",,"male speaker's daughter's husband's sister",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mBDH","javaī",,"male speaker's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWZDH","javaī",,"male speaker's wife's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZDH","javaī",,"female speaker's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHBDH","javaī",,"female speaker's sister's husband's brother's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZDH","javaī",,"male speaker's sister's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSDH","javaī",,"female speaker's son's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDDH","javaī",,"female speaker's daughter's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSDH","javaī",,"male speaker's son's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDDH","javaī",,"male speaker's daughter's daughter's husband",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mBSW","bvāri",,"male speaker's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mWZSW","bvāri",,"male speaker's wife's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fZSW","bvāri",,"female speaker's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fHBSW","bvāri",,"female speaker's husband's brother's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mZSW","bvāri",,"male speaker's sister's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mSSW","bvāri",,"male speaker's son's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"mDSW","bvāri",,"male speaker's daughter's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fSSW","bvāri",,"female speaker's son's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""
+"fDSW","bvāri",,"female speaker's daughter's son's wife",,,"Godelier_Trautmann_TjonSieFat_1998",""

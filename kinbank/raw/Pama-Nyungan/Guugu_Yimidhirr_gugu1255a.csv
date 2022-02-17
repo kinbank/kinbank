@@ -1,113 +1,113 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,yaba,,male ego's older brother,,,,
-myB,gaarga,,male ego's younger brother,,,,
-feB,yaba,,female ego's older brother,,,,
-fyB,gaarga,,female ego's younger brother,,,,
-meZ,gaanhaal,,male ego's older sister,,,,
-myZ,jin-gurr,,male ego's younger sister,,,,
-feZ,gaanhaal,,female ego's older sister,,,,
-fyZ,jin-gurr,,female ego's younger sister,,,,
-mF,"biiba, bobaa",,male ego's father,,,,
-mM,ngamu,,male ego's mother,,,,
-fF,"biiba, bobaa",,female ego's father,,,,
-fM,ngamu,,female ego's mother,,,,
-mS,yumurr,,male ego's son,,,,
-fS,juway,,female ego's son,,,,
-mD,yumurr,,male ego's daughter,,,,
-fD,nguuthuurr,,female ego's daughter,,,,
-mSS,gaminhtharr,,male ego's son's son,,,,
-mSD,gaminhtharr,,male ego's son's daughter,,,,
-mDS,ngadinil,,male ego's daughter's son,,,,
-mDD,ngadinil,,male ego's daughter's daughter,,,,
-fSS,ngadinil,,female ego's son's son,,,,
-fSD,ngadinil,,female ego's son's daughter,,,,
-fDS,gaminhtharr,,female ego's daughter's son,,,,
-fDD,gaminhtharr,,female ego's daugher's daughter,,,,
-mFF,gami,,male ego's father‘s father,,,,
-mFM,babi,,male ego's father's mother,,,,
-mMF,ngathi,,male ego's mother's father,,,,
-mMM,gami,,male ego's mother's mother,,,,
-fFF,gami,,female ego's father's father,,,,
-fFM,babi,,female ego's father's mother,,,,
-fMF,ngathi,,female ego's mother's father,,,,
-fMM,gami,,female ego's mother's mother,,,,
-meBS,yumurr,,male ego's older brother's son,,,,
-myBS,mugagay,,male ego's younger brother's son,,,,
-meZS,mugur,,male ego's older sister's son,,,,
-myZS,mugagay,,male ego's younger sister's son,,,,
-meBD,yumurr,,male ego's older brother's daughter,,,,
-myBD,mugagay,,male ego's younger brother's daughter,,,,
-meZD,nguuthuurr,,male ego's older sister's daughter,,,,
-myZD,mugagay,,male ego's younger sister's daughter,,,,
-feBS,yumurr,,female ego's older brother's son,,,,
-fyBS,mugagay,,female ego's younger brother's son,,,,
-feZS,juway,,female ego's older sister's son,,,,
-fyZS,mugagay,,female ego's younger sister's son,,,,
-feBD,yumurr,,female ego's older brother's daughter,,,,
-fyBD,mugagay,,female ego's younger brother's daughter,,,,
-feZD,nguuthuurr,,female ego's older sister's daughter,,,,
-fyZD,mugagay,,female ego's younger sister's daughter,,,,
-mFeB,mugagay,,male ego's father's older brother,,,,
-mFyB,"biiba, bobaa",,male ego's father's younger brother,,,,
-mFeZ,mugagay,,male ego's father's older sister,,,,
-mFyZ,biimuur,,male ego's father's younger sister,,,,
-mMeB,mugagay,,male ego's mother's older brother,,,,
-mMyB,mugur,,male ego's mother's younger brother,,,,
-mMeZ,mugagay,,male ego's mother's older sister,,,,
-mMyZ,ngamu,,male ego's mother's younger sister,,,,
-fFeB,mugagay,,female ego's father's older brother,,,,
-fFyB,"biiba, bobaa",,female ego's father's younger brother,,,,
-fFeZ,mugagay,,female ego's father's older sister,,,,
-fFyZ,biimuur,,female ego's father's younger sister,,,,
-fMeB,mugagay,,female ego's mother's older brother,,,,
-fMyB,mugur,,female ego's mother's younger brother,,,,
-fMeZ,mugagay,,female ego's mother's older sister,,,,
-fMyZ,ngamu,,female ego's mother's younger sister,,,,
-mW,jirral,,male ego's wife,,,,
-fH,dunhu,,female ego‘s husband,,,,
-mDH,ngalaathin,,male ego's daughter's husband,,,,
-fDH,biijirr,,female ego's daughter's husband,,,,
-mSW,ngiithithi,,male ego's son's wife,,,,
-fSW,"yumurr, biijirr",,female ego's son's wife,,,,
-mWF,ngathiina,,male ego's wife's father,,,,
-mWM,biwul,,male ego's wife's mother,,,,
-mWB,gaanyil,,male ego's wife's brother,,,,
-mWZ,jirral,,male ego's wife's sister,,,,
-fHF,mugagay,,female ego's husband's father,,,,
-fHM,biimuur,,female ego's husband's mother,,,,
-fHB,"juway, dunhu",,female ego's husband's brother,,,,"juway = female ego''s husband's elder brother, dunhu = female ego's husband's younger brother"
-fHZ,gaanyil,,female ego's husband's sister,,,,
-mBW,jirral,,male ego's brother's wife,,,,
-mZH,dunhu,,male ego's sister's husband,,,,
-mFeBS,yaba,,male ego's father‘s older brother‘s son,,,,
-mFyBS,gaarga,,male ego‘s father‘s younger brother‘s son,,,,
-mFeZS,juway,,male ego's father‘s older sister‘s son,,,,
-mFyZS,juway,,male ego‘s father‘s younger sister‘s son,,,,
-mFeBD,gaanhaal,,male ego's father‘s older brother‘s daughter,,,,
-mFyBD,jin-gurr,,male ego‘s father‘s younger brother‘s daughter,,,,
-mFeZD,nguuthuurr,,male ego's father‘s older sister‘s daughter,,,,
-mFyZD,nguuthuurr,,male ego‘s father‘s younger sister‘s daughter,,,,
-mMeBS,mugur,,male ego's mother‘s older brother‘s son,,,,
-mMyBS,mugur,,male ego‘s mother‘s younger brother‘s son,,,,
-mMeZS,yaba,,male ego's mother‘s older sister‘s son,,,,
-mMyZS,gaarga,,male ego‘s mother‘s younger sister‘s son,,,,
-mMeBD,ngamu,,male ego's mother‘s older brother‘s daughter,,,,
-mMyBD,ngamu,,male ego‘s mother‘s younger brother‘s daughter,,,,
-mMeZD,gaanhaal,,male ego's mother‘s older sister‘s daughter,,,,
-mMyZD,jin-gurr,,male ego‘s mother‘s younger sister‘s daughter,,,,
-fFeBS,yaba,,female ego's father‘s older brother‘s son,,,,
-fFyBS,gaarga,,female ego‘s father‘s younger brother‘s son,,,,
-fFeZS,juway,,female ego's father‘s older sister‘s son,,,,
-fFyZS,juway,,female ego‘s father‘s younger sister‘s son,,,,
-fFeBD,gaanhaal,,female ego's father‘s older brother‘s daughter,,,,
-fFyBD,jin-gurr,,female ego‘s father‘s younger brother‘s daughter,,,,
-fFeZD,nguuthuurr,,female ego's father‘s older sister‘s daughter,,,,
-fFyZD,nguuthuurr,,female ego‘s father‘s younger sister‘s daughter,,,,
-fMeBS,mugur,,female ego's mother‘s older brother‘s son,,,,
-fMyBS,mugur,,female ego‘s mother‘s younger brother‘s son,,,,
-fMeZS,yaba,,female ego's mother‘s older sister‘s son,,,,
-fMyZS,gaarga,,female ego‘s mother‘s younger sister‘s son,,,,
-fMeBD,ngamu,,female ego's mother‘s older brother‘s daughter,,,,
-fMyBD,ngamu,,female ego‘s mother‘s younger brother‘s daughter,,,,
-fMeZD,gaanhaal,,female ego's mother‘s older sister‘s daughter,,,,
-fMyZD,jin-gurr,,female ego‘s mother‘s younger sister‘s daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","yaba",,"male ego's older brother",,,,""
+"myB","gaarga",,"male ego's younger brother",,,,""
+"feB","yaba",,"female ego's older brother",,,,""
+"fyB","gaarga",,"female ego's younger brother",,,,""
+"meZ","gaanhaal",,"male ego's older sister",,,,""
+"myZ","jin-gurr",,"male ego's younger sister",,,,""
+"feZ","gaanhaal",,"female ego's older sister",,,,""
+"fyZ","jin-gurr",,"female ego's younger sister",,,,""
+"mF","biiba, bobaa",,"male ego's father",,,,""
+"mM","ngamu",,"male ego's mother",,,,""
+"fF","biiba, bobaa",,"female ego's father",,,,""
+"fM","ngamu",,"female ego's mother",,,,""
+"mS","yumurr",,"male ego's son",,,,""
+"fS","juway",,"female ego's son",,,,""
+"mD","yumurr",,"male ego's daughter",,,,""
+"fD","nguuthuurr",,"female ego's daughter",,,,""
+"mSS","gaminhtharr",,"male ego's son's son",,,,""
+"mSD","gaminhtharr",,"male ego's son's daughter",,,,""
+"mDS","ngadinil",,"male ego's daughter's son",,,,""
+"mDD","ngadinil",,"male ego's daughter's daughter",,,,""
+"fSS","ngadinil",,"female ego's son's son",,,,""
+"fSD","ngadinil",,"female ego's son's daughter",,,,""
+"fDS","gaminhtharr",,"female ego's daughter's son",,,,""
+"fDD","gaminhtharr",,"female ego's daugher's daughter",,,,""
+"mFF","gami",,"male ego's father‘s father",,,,""
+"mFM","babi",,"male ego's father's mother",,,,""
+"mMF","ngathi",,"male ego's mother's father",,,,""
+"mMM","gami",,"male ego's mother's mother",,,,""
+"fFF","gami",,"female ego's father's father",,,,""
+"fFM","babi",,"female ego's father's mother",,,,""
+"fMF","ngathi",,"female ego's mother's father",,,,""
+"fMM","gami",,"female ego's mother's mother",,,,""
+"meBS","yumurr",,"male ego's older brother's son",,,,""
+"myBS","mugagay",,"male ego's younger brother's son",,,,""
+"meZS","mugur",,"male ego's older sister's son",,,,""
+"myZS","mugagay",,"male ego's younger sister's son",,,,""
+"meBD","yumurr",,"male ego's older brother's daughter",,,,""
+"myBD","mugagay",,"male ego's younger brother's daughter",,,,""
+"meZD","nguuthuurr",,"male ego's older sister's daughter",,,,""
+"myZD","mugagay",,"male ego's younger sister's daughter",,,,""
+"feBS","yumurr",,"female ego's older brother's son",,,,""
+"fyBS","mugagay",,"female ego's younger brother's son",,,,""
+"feZS","juway",,"female ego's older sister's son",,,,""
+"fyZS","mugagay",,"female ego's younger sister's son",,,,""
+"feBD","yumurr",,"female ego's older brother's daughter",,,,""
+"fyBD","mugagay",,"female ego's younger brother's daughter",,,,""
+"feZD","nguuthuurr",,"female ego's older sister's daughter",,,,""
+"fyZD","mugagay",,"female ego's younger sister's daughter",,,,""
+"mFeB","mugagay",,"male ego's father's older brother",,,,""
+"mFyB","biiba, bobaa",,"male ego's father's younger brother",,,,""
+"mFeZ","mugagay",,"male ego's father's older sister",,,,""
+"mFyZ","biimuur",,"male ego's father's younger sister",,,,""
+"mMeB","mugagay",,"male ego's mother's older brother",,,,""
+"mMyB","mugur",,"male ego's mother's younger brother",,,,""
+"mMeZ","mugagay",,"male ego's mother's older sister",,,,""
+"mMyZ","ngamu",,"male ego's mother's younger sister",,,,""
+"fFeB","mugagay",,"female ego's father's older brother",,,,""
+"fFyB","biiba, bobaa",,"female ego's father's younger brother",,,,""
+"fFeZ","mugagay",,"female ego's father's older sister",,,,""
+"fFyZ","biimuur",,"female ego's father's younger sister",,,,""
+"fMeB","mugagay",,"female ego's mother's older brother",,,,""
+"fMyB","mugur",,"female ego's mother's younger brother",,,,""
+"fMeZ","mugagay",,"female ego's mother's older sister",,,,""
+"fMyZ","ngamu",,"female ego's mother's younger sister",,,,""
+"mW","jirral",,"male ego's wife",,,,""
+"fH","dunhu",,"female ego‘s husband",,,,""
+"mDH","ngalaathin",,"male ego's daughter's husband",,,,""
+"fDH","biijirr",,"female ego's daughter's husband",,,,""
+"mSW","ngiithithi",,"male ego's son's wife",,,,""
+"fSW","yumurr, biijirr",,"female ego's son's wife",,,,""
+"mWF","ngathiina",,"male ego's wife's father",,,,""
+"mWM","biwul",,"male ego's wife's mother",,,,""
+"mWB","gaanyil",,"male ego's wife's brother",,,,""
+"mWZ","jirral",,"male ego's wife's sister",,,,""
+"fHF","mugagay",,"female ego's husband's father",,,,""
+"fHM","biimuur",,"female ego's husband's mother",,,,""
+"fHB","juway, dunhu",,"female ego's husband's brother",,,,"juway = female ego''s husband's elder brother, dunhu = female ego's husband's younger brother"
+"fHZ","gaanyil",,"female ego's husband's sister",,,,""
+"mBW","jirral",,"male ego's brother's wife",,,,""
+"mZH","dunhu",,"male ego's sister's husband",,,,""
+"mFeBS","yaba",,"male ego's father‘s older brother‘s son",,,,""
+"mFyBS","gaarga",,"male ego‘s father‘s younger brother‘s son",,,,""
+"mFeZS","juway",,"male ego's father‘s older sister‘s son",,,,""
+"mFyZS","juway",,"male ego‘s father‘s younger sister‘s son",,,,""
+"mFeBD","gaanhaal",,"male ego's father‘s older brother‘s daughter",,,,""
+"mFyBD","jin-gurr",,"male ego‘s father‘s younger brother‘s daughter",,,,""
+"mFeZD","nguuthuurr",,"male ego's father‘s older sister‘s daughter",,,,""
+"mFyZD","nguuthuurr",,"male ego‘s father‘s younger sister‘s daughter",,,,""
+"mMeBS","mugur",,"male ego's mother‘s older brother‘s son",,,,""
+"mMyBS","mugur",,"male ego‘s mother‘s younger brother‘s son",,,,""
+"mMeZS","yaba",,"male ego's mother‘s older sister‘s son",,,,""
+"mMyZS","gaarga",,"male ego‘s mother‘s younger sister‘s son",,,,""
+"mMeBD","ngamu",,"male ego's mother‘s older brother‘s daughter",,,,""
+"mMyBD","ngamu",,"male ego‘s mother‘s younger brother‘s daughter",,,,""
+"mMeZD","gaanhaal",,"male ego's mother‘s older sister‘s daughter",,,,""
+"mMyZD","jin-gurr",,"male ego‘s mother‘s younger sister‘s daughter",,,,""
+"fFeBS","yaba",,"female ego's father‘s older brother‘s son",,,,""
+"fFyBS","gaarga",,"female ego‘s father‘s younger brother‘s son",,,,""
+"fFeZS","juway",,"female ego's father‘s older sister‘s son",,,,""
+"fFyZS","juway",,"female ego‘s father‘s younger sister‘s son",,,,""
+"fFeBD","gaanhaal",,"female ego's father‘s older brother‘s daughter",,,,""
+"fFyBD","jin-gurr",,"female ego‘s father‘s younger brother‘s daughter",,,,""
+"fFeZD","nguuthuurr",,"female ego's father‘s older sister‘s daughter",,,,""
+"fFyZD","nguuthuurr",,"female ego‘s father‘s younger sister‘s daughter",,,,""
+"fMeBS","mugur",,"female ego's mother‘s older brother‘s son",,,,""
+"fMyBS","mugur",,"female ego‘s mother‘s younger brother‘s son",,,,""
+"fMeZS","yaba",,"female ego's mother‘s older sister‘s son",,,,""
+"fMyZS","gaarga",,"female ego‘s mother‘s younger sister‘s son",,,,""
+"fMeBD","ngamu",,"female ego's mother‘s older brother‘s daughter",,,,""
+"fMyBD","ngamu",,"female ego‘s mother‘s younger brother‘s daughter",,,,""
+"fMeZD","gaanhaal",,"female ego's mother‘s older sister‘s daughter",,,,""
+"fMyZD","jin-gurr",,"female ego‘s mother‘s younger sister‘s daughter",,,,""

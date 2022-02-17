@@ -1,111 +1,111 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tuakana,,male ego's older brother,,,,
-myB,teina,,male ego's younger brother,,,,
-feB,tungaane,,female ego's older brother,,,,
-fyB,tungaane,,female ego's younger brother,,,,
-meZ,tuahine,,male ego's older sister,,,,
-myZ,tuahine,,male ego's younger sister,,,,
-feZ,tuakana,,female ego's older sister,,,,
-fyZ,teina,,female ego's younger sister,,,,
-mF,matua,,male ego's father,,,,
-mM,"matua wahine, whaea",,male ego's mother,,,,matua wahine is formal
-fF,matua,,female ego's father,,,,
-fM,"matua wahine, whaea",,female ego's mother,,,,matua wahine is formal
-mS,tama,,male ego's son,,,,
-fS,tama,,female ego's son,,,,
-mD,"tamaahine, kootiro",,male ego's daughter,,,,tamaahine is formal
-fD,"tamaahine, kootiro",,female ego's daughter,,,,tamaahine is formal
-mSS,mokopuna,,male ego's son's son,,,,
-mSD,mokopuna,,male ego's son's daughter,,,,
-mDS,mokopuna,,male ego's daughter's son,,,,
-mDD,mokopuna,,male ego's daughter's daughter,,,,
-fSS,mokopuna,,female ego's son's son,,,,
-fSD,mokopuna,,female ego's son's daughter,,,,
-fDS,mokopuna,,female ego's daughter's son,,,,
-fDD,mokopuna,,female ego's daugher's daughter,,,,
-mFF,"tipuna, tupuna matua",,male ego's father‘s father,,,,
-mFM,"tipuna, tupuna matua",,male ego's father's mother,,,,
-mMF,"tipuna, tupuna matua",,male ego's mother's father,,,,
-mMM,"tipuna, tupuna matua",,male ego's mother's mother,,,,
-fFF,"tipuna, tupuna matua",,female ego's father's father,,,,
-fFM,"tipuna, tupuna matua",,female ego's father's mother,,,,
-fMF,"tipuna, tupuna matua",,female ego's mother's father,,,,
-fMM,"tipuna, tupuna matua",,female ego's mother's mother,,,,
-meBS,iraamutu,,male ego's older brother's son,,,,
-myBS,iraamutu,,male ego's younger brother's son,,,,
-meZS,iraamutu,,male ego's older sister's son,,,,
-myZS,iraamutu,,male ego's younger sister's son,,,,
-meBD,iraamutu,,male ego's older brother's daughter,,,,
-myBD,iraamutu,,male ego's younger brother's daughter,,,,
-meZD,iraamutu,,male ego's older sister's daughter,,,,
-myZD,iraamutu,,male ego's younger sister's daughter,,,,
-feBS,iraamutu,,female ego's older brother's son,,,,
-fyBS,iraamutu,,female ego's younger brother's son,,,,
-feZS,iraamutu,,female ego's older sister's son,,,,
-fyZS,iraamutu,,female ego's younger sister's son,,,,
-feBD,iraamutu,,female ego's older brother's daughter,,,,
-fyBD,iraamutu,,female ego's younger brother's daughter,,,,
-feZD,iraamutu,,female ego's older sister's daughter,,,,
-fyZD,iraamutu,,female ego's younger sister's daughter,,,,
-mFeB,"matua, matua keekee, matakeekee",,male ego's father's older brother,,,,"matua keekee, matakeekee"
-mFyB,"matua, matua keekee, matakeekee",,male ego's father's younger brother,,,,
-mFeZ,"whaea, matua keekee, matakeekee",,male ego's father's older sister,,,,
-mFyZ,"whaea, matua keekee, matakeekee",,male ego's father's younger sister,,,,
-mMeB,"matua, matua keekee, matakeekee",,male ego's mother's older brother,,,,
-mMyB,"matua, matua keekee, matakeekee",,male ego's mother's younger brother,,,,
-mMeZ,"whaea, matua keekee, matakeekee",,male ego's mother's older sister,,,,
-mMyZ,"whaea, matua keekee, matakeekee",,male ego's mother's younger sister,,,,
-fFeB,"matua, matua keekee, matakeekee",,female ego's father's older brother,,,,
-fFyB,"matua, matua keekee, matakeekee",,female ego's father's younger brother,,,,
-fFeZ,"whaea, matua keekee, matakeekee",,female ego's father's older sister,,,,
-fFyZ,"whaea, matua keekee, matakeekee",,female ego's father's younger sister,,,,
-fMeB,"matua, matua keekee, matakeekee",,female ego's mother's older brother,,,,
-fMyB,"matua, matua keekee, matakeekee",,female ego's mother's younger brother,,,,
-fMeZ,"whaea, matua keekee, matakeekee",,female ego's mother's older sister,,,,
-fMyZ,"whaea, matua keekee, matakeekee",,female ego's mother's younger sister,,,,
-mW,"wahine, hoa",,male ego's wife,,,,
-fH,"taane, hoa",,female ego‘s husband,,,,
-mWF,hungawai,,male ego's wife's father,,,,
-mWM,hungawai,,male ego's wife's mother,,,,
-mWB,taokete,,male ego's wife's brother,,,,
-mWZ,auwahine,,male ego's wife's sister,,,,
-fHF,hungawai,,female ego's husband's father,,,,
-fHM,hungawai,,female ego's husband's mother,,,,
-fHB,autaane,,female ego's husband's brother,,,,
-fHZ,taokete,,female ego's husband's sister,,,,
-mBW,auwahine,,male ego's brother's wife,,,,
-fBW,taokete,,female ego's brother's wife,,,,
-mZH,taokete,,male ego's sister's husband,,,,
-fZH,autaane,,female ego's sister's husband,,,,
-mFeBS,tuakana,,male ego's father‘s older brother‘s son,,,,"Note: it appears that normally only the relative age of the cousin to ego matters, rather than the raltive age of parents (see Bauer, Parker and Evans 1993:571)"
-mFyBS,teina,,male ego‘s father‘s younger brother‘s son,,,,
-mFeZS,tuakana,,male ego's father‘s older sister‘s son,,,,
-mFyZS,teina,,male ego‘s father‘s younger sister‘s son,,,,
-mFeBD,tuahine,,male ego's father‘s older brother‘s daughter,,,,
-mFyBD,tuahine,,male ego‘s father‘s younger brother‘s daughter,,,,
-mFeZD,tuahine,,male ego's father‘s older sister‘s daughter,,,,
-mFyZD,tuahine,,male ego‘s father‘s younger sister‘s daughter,,,,
-mMeBS,tuakana,,male ego's mother‘s older brother‘s son,,,,
-mMyBS,teina,,male ego‘s mother‘s younger brother‘s son,,,,
-mMeZS,tuakana,,male ego's mother‘s older sister‘s son,,,,
-mMyZS,teina,,male ego‘s mother‘s younger sister‘s son,,,,
-mMeBD,tuahine,,male ego's mother‘s older brother‘s daughter,,,,
-mMyBD,tuahine,,male ego‘s mother‘s younger brother‘s daughter,,,,
-mMeZD,tuahine,,male ego's mother‘s older sister‘s daughter,,,,
-mMyZD,tuahine,,male ego‘s mother‘s younger sister‘s daughter,,,,
-fFeBS,tungaane,,female ego's father‘s older brother‘s son,,,,
-fFyBS,tungaane,,female ego‘s father‘s younger brother‘s son,,,,
-fFeZS,tungaane,,female ego's father‘s older sister‘s son,,,,
-fFyZS,tungaane,,female ego‘s father‘s younger sister‘s son,,,,
-fFeBD,tuakana,,female ego's father‘s older brother‘s daughter,,,,
-fFyBD,teina,,female ego‘s father‘s younger brother‘s daughter,,,,
-fFeZD,tuakana,,female ego's father‘s older sister‘s daughter,,,,
-fFyZD,teina,,female ego‘s father‘s younger sister‘s daughter,,,,
-fMeBS,tungaane,,female ego's mother‘s older brother‘s son,,,,
-fMyBS,tungaane,,female ego‘s mother‘s younger brother‘s son,,,,
-fMeZS,tungaane,,female ego's mother‘s older sister‘s son,,,,
-fMyZS,tungaane,,female ego‘s mother‘s younger sister‘s son,,,,
-fMeBD,tuakana,,female ego's mother‘s older brother‘s daughter,,,,
-fMyBD,teina,,female ego‘s mother‘s younger brother‘s daughter,,,,
-fMeZD,tuakana,,female ego's mother‘s older sister‘s daughter,,,,
-fMyZD,teina,,female ego‘s mother‘s younger sister‘s daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tuakana",,"male ego's older brother",,,,""
+"myB","teina",,"male ego's younger brother",,,,""
+"feB","tungaane",,"female ego's older brother",,,,""
+"fyB","tungaane",,"female ego's younger brother",,,,""
+"meZ","tuahine",,"male ego's older sister",,,,""
+"myZ","tuahine",,"male ego's younger sister",,,,""
+"feZ","tuakana",,"female ego's older sister",,,,""
+"fyZ","teina",,"female ego's younger sister",,,,""
+"mF","matua",,"male ego's father",,,,""
+"mM","matua wahine, whaea",,"male ego's mother",,,,"matua wahine is formal"
+"fF","matua",,"female ego's father",,,,""
+"fM","matua wahine, whaea",,"female ego's mother",,,,"matua wahine is formal"
+"mS","tama",,"male ego's son",,,,""
+"fS","tama",,"female ego's son",,,,""
+"mD","tamaahine, kootiro",,"male ego's daughter",,,,"tamaahine is formal"
+"fD","tamaahine, kootiro",,"female ego's daughter",,,,"tamaahine is formal"
+"mSS","mokopuna",,"male ego's son's son",,,,""
+"mSD","mokopuna",,"male ego's son's daughter",,,,""
+"mDS","mokopuna",,"male ego's daughter's son",,,,""
+"mDD","mokopuna",,"male ego's daughter's daughter",,,,""
+"fSS","mokopuna",,"female ego's son's son",,,,""
+"fSD","mokopuna",,"female ego's son's daughter",,,,""
+"fDS","mokopuna",,"female ego's daughter's son",,,,""
+"fDD","mokopuna",,"female ego's daugher's daughter",,,,""
+"mFF","tipuna, tupuna matua",,"male ego's father‘s father",,,,""
+"mFM","tipuna, tupuna matua",,"male ego's father's mother",,,,""
+"mMF","tipuna, tupuna matua",,"male ego's mother's father",,,,""
+"mMM","tipuna, tupuna matua",,"male ego's mother's mother",,,,""
+"fFF","tipuna, tupuna matua",,"female ego's father's father",,,,""
+"fFM","tipuna, tupuna matua",,"female ego's father's mother",,,,""
+"fMF","tipuna, tupuna matua",,"female ego's mother's father",,,,""
+"fMM","tipuna, tupuna matua",,"female ego's mother's mother",,,,""
+"meBS","iraamutu",,"male ego's older brother's son",,,,""
+"myBS","iraamutu",,"male ego's younger brother's son",,,,""
+"meZS","iraamutu",,"male ego's older sister's son",,,,""
+"myZS","iraamutu",,"male ego's younger sister's son",,,,""
+"meBD","iraamutu",,"male ego's older brother's daughter",,,,""
+"myBD","iraamutu",,"male ego's younger brother's daughter",,,,""
+"meZD","iraamutu",,"male ego's older sister's daughter",,,,""
+"myZD","iraamutu",,"male ego's younger sister's daughter",,,,""
+"feBS","iraamutu",,"female ego's older brother's son",,,,""
+"fyBS","iraamutu",,"female ego's younger brother's son",,,,""
+"feZS","iraamutu",,"female ego's older sister's son",,,,""
+"fyZS","iraamutu",,"female ego's younger sister's son",,,,""
+"feBD","iraamutu",,"female ego's older brother's daughter",,,,""
+"fyBD","iraamutu",,"female ego's younger brother's daughter",,,,""
+"feZD","iraamutu",,"female ego's older sister's daughter",,,,""
+"fyZD","iraamutu",,"female ego's younger sister's daughter",,,,""
+"mFeB","matua, matua keekee, matakeekee",,"male ego's father's older brother",,,,"matua keekee, matakeekee"
+"mFyB","matua, matua keekee, matakeekee",,"male ego's father's younger brother",,,,""
+"mFeZ","whaea, matua keekee, matakeekee",,"male ego's father's older sister",,,,""
+"mFyZ","whaea, matua keekee, matakeekee",,"male ego's father's younger sister",,,,""
+"mMeB","matua, matua keekee, matakeekee",,"male ego's mother's older brother",,,,""
+"mMyB","matua, matua keekee, matakeekee",,"male ego's mother's younger brother",,,,""
+"mMeZ","whaea, matua keekee, matakeekee",,"male ego's mother's older sister",,,,""
+"mMyZ","whaea, matua keekee, matakeekee",,"male ego's mother's younger sister",,,,""
+"fFeB","matua, matua keekee, matakeekee",,"female ego's father's older brother",,,,""
+"fFyB","matua, matua keekee, matakeekee",,"female ego's father's younger brother",,,,""
+"fFeZ","whaea, matua keekee, matakeekee",,"female ego's father's older sister",,,,""
+"fFyZ","whaea, matua keekee, matakeekee",,"female ego's father's younger sister",,,,""
+"fMeB","matua, matua keekee, matakeekee",,"female ego's mother's older brother",,,,""
+"fMyB","matua, matua keekee, matakeekee",,"female ego's mother's younger brother",,,,""
+"fMeZ","whaea, matua keekee, matakeekee",,"female ego's mother's older sister",,,,""
+"fMyZ","whaea, matua keekee, matakeekee",,"female ego's mother's younger sister",,,,""
+"mW","wahine, hoa",,"male ego's wife",,,,""
+"fH","taane, hoa",,"female ego‘s husband",,,,""
+"mWF","hungawai",,"male ego's wife's father",,,,""
+"mWM","hungawai",,"male ego's wife's mother",,,,""
+"mWB","taokete",,"male ego's wife's brother",,,,""
+"mWZ","auwahine",,"male ego's wife's sister",,,,""
+"fHF","hungawai",,"female ego's husband's father",,,,""
+"fHM","hungawai",,"female ego's husband's mother",,,,""
+"fHB","autaane",,"female ego's husband's brother",,,,""
+"fHZ","taokete",,"female ego's husband's sister",,,,""
+"mBW","auwahine",,"male ego's brother's wife",,,,""
+"fBW","taokete",,"female ego's brother's wife",,,,""
+"mZH","taokete",,"male ego's sister's husband",,,,""
+"fZH","autaane",,"female ego's sister's husband",,,,""
+"mFeBS","tuakana",,"male ego's father‘s older brother‘s son",,,,"Note: it appears that normally only the relative age of the cousin to ego matters, rather than the raltive age of parents (see Bauer, Parker and Evans 1993:571)"
+"mFyBS","teina",,"male ego‘s father‘s younger brother‘s son",,,,""
+"mFeZS","tuakana",,"male ego's father‘s older sister‘s son",,,,""
+"mFyZS","teina",,"male ego‘s father‘s younger sister‘s son",,,,""
+"mFeBD","tuahine",,"male ego's father‘s older brother‘s daughter",,,,""
+"mFyBD","tuahine",,"male ego‘s father‘s younger brother‘s daughter",,,,""
+"mFeZD","tuahine",,"male ego's father‘s older sister‘s daughter",,,,""
+"mFyZD","tuahine",,"male ego‘s father‘s younger sister‘s daughter",,,,""
+"mMeBS","tuakana",,"male ego's mother‘s older brother‘s son",,,,""
+"mMyBS","teina",,"male ego‘s mother‘s younger brother‘s son",,,,""
+"mMeZS","tuakana",,"male ego's mother‘s older sister‘s son",,,,""
+"mMyZS","teina",,"male ego‘s mother‘s younger sister‘s son",,,,""
+"mMeBD","tuahine",,"male ego's mother‘s older brother‘s daughter",,,,""
+"mMyBD","tuahine",,"male ego‘s mother‘s younger brother‘s daughter",,,,""
+"mMeZD","tuahine",,"male ego's mother‘s older sister‘s daughter",,,,""
+"mMyZD","tuahine",,"male ego‘s mother‘s younger sister‘s daughter",,,,""
+"fFeBS","tungaane",,"female ego's father‘s older brother‘s son",,,,""
+"fFyBS","tungaane",,"female ego‘s father‘s younger brother‘s son",,,,""
+"fFeZS","tungaane",,"female ego's father‘s older sister‘s son",,,,""
+"fFyZS","tungaane",,"female ego‘s father‘s younger sister‘s son",,,,""
+"fFeBD","tuakana",,"female ego's father‘s older brother‘s daughter",,,,""
+"fFyBD","teina",,"female ego‘s father‘s younger brother‘s daughter",,,,""
+"fFeZD","tuakana",,"female ego's father‘s older sister‘s daughter",,,,""
+"fFyZD","teina",,"female ego‘s father‘s younger sister‘s daughter",,,,""
+"fMeBS","tungaane",,"female ego's mother‘s older brother‘s son",,,,""
+"fMyBS","tungaane",,"female ego‘s mother‘s younger brother‘s son",,,,""
+"fMeZS","tungaane",,"female ego's mother‘s older sister‘s son",,,,""
+"fMyZS","tungaane",,"female ego‘s mother‘s younger sister‘s son",,,,""
+"fMeBD","tuakana",,"female ego's mother‘s older brother‘s daughter",,,,""
+"fMyBD","teina",,"female ego‘s mother‘s younger brother‘s daughter",,,,""
+"fMeZD","tuakana",,"female ego's mother‘s older sister‘s daughter",,,,""
+"fMyZD","teina",,"female ego‘s mother‘s younger sister‘s daughter",,,,""

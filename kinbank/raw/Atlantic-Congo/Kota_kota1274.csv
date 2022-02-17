@@ -1,67 +1,67 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,zimi,,,,AC7(140),mayer_histoire_2002,
-mZ,kadi,,,,AC7(140),mayer_histoire_2002,
-meB,mbomo,,,,AC7(122),mayer_histoire_2002,
-myB,zimi,,,,AC7(122),mayer_histoire_2002,
-meZ,kadji,,,,AC7(122),mayer_histoire_2002,
-myZ,kadji,,,,AC7(122),mayer_histoire_2002,
-mF,hangwè,,,,AC7(108),mayer_histoire_2002,
-mM,nyangwè,,,,AC7(108),mayer_histoire_2002,
-mS,mwana,,,,AC7(140),mayer_histoire_2002,
-mPP,koko,,,,AC7(140),mayer_histoire_2002,
-mFF,koko,,,,AC7(140),mayer_histoire_2002,
-mFM,koko,,,,AC7(140),mayer_histoire_2002,
-mMF,koko,,,,AC7(140),mayer_histoire_2002,
-mMM,koko,,,,AC7(140),mayer_histoire_2002,
-mSD,n'ntekulu,,,,AC7(140),mayer_histoire_2002,
-mDS,n'ntekulu,,,,AC7(140),mayer_histoire_2002,
-mFB,hangwè,,,,AC7(108),mayer_histoire_2002,
-mMB,lawu,,,láû,AC7(140),mayer_histoire_2002,
-mMZ,nyangwè,,,,AC7(108),mayer_histoire_2002,
-mFZD,mamà,,,,AC7(140),mayer_histoire_2002,
-mFBD,kadi,,,,AC7(140),mayer_histoire_2002,
-mFBS,mbomo,,,,AC7(140),mayer_histoire_2002,
-mFZS,hangwé,,,,AC7(140),mayer_histoire_2002,
-mMBS,mwana,,,,AC7(140),mayer_histoire_2002,
-mFeB,hangwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
-mFyB,hangwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
-mMeZ,nyangwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
-mMyZ,nyangwè,,,,AC7(108),mayer_histoire_2002,Inferred; NA
-mMeB,lawu,,,láû,AC7(140),mayer_histoire_2002,Inferred; NA
-mMyB,lawu,,,láû,AC7(140),mayer_histoire_2002,Inferred; NA
-mFeBS,mbomo,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFyBS,mbomo,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFeZS,hangwé,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFyZS,hangwé,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFeBD,kadi,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFyBD,kadi,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFeZD,mamà,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFyZD,mamà,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mMeBS,mwana,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mMyBS,mwana,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFBeS,mbomo,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFByS,mbomo,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFZeS,hangwé,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFZyS,hangwé,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFBeD,kadi,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFByD,kadi,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFZeD,mamà,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mFZyD,mamà,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mMBeS,mwana,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-mMByS,mwana,,,,AC7(140),mayer_histoire_2002,Inferred; NA
-feB,ndomi,,,,AC7(122),mayer_histoire_2002,
-fyB,ndomi,,,,AC7(122),mayer_histoire_2002,
-feZ,mbomo,,,,AC7(122),mayer_histoire_2002,
-fyZ,zimi,,,,AC7(122),mayer_histoire_2002,
-mZ,kádʒì,,,,AC31(35),piron_elements_1990,
-mC,paka,,,,AC31(194),piron_elements_1990,
-mFZ,màmá,,,,AC31(194),piron_elements_1990,
-mMZ,màmá,,,,AC31(194),piron_elements_1990,
-mW,ádí,,,,AC31(186),piron_elements_1990,
-mWF,tjíò,,,,AC31(182),piron_elements_1990,
-mFeZ,màmá,,,,AC31(194),piron_elements_1990,Inferred; NA
-mFyZ,màmá,,,,AC31(194),piron_elements_1990,Inferred; NA
-mMeZ,màmá,,,,AC31(194),piron_elements_1990,Inferred; NA
-mMyZ,màmá,,,,AC31(194),piron_elements_1990,Inferred; NA
-fH,múmì,,,,AC31(188),piron_elements_1990,
-fHF,tjíò,,,,AC31(182),piron_elements_1990,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","zimi",,,"","AC7(140)","mayer_histoire_2002",""
+"mZ","kadi",,,"","AC7(140)","mayer_histoire_2002",""
+"meB","mbomo",,,"","AC7(122)","mayer_histoire_2002",""
+"myB","zimi",,,"","AC7(122)","mayer_histoire_2002",""
+"meZ","kadji",,,"","AC7(122)","mayer_histoire_2002",""
+"myZ","kadji",,,"","AC7(122)","mayer_histoire_2002",""
+"mF","hangwè",,,"","AC7(108)","mayer_histoire_2002",""
+"mM","nyangwè",,,"","AC7(108)","mayer_histoire_2002",""
+"mS","mwana",,,"","AC7(140)","mayer_histoire_2002",""
+"mPP","koko",,,"","AC7(140)","mayer_histoire_2002",""
+"mFF","koko",,,"","AC7(140)","mayer_histoire_2002",""
+"mFM","koko",,,"","AC7(140)","mayer_histoire_2002",""
+"mMF","koko",,,"","AC7(140)","mayer_histoire_2002",""
+"mMM","koko",,,"","AC7(140)","mayer_histoire_2002",""
+"mSD","n'ntekulu",,,"","AC7(140)","mayer_histoire_2002",""
+"mDS","n'ntekulu",,,"","AC7(140)","mayer_histoire_2002",""
+"mFB","hangwè",,,"","AC7(108)","mayer_histoire_2002",""
+"mMB","lawu",,,"láû","AC7(140)","mayer_histoire_2002",""
+"mMZ","nyangwè",,,"","AC7(108)","mayer_histoire_2002",""
+"mFZD","mamà",,,"","AC7(140)","mayer_histoire_2002",""
+"mFBD","kadi",,,"","AC7(140)","mayer_histoire_2002",""
+"mFBS","mbomo",,,"","AC7(140)","mayer_histoire_2002",""
+"mFZS","hangwé",,,"","AC7(140)","mayer_histoire_2002",""
+"mMBS","mwana",,,"","AC7(140)","mayer_histoire_2002",""
+"mFeB","hangwè",,,"","AC7(108)","mayer_histoire_2002","Inferred; NA"
+"mFyB","hangwè",,,"","AC7(108)","mayer_histoire_2002","Inferred; NA"
+"mMeZ","nyangwè",,,"","AC7(108)","mayer_histoire_2002","Inferred; NA"
+"mMyZ","nyangwè",,,"","AC7(108)","mayer_histoire_2002","Inferred; NA"
+"mMeB","lawu",,,"láû","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mMyB","lawu",,,"láû","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFeBS","mbomo",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFyBS","mbomo",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFeZS","hangwé",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFyZS","hangwé",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFeBD","kadi",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFyBD","kadi",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFeZD","mamà",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFyZD","mamà",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mMeBS","mwana",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mMyBS","mwana",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFBeS","mbomo",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFByS","mbomo",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFZeS","hangwé",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFZyS","hangwé",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFBeD","kadi",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFByD","kadi",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFZeD","mamà",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mFZyD","mamà",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mMBeS","mwana",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"mMByS","mwana",,,"","AC7(140)","mayer_histoire_2002","Inferred; NA"
+"feB","ndomi",,,"","AC7(122)","mayer_histoire_2002",""
+"fyB","ndomi",,,"","AC7(122)","mayer_histoire_2002",""
+"feZ","mbomo",,,"","AC7(122)","mayer_histoire_2002",""
+"fyZ","zimi",,,"","AC7(122)","mayer_histoire_2002",""
+"mZ","kádʒì",,,"","AC31(35)","piron_elements_1990",""
+"mC","paka",,,"","AC31(194)","piron_elements_1990",""
+"mFZ","màmá",,,"","AC31(194)","piron_elements_1990",""
+"mMZ","màmá",,,"","AC31(194)","piron_elements_1990",""
+"mW","ádí",,,"","AC31(186)","piron_elements_1990",""
+"mWF","tjíò",,,"","AC31(182)","piron_elements_1990",""
+"mFeZ","màmá",,,"","AC31(194)","piron_elements_1990","Inferred; NA"
+"mFyZ","màmá",,,"","AC31(194)","piron_elements_1990","Inferred; NA"
+"mMeZ","màmá",,,"","AC31(194)","piron_elements_1990","Inferred; NA"
+"mMyZ","màmá",,,"","AC31(194)","piron_elements_1990","Inferred; NA"
+"fH","múmì",,,"","AC31(188)","piron_elements_1990",""
+"fHF","tjíò",,,"","AC31(182)","piron_elements_1990",""

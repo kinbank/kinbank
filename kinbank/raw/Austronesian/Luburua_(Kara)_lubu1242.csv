@@ -1,35 +1,67 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,palun,,male ego's older brother,,,,
-myB,palun,,male ego's younger brother,,,,
-feB,tinamean,,female ego's older brother,,,,
-fyB,tinamean,,female ego's younger brother,,,,
-meZ,"tinafin, tinamean",,male ego's older sister,,,,
-myZ,"tinafin, tinamean",,male ego's younger sister,,,,
-feZ,"palun, tinamean",,female ego's older sister,,,,
-fyZ,"palun, tinamean",,female ego's younger sister,,,,
-mF,tamang,,male ego's father,,,,
-mM,namg,,male ego's mother,,,,
-fF,tamang,,female ego's father,,,,
-fM,namg,,female ego's mother,,,,
-mS,natuk,,male ego's son,,,,
-fS,natuk,,female ego's son,,,,
-mFeZ,imuna,,male ego's father's older sister,,,,
-mFyZ,imuna,,male ego's father's younger sister,,,,
-fFeZ,imuna,,female ego's father's older sister,,,,
-fFyZ,imuna,,female ego's father's younger sister,,,,
-mWF,ifina,,male ego's wife's father,,,,
-mWM,imuna,,male ego's wife's mother,,,,
-fHF,inena,,female ego's husband's father,,,,
-fHM,inena,,female ego's husband's mother,,,,
-fHZ,ifandevin,,female ego's husband's sister,,,,
-fBW,ifandevin,,female ego's brother's wife,,,,
-mZH,ifina,,male ego's sister's husband,,,,
-fZH,ifina,,female ego's sister's husband,,,,
-mFZS,ifina,,male ego's father's sister's son,,,,
-mMBS,ifina,,male ego's mother's brother's son,,,,
-mFZD,kaisuna,,male ego's father's sister's daughter,,,,
-mMBD,kaisuna,,male ego's mother's brother's daughter,,,,
-fFZS,ifina,,female ego's father's sister's son,,,,
-fMBS,"ifina, kaisuna",,female ego's mother's brother's son,,,,
-fFZD,kaisuna,,female ego's father's sister's daughter,,,,
-fMBD,kaisuna,,female ego's mother's brother's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","palun",,"male ego's older brother",,,,
+"myB","palun",,"male ego's younger brother",,,,
+"feB","tinamean",,"female ego's older brother",,,,
+"fyB","tinamean",,"female ego's younger brother",,,,
+"meZ","tinafin, tinamean",,"male ego's older sister",,,,
+"myZ","tinafin, tinamean",,"male ego's younger sister",,,,
+"feZ","palun, tinamean",,"female ego's older sister",,,,
+"fyZ","palun, tinamean",,"female ego's younger sister",,,,
+"mF","tamang",,"male ego's father",,,,
+"mM","namg",,"male ego's mother",,,,
+"fF","tamang",,"female ego's father",,,,
+"fM","namg",,"female ego's mother",,,,
+"mS","natuk",,"male ego's son",,,,
+"fS","natuk",,"female ego's son",,,,
+"mFeZ","imuna",,"male ego's father's older sister",,,,
+"mFyZ","imuna",,"male ego's father's younger sister",,,,
+"fFeZ","imuna",,"female ego's father's older sister",,,,
+"fFyZ","imuna",,"female ego's father's younger sister",,,,
+"mWF","ifina",,"male ego's wife's father",,,,
+"mWM","imuna",,"male ego's wife's mother",,,,
+"fHF","inena",,"female ego's husband's father",,,,
+"fHM","inena",,"female ego's husband's mother",,,,
+"fHZ","ifandevin",,"female ego's husband's sister",,,,
+"fBW","ifandevin",,"female ego's brother's wife",,,,
+"mZH","ifina",,"male ego's sister's husband",,,,
+"fZH","ifina",,"female ego's sister's husband",,,,
+"mFZS","ifina",,"male ego's father's sister's son",,,,
+"mMBS","ifina",,"male ego's mother's brother's son",,,,
+"mFZD","kaisuna",,"male ego's father's sister's daughter",,,,
+"mMBD","kaisuna",,"male ego's mother's brother's daughter",,,,
+"fFZS","ifina",,"female ego's father's sister's son",,,,
+"fMBS","ifina, kaisuna",,"female ego's mother's brother's son",,,,
+"fFZD","kaisuna",,"female ego's father's sister's daughter",,,,
+"fMBD","kaisuna",,"female ego's mother's brother's daughter",,,,
+"mFeZS","ifina",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","ifina",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeZD","kaisuna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","kaisuna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","ifina",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","ifina",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeBD","kaisuna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","kaisuna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mFZeS","ifina",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","ifina",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZeD","kaisuna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","kaisuna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","ifina",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","ifina",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMBeD","kaisuna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","kaisuna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"fFeZS","ifina",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","ifina",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeZD","kaisuna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","kaisuna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","ifina, kaisuna",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","ifina, kaisuna",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeBD","kaisuna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","kaisuna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fFZeS","ifina",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","ifina",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZeD","kaisuna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","kaisuna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","ifina, kaisuna",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","ifina, kaisuna",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMBeD","kaisuna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","kaisuna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"

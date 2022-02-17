@@ -1,65 +1,65 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-myB,oše-yə,,,,YAN1,lizot_yanomami_2015,
-myZ,oše-yə,,,,YAN1,lizot_yanomami_2015,
-mF,ha-yə,,,,YAN1,lizot_yanomami_2015,
-mM,na-yə,,,,YAN1,lizot_yanomami_2015,
-mS,ihiru-yə,,,,YAN1,lizot_yanomami_2015,
-mD,tʰəə-yə,,,,YAN1,lizot_yanomami_2015,
-mFF,ãi-wə,,,,YAN1,lizot_yanomami_2015,
-mFM,ami-wə,,,,YAN1,lizot_yanomami_2015,
-mMF,ãi-wə,,,,YAN1,lizot_yanomami_2015,
-mMM,ami-wə,,,,YAN1,lizot_yanomami_2015,
-mFB,ha-yə,,,,YAN1,lizot_yanomami_2015,
-mFZ,yai-yə,,,,YAN1,lizot_yanomami_2015,
-mMB,šoa-yə,,,,YAN1,lizot_yanomami_2015,
-mMZ,na-yə,,,,YAN1,lizot_yanomami_2015,
-mH,heãrõ-yə,,,,YAN1,lizot_yanomami_2015,
-mW,suwə-pɨ-yə,,,,YAN1,lizot_yanomami_2015,
-mHF,šoa-yə,,,,YAN1,lizot_yanomami_2015,
-mHM,yai-yə,,,,YAN1,lizot_yanomami_2015,
-mWF,šoa-yə,,,,YAN1,lizot_yanomami_2015,
-mWM,yai-yə,,,,YAN1,lizot_yanomami_2015,
-mSW,tʰatʰə-yə,,,,YAN1,lizot_yanomami_2015,
-mSW,tʰatʰə-yə,,,,YAN1,lizot_yanomami_2015,
-mDH,hekama-yə,,,,YAN1,lizot_yanomami_2015,
-mDH,hekama-yə,,,,YAN1,lizot_yanomami_2015,
-mFeB,ha-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mFyB,ha-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mFeZ,yai-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mFyZ,yai-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mMeZ,na-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mMyZ,na-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mMeB,šoa-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-mMyB,šoa-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fyB,oše-yə,,,,YAN1,lizot_yanomami_2015,
-fyZ,oše-yə,,,,YAN1,lizot_yanomami_2015,
-fF,ha-yə,,,,YAN1,lizot_yanomami_2015,
-fM,na-yə,,,,YAN1,lizot_yanomami_2015,
-fS,ihiru-yə,,,,YAN1,lizot_yanomami_2015,
-fD,tʰəə-yə,,,,YAN1,lizot_yanomami_2015,
-fFF,ãi-wə,,,,YAN1,lizot_yanomami_2015,
-fFM,ami-wə,,,,YAN1,lizot_yanomami_2015,
-fMF,ãi-wə,,,,YAN1,lizot_yanomami_2015,
-fMM,ami-wə,,,,YAN1,lizot_yanomami_2015,
-fFB,ha-yə,,,,YAN1,lizot_yanomami_2015,
-fFZ,yai-yə,,,,YAN1,lizot_yanomami_2015,
-fMB,šoa-yə,,,,YAN1,lizot_yanomami_2015,
-fMZ,na-yə,,,,YAN1,lizot_yanomami_2015,
-fH,heãrõ-yə,,,,YAN1,lizot_yanomami_2015,
-fW,suwə-pɨ-yə,,,,YAN1,lizot_yanomami_2015,
-fHF,šoa-yə,,,,YAN1,lizot_yanomami_2015,
-fHM,yai-yə,,,,YAN1,lizot_yanomami_2015,
-fWF,šoa-yə,,,,YAN1,lizot_yanomami_2015,
-fWM,yai-yə,,,,YAN1,lizot_yanomami_2015,
-fSW,tʰatʰə-yə,,,,YAN1,lizot_yanomami_2015,
-fSW,tʰatʰə-yə,,,,YAN1,lizot_yanomami_2015,
-fDH,hekama-yə,,,,YAN1,lizot_yanomami_2015,
-fDH,hekama-yə,,,,YAN1,lizot_yanomami_2015,
-fFeB,ha-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fFyB,ha-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fFeZ,yai-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fFyZ,yai-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fMeZ,na-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fMyZ,na-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fMeB,šoa-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
-fMyB,šoa-yə,,,,YAN1,lizot_yanomami_2015,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"myB","oše-yə",,,,"YAN1","lizot_yanomami_2015",""
+"myZ","oše-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mF","ha-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mM","na-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mS","ihiru-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mD","tʰəə-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mFF","ãi-wə",,,,"YAN1","lizot_yanomami_2015",""
+"mFM","ami-wə",,,,"YAN1","lizot_yanomami_2015",""
+"mMF","ãi-wə",,,,"YAN1","lizot_yanomami_2015",""
+"mMM","ami-wə",,,,"YAN1","lizot_yanomami_2015",""
+"mFB","ha-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mFZ","yai-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mMB","šoa-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mMZ","na-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mH","heãrõ-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mW","suwə-pɨ-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mHF","šoa-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mHM","yai-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mWF","šoa-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mWM","yai-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mSW","tʰatʰə-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mSW","tʰatʰə-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mDH","hekama-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mDH","hekama-yə",,,,"YAN1","lizot_yanomami_2015",""
+"mFeB","ha-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mFyB","ha-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mFeZ","yai-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mFyZ","yai-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mMeZ","na-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mMyZ","na-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mMeB","šoa-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"mMyB","šoa-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fyB","oše-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fyZ","oše-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fF","ha-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fM","na-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fS","ihiru-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fD","tʰəə-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fFF","ãi-wə",,,,"YAN1","lizot_yanomami_2015",""
+"fFM","ami-wə",,,,"YAN1","lizot_yanomami_2015",""
+"fMF","ãi-wə",,,,"YAN1","lizot_yanomami_2015",""
+"fMM","ami-wə",,,,"YAN1","lizot_yanomami_2015",""
+"fFB","ha-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fFZ","yai-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fMB","šoa-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fMZ","na-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fH","heãrõ-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fW","suwə-pɨ-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fHF","šoa-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fHM","yai-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fWF","šoa-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fWM","yai-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fSW","tʰatʰə-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fSW","tʰatʰə-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fDH","hekama-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fDH","hekama-yə",,,,"YAN1","lizot_yanomami_2015",""
+"fFeB","ha-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fFyB","ha-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fFeZ","yai-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fFyZ","yai-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fMeZ","na-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fMyZ","na-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fMeB","šoa-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"
+"fMyB","šoa-yə",,,,"YAN1","lizot_yanomami_2015","Inferred; NA"

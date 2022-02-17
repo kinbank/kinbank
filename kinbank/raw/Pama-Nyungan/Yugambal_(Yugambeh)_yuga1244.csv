@@ -1,84 +1,148 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kaguhŋ,,male ego's older brother,,,,
-myB,banahm,,male ego's younger brother,,,,
-fyB,banahm,,female ego's younger brother,,,,
-meZ,"nanahŋ, sija",,male ego's older sister,,,,
-myZ,"nanahŋ, sija",,male ego's younger sister,,,,
-feZ,"nanahŋ, sija",,female ego's older sister,,,,
-fyZ,"yirgahŋ, yilgahn",,female ego's younger sister,,,,
-mF,"bijaŋ, biyul, babaŋ, mahmaŋ",,male ego's father,,,,
-mM,"wadhuŋ, wayuŋ",,male ego's mother,,,,
-fF,"bijaŋ, biyul, babaŋ, mahmaŋ",,female ego's father,,,,
-mS,"muyum, muyumajar, mudhumgir",,male ego's son,,,,
-fS,"muyum, muyumajar, mudhumgir",,female ego's son,,,,
-mD,"muyumgan, jalgany, mudhumgirgan",,male ego's daughter,,,,
-fD,"muyumgan, jalgany, mudhumgirgan",,female ego's daughter,,,,
-mSS,ŋadhaŋ,,male ego's son's son,,,,
-mDS,ŋadhaŋ,,male ego's daughter's son,,,,
-fSS,ŋadhaŋ,,female ego's son's son,,,,
-fDS,ŋadhaŋ,,female ego's daughter's son,,,,
-mFF,ŋadhaŋ,,male ego's father‘s father,,,,
-mFM,"kami, bahbuny, ŋami",,male ego's father's mother,,,,
-mMF,ŋadhaŋ,,male ego's mother's father,,,,
-mMM,"kami, bahbuny, ŋami",,male ego's mother's mother,,,,
-fFF,ŋadhaŋ,,female ego's father's father,,,,
-fFM,"kami, bahbuny, ŋami",,female ego's father's mother,,,,
-fMF,ŋadhaŋ,,female ego's mother's father,,,,
-fMM,"kami, bahbuny, ŋami",,female ego's mother's mother,,,,
-meBS,"muyum, muyumajar, mudhumgir",,male ego's older brother's son,,,,
-myBS,"muyum, muyumajar, mudhumgir",,male ego's younger brother's son,,,,
-meZS,baridhaŋ,,male ego's older sister's son,,,,
-myZS,baridhaŋ,,male ego's younger sister's son,,,,
-meBD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,male ego's older brother's daughter,,,,
-myBD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,male ego's younger brother's daughter,,,,
-meZD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,male ego's older sister's daughter,,,,
-myZD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,male ego's younger sister's daughter,,,,
-feBS,nyuhgun,,female ego's older brother's son,,,,
-fyBS,nyuhgun,,female ego's younger brother's son,,,,
-feZS,"muyum, muyumajar, mudhumgir",,female ego's older sister's son,,,,
-fyZS,"muyum, muyumajar, mudhumgir",,female ego's younger sister's son,,,,
-feBD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,female ego's older brother's daughter,,,,
-fyBD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,female ego's younger brother's daughter,,,,
-feZD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,female ego's older sister's daughter,,,,
-fyZD,"burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,female ego's younger sister's daughter,,,,
-mFeB,"bijaŋ, biyul, babaŋ, mahmaŋ",,male ego's father's older brother,,,,
-mFyB,"bijaŋ, biyul, babaŋ, mahmaŋ",,male ego's father's younger brother,,,,
-mFeZ,ŋaruny,,male ego's father's older sister,,,,
-mFyZ,ŋaruny,,male ego's father's younger sister,,,,
-mMeB,kawaŋ,,male ego's mother's older brother,,,,
-mMyB,kawaŋ,,male ego's mother's younger brother,,,,
-mMeZ,"wadhuŋ, wayuŋ",,male ego's mother's older sister,,,,
-mMyZ,"wadhuŋ, wayuŋ",,male ego's mother's younger sister,,,,
-fFeB,"bijaŋ, biyul, babaŋ, mahmaŋ",,female ego's father's older brother,,,,
-fFyB,"bijaŋ, biyul, babaŋ, mahmaŋ",,female ego's father's younger brother,,,,
-fFeZ,ŋaruny,,female ego's father's older sister,,,,
-fFyZ,ŋaruny,,female ego's father's younger sister,,,,
-fMeB,kawaŋ,,female ego's mother's older brother,,,,
-fMyB,kawaŋ,,female ego's mother's younger brother,,,,
-fMeZ,"wadhuŋ, wayuŋ",,female ego's mother's older sister,,,,
-fMyZ,"wadhuŋ, wayuŋ",,female ego's mother's younger sister,,,,
-mW,"nyubaŋgan, nyuhgalbinygan, yugalbinygan",,male ego's wife,,,,
-fH,"ŋyubaŋ, nyubaŋjar, nyuhgan.gal, ŋadhiŋgirgan",,female ego‘s husband,,,,
-fDH,wuhmin,,female ego's daughter's husband,,,,
-mWF,"buguy, wuhmin",,male ego's wife's father,,,,
-mWM,buguy,,male ego's wife's mother,,,,
-mWZ,"nyubaŋgan, nyuhgalbinygan, yugalbinygan",,male ego's wife's sister,,,,
-fHM,buguy,,female ego's husband's mother,,,,
-mZH,"ŋyubaŋ, nyubaŋjar, nyuhgan.gal, ŋadhiŋgirgan",,male ego's sister's husband,,,,
-fZH,"ŋyubaŋ, nyubaŋjar, nyuhgan.gal, ŋadhiŋgirgan",,female ego's sister's husband,,,,
-mFBS,kudharaŋ,,male ego's father's brother's son,,,,
-mFZS,"yirbul, yirbaŋdhar",,male ego's father's sister's son,,,,
-mMBS,"yirbul, yirbaŋdhar",,male ego's mother's brother's son,,,,
-mMZS,kudharaŋ,,male ego's mother's sister's son,,,,
-mFBD,kudharaŋgan,,male ego's father's brother's daughter,,,,
-mFZD,"yirbul, yirbaŋdhar",,male ego's father's sister's daughter,,,,
-mMBD,"yirbul, yirbaŋdhar",,male ego's mother's brother's daughter,,,,
-mMZD,kudharaŋgan,,male ego's mother's sister's daughter,,,,
-fFBS,kudharaŋ,,female ego's father's brother's son,,,,
-fFZS,"yirbul, yirbaŋdhar",,female ego's father's sister's son,,,,
-fMBS,"yirbul, yirbaŋdhar",,female ego's mother's brother's son,,,,
-fMZS,kudharaŋ,,female ego's mother's sister's son,,,,
-fFBD,kudharaŋgan,,female ego's father's brother's daughter,,,,
-fFZD,"yirbul, yirbaŋdhar",,female ego's father's sister's daughter,,,,
-fMBD,"yirbul, yirbaŋdhar",,female ego's mother's brother's daughter,,,,
-fMZD,kudharaŋgan,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kaguhŋ",,"male ego's older brother",,,,
+"myB","banahm",,"male ego's younger brother",,,,
+"fyB","banahm",,"female ego's younger brother",,,,
+"meZ","nanahŋ, sija",,"male ego's older sister",,,,
+"myZ","nanahŋ, sija",,"male ego's younger sister",,,,
+"feZ","nanahŋ, sija",,"female ego's older sister",,,,
+"fyZ","yirgahŋ, yilgahn",,"female ego's younger sister",,,,
+"mF","bijaŋ, biyul, babaŋ, mahmaŋ",,"male ego's father",,,,
+"mM","wadhuŋ, wayuŋ",,"male ego's mother",,,,
+"fF","bijaŋ, biyul, babaŋ, mahmaŋ",,"female ego's father",,,,
+"mS","muyum, muyumajar, mudhumgir",,"male ego's son",,,,
+"fS","muyum, muyumajar, mudhumgir",,"female ego's son",,,,
+"mD","muyumgan, jalgany, mudhumgirgan",,"male ego's daughter",,,,
+"fD","muyumgan, jalgany, mudhumgirgan",,"female ego's daughter",,,,
+"mSS","ŋadhaŋ",,"male ego's son's son",,,,
+"mDS","ŋadhaŋ",,"male ego's daughter's son",,,,
+"fSS","ŋadhaŋ",,"female ego's son's son",,,,
+"fDS","ŋadhaŋ",,"female ego's daughter's son",,,,
+"mFF","ŋadhaŋ",,"male ego's father‘s father",,,,
+"mFM","kami, bahbuny, ŋami",,"male ego's father's mother",,,,
+"mMF","ŋadhaŋ",,"male ego's mother's father",,,,
+"mMM","kami, bahbuny, ŋami",,"male ego's mother's mother",,,,
+"fFF","ŋadhaŋ",,"female ego's father's father",,,,
+"fFM","kami, bahbuny, ŋami",,"female ego's father's mother",,,,
+"fMF","ŋadhaŋ",,"female ego's mother's father",,,,
+"fMM","kami, bahbuny, ŋami",,"female ego's mother's mother",,,,
+"meBS","muyum, muyumajar, mudhumgir",,"male ego's older brother's son",,,,
+"myBS","muyum, muyumajar, mudhumgir",,"male ego's younger brother's son",,,,
+"meZS","baridhaŋ",,"male ego's older sister's son",,,,
+"myZS","baridhaŋ",,"male ego's younger sister's son",,,,
+"meBD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"male ego's older brother's daughter",,,,
+"myBD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"male ego's younger brother's daughter",,,,
+"meZD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"male ego's older sister's daughter",,,,
+"myZD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"male ego's younger sister's daughter",,,,
+"feBS","nyuhgun",,"female ego's older brother's son",,,,
+"fyBS","nyuhgun",,"female ego's younger brother's son",,,,
+"feZS","muyum, muyumajar, mudhumgir",,"female ego's older sister's son",,,,
+"fyZS","muyum, muyumajar, mudhumgir",,"female ego's younger sister's son",,,,
+"feBD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"female ego's older brother's daughter",,,,
+"fyBD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"female ego's younger brother's daughter",,,,
+"feZD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"female ego's older sister's daughter",,,,
+"fyZD","burudhamgan, muyumgan, muyumjargan, nyuhgun.gan",,"female ego's younger sister's daughter",,,,
+"mFeB","bijaŋ, biyul, babaŋ, mahmaŋ",,"male ego's father's older brother",,,,
+"mFyB","bijaŋ, biyul, babaŋ, mahmaŋ",,"male ego's father's younger brother",,,,
+"mFeZ","ŋaruny",,"male ego's father's older sister",,,,
+"mFyZ","ŋaruny",,"male ego's father's younger sister",,,,
+"mMeB","kawaŋ",,"male ego's mother's older brother",,,,
+"mMyB","kawaŋ",,"male ego's mother's younger brother",,,,
+"mMeZ","wadhuŋ, wayuŋ",,"male ego's mother's older sister",,,,
+"mMyZ","wadhuŋ, wayuŋ",,"male ego's mother's younger sister",,,,
+"fFeB","bijaŋ, biyul, babaŋ, mahmaŋ",,"female ego's father's older brother",,,,
+"fFyB","bijaŋ, biyul, babaŋ, mahmaŋ",,"female ego's father's younger brother",,,,
+"fFeZ","ŋaruny",,"female ego's father's older sister",,,,
+"fFyZ","ŋaruny",,"female ego's father's younger sister",,,,
+"fMeB","kawaŋ",,"female ego's mother's older brother",,,,
+"fMyB","kawaŋ",,"female ego's mother's younger brother",,,,
+"fMeZ","wadhuŋ, wayuŋ",,"female ego's mother's older sister",,,,
+"fMyZ","wadhuŋ, wayuŋ",,"female ego's mother's younger sister",,,,
+"mW","nyubaŋgan, nyuhgalbinygan, yugalbinygan",,"male ego's wife",,,,
+"fH","ŋyubaŋ, nyubaŋjar, nyuhgan.gal, ŋadhiŋgirgan",,"female ego‘s husband",,,,
+"fDH","wuhmin",,"female ego's daughter's husband",,,,
+"mWF","buguy, wuhmin",,"male ego's wife's father",,,,
+"mWM","buguy",,"male ego's wife's mother",,,,
+"mWZ","nyubaŋgan, nyuhgalbinygan, yugalbinygan",,"male ego's wife's sister",,,,
+"fHM","buguy",,"female ego's husband's mother",,,,
+"mZH","ŋyubaŋ, nyubaŋjar, nyuhgan.gal, ŋadhiŋgirgan",,"male ego's sister's husband",,,,
+"fZH","ŋyubaŋ, nyubaŋjar, nyuhgan.gal, ŋadhiŋgirgan",,"female ego's sister's husband",,,,
+"mFBS","kudharaŋ",,"male ego's father's brother's son",,,,
+"mFZS","yirbul, yirbaŋdhar",,"male ego's father's sister's son",,,,
+"mMBS","yirbul, yirbaŋdhar",,"male ego's mother's brother's son",,,,
+"mMZS","kudharaŋ",,"male ego's mother's sister's son",,,,
+"mFBD","kudharaŋgan",,"male ego's father's brother's daughter",,,,
+"mFZD","yirbul, yirbaŋdhar",,"male ego's father's sister's daughter",,,,
+"mMBD","yirbul, yirbaŋdhar",,"male ego's mother's brother's daughter",,,,
+"mMZD","kudharaŋgan",,"male ego's mother's sister's daughter",,,,
+"fFBS","kudharaŋ",,"female ego's father's brother's son",,,,
+"fFZS","yirbul, yirbaŋdhar",,"female ego's father's sister's son",,,,
+"fMBS","yirbul, yirbaŋdhar",,"female ego's mother's brother's son",,,,
+"fMZS","kudharaŋ",,"female ego's mother's sister's son",,,,
+"fFBD","kudharaŋgan",,"female ego's father's brother's daughter",,,,
+"fFZD","yirbul, yirbaŋdhar",,"female ego's father's sister's daughter",,,,
+"fMBD","yirbul, yirbaŋdhar",,"female ego's mother's brother's daughter",,,,
+"fMZD","kudharaŋgan",,"female ego's mother's sister's daughter",,,,
+"mFeBS","kudharaŋ",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","kudharaŋ",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","yirbul, yirbaŋdhar",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","yirbul, yirbaŋdhar",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","kudharaŋgan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","kudharaŋgan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","yirbul, yirbaŋdhar",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","yirbul, yirbaŋdhar",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","yirbul, yirbaŋdhar",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","yirbul, yirbaŋdhar",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","kudharaŋ",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","kudharaŋ",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","yirbul, yirbaŋdhar",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","yirbul, yirbaŋdhar",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","kudharaŋgan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","kudharaŋgan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","kudharaŋ",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","kudharaŋ",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","yirbul, yirbaŋdhar",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","yirbul, yirbaŋdhar",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","kudharaŋgan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","kudharaŋgan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","yirbul, yirbaŋdhar",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","yirbul, yirbaŋdhar",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","yirbul, yirbaŋdhar",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","yirbul, yirbaŋdhar",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","kudharaŋ",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","kudharaŋ",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","yirbul, yirbaŋdhar",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","yirbul, yirbaŋdhar",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","kudharaŋgan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","kudharaŋgan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","kudharaŋ",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","kudharaŋ",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","yirbul, yirbaŋdhar",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","yirbul, yirbaŋdhar",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","kudharaŋgan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","kudharaŋgan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","yirbul, yirbaŋdhar",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","yirbul, yirbaŋdhar",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","yirbul, yirbaŋdhar",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","yirbul, yirbaŋdhar",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","kudharaŋ",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","kudharaŋ",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","yirbul, yirbaŋdhar",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","yirbul, yirbaŋdhar",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","kudharaŋgan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","kudharaŋgan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","kudharaŋ",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","kudharaŋ",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","yirbul, yirbaŋdhar",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","yirbul, yirbaŋdhar",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","kudharaŋgan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","kudharaŋgan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","yirbul, yirbaŋdhar",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","yirbul, yirbaŋdhar",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","yirbul, yirbaŋdhar",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","yirbul, yirbaŋdhar",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","kudharaŋ",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","kudharaŋ",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","yirbul, yirbaŋdhar",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","yirbul, yirbaŋdhar",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","kudharaŋgan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","kudharaŋgan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

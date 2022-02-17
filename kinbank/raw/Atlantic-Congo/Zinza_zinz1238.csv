@@ -1,87 +1,87 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,murumuna,,,,AC131(102),rubanza_luzinza_2008,
-mZ,mwanyanya,,,munyanyazi,AC131(132),rubanza_luzinza_2008,
-mP,muzaile,,,muzeele,AC131(125),rubanza_luzinza_2008,
-mF,tata,,,,AC131(111),rubanza_luzinza_2008,
-mM,maaha,,,mawe,AC131(122),rubanza_luzinza_2008,
-mC,muyanda,,,mwana,AC131(103),rubanza_luzinza_2008,
-mS,mutabani,,,,AC131(133),rubanza_luzinza_2008,
-mD,muhala,,,,AC131(106),rubanza_luzinza_2008,
-mA,mugulusi,,,,AC131(97),rubanza_luzinza_2008,
-mFF,guku,,,guuku,AC131(114),rubanza_luzinza_2008,
-mFM,kaaka,,,,AC131(114),rubanza_luzinza_2008,
-mMF,guku,,,guuku,AC131(114),rubanza_luzinza_2008,
-mMM,kaaka,,,,AC131(114),rubanza_luzinza_2008,
-mCC,mpumbi,,,,AC131(114),rubanza_luzinza_2008,
-mSS,mpumbi,,,mwizukuru,AC131(114),rubanza_luzinza_2008,
-mSD,mpumbi,,,,AC131(114),rubanza_luzinza_2008,
-mDS,mpumbi,,,mwizukuru,AC131(114),rubanza_luzinza_2008,
-mDD,mpumbi,,,,AC131(114),rubanza_luzinza_2008,
-mFB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,
-mFZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,
-mMB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,
-mMZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,
-mBS,muihwa,,,,AC131(123),rubanza_luzinza_2008,
-mZS,muihwa,,,,AC131(123),rubanza_luzinza_2008,
-mH,mukwata,,,,AC131(117),rubanza_luzinza_2008,
-mW,mukaji,,,,AC131(141),rubanza_luzinza_2008,
-mSW,mukaamwana,,,mukwelima,AC131(106),rubanza_luzinza_2008,
-meB,murumuna,,,,AC131(102),rubanza_luzinza_2008,Inferred; NA
-myB,murumuna,,,,AC131(102),rubanza_luzinza_2008,Inferred; NA
-meZ,mwanyanya,,,munyanyazi,AC131(132),rubanza_luzinza_2008,Inferred; NA
-myZ,mwanyanya,,,munyanyazi,AC131(132),rubanza_luzinza_2008,Inferred; NA
-mFeB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-mFyB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-mFeZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-mFyZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-mMeZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-mMyZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-mMeB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-mMyB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-meBS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-myBS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-meZS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-myZS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-fB,murumuna,,,,AC131(102),rubanza_luzinza_2008,
-fZ,mwanyanya,,,munyanyazi,AC131(132),rubanza_luzinza_2008,
-fP,muzaile,,,muzeele,AC131(125),rubanza_luzinza_2008,
-fF,tata,,,,AC131(111),rubanza_luzinza_2008,
-fM,maaha,,,mawe,AC131(122),rubanza_luzinza_2008,
-fC,muyanda,,,mwana,AC131(103),rubanza_luzinza_2008,
-fS,mutabani,,,,AC131(133),rubanza_luzinza_2008,
-fD,muhala,,,,AC131(106),rubanza_luzinza_2008,
-fA,mugulusi,,,,AC131(97),rubanza_luzinza_2008,
-fFF,guku,,,guuku,AC131(114),rubanza_luzinza_2008,
-fFM,kaaka,,,,AC131(114),rubanza_luzinza_2008,
-fMF,guku,,,guuku,AC131(114),rubanza_luzinza_2008,
-fMM,kaaka,,,,AC131(114),rubanza_luzinza_2008,
-fCC,mpumbi,,,,AC131(114),rubanza_luzinza_2008,
-fSS,mpumbi,,,mwizukuru,AC131(114),rubanza_luzinza_2008,
-fSD,mpumbi,,,,AC131(114),rubanza_luzinza_2008,
-fDS,mpumbi,,,mwizukuru,AC131(114),rubanza_luzinza_2008,
-fDD,mpumbi,,,,AC131(114),rubanza_luzinza_2008,
-fFB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,
-fFZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,
-fMB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,
-fMZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,
-fBS,muihwa,,,,AC131(123),rubanza_luzinza_2008,
-fZS,muihwa,,,,AC131(123),rubanza_luzinza_2008,
-fH,mukwata,,,,AC131(117),rubanza_luzinza_2008,
-fW,mukaji,,,,AC131(141),rubanza_luzinza_2008,
-fSW,mukaamwana,,,mukwelima,AC131(106),rubanza_luzinza_2008,
-feB,murumuna,,,,AC131(102),rubanza_luzinza_2008,Inferred; NA
-fyB,murumuna,,,,AC131(102),rubanza_luzinza_2008,Inferred; NA
-feZ,mwanyanya,,,munyanyazi,AC131(132),rubanza_luzinza_2008,Inferred; NA
-fyZ,mwanyanya,,,munyanyazi,AC131(132),rubanza_luzinza_2008,Inferred; NA
-fFeB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-fFyB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-fFeZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-fFyZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-fMeZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-fMyZ,maha omuto,,,,AC131(98),rubanza_luzinza_2008,Inferred; NA
-fMeB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-fMyB,maami,,,marumi,AC131(139),rubanza_luzinza_2008,Inferred; NA
-feBS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-fyBS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-feZS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
-fyZS,muihwa,,,,AC131(123),rubanza_luzinza_2008,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","murumuna",,,"","AC131(102)","rubanza_luzinza_2008",""
+"mZ","mwanyanya",,,"munyanyazi","AC131(132)","rubanza_luzinza_2008",""
+"mP","muzaile",,,"muzeele","AC131(125)","rubanza_luzinza_2008",""
+"mF","tata",,,"","AC131(111)","rubanza_luzinza_2008",""
+"mM","maaha",,,"mawe","AC131(122)","rubanza_luzinza_2008",""
+"mC","muyanda",,,"mwana","AC131(103)","rubanza_luzinza_2008",""
+"mS","mutabani",,,"","AC131(133)","rubanza_luzinza_2008",""
+"mD","muhala",,,"","AC131(106)","rubanza_luzinza_2008",""
+"mA","mugulusi",,,"","AC131(97)","rubanza_luzinza_2008",""
+"mFF","guku",,,"guuku","AC131(114)","rubanza_luzinza_2008",""
+"mFM","kaaka",,,"","AC131(114)","rubanza_luzinza_2008",""
+"mMF","guku",,,"guuku","AC131(114)","rubanza_luzinza_2008",""
+"mMM","kaaka",,,"","AC131(114)","rubanza_luzinza_2008",""
+"mCC","mpumbi",,,"","AC131(114)","rubanza_luzinza_2008",""
+"mSS","mpumbi",,,"mwizukuru","AC131(114)","rubanza_luzinza_2008",""
+"mSD","mpumbi",,,"","AC131(114)","rubanza_luzinza_2008",""
+"mDS","mpumbi",,,"mwizukuru","AC131(114)","rubanza_luzinza_2008",""
+"mDD","mpumbi",,,"","AC131(114)","rubanza_luzinza_2008",""
+"mFB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008",""
+"mFZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008",""
+"mMB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008",""
+"mMZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008",""
+"mBS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008",""
+"mZS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008",""
+"mH","mukwata",,,"","AC131(117)","rubanza_luzinza_2008",""
+"mW","mukaji",,,"","AC131(141)","rubanza_luzinza_2008",""
+"mSW","mukaamwana",,,"mukwelima","AC131(106)","rubanza_luzinza_2008",""
+"meB","murumuna",,,"","AC131(102)","rubanza_luzinza_2008","Inferred; NA"
+"myB","murumuna",,,"","AC131(102)","rubanza_luzinza_2008","Inferred; NA"
+"meZ","mwanyanya",,,"munyanyazi","AC131(132)","rubanza_luzinza_2008","Inferred; NA"
+"myZ","mwanyanya",,,"munyanyazi","AC131(132)","rubanza_luzinza_2008","Inferred; NA"
+"mFeB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"mFyB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"mFeZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"mFyZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"mMeZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"mMyZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"mMeB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"mMyB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"meBS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"myBS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"meZS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"myZS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"fB","murumuna",,,"","AC131(102)","rubanza_luzinza_2008",""
+"fZ","mwanyanya",,,"munyanyazi","AC131(132)","rubanza_luzinza_2008",""
+"fP","muzaile",,,"muzeele","AC131(125)","rubanza_luzinza_2008",""
+"fF","tata",,,"","AC131(111)","rubanza_luzinza_2008",""
+"fM","maaha",,,"mawe","AC131(122)","rubanza_luzinza_2008",""
+"fC","muyanda",,,"mwana","AC131(103)","rubanza_luzinza_2008",""
+"fS","mutabani",,,"","AC131(133)","rubanza_luzinza_2008",""
+"fD","muhala",,,"","AC131(106)","rubanza_luzinza_2008",""
+"fA","mugulusi",,,"","AC131(97)","rubanza_luzinza_2008",""
+"fFF","guku",,,"guuku","AC131(114)","rubanza_luzinza_2008",""
+"fFM","kaaka",,,"","AC131(114)","rubanza_luzinza_2008",""
+"fMF","guku",,,"guuku","AC131(114)","rubanza_luzinza_2008",""
+"fMM","kaaka",,,"","AC131(114)","rubanza_luzinza_2008",""
+"fCC","mpumbi",,,"","AC131(114)","rubanza_luzinza_2008",""
+"fSS","mpumbi",,,"mwizukuru","AC131(114)","rubanza_luzinza_2008",""
+"fSD","mpumbi",,,"","AC131(114)","rubanza_luzinza_2008",""
+"fDS","mpumbi",,,"mwizukuru","AC131(114)","rubanza_luzinza_2008",""
+"fDD","mpumbi",,,"","AC131(114)","rubanza_luzinza_2008",""
+"fFB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008",""
+"fFZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008",""
+"fMB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008",""
+"fMZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008",""
+"fBS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008",""
+"fZS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008",""
+"fH","mukwata",,,"","AC131(117)","rubanza_luzinza_2008",""
+"fW","mukaji",,,"","AC131(141)","rubanza_luzinza_2008",""
+"fSW","mukaamwana",,,"mukwelima","AC131(106)","rubanza_luzinza_2008",""
+"feB","murumuna",,,"","AC131(102)","rubanza_luzinza_2008","Inferred; NA"
+"fyB","murumuna",,,"","AC131(102)","rubanza_luzinza_2008","Inferred; NA"
+"feZ","mwanyanya",,,"munyanyazi","AC131(132)","rubanza_luzinza_2008","Inferred; NA"
+"fyZ","mwanyanya",,,"munyanyazi","AC131(132)","rubanza_luzinza_2008","Inferred; NA"
+"fFeB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"fFyB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"fFeZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"fFyZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"fMeZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"fMyZ","maha omuto",,,"","AC131(98)","rubanza_luzinza_2008","Inferred; NA"
+"fMeB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"fMyB","maami",,,"marumi","AC131(139)","rubanza_luzinza_2008","Inferred; NA"
+"feBS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"fyBS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"feZS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"
+"fyZS","muihwa",,,"","AC131(123)","rubanza_luzinza_2008","Inferred; NA"

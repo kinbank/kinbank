@@ -1,97 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,io',,male ego's older brother,,,,
-myB,ai',,male ego's younger brother,,,,
-feB,io',,female ego's older brother,,,,
-fyB,ai',,female ego's younger brother,,,,
-meZ,io',,male ego's older sister,,,,
-myZ,ai',,male ego's younger sister,,,,
-feZ,io',,female ego's older sister,,,,
-fyZ,ai',,female ego's younger sister,,,,
-mF,ama',,male ego's father,,,,
-mM,ina',,male ego's mother,,,,
-fF,ama',,female ego's father,,,,
-fM,ina',,female ego's mother,,,,
-mS,anak,,male ego's son,,,,
-fS,anak,,female ego's son,,,,
-mD,anak,,male ego's daughter,,,,
-fD,anak,,female ego's daughter,,,,
-mSS,anak-anak,,male ego's son's son,,,,
-mSD,anak-anak,,male ego's son's daughter,,,,
-mDS,anak-anak,,male ego's daughter's son,,,,
-mDD,anak-anak,,male ego's daughter's daughter,,,,
-fSS,anak-anak,,female ego's son's son,,,,
-fSD,anak-anak,,female ego's son's daughter,,,,
-fDS,anak-anak,,female ego's daughter's son,,,,
-fDD,anak-anak,,female ego's daugher's daughter,,,,
-mFF,inni',,male ego's father‘s father,,,,
-mFM,inni',,male ego's father's mother,,,,
-mMF,inni',,male ego's mother's father,,,,
-mMM,inni',,male ego's mother's mother,,,,
-fFF,inni',,female ego's father's father,,,,
-fFM,inni',,female ego's father's mother,,,,
-fMF,inni',,female ego's mother's father,,,,
-fMM,inni',,female ego's mother's mother,,,,
-meBS,anak,,male ego's older brother's son,,,,
-myBS,anak,,male ego's younger brother's son,,,,
-meZS,anak,,male ego's older sister's son,,,,
-myZS,anak,,male ego's younger sister's son,,,,
-meBD,anak,,male ego's older brother's daughter,,,,
-myBD,anak,,male ego's younger brother's daughter,,,,
-meZD,anak,,male ego's older sister's daughter,,,,
-myZD,anak,,male ego's younger sister's daughter,,,,
-feBS,anak,,female ego's older brother's son,,,,
-fyBS,anak,,female ego's younger brother's son,,,,
-feZS,anak,,female ego's older sister's son,,,,
-fyZS,anak,,female ego's younger sister's son,,,,
-feBD,anak,,female ego's older brother's daughter,,,,
-fyBD,anak,,female ego's younger brother's daughter,,,,
-feZD,anak,,female ego's older sister's daughter,,,,
-fyZD,anak,,female ego's younger sister's daughter,,,,
-mFeB,kamman,,male ego's father's older brother,,,,
-mFyB,kamman,,male ego's father's younger brother,,,,
-mFeZ,minan,,male ego's father's older sister,,,,
-mFyZ,minan,,male ego's father's younger sister,,,,
-mMeB,kamman,,male ego's mother's older brother,,,,
-mMyB,kamman,,male ego's mother's younger brother,,,,
-mMeZ,minan,,male ego's mother's older sister,,,,
-mMyZ,minan,,male ego's mother's younger sister,,,,
-fFeB,kamman,,female ego's father's older brother,,,,
-fFyB,kamman,,female ego's father's younger brother,,,,
-fFeZ,minan,,female ego's father's older sister,,,,
-fFyZ,minan,,female ego's father's younger sister,,,,
-fMeB,kamman,,female ego's mother's older brother,,,,
-fMyB,kamman,,female ego's mother's younger brother,,,,
-fMeZ,minan,,female ego's mother's older sister,,,,
-fMyZ,minan,,female ego's mother's younger sister,,,,
-mDH,tamong,,male ego's daughter's husband,,,,
-fDH,tamong,,female ego's daughter's husband,,,,
-mSW,tamong,,male ego's son's wife,,,,
-fSW,tamong,,female ego's son's wife,,,,
-mWF,tamong,,male ego's wife's father,,,,
-mWM,tamong,,male ego's wife's mother,,,,
-mWB,langu,,male ego's wife's brother,,,,
-mWZ,langu,,male ego's wife's sister,,,,
-fHF,tamong,,female ego's husband's father,,,,
-fHM,tamong,,female ego's husband's mother,,,,
-fHB,langu,,female ego's husband's brother,,,,
-fHZ,langu,,female ego's husband's sister,,,,
-mBW,langu,,male ego's brother's wife,,,,
-fBW,langu,,female ego's brother's wife,,,,
-mZH,langu,,male ego's sister's husband,,,,
-fZH,langu,,female ego's sister's husband,,,,
-mFBS,ganak,,male ego's father's brother's son,,,,
-mFZS,ganak,,male ego's father's sister's son,,,,
-mMBS,ganak,,male ego's mother's brother's son,,,,
-mMZS,ganak,,male ego's mother's sister's son,,,,
-mFBD,ganak,,male ego's father's brother's daughter,,,,
-mFZD,ganak,,male ego's father's sister's daughter,,,,
-mMBD,ganak,,male ego's mother's brother's daughter,,,,
-mMZD,ganak,,male ego's mother's sister's daughter,,,,
-fFBS,ganak,,female ego's father's brother's son,,,,
-fFZS,ganak,,female ego's father's sister's son,,,,
-fMBS,ganak,,female ego's mother's brother's son,,,,
-fMZS,ganak,,female ego's mother's sister's son,,,,
-fFBD,ganak,,female ego's father's brother's daughter,,,,
-fFZD,ganak,,female ego's father's sister's daughter,,,,
-fMBD,ganak,,female ego's mother's brother's daughter,,,,
-fMZD,ganak,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","io'",,"male ego's older brother",,,,
+"myB","ai'",,"male ego's younger brother",,,,
+"feB","io'",,"female ego's older brother",,,,
+"fyB","ai'",,"female ego's younger brother",,,,
+"meZ","io'",,"male ego's older sister",,,,
+"myZ","ai'",,"male ego's younger sister",,,,
+"feZ","io'",,"female ego's older sister",,,,
+"fyZ","ai'",,"female ego's younger sister",,,,
+"mF","ama'",,"male ego's father",,,,
+"mM","ina'",,"male ego's mother",,,,
+"fF","ama'",,"female ego's father",,,,
+"fM","ina'",,"female ego's mother",,,,
+"mS","anak",,"male ego's son",,,,
+"fS","anak",,"female ego's son",,,,
+"mD","anak",,"male ego's daughter",,,,
+"fD","anak",,"female ego's daughter",,,,
+"mSS","anak-anak",,"male ego's son's son",,,,
+"mSD","anak-anak",,"male ego's son's daughter",,,,
+"mDS","anak-anak",,"male ego's daughter's son",,,,
+"mDD","anak-anak",,"male ego's daughter's daughter",,,,
+"fSS","anak-anak",,"female ego's son's son",,,,
+"fSD","anak-anak",,"female ego's son's daughter",,,,
+"fDS","anak-anak",,"female ego's daughter's son",,,,
+"fDD","anak-anak",,"female ego's daugher's daughter",,,,
+"mFF","inni'",,"male ego's father‘s father",,,,
+"mFM","inni'",,"male ego's father's mother",,,,
+"mMF","inni'",,"male ego's mother's father",,,,
+"mMM","inni'",,"male ego's mother's mother",,,,
+"fFF","inni'",,"female ego's father's father",,,,
+"fFM","inni'",,"female ego's father's mother",,,,
+"fMF","inni'",,"female ego's mother's father",,,,
+"fMM","inni'",,"female ego's mother's mother",,,,
+"meBS","anak",,"male ego's older brother's son",,,,
+"myBS","anak",,"male ego's younger brother's son",,,,
+"meZS","anak",,"male ego's older sister's son",,,,
+"myZS","anak",,"male ego's younger sister's son",,,,
+"meBD","anak",,"male ego's older brother's daughter",,,,
+"myBD","anak",,"male ego's younger brother's daughter",,,,
+"meZD","anak",,"male ego's older sister's daughter",,,,
+"myZD","anak",,"male ego's younger sister's daughter",,,,
+"feBS","anak",,"female ego's older brother's son",,,,
+"fyBS","anak",,"female ego's younger brother's son",,,,
+"feZS","anak",,"female ego's older sister's son",,,,
+"fyZS","anak",,"female ego's younger sister's son",,,,
+"feBD","anak",,"female ego's older brother's daughter",,,,
+"fyBD","anak",,"female ego's younger brother's daughter",,,,
+"feZD","anak",,"female ego's older sister's daughter",,,,
+"fyZD","anak",,"female ego's younger sister's daughter",,,,
+"mFeB","kamman",,"male ego's father's older brother",,,,
+"mFyB","kamman",,"male ego's father's younger brother",,,,
+"mFeZ","minan",,"male ego's father's older sister",,,,
+"mFyZ","minan",,"male ego's father's younger sister",,,,
+"mMeB","kamman",,"male ego's mother's older brother",,,,
+"mMyB","kamman",,"male ego's mother's younger brother",,,,
+"mMeZ","minan",,"male ego's mother's older sister",,,,
+"mMyZ","minan",,"male ego's mother's younger sister",,,,
+"fFeB","kamman",,"female ego's father's older brother",,,,
+"fFyB","kamman",,"female ego's father's younger brother",,,,
+"fFeZ","minan",,"female ego's father's older sister",,,,
+"fFyZ","minan",,"female ego's father's younger sister",,,,
+"fMeB","kamman",,"female ego's mother's older brother",,,,
+"fMyB","kamman",,"female ego's mother's younger brother",,,,
+"fMeZ","minan",,"female ego's mother's older sister",,,,
+"fMyZ","minan",,"female ego's mother's younger sister",,,,
+"mDH","tamong",,"male ego's daughter's husband",,,,
+"fDH","tamong",,"female ego's daughter's husband",,,,
+"mSW","tamong",,"male ego's son's wife",,,,
+"fSW","tamong",,"female ego's son's wife",,,,
+"mWF","tamong",,"male ego's wife's father",,,,
+"mWM","tamong",,"male ego's wife's mother",,,,
+"mWB","langu",,"male ego's wife's brother",,,,
+"mWZ","langu",,"male ego's wife's sister",,,,
+"fHF","tamong",,"female ego's husband's father",,,,
+"fHM","tamong",,"female ego's husband's mother",,,,
+"fHB","langu",,"female ego's husband's brother",,,,
+"fHZ","langu",,"female ego's husband's sister",,,,
+"mBW","langu",,"male ego's brother's wife",,,,
+"fBW","langu",,"female ego's brother's wife",,,,
+"mZH","langu",,"male ego's sister's husband",,,,
+"fZH","langu",,"female ego's sister's husband",,,,
+"mFBS","ganak",,"male ego's father's brother's son",,,,
+"mFZS","ganak",,"male ego's father's sister's son",,,,
+"mMBS","ganak",,"male ego's mother's brother's son",,,,
+"mMZS","ganak",,"male ego's mother's sister's son",,,,
+"mFBD","ganak",,"male ego's father's brother's daughter",,,,
+"mFZD","ganak",,"male ego's father's sister's daughter",,,,
+"mMBD","ganak",,"male ego's mother's brother's daughter",,,,
+"mMZD","ganak",,"male ego's mother's sister's daughter",,,,
+"fFBS","ganak",,"female ego's father's brother's son",,,,
+"fFZS","ganak",,"female ego's father's sister's son",,,,
+"fMBS","ganak",,"female ego's mother's brother's son",,,,
+"fMZS","ganak",,"female ego's mother's sister's son",,,,
+"fFBD","ganak",,"female ego's father's brother's daughter",,,,
+"fFZD","ganak",,"female ego's father's sister's daughter",,,,
+"fMBD","ganak",,"female ego's mother's brother's daughter",,,,
+"fMZD","ganak",,"female ego's mother's sister's daughter",,,,
+"mFeBS","ganak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","ganak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","ganak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","ganak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","ganak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","ganak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","ganak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","ganak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","ganak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","ganak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","ganak",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","ganak",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","ganak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","ganak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","ganak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","ganak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","ganak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","ganak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","ganak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","ganak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","ganak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","ganak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","ganak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","ganak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","ganak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","ganak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","ganak",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","ganak",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","ganak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","ganak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","ganak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","ganak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","ganak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","ganak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","ganak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","ganak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","ganak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","ganak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","ganak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","ganak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","ganak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","ganak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","ganak",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","ganak",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","ganak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","ganak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","ganak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","ganak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","ganak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","ganak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","ganak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","ganak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","ganak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","ganak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","ganak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","ganak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","ganak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","ganak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","ganak",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","ganak",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","ganak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","ganak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","ganak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","ganak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

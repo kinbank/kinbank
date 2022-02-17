@@ -1,229 +1,229 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mM,iné,,,,AC25(405),bessong_modeformel_1983,vocative term
-fM,iné,,,,AC25(405),bessong_modeformel_1983,vocative term
-mB,ndomé,,,,AC24(404),richard_histoire_1970,
-mZ,iluhu,,,,AC24(404),richard_histoire_1970,
-meB,ntodu ami,,,,AC24(404),richard_histoire_1970,
-myB,ndembé ami,,,,AC24(404),richard_histoire_1970,
-meZ,sita,,,,AC24(407),richard_histoire_1970,
-mF,hangwé,,,,AC24(402),richard_histoire_1970,
-mF,paé,,,,AC24(405),richard_histoire_1970,vocative term
-mM,nyangwé,,,,AC24(402),richard_histoire_1970,
-mC,muna,,,,AC24(404),richard_histoire_1970,
-mS,bana,,,,AC24(406),richard_histoire_1970,
-mD,bana,,,,AC24(406),richard_histoire_1970,
-mA,mbamba,,,,AC24(404),richard_histoire_1970,
-mPP,mbamba,,,,AC24(404),richard_histoire_1970,
-mFF,mbamba ya momo,,,,AC24(404),richard_histoire_1970,ya indicates affiliation
-mFM,mbamba ya ndito,,,,AC24(404),richard_histoire_1970,
-mMF,mbamba ya momo,,,,AC24(404),richard_histoire_1970,
-mMM,mbamba ya ndito,,,,AC24(404),richard_histoire_1970,
-mCC,mbamba,,,,AC24(404),richard_histoire_1970,
-mFB,ndomé ya hangwé,,,,AC24(404),richard_histoire_1970,
-mFZ,nyongwé,,,,AC24(404),richard_histoire_1970,
-mMB,hongwé,,,,AC24(404),richard_histoire_1970,
-mMZ,iluhu ya nyangwé,,,,AC24(404),richard_histoire_1970,
-mFeB,ntodu wa hangwé,,,,AC24(404),richard_histoire_1970,
-mFyB,ndembé wa hangwé,,,,AC24(404),richard_histoire_1970,
-mFeZ,sita wa hangwé,,,,AC24(405),richard_histoire_1970,
-mMeZ,sita wa nyangwé,,,,AC24(405),richard_histoire_1970,
-mMeB,ntodu wa nyangwé,,,,AC24(404),richard_histoire_1970,
-mMyB,ndembé wa nyangwé,,,,AC24(404),richard_histoire_1970,
-mZS,banyangwé ya momo,,,,AC24(406),richard_histoire_1970,seen as noble
-mZD,banyangwé ya ndito,,,,AC24(406),richard_histoire_1970,seen as noble
-meBS,bandomé ya momo da ntodu ami,,,,AC24(404),richard_histoire_1970,
-myBS,bandomé ya momo da ndembé ami,,,,AC24(404),richard_histoire_1970,
-meBD,bandomé ya ndito da ntodu ami,,,,AC24(404),richard_histoire_1970,
-myBD,bandomé ya ndito da ndembé ami,,,,AC24(404),richard_histoire_1970,
-meZS,banyangwé ya momo da sita,,,,AC24(405),richard_histoire_1970,
-meZD,banyangwé ya ndito da sita,,,,AC24(405),richard_histoire_1970,
-mFZD,banyongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,
-mFBD,bahangwé ya ndito,,,,AC24(404),richard_histoire_1970,
-mMBD,bahongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,
-mMZD,banyangwé ya ndito,,,,AC24(404),richard_histoire_1970,
-mFBS,bahangwé ya momo,,,,AC24(404),richard_histoire_1970,
-mFZS,banyongwé ya momo,,,mola,AC24(404),richard_histoire_1970,
-mMBS,bahongwé ya momo,,,mola,AC24(404),richard_histoire_1970,
-mMZS,banyangwé ya momo,,,,AC24(404),richard_histoire_1970,
-mFeBS,bahangwé ya momo da ntodu wa hangwé,,,,AC24(404),richard_histoire_1970,
-mFyBS,bahangwé ya momo da ndembé wa hangwé,,,,AC24(404),richard_histoire_1970,
-mFeZS,banyongwé ya momo da sita wa hangwé,,,,AC24(405),richard_histoire_1970,
-mFeBD,bahangwé ya ndito da ntodu wa hangwé,,,,AC24(404),richard_histoire_1970,
-mFyBD,bahangwé ya ndito da ndembé wa hangwé,,,,AC24(404),richard_histoire_1970,
-mFeZD,banyongwé ya ndito da sita wa hangwé,,,,AC24(405),richard_histoire_1970,
-mMeBS,bahongwé ya momo da ntodu wa nyangwé,,,,AC24(404),richard_histoire_1970,
-mMyBS,bahongwé ya momo da ndembé wa nyangwé,,,,AC24(404),richard_histoire_1970,
-mMeZS,banyangwé ya momo da sita wa nyangwé,,,,AC24(405),richard_histoire_1970,
-mMeBD,bahongwé ya ndito da ntodu wa nyangwé,,,,AC24(404),richard_histoire_1970,
-mMyBD,bahongwé ya ndito da ndembé wa nyangwé,,,,AC24(404),richard_histoire_1970,
-mMeZD,banyangwé ya ndito da sita wa nyangwé,,,,AC24(405),richard_histoire_1970,
-mFBeS,ntodu bahangwé ya momo,,,,AC24(405),richard_histoire_1970,
-mFByS,ndembé bahangwé ya momo,,,,AC24(405),richard_histoire_1970,
-mFZeS,ntodu banyongwé ya momo,,,,AC24(405),richard_histoire_1970,
-mFZyS,ndembé banyongwé ya momo,,,,AC24(405),richard_histoire_1970,
-mFBeD,ntodu bahangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mFByD,ndembé bahangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mFZeD,ntodu banyongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mFZyD,ndembé banyongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mMBeS,ntodu bahongwé ya momo,,,,AC24(405),richard_histoire_1970,
-mMByS,ndembé bahongwé ya momo,,,,AC24(405),richard_histoire_1970,
-mMZeS,ntodu banyangwé ya momo,,,,AC24(405),richard_histoire_1970,
-mMZyS,ndembé banyangwé ya momo,,,,AC24(405),richard_histoire_1970,
-mMBeD,ntodu bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mMByD,ndembé bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mMZeD,ntodu banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mMZyD,ndembé banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-mHF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
-mHM,nhiyo nyangwé ya diba,,,iné,AC24(405),richard_histoire_1970,
-mWF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
-mWM,nhiyo nyangwé ya diba,,,iné,AC24(405),richard_histoire_1970,
-mWB,ndomé ya nditu,,,,AC24(404),richard_histoire_1970,
-mWZ,iluhu ya nditu,,,,AC24(404),richard_histoire_1970,
-mHB,ndomé ya motu,,,,AC24(404),richard_histoire_1970,
-mHZ,iluhu ya motu,,,,AC24(404),richard_histoire_1970,
-mco-W,mbanyi,,,,AC24(405),richard_histoire_1970,first wife'
-mco-W,mbombi,,,,AC24(405),richard_histoire_1970,les epouses secondaires
-mFW(notM),sita,,,,AC24(405),richard_histoire_1970,
-mFBW,nlalo,,,,AC24(407),richard_histoire_1970,
-mMBW,nlalo,,,,AC24(407),richard_histoire_1970,
-myZ,iluhu,,,,AC24(404),richard_histoire_1970,Inferred; NA
-mFyZ,nyongwé,,,,AC24(404),richard_histoire_1970,Inferred; NA
-mMyZ,iluhu ya nyangwé,,,,AC24(404),richard_histoire_1970,Inferred; NA
-myZS,banyangwé ya momo,,,,AC24(406),richard_histoire_1970,Inferred; seen as noble
-myZD,banyangwé ya ndito,,,,AC24(406),richard_histoire_1970,Inferred; seen as noble
-mFyZS,banyongwé ya momo,,,mola,AC24(404),richard_histoire_1970,Inferred; NA
-mFyZD,banyongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,Inferred; NA
-mMyZS,banyangwé ya momo,,,,AC24(404),richard_histoire_1970,Inferred; NA
-mMyZD,banyangwé ya ndito,,,,AC24(404),richard_histoire_1970,Inferred; NA
-fB,ndomé,,,,AC24(404),richard_histoire_1970,
-fZ,iluhu,,,,AC24(404),richard_histoire_1970,
-feB,ntodu ami,,,,AC24(404),richard_histoire_1970,
-fyB,ndembé ami,,,,AC24(404),richard_histoire_1970,
-feZ,sita,,,,AC24(407),richard_histoire_1970,
-fF,hangwé,,,,AC24(402),richard_histoire_1970,
-fF,paé,,,,AC24(405),richard_histoire_1970,vocative term
-fM,nyangwé,,,,AC24(402),richard_histoire_1970,
-fC,muna,,,,AC24(404),richard_histoire_1970,
-fS,bana,,,,AC24(406),richard_histoire_1970,
-fD,bana,,,,AC24(406),richard_histoire_1970,
-fA,mbamba,,,,AC24(404),richard_histoire_1970,
-fPP,mbamba,,,,AC24(404),richard_histoire_1970,
-fFF,mbamba ya momo,,,,AC24(404),richard_histoire_1970,ya indicates affiliation
-fFM,mbamba ya ndito,,,,AC24(404),richard_histoire_1970,
-fMF,mbamba ya momo,,,,AC24(404),richard_histoire_1970,
-fMM,mbamba ya ndito,,,,AC24(404),richard_histoire_1970,
-fCC,mbamba,,,,AC24(404),richard_histoire_1970,
-fFB,ndomé ya hangwé,,,,AC24(404),richard_histoire_1970,
-fFZ,nyongwé,,,,AC24(404),richard_histoire_1970,
-fMB,hongwé,,,,AC24(404),richard_histoire_1970,
-fMZ,iluhu ya nyangwé,,,,AC24(404),richard_histoire_1970,
-fFeB,ntodu wa hangwé,,,,AC24(404),richard_histoire_1970,
-fFyB,ndembé wa hangwé,,,,AC24(404),richard_histoire_1970,
-fFeZ,sita wa hangwé,,,,AC24(405),richard_histoire_1970,
-fMeZ,sita wa nyangwé,,,,AC24(405),richard_histoire_1970,
-fMeB,ntodu wa nyangwé,,,,AC24(404),richard_histoire_1970,
-fMyB,ndembé wa nyangwé,,,,AC24(404),richard_histoire_1970,
-fZS,banyangwé ya momo,,,,AC24(406),richard_histoire_1970,seen as noble
-fZD,banyangwé ya ndito,,,,AC24(406),richard_histoire_1970,seen as noble
-feBS,bandomé ya momo da ntodu ami,,,,AC24(404),richard_histoire_1970,
-fyBS,bandomé ya momo da ndembé ami,,,,AC24(404),richard_histoire_1970,
-feBD,bandomé ya ndito da ntodu ami,,,,AC24(404),richard_histoire_1970,
-fyBD,bandomé ya ndito da ndembé ami,,,,AC24(404),richard_histoire_1970,
-feZS,banyangwé ya momo da sita,,,,AC24(405),richard_histoire_1970,
-feZD,banyangwé ya ndito da sita,,,,AC24(405),richard_histoire_1970,
-fFZD,banyongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,
-fFBD,bahangwé ya ndito,,,,AC24(404),richard_histoire_1970,
-fMBD,bahongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,
-fMZD,banyangwé ya ndito,,,,AC24(404),richard_histoire_1970,
-fFBS,bahangwé ya momo,,,,AC24(404),richard_histoire_1970,
-fFZS,banyongwé ya momo,,,mola,AC24(404),richard_histoire_1970,
-fMBS,bahongwé ya momo,,,mola,AC24(404),richard_histoire_1970,
-fMZS,banyangwé ya momo,,,,AC24(404),richard_histoire_1970,
-fFeBS,bahangwé ya momo da ntodu wa hangwé,,,,AC24(404),richard_histoire_1970,
-fFyBS,bahangwé ya momo da ndembé wa hangwé,,,,AC24(404),richard_histoire_1970,
-fFeZS,banyongwé ya momo da sita wa hangwé,,,,AC24(405),richard_histoire_1970,
-fFeBD,bahangwé ya ndito da ntodu wa hangwé,,,,AC24(404),richard_histoire_1970,
-fFyBD,bahangwé ya ndito da ndembé wa hangwé,,,,AC24(404),richard_histoire_1970,
-fFeZD,banyongwé ya ndito da sita wa hangwé,,,,AC24(405),richard_histoire_1970,
-fMeBS,bahongwé ya momo da ntodu wa nyangwé,,,,AC24(404),richard_histoire_1970,
-fMyBS,bahongwé ya momo da ndembé wa nyangwé,,,,AC24(404),richard_histoire_1970,
-fMeZS,banyangwé ya momo da sita wa nyangwé,,,,AC24(405),richard_histoire_1970,
-fMeBD,bahongwé ya ndito da ntodu wa nyangwé,,,,AC24(404),richard_histoire_1970,
-fMyBD,bahongwé ya ndito da ndembé wa nyangwé,,,,AC24(404),richard_histoire_1970,
-fMeZD,banyangwé ya ndito da sita wa nyangwé,,,,AC24(405),richard_histoire_1970,
-fFBeS,ntodu bahangwé ya momo,,,,AC24(405),richard_histoire_1970,
-fFByS,ndembé bahangwé ya momo,,,,AC24(405),richard_histoire_1970,
-fFZeS,ntodu banyongwé ya momo,,,,AC24(405),richard_histoire_1970,
-fFZyS,ndembé banyongwé ya momo,,,,AC24(405),richard_histoire_1970,
-fFBeD,ntodu bahangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fFByD,ndembé bahangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fFZeD,ntodu banyongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fFZyD,ndembé banyongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fMBeS,ntodu bahongwé ya momo,,,,AC24(405),richard_histoire_1970,
-fMByS,ndembé bahongwé ya momo,,,,AC24(405),richard_histoire_1970,
-fMZeS,ntodu banyangwé ya momo,,,,AC24(405),richard_histoire_1970,
-fMZyS,ndembé banyangwé ya momo,,,,AC24(405),richard_histoire_1970,
-fMBeD,ntodu bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fMByD,ndembé bahongwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fMZeD,ntodu banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fMZyD,ndembé banyangwé ya ndito,,,,AC24(405),richard_histoire_1970,
-fHF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
-fHM,nhiyo nyangwé ya diba,,,iné,AC24(405),richard_histoire_1970,
-fWF,nhiyo hangwé ya diba,,,paé,AC24(405),richard_histoire_1970,
-fWM,nhiyo nyangwé ya diba,,,iné,AC24(405),richard_histoire_1970,
-fWB,ndomé ya nditu,,,,AC24(404),richard_histoire_1970,
-fWZ,iluhu ya nditu,,,,AC24(404),richard_histoire_1970,
-fHB,ndomé ya motu,,,,AC24(404),richard_histoire_1970,
-fHZ,iluhu ya motu,,,,AC24(404),richard_histoire_1970,
-fco-W,mbanyi,,,,AC24(405),richard_histoire_1970,first wife'
-fco-W,mbombi,,,,AC24(405),richard_histoire_1970,les epouses secondaires
-fFW(notM),sita,,,,AC24(405),richard_histoire_1970,
-fFBW,nlalo,,,,AC24(407),richard_histoire_1970,
-fMBW,nlalo,,,,AC24(407),richard_histoire_1970,
-fyZ,iluhu,,,,AC24(404),richard_histoire_1970,Inferred; NA
-fFyZ,nyongwé,,,,AC24(404),richard_histoire_1970,Inferred; NA
-fMyZ,iluhu ya nyangwé,,,,AC24(404),richard_histoire_1970,Inferred; NA
-fyZS,banyangwé ya momo,,,,AC24(406),richard_histoire_1970,Inferred; seen as noble
-fyZD,banyangwé ya ndito,,,,AC24(406),richard_histoire_1970,Inferred; seen as noble
-fFyZS,banyongwé ya momo,,,mola,AC24(404),richard_histoire_1970,Inferred; NA
-fFyZD,banyongwé ya ndito,,,mola,AC24(404),richard_histoire_1970,Inferred; NA
-fMyZS,banyangwé ya momo,,,,AC24(404),richard_histoire_1970,Inferred; NA
-fMyZD,banyangwé ya ndito,,,,AC24(404),richard_histoire_1970,Inferred; NA
-mSS,muna momo,,,bahangwé,AC24(404),richard_histoire_1970,
-mSS,muna momo,,,bahangwé,AC24(407),richard_histoire_1970,
-mSD,muna ndito,,,bahangwé,AC24(404),richard_histoire_1970,
-mSD,muna ndito,,,bahangwé,AC24(407),richard_histoire_1970,
-mDS,muna momo,,,bahangwé,AC24(404),richard_histoire_1970,
-mDS,muna momo,,,bahangwé,AC24(407),richard_histoire_1970,
-mDD,muna ndito,,,bahangwé,AC24(404),richard_histoire_1970,
-mDD,muna ndito,,,bahangwé,AC24(407),richard_histoire_1970,
-mBS,bandomé ya momo,,,balalo,AC24(406),richard_histoire_1970,can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female
-mBS,bandomé ya momo,,,balalo,AC24(407),richard_histoire_1970,can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female
-mBD,bandomé ya ndito,,,balalo,AC24(406),richard_histoire_1970,
-mBD,bandomé ya ndito,,,balalo,AC24(407),richard_histoire_1970,
-fSS,muna momo,,,bahangwé,AC24(404),richard_histoire_1970,
-fSS,muna momo,,,bahangwé,AC24(407),richard_histoire_1970,
-fSD,muna ndito,,,bahangwé,AC24(404),richard_histoire_1970,
-fSD,muna ndito,,,bahangwé,AC24(407),richard_histoire_1970,
-fDS,muna momo,,,bahangwé,AC24(404),richard_histoire_1970,
-fDS,muna momo,,,bahangwé,AC24(407),richard_histoire_1970,
-fDD,muna ndito,,,bahangwé,AC24(404),richard_histoire_1970,
-fDD,muna ndito,,,bahangwé,AC24(407),richard_histoire_1970,
-fBS,bandomé ya momo,,,balalo,AC24(406),richard_histoire_1970,can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female
-fBS,bandomé ya momo,,,balalo,AC24(407),richard_histoire_1970,can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female
-fBD,bandomé ya ndito,,,balalo,AC24(406),richard_histoire_1970,
-fBD,bandomé ya ndito,,,balalo,AC24(407),richard_histoire_1970,
-mB,moana-ina,,,,AC23(43),wilson_comparative_1849,
-mF,paya,,,,AC23(39),wilson_comparative_1849,
-mM,ina,,,,AC23(39),wilson_comparative_1849,
-mC,moana,,,,AC23(39),wilson_comparative_1849,
-mC,ikě-ě,,,,AC23(47),wilson_comparative_1849,closer to 'infant'
-mH,motu,,,,AC23(47),wilson_comparative_1849,also means 'person'
-mW,nditu,,,,AC23(53),wilson_comparative_1849,
-fB,moana-ina,,,,AC23(43),wilson_comparative_1849,
-fF,paya,,,,AC23(39),wilson_comparative_1849,
-fM,ina,,,,AC23(39),wilson_comparative_1849,
-fC,moana,,,,AC23(39),wilson_comparative_1849,
-fC,ikě-ě,,,,AC23(47),wilson_comparative_1849,closer to 'infant'
-fH,motu,,,,AC23(47),wilson_comparative_1849,also means 'person'
-fW,nditu,,,,AC23(53),wilson_comparative_1849,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mM","iné",,,"","AC25(405)","bessong_modeformel_1983","vocative term"
+"fM","iné",,,"","AC25(405)","bessong_modeformel_1983","vocative term"
+"mB","ndomé",,,"","AC24(404)","richard_histoire_1970",""
+"mZ","iluhu",,,"","AC24(404)","richard_histoire_1970",""
+"meB","ntodu ami",,,"","AC24(404)","richard_histoire_1970",""
+"myB","ndembé ami",,,"","AC24(404)","richard_histoire_1970",""
+"meZ","sita",,,"","AC24(407)","richard_histoire_1970",""
+"mF","hangwé",,,"","AC24(402)","richard_histoire_1970",""
+"mF","paé",,,"","AC24(405)","richard_histoire_1970","vocative term"
+"mM","nyangwé",,,"","AC24(402)","richard_histoire_1970",""
+"mC","muna",,,"","AC24(404)","richard_histoire_1970",""
+"mS","bana",,,"","AC24(406)","richard_histoire_1970",""
+"mD","bana",,,"","AC24(406)","richard_histoire_1970",""
+"mA","mbamba",,,"","AC24(404)","richard_histoire_1970",""
+"mPP","mbamba",,,"","AC24(404)","richard_histoire_1970",""
+"mFF","mbamba ya momo",,,"","AC24(404)","richard_histoire_1970","ya indicates affiliation"
+"mFM","mbamba ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"mMF","mbamba ya momo",,,"","AC24(404)","richard_histoire_1970",""
+"mMM","mbamba ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"mCC","mbamba",,,"","AC24(404)","richard_histoire_1970",""
+"mFB","ndomé ya hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFZ","nyongwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMB","hongwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMZ","iluhu ya nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFeB","ntodu wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFyB","ndembé wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFeZ","sita wa hangwé",,,"","AC24(405)","richard_histoire_1970",""
+"mMeZ","sita wa nyangwé",,,"","AC24(405)","richard_histoire_1970",""
+"mMeB","ntodu wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMyB","ndembé wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mZS","banyangwé ya momo",,,"","AC24(406)","richard_histoire_1970","seen as noble"
+"mZD","banyangwé ya ndito",,,"","AC24(406)","richard_histoire_1970","seen as noble"
+"meBS","bandomé ya momo da ntodu ami",,,"","AC24(404)","richard_histoire_1970",""
+"myBS","bandomé ya momo da ndembé ami",,,"","AC24(404)","richard_histoire_1970",""
+"meBD","bandomé ya ndito da ntodu ami",,,"","AC24(404)","richard_histoire_1970",""
+"myBD","bandomé ya ndito da ndembé ami",,,"","AC24(404)","richard_histoire_1970",""
+"meZS","banyangwé ya momo da sita",,,"","AC24(405)","richard_histoire_1970",""
+"meZD","banyangwé ya ndito da sita",,,"","AC24(405)","richard_histoire_1970",""
+"mFZD","banyongwé ya ndito",,,"mola","AC24(404)","richard_histoire_1970",""
+"mFBD","bahangwé ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"mMBD","bahongwé ya ndito",,,"mola","AC24(404)","richard_histoire_1970",""
+"mMZD","banyangwé ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"mFBS","bahangwé ya momo",,,"","AC24(404)","richard_histoire_1970",""
+"mFZS","banyongwé ya momo",,,"mola","AC24(404)","richard_histoire_1970",""
+"mMBS","bahongwé ya momo",,,"mola","AC24(404)","richard_histoire_1970",""
+"mMZS","banyangwé ya momo",,,"","AC24(404)","richard_histoire_1970",""
+"mFeBS","bahangwé ya momo da ntodu wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFyBS","bahangwé ya momo da ndembé wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFeZS","banyongwé ya momo da sita wa hangwé",,,"","AC24(405)","richard_histoire_1970",""
+"mFeBD","bahangwé ya ndito da ntodu wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFyBD","bahangwé ya ndito da ndembé wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mFeZD","banyongwé ya ndito da sita wa hangwé",,,"","AC24(405)","richard_histoire_1970",""
+"mMeBS","bahongwé ya momo da ntodu wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMyBS","bahongwé ya momo da ndembé wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMeZS","banyangwé ya momo da sita wa nyangwé",,,"","AC24(405)","richard_histoire_1970",""
+"mMeBD","bahongwé ya ndito da ntodu wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMyBD","bahongwé ya ndito da ndembé wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"mMeZD","banyangwé ya ndito da sita wa nyangwé",,,"","AC24(405)","richard_histoire_1970",""
+"mFBeS","ntodu bahangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mFByS","ndembé bahangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mFZeS","ntodu banyongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mFZyS","ndembé banyongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mFBeD","ntodu bahangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mFByD","ndembé bahangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mFZeD","ntodu banyongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mFZyD","ndembé banyongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mMBeS","ntodu bahongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mMByS","ndembé bahongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mMZeS","ntodu banyangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mMZyS","ndembé banyangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"mMBeD","ntodu bahongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mMByD","ndembé bahongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mMZeD","ntodu banyangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mMZyD","ndembé banyangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"mHF","nhiyo hangwé ya diba",,,"paé","AC24(405)","richard_histoire_1970",""
+"mHM","nhiyo nyangwé ya diba",,,"iné","AC24(405)","richard_histoire_1970",""
+"mWF","nhiyo hangwé ya diba",,,"paé","AC24(405)","richard_histoire_1970",""
+"mWM","nhiyo nyangwé ya diba",,,"iné","AC24(405)","richard_histoire_1970",""
+"mWB","ndomé ya nditu",,,"","AC24(404)","richard_histoire_1970",""
+"mWZ","iluhu ya nditu",,,"","AC24(404)","richard_histoire_1970",""
+"mHB","ndomé ya motu",,,"","AC24(404)","richard_histoire_1970",""
+"mHZ","iluhu ya motu",,,"","AC24(404)","richard_histoire_1970",""
+"mco-W","mbanyi",,,"","AC24(405)","richard_histoire_1970","first wife'"
+"mco-W","mbombi",,,"","AC24(405)","richard_histoire_1970","les epouses secondaires"
+"mFW(notM)","sita",,,"","AC24(405)","richard_histoire_1970",""
+"mFBW","nlalo",,,"","AC24(407)","richard_histoire_1970",""
+"mMBW","nlalo",,,"","AC24(407)","richard_histoire_1970",""
+"myZ","iluhu",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"mFyZ","nyongwé",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"mMyZ","iluhu ya nyangwé",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"myZS","banyangwé ya momo",,,"","AC24(406)","richard_histoire_1970","Inferred; seen as noble"
+"myZD","banyangwé ya ndito",,,"","AC24(406)","richard_histoire_1970","Inferred; seen as noble"
+"mFyZS","banyongwé ya momo",,,"mola","AC24(404)","richard_histoire_1970","Inferred; NA"
+"mFyZD","banyongwé ya ndito",,,"mola","AC24(404)","richard_histoire_1970","Inferred; NA"
+"mMyZS","banyangwé ya momo",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"mMyZD","banyangwé ya ndito",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fB","ndomé",,,"","AC24(404)","richard_histoire_1970",""
+"fZ","iluhu",,,"","AC24(404)","richard_histoire_1970",""
+"feB","ntodu ami",,,"","AC24(404)","richard_histoire_1970",""
+"fyB","ndembé ami",,,"","AC24(404)","richard_histoire_1970",""
+"feZ","sita",,,"","AC24(407)","richard_histoire_1970",""
+"fF","hangwé",,,"","AC24(402)","richard_histoire_1970",""
+"fF","paé",,,"","AC24(405)","richard_histoire_1970","vocative term"
+"fM","nyangwé",,,"","AC24(402)","richard_histoire_1970",""
+"fC","muna",,,"","AC24(404)","richard_histoire_1970",""
+"fS","bana",,,"","AC24(406)","richard_histoire_1970",""
+"fD","bana",,,"","AC24(406)","richard_histoire_1970",""
+"fA","mbamba",,,"","AC24(404)","richard_histoire_1970",""
+"fPP","mbamba",,,"","AC24(404)","richard_histoire_1970",""
+"fFF","mbamba ya momo",,,"","AC24(404)","richard_histoire_1970","ya indicates affiliation"
+"fFM","mbamba ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"fMF","mbamba ya momo",,,"","AC24(404)","richard_histoire_1970",""
+"fMM","mbamba ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"fCC","mbamba",,,"","AC24(404)","richard_histoire_1970",""
+"fFB","ndomé ya hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFZ","nyongwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMB","hongwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMZ","iluhu ya nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFeB","ntodu wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFyB","ndembé wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFeZ","sita wa hangwé",,,"","AC24(405)","richard_histoire_1970",""
+"fMeZ","sita wa nyangwé",,,"","AC24(405)","richard_histoire_1970",""
+"fMeB","ntodu wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMyB","ndembé wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fZS","banyangwé ya momo",,,"","AC24(406)","richard_histoire_1970","seen as noble"
+"fZD","banyangwé ya ndito",,,"","AC24(406)","richard_histoire_1970","seen as noble"
+"feBS","bandomé ya momo da ntodu ami",,,"","AC24(404)","richard_histoire_1970",""
+"fyBS","bandomé ya momo da ndembé ami",,,"","AC24(404)","richard_histoire_1970",""
+"feBD","bandomé ya ndito da ntodu ami",,,"","AC24(404)","richard_histoire_1970",""
+"fyBD","bandomé ya ndito da ndembé ami",,,"","AC24(404)","richard_histoire_1970",""
+"feZS","banyangwé ya momo da sita",,,"","AC24(405)","richard_histoire_1970",""
+"feZD","banyangwé ya ndito da sita",,,"","AC24(405)","richard_histoire_1970",""
+"fFZD","banyongwé ya ndito",,,"mola","AC24(404)","richard_histoire_1970",""
+"fFBD","bahangwé ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"fMBD","bahongwé ya ndito",,,"mola","AC24(404)","richard_histoire_1970",""
+"fMZD","banyangwé ya ndito",,,"","AC24(404)","richard_histoire_1970",""
+"fFBS","bahangwé ya momo",,,"","AC24(404)","richard_histoire_1970",""
+"fFZS","banyongwé ya momo",,,"mola","AC24(404)","richard_histoire_1970",""
+"fMBS","bahongwé ya momo",,,"mola","AC24(404)","richard_histoire_1970",""
+"fMZS","banyangwé ya momo",,,"","AC24(404)","richard_histoire_1970",""
+"fFeBS","bahangwé ya momo da ntodu wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFyBS","bahangwé ya momo da ndembé wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFeZS","banyongwé ya momo da sita wa hangwé",,,"","AC24(405)","richard_histoire_1970",""
+"fFeBD","bahangwé ya ndito da ntodu wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFyBD","bahangwé ya ndito da ndembé wa hangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fFeZD","banyongwé ya ndito da sita wa hangwé",,,"","AC24(405)","richard_histoire_1970",""
+"fMeBS","bahongwé ya momo da ntodu wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMyBS","bahongwé ya momo da ndembé wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMeZS","banyangwé ya momo da sita wa nyangwé",,,"","AC24(405)","richard_histoire_1970",""
+"fMeBD","bahongwé ya ndito da ntodu wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMyBD","bahongwé ya ndito da ndembé wa nyangwé",,,"","AC24(404)","richard_histoire_1970",""
+"fMeZD","banyangwé ya ndito da sita wa nyangwé",,,"","AC24(405)","richard_histoire_1970",""
+"fFBeS","ntodu bahangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fFByS","ndembé bahangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fFZeS","ntodu banyongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fFZyS","ndembé banyongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fFBeD","ntodu bahangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fFByD","ndembé bahangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fFZeD","ntodu banyongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fFZyD","ndembé banyongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fMBeS","ntodu bahongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fMByS","ndembé bahongwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fMZeS","ntodu banyangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fMZyS","ndembé banyangwé ya momo",,,"","AC24(405)","richard_histoire_1970",""
+"fMBeD","ntodu bahongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fMByD","ndembé bahongwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fMZeD","ntodu banyangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fMZyD","ndembé banyangwé ya ndito",,,"","AC24(405)","richard_histoire_1970",""
+"fHF","nhiyo hangwé ya diba",,,"paé","AC24(405)","richard_histoire_1970",""
+"fHM","nhiyo nyangwé ya diba",,,"iné","AC24(405)","richard_histoire_1970",""
+"fWF","nhiyo hangwé ya diba",,,"paé","AC24(405)","richard_histoire_1970",""
+"fWM","nhiyo nyangwé ya diba",,,"iné","AC24(405)","richard_histoire_1970",""
+"fWB","ndomé ya nditu",,,"","AC24(404)","richard_histoire_1970",""
+"fWZ","iluhu ya nditu",,,"","AC24(404)","richard_histoire_1970",""
+"fHB","ndomé ya motu",,,"","AC24(404)","richard_histoire_1970",""
+"fHZ","iluhu ya motu",,,"","AC24(404)","richard_histoire_1970",""
+"fco-W","mbanyi",,,"","AC24(405)","richard_histoire_1970","first wife'"
+"fco-W","mbombi",,,"","AC24(405)","richard_histoire_1970","les epouses secondaires"
+"fFW(notM)","sita",,,"","AC24(405)","richard_histoire_1970",""
+"fFBW","nlalo",,,"","AC24(407)","richard_histoire_1970",""
+"fMBW","nlalo",,,"","AC24(407)","richard_histoire_1970",""
+"fyZ","iluhu",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fFyZ","nyongwé",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fMyZ","iluhu ya nyangwé",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fyZS","banyangwé ya momo",,,"","AC24(406)","richard_histoire_1970","Inferred; seen as noble"
+"fyZD","banyangwé ya ndito",,,"","AC24(406)","richard_histoire_1970","Inferred; seen as noble"
+"fFyZS","banyongwé ya momo",,,"mola","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fFyZD","banyongwé ya ndito",,,"mola","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fMyZS","banyangwé ya momo",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"fMyZD","banyangwé ya ndito",,,"","AC24(404)","richard_histoire_1970","Inferred; NA"
+"mSS","muna momo",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"mSS","muna momo",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"mSD","muna ndito",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"mSD","muna ndito",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"mDS","muna momo",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"mDS","muna momo",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"mDD","muna ndito",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"mDD","muna ndito",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"mBS","bandomé ya momo",,,"balalo","AC24(406)","richard_histoire_1970","can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female"
+"mBS","bandomé ya momo",,,"balalo","AC24(407)","richard_histoire_1970","can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female"
+"mBD","bandomé ya ndito",,,"balalo","AC24(406)","richard_histoire_1970",""
+"mBD","bandomé ya ndito",,,"balalo","AC24(407)","richard_histoire_1970",""
+"fSS","muna momo",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"fSS","muna momo",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"fSD","muna ndito",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"fSD","muna ndito",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"fDS","muna momo",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"fDS","muna momo",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"fDD","muna ndito",,,"bahangwé","AC24(404)","richard_histoire_1970",""
+"fDD","muna ndito",,,"bahangwé","AC24(407)","richard_histoire_1970",""
+"fBS","bandomé ya momo",,,"balalo","AC24(406)","richard_histoire_1970","can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female"
+"fBS","bandomé ya momo",,,"balalo","AC24(407)","richard_histoire_1970","can qualify with gender by adding 'ya momo' for male and 'ya ndito' for female"
+"fBD","bandomé ya ndito",,,"balalo","AC24(406)","richard_histoire_1970",""
+"fBD","bandomé ya ndito",,,"balalo","AC24(407)","richard_histoire_1970",""
+"mB","moana-ina",,,"","AC23(43)","wilson_comparative_1849",""
+"mF","paya",,,"","AC23(39)","wilson_comparative_1849",""
+"mM","ina",,,"","AC23(39)","wilson_comparative_1849",""
+"mC","moana",,,"","AC23(39)","wilson_comparative_1849",""
+"mC","ikě-ě",,,"","AC23(47)","wilson_comparative_1849","closer to 'infant'"
+"mH","motu",,,"","AC23(47)","wilson_comparative_1849","also means 'person'"
+"mW","nditu",,,"","AC23(53)","wilson_comparative_1849",""
+"fB","moana-ina",,,"","AC23(43)","wilson_comparative_1849",""
+"fF","paya",,,"","AC23(39)","wilson_comparative_1849",""
+"fM","ina",,,"","AC23(39)","wilson_comparative_1849",""
+"fC","moana",,,"","AC23(39)","wilson_comparative_1849",""
+"fC","ikě-ě",,,"","AC23(47)","wilson_comparative_1849","closer to 'infant'"
+"fH","motu",,,"","AC23(47)","wilson_comparative_1849","also means 'person'"
+"fW","nditu",,,"","AC23(53)","wilson_comparative_1849",""

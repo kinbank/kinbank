@@ -1,95 +1,159 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,sia'a,,male ego's older brother,,,,
-myB,tuai,,male ego's younger brother,,,,
-feB,sia'a,,female ego's older brother,,,,
-fyB,tuai,,female ego's younger brother,,,,
-meZ,sia'a,,male ego's older sister,,,,
-myZ,tuai,,male ego's younger sister,,,,
-feZ,sia'a,,female ego's older sister,,,,
-fyZ,tuai,,female ego's younger sister,,,,
-mF,siamang,,male ego's father,,,,
-mM,"sinang, sina -nya",,male ego's mother,,,,
-fF,siamang,,female ego's father,,,,
-fM,"sinang, sina -nya",,female ego's mother,,,,
-mS,ngana' -anya,,male ego's son,,,,
-fS,ngana' -anya,,female ego's son,,,,
-mD,ngana' -anya,,male ego's daughter,,,,
-fD,ngana' -anya,,female ego's daughter,,,,
-mSS,"ma'upu, mo'upu",,male ego's son's son,,,,
-mSD,"ma'upu, mo'upu",,male ego's son's daughter,,,,
-mDS,"ma'upu, mo'upu",,male ego's daughter's son,,,,
-mDD,"ma'upu, mo'upu",,male ego's daughter's daughter,,,,
-fSS,"ma'upu, mo'upu",,female ego's son's son,,,,
-fSD,"ma'upu, mo'upu",,female ego's son's daughter,,,,
-fDS,"ma'upu, mo'upu",,female ego's daughter's son,,,,
-fDD,"ma'upu, mo'upu",,female ego's daugher's daughter,,,,
-mFF,kai -nya,,male ego's father‘s father,,,,
-mFM,tete -nya,,male ego's father's mother,,,,
-mMF,kai -nya,,male ego's mother's father,,,,
-mMM,tete -nya,,male ego's mother's mother,,,,
-fFF,kai -nya,,female ego's father's father,,,,
-fFM,tete -nya,,female ego's father's mother,,,,
-fMF,kai -nya,,female ego's mother's father,,,,
-fMM,tete -nya,,female ego's mother's mother,,,,
-meBS,"poanaung, poana'ong",,male ego's older brother's son,,,,
-myBS,"poanaung, poana'ong",,male ego's younger brother's son,,,,
-meZS,"poanaung, poana'ong",,male ego's older sister's son,,,,
-myZS,"poanaung, poana'ong",,male ego's younger sister's son,,,,
-meBD,"poanaung, poana'ong",,male ego's older brother's daughter,,,,
-myBD,"poanaung, poana'ong",,male ego's younger brother's daughter,,,,
-meZD,"poanaung, poana'ong",,male ego's older sister's daughter,,,,
-myZD,"poanaung, poana'ong",,male ego's younger sister's daughter,,,,
-feBS,"poanaung, poana'ong",,female ego's older brother's son,,,,
-fyBS,"poanaung, poana'ong",,female ego's younger brother's son,,,,
-feZS,"poanaung, poana'ong",,female ego's older sister's son,,,,
-fyZS,"poanaung, poana'ong",,female ego's younger sister's son,,,,
-feBD,"poanaung, poana'ong",,female ego's older brother's daughter,,,,
-fyBD,"poanaung, poana'ong",,female ego's younger brother's daughter,,,,
-feZD,"poanaung, poana'ong",,female ego's older sister's daughter,,,,
-fyZD,"poanaung, poana'ong",,female ego's younger sister's daughter,,,,
-mFeB,"posiamaung, posiamaong",,male ego's father's older brother,,,,
-mFyB,"posiamaung, posiamaong",,male ego's father's younger brother,,,,
-mFeZ,"posinaung, posinaong",,male ego's father's older sister,,,,
-mFyZ,"posinaung, posinaong",,male ego's father's younger sister,,,,
-mMeB,"posiamaung, posiamaong",,male ego's mother's older brother,,,,
-mMyB,"posiamaung, posiamaong",,male ego's mother's younger brother,,,,
-mMeZ,"posinaung, posinaong",,male ego's mother's older sister,,,,
-mMyZ,"posinaung, posinaong",,male ego's mother's younger sister,,,,
-fFeB,"posiamaung, posiamaong",,female ego's father's older brother,,,,
-fFyB,"posiamaung, posiamaong",,female ego's father's younger brother,,,,
-fFeZ,"posinaung, posinaong",,female ego's father's older sister,,,,
-fFyZ,"posinaung, posinaong",,female ego's father's younger sister,,,,
-fMeB,"posiamaung, posiamaong",,female ego's mother's older brother,,,,
-fMyB,"posiamaung, posiamaong",,female ego's mother's younger brother,,,,
-fMeZ,"posinaung, posinaong",,female ego's mother's older sister,,,,
-fMyZ,"posinaung, posinaong",,female ego's mother's younger sister,,,,
-mW,haapi,,male ego's wife,,,,
-fH,haapi,,female ego‘s husband,,,,
-mDH,tomadait,,male ego's daughter's husband,,,,
-fDH,tomadait,,female ego's daughter's husband,,,,
-mSW,tomadait,,male ego's son's wife,,,,
-fSW,tomadait,,female ego's son's wife,,,,
-mWF,"maniang, meniang",,male ego's wife's father,,,,
-mWM,"maniang, meniang",,male ego's wife's mother,,,,
-mWB,ipag mo-,,male ego's wife's brother,,,,
-fHF,"maniang, meniang",,female ego's husband's father,,,,
-fHM,"maniang, meniang",,female ego's husband's mother,,,,
-fHB,ipag mo-,,female ego's husband's brother,,,,
-mZH,ipag mo-,,male ego's sister's husband,,,,
-fZH,ipag mo-,,female ego's sister's husband,,,,
-mFBS,"pontolituai sembiti, sana sembiti",,male ego's father's brother's son,,,,
-mFZS,"pontolituai sembiti, sana sembiti",,male ego's father's sister's son,,,,
-mMBS,"pontolituai sembiti, sana sembiti",,male ego's mother's brother's son,,,,
-mMZS,"pontolituai sembiti, sana sembiti",,male ego's mother's sister's son,,,,
-mFBD,"pontolituai sembiti, sana sembiti",,male ego's father's brother's daughter,,,,
-mFZD,"pontolituai sembiti, sana sembiti",,male ego's father's sister's daughter,,,,
-mMBD,"pontolituai sembiti, sana sembiti",,male ego's mother's brother's daughter,,,,
-mMZD,"pontolituai sembiti, sana sembiti",,male ego's mother's sister's daughter,,,,
-fFBS,"pontolituai sembiti, sana sembiti",,female ego's father's brother's son,,,,
-fFZS,"pontolituai sembiti, sana sembiti",,female ego's father's sister's son,,,,
-fMBS,"pontolituai sembiti, sana sembiti",,female ego's mother's brother's son,,,,
-fMZS,"pontolituai sembiti, sana sembiti",,female ego's mother's sister's son,,,,
-fFBD,"pontolituai sembiti, sana sembiti",,female ego's father's brother's daughter,,,,
-fFZD,"pontolituai sembiti, sana sembiti",,female ego's father's sister's daughter,,,,
-fMBD,"pontolituai sembiti, sana sembiti",,female ego's mother's brother's daughter,,,,
-fMZD,"pontolituai sembiti, sana sembiti",,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","sia'a",,"male ego's older brother",,,,
+"myB","tuai",,"male ego's younger brother",,,,
+"feB","sia'a",,"female ego's older brother",,,,
+"fyB","tuai",,"female ego's younger brother",,,,
+"meZ","sia'a",,"male ego's older sister",,,,
+"myZ","tuai",,"male ego's younger sister",,,,
+"feZ","sia'a",,"female ego's older sister",,,,
+"fyZ","tuai",,"female ego's younger sister",,,,
+"mF","siamang",,"male ego's father",,,,
+"mM","sinang, sina -nya",,"male ego's mother",,,,
+"fF","siamang",,"female ego's father",,,,
+"fM","sinang, sina -nya",,"female ego's mother",,,,
+"mS","ngana' -anya",,"male ego's son",,,,
+"fS","ngana' -anya",,"female ego's son",,,,
+"mD","ngana' -anya",,"male ego's daughter",,,,
+"fD","ngana' -anya",,"female ego's daughter",,,,
+"mSS","ma'upu, mo'upu",,"male ego's son's son",,,,
+"mSD","ma'upu, mo'upu",,"male ego's son's daughter",,,,
+"mDS","ma'upu, mo'upu",,"male ego's daughter's son",,,,
+"mDD","ma'upu, mo'upu",,"male ego's daughter's daughter",,,,
+"fSS","ma'upu, mo'upu",,"female ego's son's son",,,,
+"fSD","ma'upu, mo'upu",,"female ego's son's daughter",,,,
+"fDS","ma'upu, mo'upu",,"female ego's daughter's son",,,,
+"fDD","ma'upu, mo'upu",,"female ego's daugher's daughter",,,,
+"mFF","kai -nya",,"male ego's father‘s father",,,,
+"mFM","tete -nya",,"male ego's father's mother",,,,
+"mMF","kai -nya",,"male ego's mother's father",,,,
+"mMM","tete -nya",,"male ego's mother's mother",,,,
+"fFF","kai -nya",,"female ego's father's father",,,,
+"fFM","tete -nya",,"female ego's father's mother",,,,
+"fMF","kai -nya",,"female ego's mother's father",,,,
+"fMM","tete -nya",,"female ego's mother's mother",,,,
+"meBS","poanaung, poana'ong",,"male ego's older brother's son",,,,
+"myBS","poanaung, poana'ong",,"male ego's younger brother's son",,,,
+"meZS","poanaung, poana'ong",,"male ego's older sister's son",,,,
+"myZS","poanaung, poana'ong",,"male ego's younger sister's son",,,,
+"meBD","poanaung, poana'ong",,"male ego's older brother's daughter",,,,
+"myBD","poanaung, poana'ong",,"male ego's younger brother's daughter",,,,
+"meZD","poanaung, poana'ong",,"male ego's older sister's daughter",,,,
+"myZD","poanaung, poana'ong",,"male ego's younger sister's daughter",,,,
+"feBS","poanaung, poana'ong",,"female ego's older brother's son",,,,
+"fyBS","poanaung, poana'ong",,"female ego's younger brother's son",,,,
+"feZS","poanaung, poana'ong",,"female ego's older sister's son",,,,
+"fyZS","poanaung, poana'ong",,"female ego's younger sister's son",,,,
+"feBD","poanaung, poana'ong",,"female ego's older brother's daughter",,,,
+"fyBD","poanaung, poana'ong",,"female ego's younger brother's daughter",,,,
+"feZD","poanaung, poana'ong",,"female ego's older sister's daughter",,,,
+"fyZD","poanaung, poana'ong",,"female ego's younger sister's daughter",,,,
+"mFeB","posiamaung, posiamaong",,"male ego's father's older brother",,,,
+"mFyB","posiamaung, posiamaong",,"male ego's father's younger brother",,,,
+"mFeZ","posinaung, posinaong",,"male ego's father's older sister",,,,
+"mFyZ","posinaung, posinaong",,"male ego's father's younger sister",,,,
+"mMeB","posiamaung, posiamaong",,"male ego's mother's older brother",,,,
+"mMyB","posiamaung, posiamaong",,"male ego's mother's younger brother",,,,
+"mMeZ","posinaung, posinaong",,"male ego's mother's older sister",,,,
+"mMyZ","posinaung, posinaong",,"male ego's mother's younger sister",,,,
+"fFeB","posiamaung, posiamaong",,"female ego's father's older brother",,,,
+"fFyB","posiamaung, posiamaong",,"female ego's father's younger brother",,,,
+"fFeZ","posinaung, posinaong",,"female ego's father's older sister",,,,
+"fFyZ","posinaung, posinaong",,"female ego's father's younger sister",,,,
+"fMeB","posiamaung, posiamaong",,"female ego's mother's older brother",,,,
+"fMyB","posiamaung, posiamaong",,"female ego's mother's younger brother",,,,
+"fMeZ","posinaung, posinaong",,"female ego's mother's older sister",,,,
+"fMyZ","posinaung, posinaong",,"female ego's mother's younger sister",,,,
+"mW","haapi",,"male ego's wife",,,,
+"fH","haapi",,"female ego‘s husband",,,,
+"mDH","tomadait",,"male ego's daughter's husband",,,,
+"fDH","tomadait",,"female ego's daughter's husband",,,,
+"mSW","tomadait",,"male ego's son's wife",,,,
+"fSW","tomadait",,"female ego's son's wife",,,,
+"mWF","maniang, meniang",,"male ego's wife's father",,,,
+"mWM","maniang, meniang",,"male ego's wife's mother",,,,
+"mWB","ipag mo-",,"male ego's wife's brother",,,,
+"fHF","maniang, meniang",,"female ego's husband's father",,,,
+"fHM","maniang, meniang",,"female ego's husband's mother",,,,
+"fHB","ipag mo-",,"female ego's husband's brother",,,,
+"mZH","ipag mo-",,"male ego's sister's husband",,,,
+"fZH","ipag mo-",,"female ego's sister's husband",,,,
+"mFBS","pontolituai sembiti, sana sembiti",,"male ego's father's brother's son",,,,
+"mFZS","pontolituai sembiti, sana sembiti",,"male ego's father's sister's son",,,,
+"mMBS","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's son",,,,
+"mMZS","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's son",,,,
+"mFBD","pontolituai sembiti, sana sembiti",,"male ego's father's brother's daughter",,,,
+"mFZD","pontolituai sembiti, sana sembiti",,"male ego's father's sister's daughter",,,,
+"mMBD","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's daughter",,,,
+"mMZD","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's daughter",,,,
+"fFBS","pontolituai sembiti, sana sembiti",,"female ego's father's brother's son",,,,
+"fFZS","pontolituai sembiti, sana sembiti",,"female ego's father's sister's son",,,,
+"fMBS","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's son",,,,
+"fMZS","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's son",,,,
+"fFBD","pontolituai sembiti, sana sembiti",,"female ego's father's brother's daughter",,,,
+"fFZD","pontolituai sembiti, sana sembiti",,"female ego's father's sister's daughter",,,,
+"fMBD","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's daughter",,,,
+"fMZD","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's daughter",,,,
+"mFeBS","pontolituai sembiti, sana sembiti",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","pontolituai sembiti, sana sembiti",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","pontolituai sembiti, sana sembiti",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","pontolituai sembiti, sana sembiti",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","pontolituai sembiti, sana sembiti",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","pontolituai sembiti, sana sembiti",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","pontolituai sembiti, sana sembiti",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","pontolituai sembiti, sana sembiti",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","pontolituai sembiti, sana sembiti",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","pontolituai sembiti, sana sembiti",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","pontolituai sembiti, sana sembiti",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","pontolituai sembiti, sana sembiti",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","pontolituai sembiti, sana sembiti",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","pontolituai sembiti, sana sembiti",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","pontolituai sembiti, sana sembiti",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","pontolituai sembiti, sana sembiti",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","pontolituai sembiti, sana sembiti",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","pontolituai sembiti, sana sembiti",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","pontolituai sembiti, sana sembiti",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","pontolituai sembiti, sana sembiti",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","pontolituai sembiti, sana sembiti",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","pontolituai sembiti, sana sembiti",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","pontolituai sembiti, sana sembiti",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","pontolituai sembiti, sana sembiti",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","pontolituai sembiti, sana sembiti",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","pontolituai sembiti, sana sembiti",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","pontolituai sembiti, sana sembiti",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","pontolituai sembiti, sana sembiti",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","pontolituai sembiti, sana sembiti",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","pontolituai sembiti, sana sembiti",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","pontolituai sembiti, sana sembiti",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","pontolituai sembiti, sana sembiti",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","pontolituai sembiti, sana sembiti",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","pontolituai sembiti, sana sembiti",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","pontolituai sembiti, sana sembiti",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","pontolituai sembiti, sana sembiti",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

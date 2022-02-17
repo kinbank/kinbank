@@ -1,232 +1,235 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mZ,hamut,,,,AET1(54),gifford_californian_1922,
-meB,pas,,,,AET1(54),gifford_californian_1922,
-myB,prit,,,,AET1(54),gifford_californian_1922,
-mM,yu',,,,AET1(54),gifford_californian_1922,
-mS,maiyin,,,,AET1(54),gifford_californian_1922,
-mMF,kwat,,,,AET1(54),gifford_californian_1922,
-mMM,tcur,,,,AET1(54),gifford_californian_1922,
-mMeZ,num,,,,AET1(54),gifford_californian_1922,
-mMyZ,yür,,,,AET1(54),gifford_californian_1922,
-meBS,aka,,,,AET1(54),gifford_californian_1922,
-myBS,kumu,,,,AET1(54),gifford_californian_1922,
-meBD,aka,,,,AET1(54),gifford_californian_1922,
-myBD,kumu,,,,AET1(54),gifford_californian_1922,
-mFeBS,pas,,,,AET1(55),gifford_californian_1922,
-mFyBS,prit,,,,AET1(55),gifford_californian_1922,
-mFeBD,kör,,,,AET1(55),gifford_californian_1922,
-mFyBD,pit,,,,AET1(55),gifford_californian_1922,
-mMeZS,pas,,,,AET1(55),gifford_californian_1922,
-mMyZS,prit,,,,AET1(55),gifford_californian_1922,
-mMeBD,kör,,,,AET1(55),gifford_californian_1922,
-mH,wetcau,,,,AET1(55),gifford_californian_1922,
-mW,hintuwa,,,,AET1(55),gifford_californian_1922,
-mBW,akanapoiye,,,,AET1(56),gifford_californian_1922,(m-s)eBW after BW has a child (w-s) BW after she has a child
-mBW,kumunpoiye,,,,AET1(56),gifford_californian_1922,MAN: yBW after BW has a child WOMAN: BW before she has a child
-mZH,an,,,,AET1(56),gifford_californian_1922,before Z bears a child
-mZH,ahidana,,,,AET1(56),gifford_californian_1922,after Z bears a child
-mWB,an,,,,AET1(56),gifford_californian_1922,
-mWZ,kuhan,,,,AET1(56),gifford_californian_1922,
-mHZ,kaka,,,,AET1(56),gifford_californian_1922,before speaker (?) has a child
-mHZ,aminyeka,,,,AET1(56),gifford_californian_1922,afterspeaker (?) has a child
-mco-W,nahit,,,,AET1(56),gifford_californian_1922,
-mco-W,kör,,,,AET1(56),gifford_californian_1922,earlier Co-W
-mco-W,pit,,,,AET1(56),gifford_californian_1922,later Co-W
-mFW(notM),yür,,,,AET1(56),gifford_californian_1922,
-mMH(notF),mak,,,,AET1(56),gifford_californian_1922,
-mSW,mya^uk,,,,AET1(56),gifford_californian_1922,before she bears a child
-mSW,makaiye,,,,AET1(56),gifford_californian_1922,after she bears a child - literal meaning 'son's child's mother'
-mDH,kwaritanak,,,,AET1(56),gifford_californian_1922,after daughter has a child - kwaritanak literal meaning 'man's daughter's child's father' tcuritanak literal meaning 'woman's daughter's child's father'
-mFZH,tad,,,,AET1(56),gifford_californian_1922,
-mFBW,num,,,,AET1(56),gifford_californian_1922,FeBW
-mFBW,yür,,,,AET1(56),gifford_californian_1922,FyBW
-mMZH,kumu,,,,AET1(56),gifford_californian_1922,MeZH
-mMZH,mac,,,,AET1(56),gifford_californian_1922,MyZH
-mMBW,pa',,,,AET1(56),gifford_californian_1922,
-fB,hamut,,,,AET1(54),gifford_californian_1922,
-feB,pas,,,,AET1(54),gifford_californian_1922,
-fyB,prit,,,,AET1(54),gifford_californian_1922,
-fM,yu',,,,AET1(54),gifford_californian_1922,
-fS,maiyin,,,,AET1(54),gifford_californian_1922,
-fMF,kwat,,,,AET1(54),gifford_californian_1922,
-fMM,tcur,,,,AET1(54),gifford_californian_1922,
-fMeZ,num,,,,AET1(54),gifford_californian_1922,
-fMyZ,yür,,,,AET1(54),gifford_californian_1922,
-feBS,aka,,,,AET1(54),gifford_californian_1922,
-fyBS,kumu,,,,AET1(54),gifford_californian_1922,
-feBD,aka,,,,AET1(54),gifford_californian_1922,
-fyBD,kumu,,,,AET1(54),gifford_californian_1922,
-feZS,mac,,,,AET1(54),gifford_californian_1922,
-fyZS,num,,,,AET1(54),gifford_californian_1922,
-feZD,mac,,,,AET1(54),gifford_californian_1922,
-fyZD,num,,,,AET1(54),gifford_californian_1922,
-fFeBS,pas,,,,AET1(55),gifford_californian_1922,
-fFyBS,prit,,,,AET1(55),gifford_californian_1922,
-fFeBD,kör,,,,AET1(55),gifford_californian_1922,
-fFyBD,pit,,,,AET1(55),gifford_californian_1922,
-fMeZS,pas,,,,AET1(55),gifford_californian_1922,
-fMyZS,prit,,,,AET1(55),gifford_californian_1922,
-fMeBD,kör,,,,AET1(55),gifford_californian_1922,
-fH,wetcau,,,,AET1(55),gifford_californian_1922,
-fW,hintuwa,,,,AET1(55),gifford_californian_1922,
-fHF,kakaiyek,,,,AET1(55),gifford_californian_1922,after speaker bears a child'
-fHM,kakaiyek,,,,AET1(55),gifford_californian_1922,after speaker bears a child'
-fHF,miau'ka,,,,AET1(55),gifford_californian_1922,before speaker bears a child'
-fHM,miau'ka,,,,AET1(55),gifford_californian_1922,before speaker bears a child'
-fBW,amsaiye,,,,AET1(56),gifford_californian_1922,(m-s)eBW after BW has a child (w-s) BW after she has a child
-fBW,kaka,,,,AET1(56),gifford_californian_1922,MAN: yBW after BW has a child WOMAN: BW before she has a child
-fZH,kuhan,,,,AET1(56),gifford_californian_1922,before Z bears a child
-fZH,nahit,,,,AET1(56),gifford_californian_1922,after Z bears a child
-fZH,nampena,,,,AET1(56),gifford_californian_1922,eZH after eZ has child
-fZH,numana,,,,AET1(56),gifford_californian_1922,yZH after yZ has a child
-fDH,tcuritanak,,,,AET1(56),gifford_californian_1922,after daughter has a child - kwaritanak literal meaning 'man's daughter's child's father' tcuritanak literal meaning 'woman's daughter's child's father'
-meZ,-qöö˞r,,,,UTO4(327),gifford_californian_1922,; cogid=2000
-myZ,piit,,,,UTO4(327),gifford_californian_1922,; cogid=2001c
-mF,-na',,,,UTO4(174),gifford_californian_1922,; cogid=848
-mD,ʂuuŋ,,,,UTO4(402),gifford_californian_1922,mant's daughter; cogid=2575d
-mFF,ka',,,,UTO4(200),gifford_californian_1922,
-mMB,taar,,,AET1(54) uses 'taar' for both m-s and w-s,UTO4(381),gifford_californian_1922,"cross uncle (mb, fsh); cogid=2432"
-mFeB,kuumu,,,AET1(54) uses kuumu for both m-s and w-s,UTO4(381),gifford_californian_1922,"older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-mFyB,maq,,,,UTO4(381),gifford_californian_1922,; cogid=2433
-mMBW,pah,,,,UTO4(61),gifford_californian_1922,"cross aunt: fs, mbw; cogid=88a"
-feZ,-qöö˞r,,,,UTO4(327),gifford_californian_1922,; cogid=2000
-fyZ,piit,,,,UTO4(327),gifford_californian_1922,; cogid=2001c
-fF,-na',,,,UTO4(174),gifford_californian_1922,; cogid=848
-fD,pulin,,,,UTO4(72),gifford_californian_1922,woman's daughter; cogid=138
-fFF,ka',,,,UTO4(200),gifford_californian_1922,
-fFZ,pah,,,AET1(54) uses 'pah' for both m-s and w-s,UTO4(61),gifford_californian_1922,"cross aunt: fs, mbw; cogid=88a"
-fFyB,maq,,,,UTO4(381),gifford_californian_1922,; cogid=2433
-fMBW,pah,,,,UTO4(61),gifford_californian_1922,"cross aunt: fs, mbw; cogid=88a"
-fFeZ,pah,,,AET1(54) uses 'pah' for both m-s and w-s,UTO4(61),gifford_californian_1922,"Inferred; cross aunt: fs, mbw; cogid=88a"
-meB,paar,,,,UTO4(98),stubbs_uto-aztecan_2011,; cogid=305
-myB,pö˞it,,,,UTO4(99),stubbs_uto-aztecan_2011,"first vowel has superscript r after, which I'm interpreting as an r-coloured vowel; cogid=310.b"
-mM,yï',,,,UTO4(257),stubbs_uto-aztecan_2011,
-mC,maih-c,,,,UTO4(72),stubbs_uto-aztecan_2011,"young one, child; cogid=140"
-mFF,-ka',,,,UTO4(200),stubbs_uto-aztecan_2011,paternal grandrelative; cogid=1050a
-mFM,-kak-,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1050a
-mMF,kwaari',,,,UTO4(200),stubbs_uto-aztecan_2011,
-mMM,čuuri',,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1051
-mMM,kwaar|i',,,,UTO4(340),stubbs_uto-aztecan_2011,maternal grandmother; cogid=2086
-mMZ,pah,,,,UTO4(61),stubbs_uto-aztecan_2011,"cross aunt: fs, mbw; cogid=88a"
-mMeZ,nïm,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=87
-mMyZ,yïïr,,,,UTO4(61),stubbs_uto-aztecan_2011,"younger parallel aunt; cogid=90a ""Many of these mean 'stepmother' and 'mys'"
-mMyB,taar,,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; cross uncle (mb, fsh); cogid=2432"
-mZS,'aahir,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=85
-mZS,mašt,,,,UTO4(61),stubbs_uto-aztecan_2011,"woman's parallel nephew, niece; cogid=86"
-mZS,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-mZD,'aahir,,,,UTO4(61),stubbs_uto-aztecan_2011,"man's cross nephew, niece; cogid=85"
-mZD,mašt,,,,UTO4(61),stubbs_uto-aztecan_2011,"woman's parallel nephew, niece; cogid=86"
-mZD,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-meZS,'aahir,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=85
-meZS,mašt,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; woman's parallel nephew, niece; cogid=86"
-meZS,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-myZS,'aahir,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=85
-myZS,mašt,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; woman's parallel nephew, niece; cogid=86"
-myZS,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-meZD,'aahir,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; man's cross nephew, niece; cogid=85"
-meZD,mašt,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; woman's parallel nephew, niece; cogid=86"
-meZD,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-myZD,'aahir,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; man's cross nephew, niece; cogid=85"
-myZD,mašt,,,,UTO4(61),stubbs_uto-aztecan_2011,"Inferred; woman's parallel nephew, niece; cogid=86"
-myZD,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-mFZD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-mMBD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-mFZS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-mFZS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"male friend, cross-cousin; cogid=2435"
-mMBS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-mMBS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"male friend, cross-cousin; cogid=2435"
-mFeZS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFeZS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mFyZS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFyZS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mFeZD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFyZD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMeBS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMeBS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mMyBS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMyBS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mMeBD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMyBD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFZeS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFZeS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mFZyS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFZyS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mFZeD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mFZyD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMBeS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMBeS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mMByS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMByS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-mMBeD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mMByD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-mBW,kuuhan,,,,UTO4(299),stubbs_uto-aztecan_2011,"cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
-mWZ,kuuhan,,,,UTO4(299),stubbs_uto-aztecan_2011,"cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
-mDH,kwa',,,,UTO4(340),stubbs_uto-aztecan_2011,man's son in law; cogid=2086
-mFZH,taar,,,,UTO4(381),stubbs_uto-aztecan_2011,"cross uncle (mb, fsh); cogid=2432"
-mTW,čiiqwt,,,,UTO4(381),stubbs_uto-aztecan_2011,; cogid=2427
-feB,paar,,,,UTO4(98),stubbs_uto-aztecan_2011,; cogid=305
-fyB,pö˞it,,,,UTO4(99),stubbs_uto-aztecan_2011,"first vowel has superscript r after, which I'm interpreting as an r-coloured vowel; cogid=310.b"
-fM,yï',,,,UTO4(257),stubbs_uto-aztecan_2011,
-fC,maih-c,,,,UTO4(72),stubbs_uto-aztecan_2011,"young one, child; cogid=140"
-fFF,-ka',,,,UTO4(200),stubbs_uto-aztecan_2011,paternal grandrelative; cogid=1050a
-fFM,-kak-,,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1050a
-fMF,kwaari',,,,UTO4(200),stubbs_uto-aztecan_2011,
-fMM,čuuri',,,,UTO4(200),stubbs_uto-aztecan_2011,; cogid=1051
-fMM,kwaar|i',,,,UTO4(340),stubbs_uto-aztecan_2011,maternal grandmother; cogid=2086
-fFB,taar,,,,UTO4(381),stubbs_uto-aztecan_2011,"cross uncle (mb, fsh); cogid=2432"
-fFyZ,yïïr,,,,UTO4(61),stubbs_uto-aztecan_2011,"; cogid=90a ""Many of these mean 'stepmother' and 'mys'"
-fMeZ,nïm,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=87
-fMeB,kuumu,,,,UTO4(381),stubbs_uto-aztecan_2011,"older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-fFZD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-fMBD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-fFZS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-fFZS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"male friend, cross-cousin; cogid=2435"
-fMBS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,; cogid=1787
-fMBS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"male friend, cross-cousin; cogid=2435"
-fFeZS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFeZS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fFyZS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFyZS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fFeZD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFyZD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMeBS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMeBS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fMyBS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMyBS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fMeBD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMyBD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFZeS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFZeS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fFZyS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFZyS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fFZeD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fFZyD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMBeS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMBeS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fMByS,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMByS,puyu',,,,UTO4(381),stubbs_uto-aztecan_2011,"Inferred; male friend, cross-cousin; cogid=2435"
-fMBeD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fMByD,noko',,,,UTO4(299),stubbs_uto-aztecan_2011,Inferred; ; cogid=1787
-fH,wöčahav,,,,UTO4(227),stubbs_uto-aztecan_2011,
-fZH,kuuhan,,,,UTO4(299),stubbs_uto-aztecan_2011,"cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
-fHB,kuuhan,,,,UTO4(299),stubbs_uto-aztecan_2011,"cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
-fFZH,taar,,,,UTO4(381),stubbs_uto-aztecan_2011,"cross uncle (mb, fsh); cogid=2432"
-fTW,čiiqwt,,,,UTO4(381),stubbs_uto-aztecan_2011,; cogid=2427
-meZ,-qöö˞r,,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=2000
-myZ,piit,,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=2001c
-mF,-na',,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=848
-mD,ʂuuŋ,,,,AET1(54),stubbs_uto-aztecan_2011,mant's daughter; cogid=2575d
-mFF,ka',,,,AET1(54),stubbs_uto-aztecan_2011,
-mMB,taar,,,AET1(54) uses 'taar' for both m-s and w-s,AET1(54),stubbs_uto-aztecan_2011,"cross uncle (mb, fsh); cogid=2432"
-mFeB,kuumu,,,AET1(54) uses kuumu for both m-s and w-s,AET1(54),stubbs_uto-aztecan_2011,"older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
-mFyB,maq,,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=2433
-mMBW,pah,,,,AET1(56),stubbs_uto-aztecan_2011,"cross aunt: fs, mbw; cogid=88a"
-feZ,-qöö˞r,,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=2000
-fyZ,piit,,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=2001c
-fF,-na',,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=848
-fD,pulin,,,,AET1(54),stubbs_uto-aztecan_2011,woman's daughter; cogid=138
-fFF,ka',,,,AET1(54),stubbs_uto-aztecan_2011,
-fFZ,pah,,,AET1(54) uses 'pah' for both m-s and w-s,AET1(54),stubbs_uto-aztecan_2011,"cross aunt: fs, mbw; cogid=88a"
-fFyB,maq,,,,AET1(54),stubbs_uto-aztecan_2011,; cogid=2433
-fMBW,pah,,,,AET1(56),stubbs_uto-aztecan_2011,"cross aunt: fs, mbw; cogid=88a"
-fFeZ,pah,,,AET1(54) uses 'pah' for both m-s and w-s,AET1(54),stubbs_uto-aztecan_2011,"Inferred; cross aunt: fs, mbw; cogid=88a"
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mZ","hamut",,,"","AET1(54)","gifford_californian_1922",""
+"meB","pas",,,"","AET1(54)","gifford_californian_1922",""
+"myB","prit",,,"","AET1(54)","gifford_californian_1922",""
+"mM","yu'",,,"","AET1(54)","gifford_californian_1922",""
+"mS","maiyin",,,"","AET1(54)","gifford_californian_1922",""
+"mMF","kwat",,,"","AET1(54)","gifford_californian_1922",""
+"mMM","tcur",,,"","AET1(54)","gifford_californian_1922",""
+"mMeZ","num",,,"","AET1(54)","gifford_californian_1922",""
+"mMyZ","yür",,,"","AET1(54)","gifford_californian_1922",""
+"meBS","aka",,,"","AET1(54)","gifford_californian_1922",""
+"myBS","kumu",,,"","AET1(54)","gifford_californian_1922",""
+"meBD","aka",,,"","AET1(54)","gifford_californian_1922",""
+"myBD","kumu",,,"","AET1(54)","gifford_californian_1922",""
+"mFeBS","pas",,,"","AET1(55)","gifford_californian_1922",""
+"mFyBS","prit",,,"","AET1(55)","gifford_californian_1922",""
+"mFeBD","kör",,,"","AET1(55)","gifford_californian_1922",""
+"mFyBD","pit",,,"","AET1(55)","gifford_californian_1922",""
+"mMeZS","pas",,,"","AET1(55)","gifford_californian_1922",""
+"mMyZS","prit",,,"","AET1(55)","gifford_californian_1922",""
+"mMeBD","kör",,,"","AET1(55)","gifford_californian_1922",""
+"mH","wetcau",,,"","AET1(55)","gifford_californian_1922",""
+"mW","hintuwa",,,"","AET1(55)","gifford_californian_1922",""
+"mBW","akanapoiye",,,"","AET1(56)","gifford_californian_1922","(m-s)eBW after BW has a child (w-s) BW after she has a child"
+"mBW","kumunpoiye",,,"","AET1(56)","gifford_californian_1922","MAN: yBW after BW has a child WOMAN: BW before she has a child"
+"mZH","an",,,"","AET1(56)","gifford_californian_1922","before Z bears a child"
+"mZH","ahidana",,,"","AET1(56)","gifford_californian_1922","after Z bears a child"
+"mWB","an",,,"","AET1(56)","gifford_californian_1922",""
+"mWZ","kuhan",,,"","AET1(56)","gifford_californian_1922",""
+"mHZ","kaka",,,"","AET1(56)","gifford_californian_1922","before speaker (?) has a child"
+"mHZ","aminyeka",,,"","AET1(56)","gifford_californian_1922","afterspeaker (?) has a child"
+"mco-W","nahit",,,"","AET1(56)","gifford_californian_1922",""
+"mco-W","kör",,,"","AET1(56)","gifford_californian_1922","earlier Co-W"
+"mco-W","pit",,,"","AET1(56)","gifford_californian_1922","later Co-W"
+"mFW(notM)","yür",,,"","AET1(56)","gifford_californian_1922",""
+"mMH(notF)","mak",,,"","AET1(56)","gifford_californian_1922",""
+"mSW","mya^uk",,,"","AET1(56)","gifford_californian_1922","before she bears a child"
+"mSW","makaiye",,,"","AET1(56)","gifford_californian_1922","after she bears a child - literal meaning 'son's child's mother'"
+"mDH","kwaritanak",,,"","AET1(56)","gifford_californian_1922","after daughter has a child - kwaritanak literal meaning 'man's daughter's child's father' tcuritanak literal meaning 'woman's daughter's child's father'"
+"mFZH","tad",,,"","AET1(56)","gifford_californian_1922",""
+"mFBW","num",,,"","AET1(56)","gifford_californian_1922","FeBW"
+"mFBW","yür",,,"","AET1(56)","gifford_californian_1922","FyBW"
+"mMZH","kumu",,,"","AET1(56)","gifford_californian_1922","MeZH"
+"mMZH","mac",,,"","AET1(56)","gifford_californian_1922","MyZH"
+"mMBW","pa'",,,"","AET1(56)","gifford_californian_1922",""
+"fB","hamut",,,"","AET1(54)","gifford_californian_1922",""
+"feB","pas",,,"","AET1(54)","gifford_californian_1922",""
+"fyB","prit",,,"","AET1(54)","gifford_californian_1922",""
+"fM","yu'",,,"","AET1(54)","gifford_californian_1922",""
+"fS","maiyin",,,"","AET1(54)","gifford_californian_1922",""
+"fMF","kwat",,,"","AET1(54)","gifford_californian_1922",""
+"fMM","tcur",,,"","AET1(54)","gifford_californian_1922",""
+"fMeZ","num",,,"","AET1(54)","gifford_californian_1922",""
+"fMyZ","yür",,,"","AET1(54)","gifford_californian_1922",""
+"feBS","aka",,,"","AET1(54)","gifford_californian_1922",""
+"fyBS","kumu",,,"","AET1(54)","gifford_californian_1922",""
+"feBD","aka",,,"","AET1(54)","gifford_californian_1922",""
+"fyBD","kumu",,,"","AET1(54)","gifford_californian_1922",""
+"feZS","mac",,,"","AET1(54)","gifford_californian_1922",""
+"fyZS","num",,,"","AET1(54)","gifford_californian_1922",""
+"feZD","mac",,,"","AET1(54)","gifford_californian_1922",""
+"fyZD","num",,,"","AET1(54)","gifford_californian_1922",""
+"fFeBS","pas",,,"","AET1(55)","gifford_californian_1922",""
+"fFyBS","prit",,,"","AET1(55)","gifford_californian_1922",""
+"fFeBD","kör",,,"","AET1(55)","gifford_californian_1922",""
+"fFyBD","pit",,,"","AET1(55)","gifford_californian_1922",""
+"fMeZS","pas",,,"","AET1(55)","gifford_californian_1922",""
+"fMyZS","prit",,,"","AET1(55)","gifford_californian_1922",""
+"fMeBD","kör",,,"","AET1(55)","gifford_californian_1922",""
+"fH","wetcau",,,"","AET1(55)","gifford_californian_1922",""
+"fW","hintuwa",,,"","AET1(55)","gifford_californian_1922",""
+"fHF","kakaiyek",,,"","AET1(55)","gifford_californian_1922","after speaker bears a child'"
+"fHM","kakaiyek",,,"","AET1(55)","gifford_californian_1922","after speaker bears a child'"
+"fHF","miau'ka",,,"","AET1(55)","gifford_californian_1922","before speaker bears a child'"
+"fHM","miau'ka",,,"","AET1(55)","gifford_californian_1922","before speaker bears a child'"
+"fBW","amsaiye",,,"","AET1(56)","gifford_californian_1922","(m-s)eBW after BW has a child (w-s) BW after she has a child"
+"fBW","kaka",,,"","AET1(56)","gifford_californian_1922","MAN: yBW after BW has a child WOMAN: BW before she has a child"
+"fZH","kuhan",,,"","AET1(56)","gifford_californian_1922","before Z bears a child"
+"fZH","nahit",,,"","AET1(56)","gifford_californian_1922","after Z bears a child"
+"fZH","nampena",,,"","AET1(56)","gifford_californian_1922","eZH after eZ has child"
+"fZH","numana",,,"","AET1(56)","gifford_californian_1922","yZH after yZ has a child"
+"fDH","tcuritanak",,,"","AET1(56)","gifford_californian_1922","after daughter has a child - kwaritanak literal meaning 'man's daughter's child's father' tcuritanak literal meaning 'woman's daughter's child's father'"
+"meZ","-qöö˞r",,,"","UTO4(327)","gifford_californian_1922","; cogid=2000"
+"myZ","piit",,,"","UTO4(327)","gifford_californian_1922","; cogid=2001c"
+"mF","-na'",,,"","UTO4(174)","gifford_californian_1922","; cogid=848"
+"mD","ʂuuŋ",,,"","UTO4(402)","gifford_californian_1922","mant's daughter; cogid=2575d"
+"mFF","ka'",,,"","UTO4(200)","gifford_californian_1922",""
+"mMB","taar",,,"AET1(54) uses 'taar' for both m-s and w-s","UTO4(381)","gifford_californian_1922","cross uncle (mb, fsh); cogid=2432"
+"mFeB","kuumu",,,"AET1(54) uses kuumu for both m-s and w-s","UTO4(381)","gifford_californian_1922","older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"mFyB","maq",,,"","UTO4(381)","gifford_californian_1922","; cogid=2433"
+"mMBW","pah",,,"","UTO4(61)","gifford_californian_1922","cross aunt: fs, mbw; cogid=88a"
+"feZ","-qöö˞r",,,"","UTO4(327)","gifford_californian_1922","; cogid=2000"
+"fyZ","piit",,,"","UTO4(327)","gifford_californian_1922","; cogid=2001c"
+"fF","-na'",,,"","UTO4(174)","gifford_californian_1922","; cogid=848"
+"fD","pulin",,,"","UTO4(72)","gifford_californian_1922","woman's daughter; cogid=138"
+"fFF","ka'",,,"","UTO4(200)","gifford_californian_1922",""
+"fFZ","pah",,,"AET1(54) uses 'pah' for both m-s and w-s","UTO4(61)","gifford_californian_1922","cross aunt: fs, mbw; cogid=88a"
+"fFyB","maq",,,"","UTO4(381)","gifford_californian_1922","; cogid=2433"
+"fMBW","pah",,,"","UTO4(61)","gifford_californian_1922","cross aunt: fs, mbw; cogid=88a"
+"fFeZ","pah",,,"AET1(54) uses 'pah' for both m-s and w-s","UTO4(61)","gifford_californian_1922","Inferred; cross aunt: fs, mbw; cogid=88a"
+"meB","paar",,,"","UTO4(98)","stubbs_uto-aztecan_2011","; cogid=305"
+"myB","pö˞it",,,"","UTO4(99)","stubbs_uto-aztecan_2011","first vowel has superscript r after, which I'm interpreting as an r-coloured vowel; cogid=310.b"
+"mM","yï'",,,"","UTO4(257)","stubbs_uto-aztecan_2011",""
+"mC","maih-c",,,"","UTO4(72)","stubbs_uto-aztecan_2011","young one, child; cogid=140"
+"mFF","-ka'",,,"","UTO4(200)","stubbs_uto-aztecan_2011","paternal grandrelative; cogid=1050a"
+"mFM","-kak-",,,"","UTO4(200)","stubbs_uto-aztecan_2011","; cogid=1050a"
+"mMF","kwaari'",,,"","UTO4(200)","stubbs_uto-aztecan_2011",""
+"mMM","čuuri'",,,"","UTO4(200)","stubbs_uto-aztecan_2011","; cogid=1051"
+"mMM","kwaar|i'",,,"","UTO4(340)","stubbs_uto-aztecan_2011","maternal grandmother; cogid=2086"
+"mMZ","pah",,,"","UTO4(61)","stubbs_uto-aztecan_2011","cross aunt: fs, mbw; cogid=88a"
+"mMeZ","nïm",,,"","UTO4(61)","stubbs_uto-aztecan_2011","; cogid=87"
+"mMyZ","yïïr",,,"","UTO4(61)","stubbs_uto-aztecan_2011","younger parallel aunt; cogid=90a ""Many of these mean 'stepmother' and 'mys'"
+"mMyB","taar",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; cross uncle (mb, fsh); cogid=2432"
+"mZS","'aahir",,,"","UTO4(61)","stubbs_uto-aztecan_2011","; cogid=85"
+"mZS","mašt",,,"","UTO4(61)","stubbs_uto-aztecan_2011","woman's parallel nephew, niece; cogid=86"
+"mZS","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"mZD","'aahir",,,"","UTO4(61)","stubbs_uto-aztecan_2011","man's cross nephew, niece; cogid=85"
+"mZD","mašt",,,"","UTO4(61)","stubbs_uto-aztecan_2011","woman's parallel nephew, niece; cogid=86"
+"mZD","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"meZS","'aahir",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=85"
+"meZS","mašt",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; woman's parallel nephew, niece; cogid=86"
+"meZS","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"myZS","'aahir",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=85"
+"myZS","mašt",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; woman's parallel nephew, niece; cogid=86"
+"myZS","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"meZD","'aahir",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; man's cross nephew, niece; cogid=85"
+"meZD","mašt",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; woman's parallel nephew, niece; cogid=86"
+"meZD","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"myZD","'aahir",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; man's cross nephew, niece; cogid=85"
+"myZD","mašt",,,"","UTO4(61)","stubbs_uto-aztecan_2011","Inferred; woman's parallel nephew, niece; cogid=86"
+"myZD","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"mFZD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"mMBD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"mFZS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"mFZS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","male friend, cross-cousin; cogid=2435"
+"mMBS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"mMBS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","male friend, cross-cousin; cogid=2435"
+"mFeZS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFeZS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mFyZS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFyZS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mFeZD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFyZD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMeBS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMeBS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mMyBS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMyBS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mMeBD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMyBD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFZeS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFZeS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mFZyS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFZyS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mFZeD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mFZyD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMBeS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMBeS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mMByS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMByS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"mMBeD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mMByD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"mBW","kuuhan",,,"","UTO4(299)","stubbs_uto-aztecan_2011","cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
+"mWZ","kuuhan",,,"","UTO4(299)","stubbs_uto-aztecan_2011","cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
+"mDH","kwa'",,,"","UTO4(340)","stubbs_uto-aztecan_2011","man's son in law; cogid=2086"
+"mFZH","taar",,,"","UTO4(381)","stubbs_uto-aztecan_2011","cross uncle (mb, fsh); cogid=2432"
+"mTW","čiiqwt",,,"","UTO4(381)","stubbs_uto-aztecan_2011","; cogid=2427"
+"feB","paar",,,"","UTO4(98)","stubbs_uto-aztecan_2011","; cogid=305"
+"fyB","pö˞it",,,"","UTO4(99)","stubbs_uto-aztecan_2011","first vowel has superscript r after, which I'm interpreting as an r-coloured vowel; cogid=310.b"
+"fM","yï'",,,"","UTO4(257)","stubbs_uto-aztecan_2011",""
+"fC","maih-c",,,"","UTO4(72)","stubbs_uto-aztecan_2011","young one, child; cogid=140"
+"fFF","-ka'",,,"","UTO4(200)","stubbs_uto-aztecan_2011","paternal grandrelative; cogid=1050a"
+"fFM","-kak-",,,"","UTO4(200)","stubbs_uto-aztecan_2011","; cogid=1050a"
+"fMF","kwaari'",,,"","UTO4(200)","stubbs_uto-aztecan_2011",""
+"fMM","čuuri'",,,"","UTO4(200)","stubbs_uto-aztecan_2011","; cogid=1051"
+"fMM","kwaar|i'",,,"","UTO4(340)","stubbs_uto-aztecan_2011","maternal grandmother; cogid=2086"
+"fFB","taar",,,"","UTO4(381)","stubbs_uto-aztecan_2011","cross uncle (mb, fsh); cogid=2432"
+"fFyZ","yïïr",,,"","UTO4(61)","stubbs_uto-aztecan_2011","; cogid=90a ""Many of these mean 'stepmother' and 'mys'"
+"fMeZ","nïm",,,"","UTO4(61)","stubbs_uto-aztecan_2011","; cogid=87"
+"fMeB","kuumu",,,"","UTO4(381)","stubbs_uto-aztecan_2011","older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"fFZD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"fMBD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"fFZS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"fFZS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","male friend, cross-cousin; cogid=2435"
+"fMBS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","; cogid=1787"
+"fMBS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","male friend, cross-cousin; cogid=2435"
+"fFeZS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFeZS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fFyZS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFyZS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fFeZD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFyZD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMeBS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMeBS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fMyBS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMyBS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fMeBD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMyBD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFZeS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFZeS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fFZyS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFZyS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fFZeD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fFZyD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMBeS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMBeS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fMByS","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMByS","puyu'",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; male friend, cross-cousin; cogid=2435"
+"fMBeD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fMByD","noko'",,,"","UTO4(299)","stubbs_uto-aztecan_2011","Inferred; ; cogid=1787"
+"fH","wöčahav",,,"","UTO4(227)","stubbs_uto-aztecan_2011",""
+"fZH","kuuhan",,,"","UTO4(299)","stubbs_uto-aztecan_2011","cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
+"fHB","kuuhan",,,"","UTO4(299)","stubbs_uto-aztecan_2011","cross sibling-in-law, WiSi, WiF/Co, HuBr, HuM/Co, MaBrWi, Ma/CoWi, WoSiHu, Wo/CoHu; cogid=1791"
+"fFZH","taar",,,"","UTO4(381)","stubbs_uto-aztecan_2011","cross uncle (mb, fsh); cogid=2432"
+"fTW","čiiqwt",,,"","UTO4(381)","stubbs_uto-aztecan_2011","; cogid=2427"
+"meZ","-qöö˞r",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=2000"
+"myZ","piit",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=2001c"
+"mF","-na'",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=848"
+"mD","ʂuuŋ",,,"","AET1(54)","stubbs_uto-aztecan_2011","mant's daughter; cogid=2575d"
+"mFF","ka'",,,"","AET1(54)","stubbs_uto-aztecan_2011",""
+"mMB","taar",,,"AET1(54) uses 'taar' for both m-s and w-s","AET1(54)","stubbs_uto-aztecan_2011","cross uncle (mb, fsh); cogid=2432"
+"mFeB","kuumu",,,"AET1(54) uses kuumu for both m-s and w-s","AET1(54)","stubbs_uto-aztecan_2011","older parallel uncle, man's younger parallel nephew or niece; cogid=2433"
+"mFyB","maq",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=2433"
+"mMBW","pah",,,"","AET1(56)","stubbs_uto-aztecan_2011","cross aunt: fs, mbw; cogid=88a"
+"feZ","-qöö˞r",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=2000"
+"fyZ","piit",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=2001c"
+"fF","-na'",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=848"
+"fD","pulin",,,"","AET1(54)","stubbs_uto-aztecan_2011","woman's daughter; cogid=138"
+"fFF","ka'",,,"","AET1(54)","stubbs_uto-aztecan_2011",""
+"fFZ","pah",,,"AET1(54) uses 'pah' for both m-s and w-s","AET1(54)","stubbs_uto-aztecan_2011","cross aunt: fs, mbw; cogid=88a"
+"fFyB","maq",,,"","AET1(54)","stubbs_uto-aztecan_2011","; cogid=2433"
+"fMBW","pah",,,"","AET1(56)","stubbs_uto-aztecan_2011","cross aunt: fs, mbw; cogid=88a"
+"fFeZ","pah",,,"AET1(54) uses 'pah' for both m-s and w-s","AET1(54)","stubbs_uto-aztecan_2011","Inferred; cross aunt: fs, mbw; cogid=88a"
+"mMeB","taar",,,"AET1(54) uses 'taar' for both m-s and w-s","UTO4(381)","gifford_californian_1922","Inferred; cross uncle (mb, fsh); cogid=2432"
+"mMeB","taar",,,"AET1(54) uses 'taar' for both m-s and w-s","AET1(54)","stubbs_uto-aztecan_2011","Inferred; cross uncle (mb, fsh); cogid=2432"
+"fFeB","taar",,,"","UTO4(381)","stubbs_uto-aztecan_2011","Inferred; cross uncle (mb, fsh); cogid=2432"

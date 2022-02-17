@@ -1,393 +1,393 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,woci,,,,ND17,khalilov_chamalal_2015,воци
-mG,yaci,,,,ND17,khalilov_chamalal_2015,йаци
-mB,woci,,,,ND17,khalilov_chamalal_2015,воци
-mZ,yaci,,,,ND17,khalilov_chamalal_2015,йаци
-myB,tʼano woci,,,,ND17,khalilov_chamalal_2015,тӀано воци
-myZ,tʼane yaci,,,,ND17,khalilov_chamalal_2015,тӀане йаци
-mF,ima,,,,ND17,khalilov_chamalal_2015,има
-mM,ila,,,,ND17,khalilov_chamalal_2015,ила
-mC,mačʼikʼa,,,,ND17,khalilov_chamalal_2015,мачӀикӀа
-mS,woša,,,,ND17,khalilov_chamalal_2015,воша
-mD,yeši,,,,ND17,khalilov_chamalal_2015,йеши
-mFF,imadadi,,,,ND17,khalilov_chamalal_2015,имадади
-mFF,iladadi,,,,ND17,khalilov_chamalal_2015,иладади
-mFM,imababu,,,,ND17,khalilov_chamalal_2015,имабабу
-mFM,ilababu,,,,ND17,khalilov_chamalal_2015,илабабу
-mMF,imadadi,,,,ND17,khalilov_chamalal_2015,имадади
-mMF,iladadi,,,,ND17,khalilov_chamalal_2015,иладади
-mMM,imababu,,,,ND17,khalilov_chamalal_2015,имабабу
-mMM,ilababu,,,,ND17,khalilov_chamalal_2015,илабабу
-mSS,wohuɬ woša,,,,ND17,khalilov_chamalal_2015,вогьулъ воша
-mSS,yahuɬ woša,,,,ND17,khalilov_chamalal_2015,йагьулъ воша
-mSD,wohuɬ yeši,,,,ND17,khalilov_chamalal_2015,вогьулъ йеши
-mSD,yahuɬ yeši,,,,ND17,khalilov_chamalal_2015,йагьулъ йеши
-mDS,wohuɬ woša,,,,ND17,khalilov_chamalal_2015,вогьулъ воша
-mDS,yahuɬ woša,,,,ND17,khalilov_chamalal_2015,йагьулъ воша
-mDD,wohuɬ yeši,,,,ND17,khalilov_chamalal_2015,вогьулъ йеши
-mDD,yahuɬ yeši,,,,ND17,khalilov_chamalal_2015,йагьулъ йеши
-mFB,imuɬ wocu,,,,ND17,khalilov_chamalal_2015,имулъ воцу
-mFB,imuɬi wocu,,,,ND17,khalilov_chamalal_2015,илулъи воцу
-mFZ,dadaci,,,,ND17,khalilov_chamalal_2015,дадаци
-mFZ,dadacu,,,,ND17,khalilov_chamalal_2015,дадацу
-mMB,iluɬ wocu,,,,ND17,khalilov_chamalal_2015,илулъ воцу
-mMB,iluɬi wocu,,,,ND17,khalilov_chamalal_2015,илулъи воцу
-mMZ,babaci,,,,ND17,khalilov_chamalal_2015,бабаци
-mMZ,babacu,,,,ND17,khalilov_chamalal_2015,бабацу
-mBS,wocuw woša,,,,ND17,khalilov_chamalal_2015,воцув воша
-mBS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,воцулъи воша
-mBS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,йацулъ воша
-mBS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,йацулъи воша
-mBD,wocuw yeši,,,,ND17,khalilov_chamalal_2015,воцулъ йеши
-mBD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,воцулъи йеши
-mBD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,йацулъ йеши
-mBD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,йацулъи йеши
-mZS,wocuw woša,,,,ND17,khalilov_chamalal_2015,воцув воша
-mZS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,воцулъи воша
-mZS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,йацулъ воша
-mZS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,йацулъи воша
-mZD,wocuɬ yeši,,,,ND17,khalilov_chamalal_2015,воцулъ йеши
-mZD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,воцулъи йеши
-mZD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,йацулъ йеши
-mZD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,йацулъи йеши
-mFZD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mFZD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mFBD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mFBD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mMBD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mMBD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mMZD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mMZD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mFBS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mFBS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mFZS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mFZS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mMBS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mMBS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mMZS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-mMZS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-mH,hekʼa,,,,ND17,khalilov_chamalal_2015,гьекӀа
-mW,hacʼe,,,,ND17,khalilov_chamalal_2015,гьацӀе
-mHF,hakʼuɬ ima,,,,ND17,khalilov_chamalal_2015,гьакӀулъ има
-mHF,hakʼuɬi ima,,,,ND17,khalilov_chamalal_2015,гьакІулъи има
-mHM,hakʼuɬ ila,,,,ND17,khalilov_chamalal_2015,гьакӀулъ ила
-mHM,hakʼuɬi ila,,,,ND17,khalilov_chamalal_2015,гьакІулъи ила
-mWF,hekʼasuw ima,,,,ND17,khalilov_chamalal_2015,гьекӀасув има
-mWM,hekʼasuy ila,,,,ND17,khalilov_chamalal_2015,гьекӀасуй ила
-mSW,wohu hacʼi,,,,ND17,khalilov_chamalal_2015,вогьу гьацӀи
-mSW,wocu hacʼi,,,,ND17,khalilov_chamalal_2015,воцу гьацӀи
-mSW,wohu hacʼi,,,,ND17,khalilov_chamalal_2015,вогьу гьацӀи
-mDH,yahuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йагьулъи гьекӀа
-mDH,yacuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йацулъи гьекӀа
-mDH,yahuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йагьулъи гьекӀа
-mDH,yacuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йацулъи гьекӀа
-meB,woci,,,,ND17,khalilov_chamalal_2015,Inferred; воци
-meZ,yaci,,,,ND17,khalilov_chamalal_2015,Inferred; йаци
-mFeB,imuɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; имулъ воцу
-mFeB,imuɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-mFyB,imuɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; имулъ воцу
-mFyB,imuɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-mFeZ,dadaci,,,,ND17,khalilov_chamalal_2015,Inferred; дадаци
-mFeZ,dadacu,,,,ND17,khalilov_chamalal_2015,Inferred; дадацу
-mFyZ,dadaci,,,,ND17,khalilov_chamalal_2015,Inferred; дадаци
-mFyZ,dadacu,,,,ND17,khalilov_chamalal_2015,Inferred; дадацу
-mMeZ,babaci,,,,ND17,khalilov_chamalal_2015,Inferred; бабаци
-mMeZ,babacu,,,,ND17,khalilov_chamalal_2015,Inferred; бабацу
-mMyZ,babaci,,,,ND17,khalilov_chamalal_2015,Inferred; бабаци
-mMyZ,babacu,,,,ND17,khalilov_chamalal_2015,Inferred; бабацу
-mMeB,iluɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъ воцу
-mMeB,iluɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-mMyB,iluɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъ воцу
-mMyB,iluɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-meBS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-meBS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-meBS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-meBS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-myBS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-myBS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-myBS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-myBS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-meBD,wocuw yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-meBD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-meBD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-meBD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-myBD,wocuw yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-myBD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-myBD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-myBD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-meZS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-meZS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-meZS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-meZS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-myZS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-myZS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-myZS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-myZS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-meZD,wocuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-meZD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-meZD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-meZD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-myZD,wocuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-myZD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-myZD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-myZD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-mFeBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFeBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFyBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFyBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFeZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFeZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFyZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFyZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFeBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFeBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFyBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFyBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFeZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFeZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFyZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFyZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMeBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMeBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMyBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMyBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMeZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMeZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMyZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMyZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMeBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMeBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMyBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMyBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMeZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMeZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMyZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMyZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFBeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFBeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFByS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFByS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFZeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFZeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFZyS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFZyS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFBeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFBeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFByD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFByD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFZeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFZeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mFZyD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mFZyD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMBeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMBeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMByS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMByS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMZeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMZeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMZyS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMZyS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMBeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMBeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMByD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMByD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMZeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMZeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-mMZyD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-mMZyD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fG,woci,,,,ND17,khalilov_chamalal_2015,воци
-fG,yaci,,,,ND17,khalilov_chamalal_2015,йаци
-fB,woci,,,,ND17,khalilov_chamalal_2015,воци
-fZ,yaci,,,,ND17,khalilov_chamalal_2015,йаци
-fyB,tʼano woci,,,,ND17,khalilov_chamalal_2015,тӀано воци
-fyZ,tʼane yaci,,,,ND17,khalilov_chamalal_2015,тӀане йаци
-fF,ima,,,,ND17,khalilov_chamalal_2015,има
-fM,ila,,,,ND17,khalilov_chamalal_2015,ила
-fC,mačʼikʼa,,,,ND17,khalilov_chamalal_2015,мачӀикӀа
-fS,woša,,,,ND17,khalilov_chamalal_2015,воша
-fD,yeši,,,,ND17,khalilov_chamalal_2015,йеши
-fFF,imadadi,,,,ND17,khalilov_chamalal_2015,имадади
-fFF,iladadi,,,,ND17,khalilov_chamalal_2015,иладади
-fFM,imababu,,,,ND17,khalilov_chamalal_2015,имабабу
-fFM,ilababu,,,,ND17,khalilov_chamalal_2015,илабабу
-fMF,imadadi,,,,ND17,khalilov_chamalal_2015,имадади
-fMF,iladadi,,,,ND17,khalilov_chamalal_2015,иладади
-fMM,imababu,,,,ND17,khalilov_chamalal_2015,имабабу
-fMM,ilababu,,,,ND17,khalilov_chamalal_2015,илабабу
-fSS,wohuɬ woša,,,,ND17,khalilov_chamalal_2015,вогьулъ воша
-fSS,yahuɬ woša,,,,ND17,khalilov_chamalal_2015,йагьулъ воша
-fSD,wohuɬ yeši,,,,ND17,khalilov_chamalal_2015,вогьулъ йеши
-fSD,yahuɬ yeši,,,,ND17,khalilov_chamalal_2015,йагьулъ йеши
-fDS,wohuɬ woša,,,,ND17,khalilov_chamalal_2015,вогьулъ воша
-fDS,yahuɬ woša,,,,ND17,khalilov_chamalal_2015,йагьулъ воша
-fDD,wohuɬ yeši,,,,ND17,khalilov_chamalal_2015,вогьулъ йеши
-fDD,yahuɬ yeši,,,,ND17,khalilov_chamalal_2015,йагьулъ йеши
-fFB,imuɬ wocu,,,,ND17,khalilov_chamalal_2015,имулъ воцу
-fFB,imuɬi wocu,,,,ND17,khalilov_chamalal_2015,илулъи воцу
-fFZ,dadaci,,,,ND17,khalilov_chamalal_2015,дадаци
-fFZ,dadacu,,,,ND17,khalilov_chamalal_2015,дадацу
-fMB,iluɬ wocu,,,,ND17,khalilov_chamalal_2015,илулъ воцу
-fMB,iluɬi wocu,,,,ND17,khalilov_chamalal_2015,илулъи воцу
-fMZ,babaci,,,,ND17,khalilov_chamalal_2015,бабаци
-fMZ,babacu,,,,ND17,khalilov_chamalal_2015,бабацу
-fBS,wocuw woša,,,,ND17,khalilov_chamalal_2015,воцув воша
-fBS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,воцулъи воша
-fBS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,йацулъ воша
-fBS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,йацулъи воша
-fBD,wocuw yeši,,,,ND17,khalilov_chamalal_2015,воцулъ йеши
-fBD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,воцулъи йеши
-fBD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,йацулъ йеши
-fBD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,йацулъи йеши
-fZS,wocuw woša,,,,ND17,khalilov_chamalal_2015,воцув воша
-fZS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,воцулъи воша
-fZS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,йацулъ воша
-fZS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,йацулъи воша
-fZD,wocuɬ yeši,,,,ND17,khalilov_chamalal_2015,воцулъ йеши
-fZD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,воцулъи йеши
-fZD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,йацулъ йеши
-fZD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,йацулъи йеши
-fFZD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fFZD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fFBD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fFBD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fMBD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fMBD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fMZD,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fMZD,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fFBS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fFBS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fFZS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fFZS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fMBS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fMBS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fMZS,wacab,,,,ND17,khalilov_chamalal_2015,вацаб
-fMZS,yacab,,,,ND17,khalilov_chamalal_2015,йацаб
-fH,hekʼa,,,,ND17,khalilov_chamalal_2015,гьекӀа
-fW,hacʼe,,,,ND17,khalilov_chamalal_2015,гьацӀе
-fHF,hakʼuɬ ima,,,,ND17,khalilov_chamalal_2015,гьакӀулъ има
-fHF,hakʼuɬi ima,,,,ND17,khalilov_chamalal_2015,гьакІулъи има
-fHM,hakʼuɬ ila,,,,ND17,khalilov_chamalal_2015,гьакӀулъ ила
-fHM,hakʼuɬi ila,,,,ND17,khalilov_chamalal_2015,гьакІулъи ила
-fWF,hekʼasuw ima,,,,ND17,khalilov_chamalal_2015,гьекӀасув има
-fWM,hekʼasuy ila,,,,ND17,khalilov_chamalal_2015,гьекӀасуй ила
-fSW,wohu hacʼi,,,,ND17,khalilov_chamalal_2015,вогьу гьацӀи
-fSW,wocu hacʼi,,,,ND17,khalilov_chamalal_2015,воцу гьацӀи
-fSW,wohu hacʼi,,,,ND17,khalilov_chamalal_2015,вогьу гьацӀи
-fDH,yahuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йагьулъи гьекӀа
-fDH,yacuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йацулъи гьекӀа
-fDH,yahuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йагьулъи гьекӀа
-fDH,yacuɬi hekʼa,,,,ND17,khalilov_chamalal_2015,йацулъи гьекӀа
-feB,woci,,,,ND17,khalilov_chamalal_2015,Inferred; воци
-feZ,yaci,,,,ND17,khalilov_chamalal_2015,Inferred; йаци
-fFeB,imuɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; имулъ воцу
-fFeB,imuɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-fFyB,imuɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; имулъ воцу
-fFyB,imuɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-fFeZ,dadaci,,,,ND17,khalilov_chamalal_2015,Inferred; дадаци
-fFeZ,dadacu,,,,ND17,khalilov_chamalal_2015,Inferred; дадацу
-fFyZ,dadaci,,,,ND17,khalilov_chamalal_2015,Inferred; дадаци
-fFyZ,dadacu,,,,ND17,khalilov_chamalal_2015,Inferred; дадацу
-fMeZ,babaci,,,,ND17,khalilov_chamalal_2015,Inferred; бабаци
-fMeZ,babacu,,,,ND17,khalilov_chamalal_2015,Inferred; бабацу
-fMyZ,babaci,,,,ND17,khalilov_chamalal_2015,Inferred; бабаци
-fMyZ,babacu,,,,ND17,khalilov_chamalal_2015,Inferred; бабацу
-fMeB,iluɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъ воцу
-fMeB,iluɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-fMyB,iluɬ wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъ воцу
-fMyB,iluɬi wocu,,,,ND17,khalilov_chamalal_2015,Inferred; илулъи воцу
-feBS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-feBS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-feBS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-feBS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-fyBS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-fyBS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-fyBS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-fyBS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-feBD,wocuw yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-feBD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-feBD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-feBD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-fyBD,wocuw yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-fyBD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-fyBD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-fyBD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-feZS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-feZS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-feZS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-feZS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-fyZS,wocuw woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцув воша
-fyZS,wocuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи воша
-fyZS,yacuɬ woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ воша
-fyZS,yacuɬi woša,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи воша
-feZD,wocuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-feZD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-feZD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-feZD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-fyZD,wocuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъ йеши
-fyZD,wocuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; воцулъи йеши
-fyZD,yacuɬ yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъ йеши
-fyZD,yacuɬi yeši,,,,ND17,khalilov_chamalal_2015,Inferred; йацулъи йеши
-fFeBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFeBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFyBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFyBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFeZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFeZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFyZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFyZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFeBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFeBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFyBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFyBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFeZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFeZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFyZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFyZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMeBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMeBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMyBS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMyBS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMeZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMeZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMyZS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMyZS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMeBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMeBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMyBD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMyBD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMeZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMeZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMyZD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMyZD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFBeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFBeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFByS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFByS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFZeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFZeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFZyS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFZyS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFBeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFBeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFByD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFByD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFZeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFZeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fFZyD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fFZyD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMBeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMBeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMByS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMByS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMZeS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMZeS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMZyS,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMZyS,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMBeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMBeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMByD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMByD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMZeD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMZeD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
-fMZyD,wacab,,,,ND17,khalilov_chamalal_2015,Inferred; вацаб
-fMZyD,yacab,,,,ND17,khalilov_chamalal_2015,Inferred; йацаб
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","woci",,,,"ND17","khalilov_chamalal_2015","воци"
+"mG","yaci",,,,"ND17","khalilov_chamalal_2015","йаци"
+"mB","woci",,,,"ND17","khalilov_chamalal_2015","воци"
+"mZ","yaci",,,,"ND17","khalilov_chamalal_2015","йаци"
+"myB","tʼano woci",,,,"ND17","khalilov_chamalal_2015","тӀано воци"
+"myZ","tʼane yaci",,,,"ND17","khalilov_chamalal_2015","тӀане йаци"
+"mF","ima",,,,"ND17","khalilov_chamalal_2015","има"
+"mM","ila",,,,"ND17","khalilov_chamalal_2015","ила"
+"mC","mačʼikʼa",,,,"ND17","khalilov_chamalal_2015","мачӀикӀа"
+"mS","woša",,,,"ND17","khalilov_chamalal_2015","воша"
+"mD","yeši",,,,"ND17","khalilov_chamalal_2015","йеши"
+"mFF","imadadi",,,,"ND17","khalilov_chamalal_2015","имадади"
+"mFF","iladadi",,,,"ND17","khalilov_chamalal_2015","иладади"
+"mFM","imababu",,,,"ND17","khalilov_chamalal_2015","имабабу"
+"mFM","ilababu",,,,"ND17","khalilov_chamalal_2015","илабабу"
+"mMF","imadadi",,,,"ND17","khalilov_chamalal_2015","имадади"
+"mMF","iladadi",,,,"ND17","khalilov_chamalal_2015","иладади"
+"mMM","imababu",,,,"ND17","khalilov_chamalal_2015","имабабу"
+"mMM","ilababu",,,,"ND17","khalilov_chamalal_2015","илабабу"
+"mSS","wohuɬ woša",,,,"ND17","khalilov_chamalal_2015","вогьулъ воша"
+"mSS","yahuɬ woša",,,,"ND17","khalilov_chamalal_2015","йагьулъ воша"
+"mSD","wohuɬ yeši",,,,"ND17","khalilov_chamalal_2015","вогьулъ йеши"
+"mSD","yahuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йагьулъ йеши"
+"mDS","wohuɬ woša",,,,"ND17","khalilov_chamalal_2015","вогьулъ воша"
+"mDS","yahuɬ woša",,,,"ND17","khalilov_chamalal_2015","йагьулъ воша"
+"mDD","wohuɬ yeši",,,,"ND17","khalilov_chamalal_2015","вогьулъ йеши"
+"mDD","yahuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йагьулъ йеши"
+"mFB","imuɬ wocu",,,,"ND17","khalilov_chamalal_2015","имулъ воцу"
+"mFB","imuɬi wocu",,,,"ND17","khalilov_chamalal_2015","илулъи воцу"
+"mFZ","dadaci",,,,"ND17","khalilov_chamalal_2015","дадаци"
+"mFZ","dadacu",,,,"ND17","khalilov_chamalal_2015","дадацу"
+"mMB","iluɬ wocu",,,,"ND17","khalilov_chamalal_2015","илулъ воцу"
+"mMB","iluɬi wocu",,,,"ND17","khalilov_chamalal_2015","илулъи воцу"
+"mMZ","babaci",,,,"ND17","khalilov_chamalal_2015","бабаци"
+"mMZ","babacu",,,,"ND17","khalilov_chamalal_2015","бабацу"
+"mBS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","воцув воша"
+"mBS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","воцулъи воша"
+"mBS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","йацулъ воша"
+"mBS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","йацулъи воша"
+"mBD","wocuw yeši",,,,"ND17","khalilov_chamalal_2015","воцулъ йеши"
+"mBD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","воцулъи йеши"
+"mBD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йацулъ йеши"
+"mBD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","йацулъи йеши"
+"mZS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","воцув воша"
+"mZS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","воцулъи воша"
+"mZS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","йацулъ воша"
+"mZS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","йацулъи воша"
+"mZD","wocuɬ yeši",,,,"ND17","khalilov_chamalal_2015","воцулъ йеши"
+"mZD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","воцулъи йеши"
+"mZD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йацулъ йеши"
+"mZD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","йацулъи йеши"
+"mFZD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mFZD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mFBD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mFBD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mMBD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mMBD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mMZD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mMZD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mFBS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mFBS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mFZS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mFZS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mMBS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mMBS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mMZS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"mMZS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"mH","hekʼa",,,,"ND17","khalilov_chamalal_2015","гьекӀа"
+"mW","hacʼe",,,,"ND17","khalilov_chamalal_2015","гьацӀе"
+"mHF","hakʼuɬ ima",,,,"ND17","khalilov_chamalal_2015","гьакӀулъ има"
+"mHF","hakʼuɬi ima",,,,"ND17","khalilov_chamalal_2015","гьакІулъи има"
+"mHM","hakʼuɬ ila",,,,"ND17","khalilov_chamalal_2015","гьакӀулъ ила"
+"mHM","hakʼuɬi ila",,,,"ND17","khalilov_chamalal_2015","гьакІулъи ила"
+"mWF","hekʼasuw ima",,,,"ND17","khalilov_chamalal_2015","гьекӀасув има"
+"mWM","hekʼasuy ila",,,,"ND17","khalilov_chamalal_2015","гьекӀасуй ила"
+"mSW","wohu hacʼi",,,,"ND17","khalilov_chamalal_2015","вогьу гьацӀи"
+"mSW","wocu hacʼi",,,,"ND17","khalilov_chamalal_2015","воцу гьацӀи"
+"mSW","wohu hacʼi",,,,"ND17","khalilov_chamalal_2015","вогьу гьацӀи"
+"mDH","yahuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йагьулъи гьекӀа"
+"mDH","yacuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йацулъи гьекӀа"
+"mDH","yahuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йагьулъи гьекӀа"
+"mDH","yacuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йацулъи гьекӀа"
+"meB","woci",,,,"ND17","khalilov_chamalal_2015","Inferred; воци"
+"meZ","yaci",,,,"ND17","khalilov_chamalal_2015","Inferred; йаци"
+"mFeB","imuɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; имулъ воцу"
+"mFeB","imuɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"mFyB","imuɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; имулъ воцу"
+"mFyB","imuɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"mFeZ","dadaci",,,,"ND17","khalilov_chamalal_2015","Inferred; дадаци"
+"mFeZ","dadacu",,,,"ND17","khalilov_chamalal_2015","Inferred; дадацу"
+"mFyZ","dadaci",,,,"ND17","khalilov_chamalal_2015","Inferred; дадаци"
+"mFyZ","dadacu",,,,"ND17","khalilov_chamalal_2015","Inferred; дадацу"
+"mMeZ","babaci",,,,"ND17","khalilov_chamalal_2015","Inferred; бабаци"
+"mMeZ","babacu",,,,"ND17","khalilov_chamalal_2015","Inferred; бабацу"
+"mMyZ","babaci",,,,"ND17","khalilov_chamalal_2015","Inferred; бабаци"
+"mMyZ","babacu",,,,"ND17","khalilov_chamalal_2015","Inferred; бабацу"
+"mMeB","iluɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъ воцу"
+"mMeB","iluɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"mMyB","iluɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъ воцу"
+"mMyB","iluɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"meBS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"meBS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"meBS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"meBS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"myBS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"myBS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"myBS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"myBS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"meBD","wocuw yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"meBD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"meBD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"meBD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"myBD","wocuw yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"myBD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"myBD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"myBD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"meZS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"meZS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"meZS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"meZS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"myZS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"myZS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"myZS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"myZS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"meZD","wocuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"meZD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"meZD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"meZD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"myZD","wocuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"myZD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"myZD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"myZD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"mFeBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFeBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFyBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFyBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFeZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFeZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFyZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFyZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFeBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFeBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFyBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFyBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFeZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFeZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFyZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFyZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMeBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMeBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMyBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMyBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMeZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMeZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMyZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMyZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMeBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMeBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMyBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMyBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMeZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMeZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMyZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMyZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFBeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFBeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFByS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFByS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFZeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFZeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFZyS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFZyS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFBeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFBeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFByD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFByD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFZeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFZeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mFZyD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mFZyD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMBeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMBeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMByS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMByS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMZeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMZeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMZyS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMZyS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMBeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMBeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMByD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMByD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMZeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMZeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"mMZyD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"mMZyD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fG","woci",,,,"ND17","khalilov_chamalal_2015","воци"
+"fG","yaci",,,,"ND17","khalilov_chamalal_2015","йаци"
+"fB","woci",,,,"ND17","khalilov_chamalal_2015","воци"
+"fZ","yaci",,,,"ND17","khalilov_chamalal_2015","йаци"
+"fyB","tʼano woci",,,,"ND17","khalilov_chamalal_2015","тӀано воци"
+"fyZ","tʼane yaci",,,,"ND17","khalilov_chamalal_2015","тӀане йаци"
+"fF","ima",,,,"ND17","khalilov_chamalal_2015","има"
+"fM","ila",,,,"ND17","khalilov_chamalal_2015","ила"
+"fC","mačʼikʼa",,,,"ND17","khalilov_chamalal_2015","мачӀикӀа"
+"fS","woša",,,,"ND17","khalilov_chamalal_2015","воша"
+"fD","yeši",,,,"ND17","khalilov_chamalal_2015","йеши"
+"fFF","imadadi",,,,"ND17","khalilov_chamalal_2015","имадади"
+"fFF","iladadi",,,,"ND17","khalilov_chamalal_2015","иладади"
+"fFM","imababu",,,,"ND17","khalilov_chamalal_2015","имабабу"
+"fFM","ilababu",,,,"ND17","khalilov_chamalal_2015","илабабу"
+"fMF","imadadi",,,,"ND17","khalilov_chamalal_2015","имадади"
+"fMF","iladadi",,,,"ND17","khalilov_chamalal_2015","иладади"
+"fMM","imababu",,,,"ND17","khalilov_chamalal_2015","имабабу"
+"fMM","ilababu",,,,"ND17","khalilov_chamalal_2015","илабабу"
+"fSS","wohuɬ woša",,,,"ND17","khalilov_chamalal_2015","вогьулъ воша"
+"fSS","yahuɬ woša",,,,"ND17","khalilov_chamalal_2015","йагьулъ воша"
+"fSD","wohuɬ yeši",,,,"ND17","khalilov_chamalal_2015","вогьулъ йеши"
+"fSD","yahuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йагьулъ йеши"
+"fDS","wohuɬ woša",,,,"ND17","khalilov_chamalal_2015","вогьулъ воша"
+"fDS","yahuɬ woša",,,,"ND17","khalilov_chamalal_2015","йагьулъ воша"
+"fDD","wohuɬ yeši",,,,"ND17","khalilov_chamalal_2015","вогьулъ йеши"
+"fDD","yahuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йагьулъ йеши"
+"fFB","imuɬ wocu",,,,"ND17","khalilov_chamalal_2015","имулъ воцу"
+"fFB","imuɬi wocu",,,,"ND17","khalilov_chamalal_2015","илулъи воцу"
+"fFZ","dadaci",,,,"ND17","khalilov_chamalal_2015","дадаци"
+"fFZ","dadacu",,,,"ND17","khalilov_chamalal_2015","дадацу"
+"fMB","iluɬ wocu",,,,"ND17","khalilov_chamalal_2015","илулъ воцу"
+"fMB","iluɬi wocu",,,,"ND17","khalilov_chamalal_2015","илулъи воцу"
+"fMZ","babaci",,,,"ND17","khalilov_chamalal_2015","бабаци"
+"fMZ","babacu",,,,"ND17","khalilov_chamalal_2015","бабацу"
+"fBS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","воцув воша"
+"fBS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","воцулъи воша"
+"fBS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","йацулъ воша"
+"fBS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","йацулъи воша"
+"fBD","wocuw yeši",,,,"ND17","khalilov_chamalal_2015","воцулъ йеши"
+"fBD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","воцулъи йеши"
+"fBD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йацулъ йеши"
+"fBD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","йацулъи йеши"
+"fZS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","воцув воша"
+"fZS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","воцулъи воша"
+"fZS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","йацулъ воша"
+"fZS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","йацулъи воша"
+"fZD","wocuɬ yeši",,,,"ND17","khalilov_chamalal_2015","воцулъ йеши"
+"fZD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","воцулъи йеши"
+"fZD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","йацулъ йеши"
+"fZD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","йацулъи йеши"
+"fFZD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fFZD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fFBD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fFBD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fMBD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fMBD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fMZD","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fMZD","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fFBS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fFBS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fFZS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fFZS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fMBS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fMBS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fMZS","wacab",,,,"ND17","khalilov_chamalal_2015","вацаб"
+"fMZS","yacab",,,,"ND17","khalilov_chamalal_2015","йацаб"
+"fH","hekʼa",,,,"ND17","khalilov_chamalal_2015","гьекӀа"
+"fW","hacʼe",,,,"ND17","khalilov_chamalal_2015","гьацӀе"
+"fHF","hakʼuɬ ima",,,,"ND17","khalilov_chamalal_2015","гьакӀулъ има"
+"fHF","hakʼuɬi ima",,,,"ND17","khalilov_chamalal_2015","гьакІулъи има"
+"fHM","hakʼuɬ ila",,,,"ND17","khalilov_chamalal_2015","гьакӀулъ ила"
+"fHM","hakʼuɬi ila",,,,"ND17","khalilov_chamalal_2015","гьакІулъи ила"
+"fWF","hekʼasuw ima",,,,"ND17","khalilov_chamalal_2015","гьекӀасув има"
+"fWM","hekʼasuy ila",,,,"ND17","khalilov_chamalal_2015","гьекӀасуй ила"
+"fSW","wohu hacʼi",,,,"ND17","khalilov_chamalal_2015","вогьу гьацӀи"
+"fSW","wocu hacʼi",,,,"ND17","khalilov_chamalal_2015","воцу гьацӀи"
+"fSW","wohu hacʼi",,,,"ND17","khalilov_chamalal_2015","вогьу гьацӀи"
+"fDH","yahuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йагьулъи гьекӀа"
+"fDH","yacuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йацулъи гьекӀа"
+"fDH","yahuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йагьулъи гьекӀа"
+"fDH","yacuɬi hekʼa",,,,"ND17","khalilov_chamalal_2015","йацулъи гьекӀа"
+"feB","woci",,,,"ND17","khalilov_chamalal_2015","Inferred; воци"
+"feZ","yaci",,,,"ND17","khalilov_chamalal_2015","Inferred; йаци"
+"fFeB","imuɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; имулъ воцу"
+"fFeB","imuɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"fFyB","imuɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; имулъ воцу"
+"fFyB","imuɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"fFeZ","dadaci",,,,"ND17","khalilov_chamalal_2015","Inferred; дадаци"
+"fFeZ","dadacu",,,,"ND17","khalilov_chamalal_2015","Inferred; дадацу"
+"fFyZ","dadaci",,,,"ND17","khalilov_chamalal_2015","Inferred; дадаци"
+"fFyZ","dadacu",,,,"ND17","khalilov_chamalal_2015","Inferred; дадацу"
+"fMeZ","babaci",,,,"ND17","khalilov_chamalal_2015","Inferred; бабаци"
+"fMeZ","babacu",,,,"ND17","khalilov_chamalal_2015","Inferred; бабацу"
+"fMyZ","babaci",,,,"ND17","khalilov_chamalal_2015","Inferred; бабаци"
+"fMyZ","babacu",,,,"ND17","khalilov_chamalal_2015","Inferred; бабацу"
+"fMeB","iluɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъ воцу"
+"fMeB","iluɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"fMyB","iluɬ wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъ воцу"
+"fMyB","iluɬi wocu",,,,"ND17","khalilov_chamalal_2015","Inferred; илулъи воцу"
+"feBS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"feBS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"feBS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"feBS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"fyBS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"fyBS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"fyBS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"fyBS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"feBD","wocuw yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"feBD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"feBD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"feBD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"fyBD","wocuw yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"fyBD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"fyBD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"fyBD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"feZS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"feZS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"feZS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"feZS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"fyZS","wocuw woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцув воша"
+"fyZS","wocuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи воша"
+"fyZS","yacuɬ woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ воша"
+"fyZS","yacuɬi woša",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи воша"
+"feZD","wocuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"feZD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"feZD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"feZD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"fyZD","wocuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъ йеши"
+"fyZD","wocuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; воцулъи йеши"
+"fyZD","yacuɬ yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъ йеши"
+"fyZD","yacuɬi yeši",,,,"ND17","khalilov_chamalal_2015","Inferred; йацулъи йеши"
+"fFeBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFeBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFyBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFyBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFeZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFeZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFyZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFyZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFeBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFeBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFyBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFyBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFeZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFeZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFyZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFyZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMeBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMeBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMyBS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMyBS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMeZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMeZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMyZS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMyZS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMeBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMeBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMyBD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMyBD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMeZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMeZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMyZD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMyZD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFBeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFBeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFByS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFByS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFZeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFZeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFZyS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFZyS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFBeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFBeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFByD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFByD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFZeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFZeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fFZyD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fFZyD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMBeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMBeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMByS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMByS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMZeS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMZeS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMZyS","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMZyS","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMBeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMBeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMByD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMByD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMZeD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMZeD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"
+"fMZyD","wacab",,,,"ND17","khalilov_chamalal_2015","Inferred; вацаб"
+"fMZyD","yacab",,,,"ND17","khalilov_chamalal_2015","Inferred; йацаб"

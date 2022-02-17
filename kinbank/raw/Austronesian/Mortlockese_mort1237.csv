@@ -1,53 +1,117 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,pwiipwi,,male ego's older brother,,,,
-myB,pwiipwi,,male ego's younger brother,,,,
-feB,mwengeang,,female ego's older brother,,,,
-fyB,mwengeang,,female ego's younger brother,,,,
-meZ,mwengeang,,male ego's older sister,,,,
-myZ,mwengeang,,male ego's younger sister,,,,
-feZ,pwiipwi,,female ego's older sister,,,,
-fyZ,pwiipwi,,female ego's younger sister,,,,
-mF,saam,,male ego's father,,,,
-mM,iin,,male ego's mother,,,,
-fF,saam,,female ego's father,,,,
-fM,iin,,female ego's mother,,,,
-mFF,samelap,,male ego's father‘s father,,,,
-mFM,inelap,,male ego's father's mother,,,,
-mMF,samelap,,male ego's mother's father,,,,
-mMM,inelap,,male ego's mother's mother,,,,
-fFF,samelap,,female ego's father's father,,,,
-fFM,inelap,,female ego's father's mother,,,,
-fMF,samelap,,female ego's mother's father,,,,
-fMM,inelap,,female ego's mother's mother,,,,
-mFeB,tattalin saam,,male ego's father's older brother,,,,
-mFyB,tattalin saam,,male ego's father's younger brother,,,,
-mFeZ,tattalin iin,,male ego's father's older sister,,,,
-mFyZ,tattalin iin,,male ego's father's younger sister,,,,
-mMeB,tattalin saam,,male ego's mother's older brother,,,,
-mMyB,tattalin saam,,male ego's mother's younger brother,,,,
-mMeZ,tattalin iin,,male ego's mother's older sister,,,,
-mMyZ,tattalin iin,,male ego's mother's younger sister,,,,
-fFeB,tattalin saam,,female ego's father's older brother,,,,
-fFyB,tattalin saam,,female ego's father's younger brother,,,,
-fFeZ,tattalin iin,,female ego's father's older sister,,,,
-fFyZ,tattalin iin,,female ego's father's younger sister,,,,
-fMeB,tattalin saam,,female ego's mother's older brother,,,,
-fMyB,tattalin saam,,female ego's mother's younger brother,,,,
-fMeZ,tattalin iin,,female ego's mother's older sister,,,,
-fMyZ,tattalin iin,,female ego's mother's younger sister,,,,
-mFBS,tattalin pwiipwi,,male ego's father's brother's son,,,,
-mFZS,tattalin pwiipwi,,male ego's father's sister's son,,,,
-mMBS,tattalin pwiipwi,,male ego's mother's brother's son,,,,
-mMZS,tattalin pwiipwi,,male ego's mother's sister's son,,,,
-mFBD,tattalin mwengeang,,male ego's father's brother's daughter,,,,
-mFZD,tattalin mwengeang,,male ego's father's sister's daughter,,,,
-mMBD,tattalin mwengeang,,male ego's mother's brother's daughter,,,,
-mMZD,tattalin mwengeang,,male ego's mother's sister's daughter,,,,
-fFBS,tattalin pwiipwi,,female ego's father's brother's son,,,,
-fFZS,tattalin pwiipwi,,female ego's father's sister's son,,,,
-fMBS,tattalin pwiipwi,,female ego's mother's brother's son,,,,
-fMZS,tattalin pwiipwi,,female ego's mother's sister's son,,,,
-fFBD,tattalin mwengeang,,female ego's father's brother's daughter,,,,
-fFZD,tattalin mwengeang,,female ego's father's sister's daughter,,,,
-fMBD,tattalin mwengeang,,female ego's mother's brother's daughter,,,,
-fMZD,tattalin mwengeang,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","pwiipwi",,"male ego's older brother",,,,
+"myB","pwiipwi",,"male ego's younger brother",,,,
+"feB","mwengeang",,"female ego's older brother",,,,
+"fyB","mwengeang",,"female ego's younger brother",,,,
+"meZ","mwengeang",,"male ego's older sister",,,,
+"myZ","mwengeang",,"male ego's younger sister",,,,
+"feZ","pwiipwi",,"female ego's older sister",,,,
+"fyZ","pwiipwi",,"female ego's younger sister",,,,
+"mF","saam",,"male ego's father",,,,
+"mM","iin",,"male ego's mother",,,,
+"fF","saam",,"female ego's father",,,,
+"fM","iin",,"female ego's mother",,,,
+"mFF","samelap",,"male ego's father‘s father",,,,
+"mFM","inelap",,"male ego's father's mother",,,,
+"mMF","samelap",,"male ego's mother's father",,,,
+"mMM","inelap",,"male ego's mother's mother",,,,
+"fFF","samelap",,"female ego's father's father",,,,
+"fFM","inelap",,"female ego's father's mother",,,,
+"fMF","samelap",,"female ego's mother's father",,,,
+"fMM","inelap",,"female ego's mother's mother",,,,
+"mFeB","tattalin saam",,"male ego's father's older brother",,,,
+"mFyB","tattalin saam",,"male ego's father's younger brother",,,,
+"mFeZ","tattalin iin",,"male ego's father's older sister",,,,
+"mFyZ","tattalin iin",,"male ego's father's younger sister",,,,
+"mMeB","tattalin saam",,"male ego's mother's older brother",,,,
+"mMyB","tattalin saam",,"male ego's mother's younger brother",,,,
+"mMeZ","tattalin iin",,"male ego's mother's older sister",,,,
+"mMyZ","tattalin iin",,"male ego's mother's younger sister",,,,
+"fFeB","tattalin saam",,"female ego's father's older brother",,,,
+"fFyB","tattalin saam",,"female ego's father's younger brother",,,,
+"fFeZ","tattalin iin",,"female ego's father's older sister",,,,
+"fFyZ","tattalin iin",,"female ego's father's younger sister",,,,
+"fMeB","tattalin saam",,"female ego's mother's older brother",,,,
+"fMyB","tattalin saam",,"female ego's mother's younger brother",,,,
+"fMeZ","tattalin iin",,"female ego's mother's older sister",,,,
+"fMyZ","tattalin iin",,"female ego's mother's younger sister",,,,
+"mFBS","tattalin pwiipwi",,"male ego's father's brother's son",,,,
+"mFZS","tattalin pwiipwi",,"male ego's father's sister's son",,,,
+"mMBS","tattalin pwiipwi",,"male ego's mother's brother's son",,,,
+"mMZS","tattalin pwiipwi",,"male ego's mother's sister's son",,,,
+"mFBD","tattalin mwengeang",,"male ego's father's brother's daughter",,,,
+"mFZD","tattalin mwengeang",,"male ego's father's sister's daughter",,,,
+"mMBD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,,
+"mMZD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,,
+"fFBS","tattalin pwiipwi",,"female ego's father's brother's son",,,,
+"fFZS","tattalin pwiipwi",,"female ego's father's sister's son",,,,
+"fMBS","tattalin pwiipwi",,"female ego's mother's brother's son",,,,
+"fMZS","tattalin pwiipwi",,"female ego's mother's sister's son",,,,
+"fFBD","tattalin mwengeang",,"female ego's father's brother's daughter",,,,
+"fFZD","tattalin mwengeang",,"female ego's father's sister's daughter",,,,
+"fMBD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,,
+"fMZD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,,
+"mFeBS","tattalin pwiipwi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","tattalin pwiipwi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","tattalin pwiipwi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","tattalin pwiipwi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","tattalin mwengeang",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","tattalin mwengeang",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","tattalin mwengeang",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","tattalin mwengeang",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","tattalin pwiipwi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","tattalin pwiipwi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","tattalin pwiipwi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","tattalin pwiipwi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","tattalin pwiipwi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","tattalin pwiipwi",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","tattalin pwiipwi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","tattalin pwiipwi",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","tattalin mwengeang",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","tattalin mwengeang",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","tattalin mwengeang",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","tattalin mwengeang",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","tattalin pwiipwi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","tattalin pwiipwi",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","tattalin pwiipwi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","tattalin pwiipwi",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","tattalin pwiipwi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","tattalin pwiipwi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","tattalin pwiipwi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","tattalin pwiipwi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","tattalin mwengeang",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","tattalin mwengeang",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","tattalin mwengeang",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","tattalin mwengeang",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","tattalin pwiipwi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","tattalin pwiipwi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","tattalin pwiipwi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","tattalin pwiipwi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","tattalin pwiipwi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","tattalin pwiipwi",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","tattalin pwiipwi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","tattalin pwiipwi",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","tattalin mwengeang",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","tattalin mwengeang",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","tattalin mwengeang",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","tattalin mwengeang",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","tattalin pwiipwi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","tattalin pwiipwi",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","tattalin pwiipwi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","tattalin pwiipwi",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

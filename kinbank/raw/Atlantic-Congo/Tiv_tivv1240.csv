@@ -1,187 +1,187 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
-myB,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
-meZ,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
-myZ,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
-mFM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
-mMF,ter u vesen,,,,AC16(58),bohannan_tiv_2017,
-mMM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
-mCC,wan u kiriki,,,,AC16(59),bohannan_tiv_2017,
-mSS,wan,,,,AC16(59),bohannan_tiv_2017,"""wan may be used of any descendant of the individual"""
-mSD,wan,,,,AC16(59),bohannan_tiv_2017,
-mDS,wan,,,,AC16(59),bohannan_tiv_2017,
-mDD,wan,,,,AC16(59),bohannan_tiv_2017,
-mFB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"""Ter refers to any male ascendant, but especially through the agnatic line"""
-mFZ,ngo,,,,AC16(58),bohannan_tiv_2017,
-mBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-mBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-mZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-mZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-mFBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
-mFZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
-mMBS,wanngo,,,,AC16(59),bohannan_tiv_2017,
-mMZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,
-mFBeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mFByS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mFZeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mFZyS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mFBeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mFByD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mFZeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mFZyD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mMBeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mMByS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mMZeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mMZyS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mMBeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mMByD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mMZeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-mMZyD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-mW,kwase,,,,AC16,bohannan_tiv_2017,
-mWF,ter kem,,,,AC16(60),bohannan_tiv_2017,
-mWM,ngo kem,,,,AC16(60),bohannan_tiv_2017,
-mBW,won,,,,AC16(60),bohannan_tiv_2017,
-mZH,won,,,,AC16(60),bohannan_tiv_2017,
-mWB,won,,,,AC16(60),bohannan_tiv_2017,
-mWZ,won,,,,AC16(60),bohannan_tiv_2017,
-mco-W,wuhe,,,,AC16(61),bohannan_tiv_2017,
-mFW(notM),ter,,,,AC16(59),bohannan_tiv_2017,
-mMH(notF),ngo,,,,AC16(59),bohannan_tiv_2017,
-mSW,kwase,,,wan,AC16(61),bohannan_tiv_2017,
-mDH,wan kem,,,,AC16(61),bohannan_tiv_2017,
-mDHF,wan kem,,,,AC16(61),bohannan_tiv_2017,
-mFeB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
-mFyB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
-mFeZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
-mFyZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
-meBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-myBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-meBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-myBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-meZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-myZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-meZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-myZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-mFeBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-mFyBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-mFeZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-mFyZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-mMeBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
-mMyBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
-mMeZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
-mMyZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
-feB,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
-fyB,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
-feZ,wangban u vesen,,,,AC16(60),bohannan_tiv_2017,
-fyZ,wangban u kiriki,,,,AC16(60),bohannan_tiv_2017,
-fFM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
-fMF,ter u vesen,,,,AC16(58),bohannan_tiv_2017,
-fMM,ngo u tamen,,,ngo u vesen,AC16(59),bohannan_tiv_2017,
-fCC,wan u kiriki,,,,AC16(59),bohannan_tiv_2017,
-fSS,wan,,,,AC16(59),bohannan_tiv_2017,"""wan may be used of any descendant of the individual"""
-fSD,wan,,,,AC16(59),bohannan_tiv_2017,
-fDS,wan,,,,AC16(59),bohannan_tiv_2017,
-fDD,wan,,,,AC16(59),bohannan_tiv_2017,
-fFB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"""Ter refers to any male ascendant, but especially through the agnatic line"""
-fFZ,ngo,,,,AC16(58),bohannan_tiv_2017,
-fBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-fBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-fZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-fZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,
-fFBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
-fFZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,
-fMBS,wanngo,,,,AC16(59),bohannan_tiv_2017,
-fMZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,
-fFBeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fFByS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fFZeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fFZyS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fFBeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fFByD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fFZeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fFZyD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fMBeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fMByS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fMZeS,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fMZyS,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fMBeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fMByD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fMZeD,wanngo,,,wan u tamen,AC16(59),bohannan_tiv_2017,
-fMZyD,wanngo,,,wan u kiriki,AC16(59),bohannan_tiv_2017,
-fH,nomsu,,,,AC16,bohannan_tiv_2017,
-fHF,ter u tamen,,,nom u tamen,AC16(60),bohannan_tiv_2017,Wife may refer to anyone her husband calls 'ter' as her 'nom'
-fHM,ngo,,,,AC16(59),bohannan_tiv_2017,
-fBW,won,,,,AC16(60),bohannan_tiv_2017,
-fZH,won,,,,AC16(60),bohannan_tiv_2017,
-fHB,won,,,,AC16(60),bohannan_tiv_2017,
-fHZ,won,,,,AC16(60),bohannan_tiv_2017,
-fco-W,wuhe,,,,AC16(61),bohannan_tiv_2017,
-fFW(notM),ter,,,,AC16(59),bohannan_tiv_2017,
-fMH(notF),ngo,,,,AC16(59),bohannan_tiv_2017,
-fSW,kwase,,,wan,AC16(61),bohannan_tiv_2017,
-fDH,wan kem,,,,AC16(61),bohannan_tiv_2017,
-fDHF,wan kem,,,,AC16(61),bohannan_tiv_2017,
-fFeB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
-fFyB,ter u tamen,,,ter u vesen,AC16(58),bohannan_tiv_2017,"Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
-fFeZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
-fFyZ,ngo,,,,AC16(58),bohannan_tiv_2017,Inferred; NA
-feBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-fyBS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-feBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-fyBD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-feZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-fyZS,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-feZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-fyZD,wan,,,wanngo,AC16(59),bohannan_tiv_2017,Inferred; NA
-fFeBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-fFyBS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-fFeZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-fFyZS,wanngo,,,wanter,AC16(59),bohannan_tiv_2017,Inferred; NA
-fMeBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
-fMyBS,wanngo,,,,AC16(59),bohannan_tiv_2017,Inferred; NA
-fMeZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
-fMyZS,wanngo,,,wangban,AC16(59),bohannan_tiv_2017,Inferred; NA
-mD,wan,,,wankwase,AC14(19),campion_edwards_nonexistence_nodate,
-fD,wan,,,wankwase,AC14(19),campion_edwards_nonexistence_nodate,
-mG,wangban,,,,AC14(19),fardon_sisters_nodate,
-mB,wangban,,,,AC14(19),fardon_sisters_nodate,
-mZ,wangban,,,,AC14(19),fardon_sisters_nodate,
-mF,ter,,,,AC14(18),fardon_sisters_nodate,"""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
-mM,ngo,,,,AC14(18),fardon_sisters_nodate,"""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
-mC,wan,,,,AC14(19),fardon_sisters_nodate,
-mS,wan,,,,AC14(19),fardon_sisters_nodate,
-mFF,ter,,,,AC14(18),fardon_sisters_nodate,
-mFZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-mFBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-mMBD,wanngo,,,,AC14(18),fardon_sisters_nodate,
-mMZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-mFeBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-mFyBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-mFeZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-mFyZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-mMeBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
-mMyBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
-mMeZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-mMyZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-fG,wangban,,,,AC14(19),fardon_sisters_nodate,
-fB,wangban,,,,AC14(19),fardon_sisters_nodate,
-fZ,wangban,,,,AC14(19),fardon_sisters_nodate,
-fF,ter,,,,AC14(18),fardon_sisters_nodate,"""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
-fM,ngo,,,,AC14(18),fardon_sisters_nodate,"""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
-fC,wan,,,,AC14(19),fardon_sisters_nodate,
-fS,wan,,,,AC14(19),fardon_sisters_nodate,
-fFF,ter,,,,AC14(18),fardon_sisters_nodate,
-fFZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-fFBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-fMBD,wanngo,,,,AC14(18),fardon_sisters_nodate,
-fMZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-fFeBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-fFyBD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
-fFeZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-fFyZD,wanngo,,,wanter,AC14(18),fardon_sisters_nodate,"Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
-fMeBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
-fMyBD,wanngo,,,,AC14(18),fardon_sisters_nodate,Inferred; NA
-fMeZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-fMyZD,wanngo,,,wangban,AC14(18),fardon_sisters_nodate,"Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
-mD,wan,,,wankwase,AC15(104),fardon_sisters_nodate,
-fD,wan,,,wankwase,AC15(104),fardon_sisters_nodate,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","wangban u vesen",,,"","AC16(60)","bohannan_tiv_2017",""
+"myB","wangban u kiriki",,,"","AC16(60)","bohannan_tiv_2017",""
+"meZ","wangban u vesen",,,"","AC16(60)","bohannan_tiv_2017",""
+"myZ","wangban u kiriki",,,"","AC16(60)","bohannan_tiv_2017",""
+"mFM","ngo u tamen",,,"ngo u vesen","AC16(59)","bohannan_tiv_2017",""
+"mMF","ter u vesen",,,"","AC16(58)","bohannan_tiv_2017",""
+"mMM","ngo u tamen",,,"ngo u vesen","AC16(59)","bohannan_tiv_2017",""
+"mCC","wan u kiriki",,,"","AC16(59)","bohannan_tiv_2017",""
+"mSS","wan",,,"","AC16(59)","bohannan_tiv_2017","""wan may be used of any descendant of the individual"""
+"mSD","wan",,,"","AC16(59)","bohannan_tiv_2017",""
+"mDS","wan",,,"","AC16(59)","bohannan_tiv_2017",""
+"mDD","wan",,,"","AC16(59)","bohannan_tiv_2017",""
+"mFB","ter u tamen",,,"ter u vesen","AC16(58)","bohannan_tiv_2017","""Ter refers to any male ascendant, but especially through the agnatic line"""
+"mFZ","ngo",,,"","AC16(58)","bohannan_tiv_2017",""
+"mBS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"mBD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"mZS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"mZD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"mFBS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017",""
+"mFZS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017",""
+"mMBS","wanngo",,,"","AC16(59)","bohannan_tiv_2017",""
+"mMZS","wanngo",,,"wangban","AC16(59)","bohannan_tiv_2017",""
+"mFBeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mFByS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mFZeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mFZyS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mFBeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mFByD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mFZeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mFZyD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mMBeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mMByS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mMZeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mMZyS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mMBeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mMByD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mMZeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"mMZyD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"mW","kwase",,,"","AC16","bohannan_tiv_2017",""
+"mWF","ter kem",,,"","AC16(60)","bohannan_tiv_2017",""
+"mWM","ngo kem",,,"","AC16(60)","bohannan_tiv_2017",""
+"mBW","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"mZH","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"mWB","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"mWZ","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"mco-W","wuhe",,,"","AC16(61)","bohannan_tiv_2017",""
+"mFW(notM)","ter",,,"","AC16(59)","bohannan_tiv_2017",""
+"mMH(notF)","ngo",,,"","AC16(59)","bohannan_tiv_2017",""
+"mSW","kwase",,,"wan","AC16(61)","bohannan_tiv_2017",""
+"mDH","wan kem",,,"","AC16(61)","bohannan_tiv_2017",""
+"mDHF","wan kem",,,"","AC16(61)","bohannan_tiv_2017",""
+"mFeB","ter u tamen",,,"ter u vesen","AC16(58)","bohannan_tiv_2017","Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
+"mFyB","ter u tamen",,,"ter u vesen","AC16(58)","bohannan_tiv_2017","Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
+"mFeZ","ngo",,,"","AC16(58)","bohannan_tiv_2017","Inferred; NA"
+"mFyZ","ngo",,,"","AC16(58)","bohannan_tiv_2017","Inferred; NA"
+"meBS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"myBS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"meBD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"myBD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"meZS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"myZS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"meZD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"myZD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mFeBS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mFyBS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mFeZS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mFyZS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mMeBS","wanngo",,,"","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mMyBS","wanngo",,,"","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mMeZS","wanngo",,,"wangban","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mMyZS","wanngo",,,"wangban","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"feB","wangban u vesen",,,"","AC16(60)","bohannan_tiv_2017",""
+"fyB","wangban u kiriki",,,"","AC16(60)","bohannan_tiv_2017",""
+"feZ","wangban u vesen",,,"","AC16(60)","bohannan_tiv_2017",""
+"fyZ","wangban u kiriki",,,"","AC16(60)","bohannan_tiv_2017",""
+"fFM","ngo u tamen",,,"ngo u vesen","AC16(59)","bohannan_tiv_2017",""
+"fMF","ter u vesen",,,"","AC16(58)","bohannan_tiv_2017",""
+"fMM","ngo u tamen",,,"ngo u vesen","AC16(59)","bohannan_tiv_2017",""
+"fCC","wan u kiriki",,,"","AC16(59)","bohannan_tiv_2017",""
+"fSS","wan",,,"","AC16(59)","bohannan_tiv_2017","""wan may be used of any descendant of the individual"""
+"fSD","wan",,,"","AC16(59)","bohannan_tiv_2017",""
+"fDS","wan",,,"","AC16(59)","bohannan_tiv_2017",""
+"fDD","wan",,,"","AC16(59)","bohannan_tiv_2017",""
+"fFB","ter u tamen",,,"ter u vesen","AC16(58)","bohannan_tiv_2017","""Ter refers to any male ascendant, but especially through the agnatic line"""
+"fFZ","ngo",,,"","AC16(58)","bohannan_tiv_2017",""
+"fBS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"fBD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"fZS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"fZD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017",""
+"fFBS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017",""
+"fFZS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017",""
+"fMBS","wanngo",,,"","AC16(59)","bohannan_tiv_2017",""
+"fMZS","wanngo",,,"wangban","AC16(59)","bohannan_tiv_2017",""
+"fFBeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fFByS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fFZeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fFZyS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fFBeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fFByD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fFZeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fFZyD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fMBeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fMByS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fMZeS","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fMZyS","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fMBeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fMByD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fMZeD","wanngo",,,"wan u tamen","AC16(59)","bohannan_tiv_2017",""
+"fMZyD","wanngo",,,"wan u kiriki","AC16(59)","bohannan_tiv_2017",""
+"fH","nomsu",,,"","AC16","bohannan_tiv_2017",""
+"fHF","ter u tamen",,,"nom u tamen","AC16(60)","bohannan_tiv_2017","Wife may refer to anyone her husband calls 'ter' as her 'nom'"
+"fHM","ngo",,,"","AC16(59)","bohannan_tiv_2017",""
+"fBW","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"fZH","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"fHB","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"fHZ","won",,,"","AC16(60)","bohannan_tiv_2017",""
+"fco-W","wuhe",,,"","AC16(61)","bohannan_tiv_2017",""
+"fFW(notM)","ter",,,"","AC16(59)","bohannan_tiv_2017",""
+"fMH(notF)","ngo",,,"","AC16(59)","bohannan_tiv_2017",""
+"fSW","kwase",,,"wan","AC16(61)","bohannan_tiv_2017",""
+"fDH","wan kem",,,"","AC16(61)","bohannan_tiv_2017",""
+"fDHF","wan kem",,,"","AC16(61)","bohannan_tiv_2017",""
+"fFeB","ter u tamen",,,"ter u vesen","AC16(58)","bohannan_tiv_2017","Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
+"fFyB","ter u tamen",,,"ter u vesen","AC16(58)","bohannan_tiv_2017","Inferred; ""Ter refers to any male ascendant, but especially through the agnatic line"""
+"fFeZ","ngo",,,"","AC16(58)","bohannan_tiv_2017","Inferred; NA"
+"fFyZ","ngo",,,"","AC16(58)","bohannan_tiv_2017","Inferred; NA"
+"feBS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fyBS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"feBD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fyBD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"feZS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fyZS","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"feZD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fyZD","wan",,,"wanngo","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fFeBS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fFyBS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fFeZS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fFyZS","wanngo",,,"wanter","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fMeBS","wanngo",,,"","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fMyBS","wanngo",,,"","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fMeZS","wanngo",,,"wangban","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"fMyZS","wanngo",,,"wangban","AC16(59)","bohannan_tiv_2017","Inferred; NA"
+"mD","wan",,,"wankwase","AC14(19)","campion_edwards_nonexistence_nodate",""
+"fD","wan",,,"wankwase","AC14(19)","campion_edwards_nonexistence_nodate",""
+"mG","wangban",,,"","AC14(19)","fardon_sisters_nodate",""
+"mB","wangban",,,"","AC14(19)","fardon_sisters_nodate",""
+"mZ","wangban",,,"","AC14(19)","fardon_sisters_nodate",""
+"mF","ter",,,"","AC14(18)","fardon_sisters_nodate","""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
+"mM","ngo",,,"","AC14(18)","fardon_sisters_nodate","""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
+"mC","wan",,,"","AC14(19)","fardon_sisters_nodate",""
+"mS","wan",,,"","AC14(19)","fardon_sisters_nodate",""
+"mFF","ter",,,"","AC14(18)","fardon_sisters_nodate",""
+"mFZD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+"mFBD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+"mMBD","wanngo",,,"","AC14(18)","fardon_sisters_nodate",""
+"mMZD","wanngo",,,"wangban","AC14(18)","fardon_sisters_nodate","""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+"mFeBD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+"mFyBD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+"mFeZD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+"mFyZD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+"mMeBD","wanngo",,,"","AC14(18)","fardon_sisters_nodate","Inferred; NA"
+"mMyBD","wanngo",,,"","AC14(18)","fardon_sisters_nodate","Inferred; NA"
+"mMeZD","wanngo",,,"wangban","AC14(18)","fardon_sisters_nodate","Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+"mMyZD","wanngo",,,"wangban","AC14(18)","fardon_sisters_nodate","Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+"fG","wangban",,,"","AC14(19)","fardon_sisters_nodate",""
+"fB","wangban",,,"","AC14(19)","fardon_sisters_nodate",""
+"fZ","wangban",,,"","AC14(19)","fardon_sisters_nodate",""
+"fF","ter",,,"","AC14(18)","fardon_sisters_nodate","""Ter can be modified according to seniority relative to Ego's father"" AC14(19)"
+"fM","ngo",,,"","AC14(18)","fardon_sisters_nodate","""Ngo can be extended to include a 'woman socially associated with any female ascendant' such as a woman involved in the same marriage cycle"" AC14(19)"
+"fC","wan",,,"","AC14(19)","fardon_sisters_nodate",""
+"fS","wan",,,"","AC14(19)","fardon_sisters_nodate",""
+"fFF","ter",,,"","AC14(18)","fardon_sisters_nodate",""
+"fFZD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+"fFBD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+"fMBD","wanngo",,,"","AC14(18)","fardon_sisters_nodate",""
+"fMZD","wanngo",,,"wangban","AC14(18)","fardon_sisters_nodate","""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+"fFeBD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+"fFyBD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Not normally used within the minimal exogamic lineage, since it emphasises the purely jural aspect of agnatic relationship"" AC14(19)"
+"fFeZD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+"fFyZD","wanngo",,,"wanter","AC14(18)","fardon_sisters_nodate","Inferred; ""Collateral relatives may be referred to as descendants of the lineal relatives: wanter or wanngo, child of a male or female ascendant"""
+"fMeBD","wanngo",,,"","AC14(18)","fardon_sisters_nodate","Inferred; NA"
+"fMyBD","wanngo",,,"","AC14(18)","fardon_sisters_nodate","Inferred; NA"
+"fMeZD","wanngo",,,"wangban","AC14(18)","fardon_sisters_nodate","Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+"fMyZD","wanngo",,,"wangban","AC14(18)","fardon_sisters_nodate","Inferred; ""A third bilateral zone of consanguinal relations demarcates that category of relatives with whom Ego is able to trace a blood relation through more than one link... The children of paired full sister exchange marriages."""
+"mD","wan",,,"wankwase","AC15(104)","fardon_sisters_nodate",""
+"fD","wan",,,"wankwase","AC15(104)","fardon_sisters_nodate",""

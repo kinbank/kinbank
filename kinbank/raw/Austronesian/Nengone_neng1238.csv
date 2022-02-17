@@ -1,76 +1,108 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"mama, remama",,male ego's older brother,,,,
-myB,"cel, celuaien",,male ego's younger brother,,,,
-feB,"mama, remama",,female ego's older brother,,,,
-fyB,"cel, celuaien",,female ego's younger brother,,,,
-meZ,mama,,male ego's older sister,,,,
-myZ,resingen,,male ego's younger sister,,,,
-feZ,mama,,female ego's older sister,,,,
-mF,"caca, cecen, cicango",,male ego's father,,,,
-mM,"hmaien, mimi",,male ego's mother,nene,,,nene = vocative
-fF,"caca, cecen, cicango",,female ego's father,,,,
-fM,"hmaien, mimi",,female ego's mother,nene,,,nene = vocative
-mS,atenen,,male ego's son,,,,
-fS,atenen,,female ego's son,,,,
-mD,atenen,,male ego's daughter,,,,
-fD,atenen,,female ego's daughter,,,,
-mSS,abuaien,,male ego's son's son,,,,
-mSD,abuaien,,male ego's son's daughter,,,,
-mDS,abuaien,,male ego's daughter's son,,,,
-mDD,abuaien,,male ego's daughter's daughter,,,,
-fSS,abuaien,,female ego's son's son,,,,
-fSD,abuaien,,female ego's son's daughter,,,,
-fDS,abuaien,,female ego's daughter's son,,,,
-fDD,abuaien,,female ego's daugher's daughter,,,,
-mFF,papa,,male ego's father‘s father,,,,
-mFM,papa,,male ego's father's mother,,,,
-mMF,papa,,male ego's mother's father,,,,
-mMM,papa,,male ego's mother's mother,,,,
-fFF,papa,,female ego's father's father,,,,
-fFM,papa,,female ego's father's mother,,,,
-fMF,papa,,female ego's mother's father,,,,
-fMM,papa,,female ego's mother's mother,,,,
-meBS,abuaien,,male ego's older brother's son,,,,
-myBS,abuaien,,male ego's younger brother's son,,,,
-meZS,"abuaien, anuen",,male ego's older sister's son,,,,
-myZS,"abuaien, anuen",,male ego's younger sister's son,,,,
-meZD,anuen,,male ego's older sister's daughter,,,,
-myZD,anuen,,male ego's younger sister's daughter,,,,
-feBS,abuaien,,female ego's older brother's son,,,,
-fyBS,abuaien,,female ego's younger brother's son,,,,
-feZS,"abuaien, anuen",,female ego's older sister's son,,,,
-fyZS,"abuaien, anuen",,female ego's younger sister's son,,,,
-feZD,anuen,,female ego's older sister's daughter,,,,
-fyZD,anuen,,female ego's younger sister's daughter,,,,
-mFeB,"caca, cicango",,male ego's father's older brother,,,,
-mFyB,"caca, cicango",,male ego's father's younger brother,,,,
-mFeZ,cekin,,male ego's father's older sister,,,,
-mFyZ,cekin,,male ego's father's younger sister,,,,
-mMeB,caca,,male ego's mother's older brother,,,,
-mMyB,caca,,male ego's mother's younger brother,,,,
-mMeZ,hmaien,,male ego's mother's older sister,,,,
-mMyZ,hmaien,,male ego's mother's younger sister,,,,
-fFeB,"caca, cicango",,female ego's father's older brother,,,,
-fFyB,"caca, cicango",,female ego's father's younger brother,,,,
-fFeZ,cekin,,female ego's father's older sister,,,,
-fFyZ,cekin,,female ego's father's younger sister,,,,
-fMeB,caca,,female ego's mother's older brother,,,,
-fMyB,caca,,female ego's mother's younger brother,,,,
-fMeZ,hmaien,,female ego's mother's older sister,,,,
-fMyZ,hmaien,,female ego's mother's younger sister,,,,
-mW,theden,,male ego's wife,,,,
-fH,theden,,female ego‘s husband,,,,
-mDH,etecekin,,male ego's daughter's husband,,,,
-fDH,etecekin,,female ego's daughter's husband,,,,
-mSW,etecekin,,male ego's son's wife,,,,
-fSW,etecekin,,female ego's son's wife,,,,
-mWM,etecekin,,male ego's wife's mother,,,,
-fHM,etecekin,,female ego's husband's mother,,,,
-mFBD,reisingen,,male ego's father's brother's daughter,,,,
-mFZD,reisingen,,male ego's father's sister's daughter,,,,
-mMBD,reisingen,,male ego's mother's brother's daughter,,,,
-mMZD,reisingen,,male ego's mother's sister's daughter,,,,
-fFBS,reisingen,,female ego's father's brother's son,,,,
-fFZS,reisingen,,female ego's father's sister's son,,,,
-fMBS,reisingen,,female ego's mother's brother's son,,,,
-fMZS,reisingen,,female ego's mother's sister's son,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mama, remama",,"male ego's older brother","",,,""
+"myB","cel, celuaien",,"male ego's younger brother","",,,""
+"feB","mama, remama",,"female ego's older brother","",,,""
+"fyB","cel, celuaien",,"female ego's younger brother","",,,""
+"meZ","mama",,"male ego's older sister","",,,""
+"myZ","resingen",,"male ego's younger sister","",,,""
+"feZ","mama",,"female ego's older sister","",,,""
+"mF","caca, cecen, cicango",,"male ego's father","",,,""
+"mM","hmaien, mimi",,"male ego's mother","nene",,,"nene = vocative"
+"fF","caca, cecen, cicango",,"female ego's father","",,,""
+"fM","hmaien, mimi",,"female ego's mother","nene",,,"nene = vocative"
+"mS","atenen",,"male ego's son","",,,""
+"fS","atenen",,"female ego's son","",,,""
+"mD","atenen",,"male ego's daughter","",,,""
+"fD","atenen",,"female ego's daughter","",,,""
+"mSS","abuaien",,"male ego's son's son","",,,""
+"mSD","abuaien",,"male ego's son's daughter","",,,""
+"mDS","abuaien",,"male ego's daughter's son","",,,""
+"mDD","abuaien",,"male ego's daughter's daughter","",,,""
+"fSS","abuaien",,"female ego's son's son","",,,""
+"fSD","abuaien",,"female ego's son's daughter","",,,""
+"fDS","abuaien",,"female ego's daughter's son","",,,""
+"fDD","abuaien",,"female ego's daugher's daughter","",,,""
+"mFF","papa",,"male ego's father‘s father","",,,""
+"mFM","papa",,"male ego's father's mother","",,,""
+"mMF","papa",,"male ego's mother's father","",,,""
+"mMM","papa",,"male ego's mother's mother","",,,""
+"fFF","papa",,"female ego's father's father","",,,""
+"fFM","papa",,"female ego's father's mother","",,,""
+"fMF","papa",,"female ego's mother's father","",,,""
+"fMM","papa",,"female ego's mother's mother","",,,""
+"meBS","abuaien",,"male ego's older brother's son","",,,""
+"myBS","abuaien",,"male ego's younger brother's son","",,,""
+"meZS","abuaien, anuen",,"male ego's older sister's son","",,,""
+"myZS","abuaien, anuen",,"male ego's younger sister's son","",,,""
+"meZD","anuen",,"male ego's older sister's daughter","",,,""
+"myZD","anuen",,"male ego's younger sister's daughter","",,,""
+"feBS","abuaien",,"female ego's older brother's son","",,,""
+"fyBS","abuaien",,"female ego's younger brother's son","",,,""
+"feZS","abuaien, anuen",,"female ego's older sister's son","",,,""
+"fyZS","abuaien, anuen",,"female ego's younger sister's son","",,,""
+"feZD","anuen",,"female ego's older sister's daughter","",,,""
+"fyZD","anuen",,"female ego's younger sister's daughter","",,,""
+"mFeB","caca, cicango",,"male ego's father's older brother","",,,""
+"mFyB","caca, cicango",,"male ego's father's younger brother","",,,""
+"mFeZ","cekin",,"male ego's father's older sister","",,,""
+"mFyZ","cekin",,"male ego's father's younger sister","",,,""
+"mMeB","caca",,"male ego's mother's older brother","",,,""
+"mMyB","caca",,"male ego's mother's younger brother","",,,""
+"mMeZ","hmaien",,"male ego's mother's older sister","",,,""
+"mMyZ","hmaien",,"male ego's mother's younger sister","",,,""
+"fFeB","caca, cicango",,"female ego's father's older brother","",,,""
+"fFyB","caca, cicango",,"female ego's father's younger brother","",,,""
+"fFeZ","cekin",,"female ego's father's older sister","",,,""
+"fFyZ","cekin",,"female ego's father's younger sister","",,,""
+"fMeB","caca",,"female ego's mother's older brother","",,,""
+"fMyB","caca",,"female ego's mother's younger brother","",,,""
+"fMeZ","hmaien",,"female ego's mother's older sister","",,,""
+"fMyZ","hmaien",,"female ego's mother's younger sister","",,,""
+"mW","theden",,"male ego's wife","",,,""
+"fH","theden",,"female ego‘s husband","",,,""
+"mDH","etecekin",,"male ego's daughter's husband","",,,""
+"fDH","etecekin",,"female ego's daughter's husband","",,,""
+"mSW","etecekin",,"male ego's son's wife","",,,""
+"fSW","etecekin",,"female ego's son's wife","",,,""
+"mWM","etecekin",,"male ego's wife's mother","",,,""
+"fHM","etecekin",,"female ego's husband's mother","",,,""
+"mFBD","reisingen",,"male ego's father's brother's daughter","",,,""
+"mFZD","reisingen",,"male ego's father's sister's daughter","",,,""
+"mMBD","reisingen",,"male ego's mother's brother's daughter","",,,""
+"mMZD","reisingen",,"male ego's mother's sister's daughter","",,,""
+"fFBS","reisingen",,"female ego's father's brother's son","",,,""
+"fFZS","reisingen",,"female ego's father's sister's son","",,,""
+"fMBS","reisingen",,"female ego's mother's brother's son","",,,""
+"fMZS","reisingen",,"female ego's mother's sister's son","",,,""
+"mFeBD","reisingen",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","reisingen",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFeZD","reisingen",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFyZD","reisingen",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMeBD","reisingen",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","reisingen",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMeZD","reisingen",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","reisingen",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeD","reisingen",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","reisingen",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFZeD","reisingen",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mFZyD","reisingen",,"male ego's father's sister's daughter","",,,"Inferred; "
+"mMBeD","reisingen",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","reisingen",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMZeD","reisingen",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","reisingen",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"fFeBS","reisingen",,"female ego's father's brother's son","",,,"Inferred; "
+"fFyBS","reisingen",,"female ego's father's brother's son","",,,"Inferred; "
+"fFeZS","reisingen",,"female ego's father's sister's son","",,,"Inferred; "
+"fFyZS","reisingen",,"female ego's father's sister's son","",,,"Inferred; "
+"fMeBS","reisingen",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMyBS","reisingen",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMeZS","reisingen",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMyZS","reisingen",,"female ego's mother's sister's son","",,,"Inferred; "
+"fFBeS","reisingen",,"female ego's father's brother's son","",,,"Inferred; "
+"fFByS","reisingen",,"female ego's father's brother's son","",,,"Inferred; "
+"fFZeS","reisingen",,"female ego's father's sister's son","",,,"Inferred; "
+"fFZyS","reisingen",,"female ego's father's sister's son","",,,"Inferred; "
+"fMBeS","reisingen",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMByS","reisingen",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMZeS","reisingen",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMZyS","reisingen",,"female ego's mother's sister's son","",,,"Inferred; "

@@ -1,489 +1,489 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,bharā prā,,,,IE342,saxena_punjabi_2015,
-mB,bhāyī,,,,IE342,saxena_punjabi_2015,
-mZ,bhaiṇa,,,,IE342,saxena_punjabi_2015,
-mZ,paiṇa,,,,IE342,saxena_punjabi_2015,
-myB,nikka prā,,,,IE342,saxena_punjabi_2015,
-myZ,chuṭērī bhaiṇa,,,,IE342,saxena_punjabi_2015,
-myZ,nikkī paiṇa,,,,IE342,saxena_punjabi_2015,
-mF,bāpa,,,,IE342,saxena_punjabi_2015,
-mF,pitā,,,,IE342,saxena_punjabi_2015,
-mF,pio,,,,IE342,saxena_punjabi_2015,
-mM,mātā,,,,IE342,saxena_punjabi_2015,
-mM,ammā,,,,IE342,saxena_punjabi_2015,
-mM,māyī,,,,IE342,saxena_punjabi_2015,
-mC,bacā,,,,IE342,saxena_punjabi_2015,
-mC,balaka,,,,IE342,saxena_punjabi_2015,
-mC,bāla,,,,IE342,saxena_punjabi_2015,
-mS,bēṭā,,,,IE342,saxena_punjabi_2015,
-mS,puttara,,,,IE342,saxena_punjabi_2015,
-mS,putā,,,,IE342,saxena_punjabi_2015,
-mS,betā,,,,IE342,saxena_punjabi_2015,
-mD,guḍī,,,,IE342,saxena_punjabi_2015,
-mD,bēṭī,,,,IE342,saxena_punjabi_2015,
-mD,dhī,,,,IE342,saxena_punjabi_2015,
-mD,larkī,,,,IE342,saxena_punjabi_2015,
-mD,chokrī,,,,IE342,saxena_punjabi_2015,
-mFF,nānā,,,,IE342,saxena_punjabi_2015,
-mFF,dādā,,,,IE342,saxena_punjabi_2015,
-mFM,dādī,,,,IE342,saxena_punjabi_2015,
-mFM,nānī,,,,IE342,saxena_punjabi_2015,
-mMF,nānā,,,,IE342,saxena_punjabi_2015,
-mMF,dādā,,,,IE342,saxena_punjabi_2015,
-mMM,dādī,,,,IE342,saxena_punjabi_2015,
-mMM,nānī,,,,IE342,saxena_punjabi_2015,
-mSS,pōtā,,,,IE342,saxena_punjabi_2015,
-mSS,potrā,,,,IE342,saxena_punjabi_2015,
-mSS,dotrā,,,,IE342,saxena_punjabi_2015,
-mSD,pōtī,,,,IE342,saxena_punjabi_2015,
-mSD,dotī,,,,IE342,saxena_punjabi_2015,
-mSD,dotrī,,,,IE342,saxena_punjabi_2015,
-mDS,pōtā,,,,IE342,saxena_punjabi_2015,
-mDS,potrā,,,,IE342,saxena_punjabi_2015,
-mDS,dotrā,,,,IE342,saxena_punjabi_2015,
-mDD,pōtī,,,,IE342,saxena_punjabi_2015,
-mDD,dotī,,,,IE342,saxena_punjabi_2015,
-mDD,dotrī,,,,IE342,saxena_punjabi_2015,
-mFB,cācā,,,,IE342,saxena_punjabi_2015,
-mFB,tāyā,,,,IE342,saxena_punjabi_2015,
-mFZ,phophi,,,,IE342,saxena_punjabi_2015,
-mFZ,bhūyā,,,,IE342,saxena_punjabi_2015,
-mMB,māmā,,,,IE342,saxena_punjabi_2015,
-mMB,māmū,,,,IE342,saxena_punjabi_2015,
-mMZ,māsī,,,,IE342,saxena_punjabi_2015,
-mBS,bhatījā,,,,IE342,saxena_punjabi_2015,
-mBS,patijā,,,,IE342,saxena_punjabi_2015,
-mBS,pānjā,,,,IE342,saxena_punjabi_2015,
-mBD,bhatījī,,,,IE342,saxena_punjabi_2015,
-mBD,patijī,,,,IE342,saxena_punjabi_2015,
-mBD,pānjī,,,,IE342,saxena_punjabi_2015,
-mZS,bhatījā,,,,IE342,saxena_punjabi_2015,
-mZS,patijā,,,,IE342,saxena_punjabi_2015,
-mZS,pānjā,,,,IE342,saxena_punjabi_2015,
-mZD,bhatījī,,,,IE342,saxena_punjabi_2015,
-mZD,patijī,,,,IE342,saxena_punjabi_2015,
-mZD,pānjī,,,,IE342,saxena_punjabi_2015,
-mFZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mFZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-mMZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-mH,patī,,,,IE342,saxena_punjabi_2015,
-mH,khasama,,,,IE342,saxena_punjabi_2015,
-mH,admī,,,,IE342,saxena_punjabi_2015,
-mW,aurata,,,,IE342,saxena_punjabi_2015,
-mW,bīvī,,,,IE342,saxena_punjabi_2015,
-mW,voṭī,,,,IE342,saxena_punjabi_2015,
-mHF,sorā,,,,IE342,saxena_punjabi_2015,
-mHM,sasa,,,,IE342,saxena_punjabi_2015,
-mWF,sorā,,,,IE342,saxena_punjabi_2015,
-mWM,sasa,,,,IE342,saxena_punjabi_2015,
-mSW,bahū,,,,IE342,saxena_punjabi_2015,
-mSW,nūha,,,,IE342,saxena_punjabi_2015,
-mSW,bahū,,,,IE342,saxena_punjabi_2015,
-mSW,nūha,,,,IE342,saxena_punjabi_2015,
-mDH,damāda,,,,IE342,saxena_punjabi_2015,
-mDH,javāy'ī,,,,IE342,saxena_punjabi_2015,
-mDH,damāda,,,,IE342,saxena_punjabi_2015,
-mDH,javā'yī,,,,IE342,saxena_punjabi_2015,
-meB,bharā prā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meB,bhāyī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZ,bhaiṇa,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZ,paiṇa,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeB,cācā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeB,tāyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyB,cācā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyB,tāyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZ,phophi,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZ,bhūyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZ,phophi,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZ,bhūyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZ,māsī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZ,māsī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeB,māmā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeB,māmū,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyB,māmā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyB,māmū,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meBS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meBS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meBS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myBS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myBS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myBS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meBD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meBD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meBD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myBD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myBD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myBD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myZS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myZS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myZS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-meZD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myZD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myZD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-myZD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFeZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFyZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMeZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMyZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFBeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFBeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFBeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFByS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFByS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFByS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZyS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZyS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZyS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFBeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFBeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFBeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFByD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFByD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFByD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZyD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZyD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mFZyD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMBeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMBeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMBeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMByS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMByS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMByS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZyS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZyS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZyS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMBeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMBeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMBeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMByD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMByD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMByD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZyD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZyD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-mMZyD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fB,bharā prā,,,,IE342,saxena_punjabi_2015,
-fB,bhāyī,,,,IE342,saxena_punjabi_2015,
-fZ,bhaiṇa,,,,IE342,saxena_punjabi_2015,
-fZ,paiṇa,,,,IE342,saxena_punjabi_2015,
-fyB,nikka prā,,,,IE342,saxena_punjabi_2015,
-fyZ,chuṭērī bhaiṇa,,,,IE342,saxena_punjabi_2015,
-fyZ,nikkī paiṇa,,,,IE342,saxena_punjabi_2015,
-fF,bāpa,,,,IE342,saxena_punjabi_2015,
-fF,pitā,,,,IE342,saxena_punjabi_2015,
-fF,pio,,,,IE342,saxena_punjabi_2015,
-fM,mātā,,,,IE342,saxena_punjabi_2015,
-fM,ammā,,,,IE342,saxena_punjabi_2015,
-fM,māyī,,,,IE342,saxena_punjabi_2015,
-fC,bacā,,,,IE342,saxena_punjabi_2015,
-fC,balaka,,,,IE342,saxena_punjabi_2015,
-fC,bāla,,,,IE342,saxena_punjabi_2015,
-fS,bēṭā,,,,IE342,saxena_punjabi_2015,
-fS,puttara,,,,IE342,saxena_punjabi_2015,
-fS,putā,,,,IE342,saxena_punjabi_2015,
-fS,betā,,,,IE342,saxena_punjabi_2015,
-fD,guḍī,,,,IE342,saxena_punjabi_2015,
-fD,bēṭī,,,,IE342,saxena_punjabi_2015,
-fD,dhī,,,,IE342,saxena_punjabi_2015,
-fD,larkī,,,,IE342,saxena_punjabi_2015,
-fD,chokrī,,,,IE342,saxena_punjabi_2015,
-fFF,nānā,,,,IE342,saxena_punjabi_2015,
-fFF,dādā,,,,IE342,saxena_punjabi_2015,
-fFM,dādī,,,,IE342,saxena_punjabi_2015,
-fFM,nānī,,,,IE342,saxena_punjabi_2015,
-fMF,nānā,,,,IE342,saxena_punjabi_2015,
-fMF,dādā,,,,IE342,saxena_punjabi_2015,
-fMM,dādī,,,,IE342,saxena_punjabi_2015,
-fMM,nānī,,,,IE342,saxena_punjabi_2015,
-fSS,pōtā,,,,IE342,saxena_punjabi_2015,
-fSS,potrā,,,,IE342,saxena_punjabi_2015,
-fSS,dotrā,,,,IE342,saxena_punjabi_2015,
-fSD,pōtī,,,,IE342,saxena_punjabi_2015,
-fSD,dotī,,,,IE342,saxena_punjabi_2015,
-fSD,dotrī,,,,IE342,saxena_punjabi_2015,
-fDS,pōtā,,,,IE342,saxena_punjabi_2015,
-fDS,potrā,,,,IE342,saxena_punjabi_2015,
-fDS,dotrā,,,,IE342,saxena_punjabi_2015,
-fDD,pōtī,,,,IE342,saxena_punjabi_2015,
-fDD,dotī,,,,IE342,saxena_punjabi_2015,
-fDD,dotrī,,,,IE342,saxena_punjabi_2015,
-fFB,cācā,,,,IE342,saxena_punjabi_2015,
-fFB,tāyā,,,,IE342,saxena_punjabi_2015,
-fFZ,phophi,,,,IE342,saxena_punjabi_2015,
-fFZ,bhūyā,,,,IE342,saxena_punjabi_2015,
-fMB,māmā,,,,IE342,saxena_punjabi_2015,
-fMB,māmū,,,,IE342,saxena_punjabi_2015,
-fMZ,māsī,,,,IE342,saxena_punjabi_2015,
-fBS,bhatījā,,,,IE342,saxena_punjabi_2015,
-fBS,patijā,,,,IE342,saxena_punjabi_2015,
-fBS,pānjā,,,,IE342,saxena_punjabi_2015,
-fBD,bhatījī,,,,IE342,saxena_punjabi_2015,
-fBD,patijī,,,,IE342,saxena_punjabi_2015,
-fBD,pānjī,,,,IE342,saxena_punjabi_2015,
-fZS,bhatījā,,,,IE342,saxena_punjabi_2015,
-fZS,patijā,,,,IE342,saxena_punjabi_2015,
-fZS,pānjā,,,,IE342,saxena_punjabi_2015,
-fZD,bhatījī,,,,IE342,saxena_punjabi_2015,
-fZD,patijī,,,,IE342,saxena_punjabi_2015,
-fZD,pānjī,,,,IE342,saxena_punjabi_2015,
-fFZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fFZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,
-fMZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,
-fH,patī,,,,IE342,saxena_punjabi_2015,
-fH,khasama,,,,IE342,saxena_punjabi_2015,
-fH,admī,,,,IE342,saxena_punjabi_2015,
-fW,aurata,,,,IE342,saxena_punjabi_2015,
-fW,bīvī,,,,IE342,saxena_punjabi_2015,
-fW,voṭī,,,,IE342,saxena_punjabi_2015,
-fHF,sorā,,,,IE342,saxena_punjabi_2015,
-fHM,sasa,,,,IE342,saxena_punjabi_2015,
-fWF,sorā,,,,IE342,saxena_punjabi_2015,
-fWM,sasa,,,,IE342,saxena_punjabi_2015,
-fSW,bahū,,,,IE342,saxena_punjabi_2015,
-fSW,nūha,,,,IE342,saxena_punjabi_2015,
-fSW,bahū,,,,IE342,saxena_punjabi_2015,
-fSW,nūha,,,,IE342,saxena_punjabi_2015,
-fDH,damāda,,,,IE342,saxena_punjabi_2015,
-fDH,javāy'ī,,,,IE342,saxena_punjabi_2015,
-fDH,damāda,,,,IE342,saxena_punjabi_2015,
-fDH,javā'yī,,,,IE342,saxena_punjabi_2015,
-feB,bharā prā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feB,bhāyī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZ,bhaiṇa,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZ,paiṇa,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeB,cācā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeB,tāyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyB,cācā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyB,tāyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZ,phophi,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZ,bhūyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZ,phophi,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZ,bhūyā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZ,māsī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZ,māsī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeB,māmā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeB,māmū,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyB,māmā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyB,māmū,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feBS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feBS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feBS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyBS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyBS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyBS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feBD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feBD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feBD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyBD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyBD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyBD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyZS,bhatījā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyZS,patijā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyZS,pānjā,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-feZD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyZD,bhatījī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyZD,patijī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fyZD,pānjī,,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFeZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFyZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyBS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyBS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyBS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyBD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyBD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyBD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMeZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMyZD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFBeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFBeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFBeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFByS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFByS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFByS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZyS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZyS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZyS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFBeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFBeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFBeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFByD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFByD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFByD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZyD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZyD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fFZyD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMBeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMBeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMBeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMByS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMByS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMByS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZeS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZeS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZeS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZyS,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZyS,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZyS,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMBeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMBeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMBeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMByD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMByD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMByD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZeD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZeD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZeD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZyD,masera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZyD,phophera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
-fMZyD,cacera (bhāi),,,,IE342,saxena_punjabi_2015,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","bharā prā",,,,"IE342","saxena_punjabi_2015",""
+"mB","bhāyī",,,,"IE342","saxena_punjabi_2015",""
+"mZ","bhaiṇa",,,,"IE342","saxena_punjabi_2015",""
+"mZ","paiṇa",,,,"IE342","saxena_punjabi_2015",""
+"myB","nikka prā",,,,"IE342","saxena_punjabi_2015",""
+"myZ","chuṭērī bhaiṇa",,,,"IE342","saxena_punjabi_2015",""
+"myZ","nikkī paiṇa",,,,"IE342","saxena_punjabi_2015",""
+"mF","bāpa",,,,"IE342","saxena_punjabi_2015",""
+"mF","pitā",,,,"IE342","saxena_punjabi_2015",""
+"mF","pio",,,,"IE342","saxena_punjabi_2015",""
+"mM","mātā",,,,"IE342","saxena_punjabi_2015",""
+"mM","ammā",,,,"IE342","saxena_punjabi_2015",""
+"mM","māyī",,,,"IE342","saxena_punjabi_2015",""
+"mC","bacā",,,,"IE342","saxena_punjabi_2015",""
+"mC","balaka",,,,"IE342","saxena_punjabi_2015",""
+"mC","bāla",,,,"IE342","saxena_punjabi_2015",""
+"mS","bēṭā",,,,"IE342","saxena_punjabi_2015",""
+"mS","puttara",,,,"IE342","saxena_punjabi_2015",""
+"mS","putā",,,,"IE342","saxena_punjabi_2015",""
+"mS","betā",,,,"IE342","saxena_punjabi_2015",""
+"mD","guḍī",,,,"IE342","saxena_punjabi_2015",""
+"mD","bēṭī",,,,"IE342","saxena_punjabi_2015",""
+"mD","dhī",,,,"IE342","saxena_punjabi_2015",""
+"mD","larkī",,,,"IE342","saxena_punjabi_2015",""
+"mD","chokrī",,,,"IE342","saxena_punjabi_2015",""
+"mFF","nānā",,,,"IE342","saxena_punjabi_2015",""
+"mFF","dādā",,,,"IE342","saxena_punjabi_2015",""
+"mFM","dādī",,,,"IE342","saxena_punjabi_2015",""
+"mFM","nānī",,,,"IE342","saxena_punjabi_2015",""
+"mMF","nānā",,,,"IE342","saxena_punjabi_2015",""
+"mMF","dādā",,,,"IE342","saxena_punjabi_2015",""
+"mMM","dādī",,,,"IE342","saxena_punjabi_2015",""
+"mMM","nānī",,,,"IE342","saxena_punjabi_2015",""
+"mSS","pōtā",,,,"IE342","saxena_punjabi_2015",""
+"mSS","potrā",,,,"IE342","saxena_punjabi_2015",""
+"mSS","dotrā",,,,"IE342","saxena_punjabi_2015",""
+"mSD","pōtī",,,,"IE342","saxena_punjabi_2015",""
+"mSD","dotī",,,,"IE342","saxena_punjabi_2015",""
+"mSD","dotrī",,,,"IE342","saxena_punjabi_2015",""
+"mDS","pōtā",,,,"IE342","saxena_punjabi_2015",""
+"mDS","potrā",,,,"IE342","saxena_punjabi_2015",""
+"mDS","dotrā",,,,"IE342","saxena_punjabi_2015",""
+"mDD","pōtī",,,,"IE342","saxena_punjabi_2015",""
+"mDD","dotī",,,,"IE342","saxena_punjabi_2015",""
+"mDD","dotrī",,,,"IE342","saxena_punjabi_2015",""
+"mFB","cācā",,,,"IE342","saxena_punjabi_2015",""
+"mFB","tāyā",,,,"IE342","saxena_punjabi_2015",""
+"mFZ","phophi",,,,"IE342","saxena_punjabi_2015",""
+"mFZ","bhūyā",,,,"IE342","saxena_punjabi_2015",""
+"mMB","māmā",,,,"IE342","saxena_punjabi_2015",""
+"mMB","māmū",,,,"IE342","saxena_punjabi_2015",""
+"mMZ","māsī",,,,"IE342","saxena_punjabi_2015",""
+"mBS","bhatījā",,,,"IE342","saxena_punjabi_2015",""
+"mBS","patijā",,,,"IE342","saxena_punjabi_2015",""
+"mBS","pānjā",,,,"IE342","saxena_punjabi_2015",""
+"mBD","bhatījī",,,,"IE342","saxena_punjabi_2015",""
+"mBD","patijī",,,,"IE342","saxena_punjabi_2015",""
+"mBD","pānjī",,,,"IE342","saxena_punjabi_2015",""
+"mZS","bhatījā",,,,"IE342","saxena_punjabi_2015",""
+"mZS","patijā",,,,"IE342","saxena_punjabi_2015",""
+"mZS","pānjā",,,,"IE342","saxena_punjabi_2015",""
+"mZD","bhatījī",,,,"IE342","saxena_punjabi_2015",""
+"mZD","patijī",,,,"IE342","saxena_punjabi_2015",""
+"mZD","pānjī",,,,"IE342","saxena_punjabi_2015",""
+"mFZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mFZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mMZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"mH","patī",,,,"IE342","saxena_punjabi_2015",""
+"mH","khasama",,,,"IE342","saxena_punjabi_2015",""
+"mH","admī",,,,"IE342","saxena_punjabi_2015",""
+"mW","aurata",,,,"IE342","saxena_punjabi_2015",""
+"mW","bīvī",,,,"IE342","saxena_punjabi_2015",""
+"mW","voṭī",,,,"IE342","saxena_punjabi_2015",""
+"mHF","sorā",,,,"IE342","saxena_punjabi_2015",""
+"mHM","sasa",,,,"IE342","saxena_punjabi_2015",""
+"mWF","sorā",,,,"IE342","saxena_punjabi_2015",""
+"mWM","sasa",,,,"IE342","saxena_punjabi_2015",""
+"mSW","bahū",,,,"IE342","saxena_punjabi_2015",""
+"mSW","nūha",,,,"IE342","saxena_punjabi_2015",""
+"mSW","bahū",,,,"IE342","saxena_punjabi_2015",""
+"mSW","nūha",,,,"IE342","saxena_punjabi_2015",""
+"mDH","damāda",,,,"IE342","saxena_punjabi_2015",""
+"mDH","javāy'ī",,,,"IE342","saxena_punjabi_2015",""
+"mDH","damāda",,,,"IE342","saxena_punjabi_2015",""
+"mDH","javā'yī",,,,"IE342","saxena_punjabi_2015",""
+"meB","bharā prā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meB","bhāyī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZ","bhaiṇa",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZ","paiṇa",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeB","cācā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeB","tāyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyB","cācā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyB","tāyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZ","phophi",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZ","bhūyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZ","phophi",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZ","bhūyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZ","māsī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZ","māsī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeB","māmā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeB","māmū",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyB","māmā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyB","māmū",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meBS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meBS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meBS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myBS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myBS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myBS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meBD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meBD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meBD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myBD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myBD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myBD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myZS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myZS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myZS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"meZD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myZD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myZD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"myZD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFeZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFyZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMeZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMyZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFBeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFBeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFBeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFByS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFByS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFByS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZyS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZyS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZyS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFBeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFBeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFBeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFByD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFByD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFByD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZyD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZyD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mFZyD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMBeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMBeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMBeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMByS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMByS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMByS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZyS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZyS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZyS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMBeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMBeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMBeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMByD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMByD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMByD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZyD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZyD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"mMZyD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fB","bharā prā",,,,"IE342","saxena_punjabi_2015",""
+"fB","bhāyī",,,,"IE342","saxena_punjabi_2015",""
+"fZ","bhaiṇa",,,,"IE342","saxena_punjabi_2015",""
+"fZ","paiṇa",,,,"IE342","saxena_punjabi_2015",""
+"fyB","nikka prā",,,,"IE342","saxena_punjabi_2015",""
+"fyZ","chuṭērī bhaiṇa",,,,"IE342","saxena_punjabi_2015",""
+"fyZ","nikkī paiṇa",,,,"IE342","saxena_punjabi_2015",""
+"fF","bāpa",,,,"IE342","saxena_punjabi_2015",""
+"fF","pitā",,,,"IE342","saxena_punjabi_2015",""
+"fF","pio",,,,"IE342","saxena_punjabi_2015",""
+"fM","mātā",,,,"IE342","saxena_punjabi_2015",""
+"fM","ammā",,,,"IE342","saxena_punjabi_2015",""
+"fM","māyī",,,,"IE342","saxena_punjabi_2015",""
+"fC","bacā",,,,"IE342","saxena_punjabi_2015",""
+"fC","balaka",,,,"IE342","saxena_punjabi_2015",""
+"fC","bāla",,,,"IE342","saxena_punjabi_2015",""
+"fS","bēṭā",,,,"IE342","saxena_punjabi_2015",""
+"fS","puttara",,,,"IE342","saxena_punjabi_2015",""
+"fS","putā",,,,"IE342","saxena_punjabi_2015",""
+"fS","betā",,,,"IE342","saxena_punjabi_2015",""
+"fD","guḍī",,,,"IE342","saxena_punjabi_2015",""
+"fD","bēṭī",,,,"IE342","saxena_punjabi_2015",""
+"fD","dhī",,,,"IE342","saxena_punjabi_2015",""
+"fD","larkī",,,,"IE342","saxena_punjabi_2015",""
+"fD","chokrī",,,,"IE342","saxena_punjabi_2015",""
+"fFF","nānā",,,,"IE342","saxena_punjabi_2015",""
+"fFF","dādā",,,,"IE342","saxena_punjabi_2015",""
+"fFM","dādī",,,,"IE342","saxena_punjabi_2015",""
+"fFM","nānī",,,,"IE342","saxena_punjabi_2015",""
+"fMF","nānā",,,,"IE342","saxena_punjabi_2015",""
+"fMF","dādā",,,,"IE342","saxena_punjabi_2015",""
+"fMM","dādī",,,,"IE342","saxena_punjabi_2015",""
+"fMM","nānī",,,,"IE342","saxena_punjabi_2015",""
+"fSS","pōtā",,,,"IE342","saxena_punjabi_2015",""
+"fSS","potrā",,,,"IE342","saxena_punjabi_2015",""
+"fSS","dotrā",,,,"IE342","saxena_punjabi_2015",""
+"fSD","pōtī",,,,"IE342","saxena_punjabi_2015",""
+"fSD","dotī",,,,"IE342","saxena_punjabi_2015",""
+"fSD","dotrī",,,,"IE342","saxena_punjabi_2015",""
+"fDS","pōtā",,,,"IE342","saxena_punjabi_2015",""
+"fDS","potrā",,,,"IE342","saxena_punjabi_2015",""
+"fDS","dotrā",,,,"IE342","saxena_punjabi_2015",""
+"fDD","pōtī",,,,"IE342","saxena_punjabi_2015",""
+"fDD","dotī",,,,"IE342","saxena_punjabi_2015",""
+"fDD","dotrī",,,,"IE342","saxena_punjabi_2015",""
+"fFB","cācā",,,,"IE342","saxena_punjabi_2015",""
+"fFB","tāyā",,,,"IE342","saxena_punjabi_2015",""
+"fFZ","phophi",,,,"IE342","saxena_punjabi_2015",""
+"fFZ","bhūyā",,,,"IE342","saxena_punjabi_2015",""
+"fMB","māmā",,,,"IE342","saxena_punjabi_2015",""
+"fMB","māmū",,,,"IE342","saxena_punjabi_2015",""
+"fMZ","māsī",,,,"IE342","saxena_punjabi_2015",""
+"fBS","bhatījā",,,,"IE342","saxena_punjabi_2015",""
+"fBS","patijā",,,,"IE342","saxena_punjabi_2015",""
+"fBS","pānjā",,,,"IE342","saxena_punjabi_2015",""
+"fBD","bhatījī",,,,"IE342","saxena_punjabi_2015",""
+"fBD","patijī",,,,"IE342","saxena_punjabi_2015",""
+"fBD","pānjī",,,,"IE342","saxena_punjabi_2015",""
+"fZS","bhatījā",,,,"IE342","saxena_punjabi_2015",""
+"fZS","patijā",,,,"IE342","saxena_punjabi_2015",""
+"fZS","pānjā",,,,"IE342","saxena_punjabi_2015",""
+"fZD","bhatījī",,,,"IE342","saxena_punjabi_2015",""
+"fZD","patijī",,,,"IE342","saxena_punjabi_2015",""
+"fZD","pānjī",,,,"IE342","saxena_punjabi_2015",""
+"fFZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fFZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fMZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015",""
+"fH","patī",,,,"IE342","saxena_punjabi_2015",""
+"fH","khasama",,,,"IE342","saxena_punjabi_2015",""
+"fH","admī",,,,"IE342","saxena_punjabi_2015",""
+"fW","aurata",,,,"IE342","saxena_punjabi_2015",""
+"fW","bīvī",,,,"IE342","saxena_punjabi_2015",""
+"fW","voṭī",,,,"IE342","saxena_punjabi_2015",""
+"fHF","sorā",,,,"IE342","saxena_punjabi_2015",""
+"fHM","sasa",,,,"IE342","saxena_punjabi_2015",""
+"fWF","sorā",,,,"IE342","saxena_punjabi_2015",""
+"fWM","sasa",,,,"IE342","saxena_punjabi_2015",""
+"fSW","bahū",,,,"IE342","saxena_punjabi_2015",""
+"fSW","nūha",,,,"IE342","saxena_punjabi_2015",""
+"fSW","bahū",,,,"IE342","saxena_punjabi_2015",""
+"fSW","nūha",,,,"IE342","saxena_punjabi_2015",""
+"fDH","damāda",,,,"IE342","saxena_punjabi_2015",""
+"fDH","javāy'ī",,,,"IE342","saxena_punjabi_2015",""
+"fDH","damāda",,,,"IE342","saxena_punjabi_2015",""
+"fDH","javā'yī",,,,"IE342","saxena_punjabi_2015",""
+"feB","bharā prā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feB","bhāyī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZ","bhaiṇa",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZ","paiṇa",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeB","cācā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeB","tāyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyB","cācā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyB","tāyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZ","phophi",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZ","bhūyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZ","phophi",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZ","bhūyā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZ","māsī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZ","māsī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeB","māmā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeB","māmū",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyB","māmā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyB","māmū",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feBS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feBS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feBS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyBS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyBS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyBS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feBD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feBD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feBD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyBD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyBD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyBD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyZS","bhatījā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyZS","patijā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyZS","pānjā",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"feZD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyZD","bhatījī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyZD","patijī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fyZD","pānjī",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFeZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFyZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyBS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyBS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyBS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyBD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyBD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyBD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMeZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMyZD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFBeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFBeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFBeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFByS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFByS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFByS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZyS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZyS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZyS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFBeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFBeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFBeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFByD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFByD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFByD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZyD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZyD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fFZyD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMBeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMBeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMBeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMByS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMByS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMByS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZeS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZeS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZeS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZyS","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZyS","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZyS","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMBeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMBeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMBeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMByD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMByD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMByD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZeD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZeD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZeD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZyD","masera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZyD","phophera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"
+"fMZyD","cacera (bhāi)",,,,"IE342","saxena_punjabi_2015","Inferred; NA"

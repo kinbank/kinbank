@@ -1,99 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mbwó,,male ego's older brother,,,,
-myB,mbwó,,male ego's younger brother,,,,
-feB,"tîdê, tîdî",,female ego's older brother,,,,
-fyB,"tîdê, tîdî",,female ego's younger brother,,,,
-meZ,"tîdê, tîdî",,male ego's older sister,,,,
-myZ,"tîdê, tîdî",,male ego's younger sister,,,,
-feZ,mbwó,,female ego's older sister,,,,
-fyZ,mbwó,,female ego's younger sister,,,,
-mF,"mî, m:aa",,male ego's father,,,,m:aa = address
-mM,"piye, pye, niye",,male ego's mother,,,,niye = address
-fF,"mî, m:aa",,female ego's father,,,,m:aa = address
-fM,"piye, pye, niye",,female ego's mother,,,,niye = address
-mS,tp:ee,,male ego's son,,,,
-fS,tp:ee,,female ego's son,,,,
-mD,tp:ee,,male ego's daughter,,,,
-fD,tp:ee,,female ego's daughter,,,,
-mSS,kee,,male ego's son's son,,,,
-mSD,kee,,male ego's son's daughter,,,,
-mDS,kee,,male ego's daughter's son,,,,
-mDD,kee,,male ego's daughter's daughter,,,,
-fSS,kee,,female ego's son's son,,,,
-fSD,kee,,female ego's son's daughter,,,,
-fDS,kee,,female ego's daughter's son,,,,
-fDD,kee,,female ego's daugher's daughter,,,,
-mFF,"kââkââ, kighê",,male ego's father‘s father,,,,
-mFM,kââpyââ,,male ego's father's mother,,,,
-mMF,"kââkââ, kighê",,male ego's mother's father,,,,
-mMM,kââpyââ,,male ego's mother's mother,,,,
-fFF,"kââkââ, kighê",,female ego's father's father,,,,
-fFM,kââpyââ,,female ego's father's mother,,,,
-fMF,"kââkââ, kighê",,female ego's mother's father,,,,
-fMM,kââpyââ,,female ego's mother's mother,,,,
-meBS,kee,,male ego's older brother's son,,,,
-myBS,kee,,male ego's younger brother's son,,,,
-meZS,chênê,,male ego's older sister's son,,,,
-myZS,chênê,,male ego's younger sister's son,,,,
-meBD,kee,,male ego's older brother's daughter,,,,
-myBD,kee,,male ego's younger brother's daughter,,,,
-meZD,chênê,,male ego's older sister's daughter,,,,
-myZD,chênê,,male ego's younger sister's daughter,,,,
-feBS,mbópó,,female ego's older brother's son,,,,
-fyBS,mbópó,,female ego's younger brother's son,,,,
-feZS,w:ââ,,female ego's older sister's son,,,,
-fyZS,w:ââ,,female ego's younger sister's son,,,,
-feBD,kee,,female ego's older brother's daughter,,,,
-fyBD,kee,,female ego's younger brother's daughter,,,,
-feZD,w:ââ,,female ego's older sister's daughter,,,,
-fyZD,w:ââ,,female ego's younger sister's daughter,,,,
-mFeB,"kââkââ, kighê",,male ego's father's older brother,,,,
-mFyB,"kââkââ, kighê",,male ego's father's younger brother,,,,
-mFeZ,"m:aam:ââ, mî pyââ",,male ego's father's older sister,,,,m:aam:ââ = address
-mFyZ,"m:aam:ââ, mî pyââ",,male ego's father's younger sister,,,,m:aam:ââ = address
-mMeB,"kênê, kênêwo, teetee",,male ego's mother's older brother,,,,kênêwo is becoming archaic
-mMyB,"kênê, kênêwo, teetee",,male ego's mother's younger brother,,,,kênêwo is becoming archaic
-mMeZ,"piye, pye",,male ego's mother's older sister,,,,
-mMyZ,"piye, pye",,male ego's mother's younger sister,,,,
-fFeB,"kââkââ, kighê",,female ego's father's older brother,,,,
-fFyB,"kââkââ, kighê",,female ego's father's younger brother,,,,
-fFeZ,"m:aam:ââ, mî pyââ",,female ego's father's older sister,,,,m:aam:ââ = address
-fFyZ,"m:aam:ââ, mî pyââ",,female ego's father's younger sister,,,,m:aam:ââ = address
-fMeB,"kênê, kênêwo, teetee",,female ego's mother's older brother,,,,kênêwo is becoming archaic
-fMyB,"kênê, kênêwo, teetee",,female ego's mother's younger brother,,,,kênêwo is becoming archaic
-fMeZ,"piye, pye",,female ego's mother's older sister,,,,
-fMyZ,"piye, pye",,female ego's mother's younger sister,,,,
-mW,"kpâm, kpâmu",,male ego's wife,,,,
-fH,moo,,female ego‘s husband,,,,
-mDH,"mbywé, mbwiyé",,male ego's daughter's husband,,,,
-fDH,"mbywé, mbwiyé",,female ego's daughter's husband,,,,
-mSW,'n:ââ,,male ego's son's wife,,,,
-fSW,'n:ââ,,female ego's son's wife,,,,
-mWF,"mbywé, mbwiyé",,male ego's wife's father,,,,
-mWM,"mbywé, mbwiyé, mbywé pyââ",,male ego's wife's mother,,,,
-mWB,mg:êê,,male ego's wife's brother,,,,
-mWZ,"mbwanko, kédikââ, choko",,male ego's wife's sister,,,,"kédikââ = a taboo relationship to eldest and youngest sister of wife, may not be addressed by this term. choko is used instead"
-fHF,'n:ââ,,female ego's husband's father,,,,
-fHM,'n:ââ,,female ego's husband's mother,,,,
-fHB,kédikââ,,female ego's husband's brother,,,,
-fHZ,vyîlî,,female ego's husband's sister,,,,
-mBW,kédikââ,,male ego's brother's wife,,,,
-fBW,"vyîlî, kémedi",,female ego's brother's wife,,,,
-mZH,"dyémi, mg:êê",,male ego's sister's husband,,,,
-fZH,"dyémi, mg:êê",,female ego's sister's husband,,,,
-mFBS,mbwó,,male ego's father's brother's son,,,,
-mFZS,mîchó,,male ego's father's sister's son,,,,
-mMBS,w:ââ,,male ego's mother's brother's son,,,,
-mMZS,mbwó,,male ego's mother's sister's son,,,,
-mFBD,"tîdê, tîdî",,male ego's father's brother's daughter,,,,
-mFZD,kââpyââ,,male ego's father's sister's daughter,,,,
-mMBD,w:ââ,,male ego's mother's brother's daughter,,,,
-mMZD,"tîdê, tîdî",,male ego's mother's sister's daughter,,,,
-fFBS,"tîdê, tîdî",,female ego's father's brother's son,,,,
-fFZS,mîchó,,female ego's father's sister's son,,,,
-fMBS,kee,,female ego's mother's brother's son,,,,
-fMZS,"tîdê, tîdî",,female ego's mother's sister's son,,,,
-fFBD,mbwó,,female ego's father's brother's daughter,,,,
-fFZD,kââpyââ,,female ego's father's sister's daughter,,,,
-fMBD,kee,,female ego's mother's brother's daughter,,,,
-fMZD,mbwó,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mbwó",,"male ego's older brother",,,,""
+"myB","mbwó",,"male ego's younger brother",,,,""
+"feB","tîdê, tîdî",,"female ego's older brother",,,,""
+"fyB","tîdê, tîdî",,"female ego's younger brother",,,,""
+"meZ","tîdê, tîdî",,"male ego's older sister",,,,""
+"myZ","tîdê, tîdî",,"male ego's younger sister",,,,""
+"feZ","mbwó",,"female ego's older sister",,,,""
+"fyZ","mbwó",,"female ego's younger sister",,,,""
+"mF","mî, m:aa",,"male ego's father",,,,"m:aa = address"
+"mM","piye, pye, niye",,"male ego's mother",,,,"niye = address"
+"fF","mî, m:aa",,"female ego's father",,,,"m:aa = address"
+"fM","piye, pye, niye",,"female ego's mother",,,,"niye = address"
+"mS","tp:ee",,"male ego's son",,,,""
+"fS","tp:ee",,"female ego's son",,,,""
+"mD","tp:ee",,"male ego's daughter",,,,""
+"fD","tp:ee",,"female ego's daughter",,,,""
+"mSS","kee",,"male ego's son's son",,,,""
+"mSD","kee",,"male ego's son's daughter",,,,""
+"mDS","kee",,"male ego's daughter's son",,,,""
+"mDD","kee",,"male ego's daughter's daughter",,,,""
+"fSS","kee",,"female ego's son's son",,,,""
+"fSD","kee",,"female ego's son's daughter",,,,""
+"fDS","kee",,"female ego's daughter's son",,,,""
+"fDD","kee",,"female ego's daugher's daughter",,,,""
+"mFF","kââkââ, kighê",,"male ego's father‘s father",,,,""
+"mFM","kââpyââ",,"male ego's father's mother",,,,""
+"mMF","kââkââ, kighê",,"male ego's mother's father",,,,""
+"mMM","kââpyââ",,"male ego's mother's mother",,,,""
+"fFF","kââkââ, kighê",,"female ego's father's father",,,,""
+"fFM","kââpyââ",,"female ego's father's mother",,,,""
+"fMF","kââkââ, kighê",,"female ego's mother's father",,,,""
+"fMM","kââpyââ",,"female ego's mother's mother",,,,""
+"meBS","kee",,"male ego's older brother's son",,,,""
+"myBS","kee",,"male ego's younger brother's son",,,,""
+"meZS","chênê",,"male ego's older sister's son",,,,""
+"myZS","chênê",,"male ego's younger sister's son",,,,""
+"meBD","kee",,"male ego's older brother's daughter",,,,""
+"myBD","kee",,"male ego's younger brother's daughter",,,,""
+"meZD","chênê",,"male ego's older sister's daughter",,,,""
+"myZD","chênê",,"male ego's younger sister's daughter",,,,""
+"feBS","mbópó",,"female ego's older brother's son",,,,""
+"fyBS","mbópó",,"female ego's younger brother's son",,,,""
+"feZS","w:ââ",,"female ego's older sister's son",,,,""
+"fyZS","w:ââ",,"female ego's younger sister's son",,,,""
+"feBD","kee",,"female ego's older brother's daughter",,,,""
+"fyBD","kee",,"female ego's younger brother's daughter",,,,""
+"feZD","w:ââ",,"female ego's older sister's daughter",,,,""
+"fyZD","w:ââ",,"female ego's younger sister's daughter",,,,""
+"mFeB","kââkââ, kighê",,"male ego's father's older brother",,,,""
+"mFyB","kââkââ, kighê",,"male ego's father's younger brother",,,,""
+"mFeZ","m:aam:ââ, mî pyââ",,"male ego's father's older sister",,,,"m:aam:ââ = address"
+"mFyZ","m:aam:ââ, mî pyââ",,"male ego's father's younger sister",,,,"m:aam:ââ = address"
+"mMeB","kênê, kênêwo, teetee",,"male ego's mother's older brother",,,,"kênêwo is becoming archaic"
+"mMyB","kênê, kênêwo, teetee",,"male ego's mother's younger brother",,,,"kênêwo is becoming archaic"
+"mMeZ","piye, pye",,"male ego's mother's older sister",,,,""
+"mMyZ","piye, pye",,"male ego's mother's younger sister",,,,""
+"fFeB","kââkââ, kighê",,"female ego's father's older brother",,,,""
+"fFyB","kââkââ, kighê",,"female ego's father's younger brother",,,,""
+"fFeZ","m:aam:ââ, mî pyââ",,"female ego's father's older sister",,,,"m:aam:ââ = address"
+"fFyZ","m:aam:ââ, mî pyââ",,"female ego's father's younger sister",,,,"m:aam:ââ = address"
+"fMeB","kênê, kênêwo, teetee",,"female ego's mother's older brother",,,,"kênêwo is becoming archaic"
+"fMyB","kênê, kênêwo, teetee",,"female ego's mother's younger brother",,,,"kênêwo is becoming archaic"
+"fMeZ","piye, pye",,"female ego's mother's older sister",,,,""
+"fMyZ","piye, pye",,"female ego's mother's younger sister",,,,""
+"mW","kpâm, kpâmu",,"male ego's wife",,,,""
+"fH","moo",,"female ego‘s husband",,,,""
+"mDH","mbywé, mbwiyé",,"male ego's daughter's husband",,,,""
+"fDH","mbywé, mbwiyé",,"female ego's daughter's husband",,,,""
+"mSW","'n:ââ",,"male ego's son's wife",,,,""
+"fSW","'n:ââ",,"female ego's son's wife",,,,""
+"mWF","mbywé, mbwiyé",,"male ego's wife's father",,,,""
+"mWM","mbywé, mbwiyé, mbywé pyââ",,"male ego's wife's mother",,,,""
+"mWB","mg:êê",,"male ego's wife's brother",,,,""
+"mWZ","mbwanko, kédikââ, choko",,"male ego's wife's sister",,,,"kédikââ = a taboo relationship to eldest and youngest sister of wife, may not be addressed by this term. choko is used instead"
+"fHF","'n:ââ",,"female ego's husband's father",,,,""
+"fHM","'n:ââ",,"female ego's husband's mother",,,,""
+"fHB","kédikââ",,"female ego's husband's brother",,,,""
+"fHZ","vyîlî",,"female ego's husband's sister",,,,""
+"mBW","kédikââ",,"male ego's brother's wife",,,,""
+"fBW","vyîlî, kémedi",,"female ego's brother's wife",,,,""
+"mZH","dyémi, mg:êê",,"male ego's sister's husband",,,,""
+"fZH","dyémi, mg:êê",,"female ego's sister's husband",,,,""
+"mFBS","mbwó",,"male ego's father's brother's son",,,,""
+"mFZS","mîchó",,"male ego's father's sister's son",,,,""
+"mMBS","w:ââ",,"male ego's mother's brother's son",,,,""
+"mMZS","mbwó",,"male ego's mother's sister's son",,,,""
+"mFBD","tîdê, tîdî",,"male ego's father's brother's daughter",,,,""
+"mFZD","kââpyââ",,"male ego's father's sister's daughter",,,,""
+"mMBD","w:ââ",,"male ego's mother's brother's daughter",,,,""
+"mMZD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,,""
+"fFBS","tîdê, tîdî",,"female ego's father's brother's son",,,,""
+"fFZS","mîchó",,"female ego's father's sister's son",,,,""
+"fMBS","kee",,"female ego's mother's brother's son",,,,""
+"fMZS","tîdê, tîdî",,"female ego's mother's sister's son",,,,""
+"fFBD","mbwó",,"female ego's father's brother's daughter",,,,""
+"fFZD","kââpyââ",,"female ego's father's sister's daughter",,,,""
+"fMBD","kee",,"female ego's mother's brother's daughter",,,,""
+"fMZD","mbwó",,"female ego's mother's sister's daughter",,,,""
+"mFeBS","mbwó",,"male ego's father's brother's son",,,,"Inferred; "
+"mFyBS","mbwó",,"male ego's father's brother's son",,,,"Inferred; "
+"mFeZS","mîchó",,"male ego's father's sister's son",,,,"Inferred; "
+"mFyZS","mîchó",,"male ego's father's sister's son",,,,"Inferred; "
+"mFeBD","tîdê, tîdî",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFyBD","tîdê, tîdî",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFeZD","kââpyââ",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mFyZD","kââpyââ",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mMeBS","w:ââ",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMyBS","w:ââ",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMeZS","mbwó",,"male ego's mother's sister's son",,,,"Inferred; "
+"mMyZS","mbwó",,"male ego's mother's sister's son",,,,"Inferred; "
+"mMeBD","w:ââ",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mMyBD","w:ââ",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mMeZD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,,"Inferred; "
+"mMyZD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,,"Inferred; "
+"mFBeS","mbwó",,"male ego's father's brother's son",,,,"Inferred; "
+"mFByS","mbwó",,"male ego's father's brother's son",,,,"Inferred; "
+"mFZeS","mîchó",,"male ego's father's sister's son",,,,"Inferred; "
+"mFZyS","mîchó",,"male ego's father's sister's son",,,,"Inferred; "
+"mFBeD","tîdê, tîdî",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFByD","tîdê, tîdî",,"male ego's father's brother's daughter",,,,"Inferred; "
+"mFZeD","kââpyââ",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mFZyD","kââpyââ",,"male ego's father's sister's daughter",,,,"Inferred; "
+"mMBeS","w:ââ",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMByS","w:ââ",,"male ego's mother's brother's son",,,,"Inferred; "
+"mMZeS","mbwó",,"male ego's mother's sister's son",,,,"Inferred; "
+"mMZyS","mbwó",,"male ego's mother's sister's son",,,,"Inferred; "
+"mMBeD","w:ââ",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mMByD","w:ââ",,"male ego's mother's brother's daughter",,,,"Inferred; "
+"mMZeD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,,"Inferred; "
+"mMZyD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,,"Inferred; "
+"fFeBS","tîdê, tîdî",,"female ego's father's brother's son",,,,"Inferred; "
+"fFyBS","tîdê, tîdî",,"female ego's father's brother's son",,,,"Inferred; "
+"fFeZS","mîchó",,"female ego's father's sister's son",,,,"Inferred; "
+"fFyZS","mîchó",,"female ego's father's sister's son",,,,"Inferred; "
+"fFeBD","mbwó",,"female ego's father's brother's daughter",,,,"Inferred; "
+"fFyBD","mbwó",,"female ego's father's brother's daughter",,,,"Inferred; "
+"fFeZD","kââpyââ",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fFyZD","kââpyââ",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fMeBS","kee",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMyBS","kee",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMeZS","tîdê, tîdî",,"female ego's mother's sister's son",,,,"Inferred; "
+"fMyZS","tîdê, tîdî",,"female ego's mother's sister's son",,,,"Inferred; "
+"fMeBD","kee",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fMyBD","kee",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fMeZD","mbwó",,"female ego's mother's sister's daughter",,,,"Inferred; "
+"fMyZD","mbwó",,"female ego's mother's sister's daughter",,,,"Inferred; "
+"fFBeS","tîdê, tîdî",,"female ego's father's brother's son",,,,"Inferred; "
+"fFByS","tîdê, tîdî",,"female ego's father's brother's son",,,,"Inferred; "
+"fFZeS","mîchó",,"female ego's father's sister's son",,,,"Inferred; "
+"fFZyS","mîchó",,"female ego's father's sister's son",,,,"Inferred; "
+"fFBeD","mbwó",,"female ego's father's brother's daughter",,,,"Inferred; "
+"fFByD","mbwó",,"female ego's father's brother's daughter",,,,"Inferred; "
+"fFZeD","kââpyââ",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fFZyD","kââpyââ",,"female ego's father's sister's daughter",,,,"Inferred; "
+"fMBeS","kee",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMByS","kee",,"female ego's mother's brother's son",,,,"Inferred; "
+"fMZeS","tîdê, tîdî",,"female ego's mother's sister's son",,,,"Inferred; "
+"fMZyS","tîdê, tîdî",,"female ego's mother's sister's son",,,,"Inferred; "
+"fMBeD","kee",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fMByD","kee",,"female ego's mother's brother's daughter",,,,"Inferred; "
+"fMZeD","mbwó",,"female ego's mother's sister's daughter",,,,"Inferred; "
+"fMZyD","mbwó",,"female ego's mother's sister's daughter",,,,"Inferred; "

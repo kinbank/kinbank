@@ -1,83 +1,147 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tahin,,male ego's older brother,,,,
-myB,tahin,,male ego's younger brother,,,,
-feB,tatahinalik,,female ego's older brother,,,,
-fyB,tatahinalik,,female ego's younger brother,,,,
-meZ,tatahinalik,,male ego's older sister,,,,
-myZ,tatahinalik,,male ego's younger sister,,,,
-feZ,tahinalik,,female ego's older sister,,,,
-fyZ,tahinalik,,female ego's younger sister,,,,
-mF,taman,,male ego's father,,,,
-mM,tinan,,male ego's mother,,,,
-fF,taman,,female ego's father,,,,
-fM,tinan,,female ego's mother,,,,
-mS,tuguo,,male ego's son,,,,
-fS,tuguo,,female ego's son,,,,
-mD,tuguo,,male ego's daughter,,,,
-fD,tuguo,,female ego's daughter,,,,
-mSS,tubug,,male ego's son's son,,,,
-mSD,tubug,,male ego's son's daughter,,,,
-mDS,tubug,,male ego's daughter's son,,,,
-mDD,tubug,,male ego's daughter's daughter,,,,
-fSS,tubug,,female ego's son's son,,,,
-fSD,tubug,,female ego's son's daughter,,,,
-fDS,tubug,,female ego's daughter's son,,,,
-fDD,tubug,,female ego's daugher's daughter,,,,
-mFF,tubug,,male ego's father‘s father,,,,
-mFM,tubug,,male ego's father's mother,,,,
-mMF,tubug,,male ego's mother's father,,,,
-mMM,tubug,,male ego's mother's mother,,,,
-fFF,tubug,,female ego's father's father,,,,
-fFM,tubug,,female ego's father's mother,,,,
-fMF,tubug,,female ego's mother's father,,,,
-fMM,tubug,,female ego's mother's mother,,,,
-meZS,kabin,,male ego's older sister's son,,,,
-myZS,kabin,,male ego's younger sister's son,,,,
-meZD,totuen,,male ego's older sister's daughter,,,,
-myZD,totuen,,male ego's younger sister's daughter,,,,
-feZS,kabin,,female ego's older sister's son,,,,
-fyZS,kabin,,female ego's younger sister's son,,,,
-feZD,totuen,,female ego's older sister's daughter,,,,
-fyZD,totuen,,female ego's younger sister's daughter,,,,
-mMeB,kabin,,male ego's mother's older brother,,,,
-mMyB,kabin,,male ego's mother's younger brother,,,,
-mMeZ,kabin,,male ego's mother's older sister,,,,
-mMyZ,kabin,,male ego's mother's younger sister,,,,
-fMeB,totuen,,female ego's mother's older brother,,,,
-fMyB,totuen,,female ego's mother's younger brother,,,,
-fMeZ,totuen,,female ego's mother's older sister,,,,
-fMyZ,totuen,,female ego's mother's younger sister,,,,
-mW,nagu kuaho,,male ego's wife,,,,
-fH,"nagu bulouto, nomat",,female ego‘s husband,,,,
-mDH,uarih,,male ego's daughter's husband,,,,
-fDH,uarih,,female ego's daughter's husband,,,,
-mSW,einanon,,male ego's son's wife,,,,
-fSW,einanon,,female ego's son's wife,,,,
-mWF,"uarih, hiuan",,male ego's wife's father,,,,
-mWM,"uarih, hiuan",,male ego's wife's mother,,,,
-mWB,"napon, pon",,male ego's wife's brother,,,,
-mWZ,uauagon,,male ego's wife's sister,,,,
-fHF,"einanon, hiuan",,female ego's husband's father,,,,
-fHM,"einanon, hiuan",,female ego's husband's mother,,,,
-fHB,"napon, uauagon",,female ego's husband's brother,,,,
-fHZ,hinout,,female ego's husband's sister,,,,
-mBW,uauagon,,male ego's brother's wife,,,,
-fBW,hinout,,female ego's brother's wife,,,,
-mZH,"napon, pon, uauagon",,male ego's sister's husband,,,,
-fZH,"napon, pon, uauagon",,female ego's sister's husband,,,,
-mFBS,turak,,male ego's father's brother's son,,,,
-mFZS,turak,,male ego's father's sister's son,,,,
-mMBS,turak,,male ego's mother's brother's son,,,,
-mMZS,matmatatahinaliki,,male ego's mother's sister's son,,,,
-mFBD,turak,,male ego's father's brother's daughter,,,,
-mFZD,turak,,male ego's father's sister's daughter,,,,
-mMBD,turak,,male ego's mother's brother's daughter,,,,
-mMZD,turak,,male ego's mother's sister's daughter,,,,
-fFBS,turak,,female ego's father's brother's son,,,,
-fFZS,turak,,female ego's father's sister's son,,,,
-fMBS,turak,,female ego's mother's brother's son,,,,
-fMZS,matmatatahinaliki,,female ego's mother's sister's son,,,,
-fFBD,turak,,female ego's father's brother's daughter,,,,
-fFZD,turak,,female ego's father's sister's daughter,,,,
-fMBD,turak,,female ego's mother's brother's daughter,,,,
-fMZD,turak,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tahin",,"male ego's older brother",,,,
+"myB","tahin",,"male ego's younger brother",,,,
+"feB","tatahinalik",,"female ego's older brother",,,,
+"fyB","tatahinalik",,"female ego's younger brother",,,,
+"meZ","tatahinalik",,"male ego's older sister",,,,
+"myZ","tatahinalik",,"male ego's younger sister",,,,
+"feZ","tahinalik",,"female ego's older sister",,,,
+"fyZ","tahinalik",,"female ego's younger sister",,,,
+"mF","taman",,"male ego's father",,,,
+"mM","tinan",,"male ego's mother",,,,
+"fF","taman",,"female ego's father",,,,
+"fM","tinan",,"female ego's mother",,,,
+"mS","tuguo",,"male ego's son",,,,
+"fS","tuguo",,"female ego's son",,,,
+"mD","tuguo",,"male ego's daughter",,,,
+"fD","tuguo",,"female ego's daughter",,,,
+"mSS","tubug",,"male ego's son's son",,,,
+"mSD","tubug",,"male ego's son's daughter",,,,
+"mDS","tubug",,"male ego's daughter's son",,,,
+"mDD","tubug",,"male ego's daughter's daughter",,,,
+"fSS","tubug",,"female ego's son's son",,,,
+"fSD","tubug",,"female ego's son's daughter",,,,
+"fDS","tubug",,"female ego's daughter's son",,,,
+"fDD","tubug",,"female ego's daugher's daughter",,,,
+"mFF","tubug",,"male ego's father‘s father",,,,
+"mFM","tubug",,"male ego's father's mother",,,,
+"mMF","tubug",,"male ego's mother's father",,,,
+"mMM","tubug",,"male ego's mother's mother",,,,
+"fFF","tubug",,"female ego's father's father",,,,
+"fFM","tubug",,"female ego's father's mother",,,,
+"fMF","tubug",,"female ego's mother's father",,,,
+"fMM","tubug",,"female ego's mother's mother",,,,
+"meZS","kabin",,"male ego's older sister's son",,,,
+"myZS","kabin",,"male ego's younger sister's son",,,,
+"meZD","totuen",,"male ego's older sister's daughter",,,,
+"myZD","totuen",,"male ego's younger sister's daughter",,,,
+"feZS","kabin",,"female ego's older sister's son",,,,
+"fyZS","kabin",,"female ego's younger sister's son",,,,
+"feZD","totuen",,"female ego's older sister's daughter",,,,
+"fyZD","totuen",,"female ego's younger sister's daughter",,,,
+"mMeB","kabin",,"male ego's mother's older brother",,,,
+"mMyB","kabin",,"male ego's mother's younger brother",,,,
+"mMeZ","kabin",,"male ego's mother's older sister",,,,
+"mMyZ","kabin",,"male ego's mother's younger sister",,,,
+"fMeB","totuen",,"female ego's mother's older brother",,,,
+"fMyB","totuen",,"female ego's mother's younger brother",,,,
+"fMeZ","totuen",,"female ego's mother's older sister",,,,
+"fMyZ","totuen",,"female ego's mother's younger sister",,,,
+"mW","nagu kuaho",,"male ego's wife",,,,
+"fH","nagu bulouto, nomat",,"female ego‘s husband",,,,
+"mDH","uarih",,"male ego's daughter's husband",,,,
+"fDH","uarih",,"female ego's daughter's husband",,,,
+"mSW","einanon",,"male ego's son's wife",,,,
+"fSW","einanon",,"female ego's son's wife",,,,
+"mWF","uarih, hiuan",,"male ego's wife's father",,,,
+"mWM","uarih, hiuan",,"male ego's wife's mother",,,,
+"mWB","napon, pon",,"male ego's wife's brother",,,,
+"mWZ","uauagon",,"male ego's wife's sister",,,,
+"fHF","einanon, hiuan",,"female ego's husband's father",,,,
+"fHM","einanon, hiuan",,"female ego's husband's mother",,,,
+"fHB","napon, uauagon",,"female ego's husband's brother",,,,
+"fHZ","hinout",,"female ego's husband's sister",,,,
+"mBW","uauagon",,"male ego's brother's wife",,,,
+"fBW","hinout",,"female ego's brother's wife",,,,
+"mZH","napon, pon, uauagon",,"male ego's sister's husband",,,,
+"fZH","napon, pon, uauagon",,"female ego's sister's husband",,,,
+"mFBS","turak",,"male ego's father's brother's son",,,,
+"mFZS","turak",,"male ego's father's sister's son",,,,
+"mMBS","turak",,"male ego's mother's brother's son",,,,
+"mMZS","matmatatahinaliki",,"male ego's mother's sister's son",,,,
+"mFBD","turak",,"male ego's father's brother's daughter",,,,
+"mFZD","turak",,"male ego's father's sister's daughter",,,,
+"mMBD","turak",,"male ego's mother's brother's daughter",,,,
+"mMZD","turak",,"male ego's mother's sister's daughter",,,,
+"fFBS","turak",,"female ego's father's brother's son",,,,
+"fFZS","turak",,"female ego's father's sister's son",,,,
+"fMBS","turak",,"female ego's mother's brother's son",,,,
+"fMZS","matmatatahinaliki",,"female ego's mother's sister's son",,,,
+"fFBD","turak",,"female ego's father's brother's daughter",,,,
+"fFZD","turak",,"female ego's father's sister's daughter",,,,
+"fMBD","turak",,"female ego's mother's brother's daughter",,,,
+"fMZD","turak",,"female ego's mother's sister's daughter",,,,
+"mFeBS","turak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","turak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","turak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","turak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","turak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","turak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","turak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","turak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","turak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","turak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","matmatatahinaliki",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","matmatatahinaliki",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","turak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","turak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","turak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","turak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","turak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","turak",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","turak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","turak",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","turak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","turak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","turak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","turak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","turak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","turak",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","matmatatahinaliki",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","matmatatahinaliki",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","turak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","turak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","turak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","turak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","turak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","turak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","turak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","turak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","turak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","turak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","turak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","turak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","turak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","turak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","matmatatahinaliki",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","matmatatahinaliki",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","turak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","turak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","turak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","turak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","turak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","turak",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","turak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","turak",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","turak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","turak",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","turak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","turak",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","turak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","turak",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","matmatatahinaliki",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","matmatatahinaliki",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","turak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","turak",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","turak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","turak",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

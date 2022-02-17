@@ -1,180 +1,372 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,dādālo,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZ,bada,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZ,tudal,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mF,yammāl,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mF,ammāl,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mM,yāyi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mS,marre,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mS,maru,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mD,mayyāḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFF,dado,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFM,bāpi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMM,kakko,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFB,pépe,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFZ,poi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFZ,poyé,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMB,māmā,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMeZ,pedi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMyZ,kuci,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mBS,marre,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mBS,maru,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mBD,mayyāḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZS,ende-maru,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZS,koḍiār,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZD,bhānji,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZD,kodiaḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZD,ende,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mZD,mayyal,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFZD,yenge,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mFZD,marendar,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mFZD,yerawu,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mFZD,pekki,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mFBD,elladu,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-mFBD,piki,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-mMBD,yenge,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mMBD,marendar,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mMBD,yerawu,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mMBD,pekki,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-mMZD,elladu,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-mMZD,piki,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-mFBS,tammuḍu,,,,DR7(276-280),karve_kinship_1968,parallel male cousin; copied by CS from kinterm_kff.xls
-mFZS,bhāto,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mFZS,yerun,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mFZS,yerwupekkal,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mFZS,yeruḷ,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mMBS,bhāto,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mMBS,yerun,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mMBS,yerwupekkal,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mMBS,yeruḷ,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-mMZS,tammuḍu,,,,DR7(276-280),karve_kinship_1968,parallel male cousin; copied by CS from kinterm_kff.xls
-mH,mudiāl,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mW,mutte,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mHF,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mHM,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mWF,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mWM,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mBW,yenge,,,,DR7(276-280),karve_kinship_1968,eBW; copied by CS from kinterm_kff.xls
-mBW,kodiar,,,,DR7(276-280),karve_kinship_1968,yBW; copied by CS from kinterm_kff.xls
-mBW,eravu-pekkal,,,,DR7(276-280),karve_kinship_1968,yBW; copied by CS from kinterm_kff.xls
-mZH,bhāto,,,,DR7(276-280),karve_kinship_1968,eZH; copied by CS from kinterm_kff.xls
-mZH,ende-thor,,,,DR7(276-280),karve_kinship_1968,yZH; copied by CS from kinterm_kff.xls
-mWB,edam tor,,,,DR7(276-280),karve_kinship_1968,WeB; copied by CS from kinterm_kff.xls
-mWB,erupekka,,,,DR7(276-280),karve_kinship_1968,WeB; copied by CS from kinterm_kff.xls
-mWZ,enge,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls; could be 'yenge' SP
-mWZ,erawu,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls
-mWZ,pekkal,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls
-mWZ,eru-pitti,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls
-mHB,dādā,,,,DR7(276-280),karve_kinship_1968,specifically HeB; copied by CS from kinterm_kff.xls
-mHB,erul,,,,DR7(276-280),karve_kinship_1968,specifically HyB; copied by CS from kinterm_kff.xls
-mSW,bhanji,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mSW,kodiaḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mDH,anne,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFZH,māmā,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mFBW,pedi,,,,DR7(276-280),karve_kinship_1968,specifically FeBW; copied by CS from kinterm_kff.xls
-mFBW,kuci,,,,DR7(276-280),karve_kinship_1968,specifically FeBW; copied by CS from kinterm_kff.xls
-mMZH,kākā,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMBW,poi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMBW,poyé,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fB,dādālo,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fZ,bada,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fZ,tudal,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fF,yammāl,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fF,ammāl,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fM,yāyi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fS,marre,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fS,maru,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fD,mayyāḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFF,dado,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFM,bāpi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMM,kakko,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFB,pépe,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFZ,poi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFZ,poyé,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMB,māmā,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMeZ,pedi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMyZ,kuci,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBS,ende-maru,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBS,koḍiār,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBD,bhānji,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBD,kodiaḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBD,ende,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBD,mayyal,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fZS,marre,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fZS,maru,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fZD,mayyāḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fZD,peki,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFZD,yenge,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fFZD,marendar,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fFZD,yerawu,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fFZD,pekki,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fFBD,elladu,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-fFBD,piki,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-fMBD,yenge,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fMBD,marendar,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fMBD,yerawu,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fMBD,pekki,,,,DR7(276-280),karve_kinship_1968,cross female cousin; copied by CS from kinterm_kff.xls
-fMZD,elladu,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-fMZD,piki,,,,DR7(276-280),karve_kinship_1968,parallel female cousin; copied by CS from kinterm_kff.xls
-fFBS,tammuḍu,,,,DR7(276-280),karve_kinship_1968,parallel male cousin; copied by CS from kinterm_kff.xls
-fFZS,bhāto,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fFZS,yerun,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fFZS,yerwupekkal,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fFZS,yeruḷ,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fMBS,bhāto,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fMBS,yerun,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fMBS,yerwupekkal,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fMBS,yeruḷ,,,,DR7(276-280),karve_kinship_1968,cross male cousin; copied by CS from kinterm_kff.xls
-fMZS,tammuḍu,,,,DR7(276-280),karve_kinship_1968,parallel male cousin; copied by CS from kinterm_kff.xls
-fH,mudiāl,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fW,mutte,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fHF,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fHM,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fWF,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fWM,0,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fBW,yenge,,,,DR7(276-280),karve_kinship_1968,eBW; copied by CS from kinterm_kff.xls
-fBW,kodiar,,,,DR7(276-280),karve_kinship_1968,yBW; copied by CS from kinterm_kff.xls
-fBW,eravu-pekkal,,,,DR7(276-280),karve_kinship_1968,yBW; copied by CS from kinterm_kff.xls
-fZH,bhāto,,,,DR7(276-280),karve_kinship_1968,eZH; copied by CS from kinterm_kff.xls
-fZH,ende-thor,,,,DR7(276-280),karve_kinship_1968,yZH; copied by CS from kinterm_kff.xls
-fWB,edam tor,,,,DR7(276-280),karve_kinship_1968,WeB; copied by CS from kinterm_kff.xls
-fWB,erupekka,,,,DR7(276-280),karve_kinship_1968,WeB; copied by CS from kinterm_kff.xls
-fWZ,enge,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls; could be 'yenge' SP
-fWZ,erawu,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls
-fWZ,pekkal,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls
-fWZ,eru-pitti,,,,DR7(276-280),karve_kinship_1968,WeZ; copied by CS from kinterm_kff.xls
-fHB,dādā,,,,DR7(276-280),karve_kinship_1968,specifically HeB; copied by CS from kinterm_kff.xls
-fHB,erul,,,,DR7(276-280),karve_kinship_1968,specifically HyB; copied by CS from kinterm_kff.xls
-fSW,bhanji,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fSW,kodiaḷ,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fDH,anne,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFZH,māmā,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fFBW,pedi,,,,DR7(276-280),karve_kinship_1968,specifically FeBW; copied by CS from kinterm_kff.xls
-fFBW,kuci,,,,DR7(276-280),karve_kinship_1968,specifically FeBW; copied by CS from kinterm_kff.xls
-fMZH,kākā,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMBW,poi,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMBW,poyé,,,,DR7(276-280),karve_kinship_1968,copied by CS from kinterm_kff.xls
-mMF,akko,,,,DR1(178),karve_kinship_1968,copied by CS from kinterm_kff.xls
-fMF,akko,,,,DR1(178),karve_kinship_1968,copied by CS from kinterm_kff.xls
-meB,dādāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-myB,tammūṇḍ,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-myZ,ēlāḍ,,,,DR1(177),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mF,yammāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mF,bābo,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mM,yāyo,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mD,mayāḍ,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mHF,māmāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mWF,māmāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-mDH,aṇḍe,,,,DR1(178),madhava_menon_encyclopaedia_1996,translated as 'son in law'; copied by CS from kinterm_kff.xls
-feB,dādāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fyB,tammūṇḍ,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fyZ,ēlāḍ,,,,DR1(177),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fF,yammāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fF,bābo,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fM,yāyo,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fD,mayāḍ,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fHF,māmāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fWF,māmāl,,,,DR1(178),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fDH,aṇḍe,,,,DR1(178),madhava_menon_encyclopaedia_1996,translated as 'son in law'; copied by CS from kinterm_kff.xls
-mMF,akko,,,,DR7(276-280),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
-fMF,akko,,,,DR7(276-280),madhava_menon_encyclopaedia_1996,copied by CS from kinterm_kff.xls
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","dādālo",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZ","bada",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZ","tudal",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mF","yammāl",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mF","ammāl",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mM","yāyi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mS","marre",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mS","maru",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mD","mayyāḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFF","dado",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFM","bāpi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMM","kakko",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFB","pépe",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFZ","poi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFZ","poyé",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMB","māmā",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMeZ","pedi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMyZ","kuci",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mBS","marre",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mBS","maru",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mBD","mayyāḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZS","ende-maru",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZS","koḍiār",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZD","bhānji",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZD","kodiaḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZD","ende",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mZD","mayyal",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFZD","yenge",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZD","marendar",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZD","pekki",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mFBD","elladu",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFBD","piki",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMBD","yenge",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBD","marendar",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBD","pekki",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"mMZD","elladu",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMZD","piki",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFBS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","parallel male cousin; copied by CS from kinterm_kff.xls"
+"mFZS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZS","yerun",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBS","yerun",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"mMZS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","parallel male cousin; copied by CS from kinterm_kff.xls"
+"mH","mudiāl",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mW","mutte",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mHF","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mHM","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mWF","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mWM","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mBW","yenge",,,,"DR7(276-280)","karve_kinship_1968","eBW; copied by CS from kinterm_kff.xls"
+"mBW","kodiar",,,,"DR7(276-280)","karve_kinship_1968","yBW; copied by CS from kinterm_kff.xls"
+"mBW","eravu-pekkal",,,,"DR7(276-280)","karve_kinship_1968","yBW; copied by CS from kinterm_kff.xls"
+"mZH","bhāto",,,,"DR7(276-280)","karve_kinship_1968","eZH; copied by CS from kinterm_kff.xls"
+"mZH","ende-thor",,,,"DR7(276-280)","karve_kinship_1968","yZH; copied by CS from kinterm_kff.xls"
+"mWB","edam tor",,,,"DR7(276-280)","karve_kinship_1968","WeB; copied by CS from kinterm_kff.xls"
+"mWB","erupekka",,,,"DR7(276-280)","karve_kinship_1968","WeB; copied by CS from kinterm_kff.xls"
+"mWZ","enge",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls; could be 'yenge' SP"
+"mWZ","erawu",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls"
+"mWZ","pekkal",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls"
+"mWZ","eru-pitti",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls"
+"mHB","dādā",,,,"DR7(276-280)","karve_kinship_1968","specifically HeB; copied by CS from kinterm_kff.xls"
+"mHB","erul",,,,"DR7(276-280)","karve_kinship_1968","specifically HyB; copied by CS from kinterm_kff.xls"
+"mSW","bhanji",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mSW","kodiaḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mDH","anne",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFZH","māmā",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mFBW","pedi",,,,"DR7(276-280)","karve_kinship_1968","specifically FeBW; copied by CS from kinterm_kff.xls"
+"mFBW","kuci",,,,"DR7(276-280)","karve_kinship_1968","specifically FeBW; copied by CS from kinterm_kff.xls"
+"mMZH","kākā",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMBW","poi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMBW","poyé",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fB","dādālo",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fZ","bada",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fZ","tudal",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fF","yammāl",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fF","ammāl",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fM","yāyi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fS","marre",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fS","maru",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fD","mayyāḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFF","dado",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFM","bāpi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMM","kakko",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFB","pépe",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFZ","poi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFZ","poyé",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMB","māmā",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMeZ","pedi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMyZ","kuci",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBS","ende-maru",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBS","koḍiār",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBD","bhānji",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBD","kodiaḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBD","ende",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBD","mayyal",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fZS","marre",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fZS","maru",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fZD","mayyāḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fZD","peki",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFZD","yenge",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZD","marendar",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZD","pekki",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fFBD","elladu",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFBD","piki",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMBD","yenge",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBD","marendar",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBD","pekki",,,,"DR7(276-280)","karve_kinship_1968","cross female cousin; copied by CS from kinterm_kff.xls"
+"fMZD","elladu",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMZD","piki",,,,"DR7(276-280)","karve_kinship_1968","parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFBS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","parallel male cousin; copied by CS from kinterm_kff.xls"
+"fFZS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZS","yerun",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBS","yerun",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","cross male cousin; copied by CS from kinterm_kff.xls"
+"fMZS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","parallel male cousin; copied by CS from kinterm_kff.xls"
+"fH","mudiāl",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fW","mutte",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fHF","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fHM","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fWF","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fWM","0",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fBW","yenge",,,,"DR7(276-280)","karve_kinship_1968","eBW; copied by CS from kinterm_kff.xls"
+"fBW","kodiar",,,,"DR7(276-280)","karve_kinship_1968","yBW; copied by CS from kinterm_kff.xls"
+"fBW","eravu-pekkal",,,,"DR7(276-280)","karve_kinship_1968","yBW; copied by CS from kinterm_kff.xls"
+"fZH","bhāto",,,,"DR7(276-280)","karve_kinship_1968","eZH; copied by CS from kinterm_kff.xls"
+"fZH","ende-thor",,,,"DR7(276-280)","karve_kinship_1968","yZH; copied by CS from kinterm_kff.xls"
+"fWB","edam tor",,,,"DR7(276-280)","karve_kinship_1968","WeB; copied by CS from kinterm_kff.xls"
+"fWB","erupekka",,,,"DR7(276-280)","karve_kinship_1968","WeB; copied by CS from kinterm_kff.xls"
+"fWZ","enge",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls; could be 'yenge' SP"
+"fWZ","erawu",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls"
+"fWZ","pekkal",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls"
+"fWZ","eru-pitti",,,,"DR7(276-280)","karve_kinship_1968","WeZ; copied by CS from kinterm_kff.xls"
+"fHB","dādā",,,,"DR7(276-280)","karve_kinship_1968","specifically HeB; copied by CS from kinterm_kff.xls"
+"fHB","erul",,,,"DR7(276-280)","karve_kinship_1968","specifically HyB; copied by CS from kinterm_kff.xls"
+"fSW","bhanji",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fSW","kodiaḷ",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fDH","anne",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFZH","māmā",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fFBW","pedi",,,,"DR7(276-280)","karve_kinship_1968","specifically FeBW; copied by CS from kinterm_kff.xls"
+"fFBW","kuci",,,,"DR7(276-280)","karve_kinship_1968","specifically FeBW; copied by CS from kinterm_kff.xls"
+"fMZH","kākā",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMBW","poi",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMBW","poyé",,,,"DR7(276-280)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"mMF","akko",,,,"DR1(178)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"fMF","akko",,,,"DR1(178)","karve_kinship_1968","copied by CS from kinterm_kff.xls"
+"meB","dādāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"myB","tammūṇḍ",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"myZ","ēlāḍ",,,,"DR1(177)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mF","yammāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mF","bābo",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mM","yāyo",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mD","mayāḍ",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mHF","māmāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mWF","māmāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mDH","aṇḍe",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","translated as 'son in law'; copied by CS from kinterm_kff.xls"
+"feB","dādāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fyB","tammūṇḍ",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fyZ","ēlāḍ",,,,"DR1(177)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fF","yammāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fF","bābo",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fM","yāyo",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fD","mayāḍ",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fHF","māmāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fWF","māmāl",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fDH","aṇḍe",,,,"DR1(178)","madhava_menon_encyclopaedia_1996","translated as 'son in law'; copied by CS from kinterm_kff.xls"
+"mMF","akko",,,,"DR7(276-280)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"fMF","akko",,,,"DR7(276-280)","madhava_menon_encyclopaedia_1996","copied by CS from kinterm_kff.xls"
+"mFeB","pépe",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mFyB","pépe",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mFeZ","poi",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mFeZ","poyé",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mFyZ","poi",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mFyZ","poyé",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mMeB","māmā",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mMyB","māmā",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"mFeBS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mFyBS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mFeZS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFeZS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFeZS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFeZS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFyZS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFyZS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFyZS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFyZS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFeBD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFeBD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFyBD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFyBD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFeZD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFeZD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFeZD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFeZD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFyZD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFyZD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFyZD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFyZD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMeBS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMeBS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMeBS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMeBS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMyBS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMyBS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMyBS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMyBS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMeZS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mMyZS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mMeBD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMeBD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMeBD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMeBD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMyBD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMyBD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMyBD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMyBD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMeZD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMeZD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMyZD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMyZD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFBeS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mFByS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mFZeS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZeS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZeS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZeS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZyS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZyS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZyS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFZyS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mFBeD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFBeD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFByD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFByD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mFZeD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZeD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZeD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZeD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZyD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZyD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZyD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mFZyD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBeS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBeS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBeS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMBeS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMByS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMByS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMByS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMByS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"mMZeS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mMZyS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"mMBeD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBeD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBeD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMBeD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMByD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMByD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMByD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMByD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"mMZeD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMZeD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMZyD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"mMZyD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFeB","pépe",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fFyB","pépe",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fFeZ","poi",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fFeZ","poyé",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fFyZ","poi",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fFyZ","poyé",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fMeB","māmā",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fMyB","māmā",,,,"DR7(276-280)","karve_kinship_1968","Inferred; copied by CS from kinterm_kff.xls"
+"fFeBS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fFyBS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fFeZS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFeZS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFeZS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFeZS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFyZS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFyZS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFyZS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFyZS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFeBD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFeBD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFyBD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFyBD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFeZD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFeZD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFeZD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFeZD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFyZD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFyZD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFyZD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFyZD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMeBS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMeBS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMeBS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMeBS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMyBS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMyBS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMyBS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMyBS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMeZS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fMyZS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fMeBD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMeBD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMeBD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMeBD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMyBD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMyBD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMyBD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMyBD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMeZD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMeZD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMyZD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMyZD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFBeS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fFByS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fFZeS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZeS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZeS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZeS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZyS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZyS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZyS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFZyS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fFBeD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFBeD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFByD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFByD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fFZeD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZeD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZeD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZeD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZyD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZyD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZyD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fFZyD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBeS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBeS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBeS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMBeS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMByS","bhāto",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMByS","yerun",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMByS","yerwupekkal",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMByS","yeruḷ",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross male cousin; copied by CS from kinterm_kff.xls"
+"fMZeS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fMZyS","tammuḍu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel male cousin; copied by CS from kinterm_kff.xls"
+"fMBeD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBeD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBeD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMBeD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMByD","yenge",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMByD","marendar",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMByD","yerawu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMByD","pekki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; cross female cousin; copied by CS from kinterm_kff.xls"
+"fMZeD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMZeD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMZyD","elladu",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"
+"fMZyD","piki",,,,"DR7(276-280)","karve_kinship_1968","Inferred; parallel female cousin; copied by CS from kinterm_kff.xls"

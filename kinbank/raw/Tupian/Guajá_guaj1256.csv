@@ -1,151 +1,151 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,"m-s:harapihiara, w-s:ikwitxiá"
-mZ,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,"m-s:hainawãi, w-s:harapihiara"
-mF,tu,,,čipa,TP10(59),cormier_kinship_2003,"m-s: tu, w-s:tu"
-mM,ɨhi,,,amã,TP10(59),cormier_kinship_2003,"m-s: ihí, w-s: ihí"
-mS,mɨmɨrə,,,"ta'ira, atɨ (m.s.); tači (w.s.)",TP10(59),cormier_kinship_2003,"m-s:taíra, w-s:mymyra"
-mD,mɨmɨrə,,,tai'ra (m.s.); čikari (m. & w.s.),TP10(59),cormier_kinship_2003,"m-s: tayra, w-s: mymyra"
-mFF,tamə,,,"čipa-te, čipa-tamə",TP10(59),cormier_kinship_2003,"m-s: tãmy, w-s: tãmy"
-mFM,iari,,,amã-čia-te,TP10(59),cormier_kinship_2003,"m-s:jarí, w-s:jarí"
-mMF,tamə,,,"čipa-te, čipa-tamə",TP10(59),cormier_kinship_2003,"m-s: tãmy, w-s: tãmy"
-mMM,iari,,,amã-čia-te,TP10(59),cormier_kinship_2003,"m-s:jarí, w-s:jarí"
-mSS,haminaminu,,,"harəwaminu, harəiraira (m.s.)",TP10(59),cormier_kinship_2003,w-s:hatxa'á
-mSD,haminaminu,,,harəwaminu (m.s.),TP10(59),cormier_kinship_2003,w-s:hamiarú
-mDS,haminaminu,,,"harəwaminu, harəiraira (m.s.)",TP10(59),cormier_kinship_2003,w-s:hatxa'á
-mDD,haminaminu,,,harəwaminu (m.s.),TP10(59),cormier_kinship_2003,w-s:hamiarú
-mFeB,tu-na,,,tunawana (m.s.); čipa,TP10(59),cormier_kinship_2003,tuná
-mFyB,tu-na,,,tunawana (m.s.); čipa,TP10(59),cormier_kinship_2003,tuná
-mFeZ,yahɨ,,,"amã, čikari (m.s.); čiá (w.s.)",TP10(59),cormier_kinship_2003,
-mFyZ,yahɨ,,,"amã, čikari (m.s.); čiá (w.s.)",TP10(59),cormier_kinship_2003,
-mMeZ,ɨhi-na,,,amã,TP10(59),cormier_kinship_2003,ihíná
-mMyZ,ɨhi-na,,,amã,TP10(59),cormier_kinship_2003,ihíná
-mMeB,harəwaiya,,,čiá (m.s.); čipa'i (w.s.),TP10(59),cormier_kinship_2003,imẽna
-mMyB,harəwaiya,,,čiá (m.s.); čipa'i (w.s.),TP10(59),cormier_kinship_2003,imẽna
-meBS,mɨmɨrə,,,atɨ (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,m-s:taíra
-myBS,mɨmɨrə,,,atɨ (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,m-s:taíra
-meBD,mɨmɨrə,,,čikari (m.s.); čiá (w.s.),TP10(59),cormier_kinship_2003,"m-s:tayra, w-s: mymyra"
-myBD,mɨmɨrə,,,čikari (m.s.); čiá (w.s.),TP10(59),cormier_kinship_2003,"m-s:tayra, w-s: mymyra"
-meZS,harəwaiya,,,čiá (m.s.); tači (w.s.),TP10(59),cormier_kinship_2003,m-s:hawajá
-myZS,harəwaiya,,,čiá (m.s.); tači (w.s.),TP10(59),cormier_kinship_2003,m-s:hawajá
-meZD,emeriko,,,"čiku, čia'ə (m.s.); čikari (w.s.)",TP10(59),cormier_kinship_2003,"m-s:imirikô, w-s: mymyra"
-myZD,emeriko,,,"čiku, čia'ə (m.s.); čikari (w.s.)",TP10(59),cormier_kinship_2003,"m-s:imirikô, w-s: mymyra"
-mFZD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,m-s:ihí
-mFBD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,
-mMBD,emeriko,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"m-s:imirikô, w-s: mymyra"
-mMZD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,
-mFBS,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,
-mFZS,harəwaiya,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"m-s:hawajá, w-s:imẽna"
-mMBS,harəwaiya,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"m-s:hawajá, w-s:imẽna"
-mMZS,harəpiana,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,
-mW,emeriko,,,,TP10(59),cormier_kinship_2003,m-s:imirikô
-meB,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:harapihiara, w-s:ikwitxiá"
-myB,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:harapihiara, w-s:ikwitxiá"
-meZ,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hainawãi, w-s:harapihiara"
-myZ,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hainawãi, w-s:harapihiara"
-mFeBS,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFyBS,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFeZS,harəwaiya,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mFyZS,harəwaiya,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mFeBD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFyBD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFeZD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-mFyZD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-mMeBS,harəwaiya,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mMyBS,harəwaiya,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mMeZS,harəpiana,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-mMyZS,harəpiana,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-mMeBD,emeriko,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-mMyBD,emeriko,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-mMeZD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mMyZD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFBeS,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFByS,harəpihárə,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFZeS,harəwaiya,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mFZyS,harəwaiya,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mFBeD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFByD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mFZeD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-mFZyD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-mMBeS,harəwaiya,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mMByS,harəwaiya,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-mMZeS,harəpiana,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-mMZyS,harəpiana,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-mMBeD,emeriko,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-mMByD,emeriko,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-mMZeD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-mMZyD,haininawai,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fB,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,"m-s:harapihiara, w-s:ikwitxiá"
-fZ,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,"m-s:hainawãi, w-s:harapihiara"
-fF,tu,,,čipa,TP10(59),cormier_kinship_2003,"m-s: tu, w-s:tu"
-fM,ɨhi,,,amã,TP10(59),cormier_kinship_2003,"m-s: ihí, w-s: ihí"
-fS,mɨmɨrə,,,"ta'ira, atɨ (m.s.); tači (w.s.)",TP10(59),cormier_kinship_2003,"m-s:taíra, w-s:mymyra"
-fD,mɨmɨrə,,,tai'ra (m.s.); čikari (m. & w.s.),TP10(59),cormier_kinship_2003,"m-s: tayra, w-s: mymyra"
-fFF,tamə,,,"čipa-te, čipa-tamə",TP10(59),cormier_kinship_2003,"m-s: tãmy, w-s: tãmy"
-fFM,iari,,,amã-čia-te,TP10(59),cormier_kinship_2003,"m-s:jarí, w-s:jarí"
-fMF,tamə,,,"čipa-te, čipa-tamə",TP10(59),cormier_kinship_2003,"m-s: tãmy, w-s: tãmy"
-fMM,iari,,,amã-čia-te,TP10(59),cormier_kinship_2003,"m-s:jarí, w-s:jarí"
-fSS,hanimiaru,,,"harəwaminu, harəiraira (m.s.)",TP10(59),cormier_kinship_2003,w-s:hatxa'á
-fSD,hanimiaru,,,harəwaminu (m.s.),TP10(59),cormier_kinship_2003,w-s:hamiarú
-fDS,hanimiaru,,,"harəwaminu, harəiraira (m.s.)",TP10(59),cormier_kinship_2003,w-s:hatxa'á
-fDD,hanimiaru,,,harəwaminu (m.s.),TP10(59),cormier_kinship_2003,w-s:hamiarú
-fFeB,tu-na,,,tunawana (m.s.); čipa,TP10(59),cormier_kinship_2003,tuná
-fFyB,tu-na,,,tunawana (m.s.); čipa,TP10(59),cormier_kinship_2003,tuná
-fFeZ,harəwaiya,,,"amã, čikari (m.s.); čiá (w.s.)",TP10(59),cormier_kinship_2003,
-fFyZ,harəwaiya,,,"amã, čikari (m.s.); čiá (w.s.)",TP10(59),cormier_kinship_2003,
-fMeZ,ɨhi-na,,,amã,TP10(59),cormier_kinship_2003,ihíná
-fMyZ,ɨhi-na,,,amã,TP10(59),cormier_kinship_2003,ihíná
-fMeB,iménə,,,čiá (m.s.); čipa'i (w.s.),TP10(59),cormier_kinship_2003,imẽna
-fMyB,iménə,,,čiá (m.s.); čipa'i (w.s.),TP10(59),cormier_kinship_2003,imẽna
-feBS,ipenčiá,,,atɨ (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,m-s:taíra
-fyBS,ipenčiá,,,atɨ (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,m-s:taíra
-feBD,harəwaiya,,,čikari (m.s.); čiá (w.s.),TP10(59),cormier_kinship_2003,"m-s:tayra, w-s: mymyra"
-fyBD,harəwaiya,,,čikari (m.s.); čiá (w.s.),TP10(59),cormier_kinship_2003,"m-s:tayra, w-s: mymyra"
-feZS,mɨmɨrə,,,čiá (m.s.); tači (w.s.),TP10(59),cormier_kinship_2003,m-s:hawajá
-fyZS,mɨmɨrə,,,čiá (m.s.); tači (w.s.),TP10(59),cormier_kinship_2003,m-s:hawajá
-feZD,mɨmɨrə,,,"čiku, čia'ə (m.s.); čikari (w.s.)",TP10(59),cormier_kinship_2003,"m-s:imirikô, w-s: mymyra"
-fyZD,mɨmɨrə,,,"čiku, čia'ə (m.s.); čikari (w.s.)",TP10(59),cormier_kinship_2003,"m-s:imirikô, w-s: mymyra"
-fFZD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,m-s:ihí
-fFBD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,
-fMBD,mɨmɨrə,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"m-s:imirikô, w-s: mymyra"
-fMZD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,
-fFBS,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,
-fFZS,iménə,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"m-s:hawajá, w-s:imẽna"
-fMBS,mɨmɨrə,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"m-s:hawajá, w-s:imẽna"
-fMZS,ikuwɨčiá,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,
-fH,iménə,,,,TP10(59),cormier_kinship_2003,w-s:imẽna
-feB,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:harapihiara, w-s:ikwitxiá"
-fyB,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:harapihiara, w-s:ikwitxiá"
-feZ,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hainawãi, w-s:harapihiara"
-fyZ,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hainawãi, w-s:harapihiara"
-fFeBS,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFyBS,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFeZS,iménə,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fFyZS,iménə,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fFeBD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFyBD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFeZD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-fFyZD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-fMeBS,mɨmɨrə,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fMyBS,mɨmɨrə,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fMeZS,ikuwɨčiá,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-fMyZS,ikuwɨčiá,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-fMeBD,mɨmɨrə,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-fMyBD,mɨmɨrə,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-fMeZD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fMyZD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFBeS,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFByS,ikuwɨčiá,,,harə (m.s.); či (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFZeS,iménə,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fFZyS,iménə,,,čiá (m.s.),TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fFBeD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFByD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fFZeD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-fFZyD,ɨhi-na,,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)",TP10(59),cormier_kinship_2003,Inferred; m-s:ihí
-fMBeS,mɨmɨrə,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fMByS,mɨmɨrə,,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:hawajá, w-s:imẽna"
-fMZeS,ikuwɨčiá,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-fMZyS,ikuwɨčiá,,,"atɨ, harə (m.s.); či (w.s.)",TP10(59),cormier_kinship_2003,Inferred; NA
-fMBeD,mɨmɨrə,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-fMByD,mɨmɨrə,,,"čiku, čia'ə (m.s.)",TP10(59),cormier_kinship_2003,"Inferred; m-s:imirikô, w-s: mymyra"
-fMZeD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
-fMZyD,harəpihárə,,,čikari (m.s.); harə (w.s.),TP10(59),cormier_kinship_2003,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","m-s:harapihiara, w-s:ikwitxiá"
+"mZ","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hainawãi, w-s:harapihiara"
+"mF","tu",,,"čipa","TP10(59)","cormier_kinship_2003","m-s: tu, w-s:tu"
+"mM","ɨhi",,,"amã","TP10(59)","cormier_kinship_2003","m-s: ihí, w-s: ihí"
+"mS","mɨmɨrə",,,"ta'ira, atɨ (m.s.); tači (w.s.)","TP10(59)","cormier_kinship_2003","m-s:taíra, w-s:mymyra"
+"mD","mɨmɨrə",,,"tai'ra (m.s.); čikari (m. & w.s.)","TP10(59)","cormier_kinship_2003","m-s: tayra, w-s: mymyra"
+"mFF","tamə",,,"čipa-te, čipa-tamə","TP10(59)","cormier_kinship_2003","m-s: tãmy, w-s: tãmy"
+"mFM","iari",,,"amã-čia-te","TP10(59)","cormier_kinship_2003","m-s:jarí, w-s:jarí"
+"mMF","tamə",,,"čipa-te, čipa-tamə","TP10(59)","cormier_kinship_2003","m-s: tãmy, w-s: tãmy"
+"mMM","iari",,,"amã-čia-te","TP10(59)","cormier_kinship_2003","m-s:jarí, w-s:jarí"
+"mSS","haminaminu",,,"harəwaminu, harəiraira (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hatxa'á"
+"mSD","haminaminu",,,"harəwaminu (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hamiarú"
+"mDS","haminaminu",,,"harəwaminu, harəiraira (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hatxa'á"
+"mDD","haminaminu",,,"harəwaminu (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hamiarú"
+"mFeB","tu-na",,,"tunawana (m.s.); čipa","TP10(59)","cormier_kinship_2003","tuná"
+"mFyB","tu-na",,,"tunawana (m.s.); čipa","TP10(59)","cormier_kinship_2003","tuná"
+"mFeZ","yahɨ",,,"amã, čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003",""
+"mFyZ","yahɨ",,,"amã, čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003",""
+"mMeZ","ɨhi-na",,,"amã","TP10(59)","cormier_kinship_2003","ihíná"
+"mMyZ","ɨhi-na",,,"amã","TP10(59)","cormier_kinship_2003","ihíná"
+"mMeB","harəwaiya",,,"čiá (m.s.); čipa'i (w.s.)","TP10(59)","cormier_kinship_2003","imẽna"
+"mMyB","harəwaiya",,,"čiá (m.s.); čipa'i (w.s.)","TP10(59)","cormier_kinship_2003","imẽna"
+"meBS","mɨmɨrə",,,"atɨ (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","m-s:taíra"
+"myBS","mɨmɨrə",,,"atɨ (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","m-s:taíra"
+"meBD","mɨmɨrə",,,"čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003","m-s:tayra, w-s: mymyra"
+"myBD","mɨmɨrə",,,"čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003","m-s:tayra, w-s: mymyra"
+"meZS","harəwaiya",,,"čiá (m.s.); tači (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá"
+"myZS","harəwaiya",,,"čiá (m.s.); tači (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá"
+"meZD","emeriko",,,"čiku, čia'ə (m.s.); čikari (w.s.)","TP10(59)","cormier_kinship_2003","m-s:imirikô, w-s: mymyra"
+"myZD","emeriko",,,"čiku, čia'ə (m.s.); čikari (w.s.)","TP10(59)","cormier_kinship_2003","m-s:imirikô, w-s: mymyra"
+"mFZD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","m-s:ihí"
+"mFBD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003",""
+"mMBD","emeriko",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","m-s:imirikô, w-s: mymyra"
+"mMZD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003",""
+"mFBS","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003",""
+"mFZS","harəwaiya",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá, w-s:imẽna"
+"mMBS","harəwaiya",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá, w-s:imẽna"
+"mMZS","harəpiana",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003",""
+"mW","emeriko",,,"","TP10(59)","cormier_kinship_2003","m-s:imirikô"
+"meB","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:harapihiara, w-s:ikwitxiá"
+"myB","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:harapihiara, w-s:ikwitxiá"
+"meZ","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hainawãi, w-s:harapihiara"
+"myZ","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hainawãi, w-s:harapihiara"
+"mFeBS","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFyBS","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFeZS","harəwaiya",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mFyZS","harəwaiya",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mFeBD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFyBD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFeZD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"mFyZD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"mMeBS","harəwaiya",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mMyBS","harəwaiya",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mMeZS","harəpiana",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mMyZS","harəpiana",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mMeBD","emeriko",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"mMyBD","emeriko",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"mMeZD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mMyZD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFBeS","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFByS","harəpihárə",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFZeS","harəwaiya",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mFZyS","harəwaiya",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mFBeD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFByD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mFZeD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"mFZyD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"mMBeS","harəwaiya",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mMByS","harəwaiya",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"mMZeS","harəpiana",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mMZyS","harəpiana",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mMBeD","emeriko",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"mMByD","emeriko",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"mMZeD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"mMZyD","haininawai",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fB","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","m-s:harapihiara, w-s:ikwitxiá"
+"fZ","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hainawãi, w-s:harapihiara"
+"fF","tu",,,"čipa","TP10(59)","cormier_kinship_2003","m-s: tu, w-s:tu"
+"fM","ɨhi",,,"amã","TP10(59)","cormier_kinship_2003","m-s: ihí, w-s: ihí"
+"fS","mɨmɨrə",,,"ta'ira, atɨ (m.s.); tači (w.s.)","TP10(59)","cormier_kinship_2003","m-s:taíra, w-s:mymyra"
+"fD","mɨmɨrə",,,"tai'ra (m.s.); čikari (m. & w.s.)","TP10(59)","cormier_kinship_2003","m-s: tayra, w-s: mymyra"
+"fFF","tamə",,,"čipa-te, čipa-tamə","TP10(59)","cormier_kinship_2003","m-s: tãmy, w-s: tãmy"
+"fFM","iari",,,"amã-čia-te","TP10(59)","cormier_kinship_2003","m-s:jarí, w-s:jarí"
+"fMF","tamə",,,"čipa-te, čipa-tamə","TP10(59)","cormier_kinship_2003","m-s: tãmy, w-s: tãmy"
+"fMM","iari",,,"amã-čia-te","TP10(59)","cormier_kinship_2003","m-s:jarí, w-s:jarí"
+"fSS","hanimiaru",,,"harəwaminu, harəiraira (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hatxa'á"
+"fSD","hanimiaru",,,"harəwaminu (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hamiarú"
+"fDS","hanimiaru",,,"harəwaminu, harəiraira (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hatxa'á"
+"fDD","hanimiaru",,,"harəwaminu (m.s.)","TP10(59)","cormier_kinship_2003","w-s:hamiarú"
+"fFeB","tu-na",,,"tunawana (m.s.); čipa","TP10(59)","cormier_kinship_2003","tuná"
+"fFyB","tu-na",,,"tunawana (m.s.); čipa","TP10(59)","cormier_kinship_2003","tuná"
+"fFeZ","harəwaiya",,,"amã, čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003",""
+"fFyZ","harəwaiya",,,"amã, čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003",""
+"fMeZ","ɨhi-na",,,"amã","TP10(59)","cormier_kinship_2003","ihíná"
+"fMyZ","ɨhi-na",,,"amã","TP10(59)","cormier_kinship_2003","ihíná"
+"fMeB","iménə",,,"čiá (m.s.); čipa'i (w.s.)","TP10(59)","cormier_kinship_2003","imẽna"
+"fMyB","iménə",,,"čiá (m.s.); čipa'i (w.s.)","TP10(59)","cormier_kinship_2003","imẽna"
+"feBS","ipenčiá",,,"atɨ (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","m-s:taíra"
+"fyBS","ipenčiá",,,"atɨ (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","m-s:taíra"
+"feBD","harəwaiya",,,"čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003","m-s:tayra, w-s: mymyra"
+"fyBD","harəwaiya",,,"čikari (m.s.); čiá (w.s.)","TP10(59)","cormier_kinship_2003","m-s:tayra, w-s: mymyra"
+"feZS","mɨmɨrə",,,"čiá (m.s.); tači (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá"
+"fyZS","mɨmɨrə",,,"čiá (m.s.); tači (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá"
+"feZD","mɨmɨrə",,,"čiku, čia'ə (m.s.); čikari (w.s.)","TP10(59)","cormier_kinship_2003","m-s:imirikô, w-s: mymyra"
+"fyZD","mɨmɨrə",,,"čiku, čia'ə (m.s.); čikari (w.s.)","TP10(59)","cormier_kinship_2003","m-s:imirikô, w-s: mymyra"
+"fFZD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","m-s:ihí"
+"fFBD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003",""
+"fMBD","mɨmɨrə",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","m-s:imirikô, w-s: mymyra"
+"fMZD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003",""
+"fFBS","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003",""
+"fFZS","iménə",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá, w-s:imẽna"
+"fMBS","mɨmɨrə",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","m-s:hawajá, w-s:imẽna"
+"fMZS","ikuwɨčiá",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003",""
+"fH","iménə",,,"","TP10(59)","cormier_kinship_2003","w-s:imẽna"
+"feB","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:harapihiara, w-s:ikwitxiá"
+"fyB","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:harapihiara, w-s:ikwitxiá"
+"feZ","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hainawãi, w-s:harapihiara"
+"fyZ","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hainawãi, w-s:harapihiara"
+"fFeBS","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFyBS","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFeZS","iménə",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fFyZS","iménə",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fFeBD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFyBD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFeZD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"fFyZD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"fMeBS","mɨmɨrə",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fMyBS","mɨmɨrə",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fMeZS","ikuwɨčiá",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fMyZS","ikuwɨčiá",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fMeBD","mɨmɨrə",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"fMyBD","mɨmɨrə",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"fMeZD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fMyZD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFBeS","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFByS","ikuwɨčiá",,,"harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFZeS","iménə",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fFZyS","iménə",,,"čiá (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fFBeD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFByD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fFZeD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"fFZyD","ɨhi-na",,,"emeriko, ãma, čikari (m.s.); amã, harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:ihí"
+"fMBeS","mɨmɨrə",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fMByS","mɨmɨrə",,,"čiá (m.s.); tači, čipa'i, iménə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:hawajá, w-s:imẽna"
+"fMZeS","ikuwɨčiá",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fMZyS","ikuwɨčiá",,,"atɨ, harə (m.s.); či (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fMBeD","mɨmɨrə",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"fMByD","mɨmɨrə",,,"čiku, čia'ə (m.s.)","TP10(59)","cormier_kinship_2003","Inferred; m-s:imirikô, w-s: mymyra"
+"fMZeD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"
+"fMZyD","harəpihárə",,,"čikari (m.s.); harə (w.s.)","TP10(59)","cormier_kinship_2003","Inferred; NA"

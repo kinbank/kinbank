@@ -1,183 +1,183 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,dada,,,eh dada,AUS1(128-133),roy_birhors_1925,
-myB,bhai,,,bhai,AUS1(128-133),roy_birhors_1925,
-myB,huding,,,,AUS1(128-133),roy_birhors_1925,
-meZ,didi,,,eh didi,AUS1(128-133),roy_birhors_1925,
-mF,apu,,,o aba,AUS1(128-133),roy_birhors_1925,
-mF,aba,,,,AUS1(128-133),roy_birhors_1925,
-mM,enga,,,eh mae,AUS1(128-133),roy_birhors_1925,
-mM,mae,,,AUS2(320-321) transcribed as inga & mai,AUS1(128-133),roy_birhors_1925,
-mS,hopon,,,eh beta,AUS1(128-133),roy_birhors_1925,
-mD,kurihon,,,eh beti,AUS1(128-133),roy_birhors_1925,
-mFF,aja,,,eh aja,AUS1(128-133),roy_birhors_1925,
-mFM,aji,,,eh aji,AUS1(128-133),roy_birhors_1925,
-mMF,nana,,,eh nana,AUS1(128-133),roy_birhors_1925,
-mMM,nani,,,eh nani,AUS1(128-133),roy_birhors_1925,
-mSS,nati,,,eh nati,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's son
-mSD,natin,,,eh natin,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's duaghter
-mDS,nati,,,eh nati,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's son
-mDD,natin,,,eh natin,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's duaghter
-mFeB,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-mMyZ,mosi,,,eh mosi,AUS1(128-133),roy_birhors_1925,
-mBS,bhagna,,,eh bhagna,AUS1(128-133),roy_birhors_1925,
-meBS,dada reni hopon,,,eh beta,AUS1(128-133),roy_birhors_1925,
-myBS,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-meBD,dadarenibeti,,,eh beti,AUS1(128-133),roy_birhors_1925,
-myBD,gungu,,,"eh gungu, eh bhegni",AUS1(128-133),roy_birhors_1925,
-myBD,bhegni,,,,AUS1(128-133),roy_birhors_1925,
-meZS,didingreni hopon,,,eh beta,AUS1(128-133),roy_birhors_1925,
-myZS,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-myZD,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-mH,herel,,,(father of so-and-so),AUS1(128-133),roy_birhors_1925,
-mW,era,,,(mother of so-and-so),AUS1(128-133),roy_birhors_1925,
-mHM,hanar,,,eh go hanharing,AUS1(128-133),roy_birhors_1925,
-mWF,honjhar,,,honjharing,AUS1(128-133),roy_birhors_1925,
-mBW,kimin,,,,AUS1(128-133),roy_birhors_1925,yBW
-mBW,bhaikimin,,,,AUS1(128-133),roy_birhors_1925,
-mZH,aji hanar,,,"eh go hanharing, teyang-ho",AUS1(128-133),roy_birhors_1925,eZH
-mZH,teyang,,,teyang ho,AUS1(128-133),roy_birhors_1925,yZH
-mWB,bauhonjhar,,,eh bauhonjhar,AUS1(128-133),roy_birhors_1925,WeB
-mWB,sara,,,addressed by name,AUS1(128-133),roy_birhors_1925,WyB
-mWZ,mosi,,,,AUS1(128-133),roy_birhors_1925,WyZ
-mHB,bauhonjhar,,,,AUS1(128-133),roy_birhors_1925,HeB
-mHB,iriul,,,eh babu,AUS1(128-133),roy_birhors_1925,HyB
-mHZ,aji-hanar,,,,AUS1(128-133),roy_birhors_1925,HeZ
-mco-W,hirum,,,,AUS1(128-133),roy_birhors_1925,
-mDH,jawai,,,"jawai go, eh babu",AUS1(128-133),roy_birhors_1925,
-mDHM,samdhin,,,samdhin ho,AUS1(128-133),roy_birhors_1925,
-mDHF,samdhi,,,samdhi ho,AUS1(128-133),roy_birhors_1925,
-mFZH,mamu,,,eh mamu,AUS1(128-133),roy_birhors_1925,
-mFZH,hatom,,,,AUS1(128-133),roy_birhors_1925,
-mMZH,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,MeZH
-mMZH,mosa,,,,AUS1(128-133),roy_birhors_1925,MyZH
-mMBW,hatom,,,eh hatom,AUS1(128-133),roy_birhors_1925,
-feB,dada,,,eh dada,AUS1(128-133),roy_birhors_1925,
-fyB,bhai,,,bhai,AUS1(128-133),roy_birhors_1925,
-fyB,huding,,,,AUS1(128-133),roy_birhors_1925,
-feZ,didi,,,eh didi,AUS1(128-133),roy_birhors_1925,
-fF,apu,,,o aba,AUS1(128-133),roy_birhors_1925,
-fF,aba,,,,AUS1(128-133),roy_birhors_1925,
-fM,enga,,,eh mae,AUS1(128-133),roy_birhors_1925,
-fM,mae,,,AUS2(320-321) transcribed as inga & mai,AUS1(128-133),roy_birhors_1925,
-fS,hopon,,,eh beta,AUS1(128-133),roy_birhors_1925,
-fD,kurihon,,,eh beti,AUS1(128-133),roy_birhors_1925,
-fFF,aja,,,eh aja,AUS1(128-133),roy_birhors_1925,
-fFM,aji,,,eh aji,AUS1(128-133),roy_birhors_1925,
-fMF,nana,,,eh nana,AUS1(128-133),roy_birhors_1925,
-fMM,nani,,,eh nani,AUS1(128-133),roy_birhors_1925,
-fSS,nati,,,eh nati,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's son
-fSD,natin,,,eh natin,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's duaghter
-fDS,nati,,,eh nati,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's son
-fDD,natin,,,eh natin,AUS1(128-133),roy_birhors_1925,child's or newphew's or niece's duaghter
-fFeB,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-fMyZ,mosi,,,eh mosi,AUS1(128-133),roy_birhors_1925,
-fBS,bhagna,,,eh bhagna,AUS1(128-133),roy_birhors_1925,
-feBS,dada reni hopon,,,eh beta,AUS1(128-133),roy_birhors_1925,
-fyBS,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-feBD,dadarenibeti,,,eh beti,AUS1(128-133),roy_birhors_1925,
-fyBD,gungu,,,"eh gungu, eh bhegni",AUS1(128-133),roy_birhors_1925,
-fyBD,bhegni,,,,AUS1(128-133),roy_birhors_1925,
-feZS,didingreni hopon,,,eh beta,AUS1(128-133),roy_birhors_1925,
-fyZS,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-fyZD,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,
-fH,herel,,,(father of so-and-so),AUS1(128-133),roy_birhors_1925,
-fW,era,,,(mother of so-and-so),AUS1(128-133),roy_birhors_1925,
-fHM,hanar,,,eh go hanharing,AUS1(128-133),roy_birhors_1925,
-fWF,honjhar,,,honjharing,AUS1(128-133),roy_birhors_1925,
-fBW,kimin,,,,AUS1(128-133),roy_birhors_1925,yBW
-fBW,bhaikimin,,,,AUS1(128-133),roy_birhors_1925,
-fZH,aji hanar,,,"eh go hanharing, teyang-ho",AUS1(128-133),roy_birhors_1925,eZH
-fZH,teyang,,,teyang ho,AUS1(128-133),roy_birhors_1925,yZH
-fWB,bauhonjhar,,,eh bauhonjhar,AUS1(128-133),roy_birhors_1925,WeB
-fWB,sara,,,addressed by name,AUS1(128-133),roy_birhors_1925,WyB
-fWZ,mosi,,,,AUS1(128-133),roy_birhors_1925,WyZ
-fHB,bauhonjhar,,,,AUS1(128-133),roy_birhors_1925,HeB
-fHB,iriul,,,eh babu,AUS1(128-133),roy_birhors_1925,HyB
-fHZ,aji-hanar,,,,AUS1(128-133),roy_birhors_1925,HeZ
-fco-W,hirum,,,,AUS1(128-133),roy_birhors_1925,
-fDH,jawai,,,"jawai go, eh babu",AUS1(128-133),roy_birhors_1925,
-fDHM,samdhin,,,samdhin ho,AUS1(128-133),roy_birhors_1925,
-fDHF,samdhi,,,samdhi ho,AUS1(128-133),roy_birhors_1925,
-fFZH,mamu,,,eh mamu,AUS1(128-133),roy_birhors_1925,
-fFZH,hatom,,,,AUS1(128-133),roy_birhors_1925,
-fMZH,gungu,,,eh gungu,AUS1(128-133),roy_birhors_1925,MeZH
-fMZH,mosa,,,,AUS1(128-133),roy_birhors_1925,MyZH
-fMBW,hatom,,,eh hatom,AUS1(128-133),roy_birhors_1925,
-mD,beti,,,,AUS2(320-321),roy_birhors_1925,
-mFyB,kaka,,,eh kaka,AUS1(128-133),roy_birhors_1925,
-mMeZ,gungu mai,,,eh gungu mai,AUS1(128-133),roy_birhors_1925,
-mMeZ,gungu mai,,,eh gungu mai,AUS(320-321),roy_birhors_1925,
-mHF,honjhar,,,honjharing,AUS1(128-133),roy_birhors_1925,
-mBW,hili,,,eh hili,AUS1(128-133),roy_birhors_1925,eBW
-mWZ,aji hanar,,,eh go hanharing,AUS1(128-133),roy_birhors_1925,WeZ
-mFBW,gungu mai,,,,AUS1(128-133),roy_birhors_1925,
-mFBW,kaki,,,,AUS1(128-133),roy_birhors_1925,
-fD,beti,,,,AUS2(320-321),roy_birhors_1925,
-fFyB,kaka,,,eh kaka,AUS1(128-133),roy_birhors_1925,
-fMeZ,gungu mai,,,eh gungu mai,AUS1(128-133),roy_birhors_1925,
-fMeZ,gungu mai,,,eh gungu mai,AUS(320-321),roy_birhors_1925,
-fHF,honjhar,,,honjharing,AUS1(128-133),roy_birhors_1925,
-fBW,hili,,,eh hili,AUS1(128-133),roy_birhors_1925,eBW
-fWZ,aji hanar,,,eh go hanharing,AUS1(128-133),roy_birhors_1925,WeZ
-fFBW,gungu mai,,,,AUS1(128-133),roy_birhors_1925,
-fFBW,kaki,,,,AUS1(128-133),roy_birhors_1925,
-meB,dadu,,,,AUS2(320-321),sahu_birhor_1995,
-meZ,dadi,,,,AUS2(320-321),sahu_birhor_1995,
-myZ,bui,,,,AUS2(320-321),sahu_birhor_1995,
-mS,beta,,,,AUS2(320-321),sahu_birhor_1995,
-mFF,dada,,,,AUS2(320-321),sahu_birhor_1995,
-mMF,dada,,,,AUS2(320-321),sahu_birhor_1995,
-mFZ,hatom,,,eh hatom,AUS2(320-321),sahu_birhor_1995,
-mFeB,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-mMyZ,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-mZS,bhagna,,,,AUS2(320-321),sahu_birhor_1995,
-mZD,bhagna,,,,AUS2(320-321),sahu_birhor_1995,
-mFyBS,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-mFyBD,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-mH,heral,,,,AUS2(320-321),sahu_birhor_1995,
-mW,erah,,,,AUS2(320-321),sahu_birhor_1995,
-mHM,honjharin,,,,AUS2(320-321),sahu_birhor_1995,
-mZH,teyong,,,,AUS2(320-321),sahu_birhor_1995,eZH
-mDH,jamai,,,,AUS2(320-321),sahu_birhor_1995,
-mFZH,gungu,,,,AUS2(320-321),sahu_birhor_1995,FeZH
-mMZH,gunga,,,,AUS2(320-321),sahu_birhor_1995,MeZH
-mFeZ,hatom,,,eh hatom,AUS2(320-321),sahu_birhor_1995,Inferred; NA
-mFyZ,hatom,,,eh hatom,AUS2(320-321),sahu_birhor_1995,Inferred; NA
-meZD,bhagna,,,,AUS2(320-321),sahu_birhor_1995,Inferred; NA
-feB,dadu,,,,AUS2(320-321),sahu_birhor_1995,
-feZ,dadi,,,,AUS2(320-321),sahu_birhor_1995,
-fyZ,bui,,,,AUS2(320-321),sahu_birhor_1995,
-fS,beta,,,,AUS2(320-321),sahu_birhor_1995,
-fFF,dada,,,,AUS2(320-321),sahu_birhor_1995,
-fMF,dada,,,,AUS2(320-321),sahu_birhor_1995,
-fFZ,hatom,,,eh hatom,AUS2(320-321),sahu_birhor_1995,
-fFeB,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-fMyZ,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-fZS,bhagna,,,,AUS2(320-321),sahu_birhor_1995,
-fZD,bhagna,,,,AUS2(320-321),sahu_birhor_1995,
-fFyBS,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-fFyBD,gunga,,,,AUS2(320-321),sahu_birhor_1995,
-fH,heral,,,,AUS2(320-321),sahu_birhor_1995,
-fW,erah,,,,AUS2(320-321),sahu_birhor_1995,
-fHM,honjharin,,,,AUS2(320-321),sahu_birhor_1995,
-fZH,teyong,,,,AUS2(320-321),sahu_birhor_1995,eZH
-fDH,jamai,,,,AUS2(320-321),sahu_birhor_1995,
-fFZH,gungu,,,,AUS2(320-321),sahu_birhor_1995,FeZH
-fMZH,gunga,,,,AUS2(320-321),sahu_birhor_1995,MeZH
-fFeZ,hatom,,,eh hatom,AUS2(320-321),sahu_birhor_1995,Inferred; NA
-fFyZ,hatom,,,eh hatom,AUS2(320-321),sahu_birhor_1995,Inferred; NA
-feZD,bhagna,,,,AUS2(320-321),sahu_birhor_1995,Inferred; NA
-mD,beti,,,,AUS1(128-133),sahu_birhor_1995,
-mFyB,kaka,,,eh kaka,AUS2(320-321),sahu_birhor_1995,
-mHF,honjhar,,,honjharing,AUS2(320-321),sahu_birhor_1995,
-mBW,hili,,,eh hili,AUS2(320-321),sahu_birhor_1995,eBW
-mWZ,aji hanar,,,eh go hanharing,AUS2(320-321),sahu_birhor_1995,WeZ
-mFBW,gungu mai,,,,AUS2(320-321),sahu_birhor_1995,
-mFBW,kaki,,,,AUS2(320-321),sahu_birhor_1995,
-fD,beti,,,,AUS1(128-133),sahu_birhor_1995,
-fFyB,kaka,,,eh kaka,AUS2(320-321),sahu_birhor_1995,
-fHF,honjhar,,,honjharing,AUS2(320-321),sahu_birhor_1995,
-fBW,hili,,,eh hili,AUS2(320-321),sahu_birhor_1995,eBW
-fWZ,aji hanar,,,eh go hanharing,AUS2(320-321),sahu_birhor_1995,WeZ
-fFBW,gungu mai,,,,AUS2(320-321),sahu_birhor_1995,
-fFBW,kaki,,,,AUS2(320-321),sahu_birhor_1995,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","dada",,,"eh dada","AUS1(128-133)","roy_birhors_1925",""
+"myB","bhai",,,"bhai","AUS1(128-133)","roy_birhors_1925",""
+"myB","huding",,,"","AUS1(128-133)","roy_birhors_1925",""
+"meZ","didi",,,"eh didi","AUS1(128-133)","roy_birhors_1925",""
+"mF","apu",,,"o aba","AUS1(128-133)","roy_birhors_1925",""
+"mF","aba",,,"","AUS1(128-133)","roy_birhors_1925",""
+"mM","enga",,,"eh mae","AUS1(128-133)","roy_birhors_1925",""
+"mM","mae",,,"AUS2(320-321) transcribed as inga & mai","AUS1(128-133)","roy_birhors_1925",""
+"mS","hopon",,,"eh beta","AUS1(128-133)","roy_birhors_1925",""
+"mD","kurihon",,,"eh beti","AUS1(128-133)","roy_birhors_1925",""
+"mFF","aja",,,"eh aja","AUS1(128-133)","roy_birhors_1925",""
+"mFM","aji",,,"eh aji","AUS1(128-133)","roy_birhors_1925",""
+"mMF","nana",,,"eh nana","AUS1(128-133)","roy_birhors_1925",""
+"mMM","nani",,,"eh nani","AUS1(128-133)","roy_birhors_1925",""
+"mSS","nati",,,"eh nati","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's son"
+"mSD","natin",,,"eh natin","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's duaghter"
+"mDS","nati",,,"eh nati","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's son"
+"mDD","natin",,,"eh natin","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's duaghter"
+"mFeB","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"mMyZ","mosi",,,"eh mosi","AUS1(128-133)","roy_birhors_1925",""
+"mBS","bhagna",,,"eh bhagna","AUS1(128-133)","roy_birhors_1925",""
+"meBS","dada reni hopon",,,"eh beta","AUS1(128-133)","roy_birhors_1925",""
+"myBS","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"meBD","dadarenibeti",,,"eh beti","AUS1(128-133)","roy_birhors_1925",""
+"myBD","gungu",,,"eh gungu, eh bhegni","AUS1(128-133)","roy_birhors_1925",""
+"myBD","bhegni",,,"","AUS1(128-133)","roy_birhors_1925",""
+"meZS","didingreni hopon",,,"eh beta","AUS1(128-133)","roy_birhors_1925",""
+"myZS","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"myZD","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"mH","herel",,,"(father of so-and-so)","AUS1(128-133)","roy_birhors_1925",""
+"mW","era",,,"(mother of so-and-so)","AUS1(128-133)","roy_birhors_1925",""
+"mHM","hanar",,,"eh go hanharing","AUS1(128-133)","roy_birhors_1925",""
+"mWF","honjhar",,,"honjharing","AUS1(128-133)","roy_birhors_1925",""
+"mBW","kimin",,,"","AUS1(128-133)","roy_birhors_1925","yBW"
+"mBW","bhaikimin",,,"","AUS1(128-133)","roy_birhors_1925",""
+"mZH","aji hanar",,,"eh go hanharing, teyang-ho","AUS1(128-133)","roy_birhors_1925","eZH"
+"mZH","teyang",,,"teyang ho","AUS1(128-133)","roy_birhors_1925","yZH"
+"mWB","bauhonjhar",,,"eh bauhonjhar","AUS1(128-133)","roy_birhors_1925","WeB"
+"mWB","sara",,,"addressed by name","AUS1(128-133)","roy_birhors_1925","WyB"
+"mWZ","mosi",,,"","AUS1(128-133)","roy_birhors_1925","WyZ"
+"mHB","bauhonjhar",,,"","AUS1(128-133)","roy_birhors_1925","HeB"
+"mHB","iriul",,,"eh babu","AUS1(128-133)","roy_birhors_1925","HyB"
+"mHZ","aji-hanar",,,"","AUS1(128-133)","roy_birhors_1925","HeZ"
+"mco-W","hirum",,,"","AUS1(128-133)","roy_birhors_1925",""
+"mDH","jawai",,,"jawai go, eh babu","AUS1(128-133)","roy_birhors_1925",""
+"mDHM","samdhin",,,"samdhin ho","AUS1(128-133)","roy_birhors_1925",""
+"mDHF","samdhi",,,"samdhi ho","AUS1(128-133)","roy_birhors_1925",""
+"mFZH","mamu",,,"eh mamu","AUS1(128-133)","roy_birhors_1925",""
+"mFZH","hatom",,,"","AUS1(128-133)","roy_birhors_1925",""
+"mMZH","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925","MeZH"
+"mMZH","mosa",,,"","AUS1(128-133)","roy_birhors_1925","MyZH"
+"mMBW","hatom",,,"eh hatom","AUS1(128-133)","roy_birhors_1925",""
+"feB","dada",,,"eh dada","AUS1(128-133)","roy_birhors_1925",""
+"fyB","bhai",,,"bhai","AUS1(128-133)","roy_birhors_1925",""
+"fyB","huding",,,"","AUS1(128-133)","roy_birhors_1925",""
+"feZ","didi",,,"eh didi","AUS1(128-133)","roy_birhors_1925",""
+"fF","apu",,,"o aba","AUS1(128-133)","roy_birhors_1925",""
+"fF","aba",,,"","AUS1(128-133)","roy_birhors_1925",""
+"fM","enga",,,"eh mae","AUS1(128-133)","roy_birhors_1925",""
+"fM","mae",,,"AUS2(320-321) transcribed as inga & mai","AUS1(128-133)","roy_birhors_1925",""
+"fS","hopon",,,"eh beta","AUS1(128-133)","roy_birhors_1925",""
+"fD","kurihon",,,"eh beti","AUS1(128-133)","roy_birhors_1925",""
+"fFF","aja",,,"eh aja","AUS1(128-133)","roy_birhors_1925",""
+"fFM","aji",,,"eh aji","AUS1(128-133)","roy_birhors_1925",""
+"fMF","nana",,,"eh nana","AUS1(128-133)","roy_birhors_1925",""
+"fMM","nani",,,"eh nani","AUS1(128-133)","roy_birhors_1925",""
+"fSS","nati",,,"eh nati","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's son"
+"fSD","natin",,,"eh natin","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's duaghter"
+"fDS","nati",,,"eh nati","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's son"
+"fDD","natin",,,"eh natin","AUS1(128-133)","roy_birhors_1925","child's or newphew's or niece's duaghter"
+"fFeB","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"fMyZ","mosi",,,"eh mosi","AUS1(128-133)","roy_birhors_1925",""
+"fBS","bhagna",,,"eh bhagna","AUS1(128-133)","roy_birhors_1925",""
+"feBS","dada reni hopon",,,"eh beta","AUS1(128-133)","roy_birhors_1925",""
+"fyBS","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"feBD","dadarenibeti",,,"eh beti","AUS1(128-133)","roy_birhors_1925",""
+"fyBD","gungu",,,"eh gungu, eh bhegni","AUS1(128-133)","roy_birhors_1925",""
+"fyBD","bhegni",,,"","AUS1(128-133)","roy_birhors_1925",""
+"feZS","didingreni hopon",,,"eh beta","AUS1(128-133)","roy_birhors_1925",""
+"fyZS","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"fyZD","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925",""
+"fH","herel",,,"(father of so-and-so)","AUS1(128-133)","roy_birhors_1925",""
+"fW","era",,,"(mother of so-and-so)","AUS1(128-133)","roy_birhors_1925",""
+"fHM","hanar",,,"eh go hanharing","AUS1(128-133)","roy_birhors_1925",""
+"fWF","honjhar",,,"honjharing","AUS1(128-133)","roy_birhors_1925",""
+"fBW","kimin",,,"","AUS1(128-133)","roy_birhors_1925","yBW"
+"fBW","bhaikimin",,,"","AUS1(128-133)","roy_birhors_1925",""
+"fZH","aji hanar",,,"eh go hanharing, teyang-ho","AUS1(128-133)","roy_birhors_1925","eZH"
+"fZH","teyang",,,"teyang ho","AUS1(128-133)","roy_birhors_1925","yZH"
+"fWB","bauhonjhar",,,"eh bauhonjhar","AUS1(128-133)","roy_birhors_1925","WeB"
+"fWB","sara",,,"addressed by name","AUS1(128-133)","roy_birhors_1925","WyB"
+"fWZ","mosi",,,"","AUS1(128-133)","roy_birhors_1925","WyZ"
+"fHB","bauhonjhar",,,"","AUS1(128-133)","roy_birhors_1925","HeB"
+"fHB","iriul",,,"eh babu","AUS1(128-133)","roy_birhors_1925","HyB"
+"fHZ","aji-hanar",,,"","AUS1(128-133)","roy_birhors_1925","HeZ"
+"fco-W","hirum",,,"","AUS1(128-133)","roy_birhors_1925",""
+"fDH","jawai",,,"jawai go, eh babu","AUS1(128-133)","roy_birhors_1925",""
+"fDHM","samdhin",,,"samdhin ho","AUS1(128-133)","roy_birhors_1925",""
+"fDHF","samdhi",,,"samdhi ho","AUS1(128-133)","roy_birhors_1925",""
+"fFZH","mamu",,,"eh mamu","AUS1(128-133)","roy_birhors_1925",""
+"fFZH","hatom",,,"","AUS1(128-133)","roy_birhors_1925",""
+"fMZH","gungu",,,"eh gungu","AUS1(128-133)","roy_birhors_1925","MeZH"
+"fMZH","mosa",,,"","AUS1(128-133)","roy_birhors_1925","MyZH"
+"fMBW","hatom",,,"eh hatom","AUS1(128-133)","roy_birhors_1925",""
+"mD","beti",,,"","AUS2(320-321)","roy_birhors_1925",""
+"mFyB","kaka",,,"eh kaka","AUS1(128-133)","roy_birhors_1925",""
+"mMeZ","gungu mai",,,"eh gungu mai","AUS1(128-133)","roy_birhors_1925",""
+"mMeZ","gungu mai",,,"eh gungu mai","AUS(320-321)","roy_birhors_1925",""
+"mHF","honjhar",,,"honjharing","AUS1(128-133)","roy_birhors_1925",""
+"mBW","hili",,,"eh hili","AUS1(128-133)","roy_birhors_1925","eBW"
+"mWZ","aji hanar",,,"eh go hanharing","AUS1(128-133)","roy_birhors_1925","WeZ"
+"mFBW","gungu mai",,,"","AUS1(128-133)","roy_birhors_1925",""
+"mFBW","kaki",,,"","AUS1(128-133)","roy_birhors_1925",""
+"fD","beti",,,"","AUS2(320-321)","roy_birhors_1925",""
+"fFyB","kaka",,,"eh kaka","AUS1(128-133)","roy_birhors_1925",""
+"fMeZ","gungu mai",,,"eh gungu mai","AUS1(128-133)","roy_birhors_1925",""
+"fMeZ","gungu mai",,,"eh gungu mai","AUS(320-321)","roy_birhors_1925",""
+"fHF","honjhar",,,"honjharing","AUS1(128-133)","roy_birhors_1925",""
+"fBW","hili",,,"eh hili","AUS1(128-133)","roy_birhors_1925","eBW"
+"fWZ","aji hanar",,,"eh go hanharing","AUS1(128-133)","roy_birhors_1925","WeZ"
+"fFBW","gungu mai",,,"","AUS1(128-133)","roy_birhors_1925",""
+"fFBW","kaki",,,"","AUS1(128-133)","roy_birhors_1925",""
+"meB","dadu",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"meZ","dadi",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"myZ","bui",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mS","beta",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mFF","dada",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mMF","dada",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mFZ","hatom",,,"eh hatom","AUS2(320-321)","sahu_birhor_1995",""
+"mFeB","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mMyZ","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mZS","bhagna",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mZD","bhagna",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mFyBS","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mFyBD","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mH","heral",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mW","erah",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mHM","honjharin",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mZH","teyong",,,"","AUS2(320-321)","sahu_birhor_1995","eZH"
+"mDH","jamai",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mFZH","gungu",,,"","AUS2(320-321)","sahu_birhor_1995","FeZH"
+"mMZH","gunga",,,"","AUS2(320-321)","sahu_birhor_1995","MeZH"
+"mFeZ","hatom",,,"eh hatom","AUS2(320-321)","sahu_birhor_1995","Inferred; NA"
+"mFyZ","hatom",,,"eh hatom","AUS2(320-321)","sahu_birhor_1995","Inferred; NA"
+"meZD","bhagna",,,"","AUS2(320-321)","sahu_birhor_1995","Inferred; NA"
+"feB","dadu",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"feZ","dadi",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fyZ","bui",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fS","beta",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fFF","dada",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fMF","dada",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fFZ","hatom",,,"eh hatom","AUS2(320-321)","sahu_birhor_1995",""
+"fFeB","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fMyZ","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fZS","bhagna",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fZD","bhagna",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fFyBS","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fFyBD","gunga",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fH","heral",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fW","erah",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fHM","honjharin",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fZH","teyong",,,"","AUS2(320-321)","sahu_birhor_1995","eZH"
+"fDH","jamai",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fFZH","gungu",,,"","AUS2(320-321)","sahu_birhor_1995","FeZH"
+"fMZH","gunga",,,"","AUS2(320-321)","sahu_birhor_1995","MeZH"
+"fFeZ","hatom",,,"eh hatom","AUS2(320-321)","sahu_birhor_1995","Inferred; NA"
+"fFyZ","hatom",,,"eh hatom","AUS2(320-321)","sahu_birhor_1995","Inferred; NA"
+"feZD","bhagna",,,"","AUS2(320-321)","sahu_birhor_1995","Inferred; NA"
+"mD","beti",,,"","AUS1(128-133)","sahu_birhor_1995",""
+"mFyB","kaka",,,"eh kaka","AUS2(320-321)","sahu_birhor_1995",""
+"mHF","honjhar",,,"honjharing","AUS2(320-321)","sahu_birhor_1995",""
+"mBW","hili",,,"eh hili","AUS2(320-321)","sahu_birhor_1995","eBW"
+"mWZ","aji hanar",,,"eh go hanharing","AUS2(320-321)","sahu_birhor_1995","WeZ"
+"mFBW","gungu mai",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"mFBW","kaki",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fD","beti",,,"","AUS1(128-133)","sahu_birhor_1995",""
+"fFyB","kaka",,,"eh kaka","AUS2(320-321)","sahu_birhor_1995",""
+"fHF","honjhar",,,"honjharing","AUS2(320-321)","sahu_birhor_1995",""
+"fBW","hili",,,"eh hili","AUS2(320-321)","sahu_birhor_1995","eBW"
+"fWZ","aji hanar",,,"eh go hanharing","AUS2(320-321)","sahu_birhor_1995","WeZ"
+"fFBW","gungu mai",,,"","AUS2(320-321)","sahu_birhor_1995",""
+"fFBW","kaki",,,"","AUS2(320-321)","sahu_birhor_1995",""

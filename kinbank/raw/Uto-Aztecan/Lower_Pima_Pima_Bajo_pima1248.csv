@@ -1,28 +1,28 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,sisi,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-meB,šiiši,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-meZ,sisi,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-meZ,šiiši,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-mF,'oog,,,,UTO4(174),stubbs_uto-aztecan_2011,; cogid=849
-mM,daad,,,,UTO4(257),stubbs_uto-aztecan_2011,
-mFZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=88b
-mMZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=88b
-mFeZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88b
-mFyZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88b
-mMeZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88b
-mMyZ,diska,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=90b
-mMyB,tatari,,,,UTO4(381),stubbs_uto-aztecan_2011,; cogid=2432
-feB,sisi,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-feB,šiiši,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-feZ,sisi,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-feZ,šiiši,,,,UTO4(NA),stubbs_uto-aztecan_2011,; cogid=306
-fF,'oog,,,,UTO4(174),stubbs_uto-aztecan_2011,; cogid=849
-fM,daad,,,,UTO4(257),stubbs_uto-aztecan_2011,
-fFZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=88b
-fMZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=88b
-fFeZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88b
-fFyZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88b
-fMeZ,vovič,,,,UTO4(61),stubbs_uto-aztecan_2011,Inferred; ; cogid=88b
-fMyZ,diska,,,,UTO4(61),stubbs_uto-aztecan_2011,; cogid=90b
-fMyB,tatari,,,,UTO4(381),stubbs_uto-aztecan_2011,; cogid=2432
-fH,kun,,,,UTO4(227),stubbs_uto-aztecan_2011,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","sisi",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"meB","šiiši",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"meZ","sisi",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"meZ","šiiši",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"mF","'oog",,,,"UTO4(174)","stubbs_uto-aztecan_2011","; cogid=849"
+"mM","daad",,,,"UTO4(257)","stubbs_uto-aztecan_2011",""
+"mFZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","; cogid=88b"
+"mMZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","; cogid=88b"
+"mFeZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=88b"
+"mFyZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=88b"
+"mMeZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=88b"
+"mMyZ","diska",,,,"UTO4(61)","stubbs_uto-aztecan_2011","; cogid=90b"
+"mMyB","tatari",,,,"UTO4(381)","stubbs_uto-aztecan_2011","; cogid=2432"
+"feB","sisi",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"feB","šiiši",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"feZ","sisi",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"feZ","šiiši",,,,"UTO4(NA)","stubbs_uto-aztecan_2011","; cogid=306"
+"fF","'oog",,,,"UTO4(174)","stubbs_uto-aztecan_2011","; cogid=849"
+"fM","daad",,,,"UTO4(257)","stubbs_uto-aztecan_2011",""
+"fFZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","; cogid=88b"
+"fMZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","; cogid=88b"
+"fFeZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=88b"
+"fFyZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=88b"
+"fMeZ","vovič",,,,"UTO4(61)","stubbs_uto-aztecan_2011","Inferred; ; cogid=88b"
+"fMyZ","diska",,,,"UTO4(61)","stubbs_uto-aztecan_2011","; cogid=90b"
+"fMyB","tatari",,,,"UTO4(381)","stubbs_uto-aztecan_2011","; cogid=2432"
+"fH","kun",,,,"UTO4(227)","stubbs_uto-aztecan_2011",""

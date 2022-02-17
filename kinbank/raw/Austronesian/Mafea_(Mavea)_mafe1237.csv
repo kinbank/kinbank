@@ -1,94 +1,146 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tasi-,,male ego's older brother,,,,
-myB,tasi-,,male ego's younger brother,voratau,,,voratau = last born brother
-feB,soe-,,female ego's older brother,,,,
-fyB,soe-,,female ego's younger brother,voratau,,,voratau = last born brother
-meZ,vatasi-,,male ego's older sister,,,,
-myZ,vatasi-,,male ego's younger sister,,,,
-feZ,vatasi-,,female ego's older sister,,,,
-fyZ,vatasi-,,female ego's younger sister,,,,
-mF,tama-,,male ego's father,,,,
-mM,tina-,,male ego's mother,,,,
-fF,tama-,,female ego's father,,,,
-fM,tina-,,female ego's mother,,,,
-mS,natu-,,male ego's son,,,,
-fS,natu-,,female ego's son,,,,
-mD,vanatu-,,male ego's daughter,,,,
-fD,vanatu-,,female ego's daughter,,,,
-mSS,tupu-,,male ego's son's son,,,,
-mSD,"vomapi-, mapi-",,male ego's son's daughter,,,,
-mDS,tupu-,,male ego's daughter's son,,,,
-mDD,"vomapi-, mapi-",,male ego's daughter's daughter,,,,
-fSS,tupu-,,female ego's son's son,,,,
-fSD,"vomapi-, mapi-",,female ego's son's daughter,,,,
-fDS,tupu-,,female ego's daughter's son,,,,
-fDD,"vomapi-, mapi-",,female ego's daugher's daughter,,,,
-mFF,tupu-,,male ego's father‘s father,,,,
-mFM,tupu-,,male ego's father's mother,,,,
-mMF,tupu-,,male ego's mother's father,,,,
-mMM,tupu-,,male ego's mother's mother,,,,
-fFF,tupu-,,female ego's father's father,,,,
-fFM,tupu-,,female ego's father's mother,,,,
-fMF,tupu-,,female ego's mother's father,,,,
-fMM,tupu-,,female ego's mother's mother,,,,
-meBS,natu-,,male ego's older brother's son,,,,
-myBS,natu-,,male ego's younger brother's son,,,,
-meZS,sapuri-,,male ego's older sister's son,,,,
-myZS,sapuri-,,male ego's younger sister's son,,,,
-meBD,vanatu-,,male ego's older brother's daughter,,,,
-myBD,vanatu-,,male ego's younger brother's daughter,,,,
-feBS,tama-,,female ego's older brother's son,,,,
-fyBS,tama-,,female ego's younger brother's son,,,,
-feZS,natu-,,female ego's older sister's son,,,,
-fyZS,natu-,,female ego's younger sister's son,,,,
-feBD,vatasi-,,female ego's older brother's daughter,,,,
-fyBD,vatasi-,,female ego's younger brother's daughter,,,,
-feZD,vanatu-,,female ego's older sister's daughter,,,,
-fyZD,vanatu-,,female ego's younger sister's daughter,,,,
-mFeB,tama-,,male ego's father's older brother,,,,
-mFyB,tama-,,male ego's father's younger brother,,,,
-mFeZ,venatu-,,male ego's father's older sister,,,,
-mFyZ,venatu-,,male ego's father's younger sister,,,,
-mMeB,"sapuri-, sope",,male ego's mother's older brother,,,,
-mMyB,"sapuri-, sope",,male ego's mother's younger brother,,,,
-mMeZ,tina-,,male ego's mother's older sister,,,,
-mMyZ,tina-,,male ego's mother's younger sister,,,,
-fFeB,tama-,,female ego's father's older brother,,,,
-fFyB,tama-,,female ego's father's younger brother,,,,
-fFeZ,venatu-,,female ego's father's older sister,,,,
-fFyZ,venatu-,,female ego's father's younger sister,,,,
-fMeB,"sapuri-, sope",,female ego's mother's older brother,,,,
-fMyB,"sapuri-, sope",,female ego's mother's younger brother,,,,
-fMeZ,tina-,,female ego's mother's older sister,,,,
-fMyZ,tina-,,female ego's mother's younger sister,,,,
-mW,marau-,,male ego's wife,,,,
-fH,tamanatu-,,female ego‘s husband,,,,
-mDH,palia-,,male ego's daughter's husband,,,,
-fDH,vopalia-,,female ego's daughter's husband,,,,
-mSW,vanatu-,,male ego's son's wife,,,,
-fSW,vanatu-,,female ego's son's wife,,,,
-mWF,palia-,,male ego's wife's father,,,,
-mWM,vopalia-,,male ego's wife's mother,,,,
-mWB,tau-,,male ego's wife's brother,,,,
-mWZ,tau-,,male ego's wife's sister,,,,
-fHF,tama-,,female ego's husband's father,,,,
-fHM,tina-,,female ego's husband's mother,,,,
-fHB,tau-,,female ego's husband's brother,,,,
-fHZ,tau-,,female ego's husband's sister,,,,
-mBW,tau-,,male ego's brother's wife,,,,
-fBW,tau-,,female ego's brother's wife,,,,
-mZH,tau-,,male ego's sister's husband,,,,
-fZH,tau-,,female ego's sister's husband,,,,
-mFBS,tasi-,,male ego's father's brother's son,,,,
-mFZS,tupu-,,male ego's father's sister's son,,,,
-mMBS,tupu-,,male ego's mother's brother's son,,,,
-mMZS,tasi-,,male ego's mother's sister's son,,,,
-mFBD,vatasi-,,male ego's father's brother's daughter,,,,
-mMBD,mapi-,,male ego's mother's brother's daughter,,,,
-mMZD,vatasi-,,male ego's mother's sister's daughter,,,,
-fFZS,tupu-,,female ego's father's sister's son,,,,
-fMBS,tupu-,,female ego's mother's brother's son,,,,
-fMZS,tasi-,,female ego's mother's sister's son,,,,
-fFBD,vatasi-,,female ego's father's brother's daughter,,,,
-fMBD,mapi-,,female ego's mother's brother's daughter,,,,
-fMZD,vatasi-,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tasi-",,"male ego's older brother","",,,""
+"myB","tasi-",,"male ego's younger brother","voratau",,,"voratau = last born brother"
+"feB","soe-",,"female ego's older brother","",,,""
+"fyB","soe-",,"female ego's younger brother","voratau",,,"voratau = last born brother"
+"meZ","vatasi-",,"male ego's older sister","",,,""
+"myZ","vatasi-",,"male ego's younger sister","",,,""
+"feZ","vatasi-",,"female ego's older sister","",,,""
+"fyZ","vatasi-",,"female ego's younger sister","",,,""
+"mF","tama-",,"male ego's father","",,,""
+"mM","tina-",,"male ego's mother","",,,""
+"fF","tama-",,"female ego's father","",,,""
+"fM","tina-",,"female ego's mother","",,,""
+"mS","natu-",,"male ego's son","",,,""
+"fS","natu-",,"female ego's son","",,,""
+"mD","vanatu-",,"male ego's daughter","",,,""
+"fD","vanatu-",,"female ego's daughter","",,,""
+"mSS","tupu-",,"male ego's son's son","",,,""
+"mSD","vomapi-, mapi-",,"male ego's son's daughter","",,,""
+"mDS","tupu-",,"male ego's daughter's son","",,,""
+"mDD","vomapi-, mapi-",,"male ego's daughter's daughter","",,,""
+"fSS","tupu-",,"female ego's son's son","",,,""
+"fSD","vomapi-, mapi-",,"female ego's son's daughter","",,,""
+"fDS","tupu-",,"female ego's daughter's son","",,,""
+"fDD","vomapi-, mapi-",,"female ego's daugher's daughter","",,,""
+"mFF","tupu-",,"male ego's father‘s father","",,,""
+"mFM","tupu-",,"male ego's father's mother","",,,""
+"mMF","tupu-",,"male ego's mother's father","",,,""
+"mMM","tupu-",,"male ego's mother's mother","",,,""
+"fFF","tupu-",,"female ego's father's father","",,,""
+"fFM","tupu-",,"female ego's father's mother","",,,""
+"fMF","tupu-",,"female ego's mother's father","",,,""
+"fMM","tupu-",,"female ego's mother's mother","",,,""
+"meBS","natu-",,"male ego's older brother's son","",,,""
+"myBS","natu-",,"male ego's younger brother's son","",,,""
+"meZS","sapuri-",,"male ego's older sister's son","",,,""
+"myZS","sapuri-",,"male ego's younger sister's son","",,,""
+"meBD","vanatu-",,"male ego's older brother's daughter","",,,""
+"myBD","vanatu-",,"male ego's younger brother's daughter","",,,""
+"feBS","tama-",,"female ego's older brother's son","",,,""
+"fyBS","tama-",,"female ego's younger brother's son","",,,""
+"feZS","natu-",,"female ego's older sister's son","",,,""
+"fyZS","natu-",,"female ego's younger sister's son","",,,""
+"feBD","vatasi-",,"female ego's older brother's daughter","",,,""
+"fyBD","vatasi-",,"female ego's younger brother's daughter","",,,""
+"feZD","vanatu-",,"female ego's older sister's daughter","",,,""
+"fyZD","vanatu-",,"female ego's younger sister's daughter","",,,""
+"mFeB","tama-",,"male ego's father's older brother","",,,""
+"mFyB","tama-",,"male ego's father's younger brother","",,,""
+"mFeZ","venatu-",,"male ego's father's older sister","",,,""
+"mFyZ","venatu-",,"male ego's father's younger sister","",,,""
+"mMeB","sapuri-, sope",,"male ego's mother's older brother","",,,""
+"mMyB","sapuri-, sope",,"male ego's mother's younger brother","",,,""
+"mMeZ","tina-",,"male ego's mother's older sister","",,,""
+"mMyZ","tina-",,"male ego's mother's younger sister","",,,""
+"fFeB","tama-",,"female ego's father's older brother","",,,""
+"fFyB","tama-",,"female ego's father's younger brother","",,,""
+"fFeZ","venatu-",,"female ego's father's older sister","",,,""
+"fFyZ","venatu-",,"female ego's father's younger sister","",,,""
+"fMeB","sapuri-, sope",,"female ego's mother's older brother","",,,""
+"fMyB","sapuri-, sope",,"female ego's mother's younger brother","",,,""
+"fMeZ","tina-",,"female ego's mother's older sister","",,,""
+"fMyZ","tina-",,"female ego's mother's younger sister","",,,""
+"mW","marau-",,"male ego's wife","",,,""
+"fH","tamanatu-",,"female ego‘s husband","",,,""
+"mDH","palia-",,"male ego's daughter's husband","",,,""
+"fDH","vopalia-",,"female ego's daughter's husband","",,,""
+"mSW","vanatu-",,"male ego's son's wife","",,,""
+"fSW","vanatu-",,"female ego's son's wife","",,,""
+"mWF","palia-",,"male ego's wife's father","",,,""
+"mWM","vopalia-",,"male ego's wife's mother","",,,""
+"mWB","tau-",,"male ego's wife's brother","",,,""
+"mWZ","tau-",,"male ego's wife's sister","",,,""
+"fHF","tama-",,"female ego's husband's father","",,,""
+"fHM","tina-",,"female ego's husband's mother","",,,""
+"fHB","tau-",,"female ego's husband's brother","",,,""
+"fHZ","tau-",,"female ego's husband's sister","",,,""
+"mBW","tau-",,"male ego's brother's wife","",,,""
+"fBW","tau-",,"female ego's brother's wife","",,,""
+"mZH","tau-",,"male ego's sister's husband","",,,""
+"fZH","tau-",,"female ego's sister's husband","",,,""
+"mFBS","tasi-",,"male ego's father's brother's son","",,,""
+"mFZS","tupu-",,"male ego's father's sister's son","",,,""
+"mMBS","tupu-",,"male ego's mother's brother's son","",,,""
+"mMZS","tasi-",,"male ego's mother's sister's son","",,,""
+"mFBD","vatasi-",,"male ego's father's brother's daughter","",,,""
+"mMBD","mapi-",,"male ego's mother's brother's daughter","",,,""
+"mMZD","vatasi-",,"male ego's mother's sister's daughter","",,,""
+"fFZS","tupu-",,"female ego's father's sister's son","",,,""
+"fMBS","tupu-",,"female ego's mother's brother's son","",,,""
+"fMZS","tasi-",,"female ego's mother's sister's son","",,,""
+"fFBD","vatasi-",,"female ego's father's brother's daughter","",,,""
+"fMBD","mapi-",,"female ego's mother's brother's daughter","",,,""
+"fMZD","vatasi-",,"female ego's mother's sister's daughter","",,,""
+"mFeBS","tasi-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFyBS","tasi-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFeZS","tupu-",,"male ego's father's sister's son","",,,"Inferred; "
+"mFyZS","tupu-",,"male ego's father's sister's son","",,,"Inferred; "
+"mFeBD","vatasi-",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","vatasi-",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mMeBS","tupu-",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMyBS","tupu-",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMeZS","tasi-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMyZS","tasi-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMeBD","mapi-",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","mapi-",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMeZD","vatasi-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","vatasi-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeS","tasi-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFByS","tasi-",,"male ego's father's brother's son","",,,"Inferred; "
+"mFZeS","tupu-",,"male ego's father's sister's son","",,,"Inferred; "
+"mFZyS","tupu-",,"male ego's father's sister's son","",,,"Inferred; "
+"mFBeD","vatasi-",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","vatasi-",,"male ego's father's brother's daughter","",,,"Inferred; "
+"mMBeS","tupu-",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMByS","tupu-",,"male ego's mother's brother's son","",,,"Inferred; "
+"mMZeS","tasi-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMZyS","tasi-",,"male ego's mother's sister's son","",,,"Inferred; "
+"mMBeD","mapi-",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","mapi-",,"male ego's mother's brother's daughter","",,,"Inferred; "
+"mMZeD","vatasi-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","vatasi-",,"male ego's mother's sister's daughter","",,,"Inferred; "
+"fFeZS","tupu-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFyZS","tupu-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFeBD","vatasi-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fFyBD","vatasi-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fMeBS","tupu-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMyBS","tupu-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMeZS","tasi-",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMyZS","tasi-",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMeBD","mapi-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMyBD","mapi-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMeZD","vatasi-",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fMyZD","vatasi-",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fFZeS","tupu-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFZyS","tupu-",,"female ego's father's sister's son","",,,"Inferred; "
+"fFBeD","vatasi-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fFByD","vatasi-",,"female ego's father's brother's daughter","",,,"Inferred; "
+"fMBeS","tupu-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMByS","tupu-",,"female ego's mother's brother's son","",,,"Inferred; "
+"fMZeS","tasi-",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMZyS","tasi-",,"female ego's mother's sister's son","",,,"Inferred; "
+"fMBeD","mapi-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMByD","mapi-",,"female ego's mother's brother's daughter","",,,"Inferred; "
+"fMZeD","vatasi-",,"female ego's mother's sister's daughter","",,,"Inferred; "
+"fMZyD","vatasi-",,"female ego's mother's sister's daughter","",,,"Inferred; "

@@ -1,193 +1,193 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mF,tata,,,,AC34(229),maes_vocabulaire_1934,
-mM,mama,,,,AC34(228),maes_vocabulaire_1934,
-mC,kanuke,,,,AC34(225),maes_vocabulaire_1934,
-mFF,kåkha,,,,AC34(226),maes_vocabulaire_1934,
-mMF,kåkha,,,,AC34(226),maes_vocabulaire_1934,
-fF,tata,,,,AC34(229),maes_vocabulaire_1934,
-fM,mama,,,,AC34(228),maes_vocabulaire_1934,
-fC,kanuke,,,,AC34(225),maes_vocabulaire_1934,
-fFF,kåkha,,,,AC34(226),maes_vocabulaire_1934,
-fMF,kåkha,,,,AC34(226),maes_vocabulaire_1934,
-mS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,
-mD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,
-mFB,tata wa songo,,,,AC127(39),mcculloch_southern_1951,
-mFZ,tata pwo,,,,AC127(39),mcculloch_southern_1951,
-mMB,matu,,,,AC127(39),mcculloch_southern_1951,
-mMZ,mama wa songo,,,,AC127(39),mcculloch_southern_1951,
-mBS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,
-mBD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,
-mZS,mwihwa,,,,AC127(39),mcculloch_southern_1951,
-mZD,mwihwa,,,,AC127(39),mcculloch_southern_1951,
-mFZD,musonyi,,,,AC127(40),mcculloch_southern_1951,
-mFBD,ndumbu,,,,AC127(40),mcculloch_southern_1951,
-mMBD,musonyi,,,,AC127(40),mcculloch_southern_1951,
-mMZD,ndumbu,,,,AC127(40),mcculloch_southern_1951,
-mFBS,pangi,,,,AC127(39),mcculloch_southern_1951,
-mFZS,musonyi,,,,AC127(40),mcculloch_southern_1951,
-mMBS,musonyi,,,,AC127(40),mcculloch_southern_1951,
-mMZS,pangi,,,,AC127(39),mcculloch_southern_1951,
-mW,pwo lya ulo,,,,AC127(41),mcculloch_southern_1951,
-mHF,tata-wenu,,,,AC127(39),mcculloch_southern_1951,
-mHM,mama-wenu,,,muzila,AC127(39),mcculloch_southern_1951,
-mWF,tata-wenu,,,,AC127(39),mcculloch_southern_1951,
-mWM,mama-wenu,,,muzila,AC127(39),mcculloch_southern_1951,
-mBW,nyali,,,,AC127(40),mcculloch_southern_1951,
-mZH,nyali,,,,AC127(40),mcculloch_southern_1951,
-mSW,uko,,,tembwa mana,AC127(39),mcculloch_southern_1951,
-mDH,uko,,,tembwa mana,AC127(39),mcculloch_southern_1951,
-mFZH,matu,,,,AC127(39),mcculloch_southern_1951,
-mFBW,mama wa songo,,,,AC127(39),mcculloch_southern_1951,
-mMZH,tata wa songo,,,,AC127(39),mcculloch_southern_1951,
-mMBW,tata pwo,,,,AC127(39),mcculloch_southern_1951,
-mFeB,tata wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFyB,tata wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFeZ,tata pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFyZ,tata pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMeZ,mama wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMyZ,mama wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMeB,matu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMyB,matu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-meBS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-myBS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-meBD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-myBD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-meZS,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-myZS,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-meZD,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-myZD,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFeBS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFyBS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFeZS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFyZS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFeBD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFyBD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFeZD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFyZD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMeBS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMyBS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMeZS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMyZS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMeBD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMyBD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMeZD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMyZD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFBeS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFByS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mFZeS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFZyS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFBeD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFByD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFZeD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mFZyD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMBeS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMByS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMZeS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMZyS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-mMBeD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMByD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMZeD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mMZyD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,
-fD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,
-fFB,tata wa songo,,,,AC127(39),mcculloch_southern_1951,
-fFZ,tata pwo,,,,AC127(39),mcculloch_southern_1951,
-fMB,matu,,,,AC127(39),mcculloch_southern_1951,
-fMZ,mama wa songo,,,,AC127(39),mcculloch_southern_1951,
-fBS,mwihwa,,,,AC127(39),mcculloch_southern_1951,
-fBD,mwihwa,,,,AC127(39),mcculloch_southern_1951,
-fZS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,
-fZD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,
-fFZD,musonyi,,,,AC127(40),mcculloch_southern_1951,
-fFBD,ndumbu,,,,AC127(40),mcculloch_southern_1951,
-fMBD,musonyi,,,,AC127(40),mcculloch_southern_1951,
-fMZD,ndumbu,,,,AC127(40),mcculloch_southern_1951,
-fFBS,pangi,,,,AC127(39),mcculloch_southern_1951,
-fFZS,musonyi,,,,AC127(40),mcculloch_southern_1951,
-fMBS,musonyi,,,,AC127(40),mcculloch_southern_1951,
-fMZS,pangi,,,,AC127(39),mcculloch_southern_1951,
-fW,pwo lya ulo,,,,AC127(41),mcculloch_southern_1951,
-fHF,tata-wenu,,,,AC127(39),mcculloch_southern_1951,
-fHM,mama-wenu,,,muzila,AC127(39),mcculloch_southern_1951,
-fWF,tata-wenu,,,,AC127(39),mcculloch_southern_1951,
-fWM,mama-wenu,,,muzila,AC127(39),mcculloch_southern_1951,
-fBW,nyali,,,,AC127(40),mcculloch_southern_1951,
-fZH,nyali,,,,AC127(40),mcculloch_southern_1951,
-fSW,uko,,,tembwa mana,AC127(39),mcculloch_southern_1951,
-fDH,uko,,,tembwa mana,AC127(39),mcculloch_southern_1951,
-fFZH,matu,,,,AC127(39),mcculloch_southern_1951,
-fFBW,mama wa songo,,,,AC127(39),mcculloch_southern_1951,
-fMZH,tata wa songo,,,,AC127(39),mcculloch_southern_1951,
-fMBW,tata pwo,,,,AC127(39),mcculloch_southern_1951,
-fFeB,tata wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFyB,tata wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFeZ,tata pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFyZ,tata pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMeZ,mama wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMyZ,mama wa songo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMeB,matu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMyB,matu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-feBS,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fyBS,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-feBD,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fyBD,mwihwa,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-feZS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fyZS,mwana-lunga,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-feZD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fyZD,mwana-pwo,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFeBS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFyBS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFeZS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFyZS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFeBD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFyBD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFeZD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFyZD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMeBS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMyBS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMeZS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMyZS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMeBD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMyBD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMeZD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMyZD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFBeS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFByS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fFZeS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFZyS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFBeD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFByD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFZeD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fFZyD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMBeS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMByS,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMZeS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMZyS,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fMBeD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMByD,musonyi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMZeD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fMZyD,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-mB,pangi,,,,AC127(39),mcculloch_southern_1951,
-mB,pangi,,,,AC127(40),mcculloch_southern_1951,
-mZ,ndumbu,,,,AC127(39),mcculloch_southern_1951,
-mZ,ndumbu,,,,AC127(40),mcculloch_southern_1951,
-meB,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-meB,pangi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-myB,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-myB,pangi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-meZ,ndumbu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-meZ,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-myZ,ndumbu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-myZ,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fB,ndumbu,,,,AC127(39),mcculloch_southern_1951,
-fB,ndumbu,,,,AC127(40),mcculloch_southern_1951,
-fZ,pangi,,,,AC127(39),mcculloch_southern_1951,
-fZ,pangi,,,,AC127(40),mcculloch_southern_1951,
-feB,ndumbu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-feB,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fyB,ndumbu,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fyB,ndumbu,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-feZ,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-feZ,pangi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
-fyZ,pangi,,,,AC127(39),mcculloch_southern_1951,Inferred; NA
-fyZ,pangi,,,,AC127(40),mcculloch_southern_1951,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mF","tata",,,"","AC34(229)","maes_vocabulaire_1934",""
+"mM","mama",,,"","AC34(228)","maes_vocabulaire_1934",""
+"mC","kanuke",,,"","AC34(225)","maes_vocabulaire_1934",""
+"mFF","kåkha",,,"","AC34(226)","maes_vocabulaire_1934",""
+"mMF","kåkha",,,"","AC34(226)","maes_vocabulaire_1934",""
+"fF","tata",,,"","AC34(229)","maes_vocabulaire_1934",""
+"fM","mama",,,"","AC34(228)","maes_vocabulaire_1934",""
+"fC","kanuke",,,"","AC34(225)","maes_vocabulaire_1934",""
+"fFF","kåkha",,,"","AC34(226)","maes_vocabulaire_1934",""
+"fMF","kåkha",,,"","AC34(226)","maes_vocabulaire_1934",""
+"mS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951",""
+"mD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mFB","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mFZ","tata pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mMB","matu",,,"","AC127(39)","mcculloch_southern_1951",""
+"mMZ","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mBS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951",""
+"mBD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mZS","mwihwa",,,"","AC127(39)","mcculloch_southern_1951",""
+"mZD","mwihwa",,,"","AC127(39)","mcculloch_southern_1951",""
+"mFZD","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"mFBD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951",""
+"mMBD","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"mMZD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951",""
+"mFBS","pangi",,,"","AC127(39)","mcculloch_southern_1951",""
+"mFZS","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"mMBS","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"mMZS","pangi",,,"","AC127(39)","mcculloch_southern_1951",""
+"mW","pwo lya ulo",,,"","AC127(41)","mcculloch_southern_1951",""
+"mHF","tata-wenu",,,"","AC127(39)","mcculloch_southern_1951",""
+"mHM","mama-wenu",,,"muzila","AC127(39)","mcculloch_southern_1951",""
+"mWF","tata-wenu",,,"","AC127(39)","mcculloch_southern_1951",""
+"mWM","mama-wenu",,,"muzila","AC127(39)","mcculloch_southern_1951",""
+"mBW","nyali",,,"","AC127(40)","mcculloch_southern_1951",""
+"mZH","nyali",,,"","AC127(40)","mcculloch_southern_1951",""
+"mSW","uko",,,"tembwa mana","AC127(39)","mcculloch_southern_1951",""
+"mDH","uko",,,"tembwa mana","AC127(39)","mcculloch_southern_1951",""
+"mFZH","matu",,,"","AC127(39)","mcculloch_southern_1951",""
+"mFBW","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mMZH","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mMBW","tata pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"mFeB","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFyB","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFeZ","tata pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFyZ","tata pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMeZ","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMyZ","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMeB","matu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMyB","matu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"meBS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"myBS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"meBD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"myBD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"meZS","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"myZS","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"meZD","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"myZD","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFeBS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFyBS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFeZS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFyZS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFeBD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFyBD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFeZD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFyZD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMeBS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMyBS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMeZS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMyZS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMeBD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMyBD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMeZD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMyZD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFBeS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFByS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mFZeS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFZyS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFBeD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFByD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFZeD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mFZyD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMBeS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMByS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMZeS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMZyS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"mMBeD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMByD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMZeD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mMZyD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951",""
+"fD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fFB","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fFZ","tata pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fMB","matu",,,"","AC127(39)","mcculloch_southern_1951",""
+"fMZ","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fBS","mwihwa",,,"","AC127(39)","mcculloch_southern_1951",""
+"fBD","mwihwa",,,"","AC127(39)","mcculloch_southern_1951",""
+"fZS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951",""
+"fZD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fFZD","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"fFBD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951",""
+"fMBD","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"fMZD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951",""
+"fFBS","pangi",,,"","AC127(39)","mcculloch_southern_1951",""
+"fFZS","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"fMBS","musonyi",,,"","AC127(40)","mcculloch_southern_1951",""
+"fMZS","pangi",,,"","AC127(39)","mcculloch_southern_1951",""
+"fW","pwo lya ulo",,,"","AC127(41)","mcculloch_southern_1951",""
+"fHF","tata-wenu",,,"","AC127(39)","mcculloch_southern_1951",""
+"fHM","mama-wenu",,,"muzila","AC127(39)","mcculloch_southern_1951",""
+"fWF","tata-wenu",,,"","AC127(39)","mcculloch_southern_1951",""
+"fWM","mama-wenu",,,"muzila","AC127(39)","mcculloch_southern_1951",""
+"fBW","nyali",,,"","AC127(40)","mcculloch_southern_1951",""
+"fZH","nyali",,,"","AC127(40)","mcculloch_southern_1951",""
+"fSW","uko",,,"tembwa mana","AC127(39)","mcculloch_southern_1951",""
+"fDH","uko",,,"tembwa mana","AC127(39)","mcculloch_southern_1951",""
+"fFZH","matu",,,"","AC127(39)","mcculloch_southern_1951",""
+"fFBW","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fMZH","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fMBW","tata pwo",,,"","AC127(39)","mcculloch_southern_1951",""
+"fFeB","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFyB","tata wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFeZ","tata pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFyZ","tata pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMeZ","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMyZ","mama wa songo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMeB","matu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMyB","matu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"feBS","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fyBS","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"feBD","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fyBD","mwihwa",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"feZS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fyZS","mwana-lunga",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"feZD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fyZD","mwana-pwo",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFeBS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFyBS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFeZS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFyZS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFeBD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFyBD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFeZD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFyZD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMeBS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMyBS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMeZS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMyZS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMeBD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMyBD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMeZD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMyZD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFBeS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFByS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fFZeS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFZyS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFBeD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFByD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFZeD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fFZyD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMBeS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMByS","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMZeS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMZyS","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fMBeD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMByD","musonyi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMZeD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fMZyD","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"mB","pangi",,,"","AC127(39)","mcculloch_southern_1951",""
+"mB","pangi",,,"","AC127(40)","mcculloch_southern_1951",""
+"mZ","ndumbu",,,"","AC127(39)","mcculloch_southern_1951",""
+"mZ","ndumbu",,,"","AC127(40)","mcculloch_southern_1951",""
+"meB","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"meB","pangi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"myB","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"myB","pangi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"meZ","ndumbu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"meZ","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"myZ","ndumbu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"myZ","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fB","ndumbu",,,"","AC127(39)","mcculloch_southern_1951",""
+"fB","ndumbu",,,"","AC127(40)","mcculloch_southern_1951",""
+"fZ","pangi",,,"","AC127(39)","mcculloch_southern_1951",""
+"fZ","pangi",,,"","AC127(40)","mcculloch_southern_1951",""
+"feB","ndumbu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"feB","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fyB","ndumbu",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fyB","ndumbu",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"feZ","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"feZ","pangi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"
+"fyZ","pangi",,,"","AC127(39)","mcculloch_southern_1951","Inferred; NA"
+"fyZ","pangi",,,"","AC127(40)","mcculloch_southern_1951","Inferred; NA"

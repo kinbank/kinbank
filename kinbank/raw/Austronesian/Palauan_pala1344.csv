@@ -1,55 +1,119 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"chudel(ék), chobek(úk)",,male ego's older brother,,,,
-myB,"merreng(ék), chochel(ék)",,male ego's younger brother,,,,
-feB,chochad(ák),,female ego's older brother,,,,
-fyB,chochad(ák),,female ego's younger brother,,,,
-meZ,chochad(ák),,male ego's older sister,,,,
-myZ,chochad(ák),,male ego's younger sister,,,,
-feZ,"chudel(ék), chobek(úk)",,female ego's older sister,,,,
-fyZ,"merreng(ék), chochel(ék)",,female ego's younger sister,,,,
-mF,"chadám, uadám",,male ego's father,,,,
-mM,"chadíl, uadíl",,male ego's mother,,,,
-fF,"chadám, uadám",,female ego's father,,,,
-fM,"chadíl, uadíl",,female ego's mother,,,,
-mS,ngalk el sachál,,male ego's son,,,,
-fS,ngalk el sachál,,female ego's son,,,,
-mD,ngalk el dil,,male ego's daughter,,,,
-fD,ngalk el dil,,female ego's daughter,,,,
-meBS,"desik, kladesióil",,male ego's older brother's son,,,,
-myBS,"desik, kladesióil",,male ego's younger brother's son,,,,
-meZS,"desik, kladesióil",,male ego's older sister's son,,,,
-myZS,"desik, kladesióil",,male ego's younger sister's son,,,,
-feBD,"desik, kladesióil",,female ego's older brother's daughter,,,,
-fyBD,"desik, kladesióil",,female ego's younger brother's daughter,,,,
-feZD,"desik, kladesióil",,female ego's older sister's daughter,,,,
-fyZD,"desik, kladesióil",,female ego's younger sister's daughter,,,,
-mFeB,"desik, kladesióil",,male ego's father's older brother,,,,
-mFyB,"desik, kladesióil",,male ego's father's younger brother,,,,
-mMeB,"desik, kladesióil",,male ego's mother's older brother,,,,
-mMyB,"desik, kladesióil",,male ego's mother's younger brother,,,,
-fFeZ,"desik, kladesióil",,female ego's father's older sister,,,,
-fFyZ,"desik, kladesióil",,female ego's father's younger sister,,,,
-fMeZ,"desik, kladesióil",,female ego's mother's older sister,,,,
-fMyZ,"desik, kladesióil",,female ego's mother's younger sister,,,,
-mW,puch,,male ego's wife,,,,
-fH,puch,,female ego‘s husband,,,,
-mDH,chasmáchel,,male ego's daughter's husband,,,,
-fDH,chasmáchel,,female ego's daughter's husband,,,,
-mSW,puchulsachál,,male ego's son's wife,,,,
-fSW,puchulsachál,,female ego's son's wife,,,,
-mFBS,ngalekodám,,male ego's father's brother's son,,,,
-mFZS,ngelekir a ruchad,,male ego's father's sister's son,,,,
-mMBS,ngelekir a ruchad,,male ego's mother's brother's son,,,,
-mMZS,ngalekdós,,male ego's mother's sister's son,,,,
-mFBD,ngalekodám,,male ego's father's brother's daughter,,,,
-mFZD,ngelekir a ruchad,,male ego's father's sister's daughter,,,,
-mMBD,ngelekir a ruchad,,male ego's mother's brother's daughter,,,,
-mMZD,ngalekdós,,male ego's mother's sister's daughter,,,,
-fFBS,ngalekodám,,female ego's father's brother's son,,,,
-fFZS,ngelekir a ruchad,,female ego's father's sister's son,,,,
-fMBS,ngelekir a ruchad,,female ego's mother's brother's son,,,,
-fMZS,ngalekdós,,female ego's mother's sister's son,,,,
-fFBD,ngalekodám,,female ego's father's brother's daughter,,,,
-fFZD,ngelekir a ruchad,,female ego's father's sister's daughter,,,,
-fMBD,ngelekir a ruchad,,female ego's mother's brother's daughter,,,,
-fMZD,ngalekdós,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","chudel(ék), chobek(úk)",,"male ego's older brother",,,,
+"myB","merreng(ék), chochel(ék)",,"male ego's younger brother",,,,
+"feB","chochad(ák)",,"female ego's older brother",,,,
+"fyB","chochad(ák)",,"female ego's younger brother",,,,
+"meZ","chochad(ák)",,"male ego's older sister",,,,
+"myZ","chochad(ák)",,"male ego's younger sister",,,,
+"feZ","chudel(ék), chobek(úk)",,"female ego's older sister",,,,
+"fyZ","merreng(ék), chochel(ék)",,"female ego's younger sister",,,,
+"mF","chadám, uadám",,"male ego's father",,,,
+"mM","chadíl, uadíl",,"male ego's mother",,,,
+"fF","chadám, uadám",,"female ego's father",,,,
+"fM","chadíl, uadíl",,"female ego's mother",,,,
+"mS","ngalk el sachál",,"male ego's son",,,,
+"fS","ngalk el sachál",,"female ego's son",,,,
+"mD","ngalk el dil",,"male ego's daughter",,,,
+"fD","ngalk el dil",,"female ego's daughter",,,,
+"meBS","desik, kladesióil",,"male ego's older brother's son",,,,
+"myBS","desik, kladesióil",,"male ego's younger brother's son",,,,
+"meZS","desik, kladesióil",,"male ego's older sister's son",,,,
+"myZS","desik, kladesióil",,"male ego's younger sister's son",,,,
+"feBD","desik, kladesióil",,"female ego's older brother's daughter",,,,
+"fyBD","desik, kladesióil",,"female ego's younger brother's daughter",,,,
+"feZD","desik, kladesióil",,"female ego's older sister's daughter",,,,
+"fyZD","desik, kladesióil",,"female ego's younger sister's daughter",,,,
+"mFeB","desik, kladesióil",,"male ego's father's older brother",,,,
+"mFyB","desik, kladesióil",,"male ego's father's younger brother",,,,
+"mMeB","desik, kladesióil",,"male ego's mother's older brother",,,,
+"mMyB","desik, kladesióil",,"male ego's mother's younger brother",,,,
+"fFeZ","desik, kladesióil",,"female ego's father's older sister",,,,
+"fFyZ","desik, kladesióil",,"female ego's father's younger sister",,,,
+"fMeZ","desik, kladesióil",,"female ego's mother's older sister",,,,
+"fMyZ","desik, kladesióil",,"female ego's mother's younger sister",,,,
+"mW","puch",,"male ego's wife",,,,
+"fH","puch",,"female ego‘s husband",,,,
+"mDH","chasmáchel",,"male ego's daughter's husband",,,,
+"fDH","chasmáchel",,"female ego's daughter's husband",,,,
+"mSW","puchulsachál",,"male ego's son's wife",,,,
+"fSW","puchulsachál",,"female ego's son's wife",,,,
+"mFBS","ngalekodám",,"male ego's father's brother's son",,,,
+"mFZS","ngelekir a ruchad",,"male ego's father's sister's son",,,,
+"mMBS","ngelekir a ruchad",,"male ego's mother's brother's son",,,,
+"mMZS","ngalekdós",,"male ego's mother's sister's son",,,,
+"mFBD","ngalekodám",,"male ego's father's brother's daughter",,,,
+"mFZD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,,
+"mMBD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,,
+"mMZD","ngalekdós",,"male ego's mother's sister's daughter",,,,
+"fFBS","ngalekodám",,"female ego's father's brother's son",,,,
+"fFZS","ngelekir a ruchad",,"female ego's father's sister's son",,,,
+"fMBS","ngelekir a ruchad",,"female ego's mother's brother's son",,,,
+"fMZS","ngalekdós",,"female ego's mother's sister's son",,,,
+"fFBD","ngalekodám",,"female ego's father's brother's daughter",,,,
+"fFZD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,,
+"fMBD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,,
+"fMZD","ngalekdós",,"female ego's mother's sister's daughter",,,,
+"mFeBS","ngalekodám",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","ngalekodám",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","ngelekir a ruchad",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","ngelekir a ruchad",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","ngalekodám",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","ngalekodám",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","ngelekir a ruchad",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","ngelekir a ruchad",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","ngalekdós",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","ngalekdós",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","ngalekdós",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","ngalekdós",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","ngalekodám",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","ngalekodám",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","ngelekir a ruchad",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","ngelekir a ruchad",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","ngalekodám",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","ngalekodám",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","ngelekir a ruchad",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","ngelekir a ruchad",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","ngalekdós",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","ngalekdós",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","ngalekdós",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","ngalekdós",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","ngalekodám",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","ngalekodám",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","ngelekir a ruchad",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","ngelekir a ruchad",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","ngalekodám",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","ngalekodám",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","ngelekir a ruchad",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","ngelekir a ruchad",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","ngalekdós",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","ngalekdós",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","ngalekdós",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","ngalekdós",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","ngalekodám",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","ngalekodám",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","ngelekir a ruchad",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","ngelekir a ruchad",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","ngalekodám",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","ngalekodám",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","ngelekir a ruchad",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","ngelekir a ruchad",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","ngalekdós",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","ngalekdós",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","ngalekdós",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","ngalekdós",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

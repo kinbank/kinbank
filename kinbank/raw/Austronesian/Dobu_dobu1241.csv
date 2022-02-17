@@ -1,70 +1,110 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tasina,,male ego's older brother,,,,
-myB,tasina,,male ego's younger brother,,,,
-feB,tasina,,female ego's older brother,,,,
-fyB,tasina,,female ego's younger brother,,,,
-mF,"tamana, ana toenatuna",,male ego's father,,,,
-mM,"sinana, ana toenatuna",,male ego's mother,,,,
-fF,"tamana, ana toenatuna",,female ego's father,,,,
-fM,"sinana, ana toenatuna",,female ego's mother,,,,
-mS,natuna,,male ego's son,,,,
-fS,natuna,,female ego's son,,,,
-mD,natuna,,male ego's daughter,,,,
-fD,natuna,,female ego's daughter,,,,
-mSS,tubuna,,male ego's son's son,,,,
-mSD,tubuna,,male ego's son's daughter,,,,
-mDS,tubuna,,male ego's daughter's son,,,,
-mDD,tubuna,,male ego's daughter's daughter,,,,
-fSS,tubuna,,female ego's son's son,,,,
-fSD,tubuna,,female ego's son's daughter,,,,
-fDS,tubuna,,female ego's daughter's son,,,,
-fDD,tubuna,,female ego's daugher's daughter,,,,
-mFF,tubuna,,male ego's father‘s father,,,,
-mFM,tubuna,,male ego's father's mother,,,,
-mMF,tubuna,,male ego's mother's father,,,,
-mMM,tubuna,,male ego's mother's mother,,,,
-fFF,tubuna,,female ego's father's father,,,,
-fFM,tubuna,,female ego's father's mother,,,,
-fMF,tubuna,,female ego's mother's father,,,,
-fMM,tubuna,,female ego's mother's mother,,,,
-mFeB,tamana,,male ego's father's older brother,,,,
-mFyB,tamana,,male ego's father's younger brother,,,,
-mFeZ,"edeyana, yayana",,male ego's father's older sister,,,,
-mFyZ,"edeyana, yayana",,male ego's father's younger sister,,,,
-mMeB,wana,,male ego's mother's older brother,,,,
-mMyB,wana,,male ego's mother's younger brother,,,,
-mMeZ,sinana,,male ego's mother's older sister,,,,
-mMyZ,sinana,,male ego's mother's younger sister,,,,
-fFeB,tamana,,female ego's father's older brother,,,,
-fFyB,tamana,,female ego's father's younger brother,,,,
-fFeZ,"edeyana, yayana",,female ego's father's older sister,,,,
-fFyZ,"edeyana, yayana",,female ego's father's younger sister,,,,
-fMeB,wana,,female ego's mother's older brother,,,,
-fMyB,wana,,female ego's mother's younger brother,,,,
-fMeZ,sinana,,female ego's mother's older sister,,,,
-fMyZ,sinana,,female ego's mother's younger sister,,,,
-mW,eyana,,male ego's wife,,,,
-fH,eyana,,female ego‘s husband,,,,
-mDH,bwasiyana,,male ego's daughter's husband,,,,
-fDH,bwasiyana,,female ego's daughter's husband,,,,
-mSW,lawana,,male ego's son's wife,,,,
-fSW,lawana,,female ego's son's wife,,,,
-mWF,bwasiyana,,male ego's wife's father,,,,
-mWM,lawana,,male ego's wife's mother,,,,
-mWZ,tasina,,male ego's wife's sister,,,,
-fHF,bwasiyana,,female ego's husband's father,,,,
-fHM,lawana,,female ego's husband's mother,,,,
-fHB,eyana,,female ego's husband's brother,,,,
-fHZ,tasina,,female ego's husband's sister,,,,
-mBW,tasina,,male ego's brother's wife,,,,
-fBW,tasina,,female ego's brother's wife,,,,
-mFBS,tasina,,male ego's father's brother's son,,,,
-mMBS,nibana,,male ego's mother's brother's son,,,,
-mMZS,nibana,,male ego's mother's sister's son,,,,
-mMBD,nibana,,male ego's mother's brother's daughter,,,,
-mMZD,nibana,,male ego's mother's sister's daughter,,,,
-fFBS,tasina,,female ego's father's brother's son,,,,
-fMBS,nibana,,female ego's mother's brother's son,,,,
-fMZS,nibana,,female ego's mother's sister's son,,,,
-fMBD,nibana,,female ego's mother's brother's daughter,,,,
-fMZD,nibana,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tasina",,"male ego's older brother",,,,
+"myB","tasina",,"male ego's younger brother",,,,
+"feB","tasina",,"female ego's older brother",,,,
+"fyB","tasina",,"female ego's younger brother",,,,
+"mF","tamana, ana toenatuna",,"male ego's father",,,,
+"mM","sinana, ana toenatuna",,"male ego's mother",,,,
+"fF","tamana, ana toenatuna",,"female ego's father",,,,
+"fM","sinana, ana toenatuna",,"female ego's mother",,,,
+"mS","natuna",,"male ego's son",,,,
+"fS","natuna",,"female ego's son",,,,
+"mD","natuna",,"male ego's daughter",,,,
+"fD","natuna",,"female ego's daughter",,,,
+"mSS","tubuna",,"male ego's son's son",,,,
+"mSD","tubuna",,"male ego's son's daughter",,,,
+"mDS","tubuna",,"male ego's daughter's son",,,,
+"mDD","tubuna",,"male ego's daughter's daughter",,,,
+"fSS","tubuna",,"female ego's son's son",,,,
+"fSD","tubuna",,"female ego's son's daughter",,,,
+"fDS","tubuna",,"female ego's daughter's son",,,,
+"fDD","tubuna",,"female ego's daugher's daughter",,,,
+"mFF","tubuna",,"male ego's father‘s father",,,,
+"mFM","tubuna",,"male ego's father's mother",,,,
+"mMF","tubuna",,"male ego's mother's father",,,,
+"mMM","tubuna",,"male ego's mother's mother",,,,
+"fFF","tubuna",,"female ego's father's father",,,,
+"fFM","tubuna",,"female ego's father's mother",,,,
+"fMF","tubuna",,"female ego's mother's father",,,,
+"fMM","tubuna",,"female ego's mother's mother",,,,
+"mFeB","tamana",,"male ego's father's older brother",,,,
+"mFyB","tamana",,"male ego's father's younger brother",,,,
+"mFeZ","edeyana, yayana",,"male ego's father's older sister",,,,
+"mFyZ","edeyana, yayana",,"male ego's father's younger sister",,,,
+"mMeB","wana",,"male ego's mother's older brother",,,,
+"mMyB","wana",,"male ego's mother's younger brother",,,,
+"mMeZ","sinana",,"male ego's mother's older sister",,,,
+"mMyZ","sinana",,"male ego's mother's younger sister",,,,
+"fFeB","tamana",,"female ego's father's older brother",,,,
+"fFyB","tamana",,"female ego's father's younger brother",,,,
+"fFeZ","edeyana, yayana",,"female ego's father's older sister",,,,
+"fFyZ","edeyana, yayana",,"female ego's father's younger sister",,,,
+"fMeB","wana",,"female ego's mother's older brother",,,,
+"fMyB","wana",,"female ego's mother's younger brother",,,,
+"fMeZ","sinana",,"female ego's mother's older sister",,,,
+"fMyZ","sinana",,"female ego's mother's younger sister",,,,
+"mW","eyana",,"male ego's wife",,,,
+"fH","eyana",,"female ego‘s husband",,,,
+"mDH","bwasiyana",,"male ego's daughter's husband",,,,
+"fDH","bwasiyana",,"female ego's daughter's husband",,,,
+"mSW","lawana",,"male ego's son's wife",,,,
+"fSW","lawana",,"female ego's son's wife",,,,
+"mWF","bwasiyana",,"male ego's wife's father",,,,
+"mWM","lawana",,"male ego's wife's mother",,,,
+"mWZ","tasina",,"male ego's wife's sister",,,,
+"fHF","bwasiyana",,"female ego's husband's father",,,,
+"fHM","lawana",,"female ego's husband's mother",,,,
+"fHB","eyana",,"female ego's husband's brother",,,,
+"fHZ","tasina",,"female ego's husband's sister",,,,
+"mBW","tasina",,"male ego's brother's wife",,,,
+"fBW","tasina",,"female ego's brother's wife",,,,
+"mFBS","tasina",,"male ego's father's brother's son",,,,
+"mMBS","nibana",,"male ego's mother's brother's son",,,,
+"mMZS","nibana",,"male ego's mother's sister's son",,,,
+"mMBD","nibana",,"male ego's mother's brother's daughter",,,,
+"mMZD","nibana",,"male ego's mother's sister's daughter",,,,
+"fFBS","tasina",,"female ego's father's brother's son",,,,
+"fMBS","nibana",,"female ego's mother's brother's son",,,,
+"fMZS","nibana",,"female ego's mother's sister's son",,,,
+"fMBD","nibana",,"female ego's mother's brother's daughter",,,,
+"fMZD","nibana",,"female ego's mother's sister's daughter",,,,
+"mFeBS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mMeBS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mMBeS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fMeBS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fMBeS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

@@ -1,80 +1,80 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ane,,male ego's older brother,,,,
-myB,nungan,,male ego's younger brother,,,,
-meZ,ane,,male ego's older sister,,,,
-myZ,nungan,,male ego's younger sister,,,,
-mF,deve,,male ego's father,,,,
-mM,ama,,male ego's mother,,,,
-fF,deve,,female ego's father,,,,
-fM,ama,,female ego's mother,,,,
-mS,toge,,male ego's son,,,,
-fS,toge,,female ego's son,,,,
-mD,merej,,male ego's daughter,,,,
-fD,merej,,female ego's daughter,,,,
-mSS,kaki,,male ego's son's son,,,,
-mSD,kaki,,male ego's son's daughter,,,,
-mDS,kaki,,male ego's daughter's son,,,,
-mDD,kaki,,male ego's daughter's daughter,,,,
-fSS,kaki,,female ego's son's son,,,,
-fSD,kaki,,female ego's son's daughter,,,,
-fDS,kaki,,female ego's daughter's son,,,,
-fDD,kaki,,female ego's daugher's daughter,,,,
-mFF,kaki,,male ego's father‘s father,,,,
-mFM,kaki,,male ego's father's mother,,,,
-mMF,kaki,,male ego's mother's father,,,,
-mMM,kaki,,male ego's mother's mother,,,,
-fFF,kaki,,female ego's father's father,,,,
-fFM,kaki,,female ego's father's mother,,,,
-fMF,kaki,,female ego's mother's father,,,,
-fMM,kaki,,female ego's mother's mother,,,,
-meBS,toge,,male ego's older brother's son,,,,
-myBS,tasor,,male ego's younger brother's son,,,,
-meZS,bava,,male ego's older sister's son,,,,
-myZS,bava,,male ego's younger sister's son,,,,
-meBD,merej,,male ego's older brother's daughter,,,,
-myBD,tasor,,male ego's younger brother's daughter,,,,
-meZD,bava,,male ego's older sister's daughter,,,,
-myZD,bava,,male ego's younger sister's daughter,,,,
-feZS,bava,,female ego's older sister's son,,,,
-fyZS,bava,,female ego's younger sister's son,,,,
-feZD,bava,,female ego's older sister's daughter,,,,
-fyZD,bava,,female ego's younger sister's daughter,,,,
-mFeB,tasor,,male ego's father's older brother,,,,
-mFyB,deve-toge,,male ego's father's younger brother,,,,
-mFeZ,mwidadum,,male ego's father's older sister,,,,
-mFyZ,mwidadum,,male ego's father's younger sister,,,,
-mMeB,bava,,male ego's mother's older brother,,,,
-mMyB,bava,,male ego's mother's younger brother,,,,
-mMeZ,bava,,male ego's mother's older sister,,,,
-mMyZ,bava,,male ego's mother's younger sister,,,,
-fFeB,tasor,,female ego's father's older brother,,,,
-mW,damave,,male ego's wife,,,,
-fDH,tamat,,female ego's daughter's husband,,,,
-mSW,kaki,,male ego's son's wife,,,,
-fSW,kaki,,female ego's son's wife,,,,
-mWF,tamat,,male ego's wife's father,,,,
-mWM,tamat,,male ego's wife's mother,,,,
-mWB,"kamat, ane-damave",,male ego's wife's brother,,,,ane-damave = elder brother's wife
-mWZ,kamat,,male ego's wife's sister,,,,
-fHF,kaki,,female ego's husband's father,,,,
-fHB,tasor,,female ego's husband's brother,,,,
-mZH,kamat,,male ego's sister's husband,,,,
-fZH,kamat,,female ego's sister's husband,,,,
-mFBeS,ane,,male ego‘s father‘s brother‘s older son,,,,
-mFByS,nungan,,male ego‘s father‘s brother‘s younger son,,,,
-mFBeD,ane,,male ego‘s father‘s brother‘s older daughter,,,,
-mFByD,nungan,,male ego‘s father‘s brother‘s younger daughter,,,,
-mMBeS,mwitei,,male ego‘s mother‘s brother‘s older son,,,,
-mMByS,mwitei,,male ego‘s mother‘s brother‘s younger son,,,,
-mMBeD,mwitei,,male ego‘s mother‘s brother‘s older daughter,,,,
-mMByD,mwitei,,male ego‘s mother‘s brother‘s younger daughter,,,,
-mMZeS,yakar,,male ego‘s mother‘s sisters‘s older son,,,,
-mMZyS,yakar,,male ego‘s mother‘s sisters‘s younger son,,,,
-mMZeD,yakar,,male ego‘s mother‘s sisters‘s older daughter,,,,
-mMZyD,yakar,,male ego‘s mother‘s sisters‘s younger daughter,,,,
-fFZeS,mwitei,,female ego‘s father‘s sisters‘s older son,,,,
-fFZyS,mwitei,,female ego‘s father‘s sisters‘s younger son,,,,
-fMBeS,mwitei,,female ego‘s mother‘s brother‘s older son,,,,
-fMByS,mwitei,,female ego‘s mother‘s brother‘s younger son,,,,
-fMZeS,yakar,,female ego‘s mother‘s sisters‘s older son,,,,
-fMZyS,yakar,,female ego‘s mother‘s sisters‘s younger son,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ane",,"male ego's older brother",,,,""
+"myB","nungan",,"male ego's younger brother",,,,""
+"meZ","ane",,"male ego's older sister",,,,""
+"myZ","nungan",,"male ego's younger sister",,,,""
+"mF","deve",,"male ego's father",,,,""
+"mM","ama",,"male ego's mother",,,,""
+"fF","deve",,"female ego's father",,,,""
+"fM","ama",,"female ego's mother",,,,""
+"mS","toge",,"male ego's son",,,,""
+"fS","toge",,"female ego's son",,,,""
+"mD","merej",,"male ego's daughter",,,,""
+"fD","merej",,"female ego's daughter",,,,""
+"mSS","kaki",,"male ego's son's son",,,,""
+"mSD","kaki",,"male ego's son's daughter",,,,""
+"mDS","kaki",,"male ego's daughter's son",,,,""
+"mDD","kaki",,"male ego's daughter's daughter",,,,""
+"fSS","kaki",,"female ego's son's son",,,,""
+"fSD","kaki",,"female ego's son's daughter",,,,""
+"fDS","kaki",,"female ego's daughter's son",,,,""
+"fDD","kaki",,"female ego's daugher's daughter",,,,""
+"mFF","kaki",,"male ego's father‘s father",,,,""
+"mFM","kaki",,"male ego's father's mother",,,,""
+"mMF","kaki",,"male ego's mother's father",,,,""
+"mMM","kaki",,"male ego's mother's mother",,,,""
+"fFF","kaki",,"female ego's father's father",,,,""
+"fFM","kaki",,"female ego's father's mother",,,,""
+"fMF","kaki",,"female ego's mother's father",,,,""
+"fMM","kaki",,"female ego's mother's mother",,,,""
+"meBS","toge",,"male ego's older brother's son",,,,""
+"myBS","tasor",,"male ego's younger brother's son",,,,""
+"meZS","bava",,"male ego's older sister's son",,,,""
+"myZS","bava",,"male ego's younger sister's son",,,,""
+"meBD","merej",,"male ego's older brother's daughter",,,,""
+"myBD","tasor",,"male ego's younger brother's daughter",,,,""
+"meZD","bava",,"male ego's older sister's daughter",,,,""
+"myZD","bava",,"male ego's younger sister's daughter",,,,""
+"feZS","bava",,"female ego's older sister's son",,,,""
+"fyZS","bava",,"female ego's younger sister's son",,,,""
+"feZD","bava",,"female ego's older sister's daughter",,,,""
+"fyZD","bava",,"female ego's younger sister's daughter",,,,""
+"mFeB","tasor",,"male ego's father's older brother",,,,""
+"mFyB","deve-toge",,"male ego's father's younger brother",,,,""
+"mFeZ","mwidadum",,"male ego's father's older sister",,,,""
+"mFyZ","mwidadum",,"male ego's father's younger sister",,,,""
+"mMeB","bava",,"male ego's mother's older brother",,,,""
+"mMyB","bava",,"male ego's mother's younger brother",,,,""
+"mMeZ","bava",,"male ego's mother's older sister",,,,""
+"mMyZ","bava",,"male ego's mother's younger sister",,,,""
+"fFeB","tasor",,"female ego's father's older brother",,,,""
+"mW","damave",,"male ego's wife",,,,""
+"fDH","tamat",,"female ego's daughter's husband",,,,""
+"mSW","kaki",,"male ego's son's wife",,,,""
+"fSW","kaki",,"female ego's son's wife",,,,""
+"mWF","tamat",,"male ego's wife's father",,,,""
+"mWM","tamat",,"male ego's wife's mother",,,,""
+"mWB","kamat, ane-damave",,"male ego's wife's brother",,,,"ane-damave = elder brother's wife"
+"mWZ","kamat",,"male ego's wife's sister",,,,""
+"fHF","kaki",,"female ego's husband's father",,,,""
+"fHB","tasor",,"female ego's husband's brother",,,,""
+"mZH","kamat",,"male ego's sister's husband",,,,""
+"fZH","kamat",,"female ego's sister's husband",,,,""
+"mFBeS","ane",,"male ego‘s father‘s brother‘s older son",,,,""
+"mFByS","nungan",,"male ego‘s father‘s brother‘s younger son",,,,""
+"mFBeD","ane",,"male ego‘s father‘s brother‘s older daughter",,,,""
+"mFByD","nungan",,"male ego‘s father‘s brother‘s younger daughter",,,,""
+"mMBeS","mwitei",,"male ego‘s mother‘s brother‘s older son",,,,""
+"mMByS","mwitei",,"male ego‘s mother‘s brother‘s younger son",,,,""
+"mMBeD","mwitei",,"male ego‘s mother‘s brother‘s older daughter",,,,""
+"mMByD","mwitei",,"male ego‘s mother‘s brother‘s younger daughter",,,,""
+"mMZeS","yakar",,"male ego‘s mother‘s sisters‘s older son",,,,""
+"mMZyS","yakar",,"male ego‘s mother‘s sisters‘s younger son",,,,""
+"mMZeD","yakar",,"male ego‘s mother‘s sisters‘s older daughter",,,,""
+"mMZyD","yakar",,"male ego‘s mother‘s sisters‘s younger daughter",,,,""
+"fFZeS","mwitei",,"female ego‘s father‘s sisters‘s older son",,,,""
+"fFZyS","mwitei",,"female ego‘s father‘s sisters‘s younger son",,,,""
+"fMBeS","mwitei",,"female ego‘s mother‘s brother‘s older son",,,,""
+"fMByS","mwitei",,"female ego‘s mother‘s brother‘s younger son",,,,""
+"fMZeS","yakar",,"female ego‘s mother‘s sisters‘s older son",,,,""
+"fMZyS","yakar",,"female ego‘s mother‘s sisters‘s younger son",,,,""

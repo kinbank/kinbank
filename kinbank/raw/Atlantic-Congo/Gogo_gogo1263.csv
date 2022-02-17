@@ -1,196 +1,204 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mZ,lumbu,,,,AC84(97),last_polyglotta_1885,
-mF,soga,,,,AC84(97),last_polyglotta_1885,
-mM,yaya,,,nyina,AC84(97),last_polyglotta_1885,
-mC,mwana,,,,AC84(97),last_polyglotta_1885,
-mS,mdodo mulume,,,mwana,AC84(97),last_polyglotta_1885,
-mD,mdodo mchekulu,,,mwana,AC84(97),last_polyglotta_1885,
-mW,muke,,,,AC84(97),last_polyglotta_1885,
-fB,lumbu,,,,AC84(97),last_polyglotta_1885,
-fF,soga,,,,AC84(97),last_polyglotta_1885,
-fM,yaya,,,nyina,AC84(97),last_polyglotta_1885,
-fC,mwana,,,,AC84(97),last_polyglotta_1885,
-fS,mdodo mulume,,,mwana,AC84(97),last_polyglotta_1885,
-fD,mdodo mchekulu,,,mwana,AC84(97),last_polyglotta_1885,
-fW,muke,,,,AC84(97),last_polyglotta_1885,
-meB,muwaha,,,,AC86(326),rigby_cattle_1969,
-myB,munakwetu,,,,AC86(326),rigby_cattle_1969,
-mFF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
-mFM,mama,,,,AC86(327),rigby_cattle_1969,
-mMF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
-mMM,mama,,,,AC86(327),rigby_cattle_1969,
-mSS,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-mSD,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-mDS,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-mDD,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-mFZ,nyinahenga,,,,AC86(327),rigby_cattle_1969,
-mMB,kuku,,,,AC86(327),rigby_cattle_1969,
-mFeB,baba,,,,AC86(327),rigby_cattle_1969,
-mFyB,baba,,,,AC86(327),rigby_cattle_1969,
-mMeZ,yaya,,,,AC86(327),rigby_cattle_1969,
-mMyZ,yaya,,,,AC86(327),rigby_cattle_1969,
-mBS,mwana,,,,AC86(327),rigby_cattle_1969,
-mBD,mwana,,,,AC86(327),rigby_cattle_1969,
-mZS,bulayi,,,,AC86(327),rigby_cattle_1969,
-mZD,bulayi,,,,AC86(327),rigby_cattle_1969,
-mFZD,lumbu,,,,AC86(326),rigby_cattle_1969,
-mFZD,muhizi,,,,AC86(326),rigby_cattle_1969,
-mFBD,lumbu,,,,AC86(326),rigby_cattle_1969,
-mMBD,lumbu,,,,AC86(326),rigby_cattle_1969,
-mMBD,muhizi,,,,AC86(326),rigby_cattle_1969,
-mMZD,lumbu,,,,AC86(326),rigby_cattle_1969,
-mFZS,muhizi,,,,AC86(326),rigby_cattle_1969,
-mMBS,muhizi,,,,AC86(326),rigby_cattle_1969,
-mFeBS,alaba,,,,AC86(326),rigby_cattle_1969,when joking
-mFyBS,alaba,,,,AC86(326),rigby_cattle_1969,when joking
-mMeZS,alayo,,,,AC86(326),rigby_cattle_1969,when joking
-mMyZS,alayo,,,,AC86(326),rigby_cattle_1969,when joking
-mH,mulume,,,,AC86(328),rigby_cattle_1969,
-mW,mucekulu,,,,AC86(328),rigby_cattle_1969,
-mHF,wanyamhalanye,,,,AC86(328),rigby_cattle_1969,
-mHM,yaya,,,,AC86(328),rigby_cattle_1969,
-mWF,mukwe,,,,AC86(328),rigby_cattle_1969,
-mWM,wadala,,,,AC86(328),rigby_cattle_1969,
-mBW,mucekulu,,,,AC86(328),rigby_cattle_1969,
-mZH,mulamu,,,,AC86(328),rigby_cattle_1969,
-mWB,mulamu,,,,AC86(328),rigby_cattle_1969,
-mWZ,mulamu,,,,AC86(328),rigby_cattle_1969,
-mHB,mulume,,,,AC86(328),rigby_cattle_1969,
-mHZ,mulamu,,,,AC86(328),rigby_cattle_1969,
-mco-W,musanji,,,,AC86(328),rigby_cattle_1969,
-mFW(notM),yaya,,,,AC86(327),rigby_cattle_1969,
-mSW,wananye,,,,AC86(328),rigby_cattle_1969,w.s. just uses name
-mSWM,civwele,,,,AC86(328),rigby_cattle_1969,
-mSWF,civwele,,,,AC86(328),rigby_cattle_1969,
-mDH,wandawo,,,"walaji, wangishu",AC86(328),rigby_cattle_1969,
-mDHM,civwele,,,,AC86(328),rigby_cattle_1969,
-mDHF,civwele,,,,AC86(328),rigby_cattle_1969,
-mFZH,baba,,,,AC86(327),rigby_cattle_1969,
-mFBW,yaya,,,,AC86(327),rigby_cattle_1969,
-mMZH,aba,,,,AC86(327),rigby_cattle_1969,
-mMBW,mama,,,,AC86(327),rigby_cattle_1969,
-mFeZ,nyinahenga,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-mFyZ,nyinahenga,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-mMeB,kuku,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-mMyB,kuku,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-meBS,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-myBS,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-meBD,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-myBD,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-meZS,bulayi,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-myZS,bulayi,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-meZD,bulayi,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-myZD,bulayi,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-mFeZS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFyZS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFeZD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFeZD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFyZD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFyZD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMeBS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMyBS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMeBD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMeBD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMyBD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMyBD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFZeS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFZyS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFBeD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFByD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFZeD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFZeD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFZyD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mFZyD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMBeS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMByS,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMBeD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMBeD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMByD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMByD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMZeD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-mMZyD,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-feZ,muwaha,,,,AC86(326),rigby_cattle_1969,
-fyZ,munakwetu,,,,AC86(326),rigby_cattle_1969,
-fFF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
-fFM,mama,,,,AC86(327),rigby_cattle_1969,
-fMF,kuku,,,kukuye,AC86(327),rigby_cattle_1969,
-fMM,mama,,,,AC86(327),rigby_cattle_1969,
-fSS,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-fSD,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-fDS,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-fDD,mwizukulu,,,,AC86(327),rigby_cattle_1969,
-fMB,kuku,,,,AC86(327),rigby_cattle_1969,
-fFeB,baba,,,,AC86(327),rigby_cattle_1969,
-fFyB,baba,,,,AC86(327),rigby_cattle_1969,
-fMeZ,yaya,,,,AC86(327),rigby_cattle_1969,
-fMyZ,yaya,,,,AC86(327),rigby_cattle_1969,
-fBS,mwana,,,,AC86(327),rigby_cattle_1969,
-fBD,mwana,,,,AC86(327),rigby_cattle_1969,
-fZS,mwana,,,,AC86(327),rigby_cattle_1969,
-fZD,mwana,,,,AC86(327),rigby_cattle_1969,
-fFZD,muhizi,,,,AC86(326),rigby_cattle_1969,
-fMBD,muhizi,,,,AC86(326),rigby_cattle_1969,
-fMBD,muhizi,,,,AC86(326),rigby_cattle_1969,
-fFBS,lumbu,,,,AC86(326),rigby_cattle_1969,
-fFZS,lumbu,,,,AC86(326),rigby_cattle_1969,
-fMBS,lumbu,,,,AC86(326),rigby_cattle_1969,
-fMZS,lumbu,,,,AC86(326),rigby_cattle_1969,
-fFeBD,alaba,,,,AC86(326),rigby_cattle_1969,when joking
-fFyBD,alaba,,,,AC86(326),rigby_cattle_1969,when joking
-fMeZD,alayo,,,,AC86(326),rigby_cattle_1969,when joking
-fMyZD,alayo,,,,AC86(326),rigby_cattle_1969,when joking
-fH,mulume,,,,AC86(328),rigby_cattle_1969,
-fW,mucekulu,,,,AC86(328),rigby_cattle_1969,
-fHF,wanyamhalanye,,,,AC86(328),rigby_cattle_1969,
-fHM,yaya,,,,AC86(328),rigby_cattle_1969,
-fWF,mukwe,,,,AC86(328),rigby_cattle_1969,
-fWM,wadala,,,,AC86(328),rigby_cattle_1969,
-fBW,mucekulu,,,,AC86(328),rigby_cattle_1969,
-fZH,mulamu,,,,AC86(328),rigby_cattle_1969,
-fWB,mulamu,,,,AC86(328),rigby_cattle_1969,
-fWZ,mulamu,,,,AC86(328),rigby_cattle_1969,
-fHZ,mulamu,,,,AC86(328),rigby_cattle_1969,
-fco-W,musanji,,,,AC86(328),rigby_cattle_1969,
-fSWM,civwele,,,,AC86(328),rigby_cattle_1969,
-fSWF,civwele,,,,AC86(328),rigby_cattle_1969,
-fDH,wananye,,,"walaji, wangishu",AC86(328),rigby_cattle_1969,
-fDHM,civwele,,,,AC86(328),rigby_cattle_1969,
-fDHF,civwele,,,,AC86(328),rigby_cattle_1969,
-fFZH,baba,,,,AC86(327),rigby_cattle_1969,
-fFBW,yaya,,,,AC86(327),rigby_cattle_1969,
-fMZH,aba,,,,AC86(327),rigby_cattle_1969,
-fMBW,mama,,,,AC86(327),rigby_cattle_1969,
-fMeB,kuku,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-fMyB,kuku,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-feBS,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-fyBS,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-feBD,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-fyBD,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-feZS,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-fyZS,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-feZD,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-fyZD,mwana,,,,AC86(327),rigby_cattle_1969,Inferred; NA
-fFeZS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFyZS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFeZD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFyZD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMeBS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMyBS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMeBD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMeBD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMyBD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMyBD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFBeS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFByS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFZeS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFZyS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFZeD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fFZyD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMBeS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMByS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMZeS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMZyS,lumbu,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMBeD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMBeD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMByD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
-fMByD,muhizi,,,,AC86(326),rigby_cattle_1969,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mZ","lumbu",,,"","AC84(97)","last_polyglotta_1885",""
+"mF","soga",,,"","AC84(97)","last_polyglotta_1885",""
+"mM","yaya",,,"nyina","AC84(97)","last_polyglotta_1885",""
+"mC","mwana",,,"","AC84(97)","last_polyglotta_1885",""
+"mS","mdodo mulume",,,"mwana","AC84(97)","last_polyglotta_1885",""
+"mD","mdodo mchekulu",,,"mwana","AC84(97)","last_polyglotta_1885",""
+"mW","muke",,,"","AC84(97)","last_polyglotta_1885",""
+"fB","lumbu",,,"","AC84(97)","last_polyglotta_1885",""
+"fF","soga",,,"","AC84(97)","last_polyglotta_1885",""
+"fM","yaya",,,"nyina","AC84(97)","last_polyglotta_1885",""
+"fC","mwana",,,"","AC84(97)","last_polyglotta_1885",""
+"fS","mdodo mulume",,,"mwana","AC84(97)","last_polyglotta_1885",""
+"fD","mdodo mchekulu",,,"mwana","AC84(97)","last_polyglotta_1885",""
+"fW","muke",,,"","AC84(97)","last_polyglotta_1885",""
+"meB","muwaha",,,"","AC86(326)","rigby_cattle_1969",""
+"myB","munakwetu",,,"","AC86(326)","rigby_cattle_1969",""
+"mFF","kuku",,,"kukuye","AC86(327)","rigby_cattle_1969",""
+"mFM","mama",,,"","AC86(327)","rigby_cattle_1969",""
+"mMF","kuku",,,"kukuye","AC86(327)","rigby_cattle_1969",""
+"mMM","mama",,,"","AC86(327)","rigby_cattle_1969",""
+"mSS","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"mSD","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"mDS","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"mDD","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"mFZ","nyinahenga",,,"","AC86(327)","rigby_cattle_1969",""
+"mMB","kuku",,,"","AC86(327)","rigby_cattle_1969",""
+"mFeB","baba",,,"","AC86(327)","rigby_cattle_1969",""
+"mFyB","baba",,,"","AC86(327)","rigby_cattle_1969",""
+"mMeZ","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"mMyZ","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"mBS","mwana",,,"","AC86(327)","rigby_cattle_1969",""
+"mBD","mwana",,,"","AC86(327)","rigby_cattle_1969",""
+"mZS","bulayi",,,"","AC86(327)","rigby_cattle_1969",""
+"mZD","bulayi",,,"","AC86(327)","rigby_cattle_1969",""
+"mFZD","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"mFZD","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"mFBD","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"mMBD","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"mMBD","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"mMZD","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"mFZS","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"mMBS","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"mFeBS","alaba",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"mFyBS","alaba",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"mMeZS","alayo",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"mMyZS","alayo",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"mH","mulume",,,"","AC86(328)","rigby_cattle_1969",""
+"mW","mucekulu",,,"","AC86(328)","rigby_cattle_1969",""
+"mHF","wanyamhalanye",,,"","AC86(328)","rigby_cattle_1969",""
+"mHM","yaya",,,"","AC86(328)","rigby_cattle_1969",""
+"mWF","mukwe",,,"","AC86(328)","rigby_cattle_1969",""
+"mWM","wadala",,,"","AC86(328)","rigby_cattle_1969",""
+"mBW","mucekulu",,,"","AC86(328)","rigby_cattle_1969",""
+"mZH","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"mWB","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"mWZ","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"mHB","mulume",,,"","AC86(328)","rigby_cattle_1969",""
+"mHZ","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"mco-W","musanji",,,"","AC86(328)","rigby_cattle_1969",""
+"mFW(notM)","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"mSW","wananye",,,"","AC86(328)","rigby_cattle_1969","w.s. just uses name"
+"mSWM","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"mSWF","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"mDH","wandawo",,,"walaji, wangishu","AC86(328)","rigby_cattle_1969",""
+"mDHM","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"mDHF","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"mFZH","baba",,,"","AC86(327)","rigby_cattle_1969",""
+"mFBW","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"mMZH","aba",,,"","AC86(327)","rigby_cattle_1969",""
+"mMBW","mama",,,"","AC86(327)","rigby_cattle_1969",""
+"mFeZ","nyinahenga",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"mFyZ","nyinahenga",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"mMeB","kuku",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"mMyB","kuku",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"meBS","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"myBS","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"meBD","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"myBD","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"meZS","bulayi",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"myZS","bulayi",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"meZD","bulayi",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"myZD","bulayi",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"mFeZS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFyZS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFeZD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFeZD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFyZD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFyZD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMeBS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMyBS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMeBD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMeBD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMyBD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMyBD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFZeS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFZyS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFBeD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFByD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFZeD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFZeD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFZyD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFZyD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMBeS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMByS","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMBeD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMBeD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMByD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMByD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMZeD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mMZyD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"feZ","muwaha",,,"","AC86(326)","rigby_cattle_1969",""
+"fyZ","munakwetu",,,"","AC86(326)","rigby_cattle_1969",""
+"fFF","kuku",,,"kukuye","AC86(327)","rigby_cattle_1969",""
+"fFM","mama",,,"","AC86(327)","rigby_cattle_1969",""
+"fMF","kuku",,,"kukuye","AC86(327)","rigby_cattle_1969",""
+"fMM","mama",,,"","AC86(327)","rigby_cattle_1969",""
+"fSS","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"fSD","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"fDS","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"fDD","mwizukulu",,,"","AC86(327)","rigby_cattle_1969",""
+"fMB","kuku",,,"","AC86(327)","rigby_cattle_1969",""
+"fFeB","baba",,,"","AC86(327)","rigby_cattle_1969",""
+"fFyB","baba",,,"","AC86(327)","rigby_cattle_1969",""
+"fMeZ","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"fMyZ","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"fBS","mwana",,,"","AC86(327)","rigby_cattle_1969",""
+"fBD","mwana",,,"","AC86(327)","rigby_cattle_1969",""
+"fZS","mwana",,,"","AC86(327)","rigby_cattle_1969",""
+"fZD","mwana",,,"","AC86(327)","rigby_cattle_1969",""
+"fFZD","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"fMBD","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"fMBD","muhizi",,,"","AC86(326)","rigby_cattle_1969",""
+"fFBS","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"fFZS","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"fMBS","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"fMZS","lumbu",,,"","AC86(326)","rigby_cattle_1969",""
+"fFeBD","alaba",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"fFyBD","alaba",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"fMeZD","alayo",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"fMyZD","alayo",,,"","AC86(326)","rigby_cattle_1969","when joking"
+"fH","mulume",,,"","AC86(328)","rigby_cattle_1969",""
+"fW","mucekulu",,,"","AC86(328)","rigby_cattle_1969",""
+"fHF","wanyamhalanye",,,"","AC86(328)","rigby_cattle_1969",""
+"fHM","yaya",,,"","AC86(328)","rigby_cattle_1969",""
+"fWF","mukwe",,,"","AC86(328)","rigby_cattle_1969",""
+"fWM","wadala",,,"","AC86(328)","rigby_cattle_1969",""
+"fBW","mucekulu",,,"","AC86(328)","rigby_cattle_1969",""
+"fZH","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"fWB","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"fWZ","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"fHZ","mulamu",,,"","AC86(328)","rigby_cattle_1969",""
+"fco-W","musanji",,,"","AC86(328)","rigby_cattle_1969",""
+"fSWM","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"fSWF","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"fDH","wananye",,,"walaji, wangishu","AC86(328)","rigby_cattle_1969",""
+"fDHM","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"fDHF","civwele",,,"","AC86(328)","rigby_cattle_1969",""
+"fFZH","baba",,,"","AC86(327)","rigby_cattle_1969",""
+"fFBW","yaya",,,"","AC86(327)","rigby_cattle_1969",""
+"fMZH","aba",,,"","AC86(327)","rigby_cattle_1969",""
+"fMBW","mama",,,"","AC86(327)","rigby_cattle_1969",""
+"fMeB","kuku",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"fMyB","kuku",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"feBS","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"fyBS","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"feBD","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"fyBD","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"feZS","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"fyZS","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"feZD","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"fyZD","mwana",,,"","AC86(327)","rigby_cattle_1969","Inferred; NA"
+"fFeZS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFyZS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFeZD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFyZD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMeBS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMyBS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMeBD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMeBD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMyBD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMyBD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFBeS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFByS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFZeS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFZyS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFZeD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fFZyD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMBeS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMByS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMZeS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMZyS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMBeD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMBeD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMByD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"fMByD","muhizi",,,"","AC86(326)","rigby_cattle_1969","Inferred; NA"
+"mFeBD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"mFyBD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"mMeZD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"mMyZD","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"fFeBS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"fFyBS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"fMeZS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "
+"fMyZS","lumbu",,,"","AC86(326)","rigby_cattle_1969","Inferred; "

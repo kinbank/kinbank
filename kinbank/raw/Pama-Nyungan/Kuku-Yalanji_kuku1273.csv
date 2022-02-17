@@ -1,89 +1,153 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,yaba,,male ego's older brother,,,,
-myB,yabaju,,male ego's younger brother,,,,
-feB,yaba,,female ego's older brother,,,,
-fyB,yabaju,,female ego's younger brother,,,,
-meZ,babarr,,male ego's older sister,,,,
-myZ,jinkurr,,male ego's younger sister,,,,
-feZ,babarr,,female ego's older sister,,,,
-fyZ,jinkurr,,female ego's younger sister,,,,
-mF,nganjan,,male ego's father,,,,
-mM,ngamu,,male ego's mother,,,,
-fF,nganjan,,female ego's father,,,,
-fM,ngamu,,female ego's mother,,,,
-mS,kangkal,,male ego's son,,,,
-fS,kangkal,,female ego's son,,,,
-mD,kangkal,,male ego's daughter,,,,
-fD,kangkal,,female ego's daughter,,,,
-mSS,jija,,male ego's son's son,,,,
-mSD,jija,,male ego's son's daughter,,,,
-mDS,kaminjarr,,male ego's daughter's son,,,,
-mDD,kaminjarr,,male ego's daughter's daughter,,,,
-fSS,jija,,female ego's son's son,,,,
-fSD,jija,,female ego's son's daughter,,,,
-fDS,kaminjarr,,female ego's daughter's son,,,,
-fDD,kaminjarr,,female ego's daugher's daughter,,,,
-mFF,kami,,male ego's father‘s father,,,,
-mFM,babi,,male ego's father's mother,,,,
-mMF,ngaji,,male ego's mother's father,,,,
-mMM,kami,,male ego's mother's mother,,,,
-fFF,kami,,female ego's father's father,,,,
-fFM,babi,,female ego's father's mother,,,,
-fMF,ngaji,,female ego's mother's father,,,,
-fMM,kami,,female ego's mother's mother,,,,
-meBS,"manda, juway",,male ego's older brother's son,,,,
-myBS,"manda, juway",,male ego's younger brother's son,,,,
-meZS,"manda, juway",,male ego's older sister's son,,,,
-myZS,"manda, juway",,male ego's younger sister's son,,,,
-meBD,"manda, ngujurr",,male ego's older brother's daughter,,,,
-myBD,"manda, ngujurr",,male ego's younger brother's daughter,,,,
-meZD,"manda, ngujurr",,male ego's older sister's daughter,,,,
-myZD,"manda, ngujurr",,male ego's younger sister's daughter,,,,
-feBS,"manda, juway",,female ego's older brother's son,,,,
-fyBS,"manda, juway",,female ego's younger brother's son,,,,
-feZS,"manda, juway",,female ego's older sister's son,,,,
-fyZS,"manda, juway",,female ego's younger sister's son,,,,
-feBD,"manda, ngujurr",,female ego's older brother's daughter,,,,
-fyBD,"manda, ngujurr",,female ego's younger brother's daughter,,,,
-feZD,"manda, ngujurr",,female ego's older sister's daughter,,,,
-fyZD,"manda, ngujurr",,female ego's younger sister's daughter,,,,
-mFeB,nganjan,,male ego's father's older brother,,,,
-mFyB,nganjan,,male ego's father's younger brother,,,,
-mFeZ,"bimakay, bimay, mukay",,male ego's father's older sister,,,,
-mFyZ,"bimakay, bimay, mukay",,male ego's father's younger sister,,,,
-mMeB,kalnga,,male ego's mother's older brother,,,,
-mMyB,kalnga,,male ego's mother's younger brother,,,,
-mMeZ,"bimakay, bimay, mukay, ngamu",,male ego's mother's older sister,,,,
-mMyZ,"bimakay, bimay, mukay, ngamu",,male ego's mother's younger sister,,,,
-fFeB,nganjan,,female ego's father's older brother,,,,
-fFyB,nganjan,,female ego's father's younger brother,,,,
-fFeZ,"bimakay, bimay, mukay",,female ego's father's older sister,,,,
-fFyZ,"bimakay, bimay, mukay",,female ego's father's younger sister,,,,
-fMeB,kalnga,,female ego's mother's older brother,,,,
-fMyB,kalnga,,female ego's mother's younger brother,,,,
-fMeZ,"bimakay, bimay, mukay, ngamu",,female ego's mother's older sister,,,,
-fMyZ,"bimakay, bimay, mukay, ngamu",,female ego's mother's younger sister,,,,
-mW,"manyarr, biwar, kuban",,male ego's wife,,,,
-fH,dunyu,,female ego‘s husband,,,,
-mSW,"kujiway, buykuji",,male ego's son's wife,,,,
-fSW,"kujiway, buykuji",,female ego's son's wife,,,,
-mWF,ngalayin,,male ego's wife's father,,,,
-mWM,biwul,,male ego's wife's mother,,,,
-fHF,ngalayin,,female ego's husband's father,,,,
-fHM,biwul,,female ego's husband's mother,,,,
-mFBS,bangunji,,male ego's father's brother's son,,,,
-mFZS,kambanmu,,male ego's father's sister's son,,,,
-mMBS,kambanmu,,male ego's mother's brother's son,,,,
-mMZS,bangunji,,male ego's mother's sister's son,,,,
-mFBD,bangunji,,male ego's father's brother's daughter,,,,
-mFZD,kambanmu,,male ego's father's sister's daughter,,,,
-mMBD,kambanmu,,male ego's mother's brother's daughter,,,,
-mMZD,bangunji,,male ego's mother's sister's daughter,,,,
-fFBS,bangunji,,female ego's father's brother's son,,,,
-fFZS,kambanmu,,female ego's father's sister's son,,,,
-fMBS,kambanmu,,female ego's mother's brother's son,,,,
-fMZS,bangunji,,female ego's mother's sister's son,,,,
-fFBD,bangunji,,female ego's father's brother's daughter,,,,
-fFZD,kambanmu,,female ego's father's sister's daughter,,,,
-fMBD,kambanmu,,female ego's mother's brother's daughter,,,,
-fMZD,bangunji,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","yaba",,"male ego's older brother",,,,
+"myB","yabaju",,"male ego's younger brother",,,,
+"feB","yaba",,"female ego's older brother",,,,
+"fyB","yabaju",,"female ego's younger brother",,,,
+"meZ","babarr",,"male ego's older sister",,,,
+"myZ","jinkurr",,"male ego's younger sister",,,,
+"feZ","babarr",,"female ego's older sister",,,,
+"fyZ","jinkurr",,"female ego's younger sister",,,,
+"mF","nganjan",,"male ego's father",,,,
+"mM","ngamu",,"male ego's mother",,,,
+"fF","nganjan",,"female ego's father",,,,
+"fM","ngamu",,"female ego's mother",,,,
+"mS","kangkal",,"male ego's son",,,,
+"fS","kangkal",,"female ego's son",,,,
+"mD","kangkal",,"male ego's daughter",,,,
+"fD","kangkal",,"female ego's daughter",,,,
+"mSS","jija",,"male ego's son's son",,,,
+"mSD","jija",,"male ego's son's daughter",,,,
+"mDS","kaminjarr",,"male ego's daughter's son",,,,
+"mDD","kaminjarr",,"male ego's daughter's daughter",,,,
+"fSS","jija",,"female ego's son's son",,,,
+"fSD","jija",,"female ego's son's daughter",,,,
+"fDS","kaminjarr",,"female ego's daughter's son",,,,
+"fDD","kaminjarr",,"female ego's daugher's daughter",,,,
+"mFF","kami",,"male ego's father‘s father",,,,
+"mFM","babi",,"male ego's father's mother",,,,
+"mMF","ngaji",,"male ego's mother's father",,,,
+"mMM","kami",,"male ego's mother's mother",,,,
+"fFF","kami",,"female ego's father's father",,,,
+"fFM","babi",,"female ego's father's mother",,,,
+"fMF","ngaji",,"female ego's mother's father",,,,
+"fMM","kami",,"female ego's mother's mother",,,,
+"meBS","manda, juway",,"male ego's older brother's son",,,,
+"myBS","manda, juway",,"male ego's younger brother's son",,,,
+"meZS","manda, juway",,"male ego's older sister's son",,,,
+"myZS","manda, juway",,"male ego's younger sister's son",,,,
+"meBD","manda, ngujurr",,"male ego's older brother's daughter",,,,
+"myBD","manda, ngujurr",,"male ego's younger brother's daughter",,,,
+"meZD","manda, ngujurr",,"male ego's older sister's daughter",,,,
+"myZD","manda, ngujurr",,"male ego's younger sister's daughter",,,,
+"feBS","manda, juway",,"female ego's older brother's son",,,,
+"fyBS","manda, juway",,"female ego's younger brother's son",,,,
+"feZS","manda, juway",,"female ego's older sister's son",,,,
+"fyZS","manda, juway",,"female ego's younger sister's son",,,,
+"feBD","manda, ngujurr",,"female ego's older brother's daughter",,,,
+"fyBD","manda, ngujurr",,"female ego's younger brother's daughter",,,,
+"feZD","manda, ngujurr",,"female ego's older sister's daughter",,,,
+"fyZD","manda, ngujurr",,"female ego's younger sister's daughter",,,,
+"mFeB","nganjan",,"male ego's father's older brother",,,,
+"mFyB","nganjan",,"male ego's father's younger brother",,,,
+"mFeZ","bimakay, bimay, mukay",,"male ego's father's older sister",,,,
+"mFyZ","bimakay, bimay, mukay",,"male ego's father's younger sister",,,,
+"mMeB","kalnga",,"male ego's mother's older brother",,,,
+"mMyB","kalnga",,"male ego's mother's younger brother",,,,
+"mMeZ","bimakay, bimay, mukay, ngamu",,"male ego's mother's older sister",,,,
+"mMyZ","bimakay, bimay, mukay, ngamu",,"male ego's mother's younger sister",,,,
+"fFeB","nganjan",,"female ego's father's older brother",,,,
+"fFyB","nganjan",,"female ego's father's younger brother",,,,
+"fFeZ","bimakay, bimay, mukay",,"female ego's father's older sister",,,,
+"fFyZ","bimakay, bimay, mukay",,"female ego's father's younger sister",,,,
+"fMeB","kalnga",,"female ego's mother's older brother",,,,
+"fMyB","kalnga",,"female ego's mother's younger brother",,,,
+"fMeZ","bimakay, bimay, mukay, ngamu",,"female ego's mother's older sister",,,,
+"fMyZ","bimakay, bimay, mukay, ngamu",,"female ego's mother's younger sister",,,,
+"mW","manyarr, biwar, kuban",,"male ego's wife",,,,
+"fH","dunyu",,"female ego‘s husband",,,,
+"mSW","kujiway, buykuji",,"male ego's son's wife",,,,
+"fSW","kujiway, buykuji",,"female ego's son's wife",,,,
+"mWF","ngalayin",,"male ego's wife's father",,,,
+"mWM","biwul",,"male ego's wife's mother",,,,
+"fHF","ngalayin",,"female ego's husband's father",,,,
+"fHM","biwul",,"female ego's husband's mother",,,,
+"mFBS","bangunji",,"male ego's father's brother's son",,,,
+"mFZS","kambanmu",,"male ego's father's sister's son",,,,
+"mMBS","kambanmu",,"male ego's mother's brother's son",,,,
+"mMZS","bangunji",,"male ego's mother's sister's son",,,,
+"mFBD","bangunji",,"male ego's father's brother's daughter",,,,
+"mFZD","kambanmu",,"male ego's father's sister's daughter",,,,
+"mMBD","kambanmu",,"male ego's mother's brother's daughter",,,,
+"mMZD","bangunji",,"male ego's mother's sister's daughter",,,,
+"fFBS","bangunji",,"female ego's father's brother's son",,,,
+"fFZS","kambanmu",,"female ego's father's sister's son",,,,
+"fMBS","kambanmu",,"female ego's mother's brother's son",,,,
+"fMZS","bangunji",,"female ego's mother's sister's son",,,,
+"fFBD","bangunji",,"female ego's father's brother's daughter",,,,
+"fFZD","kambanmu",,"female ego's father's sister's daughter",,,,
+"fMBD","kambanmu",,"female ego's mother's brother's daughter",,,,
+"fMZD","bangunji",,"female ego's mother's sister's daughter",,,,
+"mFeBS","bangunji",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","bangunji",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","kambanmu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","kambanmu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","bangunji",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","bangunji",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","kambanmu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","kambanmu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","kambanmu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","kambanmu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","bangunji",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","bangunji",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","kambanmu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","kambanmu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","bangunji",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","bangunji",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","bangunji",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","bangunji",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","kambanmu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","kambanmu",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","bangunji",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","bangunji",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","kambanmu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","kambanmu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","kambanmu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","kambanmu",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","bangunji",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","bangunji",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","kambanmu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","kambanmu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","bangunji",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","bangunji",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","bangunji",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","bangunji",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","kambanmu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","kambanmu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","bangunji",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","bangunji",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","kambanmu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","kambanmu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","kambanmu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","kambanmu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","bangunji",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","bangunji",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","kambanmu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","kambanmu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","bangunji",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","bangunji",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","bangunji",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","bangunji",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","kambanmu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","kambanmu",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","bangunji",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","bangunji",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","kambanmu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","kambanmu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","kambanmu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","kambanmu",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","bangunji",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","bangunji",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","kambanmu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","kambanmu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","bangunji",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","bangunji",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

@@ -1,215 +1,215 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mG,0,,male speaker's sibling,,,,Kinship charts appear on non-numbered pullout pages.
-mB,0,,male speaker's brother,,,,
-mZ,inhýt,,male speaker's sister,,TP008(I),,
-meB,itatiý,,male speaker's elder brother,,TP008(I),,/y/ is the same French /u/
-myB,itiwýt,,male speaker's younger brother,,TP008(I),,i- is a first person singular possessive preffix
-meZ,inhýt,,male speaker's elder sister,,TP008(I),,
-myZ,inhýt,,male speaker's younger sister,,TP008(I),,
-mP,0,,male speaker's parent,,,,
-mF,hapái,,male speaker's father,,TP008(II),,
-mM,anguý,,male speaker's mother,,TP008(II),,
-mC,0,,male speaker's child,,,,
-mS,itaýt,,male speaker's son,,TP008(III),,
-mD,tatiýt,,male speaker's daughter,,TP008(III),,
-mA,0,,male speaker's ancestor,,,,
-mPP,0,,male speaker's grandparent,,,,
-mFF,atú,,male speaker's father's father,,TP008(IV),,
-mFM,atí,,male speaker's father's mother,,TP008(IV),,
-mMF,atú,,male speaker's mother's father,,TP008(IV),,
-mMM,atí,,male speaker's mother's mother,,TP008(IV),,
-mCC,0,,male speaker's grandchild,,,,
-mSS,imiamunhú,,male speaker's son's son,,TP008(IV),,
-mSD,imiamunhú,,male speaker's son's daughter,,TP008(IV),,
-mDS,imiamunhú,,male speaker's daughter's son,,TP008(IV),,
-mDD,imiamunhú,,male speaker's daughter's daughter,,TP008(IV),,
-mFeB,hapáiiwyt,,male speaker's father's older brother,,TP008(II),,
-mFyB,hapáiiwyt,,male speaker's father's younger brother,,TP008(II),,
-mFeZ,aieié,,male speaker's father's older sister,,TP008(III),,
-mFyZ,aieié,,male speaker's father's younger sister,,TP008(III),,
-mMeZ,0,,male speaker's mother's older sister,,,,
-mMyZ,0,,male speaker's mother's younger sister,,,,
-mMeB,awái,,male speaker's mother's older brother,,TP008(II; III),,
-mMyB,awái,,male speaker's mother's younger brother,,TP008(II; III),,
-meBS,itaýt,,male speaker's older brother's son,,TP008(III),,
-myBS,itaýt,,male speaker's younger brother's son,,TP008(III),,
-meBD,tatiýt,,male speaker's older brother's daughter,,TP008(IV),,
-myBD,tatiýt,,male speaker's younger brother's daughter,,TP008(IV),,
-meZS,inhýt,,male speaker's older sister's son,,TP008(III; IV),,
-myZS,inhýt,,male speaker's younger sister's son,,TP008(III; IV),,
-meZD,0,,male speaker's older sister's daughter,,,,
-myZD,0,,male speaker's younger sister's daughter,,,,
-mFZD,0,,male speaker's father's sister's daughter,,,,Given data claim they are same as the respective sibling terms.
-mFBD,0,,male speaker's father's brother's daughter,,,,
-mMBD,0,,male speaker's mother's brother's daughter,,,,
-mMZD,0,,male speaker's mother's sister's daughter,,,,
-mFBS,0,,male speaker's father's brother's son,,,,
-mFZS,0,,male speaker's father's sister's son,,,,
-mMBS,0,,male speaker's mother's brother's son,,,,
-mMZS,0,,male speaker's mother's sister's son,,,,
-mFeBS,0,,male speaker's father's older brother's son,,,,
-mFyBS,0,,male speaker's father's younger brother's son,,,,
-mFeZS,0,,male speaker's father's older sister's son,,,,
-mFyZS,0,,male speaker's father's younger sister's son,,,,
-mFeBD,0,,male speaker's father's older brother's daughter,,,,
-mFyBD,0,,male speaker's father's younger brother's daughter,,,,
-mFeZD,0,,male speaker's father's older sister's daughter,,,,
-mFyZD,0,,male speaker's father's younger sister's daughter,,,,
-mMeBS,0,,male speaker's mother's older brother's son,,,,
-mMyBS,0,,male speaker's mother's younger brother's son,,,,
-mMeZS,0,,male speaker's mother's older sister's son,,,,
-mMyZS,0,,male speaker's mother's younger sister's son,,,,
-mMeBD,0,,male speaker's mother's older brother's daughter,,,,
-mMyBD,0,,male speaker's mother's younger brother's daughter,,,,
-mMeZD,0,,male speaker's mother's older sister's daughter,,,,
-mMyZD,0,,male speaker's mother's younger sister's daughter,,,,
-mFBeS,itatiý,,male speaker's father's brother's older son,,TP008(I),,
-mFByS,itiwýt,,male speaker's father's brother's younger son,,TP008(I),,
-mFZeS,itatiý,,male speaker's father's sister's older son,,TP008(I),,
-mFZyS,itiwýt,,male speaker's father's sister's younger son,,TP008(I),,
-mFBeD,inhýt,,male speaker's father's brother's older daughter,,TP008(I),,
-mFByD,inhýt,,male speaker's father's brother's younger daughter,,TP008(I),,
-mFZeD,inhýt,,male speaker's father's sister's older daughter,,TP008(I),,
-mFZyD,inhýt,,male speaker's father's sister's younger daughter,,TP008(I),,
-mMBeS,itatiý,,male speaker's mother's brother's older son,,TP008(I),,
-mMByS,itiwýt,,male speaker's mother's brother's younger son,,TP008(I),,
-mMZeS,itatiý,,male speaker's mother's sister's older son,,TP008(I),,
-mMZyS,itiwýt,,male speaker's mother's sister's younger son,,TP008(I),,
-mMBeD,inhýt,,male speaker's mother's brother's older daughter,,TP008(I),,
-mMByD,inhýt,,male speaker's mother's brother's younger daughter,,TP008(I),,
-mMZeD,inhýt,,male speaker's mother's sister's older daughter,,TP008(I),,
-mMZyD,inhýt,,male speaker's mother's sister's younger daughter,,TP008(I),,
-mE,0,,male speaker's spouse,,,,
-mH,NA,,male speaker's husband,,TP008(II),,
-mW,itatý,,male speaker's wife,,TP008(II),,
-mHF,NA,,male speaker's husband's father,,TP008(III),,
-mHM,NA,,male speaker's husband's mother,,TP008(III),,
-mWF,itatyúp,,male speaker's wife's father,,TP008(III),,
-mWM,itatytóza,,male speaker's wife's mother,,TP008(III),,
-mBW,ikutizápo,,male speaker's brother's wife,,TP008(II),,
-mZH,itovazát,,male speaker's sister's husband,ikypiyraimén (w.s.),TP008(II),,
-mWB,ikutzitzápo,,male speaker's wife's brother,,TP008(II),,
-mWZ,itaty'ýt,,male speaker's wife's sister,,TP008(II),,
-mHB,NA,,male speaker's husband's brother,,TP008(II),,
-mHZ,NA,,male speaker's husband's sister,,TP008(II),,
-mco-W,0,,male speaker's co-wife,,,,
-mco-H,NA,,male speaker's co-husband,,,,
-mFW(notM),0,,male speaker's father's wife (not mother),,,,
-mMH(notF),0,,male speaker's mother's husband (not father),,,,
-mSW,taitatý,,male speaker's son's wife,,TP008(II),,
-mSWM,0,,male speaker's son's wife's mother,,,,
-mSWF,0,,male speaker's son's wife's father,,,,
-mDH,tatýumén,,male speaker's daughter's husband,,TP008(II),,
-mDHM,0,,male speaker's daughter's husband's mother,,,,
-mDHF,0,,male speaker's daughter's husband's father,,,,
-mFZH,0,,male speaker's father's sister's husband,,,,
-mFBW,0,,male speaker's father's brother's wife,,,,
-mMZH,0,,male speaker's mother's sister's husband,,,,
-mMBW,0,,male speaker's mother's brother's wife,,,,
-fG,0,,female speaker's sibling,,,,Kinship charts appear on non-numbered pullout pages.
-fB,ikiwýt,,female speaker's brother,,TP008(I),,/y/ is the same French /u/
-fZ,0,,female speaker's sister,,,,
-feB,ikiwýt,,female speaker's elder brother,,TP008(I),,/y/ is the same French /u/
-fyB,ikiwýt,,female speaker's younger brother,,TP008(I),,i- is a first person singular possessive preffix
-feZ,itatét,,female speaker's elder sister,,TP008(I),,
-fyZ,ikypiýt,,female speaker's younger sister,,TP008(I),,
-fP,0,,female speaker's parent,,,,
-fF,hapái,,female speaker's father,,TP008(II),,
-fM,anguý,,female speaker's mother,,TP008(II),,
-fC,0,,female speaker's child,,,,
-fS,imembút,,female speaker's son,,TP008(III),,
-fD,membút,,female speaker's daughter,,TP008(III),,
-fA,0,,female speaker's ancestor,,,,
-fPP,0,,female speaker's grandparent,,,,
-fFF,atú,,female speaker's father's father,,TP008(IV),,
-fFM,atí,,female speaker's father's mother,,TP008(IV),,
-fMF,atú,,female speaker's mother's father,,TP008(IV),,
-fMM,atí,,female speaker's mother's mother,,TP008(IV),,
-fCC,0,,female speaker's grandchild,,,,
-fSS,imembý-burúp,,female speaker's son's son,,TP008(IV),,
-fSD,imembý-burúp,,female speaker's son's daughter,,TP008(IV),,
-fDS,imembý-burúp,,female speaker's daughter's son,,TP008(IV),,
-fDD,imembý-burúp,,female speaker's daughter's daughter,,TP008(IV),,
-fFeB,hapáiiwyt,,female speaker's father's older brother,,TP008(II),,
-fFyB,hapáiiwyt,,female speaker's father's younger brother,,TP008(II),,
-fFeZ,0,,female speaker's father's older sister,,TP008(III),,
-fFyZ,0,,female speaker's father's younger sister,,TP008(III),,
-fMeZ,0,,female speaker's mother's older sister,,,,
-fMyZ,0,,female speaker's mother's younger sister,,,,
-fMeB,apí,,female speaker's mother's older brother,,TP008(II; III),,
-fMyB,apí,,female speaker's mother's younger brother,,TP008(II; III),,
-feBS,impéng,,female speaker's older brother's son,,TP008(III),,
-fyBS,impéng,,female speaker's younger brother's son,,TP008(III),,
-feBD,0,,female speaker's older brother's daughter,,TP008(IV),,
-fyBD,0,,female speaker's younger brother's daughter,,TP008(IV),,
-feZS,iembút,,female speaker's older sister's son,,TP008(III; IV),,
-fyZS,iembút,,female speaker's younger sister's son,,TP008(III; IV),,
-feZD,0,,female speaker's older sister's daughter,,,,
-fyZD,0,,female speaker's younger sister's daughter,,,,
-fFZD,0,,female speaker's father's sister's daughter,,,,Given data claim they are same as the respective sibling terms.
-fFBD,0,,female speaker's father's brother's daughter,,,,
-fMBD,0,,female speaker's mother's brother's daughter,,,,
-fMZD,0,,female speaker's mother's sister's daughter,,,,
-fFBS,0,,female speaker's father's brother's son,,,,
-fFZS,0,,female speaker's father's sister's son,,,,
-fMBS,0,,female speaker's mother's brother's son,,,,
-fMZS,0,,female speaker's mother's sister's son,,,,
-fFeBS,0,,female speaker's father's older brother's son,,,,
-fFyBS,0,,female speaker's father's younger brother's son,,,,
-fFeZS,0,,female speaker's father's older sister's son,,,,
-fFyZS,0,,female speaker's father's younger sister's son,,,,
-fFeBD,0,,female speaker's father's older brother's daughter,,,,
-fFyBD,0,,female speaker's father's younger brother's daughter,,,,
-fFeZD,0,,female speaker's father's older sister's daughter,,,,
-fFyZD,0,,female speaker's father's younger sister's daughter,,,,
-fMeBS,0,,female speaker's mother's older brother's son,,,,
-fMyBS,0,,female speaker's mother's younger brother's son,,,,
-fMeZS,0,,female speaker's mother's older sister's son,,,,
-fMyZS,0,,female speaker's mother's younger sister's son,,,,
-fMeBD,0,,female speaker's mother's older brother's daughter,,,,
-fMyBD,0,,female speaker's mother's younger brother's daughter,,,,
-fMeZD,0,,female speaker's mother's older sister's daughter,,,,
-fMyZD,0,,female speaker's mother's younger sister's daughter,,,,
-fFBeS,ikiwýt,,female speaker's father's brother's older son,,TP008(I),,
-fFByS,ikiwýt,,female speaker's father's brother's younger son,,TP008(I),,
-fFZeS,ikiwýt,,female speaker's father's sister's older son,,TP008(I),,
-fFZyS,ikiwýt,,female speaker's father's sister's younger son,,TP008(I),,
-fFBeD,itatét,,female speaker's father's brother's older daughter,,TP008(I),,
-fFByD,ikypiýt,,female speaker's father's brother's younger daughter,,TP008(I),,
-fFZeD,itatét,,female speaker's father's sister's older daughter,,TP008(I),,
-fFZyD,ikypiýt,,female speaker's father's sister's younger daughter,,TP008(I),,
-fMBeS,ikiwýt,,female speaker's mother's brother's older son,,TP008(I),,
-fMByS,ikiwýt,,female speaker's mother's brother's younger son,,TP008(I),,
-fMZeS,ikiwýt,,female speaker's mother's sister's older son,,TP008(I),,
-fMZyS,ikiwýt,,female speaker's mother's sister's younger son,,TP008(I),,
-fMBeD,itatét,,female speaker's mother's brother's older daughter,,TP008(I),,
-fMByD,ikypiýt,,female speaker's mother's brother's younger daughter,,TP008(I),,
-fMZeD,itatét,,female speaker's mother's sister's older daughter,,TP008(I),,
-fMZyD,ikypiýt,,female speaker's mother's sister's younger daughter,,TP008(I),,
-fE,0,,female speaker's spouse,,,,
-fH,imén,,female speaker's husband,,TP008(II),,
-fW,NA,,female speaker's wife,,TP008(II),,
-fHF,imendúp,,female speaker's husband's father,,TP008(III),,
-fHM,imendý,,female speaker's husband's mother,,TP008(III),,
-fWF,NA,,female speaker's wife's father,,TP008(III),,
-fWM,NA,,female speaker's wife's mother,,TP008(III),,
-fBW,0,,female speaker's brother's wife,,TP008(II),,
-fZH,ikutizitzápo,,female speaker's sister's husband,ikypiyraimén (w.s.),TP008(II),,
-fWB,NA,,female speaker's wife's brother,,TP008(II),,
-fWZ,NA,,female speaker's wife's sister,,TP008(II),,
-fHB,imeniwýt,,female speaker's husband's brother,,TP008(II),,
-fHZ,ikutzitzápo,,female speaker's husband's sister,,TP008(II),,
-fco-W,NA,,female speaker's co-wife,,,,
-fco-H,0,,female speaker's co-husband,,,,
-fFW(notM),0,,female speaker's father's wife (not mother),,,,
-fMH(notF),0,,female speaker's wife's husband (not father),,,,
-fSW,0,,female speaker's son's wife,,TP008(II),,
-fSWM,0,,female speaker's son's wife's mother,,,,
-fSWF,0,,female speaker's son's wife's father,,,,
-fDH,imembumén,,female speaker's daughter's husband,,TP008(II),,
-fDHM,0,,female speaker's daughter's husband's mother,,,,
-fDHF,0,,female speaker's daughter's husband's father,,,,
-fFZH,0,,female speaker's father's sister's husband,,,,
-fFBW,0,,female speaker's father's brother's wife,,,,
-fMZH,0,,female speaker's mother's sister's husband,,,,
-fMBW,0,,female speaker's mother's brother's wife,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mG","0",,"male speaker's sibling","","",,"Kinship charts appear on non-numbered pullout pages."
+"mB","0",,"male speaker's brother","","",,""
+"mZ","inhýt",,"male speaker's sister","","TP008(I)",,""
+"meB","itatiý",,"male speaker's elder brother","","TP008(I)",,"/y/ is the same French /u/"
+"myB","itiwýt",,"male speaker's younger brother","","TP008(I)",,"i- is a first person singular possessive preffix"
+"meZ","inhýt",,"male speaker's elder sister","","TP008(I)",,""
+"myZ","inhýt",,"male speaker's younger sister","","TP008(I)",,""
+"mP","0",,"male speaker's parent","","",,""
+"mF","hapái",,"male speaker's father","","TP008(II)",,""
+"mM","anguý",,"male speaker's mother","","TP008(II)",,""
+"mC","0",,"male speaker's child","","",,""
+"mS","itaýt",,"male speaker's son","","TP008(III)",,""
+"mD","tatiýt",,"male speaker's daughter","","TP008(III)",,""
+"mA","0",,"male speaker's ancestor","","",,""
+"mPP","0",,"male speaker's grandparent","","",,""
+"mFF","atú",,"male speaker's father's father","","TP008(IV)",,""
+"mFM","atí",,"male speaker's father's mother","","TP008(IV)",,""
+"mMF","atú",,"male speaker's mother's father","","TP008(IV)",,""
+"mMM","atí",,"male speaker's mother's mother","","TP008(IV)",,""
+"mCC","0",,"male speaker's grandchild","","",,""
+"mSS","imiamunhú",,"male speaker's son's son","","TP008(IV)",,""
+"mSD","imiamunhú",,"male speaker's son's daughter","","TP008(IV)",,""
+"mDS","imiamunhú",,"male speaker's daughter's son","","TP008(IV)",,""
+"mDD","imiamunhú",,"male speaker's daughter's daughter","","TP008(IV)",,""
+"mFeB","hapáiiwyt",,"male speaker's father's older brother","","TP008(II)",,""
+"mFyB","hapáiiwyt",,"male speaker's father's younger brother","","TP008(II)",,""
+"mFeZ","aieié",,"male speaker's father's older sister","","TP008(III)",,""
+"mFyZ","aieié",,"male speaker's father's younger sister","","TP008(III)",,""
+"mMeZ","0",,"male speaker's mother's older sister","","",,""
+"mMyZ","0",,"male speaker's mother's younger sister","","",,""
+"mMeB","awái",,"male speaker's mother's older brother","","TP008(II; III)",,""
+"mMyB","awái",,"male speaker's mother's younger brother","","TP008(II; III)",,""
+"meBS","itaýt",,"male speaker's older brother's son","","TP008(III)",,""
+"myBS","itaýt",,"male speaker's younger brother's son","","TP008(III)",,""
+"meBD","tatiýt",,"male speaker's older brother's daughter","","TP008(IV)",,""
+"myBD","tatiýt",,"male speaker's younger brother's daughter","","TP008(IV)",,""
+"meZS","inhýt",,"male speaker's older sister's son","","TP008(III; IV)",,""
+"myZS","inhýt",,"male speaker's younger sister's son","","TP008(III; IV)",,""
+"meZD","0",,"male speaker's older sister's daughter","","",,""
+"myZD","0",,"male speaker's younger sister's daughter","","",,""
+"mFZD","0",,"male speaker's father's sister's daughter","","",,"Given data claim they are same as the respective sibling terms."
+"mFBD","0",,"male speaker's father's brother's daughter","","",,""
+"mMBD","0",,"male speaker's mother's brother's daughter","","",,""
+"mMZD","0",,"male speaker's mother's sister's daughter","","",,""
+"mFBS","0",,"male speaker's father's brother's son","","",,""
+"mFZS","0",,"male speaker's father's sister's son","","",,""
+"mMBS","0",,"male speaker's mother's brother's son","","",,""
+"mMZS","0",,"male speaker's mother's sister's son","","",,""
+"mFeBS","0",,"male speaker's father's older brother's son","","",,""
+"mFyBS","0",,"male speaker's father's younger brother's son","","",,""
+"mFeZS","0",,"male speaker's father's older sister's son","","",,""
+"mFyZS","0",,"male speaker's father's younger sister's son","","",,""
+"mFeBD","0",,"male speaker's father's older brother's daughter","","",,""
+"mFyBD","0",,"male speaker's father's younger brother's daughter","","",,""
+"mFeZD","0",,"male speaker's father's older sister's daughter","","",,""
+"mFyZD","0",,"male speaker's father's younger sister's daughter","","",,""
+"mMeBS","0",,"male speaker's mother's older brother's son","","",,""
+"mMyBS","0",,"male speaker's mother's younger brother's son","","",,""
+"mMeZS","0",,"male speaker's mother's older sister's son","","",,""
+"mMyZS","0",,"male speaker's mother's younger sister's son","","",,""
+"mMeBD","0",,"male speaker's mother's older brother's daughter","","",,""
+"mMyBD","0",,"male speaker's mother's younger brother's daughter","","",,""
+"mMeZD","0",,"male speaker's mother's older sister's daughter","","",,""
+"mMyZD","0",,"male speaker's mother's younger sister's daughter","","",,""
+"mFBeS","itatiý",,"male speaker's father's brother's older son","","TP008(I)",,""
+"mFByS","itiwýt",,"male speaker's father's brother's younger son","","TP008(I)",,""
+"mFZeS","itatiý",,"male speaker's father's sister's older son","","TP008(I)",,""
+"mFZyS","itiwýt",,"male speaker's father's sister's younger son","","TP008(I)",,""
+"mFBeD","inhýt",,"male speaker's father's brother's older daughter","","TP008(I)",,""
+"mFByD","inhýt",,"male speaker's father's brother's younger daughter","","TP008(I)",,""
+"mFZeD","inhýt",,"male speaker's father's sister's older daughter","","TP008(I)",,""
+"mFZyD","inhýt",,"male speaker's father's sister's younger daughter","","TP008(I)",,""
+"mMBeS","itatiý",,"male speaker's mother's brother's older son","","TP008(I)",,""
+"mMByS","itiwýt",,"male speaker's mother's brother's younger son","","TP008(I)",,""
+"mMZeS","itatiý",,"male speaker's mother's sister's older son","","TP008(I)",,""
+"mMZyS","itiwýt",,"male speaker's mother's sister's younger son","","TP008(I)",,""
+"mMBeD","inhýt",,"male speaker's mother's brother's older daughter","","TP008(I)",,""
+"mMByD","inhýt",,"male speaker's mother's brother's younger daughter","","TP008(I)",,""
+"mMZeD","inhýt",,"male speaker's mother's sister's older daughter","","TP008(I)",,""
+"mMZyD","inhýt",,"male speaker's mother's sister's younger daughter","","TP008(I)",,""
+"mE","0",,"male speaker's spouse","","",,""
+"mH","",,"male speaker's husband","","TP008(II)",,""
+"mW","itatý",,"male speaker's wife","","TP008(II)",,""
+"mHF","",,"male speaker's husband's father","","TP008(III)",,""
+"mHM","",,"male speaker's husband's mother","","TP008(III)",,""
+"mWF","itatyúp",,"male speaker's wife's father","","TP008(III)",,""
+"mWM","itatytóza",,"male speaker's wife's mother","","TP008(III)",,""
+"mBW","ikutizápo",,"male speaker's brother's wife","","TP008(II)",,""
+"mZH","itovazát",,"male speaker's sister's husband","ikypiyraimén (w.s.)","TP008(II)",,""
+"mWB","ikutzitzápo",,"male speaker's wife's brother","","TP008(II)",,""
+"mWZ","itaty'ýt",,"male speaker's wife's sister","","TP008(II)",,""
+"mHB","",,"male speaker's husband's brother","","TP008(II)",,""
+"mHZ","",,"male speaker's husband's sister","","TP008(II)",,""
+"mco-W","0",,"male speaker's co-wife","","",,""
+"mco-H","",,"male speaker's co-husband","","",,""
+"mFW(notM)","0",,"male speaker's father's wife (not mother)","","",,""
+"mMH(notF)","0",,"male speaker's mother's husband (not father)","","",,""
+"mSW","taitatý",,"male speaker's son's wife","","TP008(II)",,""
+"mSWM","0",,"male speaker's son's wife's mother","","",,""
+"mSWF","0",,"male speaker's son's wife's father","","",,""
+"mDH","tatýumén",,"male speaker's daughter's husband","","TP008(II)",,""
+"mDHM","0",,"male speaker's daughter's husband's mother","","",,""
+"mDHF","0",,"male speaker's daughter's husband's father","","",,""
+"mFZH","0",,"male speaker's father's sister's husband","","",,""
+"mFBW","0",,"male speaker's father's brother's wife","","",,""
+"mMZH","0",,"male speaker's mother's sister's husband","","",,""
+"mMBW","0",,"male speaker's mother's brother's wife","","",,""
+"fG","0",,"female speaker's sibling","","",,"Kinship charts appear on non-numbered pullout pages."
+"fB","ikiwýt",,"female speaker's brother","","TP008(I)",,"/y/ is the same French /u/"
+"fZ","0",,"female speaker's sister","","",,""
+"feB","ikiwýt",,"female speaker's elder brother","","TP008(I)",,"/y/ is the same French /u/"
+"fyB","ikiwýt",,"female speaker's younger brother","","TP008(I)",,"i- is a first person singular possessive preffix"
+"feZ","itatét",,"female speaker's elder sister","","TP008(I)",,""
+"fyZ","ikypiýt",,"female speaker's younger sister","","TP008(I)",,""
+"fP","0",,"female speaker's parent","","",,""
+"fF","hapái",,"female speaker's father","","TP008(II)",,""
+"fM","anguý",,"female speaker's mother","","TP008(II)",,""
+"fC","0",,"female speaker's child","","",,""
+"fS","imembút",,"female speaker's son","","TP008(III)",,""
+"fD","membút",,"female speaker's daughter","","TP008(III)",,""
+"fA","0",,"female speaker's ancestor","","",,""
+"fPP","0",,"female speaker's grandparent","","",,""
+"fFF","atú",,"female speaker's father's father","","TP008(IV)",,""
+"fFM","atí",,"female speaker's father's mother","","TP008(IV)",,""
+"fMF","atú",,"female speaker's mother's father","","TP008(IV)",,""
+"fMM","atí",,"female speaker's mother's mother","","TP008(IV)",,""
+"fCC","0",,"female speaker's grandchild","","",,""
+"fSS","imembý-burúp",,"female speaker's son's son","","TP008(IV)",,""
+"fSD","imembý-burúp",,"female speaker's son's daughter","","TP008(IV)",,""
+"fDS","imembý-burúp",,"female speaker's daughter's son","","TP008(IV)",,""
+"fDD","imembý-burúp",,"female speaker's daughter's daughter","","TP008(IV)",,""
+"fFeB","hapáiiwyt",,"female speaker's father's older brother","","TP008(II)",,""
+"fFyB","hapáiiwyt",,"female speaker's father's younger brother","","TP008(II)",,""
+"fFeZ","0",,"female speaker's father's older sister","","TP008(III)",,""
+"fFyZ","0",,"female speaker's father's younger sister","","TP008(III)",,""
+"fMeZ","0",,"female speaker's mother's older sister","","",,""
+"fMyZ","0",,"female speaker's mother's younger sister","","",,""
+"fMeB","apí",,"female speaker's mother's older brother","","TP008(II; III)",,""
+"fMyB","apí",,"female speaker's mother's younger brother","","TP008(II; III)",,""
+"feBS","impéng",,"female speaker's older brother's son","","TP008(III)",,""
+"fyBS","impéng",,"female speaker's younger brother's son","","TP008(III)",,""
+"feBD","0",,"female speaker's older brother's daughter","","TP008(IV)",,""
+"fyBD","0",,"female speaker's younger brother's daughter","","TP008(IV)",,""
+"feZS","iembút",,"female speaker's older sister's son","","TP008(III; IV)",,""
+"fyZS","iembút",,"female speaker's younger sister's son","","TP008(III; IV)",,""
+"feZD","0",,"female speaker's older sister's daughter","","",,""
+"fyZD","0",,"female speaker's younger sister's daughter","","",,""
+"fFZD","0",,"female speaker's father's sister's daughter","","",,"Given data claim they are same as the respective sibling terms."
+"fFBD","0",,"female speaker's father's brother's daughter","","",,""
+"fMBD","0",,"female speaker's mother's brother's daughter","","",,""
+"fMZD","0",,"female speaker's mother's sister's daughter","","",,""
+"fFBS","0",,"female speaker's father's brother's son","","",,""
+"fFZS","0",,"female speaker's father's sister's son","","",,""
+"fMBS","0",,"female speaker's mother's brother's son","","",,""
+"fMZS","0",,"female speaker's mother's sister's son","","",,""
+"fFeBS","0",,"female speaker's father's older brother's son","","",,""
+"fFyBS","0",,"female speaker's father's younger brother's son","","",,""
+"fFeZS","0",,"female speaker's father's older sister's son","","",,""
+"fFyZS","0",,"female speaker's father's younger sister's son","","",,""
+"fFeBD","0",,"female speaker's father's older brother's daughter","","",,""
+"fFyBD","0",,"female speaker's father's younger brother's daughter","","",,""
+"fFeZD","0",,"female speaker's father's older sister's daughter","","",,""
+"fFyZD","0",,"female speaker's father's younger sister's daughter","","",,""
+"fMeBS","0",,"female speaker's mother's older brother's son","","",,""
+"fMyBS","0",,"female speaker's mother's younger brother's son","","",,""
+"fMeZS","0",,"female speaker's mother's older sister's son","","",,""
+"fMyZS","0",,"female speaker's mother's younger sister's son","","",,""
+"fMeBD","0",,"female speaker's mother's older brother's daughter","","",,""
+"fMyBD","0",,"female speaker's mother's younger brother's daughter","","",,""
+"fMeZD","0",,"female speaker's mother's older sister's daughter","","",,""
+"fMyZD","0",,"female speaker's mother's younger sister's daughter","","",,""
+"fFBeS","ikiwýt",,"female speaker's father's brother's older son","","TP008(I)",,""
+"fFByS","ikiwýt",,"female speaker's father's brother's younger son","","TP008(I)",,""
+"fFZeS","ikiwýt",,"female speaker's father's sister's older son","","TP008(I)",,""
+"fFZyS","ikiwýt",,"female speaker's father's sister's younger son","","TP008(I)",,""
+"fFBeD","itatét",,"female speaker's father's brother's older daughter","","TP008(I)",,""
+"fFByD","ikypiýt",,"female speaker's father's brother's younger daughter","","TP008(I)",,""
+"fFZeD","itatét",,"female speaker's father's sister's older daughter","","TP008(I)",,""
+"fFZyD","ikypiýt",,"female speaker's father's sister's younger daughter","","TP008(I)",,""
+"fMBeS","ikiwýt",,"female speaker's mother's brother's older son","","TP008(I)",,""
+"fMByS","ikiwýt",,"female speaker's mother's brother's younger son","","TP008(I)",,""
+"fMZeS","ikiwýt",,"female speaker's mother's sister's older son","","TP008(I)",,""
+"fMZyS","ikiwýt",,"female speaker's mother's sister's younger son","","TP008(I)",,""
+"fMBeD","itatét",,"female speaker's mother's brother's older daughter","","TP008(I)",,""
+"fMByD","ikypiýt",,"female speaker's mother's brother's younger daughter","","TP008(I)",,""
+"fMZeD","itatét",,"female speaker's mother's sister's older daughter","","TP008(I)",,""
+"fMZyD","ikypiýt",,"female speaker's mother's sister's younger daughter","","TP008(I)",,""
+"fE","0",,"female speaker's spouse","","",,""
+"fH","imén",,"female speaker's husband","","TP008(II)",,""
+"fW","",,"female speaker's wife","","TP008(II)",,""
+"fHF","imendúp",,"female speaker's husband's father","","TP008(III)",,""
+"fHM","imendý",,"female speaker's husband's mother","","TP008(III)",,""
+"fWF","",,"female speaker's wife's father","","TP008(III)",,""
+"fWM","",,"female speaker's wife's mother","","TP008(III)",,""
+"fBW","0",,"female speaker's brother's wife","","TP008(II)",,""
+"fZH","ikutizitzápo",,"female speaker's sister's husband","ikypiyraimén (w.s.)","TP008(II)",,""
+"fWB","",,"female speaker's wife's brother","","TP008(II)",,""
+"fWZ","",,"female speaker's wife's sister","","TP008(II)",,""
+"fHB","imeniwýt",,"female speaker's husband's brother","","TP008(II)",,""
+"fHZ","ikutzitzápo",,"female speaker's husband's sister","","TP008(II)",,""
+"fco-W","",,"female speaker's co-wife","","",,""
+"fco-H","0",,"female speaker's co-husband","","",,""
+"fFW(notM)","0",,"female speaker's father's wife (not mother)","","",,""
+"fMH(notF)","0",,"female speaker's wife's husband (not father)","","",,""
+"fSW","0",,"female speaker's son's wife","","TP008(II)",,""
+"fSWM","0",,"female speaker's son's wife's mother","","",,""
+"fSWF","0",,"female speaker's son's wife's father","","",,""
+"fDH","imembumén",,"female speaker's daughter's husband","","TP008(II)",,""
+"fDHM","0",,"female speaker's daughter's husband's mother","","",,""
+"fDHF","0",,"female speaker's daughter's husband's father","","",,""
+"fFZH","0",,"female speaker's father's sister's husband","","",,""
+"fFBW","0",,"female speaker's father's brother's wife","","",,""
+"fMZH","0",,"female speaker's mother's sister's husband","","",,""
+"fMBW","0",,"female speaker's mother's brother's wife","","",,""

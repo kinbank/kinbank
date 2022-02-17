@@ -1,77 +1,141 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,minlhafut,,male ego's older brother,,,,
-myB,minlhafut,,male ego's younger brother,,,,
-feB,minlhafut,,female ego's older brother,,,,
-fyB,minlhafut,,female ego's younger brother,,,,
-meZ,minlhafut,,male ego's older sister,,,,
-myZ,minlhafut,,male ego's younger sister,,,,
-feZ,minlhafut,,female ego's older sister,,,,
-fyZ,minlhafut,,female ego's younger sister,,,,
-mF,ama,,male ego's father,,,,
-mM,ina,,male ego's mother,,,,
-fF,ama,,female ego's father,,,,
-fM,ina,,female ego's mother,,,,
-mS,azazak a ayuzi,,male ego's son,,,,
-fS,azazak a ayuzi,,female ego's son,,,,
-mD,azazak a binanau'az,,male ego's daughter,,,,
-fD,azazak a binanau'az,,female ego's daughter,,,,
-mSS,"qati, qumqum",,male ego's son's son,,,,
-mSD,"qati, qumqum",,male ego's son's daughter,,,,
-mDS,"qati, qumqum",,male ego's daughter's son,,,,
-mDD,"qati, qumqum",,male ego's daughter's daughter,,,,
-fSS,"qati, qumqum",,female ego's son's son,,,,
-fSD,"qati, qumqum",,female ego's son's daughter,,,,
-fDS,"qati, qumqum",,female ego's daughter's son,,,,
-fDD,"qati, qumqum",,female ego's daugher's daughter,,,,
-mFF,apu ra'in,,male ego's father‘s father,,,,
-mFM,apu ki'ay,,male ego's father's mother,,,,
-mMF,apu ra'in,,male ego's mother's father,,,,
-mMM,apu ki'ay,,male ego's mother's mother,,,,
-fFF,apu ra'in,,female ego's father's father,,,,
-fFM,apu ki'ay,,female ego's father's mother,,,,
-fMF,apu ra'in,,female ego's mother's father,,,,
-fMM,apu ki'ay,,female ego's mother's mother,,,,
-meBS,qumqum,,male ego's older brother's son,,,,
-myBS,qumqum,,male ego's younger brother's son,,,,
-meZS,qumqum,,male ego's older sister's son,,,,
-myZS,qumqum,,male ego's younger sister's son,,,,
-meBD,qumqum,,male ego's older brother's daughter,,,,
-myBD,qumqum,,male ego's younger brother's daughter,,,,
-meZD,qumqum,,male ego's older sister's daughter,,,,
-myZD,qumqum,,male ego's younger sister's daughter,,,,
-feBS,qumqum,,female ego's older brother's son,,,,
-fyBS,qumqum,,female ego's younger brother's son,,,,
-feZS,qumqum,,female ego's older sister's son,,,,
-fyZS,qumqum,,female ego's younger sister's son,,,,
-feBD,qumqum,,female ego's older brother's daughter,,,,
-fyBD,qumqum,,female ego's younger brother's daughter,,,,
-feZD,qumqum,,female ego's older sister's daughter,,,,
-fyZD,qumqum,,female ego's younger sister's daughter,,,,
-mFeB,pan-amá-n,,male ego's father's older brother,,,,
-mFyB,pan-amá-n,,male ego's father's younger brother,,,,
-fFeB,pan-amá-n,,female ego's father's older brother,,,,
-fFyB,pan-amá-n,,female ego's father's younger brother,,,,
-mW,binanau'az,,male ego's wife,,,,
-fH,ayuzi,,female ego‘s husband,,,,
-mSW,apiq,,male ego's son's wife,,,,
-fSW,apiq,,female ego's son's wife,,,,
-mWB,mawala,,male ego's wife's brother,,,,
-fHB,mawala,,female ego's husband's brother,,,,
-mZH,mawala,,male ego's sister's husband,,,,
-fZH,mawala,,female ego's sister's husband,,,,
-mFBS,minlhafut,,male ego's father's brother's son,,,,
-mFZS,minlhafut,,male ego's father's sister's son,,,,
-mMBS,minlhafut,,male ego's mother's brother's son,,,,
-mMZS,minlhafut,,male ego's mother's sister's son,,,,
-mFBD,minlhafut,,male ego's father's brother's daughter,,,,
-mFZD,minlhafut,,male ego's father's sister's daughter,,,,
-mMBD,minlhafut,,male ego's mother's brother's daughter,,,,
-mMZD,minlhafut,,male ego's mother's sister's daughter,,,,
-fFBS,minlhafut,,female ego's father's brother's son,,,,
-fFZS,minlhafut,,female ego's father's sister's son,,,,
-fMBS,minlhafut,,female ego's mother's brother's son,,,,
-fMZS,minlhafut,,female ego's mother's sister's son,,,,
-fFBD,minlhafut,,female ego's father's brother's daughter,,,,
-fFZD,minlhafut,,female ego's father's sister's daughter,,,,
-fMBD,minlhafut,,female ego's mother's brother's daughter,,,,
-fMZD,minlhafut,,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","minlhafut",,"male ego's older brother",,,,
+"myB","minlhafut",,"male ego's younger brother",,,,
+"feB","minlhafut",,"female ego's older brother",,,,
+"fyB","minlhafut",,"female ego's younger brother",,,,
+"meZ","minlhafut",,"male ego's older sister",,,,
+"myZ","minlhafut",,"male ego's younger sister",,,,
+"feZ","minlhafut",,"female ego's older sister",,,,
+"fyZ","minlhafut",,"female ego's younger sister",,,,
+"mF","ama",,"male ego's father",,,,
+"mM","ina",,"male ego's mother",,,,
+"fF","ama",,"female ego's father",,,,
+"fM","ina",,"female ego's mother",,,,
+"mS","azazak a ayuzi",,"male ego's son",,,,
+"fS","azazak a ayuzi",,"female ego's son",,,,
+"mD","azazak a binanau'az",,"male ego's daughter",,,,
+"fD","azazak a binanau'az",,"female ego's daughter",,,,
+"mSS","qati, qumqum",,"male ego's son's son",,,,
+"mSD","qati, qumqum",,"male ego's son's daughter",,,,
+"mDS","qati, qumqum",,"male ego's daughter's son",,,,
+"mDD","qati, qumqum",,"male ego's daughter's daughter",,,,
+"fSS","qati, qumqum",,"female ego's son's son",,,,
+"fSD","qati, qumqum",,"female ego's son's daughter",,,,
+"fDS","qati, qumqum",,"female ego's daughter's son",,,,
+"fDD","qati, qumqum",,"female ego's daugher's daughter",,,,
+"mFF","apu ra'in",,"male ego's father‘s father",,,,
+"mFM","apu ki'ay",,"male ego's father's mother",,,,
+"mMF","apu ra'in",,"male ego's mother's father",,,,
+"mMM","apu ki'ay",,"male ego's mother's mother",,,,
+"fFF","apu ra'in",,"female ego's father's father",,,,
+"fFM","apu ki'ay",,"female ego's father's mother",,,,
+"fMF","apu ra'in",,"female ego's mother's father",,,,
+"fMM","apu ki'ay",,"female ego's mother's mother",,,,
+"meBS","qumqum",,"male ego's older brother's son",,,,
+"myBS","qumqum",,"male ego's younger brother's son",,,,
+"meZS","qumqum",,"male ego's older sister's son",,,,
+"myZS","qumqum",,"male ego's younger sister's son",,,,
+"meBD","qumqum",,"male ego's older brother's daughter",,,,
+"myBD","qumqum",,"male ego's younger brother's daughter",,,,
+"meZD","qumqum",,"male ego's older sister's daughter",,,,
+"myZD","qumqum",,"male ego's younger sister's daughter",,,,
+"feBS","qumqum",,"female ego's older brother's son",,,,
+"fyBS","qumqum",,"female ego's younger brother's son",,,,
+"feZS","qumqum",,"female ego's older sister's son",,,,
+"fyZS","qumqum",,"female ego's younger sister's son",,,,
+"feBD","qumqum",,"female ego's older brother's daughter",,,,
+"fyBD","qumqum",,"female ego's younger brother's daughter",,,,
+"feZD","qumqum",,"female ego's older sister's daughter",,,,
+"fyZD","qumqum",,"female ego's younger sister's daughter",,,,
+"mFeB","pan-amá-n",,"male ego's father's older brother",,,,
+"mFyB","pan-amá-n",,"male ego's father's younger brother",,,,
+"fFeB","pan-amá-n",,"female ego's father's older brother",,,,
+"fFyB","pan-amá-n",,"female ego's father's younger brother",,,,
+"mW","binanau'az",,"male ego's wife",,,,
+"fH","ayuzi",,"female ego‘s husband",,,,
+"mSW","apiq",,"male ego's son's wife",,,,
+"fSW","apiq",,"female ego's son's wife",,,,
+"mWB","mawala",,"male ego's wife's brother",,,,
+"fHB","mawala",,"female ego's husband's brother",,,,
+"mZH","mawala",,"male ego's sister's husband",,,,
+"fZH","mawala",,"female ego's sister's husband",,,,
+"mFBS","minlhafut",,"male ego's father's brother's son",,,,
+"mFZS","minlhafut",,"male ego's father's sister's son",,,,
+"mMBS","minlhafut",,"male ego's mother's brother's son",,,,
+"mMZS","minlhafut",,"male ego's mother's sister's son",,,,
+"mFBD","minlhafut",,"male ego's father's brother's daughter",,,,
+"mFZD","minlhafut",,"male ego's father's sister's daughter",,,,
+"mMBD","minlhafut",,"male ego's mother's brother's daughter",,,,
+"mMZD","minlhafut",,"male ego's mother's sister's daughter",,,,
+"fFBS","minlhafut",,"female ego's father's brother's son",,,,
+"fFZS","minlhafut",,"female ego's father's sister's son",,,,
+"fMBS","minlhafut",,"female ego's mother's brother's son",,,,
+"fMZS","minlhafut",,"female ego's mother's sister's son",,,,
+"fFBD","minlhafut",,"female ego's father's brother's daughter",,,,
+"fFZD","minlhafut",,"female ego's father's sister's daughter",,,,
+"fMBD","minlhafut",,"female ego's mother's brother's daughter",,,,
+"fMZD","minlhafut",,"female ego's mother's sister's daughter",,,,
+"mFeBS","minlhafut",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","minlhafut",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","minlhafut",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","minlhafut",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","minlhafut",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","minlhafut",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","minlhafut",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","minlhafut",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","minlhafut",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","minlhafut",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","minlhafut",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","minlhafut",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","minlhafut",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","minlhafut",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","minlhafut",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","minlhafut",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","minlhafut",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","minlhafut",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","minlhafut",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","minlhafut",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","minlhafut",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","minlhafut",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","minlhafut",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","minlhafut",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","minlhafut",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","minlhafut",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","minlhafut",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","minlhafut",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","minlhafut",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","minlhafut",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","minlhafut",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","minlhafut",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","minlhafut",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","minlhafut",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","minlhafut",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","minlhafut",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","minlhafut",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","minlhafut",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","minlhafut",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","minlhafut",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","minlhafut",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","minlhafut",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","minlhafut",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","minlhafut",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","minlhafut",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","minlhafut",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","minlhafut",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","minlhafut",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","minlhafut",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","minlhafut",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","minlhafut",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","minlhafut",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","minlhafut",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","minlhafut",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","minlhafut",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","minlhafut",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","minlhafut",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","minlhafut",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","minlhafut",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","minlhafut",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","minlhafut",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","minlhafut",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","minlhafut",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","minlhafut",,"female ego's mother's sister's daughter",,,,"Inferred; NA"

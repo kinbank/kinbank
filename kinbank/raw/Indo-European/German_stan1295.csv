@@ -1,91 +1,155 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-feB,bruder,bʀuːdɐ,female speaker's older brother,,,,
-fyB,bruder,bʀuːdɐ,female speaker's younger brother,,,,
-meB,bruder,bʀuːdɐ,male speaker's older brother,,,,
-myB,bruder,bʀuːdɐ,male speaker's younger brother,,,,
-fFBS,cousin,kuˈzɛ̃ː,female speaker's father's brother's son,,,,
-fFZS,cousin,kuˈzɛ̃ː,female speaker's father's sister's son,,,,
-fMBS,cousin,kuˈzɛ̃ː,female speaker's mother's brother's son,,,,
-fMZS,cousin,kuˈzɛ̃ː,female speaker's mother's sister's son,,,,
-mFBS,cousin,kuˈzɛ̃ː,male speaker's father's brother's son,,,,
-mFZS,cousin,kuˈzɛ̃ː,male speaker's father's sister's son,,,,
-mMBS,cousin,kuˈzɛ̃ː,male speaker's mother's brother's son,,,,
-fFBD,cousine,kuˈziːnə,female speaker's father's brother's daughter,,,,
-fFZD,cousine,kuˈziːnə,female speaker's father's sister's daughter,,,,
-fMBD,cousine,kuˈziːnə,female speaker's mother's brother's daughter,,,,
-fMZD,cousine,kuˈziːnə,female speaker's mother's sister's daughter,,,,
-mFBD,cousine,kuˈziːnə,male speaker's father's brother's daughter,,,,
-mFZD,cousine,kuˈziːnə,male speaker's father's sister's daughter,,,,
-mMBD,cousine,kuˈziːnə,male speaker's mother's brother's daughter,,,,
-mMZS,cousin,kuˈzɛ̃ː,male speaker's mother's sister's son,,,,
-mMZD,cousine,kuˈziːnə,male speaker's mother's sister's daughter,,,,
-mW,ehefrau,ˈeːəˌfʀaʊ̯,speaker's wife,,,,
-fH,ehemann,ˈeːəˌman,speaker‘s husband,,,,
-fDS,enkel,ˈɛŋkl̩,female speaker's daughter's son,,,,
-fSS,enkel,ˈɛŋkl̩,female speaker's son's son,,,,
-mDS,enkel,ˈɛŋkl̩,male speaker's daughter's son,,,,
-mSS,enkel,ˈɛŋkl̩,male speaker's son's son,,,,
-fDD,enkelin,ˈɛŋkəlɪn,female speaker's daugher's daughter,,,,
-fSD,enkelin,ˈɛŋkəlɪn,female speaker's son's daughter,,,,
-mDD,enkelin,ˈɛŋkəlɪn,male speaker's daughter's daughter,,,,
-mSD,enkelin,ˈɛŋkəlɪn,male speaker's son's daughter,,,,
-fFM,großmutter,ˈɡʀoːsˌmʊtɐ,female speaker's father's mother,,,,
-fMM,großmutter,ˈɡʀoːsˌmʊtɐ,female speaker's mother's mother,,,,
-mFM,großmutter,ˈɡʀoːsˌmʊtɐ,male speaker's father's mother,,,,
-mMF,großvater,ˈɡʀoːsˌfaːtɐ,male speaker's mother's father,,,,
-fFF,großvater,ˈɡʀoːsˌfaːtɐ,female speaker's father's father,,,,
-fMF,großvater,ˈɡʀoːsˌfaːtɐ,female speaker's mother's father,,,,
-mFF,großvater,ˈɡʀoːsˌfaːtɐ,male speaker's father‘s father,,,,
-mMM,großmutter,ˈɡʀoːsˌmʊtɐ,male speaker's mother's mother,,,,
-fM,mutter,ˈmʊtɐ,female speaker's mother,,,,
-mM,mutter,ˈmʊtɐ,male speaker's mother,,,,
-feBS,neffe,ˈnɛfə,female speaker's older brother's son,,,,
-feZS,neffe,ˈnɛfə,female speaker's older sister's son,,,,
-fyBS,neffe,ˈnɛfə,female speaker's younger brother's son,,,,
-fyZS,neffe,ˈnɛfə,female speaker's younger sister's son,,,,
-meBS,neffe,ˈnɛfə,male speaker's older brother's son,,,,
-meZS,neffe,ˈnɛfə,male speaker's older sister's son,,,,
-myBS,neffe,ˈnɛfə,male speaker's younger brother's son,,,,
-myZS,neffe,ˈnɛfə,male speaker's younger sister's son,,,,
-feBD,nichte,ˈnɪçtə,female speaker's older brother's daughter,,,,
-feZD,nichte,ˈnɪçtə,female speaker's older sister's daughter,,,,
-fyBD,nichte,ˈnɪçtə,female speaker's younger brother's daughter,,,,
-fyZD,nichte,ˈnɪçtə,female speaker's younger sister's daughter,,,,
-meBD,nichte,ˈnɪçtə,male speaker's older brother's daughter,,,,
-meZD,nichte,ˈnɪçtə,male speaker's older sister's daughter,,,,
-myBD,nichte,ˈnɪçtə,male speaker's younger brother's daughter,,,,
-myZD,nichte,ˈnɪçtə,male speaker's younger sister's daughter,,,,
-fFeB,onkel,ˈɔŋkl̩,female speaker's father's older brother,,,,
-fFyB,onkel,ˈɔŋkl̩,female speaker's father's younger brother,,,,
-fMeB,onkel,ˈɔŋkl̩,female speaker's mother's older brother,,,,
-fMyB,onkel,ˈɔŋkl̩,female speaker's mother's younger brother,,,,
-mFeB,onkel,ˈɔŋkl̩,male speaker's father's older brother,,,,
-mFyB,onkel,ˈɔŋkl̩,male speaker's father's younger brother,,,,
-mMeB,onkel,ˈɔŋkl̩,male speaker's mother's older brother,,,,
-mMyB,onkel,ˈɔŋkl̩,male speaker's mother's younger brother,,,,
-feZ,schwester,ˈʃvɛstɐ,female speaker's older sister,,,,
-fyZ,schwester,ˈʃvɛstɐ,female speaker's younger sister,,,,
-meZ,schwester,ˈʃvɛstɐ,male speaker's older sister,,,,
-myZ,schwester,ˈʃvɛstɐ,male speaker's younger sister,,,,
-fHM,schwiegermutter,ˈʃviːɡɐˌmʊtɐ,speaker's husband's mother,,,,
-mWM,schwiegermutter,ˈʃviːɡɐˌmʊtɐ,speaker's wife's mother,,,,
-fDH,schwiegersohn,ˈʃviːɡɐˌzoːn,female speaker's daughter's husband,,,,
-mDH,schwiegersohn,ˈʃviːɡɐˌzoːn,male speaker's daughter's husband,,,,
-fSW,schwiegertochter,ˈʃviːɡɐˌtɔχtɐ,female speaker's son's wife,,,,
-mSW,schwiegertochter,ˈʃviːɡɐˌtɔχtɐ,male speaker's son's wife,,,,
-fHF,schwiegervater,ˈʃviːɡɐˌfaːtɐ,speaker's husband's father,,,,
-mWF,schwiegervater,ˈʃviːɡɐˌfaːtɐ,speaker's wife's father,,,,
-fS,sohn,zoːn,female speaker's son,,,,
-mS,sohn,zoːn,male speaker's son,,,,
-fFeZ,tante,ˈtantə,female speaker's father's older sister,,,,
-fFyZ,tante,ˈtantə,female speaker's father's younger sister,,,,
-fMeZ,tante,ˈtantə,female speaker's mother's older sister,,,,
-fMyZ,tante,ˈtantə,female speaker's mother's younger sister,,,,
-mFeZ,tante,ˈtantə,male speaker's father's older sister,,,,
-mFyZ,tante,ˈtantə,male speaker's father's younger sister,,,,
-mMeZ,tante,ˈtantə,male speaker's mother's older sister,,,,
-mMyZ,tante,ˈtantə,male speaker's mother's younger sister,,,,
-fD,tochter,ˈtɔχtɐ,female speaker's daughter,,,,
-mD,tochter,ˈtɔχtɐ,male speaker's daughter,,,,
-fF,vater,ˈfaːtɐ,female speaker's father,,,,
-mF,vater,ˈfaːtɐ,male speaker's father,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"feB","bruder","bʀuːdɐ","female speaker's older brother",,,,
+"fyB","bruder","bʀuːdɐ","female speaker's younger brother",,,,
+"meB","bruder","bʀuːdɐ","male speaker's older brother",,,,
+"myB","bruder","bʀuːdɐ","male speaker's younger brother",,,,
+"fFBS","cousin","kuˈzɛ̃ː","female speaker's father's brother's son",,,,
+"fFZS","cousin","kuˈzɛ̃ː","female speaker's father's sister's son",,,,
+"fMBS","cousin","kuˈzɛ̃ː","female speaker's mother's brother's son",,,,
+"fMZS","cousin","kuˈzɛ̃ː","female speaker's mother's sister's son",,,,
+"mFBS","cousin","kuˈzɛ̃ː","male speaker's father's brother's son",,,,
+"mFZS","cousin","kuˈzɛ̃ː","male speaker's father's sister's son",,,,
+"mMBS","cousin","kuˈzɛ̃ː","male speaker's mother's brother's son",,,,
+"fFBD","cousine","kuˈziːnə","female speaker's father's brother's daughter",,,,
+"fFZD","cousine","kuˈziːnə","female speaker's father's sister's daughter",,,,
+"fMBD","cousine","kuˈziːnə","female speaker's mother's brother's daughter",,,,
+"fMZD","cousine","kuˈziːnə","female speaker's mother's sister's daughter",,,,
+"mFBD","cousine","kuˈziːnə","male speaker's father's brother's daughter",,,,
+"mFZD","cousine","kuˈziːnə","male speaker's father's sister's daughter",,,,
+"mMBD","cousine","kuˈziːnə","male speaker's mother's brother's daughter",,,,
+"mMZS","cousin","kuˈzɛ̃ː","male speaker's mother's sister's son",,,,
+"mMZD","cousine","kuˈziːnə","male speaker's mother's sister's daughter",,,,
+"mW","ehefrau","ˈeːəˌfʀaʊ̯","speaker's wife",,,,
+"fH","ehemann","ˈeːəˌman","speaker‘s husband",,,,
+"fDS","enkel","ˈɛŋkl̩","female speaker's daughter's son",,,,
+"fSS","enkel","ˈɛŋkl̩","female speaker's son's son",,,,
+"mDS","enkel","ˈɛŋkl̩","male speaker's daughter's son",,,,
+"mSS","enkel","ˈɛŋkl̩","male speaker's son's son",,,,
+"fDD","enkelin","ˈɛŋkəlɪn","female speaker's daugher's daughter",,,,
+"fSD","enkelin","ˈɛŋkəlɪn","female speaker's son's daughter",,,,
+"mDD","enkelin","ˈɛŋkəlɪn","male speaker's daughter's daughter",,,,
+"mSD","enkelin","ˈɛŋkəlɪn","male speaker's son's daughter",,,,
+"fFM","großmutter","ˈɡʀoːsˌmʊtɐ","female speaker's father's mother",,,,
+"fMM","großmutter","ˈɡʀoːsˌmʊtɐ","female speaker's mother's mother",,,,
+"mFM","großmutter","ˈɡʀoːsˌmʊtɐ","male speaker's father's mother",,,,
+"mMF","großvater","ˈɡʀoːsˌfaːtɐ","male speaker's mother's father",,,,
+"fFF","großvater","ˈɡʀoːsˌfaːtɐ","female speaker's father's father",,,,
+"fMF","großvater","ˈɡʀoːsˌfaːtɐ","female speaker's mother's father",,,,
+"mFF","großvater","ˈɡʀoːsˌfaːtɐ","male speaker's father‘s father",,,,
+"mMM","großmutter","ˈɡʀoːsˌmʊtɐ","male speaker's mother's mother",,,,
+"fM","mutter","ˈmʊtɐ","female speaker's mother",,,,
+"mM","mutter","ˈmʊtɐ","male speaker's mother",,,,
+"feBS","neffe","ˈnɛfə","female speaker's older brother's son",,,,
+"feZS","neffe","ˈnɛfə","female speaker's older sister's son",,,,
+"fyBS","neffe","ˈnɛfə","female speaker's younger brother's son",,,,
+"fyZS","neffe","ˈnɛfə","female speaker's younger sister's son",,,,
+"meBS","neffe","ˈnɛfə","male speaker's older brother's son",,,,
+"meZS","neffe","ˈnɛfə","male speaker's older sister's son",,,,
+"myBS","neffe","ˈnɛfə","male speaker's younger brother's son",,,,
+"myZS","neffe","ˈnɛfə","male speaker's younger sister's son",,,,
+"feBD","nichte","ˈnɪçtə","female speaker's older brother's daughter",,,,
+"feZD","nichte","ˈnɪçtə","female speaker's older sister's daughter",,,,
+"fyBD","nichte","ˈnɪçtə","female speaker's younger brother's daughter",,,,
+"fyZD","nichte","ˈnɪçtə","female speaker's younger sister's daughter",,,,
+"meBD","nichte","ˈnɪçtə","male speaker's older brother's daughter",,,,
+"meZD","nichte","ˈnɪçtə","male speaker's older sister's daughter",,,,
+"myBD","nichte","ˈnɪçtə","male speaker's younger brother's daughter",,,,
+"myZD","nichte","ˈnɪçtə","male speaker's younger sister's daughter",,,,
+"fFeB","onkel","ˈɔŋkl̩","female speaker's father's older brother",,,,
+"fFyB","onkel","ˈɔŋkl̩","female speaker's father's younger brother",,,,
+"fMeB","onkel","ˈɔŋkl̩","female speaker's mother's older brother",,,,
+"fMyB","onkel","ˈɔŋkl̩","female speaker's mother's younger brother",,,,
+"mFeB","onkel","ˈɔŋkl̩","male speaker's father's older brother",,,,
+"mFyB","onkel","ˈɔŋkl̩","male speaker's father's younger brother",,,,
+"mMeB","onkel","ˈɔŋkl̩","male speaker's mother's older brother",,,,
+"mMyB","onkel","ˈɔŋkl̩","male speaker's mother's younger brother",,,,
+"feZ","schwester","ˈʃvɛstɐ","female speaker's older sister",,,,
+"fyZ","schwester","ˈʃvɛstɐ","female speaker's younger sister",,,,
+"meZ","schwester","ˈʃvɛstɐ","male speaker's older sister",,,,
+"myZ","schwester","ˈʃvɛstɐ","male speaker's younger sister",,,,
+"fHM","schwiegermutter","ˈʃviːɡɐˌmʊtɐ","speaker's husband's mother",,,,
+"mWM","schwiegermutter","ˈʃviːɡɐˌmʊtɐ","speaker's wife's mother",,,,
+"fDH","schwiegersohn","ˈʃviːɡɐˌzoːn","female speaker's daughter's husband",,,,
+"mDH","schwiegersohn","ˈʃviːɡɐˌzoːn","male speaker's daughter's husband",,,,
+"fSW","schwiegertochter","ˈʃviːɡɐˌtɔχtɐ","female speaker's son's wife",,,,
+"mSW","schwiegertochter","ˈʃviːɡɐˌtɔχtɐ","male speaker's son's wife",,,,
+"fHF","schwiegervater","ˈʃviːɡɐˌfaːtɐ","speaker's husband's father",,,,
+"mWF","schwiegervater","ˈʃviːɡɐˌfaːtɐ","speaker's wife's father",,,,
+"fS","sohn","zoːn","female speaker's son",,,,
+"mS","sohn","zoːn","male speaker's son",,,,
+"fFeZ","tante","ˈtantə","female speaker's father's older sister",,,,
+"fFyZ","tante","ˈtantə","female speaker's father's younger sister",,,,
+"fMeZ","tante","ˈtantə","female speaker's mother's older sister",,,,
+"fMyZ","tante","ˈtantə","female speaker's mother's younger sister",,,,
+"mFeZ","tante","ˈtantə","male speaker's father's older sister",,,,
+"mFyZ","tante","ˈtantə","male speaker's father's younger sister",,,,
+"mMeZ","tante","ˈtantə","male speaker's mother's older sister",,,,
+"mMyZ","tante","ˈtantə","male speaker's mother's younger sister",,,,
+"fD","tochter","ˈtɔχtɐ","female speaker's daughter",,,,
+"mD","tochter","ˈtɔχtɐ","male speaker's daughter",,,,
+"fF","vater","ˈfaːtɐ","female speaker's father",,,,
+"mF","vater","ˈfaːtɐ","male speaker's father",,,,
+"mFeBS","cousin","kuˈzɛ̃ː","male speaker's father's brother's son",,,,"Inferred; NA"
+"mFyBS","cousin","kuˈzɛ̃ː","male speaker's father's brother's son",,,,"Inferred; NA"
+"mFeZS","cousin","kuˈzɛ̃ː","male speaker's father's sister's son",,,,"Inferred; NA"
+"mFyZS","cousin","kuˈzɛ̃ː","male speaker's father's sister's son",,,,"Inferred; NA"
+"mFeBD","cousine","kuˈziːnə","male speaker's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","cousine","kuˈziːnə","male speaker's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","cousine","kuˈziːnə","male speaker's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","cousine","kuˈziːnə","male speaker's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","cousin","kuˈzɛ̃ː","male speaker's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","cousin","kuˈzɛ̃ː","male speaker's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","cousin","kuˈzɛ̃ː","male speaker's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","cousin","kuˈzɛ̃ː","male speaker's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","cousine","kuˈziːnə","male speaker's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","cousine","kuˈziːnə","male speaker's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","cousine","kuˈziːnə","male speaker's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","cousine","kuˈziːnə","male speaker's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","cousin","kuˈzɛ̃ː","male speaker's father's brother's son",,,,"Inferred; NA"
+"mFByS","cousin","kuˈzɛ̃ː","male speaker's father's brother's son",,,,"Inferred; NA"
+"mFZeS","cousin","kuˈzɛ̃ː","male speaker's father's sister's son",,,,"Inferred; NA"
+"mFZyS","cousin","kuˈzɛ̃ː","male speaker's father's sister's son",,,,"Inferred; NA"
+"mFBeD","cousine","kuˈziːnə","male speaker's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","cousine","kuˈziːnə","male speaker's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","cousine","kuˈziːnə","male speaker's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","cousine","kuˈziːnə","male speaker's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","cousin","kuˈzɛ̃ː","male speaker's mother's brother's son",,,,"Inferred; NA"
+"mMByS","cousin","kuˈzɛ̃ː","male speaker's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","cousin","kuˈzɛ̃ː","male speaker's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","cousin","kuˈzɛ̃ː","male speaker's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","cousine","kuˈziːnə","male speaker's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","cousine","kuˈziːnə","male speaker's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","cousine","kuˈziːnə","male speaker's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","cousine","kuˈziːnə","male speaker's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","cousin","kuˈzɛ̃ː","female speaker's father's brother's son",,,,"Inferred; NA"
+"fFyBS","cousin","kuˈzɛ̃ː","female speaker's father's brother's son",,,,"Inferred; NA"
+"fFeZS","cousin","kuˈzɛ̃ː","female speaker's father's sister's son",,,,"Inferred; NA"
+"fFyZS","cousin","kuˈzɛ̃ː","female speaker's father's sister's son",,,,"Inferred; NA"
+"fFeBD","cousine","kuˈziːnə","female speaker's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","cousine","kuˈziːnə","female speaker's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","cousine","kuˈziːnə","female speaker's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","cousine","kuˈziːnə","female speaker's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","cousin","kuˈzɛ̃ː","female speaker's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","cousin","kuˈzɛ̃ː","female speaker's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","cousin","kuˈzɛ̃ː","female speaker's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","cousin","kuˈzɛ̃ː","female speaker's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","cousine","kuˈziːnə","female speaker's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","cousine","kuˈziːnə","female speaker's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","cousine","kuˈziːnə","female speaker's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","cousine","kuˈziːnə","female speaker's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","cousin","kuˈzɛ̃ː","female speaker's father's brother's son",,,,"Inferred; NA"
+"fFByS","cousin","kuˈzɛ̃ː","female speaker's father's brother's son",,,,"Inferred; NA"
+"fFZeS","cousin","kuˈzɛ̃ː","female speaker's father's sister's son",,,,"Inferred; NA"
+"fFZyS","cousin","kuˈzɛ̃ː","female speaker's father's sister's son",,,,"Inferred; NA"
+"fFBeD","cousine","kuˈziːnə","female speaker's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","cousine","kuˈziːnə","female speaker's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","cousine","kuˈziːnə","female speaker's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","cousine","kuˈziːnə","female speaker's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","cousin","kuˈzɛ̃ː","female speaker's mother's brother's son",,,,"Inferred; NA"
+"fMByS","cousin","kuˈzɛ̃ː","female speaker's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","cousin","kuˈzɛ̃ː","female speaker's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","cousin","kuˈzɛ̃ː","female speaker's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","cousine","kuˈziːnə","female speaker's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","cousine","kuˈziːnə","female speaker's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","cousine","kuˈziːnə","female speaker's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","cousine","kuˈziːnə","female speaker's mother's sister's daughter",,,,"Inferred; NA"

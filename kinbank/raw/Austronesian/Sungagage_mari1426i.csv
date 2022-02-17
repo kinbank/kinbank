@@ -1,86 +1,118 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tue-ŋgu,tue-ŋgu,male ego's older brother,tuɣa,,,"ᵐbʷana 'mat'  can be used for ""FIRST BORN CHILD"""
-myB,tue-ŋgu,tue-ŋgu,male ego's younger brother,"tasira, tesira",,,
-feB,soɣoti,soɣoti,female ego's older brother,tuɣa,,,
-fyB,soɣoti,soɣoti,female ego's younger brother,"tasira, tesira",,,
-meZ,soɣoti,soɣoti,male ego's older sister,tuɣa,,,
-myZ,soɣoti,soɣoti,male ego's younger sister,"tasira, tesira",,,
-feZ,tue-ŋgu,tue-ŋgu,female ego's older sister,tuɣa,,,
-fyZ,tue-ŋgu,tue-ŋgu,female ego's younger sister,"tasira, tesira",,,
-mF,tata,tata,male ego's father,,,,
-mM,ᵐbou,ᵐbou,male ego's mother,,,,
-fF,tata,tata,female ego's father,,,,
-fM,ᵐbou,ᵐbou,female ego's mother,,,,
-mS,ᵐboi,ᵐboi,male ego's son,,,,
-fS,ᵐboi,ᵐboi,female ego's son,,,,
-mD,ɸoi,ɸoi,male ego's daughter,,,,
-fD,ɸoi,ɸoi,female ego's daughter,,,,
-mSS,buᵐbu,buᵐbu,male ego's son's son,buᵐbu mʷera,,,
-mSD,buᵐbu,buᵐbu,male ego's son's daughter,buᵐbu ɸaβine,,,
-mDS,buᵐbu,buᵐbu,male ego's daughter's son,buᵐbu mʷera,,,
-mDD,buᵐbu,buᵐbu,male ego's daughter's daughter,buᵐbu ɸaβine,,,
-fSS,buᵐbu,buᵐbu,female ego's son's son,buᵐbu mʷera,,,
-fSD,buᵐbu,buᵐbu,female ego's son's daughter,buᵐbu ɸaβine,,,
-fDS,buᵐbu,buᵐbu,female ego's daughter's son,buᵐbu mʷera,,,
-fDD,buᵐbu,buᵐbu,female ego's daugher's daughter,buᵐbu ɸaβine,,,
-mFF,buᵐbu,buᵐbu,male ego's father‘s father,buᵐbu mʷera,,,
-mFM,buᵐbu,buᵐbu,male ego's father's mother,buᵐbu ɸaβine,,,
-mMF,buᵐbu,buᵐbu,male ego's mother's father,buᵐbu mʷera,,,
-mMM,buᵐbu,buᵐbu,male ego's mother's mother,buᵐbu ɸaβine,,,
-fFF,buᵐbu,buᵐbu,female ego's father's father,buᵐbu mʷera,,,
-fFM,buᵐbu,buᵐbu,female ego's father's mother,buᵐbu ɸaβine,,,
-fMF,buᵐbu,buᵐbu,female ego's mother's father,buᵐbu mʷera,,,
-fMM,buᵐbu,buᵐbu,female ego's mother's mother,buᵐbu ɸaβine,,,
-meBS,ᵐboi,ᵐboi,male ego's older brother's son,,,,
-myBS,ᵐboi,ᵐboi,male ego's younger brother's son,,,,
-meZS,aloa,aloa,male ego's older sister's son,,,,
-myZS,aloa,aloa,male ego's younger sister's son,,,,
-meBD,ɸoi,ɸoi,male ego's older brother's daughter,,,,
-myBD,ɸoi,ɸoi,male ego's younger brother's daughter,,,,
-meZD,aloa,aloa,male ego's older sister's daughter,,,,
-myZD,aloa,aloa,male ego's younger sister's daughter,,,,
-feBS,ᵐboi,ᵐboi,female ego's older brother's son,,,,
-fyBS,ᵐboi,ᵐboi,female ego's younger brother's son,,,,
-feZS,ᵐboi,ᵐboi,female ego's older sister's son,,,,
-fyZS,ᵐboi,ᵐboi,female ego's younger sister's son,,,,
-feBD,ɸoi,ɸoi,female ego's older brother's daughter,,,,
-fyBD,ɸoi,ɸoi,female ego's younger brother's daughter,,,,
-feZD,ɸoi,ɸoi,female ego's older sister's daughter,,,,
-fyZD,ɸoi,ɸoi,female ego's younger sister's daughter,,,,
-mFeB,tata,tata,male ego's father's older brother,,,,
-mFyB,tata,tata,male ego's father's younger brother,,,,
-mFeZ,ᵐbʷarai,ᵐbʷarai,male ego's father's older sister,,,,
-mFyZ,ᵐbʷarai,ᵐbʷarai,male ego's father's younger sister,,,,
-mMeB,taˈrambe,taˈrambe,male ego's mother's older brother,,,,
-mMyB,taˈrambe,taˈrambe,male ego's mother's younger brother,,,,
-mMeZ,ᵐbou,ᵐbou,male ego's mother's older sister,,,,
-mMyZ,ᵐbou,ᵐbou,male ego's mother's younger sister,,,,
-fFeB,tata,tata,female ego's father's older brother,,,,
-fFyB,tata,tata,female ego's father's younger brother,,,,
-fFeZ,ᵐbʷarai,ᵐbʷarai,female ego's father's older sister,,,,
-fFyZ,ᵐbʷarai,ᵐbʷarai,female ego's father's younger sister,,,,
-fMeB,taˈrambe,taˈrambe,female ego's mother's older brother,,,,
-fMyB,taˈrambe,taˈrambe,female ego's mother's younger brother,,,,
-fMeZ,ᵐbou,ᵐbou,female ego's mother's older sister,,,,
-fMyZ,ᵐbou,ᵐbou,female ego's mother's younger sister,,,,
-mW,tasala-ŋgu,tasala-ŋgu,male ego's wife,,,,
-fH,asoa-ŋgu,asoa-ŋgu,female ego‘s husband,,,,
-mDH,ᵐbʷeli,ᵐbʷeli,male ego's daughter's husband,,,,
-fDH,ˈᵐbʷeli,ˈᵐbʷeli,female ego's daughter's husband,,,,
-mSW,buᵐbu,buᵐbu,male ego's son's wife,,,,
-fSW,buᵐbu,buᵐbu,female ego's son's wife,,,,
-mWF,ɸoi (?),ɸoi (?),male ego's wife's father,,,,
-mWM,ɸoi (?),ɸoi (?),male ego's wife's mother,,,,
-fHF,buᵐbu,buᵐbu,female ego's husband's father,,,,
-fHM,buᵐbu,buᵐbu,female ego's husband's mother,,,,
-mBW,buᵐbu,buᵐbu,male ego's brother's wife,,,,
-fBW,raiva,raiva,female ego's brother's wife,,,,
-mZH,sala-ŋgu,sala-ŋgu,male ego's sister's husband,,,,
-mFBS,tue-ŋgu,tue-ŋgu,male ego's father's brother's son,,,,
-mFZS,tata,tata,male ego's father's sister's son,buᵐbu,,,
-mMBS,ᵐboi,ᵐboi,male ego's mother's brother's son,natura,,,MBS considered sons?
-mMZS,tue-ŋgu,tue-ŋgu,male ego's mother's sister's son,natura,,,MZS considered daaughters?
-mFBD,soɣoti,soɣoti,male ego's father's brother's daughter,,,,
-mFZD,ᵐbʷarai,ᵐbʷarai,male ego's father's sister's daughter,buᵐbu,,,daughters of aunties are referred to as 'small aunties'
-mMBD,ᵐboi,ᵐboi,male ego's mother's brother's daughter,,,,
-mMZD,soɣoti,soɣoti,male ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tue-ŋgu","tue-ŋgu","male ego's older brother","tuɣa",,,"ᵐbʷana 'mat'  can be used for ""FIRST BORN CHILD"""
+"myB","tue-ŋgu","tue-ŋgu","male ego's younger brother","tasira, tesira",,,""
+"feB","soɣoti","soɣoti","female ego's older brother","tuɣa",,,""
+"fyB","soɣoti","soɣoti","female ego's younger brother","tasira, tesira",,,""
+"meZ","soɣoti","soɣoti","male ego's older sister","tuɣa",,,""
+"myZ","soɣoti","soɣoti","male ego's younger sister","tasira, tesira",,,""
+"feZ","tue-ŋgu","tue-ŋgu","female ego's older sister","tuɣa",,,""
+"fyZ","tue-ŋgu","tue-ŋgu","female ego's younger sister","tasira, tesira",,,""
+"mF","tata","tata","male ego's father","",,,""
+"mM","ᵐbou","ᵐbou","male ego's mother","",,,""
+"fF","tata","tata","female ego's father","",,,""
+"fM","ᵐbou","ᵐbou","female ego's mother","",,,""
+"mS","ᵐboi","ᵐboi","male ego's son","",,,""
+"fS","ᵐboi","ᵐboi","female ego's son","",,,""
+"mD","ɸoi","ɸoi","male ego's daughter","",,,""
+"fD","ɸoi","ɸoi","female ego's daughter","",,,""
+"mSS","buᵐbu","buᵐbu","male ego's son's son","buᵐbu mʷera",,,""
+"mSD","buᵐbu","buᵐbu","male ego's son's daughter","buᵐbu ɸaβine",,,""
+"mDS","buᵐbu","buᵐbu","male ego's daughter's son","buᵐbu mʷera",,,""
+"mDD","buᵐbu","buᵐbu","male ego's daughter's daughter","buᵐbu ɸaβine",,,""
+"fSS","buᵐbu","buᵐbu","female ego's son's son","buᵐbu mʷera",,,""
+"fSD","buᵐbu","buᵐbu","female ego's son's daughter","buᵐbu ɸaβine",,,""
+"fDS","buᵐbu","buᵐbu","female ego's daughter's son","buᵐbu mʷera",,,""
+"fDD","buᵐbu","buᵐbu","female ego's daugher's daughter","buᵐbu ɸaβine",,,""
+"mFF","buᵐbu","buᵐbu","male ego's father‘s father","buᵐbu mʷera",,,""
+"mFM","buᵐbu","buᵐbu","male ego's father's mother","buᵐbu ɸaβine",,,""
+"mMF","buᵐbu","buᵐbu","male ego's mother's father","buᵐbu mʷera",,,""
+"mMM","buᵐbu","buᵐbu","male ego's mother's mother","buᵐbu ɸaβine",,,""
+"fFF","buᵐbu","buᵐbu","female ego's father's father","buᵐbu mʷera",,,""
+"fFM","buᵐbu","buᵐbu","female ego's father's mother","buᵐbu ɸaβine",,,""
+"fMF","buᵐbu","buᵐbu","female ego's mother's father","buᵐbu mʷera",,,""
+"fMM","buᵐbu","buᵐbu","female ego's mother's mother","buᵐbu ɸaβine",,,""
+"meBS","ᵐboi","ᵐboi","male ego's older brother's son","",,,""
+"myBS","ᵐboi","ᵐboi","male ego's younger brother's son","",,,""
+"meZS","aloa","aloa","male ego's older sister's son","",,,""
+"myZS","aloa","aloa","male ego's younger sister's son","",,,""
+"meBD","ɸoi","ɸoi","male ego's older brother's daughter","",,,""
+"myBD","ɸoi","ɸoi","male ego's younger brother's daughter","",,,""
+"meZD","aloa","aloa","male ego's older sister's daughter","",,,""
+"myZD","aloa","aloa","male ego's younger sister's daughter","",,,""
+"feBS","ᵐboi","ᵐboi","female ego's older brother's son","",,,""
+"fyBS","ᵐboi","ᵐboi","female ego's younger brother's son","",,,""
+"feZS","ᵐboi","ᵐboi","female ego's older sister's son","",,,""
+"fyZS","ᵐboi","ᵐboi","female ego's younger sister's son","",,,""
+"feBD","ɸoi","ɸoi","female ego's older brother's daughter","",,,""
+"fyBD","ɸoi","ɸoi","female ego's younger brother's daughter","",,,""
+"feZD","ɸoi","ɸoi","female ego's older sister's daughter","",,,""
+"fyZD","ɸoi","ɸoi","female ego's younger sister's daughter","",,,""
+"mFeB","tata","tata","male ego's father's older brother","",,,""
+"mFyB","tata","tata","male ego's father's younger brother","",,,""
+"mFeZ","ᵐbʷarai","ᵐbʷarai","male ego's father's older sister","",,,""
+"mFyZ","ᵐbʷarai","ᵐbʷarai","male ego's father's younger sister","",,,""
+"mMeB","taˈrambe","taˈrambe","male ego's mother's older brother","",,,""
+"mMyB","taˈrambe","taˈrambe","male ego's mother's younger brother","",,,""
+"mMeZ","ᵐbou","ᵐbou","male ego's mother's older sister","",,,""
+"mMyZ","ᵐbou","ᵐbou","male ego's mother's younger sister","",,,""
+"fFeB","tata","tata","female ego's father's older brother","",,,""
+"fFyB","tata","tata","female ego's father's younger brother","",,,""
+"fFeZ","ᵐbʷarai","ᵐbʷarai","female ego's father's older sister","",,,""
+"fFyZ","ᵐbʷarai","ᵐbʷarai","female ego's father's younger sister","",,,""
+"fMeB","taˈrambe","taˈrambe","female ego's mother's older brother","",,,""
+"fMyB","taˈrambe","taˈrambe","female ego's mother's younger brother","",,,""
+"fMeZ","ᵐbou","ᵐbou","female ego's mother's older sister","",,,""
+"fMyZ","ᵐbou","ᵐbou","female ego's mother's younger sister","",,,""
+"mW","tasala-ŋgu","tasala-ŋgu","male ego's wife","",,,""
+"fH","asoa-ŋgu","asoa-ŋgu","female ego‘s husband","",,,""
+"mDH","ᵐbʷeli","ᵐbʷeli","male ego's daughter's husband","",,,""
+"fDH","ˈᵐbʷeli","ˈᵐbʷeli","female ego's daughter's husband","",,,""
+"mSW","buᵐbu","buᵐbu","male ego's son's wife","",,,""
+"fSW","buᵐbu","buᵐbu","female ego's son's wife","",,,""
+"mWF","ɸoi (?)","ɸoi (?)","male ego's wife's father","",,,""
+"mWM","ɸoi (?)","ɸoi (?)","male ego's wife's mother","",,,""
+"fHF","buᵐbu","buᵐbu","female ego's husband's father","",,,""
+"fHM","buᵐbu","buᵐbu","female ego's husband's mother","",,,""
+"mBW","buᵐbu","buᵐbu","male ego's brother's wife","",,,""
+"fBW","raiva","raiva","female ego's brother's wife","",,,""
+"mZH","sala-ŋgu","sala-ŋgu","male ego's sister's husband","",,,""
+"mFBS","tue-ŋgu","tue-ŋgu","male ego's father's brother's son","",,,""
+"mFZS","tata","tata","male ego's father's sister's son","buᵐbu",,,""
+"mMBS","ᵐboi","ᵐboi","male ego's mother's brother's son","natura",,,"MBS considered sons?"
+"mMZS","tue-ŋgu","tue-ŋgu","male ego's mother's sister's son","natura",,,"MZS considered daaughters?"
+"mFBD","soɣoti","soɣoti","male ego's father's brother's daughter","",,,""
+"mFZD","ᵐbʷarai","ᵐbʷarai","male ego's father's sister's daughter","buᵐbu",,,"daughters of aunties are referred to as 'small aunties'"
+"mMBD","ᵐboi","ᵐboi","male ego's mother's brother's daughter","",,,""
+"mMZD","soɣoti","soɣoti","male ego's mother's sister's daughter","",,,""
+"mFeBS","tue-ŋgu","tue-ŋgu","male ego's father's brother's son","",,,"Inferred; "
+"mFyBS","tue-ŋgu","tue-ŋgu","male ego's father's brother's son","",,,"Inferred; "
+"mFeZS","tata","tata","male ego's father's sister's son","buᵐbu",,,"Inferred; "
+"mFyZS","tata","tata","male ego's father's sister's son","buᵐbu",,,"Inferred; "
+"mFeBD","soɣoti","soɣoti","male ego's father's brother's daughter","",,,"Inferred; "
+"mFyBD","soɣoti","soɣoti","male ego's father's brother's daughter","",,,"Inferred; "
+"mFeZD","ᵐbʷarai","ᵐbʷarai","male ego's father's sister's daughter","buᵐbu",,,"Inferred; daughters of aunties are referred to as 'small aunties'"
+"mFyZD","ᵐbʷarai","ᵐbʷarai","male ego's father's sister's daughter","buᵐbu",,,"Inferred; daughters of aunties are referred to as 'small aunties'"
+"mMeBS","ᵐboi","ᵐboi","male ego's mother's brother's son","natura",,,"Inferred; MBS considered sons?"
+"mMyBS","ᵐboi","ᵐboi","male ego's mother's brother's son","natura",,,"Inferred; MBS considered sons?"
+"mMeZS","tue-ŋgu","tue-ŋgu","male ego's mother's sister's son","natura",,,"Inferred; MZS considered daaughters?"
+"mMyZS","tue-ŋgu","tue-ŋgu","male ego's mother's sister's son","natura",,,"Inferred; MZS considered daaughters?"
+"mMeBD","ᵐboi","ᵐboi","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMyBD","ᵐboi","ᵐboi","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMeZD","soɣoti","soɣoti","male ego's mother's sister's daughter","",,,"Inferred; "
+"mMyZD","soɣoti","soɣoti","male ego's mother's sister's daughter","",,,"Inferred; "
+"mFBeS","tue-ŋgu","tue-ŋgu","male ego's father's brother's son","",,,"Inferred; "
+"mFByS","tue-ŋgu","tue-ŋgu","male ego's father's brother's son","",,,"Inferred; "
+"mFZeS","tata","tata","male ego's father's sister's son","buᵐbu",,,"Inferred; "
+"mFZyS","tata","tata","male ego's father's sister's son","buᵐbu",,,"Inferred; "
+"mFBeD","soɣoti","soɣoti","male ego's father's brother's daughter","",,,"Inferred; "
+"mFByD","soɣoti","soɣoti","male ego's father's brother's daughter","",,,"Inferred; "
+"mFZeD","ᵐbʷarai","ᵐbʷarai","male ego's father's sister's daughter","buᵐbu",,,"Inferred; daughters of aunties are referred to as 'small aunties'"
+"mFZyD","ᵐbʷarai","ᵐbʷarai","male ego's father's sister's daughter","buᵐbu",,,"Inferred; daughters of aunties are referred to as 'small aunties'"
+"mMBeS","ᵐboi","ᵐboi","male ego's mother's brother's son","natura",,,"Inferred; MBS considered sons?"
+"mMByS","ᵐboi","ᵐboi","male ego's mother's brother's son","natura",,,"Inferred; MBS considered sons?"
+"mMZeS","tue-ŋgu","tue-ŋgu","male ego's mother's sister's son","natura",,,"Inferred; MZS considered daaughters?"
+"mMZyS","tue-ŋgu","tue-ŋgu","male ego's mother's sister's son","natura",,,"Inferred; MZS considered daaughters?"
+"mMBeD","ᵐboi","ᵐboi","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMByD","ᵐboi","ᵐboi","male ego's mother's brother's daughter","",,,"Inferred; "
+"mMZeD","soɣoti","soɣoti","male ego's mother's sister's daughter","",,,"Inferred; "
+"mMZyD","soɣoti","soɣoti","male ego's mother's sister's daughter","",,,"Inferred; "

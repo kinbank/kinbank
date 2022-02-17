@@ -1,146 +1,154 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-mB,anɨ,,,,"TP5(394,395)",castro_arawete_1986,
-mZ,heni,,,,"TP5(394,395)",castro_arawete_1986,
-meB,heči'i,,,,"TP5(394,395)",castro_arawete_1986,
-myB,či'i,,,,"TP5(394,395)",castro_arawete_1986,
-myZ,či'i'ɨ͂,,,,TP5(395),castro_arawete_1986,
-mF,to,,,,TP5(394),castro_arawete_1986,
-mM,hi,,,,TP5(394),castro_arawete_1986,
-mS,ta'i,,,,TP5(395),castro_arawete_1986,
-mD,haiyi,,,,TP5(395),castro_arawete_1986,
-mFF,tamõy,,,,TP5(394),castro_arawete_1986,
-mFM,đari,,,,TP5(394),castro_arawete_1986,
-mMF,tamõy,,,,TP5(394),castro_arawete_1986,
-mMM,đari,,,,TP5(394),castro_arawete_1986,
-mSS,hããmõnõ,,,,TP5(397),castro_arawete_1986,
-mSD,hããmõnõ,,,,TP5(397),castro_arawete_1986,
-mDS,hããmõnõ,,,,TP5(397),castro_arawete_1986,
-mDD,hããmõnõ,,,,TP5(397),castro_arawete_1986,
-mFeB,to dɨ͂,,,,TP5(394),castro_arawete_1986,
-mFyB,to dɨ͂,,,,TP5(394),castro_arawete_1986,
-mFeZ,đađe,,,,TP5(394),castro_arawete_1986,
-mFyZ,đađe,,,,TP5(394),castro_arawete_1986,
-mMeZ,hi dɨ,,,,TP5(394),castro_arawete_1986,
-mMyZ,hi dɨ,,,,TP5(394),castro_arawete_1986,
-mMeB,toti,,,,TP5(394),castro_arawete_1986,
-mMyB,toti,,,,TP5(394),castro_arawete_1986,
-meBS,ta'i,,,,TP5(396),castro_arawete_1986,
-myBS,ta'i,,,,TP5(396),castro_arawete_1986,
-meBD,haiyi,,,,TP5(396),castro_arawete_1986,
-myBD,haiyi,,,,TP5(396),castro_arawete_1986,
-meZS,yi'i,,,,TP5(396),castro_arawete_1986,
-myZS,yi'i,,,,TP5(396),castro_arawete_1986,
-meZD,đȉpe,,,,TP5(396),castro_arawete_1986,
-myZD,đȉpe,,,,TP5(396),castro_arawete_1986,
-mFZD,tiwã,,,,TP5(395),castro_arawete_1986,
-mFBD,heni,,,,TP5(394-395),castro_arawete_1986,
-mMBD,tiwã,,,,TP5(395),castro_arawete_1986,
-mMZD,heni,,,,TP5(394-395),castro_arawete_1986,
-mFBS,anɨ,,,,TP5(394-395),castro_arawete_1986,
-mFZS,tiwã,,,,TP5(395),castro_arawete_1986,
-mMBS,tiwã,,,,TP5(395),castro_arawete_1986,
-mMZS,anɨ,,,,TP5(394-395),castro_arawete_1986,
-mFeBS,he či'i,,,,TP5(395),castro_arawete_1986,
-mFyBS,či'i,,,,TP5(395),castro_arawete_1986,
-mMeZS,he či'i,,,,TP5(395),castro_arawete_1986,
-mMyZS,či'i,,,,TP5(395),castro_arawete_1986,
-mW,terekɨ͂,,,,TP5(397),castro_arawete_1986,
-mWM,hačo,,,,TP5(397),castro_arawete_1986,
-mBW,hayĩhi,,,,TP5(397-398),castro_arawete_1986,
-mZH,hado'i,,,,TP5(397-398),castro_arawete_1986,
-mWB,hado'i,,,,TP5(397-398),castro_arawete_1986,
-mWZ,hayĩhi,,,,TP5(398),castro_arawete_1986,
-mFW(notM),hi amɨ͂,,,,TP5(394),castro_arawete_1986,
-mMH(notF),hi amɨ͂,,,,TP5(394),castro_arawete_1986,
-mSW,ta'itati,,,,TP5(399),castro_arawete_1986,
-mDH,haiyime,,,,TP5(399),castro_arawete_1986,
-mFeZS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mFyZS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mFeBD,heni,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mFyBD,heni,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mMeBS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMyBS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMeBD,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMyBD,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mFBeS,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mFByS,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mFZeS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mFZyS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mFBeD,heni,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mFByD,heni,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mFZeD,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mFZyD,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMBeS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMByS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMZeS,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mMZyS,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mMBeD,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMByD,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-mMZeD,heni,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-mMZyD,heni,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fB,čiwi,,,,"TP5(394,395)",castro_arawete_1986,
-fZ,anɨ,,,,"TP5(394,395)",castro_arawete_1986,
-feZ,heči'i,,,,"TP5(394,395)",castro_arawete_1986,
-fyZ,či'i,,,,TP5(395),castro_arawete_1986,
-fF,to,,,,TP5(394),castro_arawete_1986,
-fM,hi,,,,TP5(394),castro_arawete_1986,
-fS,memi,,,,TP5(395),castro_arawete_1986,
-fD,memi,,,,TP5(395),castro_arawete_1986,
-fFF,tamõy,,,,TP5(394),castro_arawete_1986,
-fFM,đari,,,,TP5(394),castro_arawete_1986,
-fMF,tamõy,,,,TP5(394),castro_arawete_1986,
-fMM,đari,,,,TP5(394),castro_arawete_1986,
-fSS,hẽmȉdađȉdo,,,,TP5(397),castro_arawete_1986,
-fSD,hẽmȉdađȉdo,,,,TP5(397),castro_arawete_1986,
-fDS,hẽmȉdađȉdo,,,,TP5(397),castro_arawete_1986,
-fDD,hẽmȉdađȉdo,,,,TP5(397),castro_arawete_1986,
-fFeB,to dɨ͂,,,,TP5(394),castro_arawete_1986,
-fFyB,to dɨ͂,,,,TP5(394),castro_arawete_1986,
-fFeZ,đađe,,,,TP5(394),castro_arawete_1986,
-fFyZ,đađe,,,,TP5(394),castro_arawete_1986,
-fMeZ,hi dɨ,,,,TP5(394),castro_arawete_1986,
-fMyZ,hi dɨ,,,,TP5(394),castro_arawete_1986,
-fMeB,toti,,,,TP5(394),castro_arawete_1986,
-fMyB,toti,,,,TP5(394),castro_arawete_1986,
-feBS,pe'ɨ͂,,,,TP5(396),castro_arawete_1986,
-fyBS,pe'ɨ͂,,,,TP5(396),castro_arawete_1986,
-feBD,pe'ɨ͂,,,,TP5(396),castro_arawete_1986,
-fyBD,pe'ɨ͂,,,,TP5(396),castro_arawete_1986,
-feZS,memi,,,,TP5(396),castro_arawete_1986,
-fyZS,memi,,,,TP5(396),castro_arawete_1986,
-feZD,memi,,,,TP5(396),castro_arawete_1986,
-fyZD,memi,,,,TP5(396),castro_arawete_1986,
-fFBD,anɨ,,,,TP5(394-395),castro_arawete_1986,
-fMZD,anɨ,,,,TP5(394-395),castro_arawete_1986,
-fFBS,čiwi,,,,TP5(394-395),castro_arawete_1986,
-fFZS,tiwã,,,,TP5(395),castro_arawete_1986,
-fMBS,tiwã,,,,TP5(395),castro_arawete_1986,
-fMZS,čiwi,,,,TP5(394-395),castro_arawete_1986,
-fFeZD,he či'i,,,,TP5(395),castro_arawete_1986,
-fFyZD,či'i,,,,TP5(395),castro_arawete_1986,
-fMeZD,he či'i,,,,TP5(395),castro_arawete_1986,
-fMyZD,či'i,,,,TP5(395),castro_arawete_1986,
-fH,temiyika,,,,TP5(397),castro_arawete_1986,
-fHM,hačo,,,,TP5(397),castro_arawete_1986,
-fBW,hado'i,,,,TP5(397-398),castro_arawete_1986,
-fZH,herekĩ dɨ͂,,,,TP5(397-398),castro_arawete_1986,
-fSW,memitati,,,,TP5(399),castro_arawete_1986,
-fDH,memirerekɨ͂,,,,TP5(399),castro_arawete_1986,
-fFeZS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fFyZS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fFeBD,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fFyBD,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fMeBS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fMyBS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fFBeS,čiwi,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fFByS,čiwi,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fFZeS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fFZyS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fFBeD,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fFByD,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fMBeS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fMByS,tiwã,,,,TP5(395),castro_arawete_1986,Inferred; NA
-fMZeS,čiwi,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fMZyS,čiwi,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fMZeD,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
-fMZyD,anɨ,,,,TP5(394-395),castro_arawete_1986,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"mB","anɨ",,,,"TP5(394,395)","castro_arawete_1986",""
+"mZ","heni",,,,"TP5(394,395)","castro_arawete_1986",""
+"meB","heči'i",,,,"TP5(394,395)","castro_arawete_1986",""
+"myB","či'i",,,,"TP5(394,395)","castro_arawete_1986",""
+"myZ","či'i'ɨ͂",,,,"TP5(395)","castro_arawete_1986",""
+"mF","to",,,,"TP5(394)","castro_arawete_1986",""
+"mM","hi",,,,"TP5(394)","castro_arawete_1986",""
+"mS","ta'i",,,,"TP5(395)","castro_arawete_1986",""
+"mD","haiyi",,,,"TP5(395)","castro_arawete_1986",""
+"mFF","tamõy",,,,"TP5(394)","castro_arawete_1986",""
+"mFM","đari",,,,"TP5(394)","castro_arawete_1986",""
+"mMF","tamõy",,,,"TP5(394)","castro_arawete_1986",""
+"mMM","đari",,,,"TP5(394)","castro_arawete_1986",""
+"mSS","hããmõnõ",,,,"TP5(397)","castro_arawete_1986",""
+"mSD","hããmõnõ",,,,"TP5(397)","castro_arawete_1986",""
+"mDS","hããmõnõ",,,,"TP5(397)","castro_arawete_1986",""
+"mDD","hããmõnõ",,,,"TP5(397)","castro_arawete_1986",""
+"mFeB","to dɨ͂",,,,"TP5(394)","castro_arawete_1986",""
+"mFyB","to dɨ͂",,,,"TP5(394)","castro_arawete_1986",""
+"mFeZ","đađe",,,,"TP5(394)","castro_arawete_1986",""
+"mFyZ","đađe",,,,"TP5(394)","castro_arawete_1986",""
+"mMeZ","hi dɨ",,,,"TP5(394)","castro_arawete_1986",""
+"mMyZ","hi dɨ",,,,"TP5(394)","castro_arawete_1986",""
+"mMeB","toti",,,,"TP5(394)","castro_arawete_1986",""
+"mMyB","toti",,,,"TP5(394)","castro_arawete_1986",""
+"meBS","ta'i",,,,"TP5(396)","castro_arawete_1986",""
+"myBS","ta'i",,,,"TP5(396)","castro_arawete_1986",""
+"meBD","haiyi",,,,"TP5(396)","castro_arawete_1986",""
+"myBD","haiyi",,,,"TP5(396)","castro_arawete_1986",""
+"meZS","yi'i",,,,"TP5(396)","castro_arawete_1986",""
+"myZS","yi'i",,,,"TP5(396)","castro_arawete_1986",""
+"meZD","đȉpe",,,,"TP5(396)","castro_arawete_1986",""
+"myZD","đȉpe",,,,"TP5(396)","castro_arawete_1986",""
+"mFZD","tiwã",,,,"TP5(395)","castro_arawete_1986",""
+"mFBD","heni",,,,"TP5(394-395)","castro_arawete_1986",""
+"mMBD","tiwã",,,,"TP5(395)","castro_arawete_1986",""
+"mMZD","heni",,,,"TP5(394-395)","castro_arawete_1986",""
+"mFBS","anɨ",,,,"TP5(394-395)","castro_arawete_1986",""
+"mFZS","tiwã",,,,"TP5(395)","castro_arawete_1986",""
+"mMBS","tiwã",,,,"TP5(395)","castro_arawete_1986",""
+"mMZS","anɨ",,,,"TP5(394-395)","castro_arawete_1986",""
+"mFeBS","he či'i",,,,"TP5(395)","castro_arawete_1986",""
+"mFyBS","či'i",,,,"TP5(395)","castro_arawete_1986",""
+"mMeZS","he či'i",,,,"TP5(395)","castro_arawete_1986",""
+"mMyZS","či'i",,,,"TP5(395)","castro_arawete_1986",""
+"mW","terekɨ͂",,,,"TP5(397)","castro_arawete_1986",""
+"mWM","hačo",,,,"TP5(397)","castro_arawete_1986",""
+"mBW","hayĩhi",,,,"TP5(397-398)","castro_arawete_1986",""
+"mZH","hado'i",,,,"TP5(397-398)","castro_arawete_1986",""
+"mWB","hado'i",,,,"TP5(397-398)","castro_arawete_1986",""
+"mWZ","hayĩhi",,,,"TP5(398)","castro_arawete_1986",""
+"mFW(notM)","hi amɨ͂",,,,"TP5(394)","castro_arawete_1986",""
+"mMH(notF)","hi amɨ͂",,,,"TP5(394)","castro_arawete_1986",""
+"mSW","ta'itati",,,,"TP5(399)","castro_arawete_1986",""
+"mDH","haiyime",,,,"TP5(399)","castro_arawete_1986",""
+"mFeZS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mFyZS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mFeBD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mFyBD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mMeBS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMyBS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMeBD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMyBD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mFBeS","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mFByS","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mFZeS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mFZyS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mFBeD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mFByD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mFZeD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mFZyD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMBeS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMByS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMZeS","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mMZyS","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mMBeD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMByD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"mMZeD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mMZyD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fB","čiwi",,,,"TP5(394,395)","castro_arawete_1986",""
+"fZ","anɨ",,,,"TP5(394,395)","castro_arawete_1986",""
+"feZ","heči'i",,,,"TP5(394,395)","castro_arawete_1986",""
+"fyZ","či'i",,,,"TP5(395)","castro_arawete_1986",""
+"fF","to",,,,"TP5(394)","castro_arawete_1986",""
+"fM","hi",,,,"TP5(394)","castro_arawete_1986",""
+"fS","memi",,,,"TP5(395)","castro_arawete_1986",""
+"fD","memi",,,,"TP5(395)","castro_arawete_1986",""
+"fFF","tamõy",,,,"TP5(394)","castro_arawete_1986",""
+"fFM","đari",,,,"TP5(394)","castro_arawete_1986",""
+"fMF","tamõy",,,,"TP5(394)","castro_arawete_1986",""
+"fMM","đari",,,,"TP5(394)","castro_arawete_1986",""
+"fSS","hẽmȉdađȉdo",,,,"TP5(397)","castro_arawete_1986",""
+"fSD","hẽmȉdađȉdo",,,,"TP5(397)","castro_arawete_1986",""
+"fDS","hẽmȉdađȉdo",,,,"TP5(397)","castro_arawete_1986",""
+"fDD","hẽmȉdađȉdo",,,,"TP5(397)","castro_arawete_1986",""
+"fFeB","to dɨ͂",,,,"TP5(394)","castro_arawete_1986",""
+"fFyB","to dɨ͂",,,,"TP5(394)","castro_arawete_1986",""
+"fFeZ","đađe",,,,"TP5(394)","castro_arawete_1986",""
+"fFyZ","đađe",,,,"TP5(394)","castro_arawete_1986",""
+"fMeZ","hi dɨ",,,,"TP5(394)","castro_arawete_1986",""
+"fMyZ","hi dɨ",,,,"TP5(394)","castro_arawete_1986",""
+"fMeB","toti",,,,"TP5(394)","castro_arawete_1986",""
+"fMyB","toti",,,,"TP5(394)","castro_arawete_1986",""
+"feBS","pe'ɨ͂",,,,"TP5(396)","castro_arawete_1986",""
+"fyBS","pe'ɨ͂",,,,"TP5(396)","castro_arawete_1986",""
+"feBD","pe'ɨ͂",,,,"TP5(396)","castro_arawete_1986",""
+"fyBD","pe'ɨ͂",,,,"TP5(396)","castro_arawete_1986",""
+"feZS","memi",,,,"TP5(396)","castro_arawete_1986",""
+"fyZS","memi",,,,"TP5(396)","castro_arawete_1986",""
+"feZD","memi",,,,"TP5(396)","castro_arawete_1986",""
+"fyZD","memi",,,,"TP5(396)","castro_arawete_1986",""
+"fFBD","anɨ",,,,"TP5(394-395)","castro_arawete_1986",""
+"fMZD","anɨ",,,,"TP5(394-395)","castro_arawete_1986",""
+"fFBS","čiwi",,,,"TP5(394-395)","castro_arawete_1986",""
+"fFZS","tiwã",,,,"TP5(395)","castro_arawete_1986",""
+"fMBS","tiwã",,,,"TP5(395)","castro_arawete_1986",""
+"fMZS","čiwi",,,,"TP5(394-395)","castro_arawete_1986",""
+"fFeZD","he či'i",,,,"TP5(395)","castro_arawete_1986",""
+"fFyZD","či'i",,,,"TP5(395)","castro_arawete_1986",""
+"fMeZD","he či'i",,,,"TP5(395)","castro_arawete_1986",""
+"fMyZD","či'i",,,,"TP5(395)","castro_arawete_1986",""
+"fH","temiyika",,,,"TP5(397)","castro_arawete_1986",""
+"fHM","hačo",,,,"TP5(397)","castro_arawete_1986",""
+"fBW","hado'i",,,,"TP5(397-398)","castro_arawete_1986",""
+"fZH","herekĩ dɨ͂",,,,"TP5(397-398)","castro_arawete_1986",""
+"fSW","memitati",,,,"TP5(399)","castro_arawete_1986",""
+"fDH","memirerekɨ͂",,,,"TP5(399)","castro_arawete_1986",""
+"fFeZS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fFyZS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fFeBD","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fFyBD","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fMeBS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fMyBS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fFBeS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fFByS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fFZeS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fFZyS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fFBeD","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fFByD","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fMBeS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fMByS","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; NA"
+"fMZeS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fMZyS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fMZeD","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"fMZyD","anɨ",,,,"TP5(394-395)","castro_arawete_1986","Inferred; NA"
+"mFeZD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; "
+"mFyZD","tiwã",,,,"TP5(395)","castro_arawete_1986","Inferred; "
+"mMeZD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; "
+"mMyZD","heni",,,,"TP5(394-395)","castro_arawete_1986","Inferred; "
+"fFeBS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; "
+"fFyBS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; "
+"fMeZS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; "
+"fMyZS","čiwi",,,,"TP5(394-395)","castro_arawete_1986","Inferred; "

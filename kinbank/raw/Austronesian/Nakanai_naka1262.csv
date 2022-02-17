@@ -1,97 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,e-hatamale-(la),,male ego's older brother,,,,
-myB,e-hatamale-(la),,male ego's younger brother,,,,
-feB,e-hatamale-(la),,female ego's older brother,,,,
-fyB,e-hatamale-(la),,female ego's younger brother,,,,
-meZ,hatavile-(la),,male ego's older sister,,,,
-myZ,hatavile-(la),,male ego's younger sister,,,,
-feZ,hatavile-(la),,female ego's older sister,,,,
-fyZ,hatavile-(la),,female ego's younger sister,,,,
-mF,"tama-(la), tete",,male ego's father,,,,
-mM,tila,,male ego's mother,,,,
-fF,"tama-(la), tete",,female ego's father,,,,
-fM,tila,,female ego's mother,,,,
-mS,latu-(la),,male ego's son,,,,
-fS,latu-(la),,female ego's son,,,,
-mD,latu-(la),,male ego's daughter,,,,
-fD,latu-(la),,female ego's daughter,,,,
-mSS,tubu-(la),,male ego's son's son,,,,
-mSD,tubu-(la),,male ego's son's daughter,,,,
-mDS,tubu-(la),,male ego's daughter's son,,,,
-mDD,tubu-(la),,male ego's daughter's daughter,,,,
-fSS,tubu-(la),,female ego's son's son,,,,
-fSD,tubu-(la),,female ego's son's daughter,,,,
-fDS,tubu-(la),,female ego's daughter's son,,,,
-fDD,tubu-(la),,female ego's daugher's daughter,,,,
-mFF,tubu-(la),,male ego's father‘s father,,,,
-mFM,tubu-(la),,male ego's father's mother,,,,
-mMF,tubu-(la),,male ego's mother's father,,,,
-mMM,tubu-(la),,male ego's mother's mother,,,,
-fFF,tubu-(la),,female ego's father's father,,,,
-fFM,tubu-(la),,female ego's father's mother,,,,
-fMF,tubu-(la),,female ego's mother's father,,,,
-fMM,tubu-(la),,female ego's mother's mother,,,,
-meBS,latu-(la),,male ego's older brother's son,,,,
-myBS,latu-(la),,male ego's younger brother's son,,,,
-meZS,hala-(la),,male ego's older sister's son,,,,
-myZS,hala-(la),,male ego's younger sister's son,,,,
-meBD,latu-(la),,male ego's older brother's daughter,,,,
-myBD,latu-(la),,male ego's younger brother's daughter,,,,
-meZD,"hala-(la), la-hili-gu",,male ego's older sister's daughter,,,,
-myZD,"hala-(la), la-hili-gu",,male ego's younger sister's daughter,,,,
-feBS,isa-(la),,female ego's older brother's son,,,,
-fyBS,isa-(la),,female ego's younger brother's son,,,,
-feZS,latu-(la),,female ego's older sister's son,,,,
-fyZS,latu-(la),,female ego's younger sister's son,,,,
-feBD,isa-(la),,female ego's older brother's daughter,,,,
-fyBD,isa-(la),,female ego's younger brother's daughter,,,,
-feZD,latu-(la),,female ego's older sister's daughter,,,,
-fyZD,latu-(la),,female ego's younger sister's daughter,,,,
-mFeB,"tama-(la) uru, tete uru",,male ego's father's older brother,,,,
-mFyB,"tama-(la) bisi, tete bisi",,male ego's father's younger brother,,,,
-mFeZ,"hala-(la), isa-(la)",,male ego's father's older sister,,,,
-mFyZ,"hala-(la), isa-(la)",,male ego's father's younger sister,,,,
-mMeB,hala-(la),,male ego's mother's older brother,,,,
-mMyB,hala-(la),,male ego's mother's younger brother,,,,
-mMeZ,tila uru,,male ego's mother's older sister,,,,
-mMyZ,tila bisi,,male ego's mother's younger sister,,,,
-fFeB,"tama-(la) uru, tete uru",,female ego's father's older brother,,,,
-fFyB,"tama-(la) bisi, tete bisi",,female ego's father's younger brother,,,,
-fFeZ,"hala-(la), isa-(la)",,female ego's father's older sister,,,,
-fFyZ,"hala-(la), isa-(la)",,female ego's father's younger sister,,,,
-fMeB,hala-(la),,female ego's mother's older brother,,,,
-fMyB,hala-(la),,female ego's mother's younger brother,,,,
-fMeZ,tila uru,,female ego's mother's older sister,,,,
-fMyZ,tila bisi,,female ego's mother's younger sister,,,,
-mW,rutu,,male ego's wife,,,,
-fH,harua-(la),,female ego‘s husband,,,,
-mDH,loa-(la),,male ego's daughter's husband,,,,
-fDH,loa-(la),,female ego's daughter's husband,,,,
-mSW,ua-(la),,male ego's son's wife,,,,
-fSW,ua-(la),,female ego's son's wife,,,,
-mWB,iva-(la),,male ego's wife's brother,,,,
-mWZ,tula-(la),,male ego's wife's sister,,,,
-fHF,"hala-(la), ua-(la)",,female ego's husband's father,,,,
-fHM,"isa-(la), ua-(la)",,female ego's husband's mother,,,,
-fHB,tula-(la),,female ego's husband's brother,,,,
-fHZ,"hiva, iva-(la)",,female ego's husband's sister,,,,
-mBW,iva-(la),,male ego's brother's wife,,,,
-fBW,"hiva, iva-(la)",,female ego's brother's wife,,,,
-mZH,iva-(la),,male ego's sister's husband,,,,
-fZH,iva-(la),,female ego's sister's husband,,,,
-mFBS,e-hatamale-(la),,male ego's father's brother's son,,,,
-mFZS,e-hatamale-(la),,male ego's father's sister's son,,,,
-mMBS,e-hatamale-(la),,male ego's mother's brother's son,,,,
-mMZS,e-hatamale-(la),,male ego's mother's sister's son,,,,
-mFBD,hatavile-(la),,male ego's father's brother's daughter,,,,
-mFZD,hatavile-(la),,male ego's father's sister's daughter,,,,
-mMBD,hatavile-(la),,male ego's mother's brother's daughter,,,,
-mMZD,hatavile-(la),,male ego's mother's sister's daughter,,,,
-fFBS,e-hatamale-(la),,female ego's father's brother's son,,,,
-fFZS,e-hatamale-(la),,female ego's father's sister's son,,,,
-fMBS,e-hatamale-(la),,female ego's mother's brother's son,,,,
-fMZS,e-hatamale-(la),,female ego's mother's sister's son,,,,
-fFBD,hatavile-(la),,female ego's father's brother's daughter,,,,
-fFZD,hatavile-(la),,female ego's father's sister's daughter,,,,
-fMBD,hatavile-(la),,female ego's mother's brother's daughter,,,,
-fMZD,hatavile-(la),,female ego's mother's sister's daughter,,,,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","e-hatamale-(la)",,"male ego's older brother",,,,
+"myB","e-hatamale-(la)",,"male ego's younger brother",,,,
+"feB","e-hatamale-(la)",,"female ego's older brother",,,,
+"fyB","e-hatamale-(la)",,"female ego's younger brother",,,,
+"meZ","hatavile-(la)",,"male ego's older sister",,,,
+"myZ","hatavile-(la)",,"male ego's younger sister",,,,
+"feZ","hatavile-(la)",,"female ego's older sister",,,,
+"fyZ","hatavile-(la)",,"female ego's younger sister",,,,
+"mF","tama-(la), tete",,"male ego's father",,,,
+"mM","tila",,"male ego's mother",,,,
+"fF","tama-(la), tete",,"female ego's father",,,,
+"fM","tila",,"female ego's mother",,,,
+"mS","latu-(la)",,"male ego's son",,,,
+"fS","latu-(la)",,"female ego's son",,,,
+"mD","latu-(la)",,"male ego's daughter",,,,
+"fD","latu-(la)",,"female ego's daughter",,,,
+"mSS","tubu-(la)",,"male ego's son's son",,,,
+"mSD","tubu-(la)",,"male ego's son's daughter",,,,
+"mDS","tubu-(la)",,"male ego's daughter's son",,,,
+"mDD","tubu-(la)",,"male ego's daughter's daughter",,,,
+"fSS","tubu-(la)",,"female ego's son's son",,,,
+"fSD","tubu-(la)",,"female ego's son's daughter",,,,
+"fDS","tubu-(la)",,"female ego's daughter's son",,,,
+"fDD","tubu-(la)",,"female ego's daugher's daughter",,,,
+"mFF","tubu-(la)",,"male ego's father‘s father",,,,
+"mFM","tubu-(la)",,"male ego's father's mother",,,,
+"mMF","tubu-(la)",,"male ego's mother's father",,,,
+"mMM","tubu-(la)",,"male ego's mother's mother",,,,
+"fFF","tubu-(la)",,"female ego's father's father",,,,
+"fFM","tubu-(la)",,"female ego's father's mother",,,,
+"fMF","tubu-(la)",,"female ego's mother's father",,,,
+"fMM","tubu-(la)",,"female ego's mother's mother",,,,
+"meBS","latu-(la)",,"male ego's older brother's son",,,,
+"myBS","latu-(la)",,"male ego's younger brother's son",,,,
+"meZS","hala-(la)",,"male ego's older sister's son",,,,
+"myZS","hala-(la)",,"male ego's younger sister's son",,,,
+"meBD","latu-(la)",,"male ego's older brother's daughter",,,,
+"myBD","latu-(la)",,"male ego's younger brother's daughter",,,,
+"meZD","hala-(la), la-hili-gu",,"male ego's older sister's daughter",,,,
+"myZD","hala-(la), la-hili-gu",,"male ego's younger sister's daughter",,,,
+"feBS","isa-(la)",,"female ego's older brother's son",,,,
+"fyBS","isa-(la)",,"female ego's younger brother's son",,,,
+"feZS","latu-(la)",,"female ego's older sister's son",,,,
+"fyZS","latu-(la)",,"female ego's younger sister's son",,,,
+"feBD","isa-(la)",,"female ego's older brother's daughter",,,,
+"fyBD","isa-(la)",,"female ego's younger brother's daughter",,,,
+"feZD","latu-(la)",,"female ego's older sister's daughter",,,,
+"fyZD","latu-(la)",,"female ego's younger sister's daughter",,,,
+"mFeB","tama-(la) uru, tete uru",,"male ego's father's older brother",,,,
+"mFyB","tama-(la) bisi, tete bisi",,"male ego's father's younger brother",,,,
+"mFeZ","hala-(la), isa-(la)",,"male ego's father's older sister",,,,
+"mFyZ","hala-(la), isa-(la)",,"male ego's father's younger sister",,,,
+"mMeB","hala-(la)",,"male ego's mother's older brother",,,,
+"mMyB","hala-(la)",,"male ego's mother's younger brother",,,,
+"mMeZ","tila uru",,"male ego's mother's older sister",,,,
+"mMyZ","tila bisi",,"male ego's mother's younger sister",,,,
+"fFeB","tama-(la) uru, tete uru",,"female ego's father's older brother",,,,
+"fFyB","tama-(la) bisi, tete bisi",,"female ego's father's younger brother",,,,
+"fFeZ","hala-(la), isa-(la)",,"female ego's father's older sister",,,,
+"fFyZ","hala-(la), isa-(la)",,"female ego's father's younger sister",,,,
+"fMeB","hala-(la)",,"female ego's mother's older brother",,,,
+"fMyB","hala-(la)",,"female ego's mother's younger brother",,,,
+"fMeZ","tila uru",,"female ego's mother's older sister",,,,
+"fMyZ","tila bisi",,"female ego's mother's younger sister",,,,
+"mW","rutu",,"male ego's wife",,,,
+"fH","harua-(la)",,"female ego‘s husband",,,,
+"mDH","loa-(la)",,"male ego's daughter's husband",,,,
+"fDH","loa-(la)",,"female ego's daughter's husband",,,,
+"mSW","ua-(la)",,"male ego's son's wife",,,,
+"fSW","ua-(la)",,"female ego's son's wife",,,,
+"mWB","iva-(la)",,"male ego's wife's brother",,,,
+"mWZ","tula-(la)",,"male ego's wife's sister",,,,
+"fHF","hala-(la), ua-(la)",,"female ego's husband's father",,,,
+"fHM","isa-(la), ua-(la)",,"female ego's husband's mother",,,,
+"fHB","tula-(la)",,"female ego's husband's brother",,,,
+"fHZ","hiva, iva-(la)",,"female ego's husband's sister",,,,
+"mBW","iva-(la)",,"male ego's brother's wife",,,,
+"fBW","hiva, iva-(la)",,"female ego's brother's wife",,,,
+"mZH","iva-(la)",,"male ego's sister's husband",,,,
+"fZH","iva-(la)",,"female ego's sister's husband",,,,
+"mFBS","e-hatamale-(la)",,"male ego's father's brother's son",,,,
+"mFZS","e-hatamale-(la)",,"male ego's father's sister's son",,,,
+"mMBS","e-hatamale-(la)",,"male ego's mother's brother's son",,,,
+"mMZS","e-hatamale-(la)",,"male ego's mother's sister's son",,,,
+"mFBD","hatavile-(la)",,"male ego's father's brother's daughter",,,,
+"mFZD","hatavile-(la)",,"male ego's father's sister's daughter",,,,
+"mMBD","hatavile-(la)",,"male ego's mother's brother's daughter",,,,
+"mMZD","hatavile-(la)",,"male ego's mother's sister's daughter",,,,
+"fFBS","e-hatamale-(la)",,"female ego's father's brother's son",,,,
+"fFZS","e-hatamale-(la)",,"female ego's father's sister's son",,,,
+"fMBS","e-hatamale-(la)",,"female ego's mother's brother's son",,,,
+"fMZS","e-hatamale-(la)",,"female ego's mother's sister's son",,,,
+"fFBD","hatavile-(la)",,"female ego's father's brother's daughter",,,,
+"fFZD","hatavile-(la)",,"female ego's father's sister's daughter",,,,
+"fMBD","hatavile-(la)",,"female ego's mother's brother's daughter",,,,
+"fMZD","hatavile-(la)",,"female ego's mother's sister's daughter",,,,
+"mFeBS","e-hatamale-(la)",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFyBS","e-hatamale-(la)",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFeZS","e-hatamale-(la)",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFyZS","e-hatamale-(la)",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFeBD","hatavile-(la)",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFyBD","hatavile-(la)",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFeZD","hatavile-(la)",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFyZD","hatavile-(la)",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMeBS","e-hatamale-(la)",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMyBS","e-hatamale-(la)",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMeZS","e-hatamale-(la)",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMyZS","e-hatamale-(la)",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMeBD","hatavile-(la)",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMyBD","hatavile-(la)",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMeZD","hatavile-(la)",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMyZD","hatavile-(la)",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mFBeS","e-hatamale-(la)",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFByS","e-hatamale-(la)",,"male ego's father's brother's son",,,,"Inferred; NA"
+"mFZeS","e-hatamale-(la)",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFZyS","e-hatamale-(la)",,"male ego's father's sister's son",,,,"Inferred; NA"
+"mFBeD","hatavile-(la)",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFByD","hatavile-(la)",,"male ego's father's brother's daughter",,,,"Inferred; NA"
+"mFZeD","hatavile-(la)",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mFZyD","hatavile-(la)",,"male ego's father's sister's daughter",,,,"Inferred; NA"
+"mMBeS","e-hatamale-(la)",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMByS","e-hatamale-(la)",,"male ego's mother's brother's son",,,,"Inferred; NA"
+"mMZeS","e-hatamale-(la)",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMZyS","e-hatamale-(la)",,"male ego's mother's sister's son",,,,"Inferred; NA"
+"mMBeD","hatavile-(la)",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMByD","hatavile-(la)",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
+"mMZeD","hatavile-(la)",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"mMZyD","hatavile-(la)",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFeBS","e-hatamale-(la)",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFyBS","e-hatamale-(la)",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFeZS","e-hatamale-(la)",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFyZS","e-hatamale-(la)",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFeBD","hatavile-(la)",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFyBD","hatavile-(la)",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFeZD","hatavile-(la)",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFyZD","hatavile-(la)",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMeBS","e-hatamale-(la)",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMyBS","e-hatamale-(la)",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMeZS","e-hatamale-(la)",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMyZS","e-hatamale-(la)",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMeBD","hatavile-(la)",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMyBD","hatavile-(la)",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMeZD","hatavile-(la)",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMyZD","hatavile-(la)",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fFBeS","e-hatamale-(la)",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFByS","e-hatamale-(la)",,"female ego's father's brother's son",,,,"Inferred; NA"
+"fFZeS","e-hatamale-(la)",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFZyS","e-hatamale-(la)",,"female ego's father's sister's son",,,,"Inferred; NA"
+"fFBeD","hatavile-(la)",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFByD","hatavile-(la)",,"female ego's father's brother's daughter",,,,"Inferred; NA"
+"fFZeD","hatavile-(la)",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fFZyD","hatavile-(la)",,"female ego's father's sister's daughter",,,,"Inferred; NA"
+"fMBeS","e-hatamale-(la)",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMByS","e-hatamale-(la)",,"female ego's mother's brother's son",,,,"Inferred; NA"
+"fMZeS","e-hatamale-(la)",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMZyS","e-hatamale-(la)",,"female ego's mother's sister's son",,,,"Inferred; NA"
+"fMBeD","hatavile-(la)",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMByD","hatavile-(la)",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+"fMZeD","hatavile-(la)",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+"fMZyD","hatavile-(la)",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
