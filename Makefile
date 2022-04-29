@@ -10,6 +10,9 @@ GOELDI_REPO=https://github.com/kinbank/goeldi
 
 .PHONY: help clean update test
 
+clean:
+	rm -rf raw/ env/
+
 help:
 	@echo "1. Run 'make install' to install the python requirements"
 	@echo "2. Run 'make update' to update to latest versions of Glottolog, Concepticon, and CLDF libraries."
