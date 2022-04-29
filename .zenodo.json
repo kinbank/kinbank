@@ -1,0 +1,86 @@
+{
+    "access_right": "open",
+    "contributors": [
+        {
+            "name": "Sam Passmore",
+            "type": "DataCurator"
+        }
+    ],
+    "keywords": [
+        "cultural-heritage"
+    ],
+    "upload_type": "dataset",
+    "creators": [
+      {
+        "name": "Sam Passmore"
+      }, 
+      {
+        "name": "Wolfgang Barth"
+      }, 
+      {
+        "name": "Simon Greenhill"
+      }, 
+      {
+        "name": "Kyla Quinn"
+      }, 
+      {
+        "name": "Catherine Sheard"
+      }, 
+      {
+        "name": "Paraskevi Argyriou"
+      }, 
+      {
+        "name": "Joshua Birchall"
+      }, 
+      {
+        "name": "Claire Bowern"
+      }, 
+      {
+        "name": "Jasmine Calladine"
+      }, 
+      {
+        "name": "Angarika Deb"
+      }, 
+      {
+        "name": "Anouk Diederen"
+      }, 
+      {
+        "name": "Niklas P.  Metsäranta"
+      }, 
+      {
+        "name": "Jo Hickey-Hall"
+      }, 
+      {
+        "name": "Terhi Honkola"
+      }, 
+      {
+        "name": "Alice Mitchell"
+      }, 
+      {
+        "name": "Lucy Poole"
+      }, 
+      {
+        "name": "Péter Rácz"
+      }, 
+      {
+        "name": "Sean Roberts"
+      },
+      {
+        "name": "Robert Ross"
+      },
+      {
+        "name": "Ewan Thomas-Colquhoun"
+      },
+      {
+        "name": "Nicholas D Evans"
+      },
+      {
+        "name": "Fiona M Jordan"
+      }
+    ],
+    "title": "Kinbank: A global database of kinship terminology",
+    "description": "<p>The data repository for the Kinbank dataset </p>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

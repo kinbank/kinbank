@@ -1,6 +1,10 @@
 Kinbank
 ============================
 
+
+[![DOI](https://zenodo.org/badge/224288379.svg)](https://zenodo.org/badge/latestdoi/224288379)
+
+
 This repository contains the merged data from [Varikin](https://github.com/SamPassmore/kinbank), [Parabank](https://github.com/parabank/parabank-kinship-data), [Kinura](https://github.com/kinbank/kinura), and [MPEGKin](https://github.com/kinbank/goeldi)
 
 
