@@ -7,8 +7,6 @@ import pandas as pd
 def new_path(path):
     return("/".join(Path(path).parts[2:]))
 
-print(new_path("collections/kinura/kinbank/raw/Uralic/Finnish_finn1318.csv"))
-
 def move_files(filenames):
     new_filenames =  ['./' + new_path(f) for f in filenames]
     for old, new in zip(filenames, new_filenames):

@@ -27,7 +27,7 @@ This is the basis for creating rows in CLDF representations of the data by
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 184277
+[dc:extent](http://purl.org/dc/terms/extent) | 201583
 
 
 ### Columns
@@ -76,6 +76,7 @@ Name/Property | Datatype | Description
 `EntryDate` | `string` | 
 `Comment` | `string` | 
 `Link` | `string` | 
+`Set` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 

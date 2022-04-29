@@ -16,6 +16,7 @@ class CustomLanguage(Language):
     EntryDate = attr.ib(default=None)
     Comment = attr.ib(default=None)
     Link = attr.ib(default=None)
+    Set = attr.ib(default=None)
 
 
 @attr.s
