@@ -9,6 +9,11 @@
     "keywords": [
         "cultural-heritage"
     ],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        }
+    ],
     "upload_type": "dataset",
     "creators": [
       {
