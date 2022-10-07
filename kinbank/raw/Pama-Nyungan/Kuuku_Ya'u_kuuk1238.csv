@@ -1,90 +1,90 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","yapu",,"male ego's older brother",,,,""
-"myB","ya'athu",,"male ego's younger brother",,,,""
-"feB","yapu",,"female ego's older brother",,,,""
-"fyB","ya'athu",,"female ego's younger brother",,,,""
-"meZ","ya'a",,"male ego's older sister",,,,""
-"myZ","ya'athu",,"male ego's younger sister",,,,""
-"feZ","ya'a",,"female ego's older sister",,,,""
-"fyZ","ya'athu",,"female ego's younger sister",,,,""
-"mF","piipi",,"male ego's father",,,,""
-"mM","paapa",,"male ego's mother",,,,""
-"fF","piipi",,"female ego's father",,,,""
-"fM","paapa",,"female ego's mother",,,,""
-"mS","nalngka, pi'athu",,"male ego's son",,,,""
-"fS","nalngka, maampa",,"female ego's son",,,,""
-"mD","pi'athu",,"male ego's daughter",,,,""
-"fD","maampa",,"female ego's daughter",,,,""
-"mSS","puulathu",,"male ego's son's son",,,,""
-"mSD","puulathu",,"male ego's son's daughter",,,,""
-"mDS","ngachichu",,"male ego's daughter's son",,,,""
-"mDD","ngachichu",,"male ego's daughter's daughter",,,,""
-"fSS","puulathu",,"female ego's son's son",,,,""
-"fSD","puulathu",,"female ego's son's daughter",,,,""
-"fDS","ngachichu",,"female ego's daughter's son",,,,""
-"fDD","ngachichu",,"female ego's daugher's daughter",,,,""
-"mFF","puula",,"male ego's father‘s father",,,,""
-"mFM","pa'i",,"male ego's father's mother",,,,""
-"mMF","ngachimu",,"male ego's mother's father",,,,""
-"mMM","miimi",,"male ego's mother's mother",,,,""
-"fFF","puula",,"female ego's father's father",,,,""
-"fFM","pa'i",,"female ego's father's mother",,,,""
-"fMF","ngachichu",,"female ego's mother's father",,,,""
-"fMM","miimi",,"female ego's mother's mother",,,,""
-"meBS","pi'athu",,"male ego's older brother's son",,,,""
-"myBS","pinyathu",,"male ego's younger brother's son",,,,""
-"meZS","wulumu",,"male ego's older sister's son",,,,""
-"myZS","mukathu",,"male ego's younger sister's son",,,,""
-"meBD","pi'athu",,"male ego's older brother's daughter",,,,""
-"myBD","pinyathu",,"male ego's younger brother's daughter",,,,""
-"meZD","wulumu",,"male ego's older sister's daughter",,,,""
-"myZD","mukathu",,"male ego's younger sister's daughter",,,,""
-"feBS","pi'athu",,"female ego's older brother's son",,,,""
-"fyBS","pinyathu",,"female ego's younger brother's son",,,,""
-"feZS","wulumu",,"female ego's older sister's son",,,,""
-"fyZS","mukathu",,"female ego's younger sister's son",,,,""
-"feBD","pi'athu",,"female ego's older brother's daughter",,,,""
-"fyBD","pinyathu",,"female ego's younger brother's daughter",,,,""
-"feZD","wulumu",,"female ego's older sister's daughter",,,,""
-"fyZD","mukathu",,"female ego's younger sister's daughter",,,,""
-"mFeB","piinya",,"male ego's father's older brother",,,,""
-"mFyB","piipi",,"male ego's father's younger brother",,,,""
-"mFeZ","piinya'a",,"male ego's father's older sister",,,,""
-"mFyZ","piima",,"male ego's father's younger sister",,,,""
-"mMeB","muka",,"male ego's mother's older brother",,,,""
-"mMyB","kaala",,"male ego's mother's younger brother",,,,""
-"mMeZ","muka",,"male ego's mother's older sister",,,,""
-"mMyZ","paapa",,"male ego's mother's younger sister",,,,""
-"fFeB","piinya",,"female ego's father's older brother",,,,""
-"fFyB","piipi",,"female ego's father's younger brother",,,,""
-"fFeZ","piinya'a",,"female ego's father's older sister",,,,""
-"fFyZ","piima",,"female ego's father's younger sister",,,,""
-"fMeB","muka",,"female ego's mother's older brother",,,,""
-"fMyB","kaala",,"female ego's mother's younger brother",,,,""
-"fMeZ","muka",,"female ego's mother's older sister",,,,""
-"fMyZ","paapa",,"female ego's mother's younger sister",,,,""
-"mW","kulnta",,"male ego's wife",,,,""
-"fH","muuyu",,"female ego‘s husband",,,,""
-"mSW","unthaanganu",,"male ego's son's wife",,,,""
-"fSW","unthaanganu",,"female ego's son's wife",,,,""
-"mWF","aampayi",,"male ego's wife's father",,,,""
-"mWM","yaami",,"male ego's wife's mother",,,,""
-"mWB","pilupa",,"male ego's wife's brother",,,,""
-"fHF","aampayi",,"female ego's husband's father",,,,""
-"fHM","yaami",,"female ego's husband's mother",,,,""
-"mBW","pa'ichu",,"male ego's brother's wife",,,,"pa'ichu = younger brother's wife"
-"fBW","pa'ichu",,"female ego's brother's wife",,,,"pa'ichu = younger brother's wife"
-"mZH","muuyu, pa'i",,"male ego's sister's husband",,,,"muuyu = elder sister's husband, pa'i = younger sister's usband"
-"fZH","muuyu, pa'i",,"female ego's sister's husband",,,,"muuyu = elder sister's husband, pa'i = younger sister's usband"
-"mFyBS","thaatha",,"male ego‘s father‘s younger brother‘s son",,,,""
-"mFyBD","thaatha",,"male ego‘s father‘s younger brother‘s daughter",,,,""
-"mMeBS","ngami'i",,"male ego's mother‘s older brother‘s son",,,,""
-"mMyBS","thaatha",,"male ego‘s mother‘s younger brother‘s son",,,,""
-"mMeBD","ngami'i",,"male ego's mother‘s older brother‘s daughter",,,,""
-"mMyBD","thaatha",,"male ego‘s mother‘s younger brother‘s daughter",,,,""
-"fFyBS","thaatha",,"female ego‘s father‘s younger brother‘s son",,,,""
-"fFyBD","thaatha",,"female ego‘s father‘s younger brother‘s daughter",,,,""
-"fMeBS","ngami'i",,"female ego's mother‘s older brother‘s son",,,,""
-"fMyBS","thaatha",,"female ego‘s mother‘s younger brother‘s son",,,,""
-"fMeBD","ngami'i",,"female ego's mother‘s older brother‘s daughter",,,,""
-"fMyBD","thaatha",,"female ego‘s mother‘s younger brother‘s daughter",,,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,yapu,,male ego's older brother,,,Thompson1988,
+myB,ya'athu,,male ego's younger brother,,,Thompson1988,
+feB,yapu,,female ego's older brother,,,Thompson1988,
+fyB,ya'athu,,female ego's younger brother,,,Thompson1988,
+meZ,ya'a,,male ego's older sister,,,Thompson1988,
+myZ,ya'athu,,male ego's younger sister,,,Thompson1988,
+feZ,ya'a,,female ego's older sister,,,Thompson1988,
+fyZ,ya'athu,,female ego's younger sister,,,Thompson1988,
+mF,piipi,,male ego's father,,,Thompson1988,
+mM,paapa,,male ego's mother,,,Thompson1988,
+fF,piipi,,female ego's father,,,Thompson1988,
+fM,paapa,,female ego's mother,,,Thompson1988,
+mS,"nalngka, pi'athu",,male ego's son,,,Thompson1988,
+fS,"nalngka, maampa",,female ego's son,,,Thompson1988,
+mD,pi'athu,,male ego's daughter,,,Thompson1988,
+fD,maampa,,female ego's daughter,,,Thompson1988,
+mSS,puulathu,,male ego's son's son,,,Thompson1988,
+mSD,puulathu,,male ego's son's daughter,,,Thompson1988,
+mDS,ngachichu,,male ego's daughter's son,,,Thompson1988,
+mDD,ngachichu,,male ego's daughter's daughter,,,Thompson1988,
+fSS,puulathu,,female ego's son's son,,,Thompson1988,
+fSD,puulathu,,female ego's son's daughter,,,Thompson1988,
+fDS,ngachichu,,female ego's daughter's son,,,Thompson1988,
+fDD,ngachichu,,female ego's daugher's daughter,,,Thompson1988,
+mFF,puula,,male ego's father‘s father,,,Thompson1988,
+mFM,pa'i,,male ego's father's mother,,,Thompson1988,
+mMF,ngachimu,,male ego's mother's father,,,Thompson1988,
+mMM,miimi,,male ego's mother's mother,,,Thompson1988,
+fFF,puula,,female ego's father's father,,,Thompson1988,
+fFM,pa'i,,female ego's father's mother,,,Thompson1988,
+fMF,ngachichu,,female ego's mother's father,,,Thompson1988,
+fMM,miimi,,female ego's mother's mother,,,Thompson1988,
+meBS,pi'athu,,male ego's older brother's son,,,Thompson1988,
+myBS,pinyathu,,male ego's younger brother's son,,,Thompson1988,
+meZS,wulumu,,male ego's older sister's son,,,Thompson1988,
+myZS,mukathu,,male ego's younger sister's son,,,Thompson1988,
+meBD,pi'athu,,male ego's older brother's daughter,,,Thompson1988,
+myBD,pinyathu,,male ego's younger brother's daughter,,,Thompson1988,
+meZD,wulumu,,male ego's older sister's daughter,,,Thompson1988,
+myZD,mukathu,,male ego's younger sister's daughter,,,Thompson1988,
+feBS,pi'athu,,female ego's older brother's son,,,Thompson1988,
+fyBS,pinyathu,,female ego's younger brother's son,,,Thompson1988,
+feZS,wulumu,,female ego's older sister's son,,,Thompson1988,
+fyZS,mukathu,,female ego's younger sister's son,,,Thompson1988,
+feBD,pi'athu,,female ego's older brother's daughter,,,Thompson1988,
+fyBD,pinyathu,,female ego's younger brother's daughter,,,Thompson1988,
+feZD,wulumu,,female ego's older sister's daughter,,,Thompson1988,
+fyZD,mukathu,,female ego's younger sister's daughter,,,Thompson1988,
+mFeB,piinya,,male ego's father's older brother,,,Thompson1988,
+mFyB,piipi,,male ego's father's younger brother,,,Thompson1988,
+mFeZ,piinya'a,,male ego's father's older sister,,,Thompson1988,
+mFyZ,piima,,male ego's father's younger sister,,,Thompson1988,
+mMeB,muka,,male ego's mother's older brother,,,Thompson1988,
+mMyB,kaala,,male ego's mother's younger brother,,,Thompson1988,
+mMeZ,muka,,male ego's mother's older sister,,,Thompson1988,
+mMyZ,paapa,,male ego's mother's younger sister,,,Thompson1988,
+fFeB,piinya,,female ego's father's older brother,,,Thompson1988,
+fFyB,piipi,,female ego's father's younger brother,,,Thompson1988,
+fFeZ,piinya'a,,female ego's father's older sister,,,Thompson1988,
+fFyZ,piima,,female ego's father's younger sister,,,Thompson1988,
+fMeB,muka,,female ego's mother's older brother,,,Thompson1988,
+fMyB,kaala,,female ego's mother's younger brother,,,Thompson1988,
+fMeZ,muka,,female ego's mother's older sister,,,Thompson1988,
+fMyZ,paapa,,female ego's mother's younger sister,,,Thompson1988,
+mW,kulnta,,male ego's wife,,,Thompson1988,
+fH,muuyu,,female ego‘s husband,,,Thompson1988,
+mSW,unthaanganu,,male ego's son's wife,,,Thompson1988,
+fSW,unthaanganu,,female ego's son's wife,,,Thompson1988,
+mWF,aampayi,,male ego's wife's father,,,Thompson1988,
+mWM,yaami,,male ego's wife's mother,,,Thompson1988,
+mWB,pilupa,,male ego's wife's brother,,,Thompson1988,
+fHF,aampayi,,female ego's husband's father,,,Thompson1988,
+fHM,yaami,,female ego's husband's mother,,,Thompson1988,
+mBW,pa'ichu,,male ego's brother's wife,,,Thompson1988,pa'ichu = younger brother's wife
+fBW,pa'ichu,,female ego's brother's wife,,,Thompson1988,pa'ichu = younger brother's wife
+mZH,"muuyu, pa'i",,male ego's sister's husband,,,Thompson1988,"muuyu = elder sister's husband, pa'i = younger sister's usband"
+fZH,"muuyu, pa'i",,female ego's sister's husband,,,Thompson1988,"muuyu = elder sister's husband, pa'i = younger sister's usband"
+mFyBS,thaatha,,male ego‘s father‘s younger brother‘s son,,,Thompson1988,
+mFyBD,thaatha,,male ego‘s father‘s younger brother‘s daughter,,,Thompson1988,
+mMeBS,ngami'i,,male ego's mother‘s older brother‘s son,,,Thompson1988,
+mMyBS,thaatha,,male ego‘s mother‘s younger brother‘s son,,,Thompson1988,
+mMeBD,ngami'i,,male ego's mother‘s older brother‘s daughter,,,Thompson1988,
+mMyBD,thaatha,,male ego‘s mother‘s younger brother‘s daughter,,,Thompson1988,
+fFyBS,thaatha,,female ego‘s father‘s younger brother‘s son,,,Thompson1988,
+fFyBD,thaatha,,female ego‘s father‘s younger brother‘s daughter,,,Thompson1988,
+fMeBS,ngami'i,,female ego's mother‘s older brother‘s son,,,Thompson1988,
+fMyBS,thaatha,,female ego‘s mother‘s younger brother‘s son,,,Thompson1988,
+fMeBD,ngami'i,,female ego's mother‘s older brother‘s daughter,,,Thompson1988,
+fMyBD,thaatha,,female ego‘s mother‘s younger brother‘s daughter,,,Thompson1988,

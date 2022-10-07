@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tasi-na",,"male ego's older brother",,,,
-"myB","tasi-na",,"male ego's younger brother",,,,
-"feB","tasi-na",,"female ego's older brother",,,,
-"fyB","tasi-na",,"female ego's younger brother",,,,
-"meZ","vavene-na",,"male ego's older sister",,,,
-"myZ","vavene-na",,"male ego's younger sister",,,,
-"feZ","tasi-na",,"female ego's older sister",,,,
-"fyZ","tasi-na",,"female ego's younger sister",,,,
-"mF","tama-na",,"male ego's father",,,,
-"mM","tina-na",,"male ego's mother",,,,
-"fF","tama-na",,"female ego's father",,,,
-"fM","tina-na",,"female ego's mother",,,,
-"mS","tu-na koreo",,"male ego's son",,,,
-"fS","tu-na koreo",,"female ego's son",,,,
-"mD","tuna vineki",,"male ego's daughter",,,,
-"fD","tuna vineki",,"female ego's daughter",,,,
-"mSS","tuna",,"male ego's son's son",,,,
-"mSD","tuna",,"male ego's son's daughter",,,,
-"mDS","tuna",,"male ego's daughter's son",,,,
-"mDD","tuna",,"male ego's daughter's daughter",,,,
-"fSS","tuna",,"female ego's son's son",,,,
-"fSD","tuna",,"female ego's son's daughter",,,,
-"fDS","tuna",,"female ego's daughter's son",,,,
-"fDD","tuna",,"female ego's daugher's daughter",,,,
-"mFF","tamana",,"male ego's father‘s father",,,,
-"mFM","tinana",,"male ego's father's mother",,,,
-"mMF","tamana",,"male ego's mother's father",,,,
-"mMM","tinana",,"male ego's mother's mother",,,,
-"fFF","tamana",,"female ego's father's father",,,,
-"fFM","tinana",,"female ego's father's mother",,,,
-"fMF","tamana",,"female ego's mother's father",,,,
-"fMM","tinana",,"female ego's mother's mother",,,,
-"meBS","buhi-na, tu-na",,"male ego's older brother's son",,,,
-"myBS","buhi-na, tu-na",,"male ego's younger brother's son",,,,
-"meZS","buhi-na, tu-na",,"male ego's older sister's son",,,,
-"myZS","buhi-na, tu-na",,"male ego's younger sister's son",,,,
-"meBD","tu-na",,"male ego's older brother's daughter",,,,
-"myBD","tu-na",,"male ego's younger brother's daughter",,,,
-"meZD","tu-na",,"male ego's older sister's daughter",,,,
-"myZD","tu-na",,"male ego's younger sister's daughter",,,,
-"feBS","buhi-na, tu-na",,"female ego's older brother's son",,,,
-"fyBS","buhi-na, tu-na",,"female ego's younger brother's son",,,,
-"feZS","buhi-na, tu-na",,"female ego's older sister's son",,,,
-"fyZS","buhi-na, tu-na",,"female ego's younger sister's son",,,,
-"feBD","tu-na",,"female ego's older brother's daughter",,,,
-"fyBD","tu-na",,"female ego's younger brother's daughter",,,,
-"feZD","tu-na",,"female ego's older sister's daughter",,,,
-"fyZD","tu-na",,"female ego's younger sister's daughter",,,,
-"mFeB","buhina, tamana",,"male ego's father's older brother",,,,
-"mFyB","buhina, tamana",,"male ego's father's younger brother",,,,
-"mFeZ","tinana karokarovo",,"male ego's father's older sister",,,,
-"mFyZ","tinana karokarovo",,"male ego's father's younger sister",,,,
-"mMeB","buhina, tamana",,"male ego's mother's older brother",,,,
-"mMyB","buhina, tamana",,"male ego's mother's younger brother",,,,
-"mMeZ","tinana karokarovo",,"male ego's mother's older sister",,,,
-"mMyZ","tinana karokarovo",,"male ego's mother's younger sister",,,,
-"fFeB","buhina, tamana",,"female ego's father's older brother",,,,
-"fFyB","buhina, tamana",,"female ego's father's younger brother",,,,
-"fFeZ","tinana karokarovo",,"female ego's father's older sister",,,,
-"fFyZ","tinana karokarovo",,"female ego's father's younger sister",,,,
-"fMeB","buhina, tamana",,"female ego's mother's older brother",,,,
-"fMyB","buhina, tamana",,"female ego's mother's younger brother",,,,
-"fMeZ","tinana karokarovo",,"female ego's mother's older sister",,,,
-"fMyZ","tinana karokarovo",,"female ego's mother's younger sister",,,,
-"mW","barikaleqe, loa-na",,"male ego's wife",,,,
-"fH","loa-na, palabatu",,"female ego‘s husband",,,,
-"mDH","roroto",,"male ego's daughter's husband",,,,
-"fDH","roroto",,"female ego's daughter's husband",,,,
-"mSW","roroto",,"male ego's son's wife",,,,
-"fSW","roroto",,"female ego's son's wife",,,,
-"mWF","roa-na",,"male ego's wife's father",,,,
-"mWM","roa-na",,"male ego's wife's mother",,,,
-"mWB","iva-na",,"male ego's wife's brother",,,,
-"mWZ","tina-na",,"male ego's wife's sister",,,,
-"fHF","roa-na",,"female ego's husband's father",,,,
-"fHM","roa-na",,"female ego's husband's mother",,,,
-"fHB","iva-na",,"female ego's husband's brother",,,,
-"fHZ","tina-na",,"female ego's husband's sister",,,,
-"mBW","tina-na",,"male ego's brother's wife",,,,
-"fBW","tina-na",,"female ego's brother's wife",,,,
-"mZH","iva-na",,"male ego's sister's husband",,,,
-"fZH","iva-na",,"female ego's sister's husband",,,,
-"mFBS","tasi-na karokarovo",,"male ego's father's brother's son",,,,
-"mFZS","tasi-na karokarovo",,"male ego's father's sister's son",,,,
-"mMBS","tasi-na karokarovo",,"male ego's mother's brother's son",,,,
-"mMZS","tasi-na karokarovo",,"male ego's mother's sister's son",,,,
-"mFBD","tasi-na karokarovo",,"male ego's father's brother's daughter",,,,
-"mFZD","tasi-na karokarovo",,"male ego's father's sister's daughter",,,,
-"mMBD","tasi-na karokarovo",,"male ego's mother's brother's daughter",,,,
-"mMZD","tasi-na karokarovo",,"male ego's mother's sister's daughter",,,,
-"fFBS","tasi-na karokarovo",,"female ego's father's brother's son",,,,
-"fFZS","tasi-na karokarovo",,"female ego's father's sister's son",,,,
-"fMBS","tasi-na karokarovo",,"female ego's mother's brother's son",,,,
-"fMZS","tasi-na karokarovo",,"female ego's mother's sister's son",,,,
-"fFBD","tasi-na karokarovo",,"female ego's father's brother's daughter",,,,
-"fFZD","tasi-na karokarovo",,"female ego's father's sister's daughter",,,,
-"fMBD","tasi-na karokarovo",,"female ego's mother's brother's daughter",,,,
-"fMZD","tasi-na karokarovo",,"female ego's mother's sister's daughter",,,,
-"mFeBS","tasi-na karokarovo",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","tasi-na karokarovo",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","tasi-na karokarovo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","tasi-na karokarovo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","tasi-na karokarovo",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","tasi-na karokarovo",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","tasi-na karokarovo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","tasi-na karokarovo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","tasi-na karokarovo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","tasi-na karokarovo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","tasi-na karokarovo",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","tasi-na karokarovo",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","tasi-na karokarovo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","tasi-na karokarovo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","tasi-na karokarovo",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","tasi-na karokarovo",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","tasi-na karokarovo",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","tasi-na karokarovo",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","tasi-na karokarovo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","tasi-na karokarovo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","tasi-na karokarovo",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","tasi-na karokarovo",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","tasi-na karokarovo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","tasi-na karokarovo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","tasi-na karokarovo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","tasi-na karokarovo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","tasi-na karokarovo",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","tasi-na karokarovo",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","tasi-na karokarovo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","tasi-na karokarovo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","tasi-na karokarovo",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","tasi-na karokarovo",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","tasi-na karokarovo",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","tasi-na karokarovo",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","tasi-na karokarovo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","tasi-na karokarovo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","tasi-na karokarovo",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","tasi-na karokarovo",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","tasi-na karokarovo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","tasi-na karokarovo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","tasi-na karokarovo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","tasi-na karokarovo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","tasi-na karokarovo",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","tasi-na karokarovo",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","tasi-na karokarovo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","tasi-na karokarovo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","tasi-na karokarovo",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","tasi-na karokarovo",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","tasi-na karokarovo",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","tasi-na karokarovo",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","tasi-na karokarovo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","tasi-na karokarovo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","tasi-na karokarovo",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","tasi-na karokarovo",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","tasi-na karokarovo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","tasi-na karokarovo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","tasi-na karokarovo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","tasi-na karokarovo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","tasi-na karokarovo",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","tasi-na karokarovo",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","tasi-na karokarovo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","tasi-na karokarovo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","tasi-na karokarovo",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","tasi-na karokarovo",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,tasi-na,,male ego's older brother,,,WaterhouseJones1949,
+myB,tasi-na,,male ego's younger brother,,,WaterhouseJones1949,
+feB,tasi-na,,female ego's older brother,,,WaterhouseJones1949,
+fyB,tasi-na,,female ego's younger brother,,,WaterhouseJones1949,
+meZ,vavene-na,,male ego's older sister,,,WaterhouseJones1949,
+myZ,vavene-na,,male ego's younger sister,,,WaterhouseJones1949,
+feZ,tasi-na,,female ego's older sister,,,WaterhouseJones1949,
+fyZ,tasi-na,,female ego's younger sister,,,WaterhouseJones1949,
+mF,tama-na,,male ego's father,,,WaterhouseJones1949,
+mM,tina-na,,male ego's mother,,,WaterhouseJones1949,
+fF,tama-na,,female ego's father,,,WaterhouseJones1949,
+fM,tina-na,,female ego's mother,,,WaterhouseJones1949,
+mS,tu-na koreo,,male ego's son,,,WaterhouseJones1949,
+fS,tu-na koreo,,female ego's son,,,WaterhouseJones1949,
+mD,tuna vineki,,male ego's daughter,,,WaterhouseJones1949,
+fD,tuna vineki,,female ego's daughter,,,WaterhouseJones1949,
+mSS,tuna,,male ego's son's son,,,WaterhouseJones1949,
+mSD,tuna,,male ego's son's daughter,,,WaterhouseJones1949,
+mDS,tuna,,male ego's daughter's son,,,WaterhouseJones1949,
+mDD,tuna,,male ego's daughter's daughter,,,WaterhouseJones1949,
+fSS,tuna,,female ego's son's son,,,WaterhouseJones1949,
+fSD,tuna,,female ego's son's daughter,,,WaterhouseJones1949,
+fDS,tuna,,female ego's daughter's son,,,WaterhouseJones1949,
+fDD,tuna,,female ego's daugher's daughter,,,WaterhouseJones1949,
+mFF,tamana,,male ego's father‘s father,,,WaterhouseJones1949,
+mFM,tinana,,male ego's father's mother,,,WaterhouseJones1949,
+mMF,tamana,,male ego's mother's father,,,WaterhouseJones1949,
+mMM,tinana,,male ego's mother's mother,,,WaterhouseJones1949,
+fFF,tamana,,female ego's father's father,,,WaterhouseJones1949,
+fFM,tinana,,female ego's father's mother,,,WaterhouseJones1949,
+fMF,tamana,,female ego's mother's father,,,WaterhouseJones1949,
+fMM,tinana,,female ego's mother's mother,,,WaterhouseJones1949,
+meBS,"buhi-na, tu-na",,male ego's older brother's son,,,WaterhouseJones1949,
+myBS,"buhi-na, tu-na",,male ego's younger brother's son,,,WaterhouseJones1949,
+meZS,"buhi-na, tu-na",,male ego's older sister's son,,,WaterhouseJones1949,
+myZS,"buhi-na, tu-na",,male ego's younger sister's son,,,WaterhouseJones1949,
+meBD,tu-na,,male ego's older brother's daughter,,,WaterhouseJones1949,
+myBD,tu-na,,male ego's younger brother's daughter,,,WaterhouseJones1949,
+meZD,tu-na,,male ego's older sister's daughter,,,WaterhouseJones1949,
+myZD,tu-na,,male ego's younger sister's daughter,,,WaterhouseJones1949,
+feBS,"buhi-na, tu-na",,female ego's older brother's son,,,WaterhouseJones1949,
+fyBS,"buhi-na, tu-na",,female ego's younger brother's son,,,WaterhouseJones1949,
+feZS,"buhi-na, tu-na",,female ego's older sister's son,,,WaterhouseJones1949,
+fyZS,"buhi-na, tu-na",,female ego's younger sister's son,,,WaterhouseJones1949,
+feBD,tu-na,,female ego's older brother's daughter,,,WaterhouseJones1949,
+fyBD,tu-na,,female ego's younger brother's daughter,,,WaterhouseJones1949,
+feZD,tu-na,,female ego's older sister's daughter,,,WaterhouseJones1949,
+fyZD,tu-na,,female ego's younger sister's daughter,,,WaterhouseJones1949,
+mFeB,"buhina, tamana",,male ego's father's older brother,,,WaterhouseJones1949,
+mFyB,"buhina, tamana",,male ego's father's younger brother,,,WaterhouseJones1949,
+mFeZ,tinana karokarovo,,male ego's father's older sister,,,WaterhouseJones1949,
+mFyZ,tinana karokarovo,,male ego's father's younger sister,,,WaterhouseJones1949,
+mMeB,"buhina, tamana",,male ego's mother's older brother,,,WaterhouseJones1949,
+mMyB,"buhina, tamana",,male ego's mother's younger brother,,,WaterhouseJones1949,
+mMeZ,tinana karokarovo,,male ego's mother's older sister,,,WaterhouseJones1949,
+mMyZ,tinana karokarovo,,male ego's mother's younger sister,,,WaterhouseJones1949,
+fFeB,"buhina, tamana",,female ego's father's older brother,,,WaterhouseJones1949,
+fFyB,"buhina, tamana",,female ego's father's younger brother,,,WaterhouseJones1949,
+fFeZ,tinana karokarovo,,female ego's father's older sister,,,WaterhouseJones1949,
+fFyZ,tinana karokarovo,,female ego's father's younger sister,,,WaterhouseJones1949,
+fMeB,"buhina, tamana",,female ego's mother's older brother,,,WaterhouseJones1949,
+fMyB,"buhina, tamana",,female ego's mother's younger brother,,,WaterhouseJones1949,
+fMeZ,tinana karokarovo,,female ego's mother's older sister,,,WaterhouseJones1949,
+fMyZ,tinana karokarovo,,female ego's mother's younger sister,,,WaterhouseJones1949,
+mW,"barikaleqe, loa-na",,male ego's wife,,,WaterhouseJones1949,
+fH,"loa-na, palabatu",,female ego‘s husband,,,WaterhouseJones1949,
+mDH,roroto,,male ego's daughter's husband,,,WaterhouseJones1949,
+fDH,roroto,,female ego's daughter's husband,,,WaterhouseJones1949,
+mSW,roroto,,male ego's son's wife,,,WaterhouseJones1949,
+fSW,roroto,,female ego's son's wife,,,WaterhouseJones1949,
+mWF,roa-na,,male ego's wife's father,,,WaterhouseJones1949,
+mWM,roa-na,,male ego's wife's mother,,,WaterhouseJones1949,
+mWB,iva-na,,male ego's wife's brother,,,WaterhouseJones1949,
+mWZ,tina-na,,male ego's wife's sister,,,WaterhouseJones1949,
+fHF,roa-na,,female ego's husband's father,,,WaterhouseJones1949,
+fHM,roa-na,,female ego's husband's mother,,,WaterhouseJones1949,
+fHB,iva-na,,female ego's husband's brother,,,WaterhouseJones1949,
+fHZ,tina-na,,female ego's husband's sister,,,WaterhouseJones1949,
+mBW,tina-na,,male ego's brother's wife,,,WaterhouseJones1949,
+fBW,tina-na,,female ego's brother's wife,,,WaterhouseJones1949,
+mZH,iva-na,,male ego's sister's husband,,,WaterhouseJones1949,
+fZH,iva-na,,female ego's sister's husband,,,WaterhouseJones1949,
+mFBS,tasi-na karokarovo,,male ego's father's brother's son,,,WaterhouseJones1949,
+mFZS,tasi-na karokarovo,,male ego's father's sister's son,,,WaterhouseJones1949,
+mMBS,tasi-na karokarovo,,male ego's mother's brother's son,,,WaterhouseJones1949,
+mMZS,tasi-na karokarovo,,male ego's mother's sister's son,,,WaterhouseJones1949,
+mFBD,tasi-na karokarovo,,male ego's father's brother's daughter,,,WaterhouseJones1949,
+mFZD,tasi-na karokarovo,,male ego's father's sister's daughter,,,WaterhouseJones1949,
+mMBD,tasi-na karokarovo,,male ego's mother's brother's daughter,,,WaterhouseJones1949,
+mMZD,tasi-na karokarovo,,male ego's mother's sister's daughter,,,WaterhouseJones1949,
+fFBS,tasi-na karokarovo,,female ego's father's brother's son,,,WaterhouseJones1949,
+fFZS,tasi-na karokarovo,,female ego's father's sister's son,,,WaterhouseJones1949,
+fMBS,tasi-na karokarovo,,female ego's mother's brother's son,,,WaterhouseJones1949,
+fMZS,tasi-na karokarovo,,female ego's mother's sister's son,,,WaterhouseJones1949,
+fFBD,tasi-na karokarovo,,female ego's father's brother's daughter,,,WaterhouseJones1949,
+fFZD,tasi-na karokarovo,,female ego's father's sister's daughter,,,WaterhouseJones1949,
+fMBD,tasi-na karokarovo,,female ego's mother's brother's daughter,,,WaterhouseJones1949,
+fMZD,tasi-na karokarovo,,female ego's mother's sister's daughter,,,WaterhouseJones1949,
+mFeBS,tasi-na karokarovo,,male ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+mFyBS,tasi-na karokarovo,,male ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+mFeZS,tasi-na karokarovo,,male ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+mFyZS,tasi-na karokarovo,,male ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+mFeBD,tasi-na karokarovo,,male ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mFyBD,tasi-na karokarovo,,male ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mFeZD,tasi-na karokarovo,,male ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mFyZD,tasi-na karokarovo,,male ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mMeBS,tasi-na karokarovo,,male ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+mMyBS,tasi-na karokarovo,,male ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+mMeZS,tasi-na karokarovo,,male ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+mMyZS,tasi-na karokarovo,,male ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+mMeBD,tasi-na karokarovo,,male ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mMyBD,tasi-na karokarovo,,male ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mMeZD,tasi-na karokarovo,,male ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mMyZD,tasi-na karokarovo,,male ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mFBeS,tasi-na karokarovo,,male ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+mFByS,tasi-na karokarovo,,male ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+mFZeS,tasi-na karokarovo,,male ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+mFZyS,tasi-na karokarovo,,male ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+mFBeD,tasi-na karokarovo,,male ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mFByD,tasi-na karokarovo,,male ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mFZeD,tasi-na karokarovo,,male ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mFZyD,tasi-na karokarovo,,male ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mMBeS,tasi-na karokarovo,,male ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+mMByS,tasi-na karokarovo,,male ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+mMZeS,tasi-na karokarovo,,male ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+mMZyS,tasi-na karokarovo,,male ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+mMBeD,tasi-na karokarovo,,male ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mMByD,tasi-na karokarovo,,male ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+mMZeD,tasi-na karokarovo,,male ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+mMZyD,tasi-na karokarovo,,male ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fFeBS,tasi-na karokarovo,,female ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+fFyBS,tasi-na karokarovo,,female ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+fFeZS,tasi-na karokarovo,,female ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+fFyZS,tasi-na karokarovo,,female ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+fFeBD,tasi-na karokarovo,,female ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fFyBD,tasi-na karokarovo,,female ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fFeZD,tasi-na karokarovo,,female ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fFyZD,tasi-na karokarovo,,female ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fMeBS,tasi-na karokarovo,,female ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+fMyBS,tasi-na karokarovo,,female ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+fMeZS,tasi-na karokarovo,,female ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+fMyZS,tasi-na karokarovo,,female ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+fMeBD,tasi-na karokarovo,,female ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fMyBD,tasi-na karokarovo,,female ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fMeZD,tasi-na karokarovo,,female ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fMyZD,tasi-na karokarovo,,female ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fFBeS,tasi-na karokarovo,,female ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+fFByS,tasi-na karokarovo,,female ego's father's brother's son,,,WaterhouseJones1949,Inferred; NA
+fFZeS,tasi-na karokarovo,,female ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+fFZyS,tasi-na karokarovo,,female ego's father's sister's son,,,WaterhouseJones1949,Inferred; NA
+fFBeD,tasi-na karokarovo,,female ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fFByD,tasi-na karokarovo,,female ego's father's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fFZeD,tasi-na karokarovo,,female ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fFZyD,tasi-na karokarovo,,female ego's father's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fMBeS,tasi-na karokarovo,,female ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+fMByS,tasi-na karokarovo,,female ego's mother's brother's son,,,WaterhouseJones1949,Inferred; NA
+fMZeS,tasi-na karokarovo,,female ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+fMZyS,tasi-na karokarovo,,female ego's mother's sister's son,,,WaterhouseJones1949,Inferred; NA
+fMBeD,tasi-na karokarovo,,female ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fMByD,tasi-na karokarovo,,female ego's mother's brother's daughter,,,WaterhouseJones1949,Inferred; NA
+fMZeD,tasi-na karokarovo,,female ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA
+fMZyD,tasi-na karokarovo,,female ego's mother's sister's daughter,,,WaterhouseJones1949,Inferred; NA

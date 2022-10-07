@@ -1,107 +1,107 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","wawurd","wawuɖ","male speaker's older brother",,,,""
-"myB","wulkûn","wulkɨn","male speaker's younger brother",,,,""
-"feB","wulkûn","wulkɨn","female speaker's older brother",,,,""
-"fyB","wulkûn","wulkɨn","female speaker's younger brother",,,,""
-"meZ","yabok","jabok","male speaker's older sister",,,,"I suggest we just say 'address' term: this actually means 'no good person', and is part of a system widespread in Australia where men should use a highly negative word to address their sister, as a type of incest avoidenace. Also, for consistency shouldn't we also ask for the IPA version of this type of kin term as well (which would be bijweʔ"
-"myZ","yabok","jabok","male speaker's younger sister",,,,""
-"feZ","yabok","jabok","female speaker's older sister",,,,""
-"fyZ","wulkûndjan","wulkɨncan","female speaker's younger sister",,,,""
-"mF","bulu","bulu","male speaker's father",,,,""
-"mM","nah","naʔ","male speaker's mother",,,,""
-"fF","bulu","bulu","female speaker's father",,,,""
-"fM","nah","naʔ","female speaker's mother",,,,""
-"mS","bey","bej","male speaker's son",,,,""
-"fS","wurd","wuɖ","female speaker's son",,,,""
-"mD","beydjan","bejcan","male speaker's daughter",,,,""
-"fD","wurd","wuɖ","female speaker's daughter",,,,""
-"mSS","kakkak","kak:ak","male speaker's son's son",,,,""
-"mSD","kakkak","kak:ak","male speaker's son's daughter",,,,""
-"mDS","mamamh, kanjwoh","mamamʔ, kaɲwoʔ","male speaker's daughter's son",,,,"The form kaɲwoʔ was not given by MT but is given in Alpher 1982 with the meaning 'mDC, mZSC'"
-"mDD","mamamh, kanjwoh","mamamʔ, kaɲwoʔ","male speaker's daughter's daughter",,,,""
-"fSS","mimih","mimiʔ","female speaker's son's son",,,,""
-"fSD","mimih","mimiʔ","female speaker's son's daughter",,,,""
-"fDS","winjkûn","wiɲkɨn","female speaker's daughter's son",,,,""
-"fDD","winjkûndjan","wiɲkɨncan","female speaker's daugher's daughter",,,,""
-"mFF","kakkak","kak:ak","male speaker's father‘s father",,,,"It will be observed that although the term kakkak covers both types of parallel grandparents – FF and MM – their reciprocals are not the same, since the recip. Of kakkak FF is kakkak (i.e. this sense is self-reciprocal) while the recip. Of kakkak MM is winjkûn(djan)"
-"mFM","mimih","mimiʔ","male speaker's father's mother",,,,""
-"mMF","mamamh","mamamʔ","male speaker's mother's father",,,,""
-"mMM","kakkak","kak:ak","male speaker's mother's mother",,,,""
-"fFF","kakkak","kak:ak","female speaker's father's father",,,,""
-"fFM","mimih","mimiʔ","female speaker's father's mother",,,,""
-"fMF","mamamh","mamamʔ","female speaker's mother's father",,,,""
-"fMM","kakkak","kak:ak","female speaker's mother's mother",,,,""
-"meBS","bey","bej","male speaker's older brother's son",,,,""
-"myBS","bey","bej","male speaker's younger brother's son",,,,""
-"meZS","wurd","wuɖ","male speaker's older sister's son",,,,""
-"myZS","wurd","wuɖ","male speaker's younger sister's son",,,,""
-"meBD","beydjan","bejcan","male speaker's older brother's daughter",,,,""
-"myBD","beydjan","bejcan","male speaker's younger brother's daughter",,,,""
-"meZD","wurd","wuɖ","male speaker's older sister's daughter",,,,""
-"myZD","wurd","wuɖ","male speaker's younger sister's daughter",,,,""
-"feBS","bey","bej","female speaker's older brother's son",,,,""
-"fyBS","bey","bej","female speaker's younger brother's son",,,,""
-"feZS","wurd","wuɖ","female speaker's older sister's son",,,,""
-"fyZS","wurd","wuɖ","female speaker's younger sister's son",,,,""
-"feBD","beydcan","bejcan","female speaker's older brother's daughter",,,,""
-"fyBD","beydcan","bejcan","female speaker's younger brother's daughter",,,,""
-"feZD","wurd","wuɖ","female speaker's older sister's daughter",,,,""
-"fyZD","wurd","wuɖ","female speaker's younger sister's daughter",,,,""
-"mFeB","bulu","bulu","male speaker's father's older brother",,,,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term buluwurrungu can be used for FeB"
-"mFyB","bulu","bulu","male speaker's father's younger brother",,,,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term bulukorroh can be used for FyB"
-"mFeZ","djongok","coŋok","male speaker's father's older sister",,,,""
-"mFyZ","djongok","coŋok","male speaker's father's younger sister",,,,""
-"mMeB","nabadjan, kardak","nabacan, kaɖak","male speaker's mother's older brother",,,,"nabadjan lit. meangs 'the big one' (male), and parallels the use of ngalbadjan to mean 'mother' in Bininj Kun-wok, where ngal- is the feminine prefix, hence 'the big one (female)'"
-"mMyB","kardak","kaɖak","male speaker's mother's younger brother",,,,""
-"mMeZ","mulah, morlah","mulaʔ, moɭaʔ","male speaker's mother's older sister",,,,""
-"mMyZ","nah","naʔ","male speaker's mother's younger sister",,,,"Normally, the basic 'mother' term nah is used for M and MyZ. However, if more precision is required, the term nahkorroh can be used for MyZ"
-"fFeB","bulu","bulu","female speaker's father's older brother",,,,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term buluwurrungu can be used for FeB"
-"fFyB","bulu","bulu","female speaker's father's younger brother",,,,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term bulukorroh can be used for FyB"
-"fFeZ","djongok","coŋok","female speaker's father's older sister",,,,""
-"fFyZ","djongok","coŋok","female speaker's father's younger sister",,,,""
-"fMeB","nabadjan, kardak","nabacan, kaɖak","female speaker's mother's older brother",,,,""
-"fMyB","nabadjan, kardak","nabacan, kaɖak","female speaker's mother's younger brother",,,,""
-"fMeZ","mulah, morlah","mulaʔ, moɭaʔ","female speaker's mother's older sister",,,,""
-"fMyZ","nah","naʔ","female speaker's mother's younger sister",,,,""
-"mW","kirdikird","kiɖikiɖ","male speaker's wife",,,,""
-"fH","duway","duwaj","female speaker‘s husband",,,,""
-"fDH","djarburh","caɻbuɻʔ","female speaker's daughter's husband",,,,""
-"mDH","duwe","duwe","male speaker's daughter's husband",,,,""
-"fSW","beydjan","bejcan","female speaker's son's wife",,,,""
-"mSW","balak","balak","male speaker's son's wife",,,,""
-"fHM","djarburh, djongok","caɻbuɻʔ, coŋok","female speaker's husband's mother",,,,""
-"mWM","balak","balak","male speaker's wife's mother",,,,""
-"fHF","duwe","duwe","female speaker's husband's father",,,,""
-"mWF","duwe","duwe","male speaker's wife's father",,,,""
-"mFBeS","wawurd","wawuɖ","male speaker‘s father‘s brother‘s older son",,,,""
-"mFByS","wulkûn","wulkɨn","male speaker‘s father‘s brother‘s younger son",,,,""
-"mFBeD","yabok","jabok","male speaker‘s father‘s brother‘s older daughter",,,,""
-"mFByD","yabok","jabok","male speaker‘s father‘s brother‘s younger daughter",,,,""
-"mFZeS","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s father‘s sisters‘s older son",,,,""
-"mFZyS","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s father‘s sisters‘s younger son",,,,""
-"mFZeD","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s father‘s sisters‘s older daughter",,,,""
-"mFZyD","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s father‘s sisters‘s younger daughter",,,,""
-"mMBeS","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s mother‘s brother‘s older son",,,,""
-"mMByS","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s mother‘s brother‘s younger son",,,,""
-"mMBeD","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s mother‘s brother‘s older daughter",,,,""
-"mMByD","kom, bandji, barnka","kom, banci, baɳka","male speaker‘s mother‘s brother‘s younger daughter",,,,""
-"mMZeS","wawurd","wawuɖ","male speaker‘s mother‘s sisters‘s older son",,,,""
-"mMZyS","wulkûn","wulkɨn","male speaker‘s mother‘s sisters‘s younger son",,,,""
-"mMZeD","yabok","jabok","male speaker‘s mother‘s sisters‘s older daughter",,,,""
-"mMZyD","yabok","jabok","male speaker‘s mother‘s sisters‘s younger daughter",,,,""
-"fFBeS","wulkûn","wulkɨn","female speaker‘s father‘s brother‘s older son",,,,""
-"fFByS","wulkûn","wulkɨn","female speaker‘s father‘s brother‘s younger son",,,,""
-"fFBeD","yabok","jabok","female speaker‘s father‘s brother‘s older daughter",,,,""
-"fFByD","wulkûndjan","wulkɨncan","female speaker‘s father‘s brother‘s younger daughter",,,,""
-"fFZeS","kom, bandji, barnka","kom, banci, baɳka","female speaker‘s father‘s sisters‘s older son",,,,""
-"fFZyS","kom, bandji, barnka","kom, banci, baɳka","female speaker‘s father‘s sisters‘s younger son",,,,""
-"fFZeD","birrwoyin, bandji, barnka","birwojin, banci, baɳka","female speaker‘s father‘s sisters‘s older daughter",,,,""
-"fFZyD","birrwoyin, bandji, barnka","birwojin, banci, baɳka","female speaker‘s father‘s sisters‘s younger daughter",,,,""
-"fMBeS","kom, bandji, barnka","kom, banci, baɳka","female speaker‘s mother‘s brother‘s older son",,,,""
-"fMByS","kom, bandji, barnka","kom, banci, baɳka","female speaker‘s mother‘s brother‘s younger son",,,,""
-"fMBeD","birrwoyin, bandji, barnka","birwojin, banci, baɳka","female speaker‘s mother‘s brother‘s older daughter",,,,""
-"fMByD","birrwoyin, bandji, barnka","birwojin, banci, baɳka","female speaker‘s mother‘s brother‘s younger daughter",,,,""
-"fMZeS","wulkûn","wulkɨn","female speaker‘s mother‘s sisters‘s older son",,,,""
-"fMZyS","wulkûn","wulkɨn","female speaker‘s mother‘s sisters‘s younger son",,,,""
-"fMZeD","yabok","jabok","female speaker‘s mother‘s sisters‘s older daughter",,,,""
-"fMZyD","wulkûndjan","wulkɨncan","female speaker‘s mother‘s sisters‘s younger daughter",,,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,wawurd,wawuɖ,male speaker's older brother,,,Evans2016,
+myB,wulkûn,wulkɨn,male speaker's younger brother,,,Evans2016,
+feB,wulkûn,wulkɨn,female speaker's older brother,,,Evans2016,
+fyB,wulkûn,wulkɨn,female speaker's younger brother,,,Evans2016,
+meZ,yabok,jabok,male speaker's older sister,,,Evans2016,"I suggest we just say 'address' term: this actually means 'no good person', and is part of a system widespread in Australia where men should use a highly negative word to address their sister, as a type of incest avoidenace. Also, for consistency shouldn't we also ask for the IPA version of this type of kin term as well (which would be bijweʔ"
+myZ,yabok,jabok,male speaker's younger sister,,,Evans2016,
+feZ,yabok,jabok,female speaker's older sister,,,Evans2016,
+fyZ,wulkûndjan,wulkɨncan,female speaker's younger sister,,,Evans2016,
+mF,bulu,bulu,male speaker's father,,,Evans2016,
+mM,nah,naʔ,male speaker's mother,,,Evans2016,
+fF,bulu,bulu,female speaker's father,,,Evans2016,
+fM,nah,naʔ,female speaker's mother,,,Evans2016,
+mS,bey,bej,male speaker's son,,,Evans2016,
+fS,wurd,wuɖ,female speaker's son,,,Evans2016,
+mD,beydjan,bejcan,male speaker's daughter,,,Evans2016,
+fD,wurd,wuɖ,female speaker's daughter,,,Evans2016,
+mSS,kakkak,kak:ak,male speaker's son's son,,,Evans2016,
+mSD,kakkak,kak:ak,male speaker's son's daughter,,,Evans2016,
+mDS,"mamamh, kanjwoh","mamamʔ, kaɲwoʔ",male speaker's daughter's son,,,Evans2016,"The form kaɲwoʔ was not given by MT but is given in Alpher 1982 with the meaning 'mDC, mZSC'"
+mDD,"mamamh, kanjwoh","mamamʔ, kaɲwoʔ",male speaker's daughter's daughter,,,Evans2016,
+fSS,mimih,mimiʔ,female speaker's son's son,,,Evans2016,
+fSD,mimih,mimiʔ,female speaker's son's daughter,,,Evans2016,
+fDS,winjkûn,wiɲkɨn,female speaker's daughter's son,,,Evans2016,
+fDD,winjkûndjan,wiɲkɨncan,female speaker's daugher's daughter,,,Evans2016,
+mFF,kakkak,kak:ak,male speaker's father‘s father,,,Evans2016,"It will be observed that although the term kakkak covers both types of parallel grandparents – FF and MM – their reciprocals are not the same, since the recip. Of kakkak FF is kakkak (i.e. this sense is self-reciprocal) while the recip. Of kakkak MM is winjkûn(djan)"
+mFM,mimih,mimiʔ,male speaker's father's mother,,,Evans2016,
+mMF,mamamh,mamamʔ,male speaker's mother's father,,,Evans2016,
+mMM,kakkak,kak:ak,male speaker's mother's mother,,,Evans2016,
+fFF,kakkak,kak:ak,female speaker's father's father,,,Evans2016,
+fFM,mimih,mimiʔ,female speaker's father's mother,,,Evans2016,
+fMF,mamamh,mamamʔ,female speaker's mother's father,,,Evans2016,
+fMM,kakkak,kak:ak,female speaker's mother's mother,,,Evans2016,
+meBS,bey,bej,male speaker's older brother's son,,,Evans2016,
+myBS,bey,bej,male speaker's younger brother's son,,,Evans2016,
+meZS,wurd,wuɖ,male speaker's older sister's son,,,Evans2016,
+myZS,wurd,wuɖ,male speaker's younger sister's son,,,Evans2016,
+meBD,beydjan,bejcan,male speaker's older brother's daughter,,,Evans2016,
+myBD,beydjan,bejcan,male speaker's younger brother's daughter,,,Evans2016,
+meZD,wurd,wuɖ,male speaker's older sister's daughter,,,Evans2016,
+myZD,wurd,wuɖ,male speaker's younger sister's daughter,,,Evans2016,
+feBS,bey,bej,female speaker's older brother's son,,,Evans2016,
+fyBS,bey,bej,female speaker's younger brother's son,,,Evans2016,
+feZS,wurd,wuɖ,female speaker's older sister's son,,,Evans2016,
+fyZS,wurd,wuɖ,female speaker's younger sister's son,,,Evans2016,
+feBD,beydcan,bejcan,female speaker's older brother's daughter,,,Evans2016,
+fyBD,beydcan,bejcan,female speaker's younger brother's daughter,,,Evans2016,
+feZD,wurd,wuɖ,female speaker's older sister's daughter,,,Evans2016,
+fyZD,wurd,wuɖ,female speaker's younger sister's daughter,,,Evans2016,
+mFeB,bulu,bulu,male speaker's father's older brother,,,Evans2016,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term buluwurrungu can be used for FeB"
+mFyB,bulu,bulu,male speaker's father's younger brother,,,Evans2016,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term bulukorroh can be used for FyB"
+mFeZ,djongok,coŋok,male speaker's father's older sister,,,Evans2016,
+mFyZ,djongok,coŋok,male speaker's father's younger sister,,,Evans2016,
+mMeB,"nabadjan, kardak","nabacan, kaɖak",male speaker's mother's older brother,,,Evans2016,"nabadjan lit. meangs 'the big one' (male), and parallels the use of ngalbadjan to mean 'mother' in Bininj Kun-wok, where ngal- is the feminine prefix, hence 'the big one (female)'"
+mMyB,kardak,kaɖak,male speaker's mother's younger brother,,,Evans2016,
+mMeZ,"mulah, morlah","mulaʔ, moɭaʔ",male speaker's mother's older sister,,,Evans2016,
+mMyZ,nah,naʔ,male speaker's mother's younger sister,,,Evans2016,"Normally, the basic 'mother' term nah is used for M and MyZ. However, if more precision is required, the term nahkorroh can be used for MyZ"
+fFeB,bulu,bulu,female speaker's father's older brother,,,Evans2016,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term buluwurrungu can be used for FeB"
+fFyB,bulu,bulu,female speaker's father's younger brother,,,Evans2016,"Normally, the basic 'father' term bulu is used for FeB and FyB. However, if more precision is required, the term bulukorroh can be used for FyB"
+fFeZ,djongok,coŋok,female speaker's father's older sister,,,Evans2016,
+fFyZ,djongok,coŋok,female speaker's father's younger sister,,,Evans2016,
+fMeB,"nabadjan, kardak","nabacan, kaɖak",female speaker's mother's older brother,,,Evans2016,
+fMyB,"nabadjan, kardak","nabacan, kaɖak",female speaker's mother's younger brother,,,Evans2016,
+fMeZ,"mulah, morlah","mulaʔ, moɭaʔ",female speaker's mother's older sister,,,Evans2016,
+fMyZ,nah,naʔ,female speaker's mother's younger sister,,,Evans2016,
+mW,kirdikird,kiɖikiɖ,male speaker's wife,,,Evans2016,
+fH,duway,duwaj,female speaker‘s husband,,,Evans2016,
+fDH,djarburh,caɻbuɻʔ,female speaker's daughter's husband,,,Evans2016,
+mDH,duwe,duwe,male speaker's daughter's husband,,,Evans2016,
+fSW,beydjan,bejcan,female speaker's son's wife,,,Evans2016,
+mSW,balak,balak,male speaker's son's wife,,,Evans2016,
+fHM,"djarburh, djongok","caɻbuɻʔ, coŋok",female speaker's husband's mother,,,Evans2016,
+mWM,balak,balak,male speaker's wife's mother,,,Evans2016,
+fHF,duwe,duwe,female speaker's husband's father,,,Evans2016,
+mWF,duwe,duwe,male speaker's wife's father,,,Evans2016,
+mFBeS,wawurd,wawuɖ,male speaker‘s father‘s brother‘s older son,,,Evans2016,
+mFByS,wulkûn,wulkɨn,male speaker‘s father‘s brother‘s younger son,,,Evans2016,
+mFBeD,yabok,jabok,male speaker‘s father‘s brother‘s older daughter,,,Evans2016,
+mFByD,yabok,jabok,male speaker‘s father‘s brother‘s younger daughter,,,Evans2016,
+mFZeS,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s father‘s sisters‘s older son,,,Evans2016,
+mFZyS,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s father‘s sisters‘s younger son,,,Evans2016,
+mFZeD,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s father‘s sisters‘s older daughter,,,Evans2016,
+mFZyD,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s father‘s sisters‘s younger daughter,,,Evans2016,
+mMBeS,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s mother‘s brother‘s older son,,,Evans2016,
+mMByS,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s mother‘s brother‘s younger son,,,Evans2016,
+mMBeD,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s mother‘s brother‘s older daughter,,,Evans2016,
+mMByD,"kom, bandji, barnka","kom, banci, baɳka",male speaker‘s mother‘s brother‘s younger daughter,,,Evans2016,
+mMZeS,wawurd,wawuɖ,male speaker‘s mother‘s sisters‘s older son,,,Evans2016,
+mMZyS,wulkûn,wulkɨn,male speaker‘s mother‘s sisters‘s younger son,,,Evans2016,
+mMZeD,yabok,jabok,male speaker‘s mother‘s sisters‘s older daughter,,,Evans2016,
+mMZyD,yabok,jabok,male speaker‘s mother‘s sisters‘s younger daughter,,,Evans2016,
+fFBeS,wulkûn,wulkɨn,female speaker‘s father‘s brother‘s older son,,,Evans2016,
+fFByS,wulkûn,wulkɨn,female speaker‘s father‘s brother‘s younger son,,,Evans2016,
+fFBeD,yabok,jabok,female speaker‘s father‘s brother‘s older daughter,,,Evans2016,
+fFByD,wulkûndjan,wulkɨncan,female speaker‘s father‘s brother‘s younger daughter,,,Evans2016,
+fFZeS,"kom, bandji, barnka","kom, banci, baɳka",female speaker‘s father‘s sisters‘s older son,,,Evans2016,
+fFZyS,"kom, bandji, barnka","kom, banci, baɳka",female speaker‘s father‘s sisters‘s younger son,,,Evans2016,
+fFZeD,"birrwoyin, bandji, barnka","birwojin, banci, baɳka",female speaker‘s father‘s sisters‘s older daughter,,,Evans2016,
+fFZyD,"birrwoyin, bandji, barnka","birwojin, banci, baɳka",female speaker‘s father‘s sisters‘s younger daughter,,,Evans2016,
+fMBeS,"kom, bandji, barnka","kom, banci, baɳka",female speaker‘s mother‘s brother‘s older son,,,Evans2016,
+fMByS,"kom, bandji, barnka","kom, banci, baɳka",female speaker‘s mother‘s brother‘s younger son,,,Evans2016,
+fMBeD,"birrwoyin, bandji, barnka","birwojin, banci, baɳka",female speaker‘s mother‘s brother‘s older daughter,,,Evans2016,
+fMByD,"birrwoyin, bandji, barnka","birwojin, banci, baɳka",female speaker‘s mother‘s brother‘s younger daughter,,,Evans2016,
+fMZeS,wulkûn,wulkɨn,female speaker‘s mother‘s sisters‘s older son,,,Evans2016,
+fMZyS,wulkûn,wulkɨn,female speaker‘s mother‘s sisters‘s younger son,,,Evans2016,
+fMZeD,yabok,jabok,female speaker‘s mother‘s sisters‘s older daughter,,,Evans2016,
+fMZyD,wulkûndjan,wulkɨncan,female speaker‘s mother‘s sisters‘s younger daughter,,,Evans2016,

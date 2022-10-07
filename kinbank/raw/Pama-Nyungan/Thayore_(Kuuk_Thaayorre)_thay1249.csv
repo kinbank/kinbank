@@ -1,109 +1,109 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","pam kanam",,"male ego's older brother",,,,
-"myB","ngan puumi",,"male ego's younger brother",,,,
-"feB","pam kanam",,"female ego's older brother",,,,
-"fyB","ngan puumi",,"female ego's younger brother",,,,
-"meZ","yapa",,"male ego's older sister",,,,
-"myZ","wiila",,"male ego's younger sister",,,,
-"feZ","yapa",,"female ego's older sister",,,,
-"fyZ","wiila",,"female ego's younger sister",,,,
-"mF","nganip",,"male ego's father",,,,
-"mM","(nha)nganam",,"male ego's mother",,,,
-"fF","nganip",,"female ego's father",,,,
-"fM","(nha)nganam",,"female ego's mother",,,,
-"mS","pam nherngk-ngathn",,"male ego's son",,,,
-"fS","pam rothom",,"female ego's son",,,,
-"mD","paanth nherngk-ngathn",,"male ego's daughter",,,,
-"fD","paanth rothom",,"female ego's daughter",,,,
-"mSS","parr_r punth-waanha",,"male ego's son's son",,,,
-"mSD","parr_r punth-yapa",,"male ego's son's daughter",,,,
-"mDS","pam ngan-keme",,"male ego's daughter's son",,,,
-"mDD","paanth ngan-keme",,"male ego's daughter's daughter",,,,
-"fSS","pam nhemthinthin",,"female ego's son's son",,,,
-"fSD","paanth menthinthin",,"female ego's son's daughter",,,,
-"fDS","pam ngan-keme",,"female ego's daughter's son",,,,
-"fDD","paanth ngan-keme",,"female ego's daugher's daughter",,,,
-"mFF","punth-puumi",,"male ego's father‘s father",,,,
-"mFM","pam ngan-ngethe",,"male ego's father's mother",,,,
-"mMF","paanth ngan-ngethe",,"male ego's mother's father",,,,
-"mMM","paanth kamtil-mele",,"male ego's mother's mother",,,,
-"fFF","punth-puumi",,"female ego's father's father",,,,
-"fFM","pam ngan-ngethe",,"female ego's father's mother",,,,
-"fMF","paanth ngan-ngethe",,"female ego's mother's father",,,,
-"fMM","paanth kamtil-mele",,"female ego's mother's mother",,,,
-"meBS","pam nherngk-ngathn",,"male ego's older brother's son",,,,
-"myBS","pam nherngk-ngathn",,"male ego's younger brother's son",,,,
-"meZS","pam rothom",,"male ego's older sister's son",,,,
-"myZS","pam rothom",,"male ego's younger sister's son",,,,
-"meBD","paanth nherngk-ngathn",,"male ego's older brother's daughter",,,,
-"myBD","paanth nherngk-ngathn",,"male ego's younger brother's daughter",,,,
-"meZD","paanth rothom",,"male ego's older sister's daughter",,,,
-"myZD","paanth rothom",,"male ego's younger sister's daughter",,,,
-"feBS","pam nherngk-ngathn",,"female ego's older brother's son",,,,
-"fyBS","pam nherngk-ngathn",,"female ego's younger brother's son",,,,
-"feZS","pam rothom",,"female ego's older sister's son",,,,
-"fyZS","pam rothom",,"female ego's younger sister's son",,,,
-"feBD","paanth nherngk-ngathn",,"female ego's older brother's daughter",,,,
-"fyBD","paanth nherngk-ngathn",,"female ego's younger brother's daughter",,,,
-"feZD","paanth rothom",,"female ego's older sister's daughter",,,,
-"fyZD","paanth rothom",,"female ego's younger sister's daughter",,,,
-"mFeB","nganip",,"male ego's father's older brother",,,,
-"mFyB","nganip",,"male ego's father's younger brother",,,,
-"mFeZ","ngan pinhirr",,"male ego's father's older sister",,,,
-"mFyZ","ngan pinhirr",,"male ego's father's younger sister",,,,
-"mMeB","ngan mokr",,"male ego's mother's older brother",,,,
-"mMyB","ngan kaala, pam kaal-mele",,"male ego's mother's younger brother",,,,
-"mMeZ","(nha)nganam",,"male ego's mother's older sister",,,,
-"mMyZ","(nha)nganam, ngan nhangnam mantam",,"male ego's mother's younger sister",,,,
-"fFeB","nganip",,"female ego's father's older brother",,,,
-"fFyB","nganip",,"female ego's father's younger brother",,,,
-"fFeZ","ngan pinhirr",,"female ego's father's older sister",,,,
-"fFyZ","ngan pinhirr",,"female ego's father's younger sister",,,,
-"fMeB","ngan mokr",,"female ego's mother's older brother",,,,
-"fMyB","ngan kaala, pam kaal-mele",,"female ego's mother's younger brother",,,,
-"fMeZ","(nha)nganam",,"female ego's mother's older sister",,,,
-"fMyZ","(nha)nganam, ngan nhangnam mantam",,"female ego's mother's younger sister",,,,
-"mW","rorko, paanth paathum",,"male ego's wife",,,,
-"fH","pam meer-mele",,"female ego‘s husband",,,,
-"mWB","ngan kuth, pam muth",,"male ego's wife's brother",,,,
-"fHZ","paanth meer-mele",,"female ego's husband's sister",,,,
-"mFZS","pam meer-mele",,"male ego's father's sister's son",,,,
-"mMBS","ngan kuth, pam muth",,"male ego's mother's brother's son",,,,
-"mFZD","paanth meer-mele",,"male ego's father's sister's daughter",,,,
-"mMBD","rorko, paanth paathum",,"male ego's mother's brother's daughter",,,,
-"fFZS","pam meer-mele",,"female ego's father's sister's son",,,,
-"fMBS","ngan kuth, pam muth",,"female ego's mother's brother's son",,,,
-"fFZD","paanth meer-mele",,"female ego's father's sister's daughter",,,,
-"fMBD","rorko, paanth paathum",,"female ego's mother's brother's daughter",,,,
-"mFeZS","pam meer-mele",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","pam meer-mele",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeZD","paanth meer-mele",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","paanth meer-mele",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","ngan kuth, pam muth",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","ngan kuth, pam muth",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeBD","rorko, paanth paathum",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","rorko, paanth paathum",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mFZeS","pam meer-mele",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","pam meer-mele",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZeD","paanth meer-mele",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","paanth meer-mele",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","ngan kuth, pam muth",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","ngan kuth, pam muth",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMBeD","rorko, paanth paathum",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","rorko, paanth paathum",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFeZS","pam meer-mele",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","pam meer-mele",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeZD","paanth meer-mele",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","paanth meer-mele",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","ngan kuth, pam muth",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","ngan kuth, pam muth",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeBD","rorko, paanth paathum",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","rorko, paanth paathum",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFZeS","pam meer-mele",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","pam meer-mele",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZeD","paanth meer-mele",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","paanth meer-mele",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","ngan kuth, pam muth",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","ngan kuth, pam muth",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMBeD","rorko, paanth paathum",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","rorko, paanth paathum",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,pam kanam,,male ego's older brother,,,Gaby2006,
+myB,ngan puumi,,male ego's younger brother,,,Gaby2006,
+feB,pam kanam,,female ego's older brother,,,Gaby2006,
+fyB,ngan puumi,,female ego's younger brother,,,Gaby2006,
+meZ,yapa,,male ego's older sister,,,Gaby2006,
+myZ,wiila,,male ego's younger sister,,,Gaby2006,
+feZ,yapa,,female ego's older sister,,,Gaby2006,
+fyZ,wiila,,female ego's younger sister,,,Gaby2006,
+mF,nganip,,male ego's father,,,Gaby2006,
+mM,(nha)nganam,,male ego's mother,,,Gaby2006,
+fF,nganip,,female ego's father,,,Gaby2006,
+fM,(nha)nganam,,female ego's mother,,,Gaby2006,
+mS,pam nherngk-ngathn,,male ego's son,,,Gaby2006,
+fS,pam rothom,,female ego's son,,,Gaby2006,
+mD,paanth nherngk-ngathn,,male ego's daughter,,,Gaby2006,
+fD,paanth rothom,,female ego's daughter,,,Gaby2006,
+mSS,parr_r punth-waanha,,male ego's son's son,,,Gaby2006,
+mSD,parr_r punth-yapa,,male ego's son's daughter,,,Gaby2006,
+mDS,pam ngan-keme,,male ego's daughter's son,,,Gaby2006,
+mDD,paanth ngan-keme,,male ego's daughter's daughter,,,Gaby2006,
+fSS,pam nhemthinthin,,female ego's son's son,,,Gaby2006,
+fSD,paanth menthinthin,,female ego's son's daughter,,,Gaby2006,
+fDS,pam ngan-keme,,female ego's daughter's son,,,Gaby2006,
+fDD,paanth ngan-keme,,female ego's daugher's daughter,,,Gaby2006,
+mFF,punth-puumi,,male ego's father‘s father,,,Gaby2006,
+mFM,pam ngan-ngethe,,male ego's father's mother,,,Gaby2006,
+mMF,paanth ngan-ngethe,,male ego's mother's father,,,Gaby2006,
+mMM,paanth kamtil-mele,,male ego's mother's mother,,,Gaby2006,
+fFF,punth-puumi,,female ego's father's father,,,Gaby2006,
+fFM,pam ngan-ngethe,,female ego's father's mother,,,Gaby2006,
+fMF,paanth ngan-ngethe,,female ego's mother's father,,,Gaby2006,
+fMM,paanth kamtil-mele,,female ego's mother's mother,,,Gaby2006,
+meBS,pam nherngk-ngathn,,male ego's older brother's son,,,Gaby2006,
+myBS,pam nherngk-ngathn,,male ego's younger brother's son,,,Gaby2006,
+meZS,pam rothom,,male ego's older sister's son,,,Gaby2006,
+myZS,pam rothom,,male ego's younger sister's son,,,Gaby2006,
+meBD,paanth nherngk-ngathn,,male ego's older brother's daughter,,,Gaby2006,
+myBD,paanth nherngk-ngathn,,male ego's younger brother's daughter,,,Gaby2006,
+meZD,paanth rothom,,male ego's older sister's daughter,,,Gaby2006,
+myZD,paanth rothom,,male ego's younger sister's daughter,,,Gaby2006,
+feBS,pam nherngk-ngathn,,female ego's older brother's son,,,Gaby2006,
+fyBS,pam nherngk-ngathn,,female ego's younger brother's son,,,Gaby2006,
+feZS,pam rothom,,female ego's older sister's son,,,Gaby2006,
+fyZS,pam rothom,,female ego's younger sister's son,,,Gaby2006,
+feBD,paanth nherngk-ngathn,,female ego's older brother's daughter,,,Gaby2006,
+fyBD,paanth nherngk-ngathn,,female ego's younger brother's daughter,,,Gaby2006,
+feZD,paanth rothom,,female ego's older sister's daughter,,,Gaby2006,
+fyZD,paanth rothom,,female ego's younger sister's daughter,,,Gaby2006,
+mFeB,nganip,,male ego's father's older brother,,,Gaby2006,
+mFyB,nganip,,male ego's father's younger brother,,,Gaby2006,
+mFeZ,ngan pinhirr,,male ego's father's older sister,,,Gaby2006,
+mFyZ,ngan pinhirr,,male ego's father's younger sister,,,Gaby2006,
+mMeB,ngan mokr,,male ego's mother's older brother,,,Gaby2006,
+mMyB,"ngan kaala, pam kaal-mele",,male ego's mother's younger brother,,,Gaby2006,
+mMeZ,(nha)nganam,,male ego's mother's older sister,,,Gaby2006,
+mMyZ,"(nha)nganam, ngan nhangnam mantam",,male ego's mother's younger sister,,,Gaby2006,
+fFeB,nganip,,female ego's father's older brother,,,Gaby2006,
+fFyB,nganip,,female ego's father's younger brother,,,Gaby2006,
+fFeZ,ngan pinhirr,,female ego's father's older sister,,,Gaby2006,
+fFyZ,ngan pinhirr,,female ego's father's younger sister,,,Gaby2006,
+fMeB,ngan mokr,,female ego's mother's older brother,,,Gaby2006,
+fMyB,"ngan kaala, pam kaal-mele",,female ego's mother's younger brother,,,Gaby2006,
+fMeZ,(nha)nganam,,female ego's mother's older sister,,,Gaby2006,
+fMyZ,"(nha)nganam, ngan nhangnam mantam",,female ego's mother's younger sister,,,Gaby2006,
+mW,"rorko, paanth paathum",,male ego's wife,,,Gaby2006,
+fH,pam meer-mele,,female ego‘s husband,,,Gaby2006,
+mWB,"ngan kuth, pam muth",,male ego's wife's brother,,,Gaby2006,
+fHZ,paanth meer-mele,,female ego's husband's sister,,,Gaby2006,
+mFZS,pam meer-mele,,male ego's father's sister's son,,,Gaby2006,
+mMBS,"ngan kuth, pam muth",,male ego's mother's brother's son,,,Gaby2006,
+mFZD,paanth meer-mele,,male ego's father's sister's daughter,,,Gaby2006,
+mMBD,"rorko, paanth paathum",,male ego's mother's brother's daughter,,,Gaby2006,
+fFZS,pam meer-mele,,female ego's father's sister's son,,,Gaby2006,
+fMBS,"ngan kuth, pam muth",,female ego's mother's brother's son,,,Gaby2006,
+fFZD,paanth meer-mele,,female ego's father's sister's daughter,,,Gaby2006,
+fMBD,"rorko, paanth paathum",,female ego's mother's brother's daughter,,,Gaby2006,
+mFeZS,pam meer-mele,,male ego's father's sister's son,,,Gaby2006,Inferred; NA
+mFyZS,pam meer-mele,,male ego's father's sister's son,,,Gaby2006,Inferred; NA
+mFeZD,paanth meer-mele,,male ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+mFyZD,paanth meer-mele,,male ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+mMeBS,"ngan kuth, pam muth",,male ego's mother's brother's son,,,Gaby2006,Inferred; NA
+mMyBS,"ngan kuth, pam muth",,male ego's mother's brother's son,,,Gaby2006,Inferred; NA
+mMeBD,"rorko, paanth paathum",,male ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+mMyBD,"rorko, paanth paathum",,male ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+mFZeS,pam meer-mele,,male ego's father's sister's son,,,Gaby2006,Inferred; NA
+mFZyS,pam meer-mele,,male ego's father's sister's son,,,Gaby2006,Inferred; NA
+mFZeD,paanth meer-mele,,male ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+mFZyD,paanth meer-mele,,male ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+mMBeS,"ngan kuth, pam muth",,male ego's mother's brother's son,,,Gaby2006,Inferred; NA
+mMByS,"ngan kuth, pam muth",,male ego's mother's brother's son,,,Gaby2006,Inferred; NA
+mMBeD,"rorko, paanth paathum",,male ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+mMByD,"rorko, paanth paathum",,male ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+fFeZS,pam meer-mele,,female ego's father's sister's son,,,Gaby2006,Inferred; NA
+fFyZS,pam meer-mele,,female ego's father's sister's son,,,Gaby2006,Inferred; NA
+fFeZD,paanth meer-mele,,female ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+fFyZD,paanth meer-mele,,female ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+fMeBS,"ngan kuth, pam muth",,female ego's mother's brother's son,,,Gaby2006,Inferred; NA
+fMyBS,"ngan kuth, pam muth",,female ego's mother's brother's son,,,Gaby2006,Inferred; NA
+fMeBD,"rorko, paanth paathum",,female ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+fMyBD,"rorko, paanth paathum",,female ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+fFZeS,pam meer-mele,,female ego's father's sister's son,,,Gaby2006,Inferred; NA
+fFZyS,pam meer-mele,,female ego's father's sister's son,,,Gaby2006,Inferred; NA
+fFZeD,paanth meer-mele,,female ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+fFZyD,paanth meer-mele,,female ego's father's sister's daughter,,,Gaby2006,Inferred; NA
+fMBeS,"ngan kuth, pam muth",,female ego's mother's brother's son,,,Gaby2006,Inferred; NA
+fMByS,"ngan kuth, pam muth",,female ego's mother's brother's son,,,Gaby2006,Inferred; NA
+fMBeD,"rorko, paanth paathum",,female ego's mother's brother's daughter,,,Gaby2006,Inferred; NA
+fMByD,"rorko, paanth paathum",,female ego's mother's brother's daughter,,,Gaby2006,Inferred; NA

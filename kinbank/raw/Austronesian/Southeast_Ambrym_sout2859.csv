@@ -1,142 +1,142 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tu",,"male ego's older brother","",,,
-"myB","tu",,"male ego's younger brother","",,,
-"feB","hinne",,"female ego's older brother","",,,
-"fyB","hinne",,"female ego's younger brother","",,,
-"meZ","hinne",,"male ego's older sister","",,,
-"myZ","hinne",,"male ego's younger sister","",,,
-"feZ","tu",,"female ego's older sister","",,,
-"fyZ","tu",,"female ego's younger sister","",,,
-"mF","tame",,"male ego's father","",,,
-"mM","nine",,"male ego's mother","",,,
-"fF","tame",,"female ego's father","",,,
-"fM","nine",,"female ego's mother","",,,
-"mS","nate",,"male ego's son","",,,
-"fS","nate",,"female ego's son","",,,
-"mD","nate",,"male ego's daughter","",,,
-"fD","nate",,"female ego's daughter","",,,
-"mSS","havu-",,"male ego's son's son","",,,
-"mSD","havu-",,"male ego's son's daughter","",,,
-"mDS","havu-",,"male ego's daughter's son","",,,
-"mDD","havu-",,"male ego's daughter's daughter","avukokon",,,
-"fSS","havu-",,"female ego's son's son","",,,
-"fSD","havu-",,"female ego's son's daughter","",,,
-"fDS","havu-",,"female ego's daughter's son","",,,
-"fDD","havu-",,"female ego's daugher's daughter","",,,
-"mFF","avu",,"male ego's father‘s father","",,,
-"mFM","avu",,"male ego's father's mother","",,,
-"mMF","avu",,"male ego's mother's father","",,,
-"mMM","avu",,"male ego's mother's mother","",,,
-"fFF","avu",,"female ego's father's father","",,,
-"fFM","avu",,"female ego's father's mother","",,,
-"fMF","avu",,"female ego's mother's father","",,,
-"fMM","avu",,"female ego's mother's mother","",,,
-"meZS","avukokon",,"male ego's older sister's son","",,,
-"mFeB","pap",,"male ego's father's older brother","",,,
-"mFyB","pap",,"male ego's father's younger brother","",,,
-"mFeZ","tine",,"male ego's father's older sister","",,,
-"mFyZ","tine",,"male ego's father's younger sister","",,,
-"mMeB","metuo",,"male ego's mother's older brother","",,,
-"mMyB","metuo",,"male ego's mother's younger brother","",,,
-"mMeZ","nine",,"male ego's mother's older sister","",,,
-"mMyZ","nine",,"male ego's mother's younger sister","",,,
-"fFeB","pap",,"female ego's father's older brother","",,,
-"fFyB","pap",,"female ego's father's younger brother","",,,
-"fFeZ","tine",,"female ego's father's older sister","",,,
-"fFyZ","tine",,"female ego's father's younger sister","",,,
-"fMeB","metuo",,"female ego's mother's older brother","",,,
-"fMyB","metuo",,"female ego's mother's younger brother","",,,
-"fMeZ","nine",,"female ego's mother's older sister","",,,
-"fMyZ","nine",,"female ego's mother's younger sister","",,,
-"mW","asou",,"male ego's wife","",,,
-"fH","asou",,"female ego‘s husband","",,,
-"fDH","mase",,"female ego's daughter's husband","",,,
-"mSW","nine",,"male ego's son's wife","",,,
-"fSW","nine",,"female ego's son's wife","",,,
-"mWF","avukokon",,"male ego's wife's father","",,,
-"mWM","avukokon",,"male ego's wife's mother","",,,
-"fHF","avukokon",,"female ego's husband's father","",,,
-"fHM","avukokon",,"female ego's husband's mother","",,,
-"fHB","avu",,"female ego's husband's brother","",,,
-"mBW","avu",,"male ego's brother's wife","",,,
-"fZH","avu",,"female ego's sister's husband","",,,
-"mFBS","tu",,"male ego's father's brother's son","",,,
-"mFZS","mase",,"male ego's father's sister's son","",,,
-"mMBS","mase",,"male ego's mother's brother's son","",,,
-"mMZS","tu",,"male ego's mother's sister's son","",,,
-"mFBD","hinne",,"male ego's father's brother's daughter","",,,
-"mFZD","avukokon",,"male ego's father's sister's daughter","",,,
-"mMBD","avukokon",,"male ego's mother's brother's daughter","",,,
-"mMZD","hinne",,"male ego's mother's sister's daughter","",,,
-"fFBS","hinne",,"female ego's father's brother's son","",,,
-"fFZS","mase",,"female ego's father's sister's son","",,,
-"fMBS","mase",,"female ego's mother's brother's son","",,,
-"fMZS","hinne",,"female ego's mother's sister's son","",,,
-"fFBD","tu",,"female ego's father's brother's daughter","",,,
-"fFZD","avukokon",,"female ego's father's sister's daughter","",,,
-"fMBD","avukokon",,"female ego's mother's brother's daughter","",,,
-"fMZD","tu",,"female ego's mother's sister's daughter","",,,
-"mFeBS","tu",,"male ego's father's brother's son","",,,"Inferred; NA"
-"mFyBS","tu",,"male ego's father's brother's son","",,,"Inferred; NA"
-"mFeZS","mase",,"male ego's father's sister's son","",,,"Inferred; NA"
-"mFyZS","mase",,"male ego's father's sister's son","",,,"Inferred; NA"
-"mFeBD","hinne",,"male ego's father's brother's daughter","",,,"Inferred; NA"
-"mFyBD","hinne",,"male ego's father's brother's daughter","",,,"Inferred; NA"
-"mFeZD","avukokon",,"male ego's father's sister's daughter","",,,"Inferred; NA"
-"mFyZD","avukokon",,"male ego's father's sister's daughter","",,,"Inferred; NA"
-"mMeBS","mase",,"male ego's mother's brother's son","",,,"Inferred; NA"
-"mMyBS","mase",,"male ego's mother's brother's son","",,,"Inferred; NA"
-"mMeZS","tu",,"male ego's mother's sister's son","",,,"Inferred; NA"
-"mMyZS","tu",,"male ego's mother's sister's son","",,,"Inferred; NA"
-"mMeBD","avukokon",,"male ego's mother's brother's daughter","",,,"Inferred; NA"
-"mMyBD","avukokon",,"male ego's mother's brother's daughter","",,,"Inferred; NA"
-"mMeZD","hinne",,"male ego's mother's sister's daughter","",,,"Inferred; NA"
-"mMyZD","hinne",,"male ego's mother's sister's daughter","",,,"Inferred; NA"
-"mFBeS","tu",,"male ego's father's brother's son","",,,"Inferred; NA"
-"mFByS","tu",,"male ego's father's brother's son","",,,"Inferred; NA"
-"mFZeS","mase",,"male ego's father's sister's son","",,,"Inferred; NA"
-"mFZyS","mase",,"male ego's father's sister's son","",,,"Inferred; NA"
-"mFBeD","hinne",,"male ego's father's brother's daughter","",,,"Inferred; NA"
-"mFByD","hinne",,"male ego's father's brother's daughter","",,,"Inferred; NA"
-"mFZeD","avukokon",,"male ego's father's sister's daughter","",,,"Inferred; NA"
-"mFZyD","avukokon",,"male ego's father's sister's daughter","",,,"Inferred; NA"
-"mMBeS","mase",,"male ego's mother's brother's son","",,,"Inferred; NA"
-"mMByS","mase",,"male ego's mother's brother's son","",,,"Inferred; NA"
-"mMZeS","tu",,"male ego's mother's sister's son","",,,"Inferred; NA"
-"mMZyS","tu",,"male ego's mother's sister's son","",,,"Inferred; NA"
-"mMBeD","avukokon",,"male ego's mother's brother's daughter","",,,"Inferred; NA"
-"mMByD","avukokon",,"male ego's mother's brother's daughter","",,,"Inferred; NA"
-"mMZeD","hinne",,"male ego's mother's sister's daughter","",,,"Inferred; NA"
-"mMZyD","hinne",,"male ego's mother's sister's daughter","",,,"Inferred; NA"
-"fFeBS","hinne",,"female ego's father's brother's son","",,,"Inferred; NA"
-"fFyBS","hinne",,"female ego's father's brother's son","",,,"Inferred; NA"
-"fFeZS","mase",,"female ego's father's sister's son","",,,"Inferred; NA"
-"fFyZS","mase",,"female ego's father's sister's son","",,,"Inferred; NA"
-"fFeBD","tu",,"female ego's father's brother's daughter","",,,"Inferred; NA"
-"fFyBD","tu",,"female ego's father's brother's daughter","",,,"Inferred; NA"
-"fFeZD","avukokon",,"female ego's father's sister's daughter","",,,"Inferred; NA"
-"fFyZD","avukokon",,"female ego's father's sister's daughter","",,,"Inferred; NA"
-"fMeBS","mase",,"female ego's mother's brother's son","",,,"Inferred; NA"
-"fMyBS","mase",,"female ego's mother's brother's son","",,,"Inferred; NA"
-"fMeZS","hinne",,"female ego's mother's sister's son","",,,"Inferred; NA"
-"fMyZS","hinne",,"female ego's mother's sister's son","",,,"Inferred; NA"
-"fMeBD","avukokon",,"female ego's mother's brother's daughter","",,,"Inferred; NA"
-"fMyBD","avukokon",,"female ego's mother's brother's daughter","",,,"Inferred; NA"
-"fMeZD","tu",,"female ego's mother's sister's daughter","",,,"Inferred; NA"
-"fMyZD","tu",,"female ego's mother's sister's daughter","",,,"Inferred; NA"
-"fFBeS","hinne",,"female ego's father's brother's son","",,,"Inferred; NA"
-"fFByS","hinne",,"female ego's father's brother's son","",,,"Inferred; NA"
-"fFZeS","mase",,"female ego's father's sister's son","",,,"Inferred; NA"
-"fFZyS","mase",,"female ego's father's sister's son","",,,"Inferred; NA"
-"fFBeD","tu",,"female ego's father's brother's daughter","",,,"Inferred; NA"
-"fFByD","tu",,"female ego's father's brother's daughter","",,,"Inferred; NA"
-"fFZeD","avukokon",,"female ego's father's sister's daughter","",,,"Inferred; NA"
-"fFZyD","avukokon",,"female ego's father's sister's daughter","",,,"Inferred; NA"
-"fMBeS","mase",,"female ego's mother's brother's son","",,,"Inferred; NA"
-"fMByS","mase",,"female ego's mother's brother's son","",,,"Inferred; NA"
-"fMZeS","hinne",,"female ego's mother's sister's son","",,,"Inferred; NA"
-"fMZyS","hinne",,"female ego's mother's sister's son","",,,"Inferred; NA"
-"fMBeD","avukokon",,"female ego's mother's brother's daughter","",,,"Inferred; NA"
-"fMByD","avukokon",,"female ego's mother's brother's daughter","",,,"Inferred; NA"
-"fMZeD","tu",,"female ego's mother's sister's daughter","",,,"Inferred; NA"
-"fMZyD","tu",,"female ego's mother's sister's daughter","",,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,tu,,male ego's older brother,,,Parker1970,
+myB,tu,,male ego's younger brother,,,Parker1970,
+feB,hinne,,female ego's older brother,,,Parker1970,
+fyB,hinne,,female ego's younger brother,,,Parker1970,
+meZ,hinne,,male ego's older sister,,,Parker1970,
+myZ,hinne,,male ego's younger sister,,,Parker1970,
+feZ,tu,,female ego's older sister,,,Parker1970,
+fyZ,tu,,female ego's younger sister,,,Parker1970,
+mF,tame,,male ego's father,,,Parker1970,
+mM,nine,,male ego's mother,,,Parker1970,
+fF,tame,,female ego's father,,,Parker1970,
+fM,nine,,female ego's mother,,,Parker1970,
+mS,nate,,male ego's son,,,Parker1970,
+fS,nate,,female ego's son,,,Parker1970,
+mD,nate,,male ego's daughter,,,Parker1970,
+fD,nate,,female ego's daughter,,,Parker1970,
+mSS,havu-,,male ego's son's son,,,Parker1970,
+mSD,havu-,,male ego's son's daughter,,,Parker1970,
+mDS,havu-,,male ego's daughter's son,,,Parker1970,
+mDD,havu-,,male ego's daughter's daughter,avukokon,,Parker1970,
+fSS,havu-,,female ego's son's son,,,Parker1970,
+fSD,havu-,,female ego's son's daughter,,,Parker1970,
+fDS,havu-,,female ego's daughter's son,,,Parker1970,
+fDD,havu-,,female ego's daugher's daughter,,,Parker1970,
+mFF,avu,,male ego's father‘s father,,,Parker1970,
+mFM,avu,,male ego's father's mother,,,Parker1970,
+mMF,avu,,male ego's mother's father,,,Parker1970,
+mMM,avu,,male ego's mother's mother,,,Parker1970,
+fFF,avu,,female ego's father's father,,,Parker1970,
+fFM,avu,,female ego's father's mother,,,Parker1970,
+fMF,avu,,female ego's mother's father,,,Parker1970,
+fMM,avu,,female ego's mother's mother,,,Parker1970,
+meZS,avukokon,,male ego's older sister's son,,,Parker1970,
+mFeB,pap,,male ego's father's older brother,,,Parker1970,
+mFyB,pap,,male ego's father's younger brother,,,Parker1970,
+mFeZ,tine,,male ego's father's older sister,,,Parker1970,
+mFyZ,tine,,male ego's father's younger sister,,,Parker1970,
+mMeB,metuo,,male ego's mother's older brother,,,Parker1970,
+mMyB,metuo,,male ego's mother's younger brother,,,Parker1970,
+mMeZ,nine,,male ego's mother's older sister,,,Parker1970,
+mMyZ,nine,,male ego's mother's younger sister,,,Parker1970,
+fFeB,pap,,female ego's father's older brother,,,Parker1970,
+fFyB,pap,,female ego's father's younger brother,,,Parker1970,
+fFeZ,tine,,female ego's father's older sister,,,Parker1970,
+fFyZ,tine,,female ego's father's younger sister,,,Parker1970,
+fMeB,metuo,,female ego's mother's older brother,,,Parker1970,
+fMyB,metuo,,female ego's mother's younger brother,,,Parker1970,
+fMeZ,nine,,female ego's mother's older sister,,,Parker1970,
+fMyZ,nine,,female ego's mother's younger sister,,,Parker1970,
+mW,asou,,male ego's wife,,,Parker1970,
+fH,asou,,female ego‘s husband,,,Parker1970,
+fDH,mase,,female ego's daughter's husband,,,Parker1970,
+mSW,nine,,male ego's son's wife,,,Parker1970,
+fSW,nine,,female ego's son's wife,,,Parker1970,
+mWF,avukokon,,male ego's wife's father,,,Parker1970,
+mWM,avukokon,,male ego's wife's mother,,,Parker1970,
+fHF,avukokon,,female ego's husband's father,,,Parker1970,
+fHM,avukokon,,female ego's husband's mother,,,Parker1970,
+fHB,avu,,female ego's husband's brother,,,Parker1970,
+mBW,avu,,male ego's brother's wife,,,Parker1970,
+fZH,avu,,female ego's sister's husband,,,Parker1970,
+mFBS,tu,,male ego's father's brother's son,,,Parker1970,
+mFZS,mase,,male ego's father's sister's son,,,Parker1970,
+mMBS,mase,,male ego's mother's brother's son,,,Parker1970,
+mMZS,tu,,male ego's mother's sister's son,,,Parker1970,
+mFBD,hinne,,male ego's father's brother's daughter,,,Parker1970,
+mFZD,avukokon,,male ego's father's sister's daughter,,,Parker1970,
+mMBD,avukokon,,male ego's mother's brother's daughter,,,Parker1970,
+mMZD,hinne,,male ego's mother's sister's daughter,,,Parker1970,
+fFBS,hinne,,female ego's father's brother's son,,,Parker1970,
+fFZS,mase,,female ego's father's sister's son,,,Parker1970,
+fMBS,mase,,female ego's mother's brother's son,,,Parker1970,
+fMZS,hinne,,female ego's mother's sister's son,,,Parker1970,
+fFBD,tu,,female ego's father's brother's daughter,,,Parker1970,
+fFZD,avukokon,,female ego's father's sister's daughter,,,Parker1970,
+fMBD,avukokon,,female ego's mother's brother's daughter,,,Parker1970,
+fMZD,tu,,female ego's mother's sister's daughter,,,Parker1970,
+mFeBS,tu,,male ego's father's brother's son,,,Parker1970,Inferred; NA
+mFyBS,tu,,male ego's father's brother's son,,,Parker1970,Inferred; NA
+mFeZS,mase,,male ego's father's sister's son,,,Parker1970,Inferred; NA
+mFyZS,mase,,male ego's father's sister's son,,,Parker1970,Inferred; NA
+mFeBD,hinne,,male ego's father's brother's daughter,,,Parker1970,Inferred; NA
+mFyBD,hinne,,male ego's father's brother's daughter,,,Parker1970,Inferred; NA
+mFeZD,avukokon,,male ego's father's sister's daughter,,,Parker1970,Inferred; NA
+mFyZD,avukokon,,male ego's father's sister's daughter,,,Parker1970,Inferred; NA
+mMeBS,mase,,male ego's mother's brother's son,,,Parker1970,Inferred; NA
+mMyBS,mase,,male ego's mother's brother's son,,,Parker1970,Inferred; NA
+mMeZS,tu,,male ego's mother's sister's son,,,Parker1970,Inferred; NA
+mMyZS,tu,,male ego's mother's sister's son,,,Parker1970,Inferred; NA
+mMeBD,avukokon,,male ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+mMyBD,avukokon,,male ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+mMeZD,hinne,,male ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+mMyZD,hinne,,male ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+mFBeS,tu,,male ego's father's brother's son,,,Parker1970,Inferred; NA
+mFByS,tu,,male ego's father's brother's son,,,Parker1970,Inferred; NA
+mFZeS,mase,,male ego's father's sister's son,,,Parker1970,Inferred; NA
+mFZyS,mase,,male ego's father's sister's son,,,Parker1970,Inferred; NA
+mFBeD,hinne,,male ego's father's brother's daughter,,,Parker1970,Inferred; NA
+mFByD,hinne,,male ego's father's brother's daughter,,,Parker1970,Inferred; NA
+mFZeD,avukokon,,male ego's father's sister's daughter,,,Parker1970,Inferred; NA
+mFZyD,avukokon,,male ego's father's sister's daughter,,,Parker1970,Inferred; NA
+mMBeS,mase,,male ego's mother's brother's son,,,Parker1970,Inferred; NA
+mMByS,mase,,male ego's mother's brother's son,,,Parker1970,Inferred; NA
+mMZeS,tu,,male ego's mother's sister's son,,,Parker1970,Inferred; NA
+mMZyS,tu,,male ego's mother's sister's son,,,Parker1970,Inferred; NA
+mMBeD,avukokon,,male ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+mMByD,avukokon,,male ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+mMZeD,hinne,,male ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+mMZyD,hinne,,male ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+fFeBS,hinne,,female ego's father's brother's son,,,Parker1970,Inferred; NA
+fFyBS,hinne,,female ego's father's brother's son,,,Parker1970,Inferred; NA
+fFeZS,mase,,female ego's father's sister's son,,,Parker1970,Inferred; NA
+fFyZS,mase,,female ego's father's sister's son,,,Parker1970,Inferred; NA
+fFeBD,tu,,female ego's father's brother's daughter,,,Parker1970,Inferred; NA
+fFyBD,tu,,female ego's father's brother's daughter,,,Parker1970,Inferred; NA
+fFeZD,avukokon,,female ego's father's sister's daughter,,,Parker1970,Inferred; NA
+fFyZD,avukokon,,female ego's father's sister's daughter,,,Parker1970,Inferred; NA
+fMeBS,mase,,female ego's mother's brother's son,,,Parker1970,Inferred; NA
+fMyBS,mase,,female ego's mother's brother's son,,,Parker1970,Inferred; NA
+fMeZS,hinne,,female ego's mother's sister's son,,,Parker1970,Inferred; NA
+fMyZS,hinne,,female ego's mother's sister's son,,,Parker1970,Inferred; NA
+fMeBD,avukokon,,female ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+fMyBD,avukokon,,female ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+fMeZD,tu,,female ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+fMyZD,tu,,female ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+fFBeS,hinne,,female ego's father's brother's son,,,Parker1970,Inferred; NA
+fFByS,hinne,,female ego's father's brother's son,,,Parker1970,Inferred; NA
+fFZeS,mase,,female ego's father's sister's son,,,Parker1970,Inferred; NA
+fFZyS,mase,,female ego's father's sister's son,,,Parker1970,Inferred; NA
+fFBeD,tu,,female ego's father's brother's daughter,,,Parker1970,Inferred; NA
+fFByD,tu,,female ego's father's brother's daughter,,,Parker1970,Inferred; NA
+fFZeD,avukokon,,female ego's father's sister's daughter,,,Parker1970,Inferred; NA
+fFZyD,avukokon,,female ego's father's sister's daughter,,,Parker1970,Inferred; NA
+fMBeS,mase,,female ego's mother's brother's son,,,Parker1970,Inferred; NA
+fMByS,mase,,female ego's mother's brother's son,,,Parker1970,Inferred; NA
+fMZeS,hinne,,female ego's mother's sister's son,,,Parker1970,Inferred; NA
+fMZyS,hinne,,female ego's mother's sister's son,,,Parker1970,Inferred; NA
+fMBeD,avukokon,,female ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+fMByD,avukokon,,female ego's mother's brother's daughter,,,Parker1970,Inferred; NA
+fMZeD,tu,,female ego's mother's sister's daughter,,,Parker1970,Inferred; NA
+fMZyD,tu,,female ego's mother's sister's daughter,,,Parker1970,Inferred; NA

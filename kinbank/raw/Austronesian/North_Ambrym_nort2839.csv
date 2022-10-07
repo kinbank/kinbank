@@ -1,75 +1,75 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","taovjen",,"male ego's older brother",,,,
-"myB","taovjen",,"male ego's younger brother",,,,
-"feB","talang",,"female ego's older brother",,,,
-"fyB","talang",,"female ego's younger brother",,,,
-"meZ","talang",,"male ego's older sister",,,,
-"myZ","talang",,"male ego's younger sister",,,,
-"feZ","talang",,"female ego's older sister",,,,
-"fyZ","talang",,"female ego's younger sister",,,,
-"mF","teta",,"male ego's father",,,,
-"mM","ina",,"male ego's mother",,,,
-"fF","teta",,"female ego's father",,,,
-"fM","ina",,"female ego's mother",,,,
-"mS","teta",,"male ego's son",,,,
-"fS","wunjong",,"female ego's son",,,,
-"mD","ina",,"male ego's daughter",,,,
-"fD","tubiung vehen",,"female ego's daughter",,,,
-"meBS","wunjong",,"male ego's older brother's son",,,,
-"myBS","wunjong",,"male ego's younger brother's son",,,,
-"meBD","tubiung wehen",,"male ego's older brother's daughter",,,,
-"myBD","tubiung wehen",,"male ego's younger brother's daughter",,,,
-"feBS","teta",,"female ego's older brother's son",,,,
-"fyBS","teta",,"female ego's younger brother's son",,,,
-"feZS","teta",,"female ego's older sister's son",,,,
-"fyZS","teta",,"female ego's younger sister's son",,,,
-"feBD","ina",,"female ego's older brother's daughter",,,,
-"fyBD","ina",,"female ego's younger brother's daughter",,,,
-"feZD","ina",,"female ego's older sister's daughter",,,,
-"fyZD","ina",,"female ego's younger sister's daughter",,,,
-"mFeB","teta",,"male ego's father's older brother",,,,
-"mFyB","teta",,"male ego's father's younger brother",,,,
-"mFeZ","raheng",,"male ego's father's older sister",,,,
-"mFyZ","raheng",,"male ego's father's younger sister",,,,
-"mMeB","mesong",,"male ego's mother's older brother",,,,
-"mMyB","mesong",,"male ego's mother's younger brother",,,,
-"mMeZ","ina",,"male ego's mother's older sister",,,,
-"mMyZ","ina",,"male ego's mother's younger sister",,,,
-"fFeB","teta",,"female ego's father's older brother",,,,
-"fFyB","teta",,"female ego's father's younger brother",,,,
-"fFeZ","raheng",,"female ego's father's older sister",,,,
-"fFyZ","raheng",,"female ego's father's younger sister",,,,
-"fMeB","mesong",,"female ego's mother's older brother",,,,
-"fMyB","mesong",,"female ego's mother's younger brother",,,,
-"fMeZ","ina",,"female ego's mother's older sister",,,,
-"fMyZ","ina",,"female ego's mother's younger sister",,,,
-"mW","majo wehen",,"male ego's wife",,,,
-"fH","majo viang",,"female ego‘s husband",,,,
-"mDH","mesong",,"male ego's daughter's husband",,,,
-"mSW","raheng",,"male ego's son's wife",,,,
-"mWF","wunjong",,"male ego's wife's father",,,,
-"mWM","tubiung wehen",,"male ego's wife's mother",,,,
-"fHF","wunjong",,"female ego's husband's father",,,,
-"fHM","tubiung wehen",,"female ego's husband's mother",,,,
-"fHB","taovjen",,"female ego's husband's brother",,,,
-"fBW","reviang",,"female ego's brother's wife",,,,
-"mFZS","tubiung",,"male ego's father's sister's son",,,,
-"mMBS","mesong",,"male ego's mother's brother's son",,,,
-"fMBS","tubiung",,"female ego's mother's brother's son",,,,
-"fMBD","jaleng wehen",,"female ego's mother's brother's daughter",,,,
-"mFeZS","tubiung",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","tubiung",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mMeBS","mesong",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","mesong",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mFZeS","tubiung",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","tubiung",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mMBeS","mesong",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","mesong",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"fMeBS","tubiung",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","tubiung",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeBD","jaleng wehen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","jaleng wehen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMBeS","tubiung",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","tubiung",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMBeD","jaleng wehen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","jaleng wehen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,taovjen,,male ego's older brother,,,rio2007a,
+myB,taovjen,,male ego's younger brother,,,rio2007a,
+feB,talang,,female ego's older brother,,,rio2007a,
+fyB,talang,,female ego's younger brother,,,rio2007a,
+meZ,talang,,male ego's older sister,,,rio2007a,
+myZ,talang,,male ego's younger sister,,,rio2007a,
+feZ,talang,,female ego's older sister,,,rio2007a,
+fyZ,talang,,female ego's younger sister,,,rio2007a,
+mF,teta,,male ego's father,,,rio2007a,
+mM,ina,,male ego's mother,,,rio2007a,
+fF,teta,,female ego's father,,,rio2007a,
+fM,ina,,female ego's mother,,,rio2007a,
+mS,teta,,male ego's son,,,rio2007a,
+fS,wunjong,,female ego's son,,,rio2007a,
+mD,ina,,male ego's daughter,,,rio2007a,
+fD,tubiung vehen,,female ego's daughter,,,rio2007a,
+meBS,wunjong,,male ego's older brother's son,,,rio2007a,
+myBS,wunjong,,male ego's younger brother's son,,,rio2007a,
+meBD,tubiung wehen,,male ego's older brother's daughter,,,rio2007a,
+myBD,tubiung wehen,,male ego's younger brother's daughter,,,rio2007a,
+feBS,teta,,female ego's older brother's son,,,rio2007a,
+fyBS,teta,,female ego's younger brother's son,,,rio2007a,
+feZS,teta,,female ego's older sister's son,,,rio2007a,
+fyZS,teta,,female ego's younger sister's son,,,rio2007a,
+feBD,ina,,female ego's older brother's daughter,,,rio2007a,
+fyBD,ina,,female ego's younger brother's daughter,,,rio2007a,
+feZD,ina,,female ego's older sister's daughter,,,rio2007a,
+fyZD,ina,,female ego's younger sister's daughter,,,rio2007a,
+mFeB,teta,,male ego's father's older brother,,,rio2007a,
+mFyB,teta,,male ego's father's younger brother,,,rio2007a,
+mFeZ,raheng,,male ego's father's older sister,,,rio2007a,
+mFyZ,raheng,,male ego's father's younger sister,,,rio2007a,
+mMeB,mesong,,male ego's mother's older brother,,,rio2007a,
+mMyB,mesong,,male ego's mother's younger brother,,,rio2007a,
+mMeZ,ina,,male ego's mother's older sister,,,rio2007a,
+mMyZ,ina,,male ego's mother's younger sister,,,rio2007a,
+fFeB,teta,,female ego's father's older brother,,,rio2007a,
+fFyB,teta,,female ego's father's younger brother,,,rio2007a,
+fFeZ,raheng,,female ego's father's older sister,,,rio2007a,
+fFyZ,raheng,,female ego's father's younger sister,,,rio2007a,
+fMeB,mesong,,female ego's mother's older brother,,,rio2007a,
+fMyB,mesong,,female ego's mother's younger brother,,,rio2007a,
+fMeZ,ina,,female ego's mother's older sister,,,rio2007a,
+fMyZ,ina,,female ego's mother's younger sister,,,rio2007a,
+mW,majo wehen,,male ego's wife,,,rio2007a,
+fH,majo viang,,female ego‘s husband,,,rio2007a,
+mDH,mesong,,male ego's daughter's husband,,,rio2007a,
+mSW,raheng,,male ego's son's wife,,,rio2007a,
+mWF,wunjong,,male ego's wife's father,,,rio2007a,
+mWM,tubiung wehen,,male ego's wife's mother,,,rio2007a,
+fHF,wunjong,,female ego's husband's father,,,rio2007a,
+fHM,tubiung wehen,,female ego's husband's mother,,,rio2007a,
+fHB,taovjen,,female ego's husband's brother,,,rio2007a,
+fBW,reviang,,female ego's brother's wife,,,rio2007a,
+mFZS,tubiung,,male ego's father's sister's son,,,rio2007a,
+mMBS,mesong,,male ego's mother's brother's son,,,rio2007a,
+fMBS,tubiung,,female ego's mother's brother's son,,,rio2007a,
+fMBD,jaleng wehen,,female ego's mother's brother's daughter,,,rio2007a,
+mFeZS,tubiung,,male ego's father's sister's son,,,rio2007a,Inferred; NA
+mFyZS,tubiung,,male ego's father's sister's son,,,rio2007a,Inferred; NA
+mMeBS,mesong,,male ego's mother's brother's son,,,rio2007a,Inferred; NA
+mMyBS,mesong,,male ego's mother's brother's son,,,rio2007a,Inferred; NA
+mFZeS,tubiung,,male ego's father's sister's son,,,rio2007a,Inferred; NA
+mFZyS,tubiung,,male ego's father's sister's son,,,rio2007a,Inferred; NA
+mMBeS,mesong,,male ego's mother's brother's son,,,rio2007a,Inferred; NA
+mMByS,mesong,,male ego's mother's brother's son,,,rio2007a,Inferred; NA
+fMeBS,tubiung,,female ego's mother's brother's son,,,rio2007a,Inferred; NA
+fMyBS,tubiung,,female ego's mother's brother's son,,,rio2007a,Inferred; NA
+fMeBD,jaleng wehen,,female ego's mother's brother's daughter,,,rio2007a,Inferred; NA
+fMyBD,jaleng wehen,,female ego's mother's brother's daughter,,,rio2007a,Inferred; NA
+fMBeS,tubiung,,female ego's mother's brother's son,,,rio2007a,Inferred; NA
+fMByS,tubiung,,female ego's mother's brother's son,,,rio2007a,Inferred; NA
+fMBeD,jaleng wehen,,female ego's mother's brother's daughter,,,rio2007a,Inferred; NA
+fMByD,jaleng wehen,,female ego's mother's brother's daughter,,,rio2007a,Inferred; NA

@@ -1,155 +1,155 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","baba, bayiliji",,"male ego's older brother","",,,""
-"myB","gagulu",,"male ego's younger brother","",,,""
-"feB","baba, bayiliji",,"female ego's older brother","",,,""
-"fyB","gagulu",,"female ego's younger brother","",,,""
-"meZ","babanya, bayida, bayilinya",,"male ego's older sister","",,,""
-"myZ","gagulinya, gagurda",,"male ego's younger sister","",,,""
-"feZ","babanya, bayida, bayilinya",,"female ego's older sister","",,,""
-"fyZ","gagulinya, gagurda",,"female ego's younger sister","",,,""
-"mF","irda",,"male ego's father","banybayi",,,"father of boy to be initiated"
-"mM","gujinganjarda, gujinya",,"male ego's mother","banyayirna",,,"mother of boy to be initiated"
-"fF","irda",,"female ego's father","",,,""
-"fM","gujinganjarda, gujinya",,"female ego's mother","",,,""
-"mS","gajagaja, jajila, jawanaji",,"male ego's son","",,,""
-"fS","gulu",,"female ego's son","",,,""
-"mD","jajilinya, jajirda, jawananya",,"male ego's daughter","",,,""
-"fD","gulinya",,"female ego's daughter","",,,""
-"mSS","ganggumiji",,"male ego's son's son","",,,""
-"mSD","gangguminya",,"male ego's son's daughter","",,,""
-"mDS","jaminjaminji, mimi",,"male ego's daughter's son","",,,""
-"mDD","jaminjaminya, mimirna",,"male ego's daughter's daughter","",,,""
-"fSS","ngajimiji",,"female ego's son's son","",,,""
-"fSD","ngajiminya",,"female ego's son's daughter","",,,""
-"fDS","gugumiji",,"female ego's daughter's son","",,,""
-"fDD","guguminya",,"female ego's daugher's daughter","",,,""
-"mFF","ganggu",,"male ego's father‘s father","",,,""
-"mFM","ngayijinya, ngayijirda",,"male ego's father's mother","",,,""
-"mMF","jaminjila, mimi",,"male ego's mother's father","",,,""
-"mMM","gugunya, gugurda",,"male ego's mother's mother","",,,""
-"fFF","ganggu",,"female ego's father's father","",,,""
-"fFM","ngayijinya, ngayijirda",,"female ego's father's mother","",,,""
-"fMF","jaminjila, mimi",,"female ego's mother's father","",,,""
-"fMM","gugunya, gugurda",,"female ego's mother's mother","",,,""
-"meBS","gajagaja, jajila, jawanaji",,"male ego's older brother's son","",,,""
-"myBS","gajagaja, jajila, jawanaji",,"male ego's younger brother's son","",,,""
-"meZS","gulu",,"male ego's older sister's son","",,,""
-"myZS","gulu",,"male ego's younger sister's son","",,,""
-"meBD","jajilinya, jajirda, jawananya",,"male ego's older brother's daughter","",,,""
-"myBD","jajilinya, jajirda, jawananya",,"male ego's younger brother's daughter","",,,""
-"meZD","gulinya",,"male ego's older sister's daughter","",,,""
-"myZD","gulinya",,"male ego's younger sister's daughter","",,,""
-"feBS","gajagaja, jajila, jawanaji",,"female ego's older brother's son","",,,""
-"fyBS","gajagaja, jajila, jawanaji",,"female ego's younger brother's son","",,,""
-"feZS","gulu",,"female ego's older sister's son","",,,""
-"fyZS","gulu",,"female ego's younger sister's son","",,,""
-"feBD","jajilinya, jajirda, jawananya",,"female ego's older brother's daughter","",,,""
-"fyBD","jajilinya, jajirda, jawananya",,"female ego's younger brother's daughter","",,,""
-"feZD","gulinya",,"female ego's older sister's daughter","",,,""
-"fyZD","gulinya",,"female ego's younger sister's daughter","",,,""
-"mFeZ","barnangilinya, irdinya, iriyilina, iriyirda",,"male ego's father's older sister","",,,""
-"mFyZ","barnangilinya, irdinya, iriyilina, iriyirda",,"male ego's father's younger sister","",,,""
-"mMeZ","gambaranya, garrangulinya, gujinganjarda, gujinya",,"male ego's mother's older sister","",,,""
-"mMyZ","gambaranya, garrangulinya, gujinganjarda, gujinya",,"male ego's mother's younger sister","",,,""
-"fFeZ","barnangilinya, irdinya, iriyilina, iriyirda",,"female ego's father's older sister","",,,""
-"fFyZ","barnangilinya, irdinya, iriyilina, iriyirda",,"female ego's father's younger sister","",,,""
-"fMeZ","gambaranya, garrangulinya, gujinganjarda, gujinya",,"female ego's mother's older sister","",,,""
-"fMyZ","gambaranya, garrangulinya, gujinganjarda, gujinya",,"female ego's mother's younger sister","",,,""
-"mW","gariirda, garinya, munggujbilinya",,"male ego's wife","",,,""
-"fH","gari, munggujbila",,"female ego‘s husband","",,,""
-"mDH","gardunganji, lambarra",,"male ego's daughter's husband","",,,""
-"fDH","mimayi",,"female ego's daughter's husband","",,,""
-"mSW","lambarrarna",,"male ego's son's wife","",,,""
-"fSW","jayulinya, mimayirna",,"female ego's son's wife","",,,""
-"mWF","gardunganji, lambarra",,"male ego's wife's father","",,,""
-"mWM","jayulinya, mimayirna",,"male ego's wife's mother","",,,""
-"mWB","gari, munggujbila",,"male ego's wife's brother","",,,""
-"mWZ","gariirda, garinya, munggujbilinya",,"male ego's wife's sister","",,,""
-"fHF","gardunganji, lambarra",,"female ego's husband's father","",,,""
-"fHM","jayulinya, mimayirna",,"female ego's husband's mother","",,,""
-"fHB","gari, munggujbila",,"female ego's husband's brother","",,,""
-"fHZ","gariirda, garinya, munggujbilinya",,"female ego's husband's sister","",,,""
-"mBW","gariirda, garinya, munggujbilinya",,"male ego's brother's wife","",,,""
-"fBW","gariirda, garinya, munggujbilinya",,"female ego's brother's wife","",,,""
-"mZH","gari, munggujbila",,"male ego's sister's husband","",,,""
-"fZH","gari, munggujbila",,"female ego's sister's husband","",,,""
-"mFBS","baba, bayiliji, gagulu",,"male ego's father's brother's son","",,,""
-"mFZS","barnga",,"male ego's father's sister's son","",,,""
-"mMBS","barnga",,"male ego's mother's brother's son","",,,""
-"mMZS","baba, bayiliji, gagulu",,"male ego's mother's sister's son","",,,""
-"mFBD","babanya, bayida, bayilinya, gagulinya",,"male ego's father's brother's daughter","gagurda",,,""
-"mFZD","barnganya",,"male ego's father's sister's daughter","",,,""
-"mMBD","barnganya",,"male ego's mother's brother's daughter","",,,""
-"mMZD","babanya, bayida, bayilinya, gagulinya",,"male ego's mother's sister's daughter","gagurda",,,""
-"fFBS","baba, bayiliji, gagulu",,"female ego's father's brother's son","",,,""
-"fFZS","barnga",,"female ego's father's sister's son","",,,""
-"fMBS","barnga",,"female ego's mother's brother's son","",,,""
-"fMZS","baba, bayiliji, gagulu",,"female ego's mother's sister's son","",,,""
-"fFBD","babanya, bayida, bayilinya, gagulinya",,"female ego's father's brother's daughter","gagurda",,,""
-"fFZD","barnganya",,"female ego's father's sister's daughter","",,,""
-"fMBD","barnganya",,"female ego's mother's brother's daughter","",,,""
-"fMZD","babanya, bayida, bayilinya, gagulinya",,"female ego's mother's sister's daughter","gagurda",,,""
-"mFeBS","baba, bayiliji, gagulu",,"male ego's father's brother's son","",,,"Inferred; "
-"mFyBS","baba, bayiliji, gagulu",,"male ego's father's brother's son","",,,"Inferred; "
-"mFeZS","barnga",,"male ego's father's sister's son","",,,"Inferred; "
-"mFyZS","barnga",,"male ego's father's sister's son","",,,"Inferred; "
-"mFeBD","babanya, bayida, bayilinya, gagulinya",,"male ego's father's brother's daughter","gagurda",,,"Inferred; "
-"mFyBD","babanya, bayida, bayilinya, gagulinya",,"male ego's father's brother's daughter","gagurda",,,"Inferred; "
-"mFeZD","barnganya",,"male ego's father's sister's daughter","",,,"Inferred; "
-"mFyZD","barnganya",,"male ego's father's sister's daughter","",,,"Inferred; "
-"mMeBS","barnga",,"male ego's mother's brother's son","",,,"Inferred; "
-"mMyBS","barnga",,"male ego's mother's brother's son","",,,"Inferred; "
-"mMeZS","baba, bayiliji, gagulu",,"male ego's mother's sister's son","",,,"Inferred; "
-"mMyZS","baba, bayiliji, gagulu",,"male ego's mother's sister's son","",,,"Inferred; "
-"mMeBD","barnganya",,"male ego's mother's brother's daughter","",,,"Inferred; "
-"mMyBD","barnganya",,"male ego's mother's brother's daughter","",,,"Inferred; "
-"mMeZD","babanya, bayida, bayilinya, gagulinya",,"male ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"mMyZD","babanya, bayida, bayilinya, gagulinya",,"male ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"mFBeS","baba, bayiliji, gagulu",,"male ego's father's brother's son","",,,"Inferred; "
-"mFByS","baba, bayiliji, gagulu",,"male ego's father's brother's son","",,,"Inferred; "
-"mFZeS","barnga",,"male ego's father's sister's son","",,,"Inferred; "
-"mFZyS","barnga",,"male ego's father's sister's son","",,,"Inferred; "
-"mFBeD","babanya, bayida, bayilinya, gagulinya",,"male ego's father's brother's daughter","gagurda",,,"Inferred; "
-"mFByD","babanya, bayida, bayilinya, gagulinya",,"male ego's father's brother's daughter","gagurda",,,"Inferred; "
-"mFZeD","barnganya",,"male ego's father's sister's daughter","",,,"Inferred; "
-"mFZyD","barnganya",,"male ego's father's sister's daughter","",,,"Inferred; "
-"mMBeS","barnga",,"male ego's mother's brother's son","",,,"Inferred; "
-"mMByS","barnga",,"male ego's mother's brother's son","",,,"Inferred; "
-"mMZeS","baba, bayiliji, gagulu",,"male ego's mother's sister's son","",,,"Inferred; "
-"mMZyS","baba, bayiliji, gagulu",,"male ego's mother's sister's son","",,,"Inferred; "
-"mMBeD","barnganya",,"male ego's mother's brother's daughter","",,,"Inferred; "
-"mMByD","barnganya",,"male ego's mother's brother's daughter","",,,"Inferred; "
-"mMZeD","babanya, bayida, bayilinya, gagulinya",,"male ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"mMZyD","babanya, bayida, bayilinya, gagulinya",,"male ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"fFeBS","baba, bayiliji, gagulu",,"female ego's father's brother's son","",,,"Inferred; "
-"fFyBS","baba, bayiliji, gagulu",,"female ego's father's brother's son","",,,"Inferred; "
-"fFeZS","barnga",,"female ego's father's sister's son","",,,"Inferred; "
-"fFyZS","barnga",,"female ego's father's sister's son","",,,"Inferred; "
-"fFeBD","babanya, bayida, bayilinya, gagulinya",,"female ego's father's brother's daughter","gagurda",,,"Inferred; "
-"fFyBD","babanya, bayida, bayilinya, gagulinya",,"female ego's father's brother's daughter","gagurda",,,"Inferred; "
-"fFeZD","barnganya",,"female ego's father's sister's daughter","",,,"Inferred; "
-"fFyZD","barnganya",,"female ego's father's sister's daughter","",,,"Inferred; "
-"fMeBS","barnga",,"female ego's mother's brother's son","",,,"Inferred; "
-"fMyBS","barnga",,"female ego's mother's brother's son","",,,"Inferred; "
-"fMeZS","baba, bayiliji, gagulu",,"female ego's mother's sister's son","",,,"Inferred; "
-"fMyZS","baba, bayiliji, gagulu",,"female ego's mother's sister's son","",,,"Inferred; "
-"fMeBD","barnganya",,"female ego's mother's brother's daughter","",,,"Inferred; "
-"fMyBD","barnganya",,"female ego's mother's brother's daughter","",,,"Inferred; "
-"fMeZD","babanya, bayida, bayilinya, gagulinya",,"female ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"fMyZD","babanya, bayida, bayilinya, gagulinya",,"female ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"fFBeS","baba, bayiliji, gagulu",,"female ego's father's brother's son","",,,"Inferred; "
-"fFByS","baba, bayiliji, gagulu",,"female ego's father's brother's son","",,,"Inferred; "
-"fFZeS","barnga",,"female ego's father's sister's son","",,,"Inferred; "
-"fFZyS","barnga",,"female ego's father's sister's son","",,,"Inferred; "
-"fFBeD","babanya, bayida, bayilinya, gagulinya",,"female ego's father's brother's daughter","gagurda",,,"Inferred; "
-"fFByD","babanya, bayida, bayilinya, gagulinya",,"female ego's father's brother's daughter","gagurda",,,"Inferred; "
-"fFZeD","barnganya",,"female ego's father's sister's daughter","",,,"Inferred; "
-"fFZyD","barnganya",,"female ego's father's sister's daughter","",,,"Inferred; "
-"fMBeS","barnga",,"female ego's mother's brother's son","",,,"Inferred; "
-"fMByS","barnga",,"female ego's mother's brother's son","",,,"Inferred; "
-"fMZeS","baba, bayiliji, gagulu",,"female ego's mother's sister's son","",,,"Inferred; "
-"fMZyS","baba, bayiliji, gagulu",,"female ego's mother's sister's son","",,,"Inferred; "
-"fMBeD","barnganya",,"female ego's mother's brother's daughter","",,,"Inferred; "
-"fMByD","barnganya",,"female ego's mother's brother's daughter","",,,"Inferred; "
-"fMZeD","babanya, bayida, bayilinya, gagulinya",,"female ego's mother's sister's daughter","gagurda",,,"Inferred; "
-"fMZyD","babanya, bayida, bayilinya, gagulinya",,"female ego's mother's sister's daughter","gagurda",,,"Inferred; "
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"baba, bayiliji",,male ego's older brother,,,Nordlinger1998,
+myB,gagulu,,male ego's younger brother,,,Nordlinger1998,
+feB,"baba, bayiliji",,female ego's older brother,,,Nordlinger1998,
+fyB,gagulu,,female ego's younger brother,,,Nordlinger1998,
+meZ,"babanya, bayida, bayilinya",,male ego's older sister,,,Nordlinger1998,
+myZ,"gagulinya, gagurda",,male ego's younger sister,,,Nordlinger1998,
+feZ,"babanya, bayida, bayilinya",,female ego's older sister,,,Nordlinger1998,
+fyZ,"gagulinya, gagurda",,female ego's younger sister,,,Nordlinger1998,
+mF,irda,,male ego's father,banybayi,,Nordlinger1998,father of boy to be initiated
+mM,"gujinganjarda, gujinya",,male ego's mother,banyayirna,,Nordlinger1998,mother of boy to be initiated
+fF,irda,,female ego's father,,,Nordlinger1998,
+fM,"gujinganjarda, gujinya",,female ego's mother,,,Nordlinger1998,
+mS,"gajagaja, jajila, jawanaji",,male ego's son,,,Nordlinger1998,
+fS,gulu,,female ego's son,,,Nordlinger1998,
+mD,"jajilinya, jajirda, jawananya",,male ego's daughter,,,Nordlinger1998,
+fD,gulinya,,female ego's daughter,,,Nordlinger1998,
+mSS,ganggumiji,,male ego's son's son,,,Nordlinger1998,
+mSD,gangguminya,,male ego's son's daughter,,,Nordlinger1998,
+mDS,"jaminjaminji, mimi",,male ego's daughter's son,,,Nordlinger1998,
+mDD,"jaminjaminya, mimirna",,male ego's daughter's daughter,,,Nordlinger1998,
+fSS,ngajimiji,,female ego's son's son,,,Nordlinger1998,
+fSD,ngajiminya,,female ego's son's daughter,,,Nordlinger1998,
+fDS,gugumiji,,female ego's daughter's son,,,Nordlinger1998,
+fDD,guguminya,,female ego's daugher's daughter,,,Nordlinger1998,
+mFF,ganggu,,male ego's father‘s father,,,Nordlinger1998,
+mFM,"ngayijinya, ngayijirda",,male ego's father's mother,,,Nordlinger1998,
+mMF,"jaminjila, mimi",,male ego's mother's father,,,Nordlinger1998,
+mMM,"gugunya, gugurda",,male ego's mother's mother,,,Nordlinger1998,
+fFF,ganggu,,female ego's father's father,,,Nordlinger1998,
+fFM,"ngayijinya, ngayijirda",,female ego's father's mother,,,Nordlinger1998,
+fMF,"jaminjila, mimi",,female ego's mother's father,,,Nordlinger1998,
+fMM,"gugunya, gugurda",,female ego's mother's mother,,,Nordlinger1998,
+meBS,"gajagaja, jajila, jawanaji",,male ego's older brother's son,,,Nordlinger1998,
+myBS,"gajagaja, jajila, jawanaji",,male ego's younger brother's son,,,Nordlinger1998,
+meZS,gulu,,male ego's older sister's son,,,Nordlinger1998,
+myZS,gulu,,male ego's younger sister's son,,,Nordlinger1998,
+meBD,"jajilinya, jajirda, jawananya",,male ego's older brother's daughter,,,Nordlinger1998,
+myBD,"jajilinya, jajirda, jawananya",,male ego's younger brother's daughter,,,Nordlinger1998,
+meZD,gulinya,,male ego's older sister's daughter,,,Nordlinger1998,
+myZD,gulinya,,male ego's younger sister's daughter,,,Nordlinger1998,
+feBS,"gajagaja, jajila, jawanaji",,female ego's older brother's son,,,Nordlinger1998,
+fyBS,"gajagaja, jajila, jawanaji",,female ego's younger brother's son,,,Nordlinger1998,
+feZS,gulu,,female ego's older sister's son,,,Nordlinger1998,
+fyZS,gulu,,female ego's younger sister's son,,,Nordlinger1998,
+feBD,"jajilinya, jajirda, jawananya",,female ego's older brother's daughter,,,Nordlinger1998,
+fyBD,"jajilinya, jajirda, jawananya",,female ego's younger brother's daughter,,,Nordlinger1998,
+feZD,gulinya,,female ego's older sister's daughter,,,Nordlinger1998,
+fyZD,gulinya,,female ego's younger sister's daughter,,,Nordlinger1998,
+mFeZ,"barnangilinya, irdinya, iriyilina, iriyirda",,male ego's father's older sister,,,Nordlinger1998,
+mFyZ,"barnangilinya, irdinya, iriyilina, iriyirda",,male ego's father's younger sister,,,Nordlinger1998,
+mMeZ,"gambaranya, garrangulinya, gujinganjarda, gujinya",,male ego's mother's older sister,,,Nordlinger1998,
+mMyZ,"gambaranya, garrangulinya, gujinganjarda, gujinya",,male ego's mother's younger sister,,,Nordlinger1998,
+fFeZ,"barnangilinya, irdinya, iriyilina, iriyirda",,female ego's father's older sister,,,Nordlinger1998,
+fFyZ,"barnangilinya, irdinya, iriyilina, iriyirda",,female ego's father's younger sister,,,Nordlinger1998,
+fMeZ,"gambaranya, garrangulinya, gujinganjarda, gujinya",,female ego's mother's older sister,,,Nordlinger1998,
+fMyZ,"gambaranya, garrangulinya, gujinganjarda, gujinya",,female ego's mother's younger sister,,,Nordlinger1998,
+mW,"gariirda, garinya, munggujbilinya",,male ego's wife,,,Nordlinger1998,
+fH,"gari, munggujbila",,female ego‘s husband,,,Nordlinger1998,
+mDH,"gardunganji, lambarra",,male ego's daughter's husband,,,Nordlinger1998,
+fDH,mimayi,,female ego's daughter's husband,,,Nordlinger1998,
+mSW,lambarrarna,,male ego's son's wife,,,Nordlinger1998,
+fSW,"jayulinya, mimayirna",,female ego's son's wife,,,Nordlinger1998,
+mWF,"gardunganji, lambarra",,male ego's wife's father,,,Nordlinger1998,
+mWM,"jayulinya, mimayirna",,male ego's wife's mother,,,Nordlinger1998,
+mWB,"gari, munggujbila",,male ego's wife's brother,,,Nordlinger1998,
+mWZ,"gariirda, garinya, munggujbilinya",,male ego's wife's sister,,,Nordlinger1998,
+fHF,"gardunganji, lambarra",,female ego's husband's father,,,Nordlinger1998,
+fHM,"jayulinya, mimayirna",,female ego's husband's mother,,,Nordlinger1998,
+fHB,"gari, munggujbila",,female ego's husband's brother,,,Nordlinger1998,
+fHZ,"gariirda, garinya, munggujbilinya",,female ego's husband's sister,,,Nordlinger1998,
+mBW,"gariirda, garinya, munggujbilinya",,male ego's brother's wife,,,Nordlinger1998,
+fBW,"gariirda, garinya, munggujbilinya",,female ego's brother's wife,,,Nordlinger1998,
+mZH,"gari, munggujbila",,male ego's sister's husband,,,Nordlinger1998,
+fZH,"gari, munggujbila",,female ego's sister's husband,,,Nordlinger1998,
+mFBS,"baba, bayiliji, gagulu",,male ego's father's brother's son,,,Nordlinger1998,
+mFZS,barnga,,male ego's father's sister's son,,,Nordlinger1998,
+mMBS,barnga,,male ego's mother's brother's son,,,Nordlinger1998,
+mMZS,"baba, bayiliji, gagulu",,male ego's mother's sister's son,,,Nordlinger1998,
+mFBD,"babanya, bayida, bayilinya, gagulinya",,male ego's father's brother's daughter,gagurda,,Nordlinger1998,
+mFZD,barnganya,,male ego's father's sister's daughter,,,Nordlinger1998,
+mMBD,barnganya,,male ego's mother's brother's daughter,,,Nordlinger1998,
+mMZD,"babanya, bayida, bayilinya, gagulinya",,male ego's mother's sister's daughter,gagurda,,Nordlinger1998,
+fFBS,"baba, bayiliji, gagulu",,female ego's father's brother's son,,,Nordlinger1998,
+fFZS,barnga,,female ego's father's sister's son,,,Nordlinger1998,
+fMBS,barnga,,female ego's mother's brother's son,,,Nordlinger1998,
+fMZS,"baba, bayiliji, gagulu",,female ego's mother's sister's son,,,Nordlinger1998,
+fFBD,"babanya, bayida, bayilinya, gagulinya",,female ego's father's brother's daughter,gagurda,,Nordlinger1998,
+fFZD,barnganya,,female ego's father's sister's daughter,,,Nordlinger1998,
+fMBD,barnganya,,female ego's mother's brother's daughter,,,Nordlinger1998,
+fMZD,"babanya, bayida, bayilinya, gagulinya",,female ego's mother's sister's daughter,gagurda,,Nordlinger1998,
+mFeBS,"baba, bayiliji, gagulu",,male ego's father's brother's son,,,Nordlinger1998,Inferred; 
+mFyBS,"baba, bayiliji, gagulu",,male ego's father's brother's son,,,Nordlinger1998,Inferred; 
+mFeZS,barnga,,male ego's father's sister's son,,,Nordlinger1998,Inferred; 
+mFyZS,barnga,,male ego's father's sister's son,,,Nordlinger1998,Inferred; 
+mFeBD,"babanya, bayida, bayilinya, gagulinya",,male ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+mFyBD,"babanya, bayida, bayilinya, gagulinya",,male ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+mFeZD,barnganya,,male ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+mFyZD,barnganya,,male ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+mMeBS,barnga,,male ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+mMyBS,barnga,,male ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+mMeZS,"baba, bayiliji, gagulu",,male ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+mMyZS,"baba, bayiliji, gagulu",,male ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+mMeBD,barnganya,,male ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+mMyBD,barnganya,,male ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+mMeZD,"babanya, bayida, bayilinya, gagulinya",,male ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+mMyZD,"babanya, bayida, bayilinya, gagulinya",,male ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+mFBeS,"baba, bayiliji, gagulu",,male ego's father's brother's son,,,Nordlinger1998,Inferred; 
+mFByS,"baba, bayiliji, gagulu",,male ego's father's brother's son,,,Nordlinger1998,Inferred; 
+mFZeS,barnga,,male ego's father's sister's son,,,Nordlinger1998,Inferred; 
+mFZyS,barnga,,male ego's father's sister's son,,,Nordlinger1998,Inferred; 
+mFBeD,"babanya, bayida, bayilinya, gagulinya",,male ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+mFByD,"babanya, bayida, bayilinya, gagulinya",,male ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+mFZeD,barnganya,,male ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+mFZyD,barnganya,,male ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+mMBeS,barnga,,male ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+mMByS,barnga,,male ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+mMZeS,"baba, bayiliji, gagulu",,male ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+mMZyS,"baba, bayiliji, gagulu",,male ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+mMBeD,barnganya,,male ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+mMByD,barnganya,,male ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+mMZeD,"babanya, bayida, bayilinya, gagulinya",,male ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+mMZyD,"babanya, bayida, bayilinya, gagulinya",,male ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+fFeBS,"baba, bayiliji, gagulu",,female ego's father's brother's son,,,Nordlinger1998,Inferred; 
+fFyBS,"baba, bayiliji, gagulu",,female ego's father's brother's son,,,Nordlinger1998,Inferred; 
+fFeZS,barnga,,female ego's father's sister's son,,,Nordlinger1998,Inferred; 
+fFyZS,barnga,,female ego's father's sister's son,,,Nordlinger1998,Inferred; 
+fFeBD,"babanya, bayida, bayilinya, gagulinya",,female ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+fFyBD,"babanya, bayida, bayilinya, gagulinya",,female ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+fFeZD,barnganya,,female ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+fFyZD,barnganya,,female ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+fMeBS,barnga,,female ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+fMyBS,barnga,,female ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+fMeZS,"baba, bayiliji, gagulu",,female ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+fMyZS,"baba, bayiliji, gagulu",,female ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+fMeBD,barnganya,,female ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+fMyBD,barnganya,,female ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+fMeZD,"babanya, bayida, bayilinya, gagulinya",,female ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+fMyZD,"babanya, bayida, bayilinya, gagulinya",,female ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+fFBeS,"baba, bayiliji, gagulu",,female ego's father's brother's son,,,Nordlinger1998,Inferred; 
+fFByS,"baba, bayiliji, gagulu",,female ego's father's brother's son,,,Nordlinger1998,Inferred; 
+fFZeS,barnga,,female ego's father's sister's son,,,Nordlinger1998,Inferred; 
+fFZyS,barnga,,female ego's father's sister's son,,,Nordlinger1998,Inferred; 
+fFBeD,"babanya, bayida, bayilinya, gagulinya",,female ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+fFByD,"babanya, bayida, bayilinya, gagulinya",,female ego's father's brother's daughter,gagurda,,Nordlinger1998,Inferred; 
+fFZeD,barnganya,,female ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+fFZyD,barnganya,,female ego's father's sister's daughter,,,Nordlinger1998,Inferred; 
+fMBeS,barnga,,female ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+fMByS,barnga,,female ego's mother's brother's son,,,Nordlinger1998,Inferred; 
+fMZeS,"baba, bayiliji, gagulu",,female ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+fMZyS,"baba, bayiliji, gagulu",,female ego's mother's sister's son,,,Nordlinger1998,Inferred; 
+fMBeD,barnganya,,female ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+fMByD,barnganya,,female ego's mother's brother's daughter,,,Nordlinger1998,Inferred; 
+fMZeD,"babanya, bayida, bayilinya, gagulinya",,female ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 
+fMZyD,"babanya, bayida, bayilinya, gagulinya",,female ego's mother's sister's daughter,gagurda,,Nordlinger1998,Inferred; 

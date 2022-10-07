@@ -1,131 +1,131 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"myB","wadi",,"male ego's younger brother","",,,""
-"feB","abeng",,"female ego's older brother","",,,""
-"feB","akka",,"female ego's older brother","",,,""
-"fyB","wadi",,"female ego's younger brother","",,,""
-"meZ","abeng",,"male ego's older sister","",,,""
-"meZ","akka",,"male ego's older sister","",,,""
-"myZ","wadi",,"male ego's younger sister","",,,""
-"feZ","abeng",,"female ego's older sister","",,,"kallakyan = older same sex sibling"
-"feZ","akka",,"female ego's older sister","",,,""
-"feZ","kallakyan",,"female ego's older sister","",,,""
-"fyZ","wadi",,"female ego's younger sister","",,,""
-"meB","abeng",,"male ego's older brother","nekka",,,"kallakyan = older same sex sibling, nekka = ref. term"
-"meB","akka",,"male ego's older brother","",,,""
-"meB","kallakyan",,"male ego's older brother","",,,""
-"mF","hama",,"male ego's father","ama",,,"ama = vocative"
-"mF","name",,"male ego's father","",,,""
-"mF","amang",,"male ego's father","",,,""
-"mM","hena",,"male ego's mother","ina",,,"ina = vocative"
-"mM","inang",,"male ego's mother","",,,""
-"mM","nena",,"male ego's mother","",,,""
-"fF","hama, nama, amang",,"female ego's father","ama",,,"ama = vocative"
-"fF","name",,"female ego's father","",,,""
-"fF","amang",,"female ego's father","",,,""
-"fM","hena, inang, nena",,"female ego's mother","ina",,,"ina = vocative"
-"fM","inang",,"female ego's mother","",,,""
-"fM","nena",,"female ego's mother","",,,""
-"mS","akol",,"male ego's son","",,,""
-"mS","along",,"male ego's son","",,,""
-"fS","akol",,"female ego's son","",,,""
-"fS","along",,"female ego's son","",,,""
-"mD","asang",,"male ego's daughter","",,,""
-"fD","asang",,"female ego's daughter","",,,""
-"mSS","apuku",,"male ego's son's son","",,,""
-"mSD","apuku",,"male ego's son's daughter","",,,""
-"mDS","apuku",,"male ego's daughter's son","",,,""
-"mDD","apuku",,"male ego's daughter's daughter","",,,""
-"fSS","apuku",,"female ego's son's son","",,,""
-"fSD","apuku",,"female ego's son's daughter","",,,""
-"fDS","apuku",,"female ego's daughter's son","",,,""
-"fDD","apuku",,"female ego's daugher's daughter","",,,""
-"mFF","kakay",,"male ego's father‘s father","",,,""
-"mFM","babong",,"male ego's father's mother","",,,""
-"mMF","kakay",,"male ego's mother's father","",,,""
-"mMM","babong",,"male ego's mother's mother","",,,""
-"fFF","kakay",,"female ego's father's father","",,,""
-"fFM","babong",,"female ego's father's mother","",,,""
-"fMF","kakay",,"female ego's mother's father","",,,""
-"fMM","babong",,"female ego's mother's mother","",,,""
-"meBS","panganakan",,"male ego's older brother's son","",,,""
-"meBS","anak",,"male ego's older brother's son","",,,""
-"myBS","panganakan",,"male ego's younger brother's son","",,,""
-"myBS","anak",,"male ego's younger brother's son","",,,""
-"meZS","panganakan",,"male ego's older sister's son","",,,""
-"meZS","anak",,"male ego's older sister's son","",,,""
-"myZS","panganakan",,"male ego's younger sister's son","",,,""
-"myZS","anak",,"male ego's younger sister's son","",,,""
-"meBD","panganakan",,"male ego's older brother's daughter","",,,""
-"meBD","anak",,"male ego's older brother's daughter","",,,""
-"myBD","panganakan",,"male ego's younger brother's daughter","",,,""
-"myBD","anak",,"male ego's younger brother's daughter","",,,""
-"meZD","panganakan",,"male ego's older sister's daughter","",,,""
-"meZD","anak",,"male ego's older sister's daughter","",,,""
-"myZD","panganakan",,"male ego's younger sister's daughter","",,,""
-"myZD","anak",,"male ego's younger sister's daughter","",,,""
-"feBS","panganakan",,"female ego's older brother's son","",,,""
-"feBS","anak",,"female ego's older brother's son","",,,""
-"fyBS","panganakan",,"female ego's younger brother's son","",,,""
-"fyBS","anak",,"female ego's younger brother's son","",,,""
-"feZS","panganakan",,"female ego's older sister's son","",,,""
-"feZS","anak",,"female ego's older sister's son","",,,""
-"fyZS","panganakan",,"female ego's younger sister's son","",,,""
-"fyZS","anak",,"female ego's younger sister's son","",,,""
-"feBD","panganakan",,"female ego's older brother's daughter","",,,""
-"feBD","anak",,"female ego's older brother's daughter","",,,""
-"fyBD","panganakan",,"female ego's younger brother's daughter","",,,""
-"fyBD","anak",,"female ego's younger brother's daughter","",,,""
-"feZD","panganakan",,"female ego's older sister's daughter","",,,""
-"feZD","anak",,"female ego's older sister's daughter","",,,""
-"fyZD","panganakan",,"female ego's younger sister's daughter","",,,""
-"fyZD","anak",,"female ego's younger sister's daughter","",,,""
-"mW","kabanga",,"male ego's wife","",,,""
-"mW","babakat",,"male ego's wife","",,,""
-"fH","kabanga",,"female ego‘s husband","",,,""
-"fH","lalakay",,"female ego‘s husband","",,,""
-"fH","malupoy",,"female ego‘s husband","",,,""
-"fH","lupog",,"female ego‘s husband","",,,""
-"mBW","ipag",,"male ego's brother's wife","",,,""
-"fBW","ayung",,"female ego's brother's wife","",,,""
-"mZH","ayung",,"male ego's sister's husband","",,,""
-"fZH","ipag",,"female ego's sister's husband","",,,""
-"mFBeS","kallakyan",,"male ego‘s father‘s brother‘s older son","",,,""
-"mFBeS","kasinsin",,"male ego‘s father‘s brother‘s older son","",,,""
-"mFByS","kallakyan",,"male ego‘s father‘s brother‘s younger son","",,,""
-"mFBeD","kasinsin",,"male ego‘s father‘s brother‘s older daughter","",,,""
-"mFByD","kasinsin",,"male ego‘s father‘s brother‘s younger daughter","",,,""
-"mFZeS","kallakyan",,"male ego‘s father‘s sisters‘s older son","",,,""
-"mFZeS","kasinsin",,"male ego‘s father‘s sisters‘s older son","",,,""
-"mFZyS","kallakyan",,"male ego‘s father‘s sisters‘s younger son","",,,""
-"mFZeD","kasinsin",,"male ego‘s father‘s sisters‘s older daughter","",,,""
-"mFZyD","kasinsin",,"male ego‘s father‘s sisters‘s younger daughter","",,,""
-"mMBeS","kallakyan",,"male ego‘s mother‘s brother‘s older son","",,,""
-"mMBeS","kasinsin",,"male ego‘s mother‘s brother‘s older son","",,,""
-"mMByS","kallakyan",,"male ego‘s mother‘s brother‘s younger son","",,,""
-"mMBeD","kasinsin",,"male ego‘s mother‘s brother‘s older daughter","",,,""
-"mMByD","kasinsin",,"male ego‘s mother‘s brother‘s younger daughter","",,,""
-"mMZeS","kallakyan",,"male ego‘s mother‘s sisters‘s older son","",,,""
-"mMZeS","kasinsin",,"male ego‘s mother‘s sisters‘s older son","",,,""
-"mMZyS","kallakyan",,"male ego‘s mother‘s sisters‘s younger son","",,,""
-"mMZeD","kasinsin",,"male ego‘s mother‘s sisters‘s older daughter","",,,""
-"mMZyD","kasinsin",,"male ego‘s mother‘s sisters‘s younger daughter","",,,""
-"fFBeS","kasinsin",,"female ego‘s father‘s brother‘s older son","",,,""
-"fFByS","kasinsin",,"female ego‘s father‘s brother‘s younger son","",,,""
-"fFBeD","kallakyan",,"female ego‘s father‘s brother‘s older daughter","",,,""
-"fFBeD","kasinsin",,"female ego‘s father‘s brother‘s older daughter","",,,""
-"fFByD","kallakyan",,"female ego‘s father‘s brother‘s younger daughter","",,,""
-"fFZeS","kasinsin",,"female ego‘s father‘s sisters‘s older son","",,,""
-"fFZyS","kasinsin",,"female ego‘s father‘s sisters‘s younger son","",,,""
-"fFZeD","kallakyan",,"female ego‘s father‘s sisters‘s older daughter","",,,""
-"fFZeD","kasinsin",,"female ego‘s father‘s sisters‘s older daughter","",,,""
-"fFZyD","kallakyan",,"female ego‘s father‘s sisters‘s younger daughter","",,,""
-"fMBeS","kasinsin",,"female ego‘s mother‘s brother‘s older son","",,,""
-"fMByS","kasinsin",,"female ego‘s mother‘s brother‘s younger son","",,,""
-"fMBeD","kallakyan",,"female ego‘s mother‘s brother‘s older daughter","",,,""
-"fMBeD","kasinsin",,"female ego‘s mother‘s brother‘s older daughter","",,,""
-"fMByD","kallakyan",,"female ego‘s mother‘s brother‘s younger daughter","",,,""
-"fMZeS","kasinsin",,"female ego‘s mother‘s sisters‘s older son","",,,""
-"fMZyS","kasinsin",,"female ego‘s mother‘s sisters‘s younger son","",,,""
-"fMZeD","kallakyan",,"female ego‘s mother‘s sisters‘s older daughter","",,,""
-"fMZeD","kasinsin",,"female ego‘s mother‘s sisters‘s older daughter","",,,""
-"fMZyD","kallakyan",,"female ego‘s mother‘s sisters‘s younger daughter","",,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+myB,wadi,,male ego's younger brother,,,Robinson2011,
+feB,abeng,,female ego's older brother,,,Robinson2011,
+feB,akka,,female ego's older brother,,,Robinson2011,
+fyB,wadi,,female ego's younger brother,,,Robinson2011,
+meZ,abeng,,male ego's older sister,,,Robinson2011,
+meZ,akka,,male ego's older sister,,,Robinson2011,
+myZ,wadi,,male ego's younger sister,,,Robinson2011,
+feZ,abeng,,female ego's older sister,,,Robinson2011,kallakyan = older same sex sibling
+feZ,akka,,female ego's older sister,,,Robinson2011,
+feZ,kallakyan,,female ego's older sister,,,Robinson2011,
+fyZ,wadi,,female ego's younger sister,,,Robinson2011,
+meB,abeng,,male ego's older brother,nekka,,Robinson2011,"kallakyan = older same sex sibling, nekka = ref. term"
+meB,akka,,male ego's older brother,,,Robinson2011,
+meB,kallakyan,,male ego's older brother,,,Robinson2011,
+mF,hama,,male ego's father,ama,,Robinson2011,ama = vocative
+mF,name,,male ego's father,,,Robinson2011,
+mF,amang,,male ego's father,,,Robinson2011,
+mM,hena,,male ego's mother,ina,,Robinson2011,ina = vocative
+mM,inang,,male ego's mother,,,Robinson2011,
+mM,nena,,male ego's mother,,,Robinson2011,
+fF,"hama, nama, amang",,female ego's father,ama,,Robinson2011,ama = vocative
+fF,name,,female ego's father,,,Robinson2011,
+fF,amang,,female ego's father,,,Robinson2011,
+fM,"hena, inang, nena",,female ego's mother,ina,,Robinson2011,ina = vocative
+fM,inang,,female ego's mother,,,Robinson2011,
+fM,nena,,female ego's mother,,,Robinson2011,
+mS,akol,,male ego's son,,,Robinson2011,
+mS,along,,male ego's son,,,Robinson2011,
+fS,akol,,female ego's son,,,Robinson2011,
+fS,along,,female ego's son,,,Robinson2011,
+mD,asang,,male ego's daughter,,,Robinson2011,
+fD,asang,,female ego's daughter,,,Robinson2011,
+mSS,apuku,,male ego's son's son,,,Robinson2011,
+mSD,apuku,,male ego's son's daughter,,,Robinson2011,
+mDS,apuku,,male ego's daughter's son,,,Robinson2011,
+mDD,apuku,,male ego's daughter's daughter,,,Robinson2011,
+fSS,apuku,,female ego's son's son,,,Robinson2011,
+fSD,apuku,,female ego's son's daughter,,,Robinson2011,
+fDS,apuku,,female ego's daughter's son,,,Robinson2011,
+fDD,apuku,,female ego's daugher's daughter,,,Robinson2011,
+mFF,kakay,,male ego's father‘s father,,,Robinson2011,
+mFM,babong,,male ego's father's mother,,,Robinson2011,
+mMF,kakay,,male ego's mother's father,,,Robinson2011,
+mMM,babong,,male ego's mother's mother,,,Robinson2011,
+fFF,kakay,,female ego's father's father,,,Robinson2011,
+fFM,babong,,female ego's father's mother,,,Robinson2011,
+fMF,kakay,,female ego's mother's father,,,Robinson2011,
+fMM,babong,,female ego's mother's mother,,,Robinson2011,
+meBS,panganakan,,male ego's older brother's son,,,Robinson2011,
+meBS,anak,,male ego's older brother's son,,,Robinson2011,
+myBS,panganakan,,male ego's younger brother's son,,,Robinson2011,
+myBS,anak,,male ego's younger brother's son,,,Robinson2011,
+meZS,panganakan,,male ego's older sister's son,,,Robinson2011,
+meZS,anak,,male ego's older sister's son,,,Robinson2011,
+myZS,panganakan,,male ego's younger sister's son,,,Robinson2011,
+myZS,anak,,male ego's younger sister's son,,,Robinson2011,
+meBD,panganakan,,male ego's older brother's daughter,,,Robinson2011,
+meBD,anak,,male ego's older brother's daughter,,,Robinson2011,
+myBD,panganakan,,male ego's younger brother's daughter,,,Robinson2011,
+myBD,anak,,male ego's younger brother's daughter,,,Robinson2011,
+meZD,panganakan,,male ego's older sister's daughter,,,Robinson2011,
+meZD,anak,,male ego's older sister's daughter,,,Robinson2011,
+myZD,panganakan,,male ego's younger sister's daughter,,,Robinson2011,
+myZD,anak,,male ego's younger sister's daughter,,,Robinson2011,
+feBS,panganakan,,female ego's older brother's son,,,Robinson2011,
+feBS,anak,,female ego's older brother's son,,,Robinson2011,
+fyBS,panganakan,,female ego's younger brother's son,,,Robinson2011,
+fyBS,anak,,female ego's younger brother's son,,,Robinson2011,
+feZS,panganakan,,female ego's older sister's son,,,Robinson2011,
+feZS,anak,,female ego's older sister's son,,,Robinson2011,
+fyZS,panganakan,,female ego's younger sister's son,,,Robinson2011,
+fyZS,anak,,female ego's younger sister's son,,,Robinson2011,
+feBD,panganakan,,female ego's older brother's daughter,,,Robinson2011,
+feBD,anak,,female ego's older brother's daughter,,,Robinson2011,
+fyBD,panganakan,,female ego's younger brother's daughter,,,Robinson2011,
+fyBD,anak,,female ego's younger brother's daughter,,,Robinson2011,
+feZD,panganakan,,female ego's older sister's daughter,,,Robinson2011,
+feZD,anak,,female ego's older sister's daughter,,,Robinson2011,
+fyZD,panganakan,,female ego's younger sister's daughter,,,Robinson2011,
+fyZD,anak,,female ego's younger sister's daughter,,,Robinson2011,
+mW,kabanga,,male ego's wife,,,Robinson2011,
+mW,babakat,,male ego's wife,,,Robinson2011,
+fH,kabanga,,female ego‘s husband,,,Robinson2011,
+fH,lalakay,,female ego‘s husband,,,Robinson2011,
+fH,malupoy,,female ego‘s husband,,,Robinson2011,
+fH,lupog,,female ego‘s husband,,,Robinson2011,
+mBW,ipag,,male ego's brother's wife,,,Robinson2011,
+fBW,ayung,,female ego's brother's wife,,,Robinson2011,
+mZH,ayung,,male ego's sister's husband,,,Robinson2011,
+fZH,ipag,,female ego's sister's husband,,,Robinson2011,
+mFBeS,kallakyan,,male ego‘s father‘s brother‘s older son,,,Robinson2011,
+mFBeS,kasinsin,,male ego‘s father‘s brother‘s older son,,,Robinson2011,
+mFByS,kallakyan,,male ego‘s father‘s brother‘s younger son,,,Robinson2011,
+mFBeD,kasinsin,,male ego‘s father‘s brother‘s older daughter,,,Robinson2011,
+mFByD,kasinsin,,male ego‘s father‘s brother‘s younger daughter,,,Robinson2011,
+mFZeS,kallakyan,,male ego‘s father‘s sisters‘s older son,,,Robinson2011,
+mFZeS,kasinsin,,male ego‘s father‘s sisters‘s older son,,,Robinson2011,
+mFZyS,kallakyan,,male ego‘s father‘s sisters‘s younger son,,,Robinson2011,
+mFZeD,kasinsin,,male ego‘s father‘s sisters‘s older daughter,,,Robinson2011,
+mFZyD,kasinsin,,male ego‘s father‘s sisters‘s younger daughter,,,Robinson2011,
+mMBeS,kallakyan,,male ego‘s mother‘s brother‘s older son,,,Robinson2011,
+mMBeS,kasinsin,,male ego‘s mother‘s brother‘s older son,,,Robinson2011,
+mMByS,kallakyan,,male ego‘s mother‘s brother‘s younger son,,,Robinson2011,
+mMBeD,kasinsin,,male ego‘s mother‘s brother‘s older daughter,,,Robinson2011,
+mMByD,kasinsin,,male ego‘s mother‘s brother‘s younger daughter,,,Robinson2011,
+mMZeS,kallakyan,,male ego‘s mother‘s sisters‘s older son,,,Robinson2011,
+mMZeS,kasinsin,,male ego‘s mother‘s sisters‘s older son,,,Robinson2011,
+mMZyS,kallakyan,,male ego‘s mother‘s sisters‘s younger son,,,Robinson2011,
+mMZeD,kasinsin,,male ego‘s mother‘s sisters‘s older daughter,,,Robinson2011,
+mMZyD,kasinsin,,male ego‘s mother‘s sisters‘s younger daughter,,,Robinson2011,
+fFBeS,kasinsin,,female ego‘s father‘s brother‘s older son,,,Robinson2011,
+fFByS,kasinsin,,female ego‘s father‘s brother‘s younger son,,,Robinson2011,
+fFBeD,kallakyan,,female ego‘s father‘s brother‘s older daughter,,,Robinson2011,
+fFBeD,kasinsin,,female ego‘s father‘s brother‘s older daughter,,,Robinson2011,
+fFByD,kallakyan,,female ego‘s father‘s brother‘s younger daughter,,,Robinson2011,
+fFZeS,kasinsin,,female ego‘s father‘s sisters‘s older son,,,Robinson2011,
+fFZyS,kasinsin,,female ego‘s father‘s sisters‘s younger son,,,Robinson2011,
+fFZeD,kallakyan,,female ego‘s father‘s sisters‘s older daughter,,,Robinson2011,
+fFZeD,kasinsin,,female ego‘s father‘s sisters‘s older daughter,,,Robinson2011,
+fFZyD,kallakyan,,female ego‘s father‘s sisters‘s younger daughter,,,Robinson2011,
+fMBeS,kasinsin,,female ego‘s mother‘s brother‘s older son,,,Robinson2011,
+fMByS,kasinsin,,female ego‘s mother‘s brother‘s younger son,,,Robinson2011,
+fMBeD,kallakyan,,female ego‘s mother‘s brother‘s older daughter,,,Robinson2011,
+fMBeD,kasinsin,,female ego‘s mother‘s brother‘s older daughter,,,Robinson2011,
+fMByD,kallakyan,,female ego‘s mother‘s brother‘s younger daughter,,,Robinson2011,
+fMZeS,kasinsin,,female ego‘s mother‘s sisters‘s older son,,,Robinson2011,
+fMZyS,kasinsin,,female ego‘s mother‘s sisters‘s younger son,,,Robinson2011,
+fMZeD,kallakyan,,female ego‘s mother‘s sisters‘s older daughter,,,Robinson2011,
+fMZeD,kasinsin,,female ego‘s mother‘s sisters‘s older daughter,,,Robinson2011,
+fMZyD,kallakyan,,female ego‘s mother‘s sisters‘s younger daughter,,,Robinson2011,

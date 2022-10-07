@@ -1,139 +1,139 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tai, palla",,"male ego's older brother",,,,
-"myB","tai, palla",,"male ego's younger brother",,,,
-"feB","tai, palla",,"female ego's older brother",,,,
-"fyB","tai, palla",,"female ego's younger brother",,,,
-"meZ","gore, tai, gorna",,"male ego's older sister",,,,
-"myZ","gore, tai, gorna",,"male ego's younger sister",,,,
-"feZ","gore, tai, gorna",,"female ego's older sister",,,,
-"fyZ","gore, tai, gorna",,"female ego's younger sister",,,,
-"mF","mamei, anafa",,"male ego's father",,,,
-"mM","tetei, pella",,"male ego's mother",,,,
-"fF","mamei, anafa",,"female ego's father",,,,
-"fM","tetei, pella",,"female ego's mother",,,,
-"mS","nanu nanwai",,"male ego's son",,,,
-"fS","nanu nanwai",,"female ego's son",,,,
-"mD","nanu nagrun",,"male ego's daughter",,,,
-"fD","nanu nagrun",,"female ego's daughter",,,,
-"mSS","sulla",,"male ego's son's son",,,,
-"mSD","sulla",,"male ego's son's daughter",,,,
-"mDS","sulla",,"male ego's daughter's son",,,,
-"mDD","sulla",,"male ego's daughter's daughter",,,,
-"fSS","sulla",,"female ego's son's son",,,,
-"fSD","sulla",,"female ego's son's daughter",,,,
-"fDS","sulla",,"female ego's daughter's son",,,,
-"fDD","sulla",,"female ego's daugher's daughter",,,,
-"mFF","paapua, topna",,"male ego's father‘s father",,,,
-"mFM","atu, atuna",,"male ego's father's mother",,,,
-"mMF","paapua, apuna",,"male ego's mother's father",,,,
-"mMM","ati, atina",,"male ego's mother's mother",,,,
-"fFF","paapua, topna",,"female ego's father's father",,,,
-"fFM","atu, atuna",,"female ego's father's mother",,,,
-"fMF","paapua, apuna",,"female ego's mother's father",,,,
-"fMM","ati, atina",,"female ego's mother's mother",,,,
-"mFeB","maam, anamamna",,"male ego's father's older brother",,,,
-"mFyB","maam, anamamna",,"male ego's father's younger brother",,,,
-"mFeZ","mimiia, anasmamna",,"male ego's father's older sister",,,,
-"mFyZ","mimiia, anasmamna",,"male ego's father's younger sister",,,,
-"mMeB","lol, alona",,"male ego's mother's older brother",,,,
-"mMyB","lol, alona",,"male ego's mother's younger brother",,,,
-"mMeZ","teete",,"male ego's mother's older sister",,,,
-"mMyZ","teete",,"male ego's mother's younger sister",,,,
-"fFeB","maam, anamamna",,"female ego's father's older brother",,,,
-"fFyB","maam, anamamna",,"female ego's father's younger brother",,,,
-"fFeZ","mimiia, anasmamna",,"female ego's father's older sister",,,,
-"fFyZ","mimiia, anasmamna",,"female ego's father's younger sister",,,,
-"fMeB","lol, alona",,"female ego's mother's older brother",,,,
-"fMyB","lol, alona",,"female ego's mother's younger brother",,,,
-"fMeZ","teete",,"female ego's mother's older sister",,,,
-"fMyZ","teete",,"female ego's mother's younger sister",,,,
-"mW","anagrun",,"male ego's wife",,,,
-"fH","anaota",,"female ego‘s husband",,,,
-"mWB","tawi-",,"male ego's wife's brother",,,,
-"mWZ","tuna",,"male ego's wife's sister",,,,
-"fHB","tawi-",,"female ego's husband's brother",,,,
-"fHZ","tuna",,"female ego's husband's sister",,,,
-"mBW","tuna",,"male ego's brother's wife",,,,
-"fBW","tuna",,"female ego's brother's wife",,,,
-"mZH","tawi-",,"male ego's sister's husband",,,,
-"fZH","tawi-",,"female ego's sister's husband",,,,
-"mFBS","tai, palla",,"male ego's father's brother's son",,,,
-"mFZS","tai, palla",,"male ego's father's sister's son",,,,
-"mMBS","tai, palla",,"male ego's mother's brother's son",,,,
-"mMZS","tai, palla",,"male ego's mother's sister's son",,,,
-"mFBD","gore, tai, gorna",,"male ego's father's brother's daughter",,,,
-"mFZD","gore, tai, gorna",,"male ego's father's sister's daughter",,,,
-"mMBD","gore, tai, gorna",,"male ego's mother's brother's daughter",,,,
-"mMZD","gore, tai, gorna",,"male ego's mother's sister's daughter",,,,
-"fFBS","tai, palla",,"female ego's father's brother's son",,,,
-"fFZS","tai, palla",,"female ego's father's sister's son",,,,
-"fMBS","tai, palla",,"female ego's mother's brother's son",,,,
-"fMZS","tai, palla",,"female ego's mother's sister's son",,,,
-"fFBD","gore, tai, gorna",,"female ego's father's brother's daughter",,,,
-"fFZD","gore, tai, gorna",,"female ego's father's sister's daughter",,,,
-"fMBD","gore, tai, gorna",,"female ego's mother's brother's daughter",,,,
-"fMZD","gore, tai, gorna",,"female ego's mother's sister's daughter",,,,
-"mFeBS","tai, palla",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","tai, palla",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","tai, palla",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","tai, palla",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","gore, tai, gorna",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","gore, tai, gorna",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","gore, tai, gorna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","gore, tai, gorna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","tai, palla",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","tai, palla",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","tai, palla",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","tai, palla",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","gore, tai, gorna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","gore, tai, gorna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","gore, tai, gorna",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","gore, tai, gorna",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","tai, palla",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","tai, palla",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","tai, palla",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","tai, palla",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","gore, tai, gorna",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","gore, tai, gorna",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","gore, tai, gorna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","gore, tai, gorna",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","tai, palla",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","tai, palla",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","tai, palla",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","tai, palla",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","gore, tai, gorna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","gore, tai, gorna",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","gore, tai, gorna",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","gore, tai, gorna",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","tai, palla",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","tai, palla",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","tai, palla",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","tai, palla",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","gore, tai, gorna",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","gore, tai, gorna",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","gore, tai, gorna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","gore, tai, gorna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","tai, palla",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","tai, palla",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","tai, palla",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","tai, palla",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","gore, tai, gorna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","gore, tai, gorna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","gore, tai, gorna",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","gore, tai, gorna",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","tai, palla",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","tai, palla",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","tai, palla",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","tai, palla",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","gore, tai, gorna",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","gore, tai, gorna",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","gore, tai, gorna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","gore, tai, gorna",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","tai, palla",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","tai, palla",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","tai, palla",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","tai, palla",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","gore, tai, gorna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","gore, tai, gorna",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","gore, tai, gorna",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","gore, tai, gorna",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"tai, palla",,male ego's older brother,,,Lacrampe2009,
+myB,"tai, palla",,male ego's younger brother,,,Lacrampe2009,
+feB,"tai, palla",,female ego's older brother,,,Lacrampe2009,
+fyB,"tai, palla",,female ego's younger brother,,,Lacrampe2009,
+meZ,"gore, tai, gorna",,male ego's older sister,,,Lacrampe2009,
+myZ,"gore, tai, gorna",,male ego's younger sister,,,Lacrampe2009,
+feZ,"gore, tai, gorna",,female ego's older sister,,,Lacrampe2009,
+fyZ,"gore, tai, gorna",,female ego's younger sister,,,Lacrampe2009,
+mF,"mamei, anafa",,male ego's father,,,Lacrampe2009,
+mM,"tetei, pella",,male ego's mother,,,Lacrampe2009,
+fF,"mamei, anafa",,female ego's father,,,Lacrampe2009,
+fM,"tetei, pella",,female ego's mother,,,Lacrampe2009,
+mS,nanu nanwai,,male ego's son,,,Lacrampe2009,
+fS,nanu nanwai,,female ego's son,,,Lacrampe2009,
+mD,nanu nagrun,,male ego's daughter,,,Lacrampe2009,
+fD,nanu nagrun,,female ego's daughter,,,Lacrampe2009,
+mSS,sulla,,male ego's son's son,,,Lacrampe2009,
+mSD,sulla,,male ego's son's daughter,,,Lacrampe2009,
+mDS,sulla,,male ego's daughter's son,,,Lacrampe2009,
+mDD,sulla,,male ego's daughter's daughter,,,Lacrampe2009,
+fSS,sulla,,female ego's son's son,,,Lacrampe2009,
+fSD,sulla,,female ego's son's daughter,,,Lacrampe2009,
+fDS,sulla,,female ego's daughter's son,,,Lacrampe2009,
+fDD,sulla,,female ego's daugher's daughter,,,Lacrampe2009,
+mFF,"paapua, topna",,male ego's father‘s father,,,Lacrampe2009,
+mFM,"atu, atuna",,male ego's father's mother,,,Lacrampe2009,
+mMF,"paapua, apuna",,male ego's mother's father,,,Lacrampe2009,
+mMM,"ati, atina",,male ego's mother's mother,,,Lacrampe2009,
+fFF,"paapua, topna",,female ego's father's father,,,Lacrampe2009,
+fFM,"atu, atuna",,female ego's father's mother,,,Lacrampe2009,
+fMF,"paapua, apuna",,female ego's mother's father,,,Lacrampe2009,
+fMM,"ati, atina",,female ego's mother's mother,,,Lacrampe2009,
+mFeB,"maam, anamamna",,male ego's father's older brother,,,Lacrampe2009,
+mFyB,"maam, anamamna",,male ego's father's younger brother,,,Lacrampe2009,
+mFeZ,"mimiia, anasmamna",,male ego's father's older sister,,,Lacrampe2009,
+mFyZ,"mimiia, anasmamna",,male ego's father's younger sister,,,Lacrampe2009,
+mMeB,"lol, alona",,male ego's mother's older brother,,,Lacrampe2009,
+mMyB,"lol, alona",,male ego's mother's younger brother,,,Lacrampe2009,
+mMeZ,teete,,male ego's mother's older sister,,,Lacrampe2009,
+mMyZ,teete,,male ego's mother's younger sister,,,Lacrampe2009,
+fFeB,"maam, anamamna",,female ego's father's older brother,,,Lacrampe2009,
+fFyB,"maam, anamamna",,female ego's father's younger brother,,,Lacrampe2009,
+fFeZ,"mimiia, anasmamna",,female ego's father's older sister,,,Lacrampe2009,
+fFyZ,"mimiia, anasmamna",,female ego's father's younger sister,,,Lacrampe2009,
+fMeB,"lol, alona",,female ego's mother's older brother,,,Lacrampe2009,
+fMyB,"lol, alona",,female ego's mother's younger brother,,,Lacrampe2009,
+fMeZ,teete,,female ego's mother's older sister,,,Lacrampe2009,
+fMyZ,teete,,female ego's mother's younger sister,,,Lacrampe2009,
+mW,anagrun,,male ego's wife,,,Lacrampe2009,
+fH,anaota,,female ego‘s husband,,,Lacrampe2009,
+mWB,tawi-,,male ego's wife's brother,,,Lacrampe2009,
+mWZ,tuna,,male ego's wife's sister,,,Lacrampe2009,
+fHB,tawi-,,female ego's husband's brother,,,Lacrampe2009,
+fHZ,tuna,,female ego's husband's sister,,,Lacrampe2009,
+mBW,tuna,,male ego's brother's wife,,,Lacrampe2009,
+fBW,tuna,,female ego's brother's wife,,,Lacrampe2009,
+mZH,tawi-,,male ego's sister's husband,,,Lacrampe2009,
+fZH,tawi-,,female ego's sister's husband,,,Lacrampe2009,
+mFBS,"tai, palla",,male ego's father's brother's son,,,Lacrampe2009,
+mFZS,"tai, palla",,male ego's father's sister's son,,,Lacrampe2009,
+mMBS,"tai, palla",,male ego's mother's brother's son,,,Lacrampe2009,
+mMZS,"tai, palla",,male ego's mother's sister's son,,,Lacrampe2009,
+mFBD,"gore, tai, gorna",,male ego's father's brother's daughter,,,Lacrampe2009,
+mFZD,"gore, tai, gorna",,male ego's father's sister's daughter,,,Lacrampe2009,
+mMBD,"gore, tai, gorna",,male ego's mother's brother's daughter,,,Lacrampe2009,
+mMZD,"gore, tai, gorna",,male ego's mother's sister's daughter,,,Lacrampe2009,
+fFBS,"tai, palla",,female ego's father's brother's son,,,Lacrampe2009,
+fFZS,"tai, palla",,female ego's father's sister's son,,,Lacrampe2009,
+fMBS,"tai, palla",,female ego's mother's brother's son,,,Lacrampe2009,
+fMZS,"tai, palla",,female ego's mother's sister's son,,,Lacrampe2009,
+fFBD,"gore, tai, gorna",,female ego's father's brother's daughter,,,Lacrampe2009,
+fFZD,"gore, tai, gorna",,female ego's father's sister's daughter,,,Lacrampe2009,
+fMBD,"gore, tai, gorna",,female ego's mother's brother's daughter,,,Lacrampe2009,
+fMZD,"gore, tai, gorna",,female ego's mother's sister's daughter,,,Lacrampe2009,
+mFeBS,"tai, palla",,male ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+mFyBS,"tai, palla",,male ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+mFeZS,"tai, palla",,male ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+mFyZS,"tai, palla",,male ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+mFeBD,"gore, tai, gorna",,male ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+mFyBD,"gore, tai, gorna",,male ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+mFeZD,"gore, tai, gorna",,male ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+mFyZD,"gore, tai, gorna",,male ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+mMeBS,"tai, palla",,male ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+mMyBS,"tai, palla",,male ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+mMeZS,"tai, palla",,male ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+mMyZS,"tai, palla",,male ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+mMeBD,"gore, tai, gorna",,male ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+mMyBD,"gore, tai, gorna",,male ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+mMeZD,"gore, tai, gorna",,male ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+mMyZD,"gore, tai, gorna",,male ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+mFBeS,"tai, palla",,male ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+mFByS,"tai, palla",,male ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+mFZeS,"tai, palla",,male ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+mFZyS,"tai, palla",,male ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+mFBeD,"gore, tai, gorna",,male ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+mFByD,"gore, tai, gorna",,male ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+mFZeD,"gore, tai, gorna",,male ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+mFZyD,"gore, tai, gorna",,male ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+mMBeS,"tai, palla",,male ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+mMByS,"tai, palla",,male ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+mMZeS,"tai, palla",,male ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+mMZyS,"tai, palla",,male ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+mMBeD,"gore, tai, gorna",,male ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+mMByD,"gore, tai, gorna",,male ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+mMZeD,"gore, tai, gorna",,male ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+mMZyD,"gore, tai, gorna",,male ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+fFeBS,"tai, palla",,female ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+fFyBS,"tai, palla",,female ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+fFeZS,"tai, palla",,female ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+fFyZS,"tai, palla",,female ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+fFeBD,"gore, tai, gorna",,female ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+fFyBD,"gore, tai, gorna",,female ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+fFeZD,"gore, tai, gorna",,female ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+fFyZD,"gore, tai, gorna",,female ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+fMeBS,"tai, palla",,female ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+fMyBS,"tai, palla",,female ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+fMeZS,"tai, palla",,female ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+fMyZS,"tai, palla",,female ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+fMeBD,"gore, tai, gorna",,female ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+fMyBD,"gore, tai, gorna",,female ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+fMeZD,"gore, tai, gorna",,female ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+fMyZD,"gore, tai, gorna",,female ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+fFBeS,"tai, palla",,female ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+fFByS,"tai, palla",,female ego's father's brother's son,,,Lacrampe2009,Inferred; NA
+fFZeS,"tai, palla",,female ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+fFZyS,"tai, palla",,female ego's father's sister's son,,,Lacrampe2009,Inferred; NA
+fFBeD,"gore, tai, gorna",,female ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+fFByD,"gore, tai, gorna",,female ego's father's brother's daughter,,,Lacrampe2009,Inferred; NA
+fFZeD,"gore, tai, gorna",,female ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+fFZyD,"gore, tai, gorna",,female ego's father's sister's daughter,,,Lacrampe2009,Inferred; NA
+fMBeS,"tai, palla",,female ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+fMByS,"tai, palla",,female ego's mother's brother's son,,,Lacrampe2009,Inferred; NA
+fMZeS,"tai, palla",,female ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+fMZyS,"tai, palla",,female ego's mother's sister's son,,,Lacrampe2009,Inferred; NA
+fMBeD,"gore, tai, gorna",,female ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+fMByD,"gore, tai, gorna",,female ego's mother's brother's daughter,,,Lacrampe2009,Inferred; NA
+fMZeD,"gore, tai, gorna",,female ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA
+fMZyD,"gore, tai, gorna",,female ego's mother's sister's daughter,,,Lacrampe2009,Inferred; NA

@@ -1,71 +1,71 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","biibilen, tuet, taselok",,"male ego's older brother",,,,""
-"myB","biibilen, tuet, taselok",,"male ego's younger brother",,,,""
-"feB","menenkulu",,"female ego's older brother",,,,""
-"fyB","menenkulu",,"female ego's younger brother",,,,""
-"meZ","meresilii",,"male ego's older sister",,,,""
-"myZ","meresilii",,"male ego's younger sister",,,,""
-"feZ","meresilii",,"female ego's older sister",,,,""
-"fyZ","meresilii",,"female ego's younger sister",,,,""
-"mF","taata",,"male ego's father",,,,""
-"mM","naana",,"male ego's mother",,,,""
-"fF","taata",,"female ego's father",,,,""
-"fM","naana",,"female ego's mother",,,,""
-"mS","nuruk man",,"male ego's son",,,,""
-"fS","nuruk man",,"female ego's son",,,,""
-"mD","nuruk vaven",,"male ego's daughter",,,,""
-"fD","nuruk vaven",,"female ego's daughter",,,,""
-"mSS","tetat biibilen",,"male ego's son's son",,,,""
-"mSD","tetat meresilii",,"male ego's son's daughter",,,,""
-"mDS","tetat man",,"male ego's daughter's son",,,,""
-"mDD","tuutuu vaven",,"male ego's daughter's daughter",,,,""
-"fSS","tavean",,"female ego's son's son",,,,""
-"fSD","tavean",,"female ego's son's daughter",,,,""
-"fDS","mureok",,"female ego's daughter's son",,,,""
-"fDD","naana",,"female ego's daugher's daughter",,,,""
-"mFF","tetat man, tuutuu, mabyuk kulu",,"male ego's father‘s father",,,,""
-"mFM","tetat vaven",,"male ego's father's mother",,,,""
-"mMF","tetat man",,"male ego's mother's father",,,,""
-"mMM","tetat vaven",,"male ego's mother's mother",,,,""
-"fFF","tetat man",,"female ego's father's father",,,,""
-"fFM","tetat vaven",,"female ego's father's mother",,,,""
-"fMF","tetat man",,"female ego's mother's father",,,,""
-"fMM","tetat vaven",,"female ego's mother's mother",,,,""
-"meZS","motlo menenli",,"male ego's older sister's son",,,,""
-"myZS","motlo menenli",,"male ego's younger sister's son",,,,""
-"meZD","motlo vaven",,"male ego's older sister's daughter",,,,""
-"myZD","motlo vaven",,"male ego's younger sister's daughter",,,,""
-"feBS","taata",,"female ego's older brother's son",,,,""
-"fyBS","taata",,"female ego's younger brother's son",,,,""
-"feBD","tinyok",,"female ego's older brother's daughter",,,,""
-"fyBD","tinyok",,"female ego's younger brother's daughter",,,,""
-"mFeB","taata",,"male ego's father's older brother",,,,""
-"mFyB","taata",,"male ego's father's younger brother",,,,""
-"mFeZ","tinyok",,"male ego's father's older sister",,,,""
-"mFyZ","tinyok",,"male ego's father's younger sister",,,,""
-"mMeB","biibilen, ne naana",,"male ego's mother's older brother",,,,""
-"mMyB","biibilen, ne naana",,"male ego's mother's younger brother",,,,""
-"mMeZ","naana",,"male ego's mother's older sister",,,,""
-"mMyZ","naana",,"male ego's mother's younger sister",,,,""
-"fFeB","taata",,"female ego's father's older brother",,,,""
-"fFyB","taata",,"female ego's father's younger brother",,,,""
-"fMeZ","naana",,"female ego's mother's older sister",,,,""
-"fMyZ","naana",,"female ego's mother's younger sister",,,,""
-"mW","sok vaven, sok tubop",,"male ego's wife",,,,""
-"fH","yaapuo",,"female ego‘s husband",,,,""
-"mDH","mirok",,"male ego's daughter's husband",,,,""
-"fDH","tuutuu abu",,"female ego's daughter's husband",,,,""
-"mSW","naana",,"male ego's son's wife",,,,""
-"fSW","meresili",,"female ego's son's wife",,,,""
-"mWF","motlo",,"male ego's wife's father",,,,""
-"mWM","tuutuu vaven",,"male ego's wife's mother",,,,""
-"mWB","tavean",,"male ego's wife's brother",,,,""
-"fHF","tuutuu man",,"female ego's husband's father",,,,""
-"fHM","tuutuu vaven",,"female ego's husband's mother",,,,"taboo"
-"fHZ","tavean",,"female ego's husband's sister",,,,""
-"mZH","tavean, teyet",,"male ego's sister's husband",,,,""
-"mFZD","tuutuu vaven",,"male ego's father's sister's daughter",,,,""
-"mFeZD","tuutuu vaven",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFyZD","tuutuu vaven",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFZeD","tuutuu vaven",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFZyD","tuutuu vaven",,"male ego's father's sister's daughter",,,,"Inferred; "
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"biibilen, tuet, taselok",,male ego's older brother,,,krifka2017a,
+myB,"biibilen, tuet, taselok",,male ego's younger brother,,,krifka2017a,
+feB,menenkulu,,female ego's older brother,,,krifka2017a,
+fyB,menenkulu,,female ego's younger brother,,,krifka2017a,
+meZ,meresilii,,male ego's older sister,,,krifka2017a,
+myZ,meresilii,,male ego's younger sister,,,krifka2017a,
+feZ,meresilii,,female ego's older sister,,,krifka2017a,
+fyZ,meresilii,,female ego's younger sister,,,krifka2017a,
+mF,taata,,male ego's father,,,krifka2017a,
+mM,naana,,male ego's mother,,,krifka2017a,
+fF,taata,,female ego's father,,,krifka2017a,
+fM,naana,,female ego's mother,,,krifka2017a,
+mS,nuruk man,,male ego's son,,,krifka2017a,
+fS,nuruk man,,female ego's son,,,krifka2017a,
+mD,nuruk vaven,,male ego's daughter,,,krifka2017a,
+fD,nuruk vaven,,female ego's daughter,,,krifka2017a,
+mSS,tetat biibilen,,male ego's son's son,,,krifka2017a,
+mSD,tetat meresilii,,male ego's son's daughter,,,krifka2017a,
+mDS,tetat man,,male ego's daughter's son,,,krifka2017a,
+mDD,tuutuu vaven,,male ego's daughter's daughter,,,krifka2017a,
+fSS,tavean,,female ego's son's son,,,krifka2017a,
+fSD,tavean,,female ego's son's daughter,,,krifka2017a,
+fDS,mureok,,female ego's daughter's son,,,krifka2017a,
+fDD,naana,,female ego's daugher's daughter,,,krifka2017a,
+mFF,"tetat man, tuutuu, mabyuk kulu",,male ego's father‘s father,,,krifka2017a,
+mFM,tetat vaven,,male ego's father's mother,,,krifka2017a,
+mMF,tetat man,,male ego's mother's father,,,krifka2017a,
+mMM,tetat vaven,,male ego's mother's mother,,,krifka2017a,
+fFF,tetat man,,female ego's father's father,,,krifka2017a,
+fFM,tetat vaven,,female ego's father's mother,,,krifka2017a,
+fMF,tetat man,,female ego's mother's father,,,krifka2017a,
+fMM,tetat vaven,,female ego's mother's mother,,,krifka2017a,
+meZS,motlo menenli,,male ego's older sister's son,,,krifka2017a,
+myZS,motlo menenli,,male ego's younger sister's son,,,krifka2017a,
+meZD,motlo vaven,,male ego's older sister's daughter,,,krifka2017a,
+myZD,motlo vaven,,male ego's younger sister's daughter,,,krifka2017a,
+feBS,taata,,female ego's older brother's son,,,krifka2017a,
+fyBS,taata,,female ego's younger brother's son,,,krifka2017a,
+feBD,tinyok,,female ego's older brother's daughter,,,krifka2017a,
+fyBD,tinyok,,female ego's younger brother's daughter,,,krifka2017a,
+mFeB,taata,,male ego's father's older brother,,,krifka2017a,
+mFyB,taata,,male ego's father's younger brother,,,krifka2017a,
+mFeZ,tinyok,,male ego's father's older sister,,,krifka2017a,
+mFyZ,tinyok,,male ego's father's younger sister,,,krifka2017a,
+mMeB,"biibilen, ne naana",,male ego's mother's older brother,,,krifka2017a,
+mMyB,"biibilen, ne naana",,male ego's mother's younger brother,,,krifka2017a,
+mMeZ,naana,,male ego's mother's older sister,,,krifka2017a,
+mMyZ,naana,,male ego's mother's younger sister,,,krifka2017a,
+fFeB,taata,,female ego's father's older brother,,,krifka2017a,
+fFyB,taata,,female ego's father's younger brother,,,krifka2017a,
+fMeZ,naana,,female ego's mother's older sister,,,krifka2017a,
+fMyZ,naana,,female ego's mother's younger sister,,,krifka2017a,
+mW,"sok vaven, sok tubop",,male ego's wife,,,krifka2017a,
+fH,yaapuo,,female ego‘s husband,,,krifka2017a,
+mDH,mirok,,male ego's daughter's husband,,,krifka2017a,
+fDH,tuutuu abu,,female ego's daughter's husband,,,krifka2017a,
+mSW,naana,,male ego's son's wife,,,krifka2017a,
+fSW,meresili,,female ego's son's wife,,,krifka2017a,
+mWF,motlo,,male ego's wife's father,,,krifka2017a,
+mWM,tuutuu vaven,,male ego's wife's mother,,,krifka2017a,
+mWB,tavean,,male ego's wife's brother,,,krifka2017a,
+fHF,tuutuu man,,female ego's husband's father,,,krifka2017a,
+fHM,tuutuu vaven,,female ego's husband's mother,,,krifka2017a,taboo
+fHZ,tavean,,female ego's husband's sister,,,krifka2017a,
+mZH,"tavean, teyet",,male ego's sister's husband,,,krifka2017a,
+mFZD,tuutuu vaven,,male ego's father's sister's daughter,,,krifka2017a,
+mFeZD,tuutuu vaven,,male ego's father's sister's daughter,,,krifka2017a,Inferred; 
+mFyZD,tuutuu vaven,,male ego's father's sister's daughter,,,krifka2017a,Inferred; 
+mFZeD,tuutuu vaven,,male ego's father's sister's daughter,,,krifka2017a,Inferred; 
+mFZyD,tuutuu vaven,,male ego's father's sister's daughter,,,krifka2017a,Inferred; 

@@ -1,225 +1,225 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","nane","","male speaker's older brother",,,,""
-"myB","ngth","nəŋgeθ","male speaker's younger brother",,,,""
-"feB","nane","","female speaker's older brother",,,,""
-"fyB","ngth","nəŋgeθ","female speaker's younger brother",,,,""
-"meZ","nane","","male speaker's older sister",,,,""
-"myZ","ngth","nəŋgeθ","male speaker's younger sister",,,,""
-"feZ","nane","","female speaker's older sister",,,,""
-"fyZ","ngth","nəŋgeθ","female speaker's younger sister",,,,""
-"mF","ŋafe","","male speaker's father",,,,""
-"mM","ŋame","","male speaker's mother",,,,""
-"fF","ŋafe","","female speaker's father",,,,""
-"fM","ŋame","","female speaker's mother",,,,""
-"mS","nge","nəŋge","male speaker's son",,,,""
-"fS","nge","nəŋge","female speaker's son",,,,""
-"mD","nge","nəŋge","male speaker's daughter",,,,""
-"fD","nge","nəŋge","female speaker's daughter",,,,""
-"mSS","aki","","male speaker's son's son",,,,"aki is a Nama loan, the original Komnzo word is zath but it is somewhat archaic"
-"mSS","zath","","male speaker's son's son",,,,""
-"mSD","aki","","male speaker's son's daughter",,,,""
-"mSD","zath","","male speaker's son's daughter",,,,""
-"mDS","aki","","male speaker's daughter's son",,,,""
-"mDS","zath","","male speaker's daughter's son",,,,""
-"mDD","aki","","male speaker's daughter's daughter",,,,""
-"mDD","zath","","male speaker's daughter's daughter",,,,""
-"fSS","aki","","female speaker's son's son",,,,""
-"fSS","zath","","female speaker's son's son",,,,""
-"fSD","aki","","female speaker's son's daughter",,,,""
-"fSD","zath","","female speaker's son's daughter",,,,""
-"fDS","aki","","female speaker's daughter's son",,,,""
-"fDS","zath","","female speaker's daughter's son",,,,""
-"fDD","aki","","female speaker's daugher's daughter",,,,""
-"fDD","zath","","female speaker's daugher's daughter",,,,""
-"mFF","aki","","male speaker's father‘s father",,,,""
-"mFF","zath","","male speaker's father‘s father",,,,""
-"mFM","aki","","male speaker's father's mother",,,,""
-"mFM","zath","","male speaker's father's mother",,,,""
-"mMF","aki","","male speaker's mother's father",,,,""
-"mMF","zath","","male speaker's mother's father",,,,""
-"mMM","aki","","male speaker's mother's mother",,,,""
-"mMM","zath","","male speaker's mother's mother",,,,""
-"fFF","aki","","female speaker's father's father",,,,""
-"fFF","zath","","female speaker's father's father",,,,""
-"fFM","aki","","female speaker's father's mother",,,,""
-"fFM","zath","","female speaker's father's mother",,,,""
-"fMF","aki","","female speaker's mother's father",,,,""
-"fMF","zath","","female speaker's mother's father",,,,""
-"fMM","aki","","female speaker's mother's mother",,,,""
-"fMM","zath","","female speaker's mother's mother",,,,""
-"meBS","nge","nəŋge","male speaker's older brother's son",,,,""
-"myBS","nge","nəŋge","male speaker's younger brother's son",,,,""
-"meZS","babai","","male speaker's older sister's son",,,,"ŋäwi is somewhat archaic, babai is more commonly used"
-"meZS","ŋäwi","","male speaker's older sister's son",,,,""
-"myZS","babai","","male speaker's younger sister's son",,,,""
-"myZS","ŋäwi","","male speaker's younger sister's son",,,,""
-"meBD","nge","nəŋge","male speaker's older brother's daughter",,,,""
-"myBD","nge","nəŋge","male speaker's younger brother's daughter",,,,""
-"meZD","babai","","male speaker's older sister's daughter",,,,""
-"meZD","ŋäwi","","male speaker's older sister's daughter",,,,""
-"myZD","babai","","male speaker's younger sister's daughter",,,,""
-"myZD","ŋäwi","","male speaker's younger sister's daughter",,,,""
-"feBS","nge","nəŋge","female speaker's older brother's son",,,,""
-"fyBS","nge","nəŋge","female speaker's younger brother's son",,,,""
-"feZS","babai","","female speaker's older sister's son",,,,""
-"feZS","ŋäwi","","female speaker's older sister's son",,,,""
-"fyZS","babai","","female speaker's younger sister's son",,,,""
-"fyZS","ŋäwi","","female speaker's younger sister's son",,,,""
-"feBD","nge","nəŋge","female speaker's older brother's daughter",,,,""
-"fyBD","nge","nəŋge","female speaker's younger brother's daughter",,,,""
-"feZD","babai","","female speaker's older sister's daughter",,,,""
-"feZD","ŋäwi","","female speaker's older sister's daughter",,,,""
-"fyZD","babai","","female speaker's younger sister's daughter",,,,""
-"fyZD","ŋäwi","","female speaker's younger sister's daughter",,,,""
-"mFeB","ŋafethm","","male speaker's father's older brother",,,,""
-"mFyB","ŋafe katan","","male speaker's father's younger brother",,,,""
-"mFeZ","ŋame","","male speaker's father's older sister",,,,""
-"mFyZ","ŋame","","male speaker's father's younger sister",,,,""
-"mMeB","babai","","male speaker's mother's older brother",,,,""
-"mMeB","ŋäwi","","male speaker's mother's older brother",,,,""
-"mMyB","babai","","male speaker's mother's younger brother",,,,""
-"mMyB","ŋäwi","","male speaker's mother's younger brother",,,,""
-"mMeZ","babai","","male speaker's mother's older sister",,,,"ama kitong means 'big mother', the term babale is an innovation among young people, extending from its original meaning of MBW. Once MZ marries out, (whether mMZ or fMZ, whether MeZ or MyZ) she gets renamed as yakal yadma 'yakal mother', her husband is kn"
-"mMeZ","ŋäwi","","male speaker's mother's older sister",,,,""
-"mMyZ","babai","","male speaker's mother's younger sister",,,,"again, babale is an innovation among younger people from its original MBW meaning"
-"mMyZ","ŋäwi","","male speaker's mother's younger sister",,,,""
-"fFeB","ŋafethm","","female speaker's father's older brother",,,,""
-"fFyB","ŋafe katan","","female speaker's father's younger brother",,,,""
-"fFeZ","ŋame","","female speaker's father's older sister",,,,""
-"fFyZ","ŋame","","female speaker's father's younger sister",,,,""
-"fMeB","babai","","female speaker's mother's older brother",,,,""
-"fMeB","ŋäwi","","female speaker's mother's older brother",,,,""
-"fMyB","babai","","female speaker's mother's younger brother",,,,""
-"fMyB","ŋäwi","","female speaker's mother's younger brother",,,,""
-"fMeZ","babai","","female speaker's mother's older sister",,,,""
-"fMeZ","ŋäwi","","female speaker's mother's older sister",,,,""
-"fMyZ","babai","","female speaker's mother's younger sister",,,,""
-"fMyZ","ŋäwi","","female speaker's mother's younger sister",,,,""
-"mW","fzenz","","male speaker's wife",,,,"ŋare (woman), often with a possessive prefix, eg. nzufzenz, nzuŋame `my wife'"
-"mW","ŋare","","male speaker's wife",,,,"ŋare (woman), often with a possessive prefix, eg. nzufzenz, nzuŋame `my wife'"
-"fH","fis","","female speaker‘s husband",,,,"kabe (man), often with a possessive prefix, eg. nzufis, nzukabe `my husband'"
-"fH","kabe","","female speaker's husband",,,,"kabe (man), often with a possessive prefix, eg. nzufis, nzukabe `my husband'"
-"fDH","enat","","female speaker's daughter's husband",,,,""
-"mDH","enat","","male speaker's daughter's husband",,,,""
-"fSW","zath ŋare","","female speaker's son's wife",,,,"This and the following terms are built around zath, aki 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: ŋare 'woman, wife"
-"fSW","aki ŋare","","female speaker's son's wife",,,,""
-"mSW","zath ŋare","","male speaker's son's wife",,,,""
-"mSW","aki ŋare","","male speaker's son's wife",,,,""
-"fHM","zath ŋare","","female speaker's husband's mother",,,,""
-"fHM","aki ŋare","","female speaker's husband's mother",,,,""
-"mWM","enat","","male speaker's wife's mother",,,,""
-"fHF","zath","","female speaker's husband's father",,,,""
-"fHF","aki","","female speaker's husband's father",,,,""
-"mWF","enat","","male speaker's wife's father",,,,""
-"mFBS","nane","nane, nəŋgeθ","male speaker's father's brother's son",,,,"choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
-"mFBS","ngth","nane, nəŋgeθ","male speaker's father's brother's son",,,,"choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
-"mFZS","babai","","male speaker's father's sister's son",,,,"yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
-"mFZS","yamit","","male speaker's father's sister's son",,,,"yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
-"mMBS","babai","","male speaker's mother's brother's son",,,,""
-"mMZS","naku","","male speaker's mother's sister's son",,,,"special term if two women are sisters. their respective children called each other naku and treat one another like brothers/sister. the husbands of the two sisters called each other nakum"
-"mFBD","nane","nane, nəŋgeθ","male speaker's father's brother's daughter",,,,""
-"mFBD","ngth","nane, nəŋgeθ","male speaker's father's brother's daughter",,,,""
-"mFZD","babai","","male speaker's father's sister's daughter",,,,""
-"mFZD","yamit","","male speaker's father's sister's daughter",,,,""
-"mMBD","babai","","male speaker's mother's brother's daughter",,,,""
-"mMZD","naku","","male speaker's mother's sister's daughter",,,,""
-"fFBS","nane","nane, nəŋgeθ","female speaker's father's brother's son",,,,""
-"fFBS","ngth","nane, nəŋgeθ","female speaker's father's brother's son",,,,""
-"fFZS","babai","","female speaker's father's sister's son",,,,""
-"fFZS","yamit","","female speaker's father's sister's son",,,,""
-"fMBS","babai","","female speaker's mother's brother's son",,,,""
-"fMZS","naku","","female speaker's mother's sister's son",,,,""
-"fFBD","nane","","female speaker's father's brother's daughter",,,,""
-"fFBD","ngth","","female speaker's father's brother's daughter",,,,""
-"fFZD","babai","","female speaker's father's sister's daughter",,,,""
-"fFZD","yamit","","female speaker's father's sister's daughter",,,,""
-"fMBD","babai","","female speaker's mother's brother's daughter",,,,""
-"fMZD","naku","","female speaker's mother's sister's daughter",,,,""
-"mFBeS","nane","","male speaker‘s father‘s brother‘s older son",,,,""
-"mFByS","ngth","","male speaker‘s father‘s brother‘s younger son",,,,""
-"mFBeD","nane","","male speaker‘s father‘s brother‘s older daughter",,,,""
-"mFByD","ngth","","male speaker‘s father‘s brother‘s younger daughter",,,,""
-"mFZeS","babai","","male speaker‘s father‘s sisters‘s older son",,,,""
-"mFZeS","yamit","","male speaker‘s father‘s sisters‘s older son",,,,""
-"mFZyS","babai","","male speaker‘s father‘s sisters‘s younger son",,,,""
-"mFZyS","yamit","","male speaker‘s father‘s sisters‘s younger son",,,,""
-"mFZeD","babai","","male speaker‘s father‘s sisters‘s older daughter",,,,""
-"mFZeD","yamit","","male speaker‘s father‘s sisters‘s older daughter",,,,""
-"mFZyD","babai","","male speaker‘s father‘s sisters‘s younger daughter",,,,""
-"mFZyD","yamit","","male speaker‘s father‘s sisters‘s younger daughter",,,,""
-"mMBeS","babai","","male speaker‘s mother‘s brother‘s older son",,,,""
-"mMByS","babai","","male speaker‘s mother‘s brother‘s younger son",,,,""
-"mMBeD","babai","","male speaker‘s mother‘s brother‘s older daughter",,,,""
-"mMByD","babai","","male speaker‘s mother‘s brother‘s younger daughter",,,,""
-"mMZeS","naku","","male speaker‘s mother‘s sisters‘s older son",,,,""
-"mMZyS","naku","","male speaker‘s mother‘s sisters‘s younger son",,,,""
-"mMZeD","naku","","male speaker‘s mother‘s sisters‘s older daughter",,,,""
-"mMZyD","naku","","male speaker‘s mother‘s sisters‘s younger daughter",,,,""
-"fFBeS","nane","","female speaker‘s father‘s brother‘s older son",,,,""
-"fFByS","ngth","","female speaker‘s father‘s brother‘s younger son",,,,""
-"fFBeD","nane","","female speaker‘s father‘s brother‘s older daughter",,,,""
-"fFByD","ngth","","female speaker‘s father‘s brother‘s younger daughter",,,,""
-"fFZeS","babai","","female speaker‘s father‘s sisters‘s older son",,,,""
-"fFZeS","yamit","","female speaker‘s father‘s sisters‘s older son",,,,""
-"fFZyS","babai","","female speaker‘s father‘s sisters‘s younger son",,,,""
-"fFZyS","yamit","","female speaker‘s father‘s sisters‘s younger son",,,,""
-"fFZeD","babai","","female speaker‘s father‘s sisters‘s older daughter",,,,""
-"fFZeD","yamit","","female speaker‘s father‘s sisters‘s older daughter",,,,""
-"fFZyD","babai","","female speaker‘s father‘s sisters‘s younger daughter",,,,""
-"fFZyD","yamit","","female speaker‘s father‘s sisters‘s younger daughter",,,,""
-"fMBeS","babai","","female speaker‘s mother‘s brother‘s older son",,,,""
-"fMByS","babai","","female speaker‘s mother‘s brother‘s younger son",,,,""
-"fMBeD","babai","","female speaker‘s mother‘s brother‘s older daughter",,,,""
-"fMByD","babai","","female speaker‘s mother‘s brother‘s younger daughter",,,,""
-"fMZeS","naku","","female speaker‘s mother‘s sisters‘s older son",,,,""
-"fMZyS","naku","","female speaker‘s mother‘s sisters‘s younger son",,,,""
-"fMZeD","naku","","female speaker‘s mother‘s sisters‘s older daughter",,,,""
-"fMZyD","naku","","female speaker‘s mother‘s sisters‘s younger daughter",,,,""
-"mFeBS","nane","nane, nəŋgeθ","male speaker's father's brother's son",,,,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
-"mFeBS","ngth","nane, nəŋgeθ","male speaker's father's brother's son",,,,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
-"mFyBS","nane","nane, nəŋgeθ","male speaker's father's brother's son",,,,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
-"mFyBS","ngth","nane, nəŋgeθ","male speaker's father's brother's son",,,,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
-"mFeZS","babai","","male speaker's father's sister's son",,,,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
-"mFeZS","yamit","","male speaker's father's sister's son",,,,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
-"mFyZS","babai","","male speaker's father's sister's son",,,,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
-"mFyZS","yamit","","male speaker's father's sister's son",,,,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
-"mFeBD","nane","nane, nəŋgeθ","male speaker's father's brother's daughter",,,,"Inferred; "
-"mFeBD","ngth","nane, nəŋgeθ","male speaker's father's brother's daughter",,,,"Inferred; "
-"mFyBD","nane","nane, nəŋgeθ","male speaker's father's brother's daughter",,,,"Inferred; "
-"mFyBD","ngth","nane, nəŋgeθ","male speaker's father's brother's daughter",,,,"Inferred; "
-"mFeZD","babai","","male speaker's father's sister's daughter",,,,"Inferred; "
-"mFeZD","yamit","","male speaker's father's sister's daughter",,,,"Inferred; "
-"mFyZD","babai","","male speaker's father's sister's daughter",,,,"Inferred; "
-"mFyZD","yamit","","male speaker's father's sister's daughter",,,,"Inferred; "
-"mMeBS","babai","","male speaker's mother's brother's son",,,,"Inferred; "
-"mMyBS","babai","","male speaker's mother's brother's son",,,,"Inferred; "
-"mMeZS","naku","","male speaker's mother's sister's son",,,,"Inferred; special term if two women are sisters. their respective children called each other naku and treat one another like brothers/sister. the husbands of the two sisters called each other nakum"
-"mMyZS","naku","","male speaker's mother's sister's son",,,,"Inferred; special term if two women are sisters. their respective children called each other naku and treat one another like brothers/sister. the husbands of the two sisters called each other nakum"
-"mMeBD","babai","","male speaker's mother's brother's daughter",,,,"Inferred; "
-"mMyBD","babai","","male speaker's mother's brother's daughter",,,,"Inferred; "
-"mMeZD","naku","","male speaker's mother's sister's daughter",,,,"Inferred; "
-"mMyZD","naku","","male speaker's mother's sister's daughter",,,,"Inferred; "
-"fFeBS","nane","nane, nəŋgeθ","female speaker's father's brother's son",,,,"Inferred; "
-"fFeBS","ngth","nane, nəŋgeθ","female speaker's father's brother's son",,,,"Inferred; "
-"fFyBS","nane","nane, nəŋgeθ","female speaker's father's brother's son",,,,"Inferred; "
-"fFyBS","ngth","nane, nəŋgeθ","female speaker's father's brother's son",,,,"Inferred; "
-"fFeZS","babai","","female speaker's father's sister's son",,,,"Inferred; "
-"fFeZS","yamit","","female speaker's father's sister's son",,,,"Inferred; "
-"fFyZS","babai","","female speaker's father's sister's son",,,,"Inferred; "
-"fFyZS","yamit","","female speaker's father's sister's son",,,,"Inferred; "
-"fFeBD","nane","","female speaker's father's brother's daughter",,,,"Inferred; "
-"fFeBD","ngth","","female speaker's father's brother's daughter",,,,"Inferred; "
-"fFyBD","nane","","female speaker's father's brother's daughter",,,,"Inferred; "
-"fFyBD","ngth","","female speaker's father's brother's daughter",,,,"Inferred; "
-"fFeZD","babai","","female speaker's father's sister's daughter",,,,"Inferred; "
-"fFeZD","yamit","","female speaker's father's sister's daughter",,,,"Inferred; "
-"fFyZD","babai","","female speaker's father's sister's daughter",,,,"Inferred; "
-"fFyZD","yamit","","female speaker's father's sister's daughter",,,,"Inferred; "
-"fMeBS","babai","","female speaker's mother's brother's son",,,,"Inferred; "
-"fMyBS","babai","","female speaker's mother's brother's son",,,,"Inferred; "
-"fMeZS","naku","","female speaker's mother's sister's son",,,,"Inferred; "
-"fMyZS","naku","","female speaker's mother's sister's son",,,,"Inferred; "
-"fMeBD","babai","","female speaker's mother's brother's daughter",,,,"Inferred; "
-"fMyBD","babai","","female speaker's mother's brother's daughter",,,,"Inferred; "
-"fMeZD","naku","","female speaker's mother's sister's daughter",,,,"Inferred; "
-"fMyZD","naku","","female speaker's mother's sister's daughter",,,,"Inferred; "
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,nane,,male speaker's older brother,,,evans-2016,
+myB,ngth,nəŋgeθ,male speaker's younger brother,,,evans-2016,
+feB,nane,,female speaker's older brother,,,evans-2016,
+fyB,ngth,nəŋgeθ,female speaker's younger brother,,,evans-2016,
+meZ,nane,,male speaker's older sister,,,evans-2016,
+myZ,ngth,nəŋgeθ,male speaker's younger sister,,,evans-2016,
+feZ,nane,,female speaker's older sister,,,evans-2016,
+fyZ,ngth,nəŋgeθ,female speaker's younger sister,,,evans-2016,
+mF,ŋafe,,male speaker's father,,,evans-2016,
+mM,ŋame,,male speaker's mother,,,evans-2016,
+fF,ŋafe,,female speaker's father,,,evans-2016,
+fM,ŋame,,female speaker's mother,,,evans-2016,
+mS,nge,nəŋge,male speaker's son,,,evans-2016,
+fS,nge,nəŋge,female speaker's son,,,evans-2016,
+mD,nge,nəŋge,male speaker's daughter,,,evans-2016,
+fD,nge,nəŋge,female speaker's daughter,,,evans-2016,
+mSS,aki,,male speaker's son's son,,,evans-2016,"aki is a Nama loan, the original Komnzo word is zath but it is somewhat archaic"
+mSS,zath,,male speaker's son's son,,,evans-2016,
+mSD,aki,,male speaker's son's daughter,,,evans-2016,
+mSD,zath,,male speaker's son's daughter,,,evans-2016,
+mDS,aki,,male speaker's daughter's son,,,evans-2016,
+mDS,zath,,male speaker's daughter's son,,,evans-2016,
+mDD,aki,,male speaker's daughter's daughter,,,evans-2016,
+mDD,zath,,male speaker's daughter's daughter,,,evans-2016,
+fSS,aki,,female speaker's son's son,,,evans-2016,
+fSS,zath,,female speaker's son's son,,,evans-2016,
+fSD,aki,,female speaker's son's daughter,,,evans-2016,
+fSD,zath,,female speaker's son's daughter,,,evans-2016,
+fDS,aki,,female speaker's daughter's son,,,evans-2016,
+fDS,zath,,female speaker's daughter's son,,,evans-2016,
+fDD,aki,,female speaker's daugher's daughter,,,evans-2016,
+fDD,zath,,female speaker's daugher's daughter,,,evans-2016,
+mFF,aki,,male speaker's father‘s father,,,evans-2016,
+mFF,zath,,male speaker's father‘s father,,,evans-2016,
+mFM,aki,,male speaker's father's mother,,,evans-2016,
+mFM,zath,,male speaker's father's mother,,,evans-2016,
+mMF,aki,,male speaker's mother's father,,,evans-2016,
+mMF,zath,,male speaker's mother's father,,,evans-2016,
+mMM,aki,,male speaker's mother's mother,,,evans-2016,
+mMM,zath,,male speaker's mother's mother,,,evans-2016,
+fFF,aki,,female speaker's father's father,,,evans-2016,
+fFF,zath,,female speaker's father's father,,,evans-2016,
+fFM,aki,,female speaker's father's mother,,,evans-2016,
+fFM,zath,,female speaker's father's mother,,,evans-2016,
+fMF,aki,,female speaker's mother's father,,,evans-2016,
+fMF,zath,,female speaker's mother's father,,,evans-2016,
+fMM,aki,,female speaker's mother's mother,,,evans-2016,
+fMM,zath,,female speaker's mother's mother,,,evans-2016,
+meBS,nge,nəŋge,male speaker's older brother's son,,,evans-2016,
+myBS,nge,nəŋge,male speaker's younger brother's son,,,evans-2016,
+meZS,babai,,male speaker's older sister's son,,,evans-2016,"ŋäwi is somewhat archaic, babai is more commonly used"
+meZS,ŋäwi,,male speaker's older sister's son,,,evans-2016,
+myZS,babai,,male speaker's younger sister's son,,,evans-2016,
+myZS,ŋäwi,,male speaker's younger sister's son,,,evans-2016,
+meBD,nge,nəŋge,male speaker's older brother's daughter,,,evans-2016,
+myBD,nge,nəŋge,male speaker's younger brother's daughter,,,evans-2016,
+meZD,babai,,male speaker's older sister's daughter,,,evans-2016,
+meZD,ŋäwi,,male speaker's older sister's daughter,,,evans-2016,
+myZD,babai,,male speaker's younger sister's daughter,,,evans-2016,
+myZD,ŋäwi,,male speaker's younger sister's daughter,,,evans-2016,
+feBS,nge,nəŋge,female speaker's older brother's son,,,evans-2016,
+fyBS,nge,nəŋge,female speaker's younger brother's son,,,evans-2016,
+feZS,babai,,female speaker's older sister's son,,,evans-2016,
+feZS,ŋäwi,,female speaker's older sister's son,,,evans-2016,
+fyZS,babai,,female speaker's younger sister's son,,,evans-2016,
+fyZS,ŋäwi,,female speaker's younger sister's son,,,evans-2016,
+feBD,nge,nəŋge,female speaker's older brother's daughter,,,evans-2016,
+fyBD,nge,nəŋge,female speaker's younger brother's daughter,,,evans-2016,
+feZD,babai,,female speaker's older sister's daughter,,,evans-2016,
+feZD,ŋäwi,,female speaker's older sister's daughter,,,evans-2016,
+fyZD,babai,,female speaker's younger sister's daughter,,,evans-2016,
+fyZD,ŋäwi,,female speaker's younger sister's daughter,,,evans-2016,
+mFeB,ŋafethm,,male speaker's father's older brother,,,evans-2016,
+mFyB,ŋafe katan,,male speaker's father's younger brother,,,evans-2016,
+mFeZ,ŋame,,male speaker's father's older sister,,,evans-2016,
+mFyZ,ŋame,,male speaker's father's younger sister,,,evans-2016,
+mMeB,babai,,male speaker's mother's older brother,,,evans-2016,
+mMeB,ŋäwi,,male speaker's mother's older brother,,,evans-2016,
+mMyB,babai,,male speaker's mother's younger brother,,,evans-2016,
+mMyB,ŋäwi,,male speaker's mother's younger brother,,,evans-2016,
+mMeZ,babai,,male speaker's mother's older sister,,,evans-2016,"ama kitong means 'big mother', the term babale is an innovation among young people, extending from its original meaning of MBW. Once MZ marries out, (whether mMZ or fMZ, whether MeZ or MyZ) she gets renamed as yakal yadma 'yakal mother', her husband is kn"
+mMeZ,ŋäwi,,male speaker's mother's older sister,,,evans-2016,
+mMyZ,babai,,male speaker's mother's younger sister,,,evans-2016,"again, babale is an innovation among younger people from its original MBW meaning"
+mMyZ,ŋäwi,,male speaker's mother's younger sister,,,evans-2016,
+fFeB,ŋafethm,,female speaker's father's older brother,,,evans-2016,
+fFyB,ŋafe katan,,female speaker's father's younger brother,,,evans-2016,
+fFeZ,ŋame,,female speaker's father's older sister,,,evans-2016,
+fFyZ,ŋame,,female speaker's father's younger sister,,,evans-2016,
+fMeB,babai,,female speaker's mother's older brother,,,evans-2016,
+fMeB,ŋäwi,,female speaker's mother's older brother,,,evans-2016,
+fMyB,babai,,female speaker's mother's younger brother,,,evans-2016,
+fMyB,ŋäwi,,female speaker's mother's younger brother,,,evans-2016,
+fMeZ,babai,,female speaker's mother's older sister,,,evans-2016,
+fMeZ,ŋäwi,,female speaker's mother's older sister,,,evans-2016,
+fMyZ,babai,,female speaker's mother's younger sister,,,evans-2016,
+fMyZ,ŋäwi,,female speaker's mother's younger sister,,,evans-2016,
+mW,fzenz,,male speaker's wife,,,evans-2016,"ŋare (woman), often with a possessive prefix, eg. nzufzenz, nzuŋame `my wife'"
+mW,ŋare,,male speaker's wife,,,evans-2016,"ŋare (woman), often with a possessive prefix, eg. nzufzenz, nzuŋame `my wife'"
+fH,fis,,female speaker‘s husband,,,evans-2016,"kabe (man), often with a possessive prefix, eg. nzufis, nzukabe `my husband'"
+fH,kabe,,female speaker's husband,,,evans-2016,"kabe (man), often with a possessive prefix, eg. nzufis, nzukabe `my husband'"
+fDH,enat,,female speaker's daughter's husband,,,evans-2016,
+mDH,enat,,male speaker's daughter's husband,,,evans-2016,
+fSW,zath ŋare,,female speaker's son's wife,,,evans-2016,"This and the following terms are built around zath, aki 'grandkin', reckoning the affine from the point of view of the grandchild who is descended from both speaker and hearer. Then a further disambiguating word is added: ŋare 'woman, wife"
+fSW,aki ŋare,,female speaker's son's wife,,,evans-2016,
+mSW,zath ŋare,,male speaker's son's wife,,,evans-2016,
+mSW,aki ŋare,,male speaker's son's wife,,,evans-2016,
+fHM,zath ŋare,,female speaker's husband's mother,,,evans-2016,
+fHM,aki ŋare,,female speaker's husband's mother,,,evans-2016,
+mWM,enat,,male speaker's wife's mother,,,evans-2016,
+fHF,zath,,female speaker's husband's father,,,evans-2016,
+fHF,aki,,female speaker's husband's father,,,evans-2016,
+mWF,enat,,male speaker's wife's father,,,evans-2016,
+mFBS,nane,"nane, nəŋgeθ",male speaker's father's brother's son,,,evans-2016,"choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
+mFBS,ngth,"nane, nəŋgeθ",male speaker's father's brother's son,,,evans-2016,"choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
+mFZS,babai,,male speaker's father's sister's son,,,evans-2016,"yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
+mFZS,yamit,,male speaker's father's sister's son,,,evans-2016,"yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
+mMBS,babai,,male speaker's mother's brother's son,,,evans-2016,
+mMZS,naku,,male speaker's mother's sister's son,,,evans-2016,special term if two women are sisters. their respective children called each other naku and treat one another like brothers/sister. the husbands of the two sisters called each other nakum
+mFBD,nane,"nane, nəŋgeθ",male speaker's father's brother's daughter,,,evans-2016,
+mFBD,ngth,"nane, nəŋgeθ",male speaker's father's brother's daughter,,,evans-2016,
+mFZD,babai,,male speaker's father's sister's daughter,,,evans-2016,
+mFZD,yamit,,male speaker's father's sister's daughter,,,evans-2016,
+mMBD,babai,,male speaker's mother's brother's daughter,,,evans-2016,
+mMZD,naku,,male speaker's mother's sister's daughter,,,evans-2016,
+fFBS,nane,"nane, nəŋgeθ",female speaker's father's brother's son,,,evans-2016,
+fFBS,ngth,"nane, nəŋgeθ",female speaker's father's brother's son,,,evans-2016,
+fFZS,babai,,female speaker's father's sister's son,,,evans-2016,
+fFZS,yamit,,female speaker's father's sister's son,,,evans-2016,
+fMBS,babai,,female speaker's mother's brother's son,,,evans-2016,
+fMZS,naku,,female speaker's mother's sister's son,,,evans-2016,
+fFBD,nane,,female speaker's father's brother's daughter,,,evans-2016,
+fFBD,ngth,,female speaker's father's brother's daughter,,,evans-2016,
+fFZD,babai,,female speaker's father's sister's daughter,,,evans-2016,
+fFZD,yamit,,female speaker's father's sister's daughter,,,evans-2016,
+fMBD,babai,,female speaker's mother's brother's daughter,,,evans-2016,
+fMZD,naku,,female speaker's mother's sister's daughter,,,evans-2016,
+mFBeS,nane,,male speaker‘s father‘s brother‘s older son,,,evans-2016,
+mFByS,ngth,,male speaker‘s father‘s brother‘s younger son,,,evans-2016,
+mFBeD,nane,,male speaker‘s father‘s brother‘s older daughter,,,evans-2016,
+mFByD,ngth,,male speaker‘s father‘s brother‘s younger daughter,,,evans-2016,
+mFZeS,babai,,male speaker‘s father‘s sisters‘s older son,,,evans-2016,
+mFZeS,yamit,,male speaker‘s father‘s sisters‘s older son,,,evans-2016,
+mFZyS,babai,,male speaker‘s father‘s sisters‘s younger son,,,evans-2016,
+mFZyS,yamit,,male speaker‘s father‘s sisters‘s younger son,,,evans-2016,
+mFZeD,babai,,male speaker‘s father‘s sisters‘s older daughter,,,evans-2016,
+mFZeD,yamit,,male speaker‘s father‘s sisters‘s older daughter,,,evans-2016,
+mFZyD,babai,,male speaker‘s father‘s sisters‘s younger daughter,,,evans-2016,
+mFZyD,yamit,,male speaker‘s father‘s sisters‘s younger daughter,,,evans-2016,
+mMBeS,babai,,male speaker‘s mother‘s brother‘s older son,,,evans-2016,
+mMByS,babai,,male speaker‘s mother‘s brother‘s younger son,,,evans-2016,
+mMBeD,babai,,male speaker‘s mother‘s brother‘s older daughter,,,evans-2016,
+mMByD,babai,,male speaker‘s mother‘s brother‘s younger daughter,,,evans-2016,
+mMZeS,naku,,male speaker‘s mother‘s sisters‘s older son,,,evans-2016,
+mMZyS,naku,,male speaker‘s mother‘s sisters‘s younger son,,,evans-2016,
+mMZeD,naku,,male speaker‘s mother‘s sisters‘s older daughter,,,evans-2016,
+mMZyD,naku,,male speaker‘s mother‘s sisters‘s younger daughter,,,evans-2016,
+fFBeS,nane,,female speaker‘s father‘s brother‘s older son,,,evans-2016,
+fFByS,ngth,,female speaker‘s father‘s brother‘s younger son,,,evans-2016,
+fFBeD,nane,,female speaker‘s father‘s brother‘s older daughter,,,evans-2016,
+fFByD,ngth,,female speaker‘s father‘s brother‘s younger daughter,,,evans-2016,
+fFZeS,babai,,female speaker‘s father‘s sisters‘s older son,,,evans-2016,
+fFZeS,yamit,,female speaker‘s father‘s sisters‘s older son,,,evans-2016,
+fFZyS,babai,,female speaker‘s father‘s sisters‘s younger son,,,evans-2016,
+fFZyS,yamit,,female speaker‘s father‘s sisters‘s younger son,,,evans-2016,
+fFZeD,babai,,female speaker‘s father‘s sisters‘s older daughter,,,evans-2016,
+fFZeD,yamit,,female speaker‘s father‘s sisters‘s older daughter,,,evans-2016,
+fFZyD,babai,,female speaker‘s father‘s sisters‘s younger daughter,,,evans-2016,
+fFZyD,yamit,,female speaker‘s father‘s sisters‘s younger daughter,,,evans-2016,
+fMBeS,babai,,female speaker‘s mother‘s brother‘s older son,,,evans-2016,
+fMByS,babai,,female speaker‘s mother‘s brother‘s younger son,,,evans-2016,
+fMBeD,babai,,female speaker‘s mother‘s brother‘s older daughter,,,evans-2016,
+fMByD,babai,,female speaker‘s mother‘s brother‘s younger daughter,,,evans-2016,
+fMZeS,naku,,female speaker‘s mother‘s sisters‘s older son,,,evans-2016,
+fMZyS,naku,,female speaker‘s mother‘s sisters‘s younger son,,,evans-2016,
+fMZeD,naku,,female speaker‘s mother‘s sisters‘s older daughter,,,evans-2016,
+fMZyD,naku,,female speaker‘s mother‘s sisters‘s younger daughter,,,evans-2016,
+mFeBS,nane,"nane, nəŋgeθ",male speaker's father's brother's son,,,evans-2016,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
+mFeBS,ngth,"nane, nəŋgeθ",male speaker's father's brother's son,,,evans-2016,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
+mFyBS,nane,"nane, nəŋgeθ",male speaker's father's brother's son,,,evans-2016,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
+mFyBS,ngth,"nane, nəŋgeθ",male speaker's father's brother's son,,,evans-2016,"Inferred; choice between nane and ngth depends on relative age, as with sibling terms, ane being for older cousins in this category, ngth for younger. Same applies to all other cells for which nane and ngth are listed as alternatives"
+mFeZS,babai,,male speaker's father's sister's son,,,evans-2016,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
+mFeZS,yamit,,male speaker's father's sister's son,,,evans-2016,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
+mFyZS,babai,,male speaker's father's sister's son,,,evans-2016,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
+mFyZS,yamit,,male speaker's father's sister's son,,,evans-2016,"Inferred; yamit is only used if there was a consummated sister-exchange, i.e. the father has exchanged his sister"
+mFeBD,nane,"nane, nəŋgeθ",male speaker's father's brother's daughter,,,evans-2016,Inferred; 
+mFeBD,ngth,"nane, nəŋgeθ",male speaker's father's brother's daughter,,,evans-2016,Inferred; 
+mFyBD,nane,"nane, nəŋgeθ",male speaker's father's brother's daughter,,,evans-2016,Inferred; 
+mFyBD,ngth,"nane, nəŋgeθ",male speaker's father's brother's daughter,,,evans-2016,Inferred; 
+mFeZD,babai,,male speaker's father's sister's daughter,,,evans-2016,Inferred; 
+mFeZD,yamit,,male speaker's father's sister's daughter,,,evans-2016,Inferred; 
+mFyZD,babai,,male speaker's father's sister's daughter,,,evans-2016,Inferred; 
+mFyZD,yamit,,male speaker's father's sister's daughter,,,evans-2016,Inferred; 
+mMeBS,babai,,male speaker's mother's brother's son,,,evans-2016,Inferred; 
+mMyBS,babai,,male speaker's mother's brother's son,,,evans-2016,Inferred; 
+mMeZS,naku,,male speaker's mother's sister's son,,,evans-2016,Inferred; special term if two women are sisters. their respective children called each other naku and treat one another like brothers/sister. the husbands of the two sisters called each other nakum
+mMyZS,naku,,male speaker's mother's sister's son,,,evans-2016,Inferred; special term if two women are sisters. their respective children called each other naku and treat one another like brothers/sister. the husbands of the two sisters called each other nakum
+mMeBD,babai,,male speaker's mother's brother's daughter,,,evans-2016,Inferred; 
+mMyBD,babai,,male speaker's mother's brother's daughter,,,evans-2016,Inferred; 
+mMeZD,naku,,male speaker's mother's sister's daughter,,,evans-2016,Inferred; 
+mMyZD,naku,,male speaker's mother's sister's daughter,,,evans-2016,Inferred; 
+fFeBS,nane,"nane, nəŋgeθ",female speaker's father's brother's son,,,evans-2016,Inferred; 
+fFeBS,ngth,"nane, nəŋgeθ",female speaker's father's brother's son,,,evans-2016,Inferred; 
+fFyBS,nane,"nane, nəŋgeθ",female speaker's father's brother's son,,,evans-2016,Inferred; 
+fFyBS,ngth,"nane, nəŋgeθ",female speaker's father's brother's son,,,evans-2016,Inferred; 
+fFeZS,babai,,female speaker's father's sister's son,,,evans-2016,Inferred; 
+fFeZS,yamit,,female speaker's father's sister's son,,,evans-2016,Inferred; 
+fFyZS,babai,,female speaker's father's sister's son,,,evans-2016,Inferred; 
+fFyZS,yamit,,female speaker's father's sister's son,,,evans-2016,Inferred; 
+fFeBD,nane,,female speaker's father's brother's daughter,,,evans-2016,Inferred; 
+fFeBD,ngth,,female speaker's father's brother's daughter,,,evans-2016,Inferred; 
+fFyBD,nane,,female speaker's father's brother's daughter,,,evans-2016,Inferred; 
+fFyBD,ngth,,female speaker's father's brother's daughter,,,evans-2016,Inferred; 
+fFeZD,babai,,female speaker's father's sister's daughter,,,evans-2016,Inferred; 
+fFeZD,yamit,,female speaker's father's sister's daughter,,,evans-2016,Inferred; 
+fFyZD,babai,,female speaker's father's sister's daughter,,,evans-2016,Inferred; 
+fFyZD,yamit,,female speaker's father's sister's daughter,,,evans-2016,Inferred; 
+fMeBS,babai,,female speaker's mother's brother's son,,,evans-2016,Inferred; 
+fMyBS,babai,,female speaker's mother's brother's son,,,evans-2016,Inferred; 
+fMeZS,naku,,female speaker's mother's sister's son,,,evans-2016,Inferred; 
+fMyZS,naku,,female speaker's mother's sister's son,,,evans-2016,Inferred; 
+fMeBD,babai,,female speaker's mother's brother's daughter,,,evans-2016,Inferred; 
+fMyBD,babai,,female speaker's mother's brother's daughter,,,evans-2016,Inferred; 
+fMeZD,naku,,female speaker's mother's sister's daughter,,,evans-2016,Inferred; 
+fMyZD,naku,,female speaker's mother's sister's daughter,,,evans-2016,Inferred; 

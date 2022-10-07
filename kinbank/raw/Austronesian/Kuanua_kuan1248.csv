@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","turagu",,"male ego's older brother",,,,
-"myB","turagu",,"male ego's younger brother",,,,
-"feB","taigu",,"female ego's older brother",,,,
-"fyB","taigu",,"female ego's younger brother",,,,
-"meZ","taigu",,"male ego's older sister",,,,
-"myZ","taigu",,"male ego's younger sister",,,,
-"feZ","turagu",,"female ego's older sister",,,,
-"fyZ","turagu",,"female ego's younger sister",,,,
-"mF","tamagu",,"male ego's father",,,,
-"mM","nagu",,"male ego's mother",,,,
-"fF","tamagu",,"female ego's father",,,,
-"fM","nagu",,"female ego's mother",,,,
-"mS","natugu",,"male ego's son",,,,
-"fS","natugu",,"female ego's son",,,,
-"mD","natugu",,"male ego's daughter",,,,
-"fD","natugu",,"female ego's daughter",,,,
-"mSS","tubugu",,"male ego's son's son",,,,
-"mSD","tubugu",,"male ego's son's daughter",,,,
-"mDS","tubugu",,"male ego's daughter's son",,,,
-"mDD","tubugu",,"male ego's daughter's daughter",,,,
-"fSS","tubugu",,"female ego's son's son",,,,
-"fSD","tubugu",,"female ego's son's daughter",,,,
-"fDS","tubugu",,"female ego's daughter's son",,,,
-"fDD","tubugu",,"female ego's daugher's daughter",,,,
-"mFF","tubugu",,"male ego's father‘s father",,,,
-"mFM","tubugu",,"male ego's father's mother",,,,
-"mMF","tubugu",,"male ego's mother's father",,,,
-"mMM","tubugu",,"male ego's mother's mother",,,,
-"fFF","tubugu",,"female ego's father's father",,,,
-"fFM","tubugu",,"female ego's father's mother",,,,
-"fMF","tubugu",,"female ego's mother's father",,,,
-"fMM","tubugu",,"female ego's mother's mother",,,,
-"meBS","natugu",,"male ego's older brother's son",,,,
-"myBS","natugu",,"male ego's younger brother's son",,,,
-"meZS","natuagu",,"male ego's older sister's son",,,,
-"myZS","natuagu",,"male ego's younger sister's son",,,,
-"meBD","natugu",,"male ego's older brother's daughter",,,,
-"myBD","natugu",,"male ego's younger brother's daughter",,,,
-"meZD","matuagu",,"male ego's older sister's daughter",,,,
-"myZD","matuagu",,"male ego's younger sister's daughter",,,,
-"feBS","vivigu",,"female ego's older brother's son",,,,
-"fyBS","vivigu",,"female ego's younger brother's son",,,,
-"feZS","natugu",,"female ego's older sister's son",,,,
-"fyZS","natugu",,"female ego's younger sister's son",,,,
-"feBD","vivigu",,"female ego's older brother's daughter",,,,
-"fyBD","vivigu",,"female ego's younger brother's daughter",,,,
-"feZD","natugu",,"female ego's older sister's daughter",,,,
-"fyZD","natugu",,"female ego's younger sister's daughter",,,,
-"mFeB","tamagu",,"male ego's father's older brother",,,,
-"mFyB","tamagu",,"male ego's father's younger brother",,,,
-"mFeZ","vivigu",,"male ego's father's older sister",,,,
-"mFyZ","vivigu",,"male ego's father's younger sister",,,,
-"mMeB","matuagu",,"male ego's mother's older brother",,,,
-"mMyB","matuagu",,"male ego's mother's younger brother",,,,
-"mMeZ","nagu",,"male ego's mother's older sister",,,,
-"mMyZ","nagu",,"male ego's mother's younger sister",,,,
-"fFeB","tamagu",,"female ego's father's older brother",,,,
-"fFyB","tamagu",,"female ego's father's younger brother",,,,
-"fFeZ","vivigu",,"female ego's father's older sister",,,,
-"fFyZ","vivigu",,"female ego's father's younger sister",,,,
-"fMeB","matuagu",,"female ego's mother's older brother",,,,
-"fMyB","matuagu",,"female ego's mother's younger brother",,,,
-"fMeZ","nagu",,"female ego's mother's older sister",,,,
-"fMyZ","nagu",,"female ego's mother's younger sister",,,,
-"mW","taulai",,"male ego's wife",,,,
-"fH","taulai",,"female ego‘s husband",,,,
-"mDH","nimugu",,"male ego's daughter's husband",,,,
-"fDH","nimugu",,"female ego's daughter's husband",,,,
-"mSW","enagu",,"male ego's son's wife",,,,
-"fSW","enagu",,"female ego's son's wife",,,,
-"mWF","nimugu",,"male ego's wife's father",,,,
-"mWM","nimugu",,"male ego's wife's mother",,,,
-"mWB","makuigu",,"male ego's wife's brother",,,,
-"mWZ","tamaiagu",,"male ego's wife's sister",,,,
-"fHF","enagu",,"female ego's husband's father",,,,
-"fHM","enagu",,"female ego's husband's mother",,,,
-"fHB","tamaiagu",,"female ego's husband's brother",,,,
-"fHZ","keneaigu",,"female ego's husband's sister",,,,
-"mBW","tamaiagu",,"male ego's brother's wife",,,,
-"fBW","keneaigu",,"female ego's brother's wife",,,,
-"mZH","makuigu",,"male ego's sister's husband",,,,
-"fZH","tamaiagu",,"female ego's sister's husband",,,,
-"mFBS","turagukava",,"male ego's father's brother's son",,,,
-"mFZS","nauvagu",,"male ego's father's sister's son",,,,
-"mMBS","nauvagu",,"male ego's mother's brother's son",,,,
-"mMZS","turagu",,"male ego's mother's sister's son",,,,
-"mFBD","taigu",,"male ego's father's brother's daughter",,,,
-"mFZD","nauvagu",,"male ego's father's sister's daughter",,,,
-"mMBD","nauvagu",,"male ego's mother's brother's daughter",,,,
-"mMZD","taigu",,"male ego's mother's sister's daughter",,,,
-"fFBS","taigu",,"female ego's father's brother's son",,,,
-"fFZS","nauvagu",,"female ego's father's sister's son",,,,
-"fMBS","nauvagu",,"female ego's mother's brother's son",,,,
-"fMZS","taigu",,"female ego's mother's sister's son",,,,
-"fFBD","tanavavigukava",,"female ego's father's brother's daughter",,,,
-"fFZD","nauvagu",,"female ego's father's sister's daughter",,,,
-"fMBD","nauvagu",,"female ego's mother's brother's daughter",,,,
-"fMZD","tanavavigu",,"female ego's mother's sister's daughter",,,,
-"mFeBS","turagukava",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","turagukava",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","nauvagu",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","nauvagu",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","taigu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","taigu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","nauvagu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","nauvagu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","nauvagu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","nauvagu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","turagu",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","turagu",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","nauvagu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","nauvagu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","taigu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","taigu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","turagukava",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","turagukava",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","nauvagu",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","nauvagu",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","taigu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","taigu",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","nauvagu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","nauvagu",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","nauvagu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","nauvagu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","turagu",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","turagu",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","nauvagu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","nauvagu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","taigu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","taigu",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","taigu",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","taigu",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","nauvagu",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","nauvagu",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","tanavavigukava",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","tanavavigukava",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","nauvagu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","nauvagu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","nauvagu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","nauvagu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","taigu",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","taigu",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","nauvagu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","nauvagu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","tanavavigu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","tanavavigu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","taigu",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","taigu",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","nauvagu",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","nauvagu",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","tanavavigukava",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","tanavavigukava",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","nauvagu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","nauvagu",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","nauvagu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","nauvagu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","taigu",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","taigu",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","nauvagu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","nauvagu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","tanavavigu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","tanavavigu",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,turagu,,male ego's older brother,,,Fingleton1986,
+myB,turagu,,male ego's younger brother,,,Fingleton1986,
+feB,taigu,,female ego's older brother,,,Fingleton1986,
+fyB,taigu,,female ego's younger brother,,,Fingleton1986,
+meZ,taigu,,male ego's older sister,,,Fingleton1986,
+myZ,taigu,,male ego's younger sister,,,Fingleton1986,
+feZ,turagu,,female ego's older sister,,,Fingleton1986,
+fyZ,turagu,,female ego's younger sister,,,Fingleton1986,
+mF,tamagu,,male ego's father,,,Fingleton1986,
+mM,nagu,,male ego's mother,,,Fingleton1986,
+fF,tamagu,,female ego's father,,,Fingleton1986,
+fM,nagu,,female ego's mother,,,Fingleton1986,
+mS,natugu,,male ego's son,,,Fingleton1986,
+fS,natugu,,female ego's son,,,Fingleton1986,
+mD,natugu,,male ego's daughter,,,Fingleton1986,
+fD,natugu,,female ego's daughter,,,Fingleton1986,
+mSS,tubugu,,male ego's son's son,,,Fingleton1986,
+mSD,tubugu,,male ego's son's daughter,,,Fingleton1986,
+mDS,tubugu,,male ego's daughter's son,,,Fingleton1986,
+mDD,tubugu,,male ego's daughter's daughter,,,Fingleton1986,
+fSS,tubugu,,female ego's son's son,,,Fingleton1986,
+fSD,tubugu,,female ego's son's daughter,,,Fingleton1986,
+fDS,tubugu,,female ego's daughter's son,,,Fingleton1986,
+fDD,tubugu,,female ego's daugher's daughter,,,Fingleton1986,
+mFF,tubugu,,male ego's father‘s father,,,Fingleton1986,
+mFM,tubugu,,male ego's father's mother,,,Fingleton1986,
+mMF,tubugu,,male ego's mother's father,,,Fingleton1986,
+mMM,tubugu,,male ego's mother's mother,,,Fingleton1986,
+fFF,tubugu,,female ego's father's father,,,Fingleton1986,
+fFM,tubugu,,female ego's father's mother,,,Fingleton1986,
+fMF,tubugu,,female ego's mother's father,,,Fingleton1986,
+fMM,tubugu,,female ego's mother's mother,,,Fingleton1986,
+meBS,natugu,,male ego's older brother's son,,,Fingleton1986,
+myBS,natugu,,male ego's younger brother's son,,,Fingleton1986,
+meZS,natuagu,,male ego's older sister's son,,,Fingleton1986,
+myZS,natuagu,,male ego's younger sister's son,,,Fingleton1986,
+meBD,natugu,,male ego's older brother's daughter,,,Fingleton1986,
+myBD,natugu,,male ego's younger brother's daughter,,,Fingleton1986,
+meZD,matuagu,,male ego's older sister's daughter,,,Fingleton1986,
+myZD,matuagu,,male ego's younger sister's daughter,,,Fingleton1986,
+feBS,vivigu,,female ego's older brother's son,,,Fingleton1986,
+fyBS,vivigu,,female ego's younger brother's son,,,Fingleton1986,
+feZS,natugu,,female ego's older sister's son,,,Fingleton1986,
+fyZS,natugu,,female ego's younger sister's son,,,Fingleton1986,
+feBD,vivigu,,female ego's older brother's daughter,,,Fingleton1986,
+fyBD,vivigu,,female ego's younger brother's daughter,,,Fingleton1986,
+feZD,natugu,,female ego's older sister's daughter,,,Fingleton1986,
+fyZD,natugu,,female ego's younger sister's daughter,,,Fingleton1986,
+mFeB,tamagu,,male ego's father's older brother,,,Fingleton1986,
+mFyB,tamagu,,male ego's father's younger brother,,,Fingleton1986,
+mFeZ,vivigu,,male ego's father's older sister,,,Fingleton1986,
+mFyZ,vivigu,,male ego's father's younger sister,,,Fingleton1986,
+mMeB,matuagu,,male ego's mother's older brother,,,Fingleton1986,
+mMyB,matuagu,,male ego's mother's younger brother,,,Fingleton1986,
+mMeZ,nagu,,male ego's mother's older sister,,,Fingleton1986,
+mMyZ,nagu,,male ego's mother's younger sister,,,Fingleton1986,
+fFeB,tamagu,,female ego's father's older brother,,,Fingleton1986,
+fFyB,tamagu,,female ego's father's younger brother,,,Fingleton1986,
+fFeZ,vivigu,,female ego's father's older sister,,,Fingleton1986,
+fFyZ,vivigu,,female ego's father's younger sister,,,Fingleton1986,
+fMeB,matuagu,,female ego's mother's older brother,,,Fingleton1986,
+fMyB,matuagu,,female ego's mother's younger brother,,,Fingleton1986,
+fMeZ,nagu,,female ego's mother's older sister,,,Fingleton1986,
+fMyZ,nagu,,female ego's mother's younger sister,,,Fingleton1986,
+mW,taulai,,male ego's wife,,,Fingleton1986,
+fH,taulai,,female ego‘s husband,,,Fingleton1986,
+mDH,nimugu,,male ego's daughter's husband,,,Fingleton1986,
+fDH,nimugu,,female ego's daughter's husband,,,Fingleton1986,
+mSW,enagu,,male ego's son's wife,,,Fingleton1986,
+fSW,enagu,,female ego's son's wife,,,Fingleton1986,
+mWF,nimugu,,male ego's wife's father,,,Fingleton1986,
+mWM,nimugu,,male ego's wife's mother,,,Fingleton1986,
+mWB,makuigu,,male ego's wife's brother,,,Fingleton1986,
+mWZ,tamaiagu,,male ego's wife's sister,,,Fingleton1986,
+fHF,enagu,,female ego's husband's father,,,Fingleton1986,
+fHM,enagu,,female ego's husband's mother,,,Fingleton1986,
+fHB,tamaiagu,,female ego's husband's brother,,,Fingleton1986,
+fHZ,keneaigu,,female ego's husband's sister,,,Fingleton1986,
+mBW,tamaiagu,,male ego's brother's wife,,,Fingleton1986,
+fBW,keneaigu,,female ego's brother's wife,,,Fingleton1986,
+mZH,makuigu,,male ego's sister's husband,,,Fingleton1986,
+fZH,tamaiagu,,female ego's sister's husband,,,Fingleton1986,
+mFBS,turagukava,,male ego's father's brother's son,,,Fingleton1986,
+mFZS,nauvagu,,male ego's father's sister's son,,,Fingleton1986,
+mMBS,nauvagu,,male ego's mother's brother's son,,,Fingleton1986,
+mMZS,turagu,,male ego's mother's sister's son,,,Fingleton1986,
+mFBD,taigu,,male ego's father's brother's daughter,,,Fingleton1986,
+mFZD,nauvagu,,male ego's father's sister's daughter,,,Fingleton1986,
+mMBD,nauvagu,,male ego's mother's brother's daughter,,,Fingleton1986,
+mMZD,taigu,,male ego's mother's sister's daughter,,,Fingleton1986,
+fFBS,taigu,,female ego's father's brother's son,,,Fingleton1986,
+fFZS,nauvagu,,female ego's father's sister's son,,,Fingleton1986,
+fMBS,nauvagu,,female ego's mother's brother's son,,,Fingleton1986,
+fMZS,taigu,,female ego's mother's sister's son,,,Fingleton1986,
+fFBD,tanavavigukava,,female ego's father's brother's daughter,,,Fingleton1986,
+fFZD,nauvagu,,female ego's father's sister's daughter,,,Fingleton1986,
+fMBD,nauvagu,,female ego's mother's brother's daughter,,,Fingleton1986,
+fMZD,tanavavigu,,female ego's mother's sister's daughter,,,Fingleton1986,
+mFeBS,turagukava,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFyBS,turagukava,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFeZS,nauvagu,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFyZS,nauvagu,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFeBD,taigu,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFyBD,taigu,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFeZD,nauvagu,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mFyZD,nauvagu,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mMeBS,nauvagu,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMyBS,nauvagu,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMeZS,turagu,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMyZS,turagu,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMeBD,nauvagu,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMyBD,nauvagu,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMeZD,taigu,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+mMyZD,taigu,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+mFBeS,turagukava,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFByS,turagukava,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFZeS,nauvagu,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFZyS,nauvagu,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFBeD,taigu,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFByD,taigu,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFZeD,nauvagu,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mFZyD,nauvagu,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mMBeS,nauvagu,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMByS,nauvagu,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMZeS,turagu,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMZyS,turagu,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMBeD,nauvagu,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMByD,nauvagu,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMZeD,taigu,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+mMZyD,taigu,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fFeBS,taigu,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFyBS,taigu,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFeZS,nauvagu,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFyZS,nauvagu,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFeBD,tanavavigukava,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFyBD,tanavavigukava,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFeZD,nauvagu,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fFyZD,nauvagu,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fMeBS,nauvagu,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMyBS,nauvagu,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMeZS,taigu,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMyZS,taigu,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMeBD,nauvagu,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMyBD,nauvagu,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMeZD,tanavavigu,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fMyZD,tanavavigu,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fFBeS,taigu,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFByS,taigu,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFZeS,nauvagu,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFZyS,nauvagu,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFBeD,tanavavigukava,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFByD,tanavavigukava,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFZeD,nauvagu,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fFZyD,nauvagu,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fMBeS,nauvagu,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMByS,nauvagu,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMZeS,taigu,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMZyS,taigu,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMBeD,nauvagu,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMByD,nauvagu,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMZeD,tanavavigu,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fMZyD,tanavavigu,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA

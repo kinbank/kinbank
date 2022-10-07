@@ -1,111 +1,111 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","ewegani","ˈɛwɛɡɑni","male ego's older brother","",,,""
-"myB","ĩepi","ˈĩʲɛpi","male ego's younger brother","",,,""
-"feB","ewegani","ˈɛwɛɡɑni","female ego's older brother","",,,""
-"fyB","ĩepi","ˈĩʲɛpi","female ego's younger brother","",,,""
-"meZ","gai","ˈɡai","male ego's older sister","",,,""
-"myZ","yũtu","ˈjũtu","male ego's younger sister","",,,""
-"feZ","gai","ˈɡai","female ego's older sister","",,,""
-"fyZ","yũtu","ˈjũtu","female ego's younger sister","",,,""
-"mF","abi","ˈabi","male ego's father","nepe",,,""
-"mM","amu","ˈamu","male ego's mother","uba",,,""
-"fF","abi","ˈabi","female ego's father","nepe",,,""
-"fM","amu","ˈamu","female ego's mother","uba",,,""
-"mS","eni","ˈɛni","male ego's son","irka",,,""
-"fS","eni","ˈɛni","female ego's son","irka",,,""
-"mD","zwagi","ˈzwɑɡi","male ego's daughter","eirieni",,,""
-"fD","zwagi","ˈzwɑɡi","female ego's daughter","eirieni",,,""
-"mSS","nime","ˈnimɛ","male ego's son's son","",,,""
-"mSD","nime","ˈnimɛ","male ego's son's daughter","",,,""
-"mDS","nime","ˈnimɛ","male ego's daughter's son","",,,""
-"mDD","nime","ˈnimɛ","male ego's daughter's daughter","",,,""
-"fSS","nime","ˈnimɛ","female ego's son's son","",,,""
-"fSD","nime","ˈnimɛ","female ego's son's daughter","",,,""
-"fDS","nime","ˈnimɛ","female ego's daughter's son","",,,""
-"fDD","nime","ˈnimɛ","female ego's daugher's daughter","",,,""
-"mFF","ewe","ˈɛwɛ","male ego's father‘s father","",,,""
-"mFM","ewe","ˈɛwɛ","male ego's father's mother","",,,""
-"mMF","ewe","ˈɛwɛ","male ego's mother's father","",,,""
-"mMM","ewe","ˈɛwɛ","male ego's mother's mother","",,,""
-"fFF","ewe","ˈɛwɛ","female ego's father's father","",,,""
-"fFM","ewe","ˈɛwɛ","female ego's father's mother","",,,""
-"fMF","ewe","ˈɛwɛ","female ego's mother's father","",,,""
-"fMM","ewe","ˈɛwɛ","female ego's mother's mother","",,,""
-"meBS","ewegani, ĩepi","ˈɛwɛɡɑni, ˈĩʲɛpi","male ego's older brother's son","",,,""
-"myBS","nime","ˈnimɛ","male ego's younger brother's son","",,,""
-"meZS","naziba","ˈnaziba","male ego's older sister's son","",,,""
-"myZS","naziba","ˈnaziba","male ego's younger sister's son","",,,""
-"meBD","zwagi","ˈzwɑɡi","male ego's older brother's daughter","",,,""
-"myBD","nime","ˈnimɛ","male ego's younger brother's daughter","",,,""
-"meZD","naziba","ˈnaziba","male ego's older sister's daughter","",,,""
-"myZD","naziba","ˈnaziba","male ego's younger sister's daughter","",,,""
-"feBS","ewegani, ĩepi","ˈɛwɛɡɑni, ˈĩʲɛpi","female ego's older brother's son","",,,""
-"fyBS","ĩepi","ˈĩʲɛpi","female ego's younger brother's son","",,,""
-"feZS","irka","","female ego's older sister's son","",,,"(= address)"
-"fyZS","nime","","female ego's younger sister's son","",,,""
-"feBD","gai, yũtu","","female ego's older brother's daughter","",,,""
-"fyBD","yũtu","","female ego's younger brother's daughter","",,,""
-"feZD","eirieni","","female ego's older sister's daughter","",,,"(= address)"
-"fyZD","nime","","female ego's younger sister's daughter","",,,""
-"mFeB","zwani","","male ego's father's older brother","",,,""
-"mFyB","zwani","","male ego's father's younger brother","",,,""
-"mFeZ","gai","","male ego's father's older sister","",,,""
-"mFyZ","gai, yũtu","","male ego's father's younger sister","",,,""
-"mMeB","zwani","","male ego's mother's older brother","",,,""
-"mMyB","zwani","","male ego's mother's younger brother","",,,""
-"mMeZ","ewe","","male ego's mother's older sister","",,,""
-"mMyZ","amu","","male ego's mother's younger sister","amani",,,""
-"fFeB","zwani","","female ego's father's older brother","",,,""
-"fFyB","zwani","","female ego's father's younger brother","",,,""
-"fFeZ","gai","","female ego's father's older sister","",,,""
-"fFyZ","gai, yũtu","","female ego's father's younger sister","",,,""
-"fMeB","zwani","","female ego's mother's older brother","",,,""
-"fMyB","zwani","","female ego's mother's younger brother","",,,""
-"fMeZ","ewe","","female ego's mother's older sister","",,,""
-"fMyZ","amu","","female ego's mother's younger sister","amani",,,""
-"mW","atu","","male ego's wife","atri",,,""
-"fH","daru","","female ego‘s husband","dibara",,,""
-"mDH","rabmi","","male ego's daughter's husband","",,,""
-"fDH","rabmi","","female ego's daughter's husband","",,,""
-"mWF","rabmi","","male ego's wife's father","",,,""
-"mWM","rabmi","","male ego's wife's mother","",,,""
-"mWB","rabmi","","male ego's wife's brother","",,,""
-"mWZ","rabmi, naku","","male ego's wife's sister","",,,""
-"fHF","ewe","","female ego's husband's father","",,,""
-"fHM","ewe","","female ego's husband's mother","",,,""
-"fHB","ewe, irka","","female ego's husband's brother","",,,"irka = address"
-"fHZ","eirieni","","female ego's husband's sister","",,,"(= address)"
-"mBW","amu","","male ego's brother's wife","",,,""
-"fBW","amu","","female ego's brother's wife","",,,""
-"mZH","rabmi","","male ego's sister's husband","",,,""
-"fZH","naku, rabmi","","female ego's sister's husband","",,,""
-"mFBeS","ewegani","","male ego‘s father‘s brother‘s older son","",,,""
-"mFByS","ĩepi","","male ego‘s father‘s brother‘s younger son","",,,""
-"mFBeD","gai","","male ego‘s father‘s brother‘s older daughter","",,,""
-"mFByD","yũtu","","male ego‘s father‘s brother‘s younger daughter","",,,""
-"mFZeS","naziba","","male ego‘s father‘s sisters‘s older son","",,,""
-"mFZyS","naziba","","male ego‘s father‘s sisters‘s younger son","",,,""
-"mFZeD","naziba","","male ego‘s father‘s sisters‘s older daughter","",,,""
-"mFZyD","naziba","","male ego‘s father‘s sisters‘s younger daughter","",,,""
-"mMBeS","zwani","","male ego‘s mother‘s brother‘s older son","",,,""
-"mMByS","zwani","","male ego‘s mother‘s brother‘s younger son","",,,""
-"mMBeD","amu","","male ego‘s mother‘s brother‘s older daughter","",,,""
-"mMByD","amu","","male ego‘s mother‘s brother‘s younger daughter","amani",,,""
-"mMZeS","ewegani","","male ego‘s mother‘s sisters‘s older son","",,,""
-"mMZyS","ĩepi","","male ego‘s mother‘s sisters‘s younger son","",,,""
-"mMZeD","gai","","male ego‘s mother‘s sisters‘s older daughter","",,,""
-"mMZyD","yũtu","","male ego‘s mother‘s sisters‘s younger daughter","",,,""
-"fFBeS","ewegani","","female ego‘s father‘s brother‘s older son","",,,""
-"fFByS","ĩepi","","female ego‘s father‘s brother‘s younger son","",,,""
-"fFBeD","gai","","female ego‘s father‘s brother‘s older daughter","",,,""
-"fFByD","yũtu","","female ego‘s father‘s brother‘s younger daughter","",,,""
-"fFZeS","irka","","female ego‘s father‘s sisters‘s older son","",,,"(= address)"
-"fFZyS","irka","","female ego‘s father‘s sisters‘s younger son","",,,"(= address)"
-"fMBeS","zwani","","female ego‘s mother‘s brother‘s older son","",,,""
-"fMByS","zwani","","female ego‘s mother‘s brother‘s younger son","",,,""
-"fMBeD","amu","","female ego‘s mother‘s brother‘s older daughter","",,,""
-"fMByD","amu","","female ego‘s mother‘s brother‘s younger daughter","amani",,,""
-"fMZeS","ewegani","","female ego‘s mother‘s sisters‘s older son","",,,""
-"fMZyS","ĩepi","","female ego‘s mother‘s sisters‘s younger son","",,,""
-"fMZeD","gai","","female ego‘s mother‘s sisters‘s older daughter","",,,""
-"fMZyD","yũtu","","female ego‘s mother‘s sisters‘s younger daughter","",,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,ewegani,ˈɛwɛɡɑni,male ego's older brother,,,vanTongeren-2016,
+myB,ĩepi,ˈĩʲɛpi,male ego's younger brother,,,vanTongeren-2016,
+feB,ewegani,ˈɛwɛɡɑni,female ego's older brother,,,vanTongeren-2016,
+fyB,ĩepi,ˈĩʲɛpi,female ego's younger brother,,,vanTongeren-2016,
+meZ,gai,ˈɡai,male ego's older sister,,,vanTongeren-2016,
+myZ,yũtu,ˈjũtu,male ego's younger sister,,,vanTongeren-2016,
+feZ,gai,ˈɡai,female ego's older sister,,,vanTongeren-2016,
+fyZ,yũtu,ˈjũtu,female ego's younger sister,,,vanTongeren-2016,
+mF,abi,ˈabi,male ego's father,nepe,,vanTongeren-2016,
+mM,amu,ˈamu,male ego's mother,uba,,vanTongeren-2016,
+fF,abi,ˈabi,female ego's father,nepe,,vanTongeren-2016,
+fM,amu,ˈamu,female ego's mother,uba,,vanTongeren-2016,
+mS,eni,ˈɛni,male ego's son,irka,,vanTongeren-2016,
+fS,eni,ˈɛni,female ego's son,irka,,vanTongeren-2016,
+mD,zwagi,ˈzwɑɡi,male ego's daughter,eirieni,,vanTongeren-2016,
+fD,zwagi,ˈzwɑɡi,female ego's daughter,eirieni,,vanTongeren-2016,
+mSS,nime,ˈnimɛ,male ego's son's son,,,vanTongeren-2016,
+mSD,nime,ˈnimɛ,male ego's son's daughter,,,vanTongeren-2016,
+mDS,nime,ˈnimɛ,male ego's daughter's son,,,vanTongeren-2016,
+mDD,nime,ˈnimɛ,male ego's daughter's daughter,,,vanTongeren-2016,
+fSS,nime,ˈnimɛ,female ego's son's son,,,vanTongeren-2016,
+fSD,nime,ˈnimɛ,female ego's son's daughter,,,vanTongeren-2016,
+fDS,nime,ˈnimɛ,female ego's daughter's son,,,vanTongeren-2016,
+fDD,nime,ˈnimɛ,female ego's daugher's daughter,,,vanTongeren-2016,
+mFF,ewe,ˈɛwɛ,male ego's father‘s father,,,vanTongeren-2016,
+mFM,ewe,ˈɛwɛ,male ego's father's mother,,,vanTongeren-2016,
+mMF,ewe,ˈɛwɛ,male ego's mother's father,,,vanTongeren-2016,
+mMM,ewe,ˈɛwɛ,male ego's mother's mother,,,vanTongeren-2016,
+fFF,ewe,ˈɛwɛ,female ego's father's father,,,vanTongeren-2016,
+fFM,ewe,ˈɛwɛ,female ego's father's mother,,,vanTongeren-2016,
+fMF,ewe,ˈɛwɛ,female ego's mother's father,,,vanTongeren-2016,
+fMM,ewe,ˈɛwɛ,female ego's mother's mother,,,vanTongeren-2016,
+meBS,"ewegani, ĩepi","ˈɛwɛɡɑni, ˈĩʲɛpi",male ego's older brother's son,,,vanTongeren-2016,
+myBS,nime,ˈnimɛ,male ego's younger brother's son,,,vanTongeren-2016,
+meZS,naziba,ˈnaziba,male ego's older sister's son,,,vanTongeren-2016,
+myZS,naziba,ˈnaziba,male ego's younger sister's son,,,vanTongeren-2016,
+meBD,zwagi,ˈzwɑɡi,male ego's older brother's daughter,,,vanTongeren-2016,
+myBD,nime,ˈnimɛ,male ego's younger brother's daughter,,,vanTongeren-2016,
+meZD,naziba,ˈnaziba,male ego's older sister's daughter,,,vanTongeren-2016,
+myZD,naziba,ˈnaziba,male ego's younger sister's daughter,,,vanTongeren-2016,
+feBS,"ewegani, ĩepi","ˈɛwɛɡɑni, ˈĩʲɛpi",female ego's older brother's son,,,vanTongeren-2016,
+fyBS,ĩepi,ˈĩʲɛpi,female ego's younger brother's son,,,vanTongeren-2016,
+feZS,irka,,female ego's older sister's son,,,vanTongeren-2016,(= address)
+fyZS,nime,,female ego's younger sister's son,,,vanTongeren-2016,
+feBD,"gai, yũtu",,female ego's older brother's daughter,,,vanTongeren-2016,
+fyBD,yũtu,,female ego's younger brother's daughter,,,vanTongeren-2016,
+feZD,eirieni,,female ego's older sister's daughter,,,vanTongeren-2016,(= address)
+fyZD,nime,,female ego's younger sister's daughter,,,vanTongeren-2016,
+mFeB,zwani,,male ego's father's older brother,,,vanTongeren-2016,
+mFyB,zwani,,male ego's father's younger brother,,,vanTongeren-2016,
+mFeZ,gai,,male ego's father's older sister,,,vanTongeren-2016,
+mFyZ,"gai, yũtu",,male ego's father's younger sister,,,vanTongeren-2016,
+mMeB,zwani,,male ego's mother's older brother,,,vanTongeren-2016,
+mMyB,zwani,,male ego's mother's younger brother,,,vanTongeren-2016,
+mMeZ,ewe,,male ego's mother's older sister,,,vanTongeren-2016,
+mMyZ,amu,,male ego's mother's younger sister,amani,,vanTongeren-2016,
+fFeB,zwani,,female ego's father's older brother,,,vanTongeren-2016,
+fFyB,zwani,,female ego's father's younger brother,,,vanTongeren-2016,
+fFeZ,gai,,female ego's father's older sister,,,vanTongeren-2016,
+fFyZ,"gai, yũtu",,female ego's father's younger sister,,,vanTongeren-2016,
+fMeB,zwani,,female ego's mother's older brother,,,vanTongeren-2016,
+fMyB,zwani,,female ego's mother's younger brother,,,vanTongeren-2016,
+fMeZ,ewe,,female ego's mother's older sister,,,vanTongeren-2016,
+fMyZ,amu,,female ego's mother's younger sister,amani,,vanTongeren-2016,
+mW,atu,,male ego's wife,atri,,vanTongeren-2016,
+fH,daru,,female ego‘s husband,dibara,,vanTongeren-2016,
+mDH,rabmi,,male ego's daughter's husband,,,vanTongeren-2016,
+fDH,rabmi,,female ego's daughter's husband,,,vanTongeren-2016,
+mWF,rabmi,,male ego's wife's father,,,vanTongeren-2016,
+mWM,rabmi,,male ego's wife's mother,,,vanTongeren-2016,
+mWB,rabmi,,male ego's wife's brother,,,vanTongeren-2016,
+mWZ,"rabmi, naku",,male ego's wife's sister,,,vanTongeren-2016,
+fHF,ewe,,female ego's husband's father,,,vanTongeren-2016,
+fHM,ewe,,female ego's husband's mother,,,vanTongeren-2016,
+fHB,"ewe, irka",,female ego's husband's brother,,,vanTongeren-2016,irka = address
+fHZ,eirieni,,female ego's husband's sister,,,vanTongeren-2016,(= address)
+mBW,amu,,male ego's brother's wife,,,vanTongeren-2016,
+fBW,amu,,female ego's brother's wife,,,vanTongeren-2016,
+mZH,rabmi,,male ego's sister's husband,,,vanTongeren-2016,
+fZH,"naku, rabmi",,female ego's sister's husband,,,vanTongeren-2016,
+mFBeS,ewegani,,male ego‘s father‘s brother‘s older son,,,vanTongeren-2016,
+mFByS,ĩepi,,male ego‘s father‘s brother‘s younger son,,,vanTongeren-2016,
+mFBeD,gai,,male ego‘s father‘s brother‘s older daughter,,,vanTongeren-2016,
+mFByD,yũtu,,male ego‘s father‘s brother‘s younger daughter,,,vanTongeren-2016,
+mFZeS,naziba,,male ego‘s father‘s sisters‘s older son,,,vanTongeren-2016,
+mFZyS,naziba,,male ego‘s father‘s sisters‘s younger son,,,vanTongeren-2016,
+mFZeD,naziba,,male ego‘s father‘s sisters‘s older daughter,,,vanTongeren-2016,
+mFZyD,naziba,,male ego‘s father‘s sisters‘s younger daughter,,,vanTongeren-2016,
+mMBeS,zwani,,male ego‘s mother‘s brother‘s older son,,,vanTongeren-2016,
+mMByS,zwani,,male ego‘s mother‘s brother‘s younger son,,,vanTongeren-2016,
+mMBeD,amu,,male ego‘s mother‘s brother‘s older daughter,,,vanTongeren-2016,
+mMByD,amu,,male ego‘s mother‘s brother‘s younger daughter,amani,,vanTongeren-2016,
+mMZeS,ewegani,,male ego‘s mother‘s sisters‘s older son,,,vanTongeren-2016,
+mMZyS,ĩepi,,male ego‘s mother‘s sisters‘s younger son,,,vanTongeren-2016,
+mMZeD,gai,,male ego‘s mother‘s sisters‘s older daughter,,,vanTongeren-2016,
+mMZyD,yũtu,,male ego‘s mother‘s sisters‘s younger daughter,,,vanTongeren-2016,
+fFBeS,ewegani,,female ego‘s father‘s brother‘s older son,,,vanTongeren-2016,
+fFByS,ĩepi,,female ego‘s father‘s brother‘s younger son,,,vanTongeren-2016,
+fFBeD,gai,,female ego‘s father‘s brother‘s older daughter,,,vanTongeren-2016,
+fFByD,yũtu,,female ego‘s father‘s brother‘s younger daughter,,,vanTongeren-2016,
+fFZeS,irka,,female ego‘s father‘s sisters‘s older son,,,vanTongeren-2016,(= address)
+fFZyS,irka,,female ego‘s father‘s sisters‘s younger son,,,vanTongeren-2016,(= address)
+fMBeS,zwani,,female ego‘s mother‘s brother‘s older son,,,vanTongeren-2016,
+fMByS,zwani,,female ego‘s mother‘s brother‘s younger son,,,vanTongeren-2016,
+fMBeD,amu,,female ego‘s mother‘s brother‘s older daughter,,,vanTongeren-2016,
+fMByD,amu,,female ego‘s mother‘s brother‘s younger daughter,amani,,vanTongeren-2016,
+fMZeS,ewegani,,female ego‘s mother‘s sisters‘s older son,,,vanTongeren-2016,
+fMZyS,ĩepi,,female ego‘s mother‘s sisters‘s younger son,,,vanTongeren-2016,
+fMZeD,gai,,female ego‘s mother‘s sisters‘s older daughter,,,vanTongeren-2016,
+fMZyD,yũtu,,female ego‘s mother‘s sisters‘s younger daughter,,,vanTongeren-2016,

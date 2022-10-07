@@ -1,155 +1,155 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","gite",,"male ego's older brother",,,,
-"myB","gite",,"male ego's younger brother",,,,
-"feB","ginuwe",,"female ego's older brother",,,,
-"fyB","ginuwe",,"female ego's younger brother",,,,
-"meZ","siwe",,"male ego's older sister",,,,
-"myZ","siwe",,"male ego's younger sister",,,,
-"feZ","site",,"female ego's older sister",,,,
-"fyZ","site",,"female ego's younger sister",,,,
-"mF","tumä, gelitumä",,"male ego's father",,,,
-"mM","isä, gelivitä",,"male ego's mother",,,,
-"fF","tumä, gelitumä",,"female ego's father",,,,
-"fM","isä, gelivitä",,"female ego's mother",,,,
-"mS","gino",,"male ego's son",,,,
-"fS","gino",,"female ego's son",,,,
-"mD","sipe",,"male ego's daughter",,,,
-"fD","sipe",,"female ego's daughter",,,,
-"mSS","gibo",,"male ego's son's son",,,,
-"mSD","sibo",,"male ego's son's daughter",,,,
-"mDS","gibo",,"male ego's daughter's son",,,,
-"mDD","sibo",,"male ego's daughter's daughter",,,,
-"fSS","gibo",,"female ego's son's son",,,,
-"fSD","sibo",,"female ego's son's daughter",,,,
-"fDS","gibo",,"female ego's daughter's son",,,,
-"fDD","sibo",,"female ego's daugher's daughter",,,,
-"mFF","ibetumä",,"male ego's father‘s father",,,,
-"mFM","ipetä",,"male ego's father's mother",,,,
-"mMF","ibebo",,"male ego's mother's father",,,,
-"mMM","ipebu",,"male ego's mother's mother",,,,
-"fFF","ibetumä",,"female ego's father's father",,,,
-"fFM","ipetä",,"female ego's father's mother",,,,
-"fMF","ibebo",,"female ego's mother's father",,,,
-"fMM","ipebu",,"female ego's mother's mother",,,,
-"meBS","gino",,"male ego's older brother's son",,,,
-"myBS","gino",,"male ego's younger brother's son",,,,
-"meZS","gibo",,"male ego's older sister's son",,,,
-"myZS","gibo",,"male ego's younger sister's son",,,,
-"meBD","sipe",,"male ego's older brother's daughter",,,,
-"myBD","sipe",,"male ego's younger brother's daughter",,,,
-"meZD","sibo",,"male ego's older sister's daughter",,,,
-"myZD","sibo",,"male ego's younger sister's daughter",,,,
-"feBS","gibo",,"female ego's older brother's son",,,,
-"fyBS","gibo",,"female ego's younger brother's son",,,,
-"feZS","gino",,"female ego's older sister's son",,,,
-"fyZS","gino",,"female ego's younger sister's son",,,,
-"feBD","site, sibo",,"female ego's older brother's daughter",,,,
-"fyBD","site, sibo",,"female ego's younger brother's daughter",,,,
-"feZD","sipe",,"female ego's older sister's daughter",,,,
-"fyZD","sipe",,"female ego's younger sister's daughter",,,,
-"mFeB","tumä",,"male ego's father's older brother",,,,
-"mFyB","tumä",,"male ego's father's younger brother",,,,
-"mFeZ","siwe",,"male ego's father's older sister",,,,
-"mFyZ","siwe",,"male ego's father's younger sister",,,,
-"mMeB","giängä",,"male ego's mother's older brother",,,,
-"mMyB","giängä",,"male ego's mother's younger brother",,,,
-"mMeZ","isä",,"male ego's mother's older sister",,,,
-"mMyZ","isä",,"male ego's mother's younger sister",,,,
-"fFeB","tumä",,"female ego's father's older brother",,,,
-"fFyB","tumä",,"female ego's father's younger brother",,,,
-"fFeZ","site",,"female ego's father's older sister",,,,
-"fFyZ","site",,"female ego's father's younger sister",,,,
-"fMeB","giängä",,"female ego's mother's older brother",,,,
-"fMyB","giängä",,"female ego's mother's younger brother",,,,
-"fMeZ","isä",,"female ego's mother's older sister",,,,
-"fMyZ","isä",,"female ego's mother's younger sister",,,,
-"mW","isäpelivano, siväle",,"male ego's wife",,,,
-"fH","tumä pelivano, giäle, gula, peego",,"female ego‘s husband",,,,
-"mDH","peluu, guu",,"male ego's daughter's husband",,,,
-"fDH","gibo, guu",,"female ego's daughter's husband",,,,
-"mSW","sibo",,"male ego's son's wife",,,,
-"fSW","sibo",,"female ego's son's wife",,,,
-"mWF","gelitumä, ibeu, ibeängä",,"male ego's wife's father",,,,
-"mWM","gelivitä, ipeu",,"male ego's wife's mother",,,,
-"fHF","gelitumä, ibeängä",,"female ego's husband's father",,,,
-"fHM","gelivitä, ipebu",,"female ego's husband's mother",,,,
-"mFBS","gite",,"male ego's father's brother's son",,,,
-"mFZS","gibo",,"male ego's father's sister's son",,,,
-"mMBS","gibo",,"male ego's mother's brother's son",,,,
-"mMZS","gite",,"male ego's mother's sister's son",,,,
-"mFBD","siwe",,"male ego's father's brother's daughter",,,,
-"mFZD","sibo",,"male ego's father's sister's daughter",,,,
-"mMBD","sibo",,"male ego's mother's brother's daughter",,,,
-"mMZD","siwe",,"male ego's mother's sister's daughter",,,,
-"fFBS","ginuwe",,"female ego's father's brother's son",,,,
-"fFZS","gibo",,"female ego's father's sister's son",,,,
-"fMBS","gibo",,"female ego's mother's brother's son",,,,
-"fMZS","ginuwe",,"female ego's mother's sister's son",,,,
-"fFBD","site",,"female ego's father's brother's daughter",,,,
-"fFZD","sibo",,"female ego's father's sister's daughter",,,,
-"fMBD","sibo",,"female ego's mother's brother's daughter",,,,
-"fMZD","site",,"female ego's mother's sister's daughter",,,,
-"mFeBS","gite",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","gite",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","gibo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","gibo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","siwe",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","siwe",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","sibo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","sibo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","gibo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","gibo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","gite",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","gite",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","sibo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","sibo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","siwe",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","siwe",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","gite",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","gite",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","gibo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","gibo",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","siwe",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","siwe",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","sibo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","sibo",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","gibo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","gibo",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","gite",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","gite",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","sibo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","sibo",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","siwe",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","siwe",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","ginuwe",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","ginuwe",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","gibo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","gibo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","site",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","site",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","sibo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","sibo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","gibo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","gibo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","ginuwe",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","ginuwe",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","sibo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","sibo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","site",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","site",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","ginuwe",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","ginuwe",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","gibo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","gibo",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","site",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","site",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","sibo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","sibo",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","gibo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","gibo",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","ginuwe",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","ginuwe",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","sibo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","sibo",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","site",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","site",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,gite,,male ego's older brother,,,Naess2017,
+myB,gite,,male ego's younger brother,,,Naess2017,
+feB,ginuwe,,female ego's older brother,,,Naess2017,
+fyB,ginuwe,,female ego's younger brother,,,Naess2017,
+meZ,siwe,,male ego's older sister,,,Naess2017,
+myZ,siwe,,male ego's younger sister,,,Naess2017,
+feZ,site,,female ego's older sister,,,Naess2017,
+fyZ,site,,female ego's younger sister,,,Naess2017,
+mF,"tumä, gelitumä",,male ego's father,,,Naess2017,
+mM,"isä, gelivitä",,male ego's mother,,,Naess2017,
+fF,"tumä, gelitumä",,female ego's father,,,Naess2017,
+fM,"isä, gelivitä",,female ego's mother,,,Naess2017,
+mS,gino,,male ego's son,,,Naess2017,
+fS,gino,,female ego's son,,,Naess2017,
+mD,sipe,,male ego's daughter,,,Naess2017,
+fD,sipe,,female ego's daughter,,,Naess2017,
+mSS,gibo,,male ego's son's son,,,Naess2017,
+mSD,sibo,,male ego's son's daughter,,,Naess2017,
+mDS,gibo,,male ego's daughter's son,,,Naess2017,
+mDD,sibo,,male ego's daughter's daughter,,,Naess2017,
+fSS,gibo,,female ego's son's son,,,Naess2017,
+fSD,sibo,,female ego's son's daughter,,,Naess2017,
+fDS,gibo,,female ego's daughter's son,,,Naess2017,
+fDD,sibo,,female ego's daugher's daughter,,,Naess2017,
+mFF,ibetumä,,male ego's father‘s father,,,Naess2017,
+mFM,ipetä,,male ego's father's mother,,,Naess2017,
+mMF,ibebo,,male ego's mother's father,,,Naess2017,
+mMM,ipebu,,male ego's mother's mother,,,Naess2017,
+fFF,ibetumä,,female ego's father's father,,,Naess2017,
+fFM,ipetä,,female ego's father's mother,,,Naess2017,
+fMF,ibebo,,female ego's mother's father,,,Naess2017,
+fMM,ipebu,,female ego's mother's mother,,,Naess2017,
+meBS,gino,,male ego's older brother's son,,,Naess2017,
+myBS,gino,,male ego's younger brother's son,,,Naess2017,
+meZS,gibo,,male ego's older sister's son,,,Naess2017,
+myZS,gibo,,male ego's younger sister's son,,,Naess2017,
+meBD,sipe,,male ego's older brother's daughter,,,Naess2017,
+myBD,sipe,,male ego's younger brother's daughter,,,Naess2017,
+meZD,sibo,,male ego's older sister's daughter,,,Naess2017,
+myZD,sibo,,male ego's younger sister's daughter,,,Naess2017,
+feBS,gibo,,female ego's older brother's son,,,Naess2017,
+fyBS,gibo,,female ego's younger brother's son,,,Naess2017,
+feZS,gino,,female ego's older sister's son,,,Naess2017,
+fyZS,gino,,female ego's younger sister's son,,,Naess2017,
+feBD,"site, sibo",,female ego's older brother's daughter,,,Naess2017,
+fyBD,"site, sibo",,female ego's younger brother's daughter,,,Naess2017,
+feZD,sipe,,female ego's older sister's daughter,,,Naess2017,
+fyZD,sipe,,female ego's younger sister's daughter,,,Naess2017,
+mFeB,tumä,,male ego's father's older brother,,,Naess2017,
+mFyB,tumä,,male ego's father's younger brother,,,Naess2017,
+mFeZ,siwe,,male ego's father's older sister,,,Naess2017,
+mFyZ,siwe,,male ego's father's younger sister,,,Naess2017,
+mMeB,giängä,,male ego's mother's older brother,,,Naess2017,
+mMyB,giängä,,male ego's mother's younger brother,,,Naess2017,
+mMeZ,isä,,male ego's mother's older sister,,,Naess2017,
+mMyZ,isä,,male ego's mother's younger sister,,,Naess2017,
+fFeB,tumä,,female ego's father's older brother,,,Naess2017,
+fFyB,tumä,,female ego's father's younger brother,,,Naess2017,
+fFeZ,site,,female ego's father's older sister,,,Naess2017,
+fFyZ,site,,female ego's father's younger sister,,,Naess2017,
+fMeB,giängä,,female ego's mother's older brother,,,Naess2017,
+fMyB,giängä,,female ego's mother's younger brother,,,Naess2017,
+fMeZ,isä,,female ego's mother's older sister,,,Naess2017,
+fMyZ,isä,,female ego's mother's younger sister,,,Naess2017,
+mW,"isäpelivano, siväle",,male ego's wife,,,Naess2017,
+fH,"tumä pelivano, giäle, gula, peego",,female ego‘s husband,,,Naess2017,
+mDH,"peluu, guu",,male ego's daughter's husband,,,Naess2017,
+fDH,"gibo, guu",,female ego's daughter's husband,,,Naess2017,
+mSW,sibo,,male ego's son's wife,,,Naess2017,
+fSW,sibo,,female ego's son's wife,,,Naess2017,
+mWF,"gelitumä, ibeu, ibeängä",,male ego's wife's father,,,Naess2017,
+mWM,"gelivitä, ipeu",,male ego's wife's mother,,,Naess2017,
+fHF,"gelitumä, ibeängä",,female ego's husband's father,,,Naess2017,
+fHM,"gelivitä, ipebu",,female ego's husband's mother,,,Naess2017,
+mFBS,gite,,male ego's father's brother's son,,,Naess2017,
+mFZS,gibo,,male ego's father's sister's son,,,Naess2017,
+mMBS,gibo,,male ego's mother's brother's son,,,Naess2017,
+mMZS,gite,,male ego's mother's sister's son,,,Naess2017,
+mFBD,siwe,,male ego's father's brother's daughter,,,Naess2017,
+mFZD,sibo,,male ego's father's sister's daughter,,,Naess2017,
+mMBD,sibo,,male ego's mother's brother's daughter,,,Naess2017,
+mMZD,siwe,,male ego's mother's sister's daughter,,,Naess2017,
+fFBS,ginuwe,,female ego's father's brother's son,,,Naess2017,
+fFZS,gibo,,female ego's father's sister's son,,,Naess2017,
+fMBS,gibo,,female ego's mother's brother's son,,,Naess2017,
+fMZS,ginuwe,,female ego's mother's sister's son,,,Naess2017,
+fFBD,site,,female ego's father's brother's daughter,,,Naess2017,
+fFZD,sibo,,female ego's father's sister's daughter,,,Naess2017,
+fMBD,sibo,,female ego's mother's brother's daughter,,,Naess2017,
+fMZD,site,,female ego's mother's sister's daughter,,,Naess2017,
+mFeBS,gite,,male ego's father's brother's son,,,Naess2017,Inferred; NA
+mFyBS,gite,,male ego's father's brother's son,,,Naess2017,Inferred; NA
+mFeZS,gibo,,male ego's father's sister's son,,,Naess2017,Inferred; NA
+mFyZS,gibo,,male ego's father's sister's son,,,Naess2017,Inferred; NA
+mFeBD,siwe,,male ego's father's brother's daughter,,,Naess2017,Inferred; NA
+mFyBD,siwe,,male ego's father's brother's daughter,,,Naess2017,Inferred; NA
+mFeZD,sibo,,male ego's father's sister's daughter,,,Naess2017,Inferred; NA
+mFyZD,sibo,,male ego's father's sister's daughter,,,Naess2017,Inferred; NA
+mMeBS,gibo,,male ego's mother's brother's son,,,Naess2017,Inferred; NA
+mMyBS,gibo,,male ego's mother's brother's son,,,Naess2017,Inferred; NA
+mMeZS,gite,,male ego's mother's sister's son,,,Naess2017,Inferred; NA
+mMyZS,gite,,male ego's mother's sister's son,,,Naess2017,Inferred; NA
+mMeBD,sibo,,male ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+mMyBD,sibo,,male ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+mMeZD,siwe,,male ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+mMyZD,siwe,,male ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+mFBeS,gite,,male ego's father's brother's son,,,Naess2017,Inferred; NA
+mFByS,gite,,male ego's father's brother's son,,,Naess2017,Inferred; NA
+mFZeS,gibo,,male ego's father's sister's son,,,Naess2017,Inferred; NA
+mFZyS,gibo,,male ego's father's sister's son,,,Naess2017,Inferred; NA
+mFBeD,siwe,,male ego's father's brother's daughter,,,Naess2017,Inferred; NA
+mFByD,siwe,,male ego's father's brother's daughter,,,Naess2017,Inferred; NA
+mFZeD,sibo,,male ego's father's sister's daughter,,,Naess2017,Inferred; NA
+mFZyD,sibo,,male ego's father's sister's daughter,,,Naess2017,Inferred; NA
+mMBeS,gibo,,male ego's mother's brother's son,,,Naess2017,Inferred; NA
+mMByS,gibo,,male ego's mother's brother's son,,,Naess2017,Inferred; NA
+mMZeS,gite,,male ego's mother's sister's son,,,Naess2017,Inferred; NA
+mMZyS,gite,,male ego's mother's sister's son,,,Naess2017,Inferred; NA
+mMBeD,sibo,,male ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+mMByD,sibo,,male ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+mMZeD,siwe,,male ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+mMZyD,siwe,,male ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+fFeBS,ginuwe,,female ego's father's brother's son,,,Naess2017,Inferred; NA
+fFyBS,ginuwe,,female ego's father's brother's son,,,Naess2017,Inferred; NA
+fFeZS,gibo,,female ego's father's sister's son,,,Naess2017,Inferred; NA
+fFyZS,gibo,,female ego's father's sister's son,,,Naess2017,Inferred; NA
+fFeBD,site,,female ego's father's brother's daughter,,,Naess2017,Inferred; NA
+fFyBD,site,,female ego's father's brother's daughter,,,Naess2017,Inferred; NA
+fFeZD,sibo,,female ego's father's sister's daughter,,,Naess2017,Inferred; NA
+fFyZD,sibo,,female ego's father's sister's daughter,,,Naess2017,Inferred; NA
+fMeBS,gibo,,female ego's mother's brother's son,,,Naess2017,Inferred; NA
+fMyBS,gibo,,female ego's mother's brother's son,,,Naess2017,Inferred; NA
+fMeZS,ginuwe,,female ego's mother's sister's son,,,Naess2017,Inferred; NA
+fMyZS,ginuwe,,female ego's mother's sister's son,,,Naess2017,Inferred; NA
+fMeBD,sibo,,female ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+fMyBD,sibo,,female ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+fMeZD,site,,female ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+fMyZD,site,,female ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+fFBeS,ginuwe,,female ego's father's brother's son,,,Naess2017,Inferred; NA
+fFByS,ginuwe,,female ego's father's brother's son,,,Naess2017,Inferred; NA
+fFZeS,gibo,,female ego's father's sister's son,,,Naess2017,Inferred; NA
+fFZyS,gibo,,female ego's father's sister's son,,,Naess2017,Inferred; NA
+fFBeD,site,,female ego's father's brother's daughter,,,Naess2017,Inferred; NA
+fFByD,site,,female ego's father's brother's daughter,,,Naess2017,Inferred; NA
+fFZeD,sibo,,female ego's father's sister's daughter,,,Naess2017,Inferred; NA
+fFZyD,sibo,,female ego's father's sister's daughter,,,Naess2017,Inferred; NA
+fMBeS,gibo,,female ego's mother's brother's son,,,Naess2017,Inferred; NA
+fMByS,gibo,,female ego's mother's brother's son,,,Naess2017,Inferred; NA
+fMZeS,ginuwe,,female ego's mother's sister's son,,,Naess2017,Inferred; NA
+fMZyS,ginuwe,,female ego's mother's sister's son,,,Naess2017,Inferred; NA
+fMBeD,sibo,,female ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+fMByD,sibo,,female ego's mother's brother's daughter,,,Naess2017,Inferred; NA
+fMZeD,site,,female ego's mother's sister's daughter,,,Naess2017,Inferred; NA
+fMZyD,site,,female ego's mother's sister's daughter,,,Naess2017,Inferred; NA

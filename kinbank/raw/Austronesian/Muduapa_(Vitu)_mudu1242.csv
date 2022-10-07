@@ -1,99 +1,99 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tazi-na",,"male ego's older brother",,,,
-"myB","tazi-na",,"male ego's younger brother",,,,
-"feB","livuk-",,"female ego's older brother",,,,
-"fyB","livuk-",,"female ego's younger brother",,,,
-"meZ","livuk-",,"male ego's older sister",,,,
-"myZ","livuk-",,"male ego's younger sister",,,,
-"feZ","tazi-na",,"female ego's older sister",,,,
-"fyZ","tazi-na",,"female ego's younger sister",,,,
-"mF","tama-na",,"male ego's father",,,,
-"mM","titina-na",,"male ego's mother",,,,
-"fF","tama-na",,"female ego's father",,,,
-"fM","titina-na",,"female ego's mother",,,,
-"mS","tu-na, kana kapiru",,"male ego's son",,,,
-"fS","tu-na, kana kapiru",,"female ego's son",,,,
-"mD","tu-na, kana kapiru",,"male ego's daughter",,,,
-"fD","tu-na, kana kapiru",,"female ego's daughter",,,,
-"mFF","tubu",,"male ego's father‘s father",,,,
-"mFM","tubu",,"male ego's father's mother",,,,
-"mMF","tubu",,"male ego's mother's father",,,,
-"mMM","tubu",,"male ego's mother's mother",,,,
-"fFF","tubu",,"female ego's father's father",,,,
-"fFM","tubu",,"female ego's father's mother",,,,
-"fMF","tubu",,"female ego's mother's father",,,,
-"fMM","tubu",,"female ego's mother's mother",,,,
-"meZS","vahapa-na",,"male ego's older sister's son",,,,
-"myZS","vahapa-na",,"male ego's younger sister's son",,,,
-"meZD","vahapa-na",,"male ego's older sister's daughter",,,,
-"myZD","vahapa-na",,"male ego's younger sister's daughter",,,,
-"feZS","vahapa-na",,"female ego's older sister's son",,,,
-"fyZS","vahapa-na",,"female ego's younger sister's son",,,,
-"feZD","vahapa-na",,"female ego's older sister's daughter",,,,
-"fyZD","vahapa-na",,"female ego's younger sister's daughter",,,,
-"mFeB","tama-na",,"male ego's father's older brother",,,,
-"mFyB","tama-na",,"male ego's father's younger brother",,,,
-"mFeZ","kana toto",,"male ego's father's older sister",,,,
-"mFyZ","kana toto",,"male ego's father's younger sister",,,,
-"mMeB","vahapa-na",,"male ego's mother's older brother",,,,
-"mMyB","vahapa-na",,"male ego's mother's younger brother",,,,
-"mMeZ","vahapa-na",,"male ego's mother's older sister",,,,
-"mMyZ","vahapa-na",,"male ego's mother's younger sister",,,,
-"fFeB","tama-na",,"female ego's father's older brother",,,,
-"fFyB","tama-na",,"female ego's father's younger brother",,,,
-"fFeZ","kana toto",,"female ego's father's older sister",,,,
-"fFyZ","kana toto",,"female ego's father's younger sister",,,,
-"fMeB","vahapa-na",,"female ego's mother's older brother",,,,
-"fMyB","vahapa-na",,"female ego's mother's younger brother",,,,
-"fMeZ","vahapa-na",,"female ego's mother's older sister",,,,
-"fMyZ","vahapa-na",,"female ego's mother's younger sister",,,,
-"mW","go-na",,"male ego's wife",,,,
-"fH","go-na",,"female ego‘s husband",,,,
-"mWB","rava-na",,"male ego's wife's brother",,,,
-"mWZ","rava-na",,"male ego's wife's sister",,,,
-"fHB","rava-na",,"female ego's husband's brother",,,,
-"fHZ","rava-na",,"female ego's husband's sister",,,,
-"mBW","rava-na",,"male ego's brother's wife",,,,
-"fBW","rava-na",,"female ego's brother's wife",,,,
-"mZH","rava-na",,"male ego's sister's husband",,,,
-"fZH","rava-na",,"female ego's sister's husband",,,,
-"mFBS","tazi kapou",,"male ego's father's brother's son",,,,
-"mMZS","tazi kapou",,"male ego's mother's sister's son",,,,
-"mFBD","tazi kapou",,"male ego's father's brother's daughter",,,,
-"mMZD","tazi kapou",,"male ego's mother's sister's daughter",,,,
-"fFBS","tazi kapou",,"female ego's father's brother's son",,,,
-"fMZS","tazi kapou",,"female ego's mother's sister's son",,,,
-"fFBD","tazi kapou",,"female ego's father's brother's daughter",,,,
-"fMZD","tazi kapou",,"female ego's mother's sister's daughter",,,,
-"mFeBS","tazi kapou",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","tazi kapou",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeBD","tazi kapou",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","tazi kapou",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mMeZS","tazi kapou",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","tazi kapou",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeZD","tazi kapou",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","tazi kapou",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","tazi kapou",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","tazi kapou",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFBeD","tazi kapou",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","tazi kapou",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mMZeS","tazi kapou",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","tazi kapou",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZeD","tazi kapou",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","tazi kapou",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","tazi kapou",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","tazi kapou",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeBD","tazi kapou",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","tazi kapou",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fMeZS","tazi kapou",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","tazi kapou",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeZD","tazi kapou",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","tazi kapou",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","tazi kapou",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","tazi kapou",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFBeD","tazi kapou",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","tazi kapou",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fMZeS","tazi kapou",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","tazi kapou",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZeD","tazi kapou",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","tazi kapou",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,tazi-na,,male ego's older brother,,,vandenberg2006,
+myB,tazi-na,,male ego's younger brother,,,vandenberg2006,
+feB,livuk-,,female ego's older brother,,,vandenberg2006,
+fyB,livuk-,,female ego's younger brother,,,vandenberg2006,
+meZ,livuk-,,male ego's older sister,,,vandenberg2006,
+myZ,livuk-,,male ego's younger sister,,,vandenberg2006,
+feZ,tazi-na,,female ego's older sister,,,vandenberg2006,
+fyZ,tazi-na,,female ego's younger sister,,,vandenberg2006,
+mF,tama-na,,male ego's father,,,vandenberg2006,
+mM,titina-na,,male ego's mother,,,vandenberg2006,
+fF,tama-na,,female ego's father,,,vandenberg2006,
+fM,titina-na,,female ego's mother,,,vandenberg2006,
+mS,"tu-na, kana kapiru",,male ego's son,,,vandenberg2006,
+fS,"tu-na, kana kapiru",,female ego's son,,,vandenberg2006,
+mD,"tu-na, kana kapiru",,male ego's daughter,,,vandenberg2006,
+fD,"tu-na, kana kapiru",,female ego's daughter,,,vandenberg2006,
+mFF,tubu,,male ego's father‘s father,,,vandenberg2006,
+mFM,tubu,,male ego's father's mother,,,vandenberg2006,
+mMF,tubu,,male ego's mother's father,,,vandenberg2006,
+mMM,tubu,,male ego's mother's mother,,,vandenberg2006,
+fFF,tubu,,female ego's father's father,,,vandenberg2006,
+fFM,tubu,,female ego's father's mother,,,vandenberg2006,
+fMF,tubu,,female ego's mother's father,,,vandenberg2006,
+fMM,tubu,,female ego's mother's mother,,,vandenberg2006,
+meZS,vahapa-na,,male ego's older sister's son,,,vandenberg2006,
+myZS,vahapa-na,,male ego's younger sister's son,,,vandenberg2006,
+meZD,vahapa-na,,male ego's older sister's daughter,,,vandenberg2006,
+myZD,vahapa-na,,male ego's younger sister's daughter,,,vandenberg2006,
+feZS,vahapa-na,,female ego's older sister's son,,,vandenberg2006,
+fyZS,vahapa-na,,female ego's younger sister's son,,,vandenberg2006,
+feZD,vahapa-na,,female ego's older sister's daughter,,,vandenberg2006,
+fyZD,vahapa-na,,female ego's younger sister's daughter,,,vandenberg2006,
+mFeB,tama-na,,male ego's father's older brother,,,vandenberg2006,
+mFyB,tama-na,,male ego's father's younger brother,,,vandenberg2006,
+mFeZ,kana toto,,male ego's father's older sister,,,vandenberg2006,
+mFyZ,kana toto,,male ego's father's younger sister,,,vandenberg2006,
+mMeB,vahapa-na,,male ego's mother's older brother,,,vandenberg2006,
+mMyB,vahapa-na,,male ego's mother's younger brother,,,vandenberg2006,
+mMeZ,vahapa-na,,male ego's mother's older sister,,,vandenberg2006,
+mMyZ,vahapa-na,,male ego's mother's younger sister,,,vandenberg2006,
+fFeB,tama-na,,female ego's father's older brother,,,vandenberg2006,
+fFyB,tama-na,,female ego's father's younger brother,,,vandenberg2006,
+fFeZ,kana toto,,female ego's father's older sister,,,vandenberg2006,
+fFyZ,kana toto,,female ego's father's younger sister,,,vandenberg2006,
+fMeB,vahapa-na,,female ego's mother's older brother,,,vandenberg2006,
+fMyB,vahapa-na,,female ego's mother's younger brother,,,vandenberg2006,
+fMeZ,vahapa-na,,female ego's mother's older sister,,,vandenberg2006,
+fMyZ,vahapa-na,,female ego's mother's younger sister,,,vandenberg2006,
+mW,go-na,,male ego's wife,,,vandenberg2006,
+fH,go-na,,female ego‘s husband,,,vandenberg2006,
+mWB,rava-na,,male ego's wife's brother,,,vandenberg2006,
+mWZ,rava-na,,male ego's wife's sister,,,vandenberg2006,
+fHB,rava-na,,female ego's husband's brother,,,vandenberg2006,
+fHZ,rava-na,,female ego's husband's sister,,,vandenberg2006,
+mBW,rava-na,,male ego's brother's wife,,,vandenberg2006,
+fBW,rava-na,,female ego's brother's wife,,,vandenberg2006,
+mZH,rava-na,,male ego's sister's husband,,,vandenberg2006,
+fZH,rava-na,,female ego's sister's husband,,,vandenberg2006,
+mFBS,tazi kapou,,male ego's father's brother's son,,,vandenberg2006,
+mMZS,tazi kapou,,male ego's mother's sister's son,,,vandenberg2006,
+mFBD,tazi kapou,,male ego's father's brother's daughter,,,vandenberg2006,
+mMZD,tazi kapou,,male ego's mother's sister's daughter,,,vandenberg2006,
+fFBS,tazi kapou,,female ego's father's brother's son,,,vandenberg2006,
+fMZS,tazi kapou,,female ego's mother's sister's son,,,vandenberg2006,
+fFBD,tazi kapou,,female ego's father's brother's daughter,,,vandenberg2006,
+fMZD,tazi kapou,,female ego's mother's sister's daughter,,,vandenberg2006,
+mFeBS,tazi kapou,,male ego's father's brother's son,,,vandenberg2006,Inferred; NA
+mFyBS,tazi kapou,,male ego's father's brother's son,,,vandenberg2006,Inferred; NA
+mFeBD,tazi kapou,,male ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+mFyBD,tazi kapou,,male ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+mMeZS,tazi kapou,,male ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+mMyZS,tazi kapou,,male ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+mMeZD,tazi kapou,,male ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+mMyZD,tazi kapou,,male ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+mFBeS,tazi kapou,,male ego's father's brother's son,,,vandenberg2006,Inferred; NA
+mFByS,tazi kapou,,male ego's father's brother's son,,,vandenberg2006,Inferred; NA
+mFBeD,tazi kapou,,male ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+mFByD,tazi kapou,,male ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+mMZeS,tazi kapou,,male ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+mMZyS,tazi kapou,,male ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+mMZeD,tazi kapou,,male ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+mMZyD,tazi kapou,,male ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+fFeBS,tazi kapou,,female ego's father's brother's son,,,vandenberg2006,Inferred; NA
+fFyBS,tazi kapou,,female ego's father's brother's son,,,vandenberg2006,Inferred; NA
+fFeBD,tazi kapou,,female ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+fFyBD,tazi kapou,,female ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+fMeZS,tazi kapou,,female ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+fMyZS,tazi kapou,,female ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+fMeZD,tazi kapou,,female ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+fMyZD,tazi kapou,,female ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+fFBeS,tazi kapou,,female ego's father's brother's son,,,vandenberg2006,Inferred; NA
+fFByS,tazi kapou,,female ego's father's brother's son,,,vandenberg2006,Inferred; NA
+fFBeD,tazi kapou,,female ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+fFByD,tazi kapou,,female ego's father's brother's daughter,,,vandenberg2006,Inferred; NA
+fMZeS,tazi kapou,,female ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+fMZyS,tazi kapou,,female ego's mother's sister's son,,,vandenberg2006,Inferred; NA
+fMZeD,tazi kapou,,female ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA
+fMZyD,tazi kapou,,female ego's mother's sister's daughter,,,vandenberg2006,Inferred; NA

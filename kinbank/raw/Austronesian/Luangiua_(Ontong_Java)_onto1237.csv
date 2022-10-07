@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","hangau, kainga",,"male ego's older brother",,,,
-"myB","hangau, kainga",,"male ego's younger brother",,,,
-"feB","ave",,"female ego's older brother",,,,
-"fyB","ave",,"female ego's younger brother",,,,
-"meZ","ave",,"male ego's older sister",,,,
-"myZ","ave",,"male ego's younger sister",,,,
-"feZ","hangau, kainga",,"female ego's older sister",,,,
-"fyZ","hangau, kainga",,"female ego's younger sister",,,,
-"mF","kamangaa",,"male ego's father",,,,
-"mM","kinga",,"male ego's mother",,,,
-"fF","kamangaa",,"female ego's father",,,,
-"fM","kinga",,"female ego's mother",,,,
-"mS","kama",,"male ego's son",,,,
-"fS","kama",,"female ego's son",,,,
-"mD","kama",,"male ego's daughter",,,,
-"fD","kama",,"female ego's daughter",,,,
-"mSS","mopunga",,"male ego's son's son",,,,
-"mSD","mopunga",,"male ego's son's daughter",,,,
-"mDS","mopunga",,"male ego's daughter's son",,,,
-"mDD","mopunga",,"male ego's daughter's daughter",,,,
-"fSS","mopunga",,"female ego's son's son",,,,
-"fSD","mopunga",,"female ego's son's daughter",,,,
-"fDS","mopunga",,"female ego's daughter's son",,,,
-"fDD","mopunga",,"female ego's daugher's daughter",,,,
-"mFF","kipunga",,"male ego's father‘s father",,,,
-"mFM","kipunga",,"male ego's father's mother",,,,
-"mMF","kipunga",,"male ego's mother's father",,,,
-"mMM","kipunga",,"male ego's mother's mother",,,,
-"fFF","kipunga",,"female ego's father's father",,,,
-"fFM","kipunga",,"female ego's father's mother",,,,
-"fMF","kipunga",,"female ego's mother's father",,,,
-"fMM","kipunga",,"female ego's mother's mother",,,,
-"meBS","kama",,"male ego's older brother's son",,,,
-"myBS","kama",,"male ego's younger brother's son",,,,
-"meZS","lamoku",,"male ego's older sister's son",,,,
-"myZS","lamoku",,"male ego's younger sister's son",,,,
-"meBD","kama",,"male ego's older brother's daughter",,,,
-"myBD","kama",,"male ego's younger brother's daughter",,,,
-"meZD","lamoku",,"male ego's older sister's daughter",,,,
-"myZD","lamoku",,"male ego's younger sister's daughter",,,,
-"feBS","kama",,"female ego's older brother's son",,,,
-"fyBS","kama",,"female ego's younger brother's son",,,,
-"feZS","kama",,"female ego's older sister's son",,,,
-"fyZS","kama",,"female ego's younger sister's son",,,,
-"feBD","kama",,"female ego's older brother's daughter",,,,
-"fyBD","kama",,"female ego's younger brother's daughter",,,,
-"feZD","kama",,"female ego's older sister's daughter",,,,
-"fyZD","kama",,"female ego's younger sister's daughter",,,,
-"mFeB","kamangaa",,"male ego's father's older brother",,,,
-"mFyB","kamangaa",,"male ego's father's younger brother",,,,
-"mFeZ","kinga",,"male ego's father's older sister",,,,
-"mFyZ","kinga",,"male ego's father's younger sister",,,,
-"mMeB","lamoku",,"male ego's mother's older brother",,,,
-"mMyB","lamoku",,"male ego's mother's younger brother",,,,
-"mMeZ","kinga",,"male ego's mother's older sister",,,,
-"mMyZ","kinga",,"male ego's mother's younger sister",,,,
-"fFeB","kamangaa",,"female ego's father's older brother",,,,
-"fFyB","kamangaa",,"female ego's father's younger brother",,,,
-"fFeZ","kinga",,"female ego's father's older sister",,,,
-"fFyZ","kinga",,"female ego's father's younger sister",,,,
-"fMeB","lamoku",,"female ego's mother's older brother",,,,
-"fMyB","lamoku",,"female ego's mother's younger brother",,,,
-"fMeZ","kinga",,"female ego's mother's older sister",,,,
-"fMyZ","kinga",,"female ego's mother's younger sister",,,,
-"mW","avanga",,"male ego's wife",,,,
-"fH","avanga",,"female ego‘s husband",,,,
-"mDH","hingaunga",,"male ego's daughter's husband",,,,
-"fDH","hingaunga",,"female ego's daughter's husband",,,,
-"mSW","hingaunga",,"male ego's son's wife",,,,
-"fSW","hingaunga",,"female ego's son's wife",,,,
-"mWF","hingaunga",,"male ego's wife's father",,,,
-"mWM","hingaunga",,"male ego's wife's mother",,,,
-"mWB","ma",,"male ego's wife's brother",,,,
-"mWZ","hangau, kainga",,"male ego's wife's sister",,,,
-"fHF","hingaunga",,"female ego's husband's father",,,,
-"fHM","hingaunga",,"female ego's husband's mother",,,,
-"fHB","hangau, kainga",,"female ego's husband's brother",,,,
-"fHZ","ma",,"female ego's husband's sister",,,,
-"mBW","hangau, kainga",,"male ego's brother's wife",,,,
-"fBW","ma",,"female ego's brother's wife",,,,
-"mZH","ma",,"male ego's sister's husband",,,,
-"fZH","hangau, kainga",,"female ego's sister's husband",,,,
-"mFBS","hangau, kainga",,"male ego's father's brother's son",,,,
-"mFZS","hangau, kainga",,"male ego's father's sister's son",,,,
-"mMBS","hangau, kainga",,"male ego's mother's brother's son",,,,
-"mMZS","hangau, kainga",,"male ego's mother's sister's son",,,,
-"mFBD","ave",,"male ego's father's brother's daughter",,,,
-"mFZD","ave",,"male ego's father's sister's daughter",,,,
-"mMBD","ave",,"male ego's mother's brother's daughter",,,,
-"mMZD","ave",,"male ego's mother's sister's daughter",,,,
-"fFBS","ave",,"female ego's father's brother's son",,,,
-"fFZS","ave",,"female ego's father's sister's son",,,,
-"fMBS","ave",,"female ego's mother's brother's son",,,,
-"fMZS","ave",,"female ego's mother's sister's son",,,,
-"fFBD","hangau, kainga",,"female ego's father's brother's daughter",,,,
-"fFZD","hangau, kainga",,"female ego's father's sister's daughter",,,,
-"fMBD","hangau, kainga",,"female ego's mother's brother's daughter",,,,
-"fMZD","hangau, kainga",,"female ego's mother's sister's daughter",,,,
-"mFeBS","hangau, kainga",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","hangau, kainga",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","hangau, kainga",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","hangau, kainga",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","ave",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","ave",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","ave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","ave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","hangau, kainga",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","hangau, kainga",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","hangau, kainga",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","hangau, kainga",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","ave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","ave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","ave",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","ave",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","hangau, kainga",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","hangau, kainga",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","hangau, kainga",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","hangau, kainga",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","ave",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","ave",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","ave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","ave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","hangau, kainga",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","hangau, kainga",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","hangau, kainga",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","hangau, kainga",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","ave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","ave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","ave",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","ave",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","ave",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","ave",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","ave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","ave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","hangau, kainga",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","hangau, kainga",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","hangau, kainga",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","hangau, kainga",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","ave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","ave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","ave",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","ave",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","hangau, kainga",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","hangau, kainga",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","hangau, kainga",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","hangau, kainga",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","ave",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","ave",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","ave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","ave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","hangau, kainga",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","hangau, kainga",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","hangau, kainga",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","hangau, kainga",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","ave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","ave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","ave",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","ave",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","hangau, kainga",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","hangau, kainga",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","hangau, kainga",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","hangau, kainga",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"hangau, kainga",,male ego's older brother,,,Marck1996,
+myB,"hangau, kainga",,male ego's younger brother,,,Marck1996,
+feB,ave,,female ego's older brother,,,Marck1996,
+fyB,ave,,female ego's younger brother,,,Marck1996,
+meZ,ave,,male ego's older sister,,,Marck1996,
+myZ,ave,,male ego's younger sister,,,Marck1996,
+feZ,"hangau, kainga",,female ego's older sister,,,Marck1996,
+fyZ,"hangau, kainga",,female ego's younger sister,,,Marck1996,
+mF,kamangaa,,male ego's father,,,Marck1996,
+mM,kinga,,male ego's mother,,,Marck1996,
+fF,kamangaa,,female ego's father,,,Marck1996,
+fM,kinga,,female ego's mother,,,Marck1996,
+mS,kama,,male ego's son,,,Marck1996,
+fS,kama,,female ego's son,,,Marck1996,
+mD,kama,,male ego's daughter,,,Marck1996,
+fD,kama,,female ego's daughter,,,Marck1996,
+mSS,mopunga,,male ego's son's son,,,Marck1996,
+mSD,mopunga,,male ego's son's daughter,,,Marck1996,
+mDS,mopunga,,male ego's daughter's son,,,Marck1996,
+mDD,mopunga,,male ego's daughter's daughter,,,Marck1996,
+fSS,mopunga,,female ego's son's son,,,Marck1996,
+fSD,mopunga,,female ego's son's daughter,,,Marck1996,
+fDS,mopunga,,female ego's daughter's son,,,Marck1996,
+fDD,mopunga,,female ego's daugher's daughter,,,Marck1996,
+mFF,kipunga,,male ego's father‘s father,,,Marck1996,
+mFM,kipunga,,male ego's father's mother,,,Marck1996,
+mMF,kipunga,,male ego's mother's father,,,Marck1996,
+mMM,kipunga,,male ego's mother's mother,,,Marck1996,
+fFF,kipunga,,female ego's father's father,,,Marck1996,
+fFM,kipunga,,female ego's father's mother,,,Marck1996,
+fMF,kipunga,,female ego's mother's father,,,Marck1996,
+fMM,kipunga,,female ego's mother's mother,,,Marck1996,
+meBS,kama,,male ego's older brother's son,,,Marck1996,
+myBS,kama,,male ego's younger brother's son,,,Marck1996,
+meZS,lamoku,,male ego's older sister's son,,,Marck1996,
+myZS,lamoku,,male ego's younger sister's son,,,Marck1996,
+meBD,kama,,male ego's older brother's daughter,,,Marck1996,
+myBD,kama,,male ego's younger brother's daughter,,,Marck1996,
+meZD,lamoku,,male ego's older sister's daughter,,,Marck1996,
+myZD,lamoku,,male ego's younger sister's daughter,,,Marck1996,
+feBS,kama,,female ego's older brother's son,,,Marck1996,
+fyBS,kama,,female ego's younger brother's son,,,Marck1996,
+feZS,kama,,female ego's older sister's son,,,Marck1996,
+fyZS,kama,,female ego's younger sister's son,,,Marck1996,
+feBD,kama,,female ego's older brother's daughter,,,Marck1996,
+fyBD,kama,,female ego's younger brother's daughter,,,Marck1996,
+feZD,kama,,female ego's older sister's daughter,,,Marck1996,
+fyZD,kama,,female ego's younger sister's daughter,,,Marck1996,
+mFeB,kamangaa,,male ego's father's older brother,,,Marck1996,
+mFyB,kamangaa,,male ego's father's younger brother,,,Marck1996,
+mFeZ,kinga,,male ego's father's older sister,,,Marck1996,
+mFyZ,kinga,,male ego's father's younger sister,,,Marck1996,
+mMeB,lamoku,,male ego's mother's older brother,,,Marck1996,
+mMyB,lamoku,,male ego's mother's younger brother,,,Marck1996,
+mMeZ,kinga,,male ego's mother's older sister,,,Marck1996,
+mMyZ,kinga,,male ego's mother's younger sister,,,Marck1996,
+fFeB,kamangaa,,female ego's father's older brother,,,Marck1996,
+fFyB,kamangaa,,female ego's father's younger brother,,,Marck1996,
+fFeZ,kinga,,female ego's father's older sister,,,Marck1996,
+fFyZ,kinga,,female ego's father's younger sister,,,Marck1996,
+fMeB,lamoku,,female ego's mother's older brother,,,Marck1996,
+fMyB,lamoku,,female ego's mother's younger brother,,,Marck1996,
+fMeZ,kinga,,female ego's mother's older sister,,,Marck1996,
+fMyZ,kinga,,female ego's mother's younger sister,,,Marck1996,
+mW,avanga,,male ego's wife,,,Marck1996,
+fH,avanga,,female ego‘s husband,,,Marck1996,
+mDH,hingaunga,,male ego's daughter's husband,,,Marck1996,
+fDH,hingaunga,,female ego's daughter's husband,,,Marck1996,
+mSW,hingaunga,,male ego's son's wife,,,Marck1996,
+fSW,hingaunga,,female ego's son's wife,,,Marck1996,
+mWF,hingaunga,,male ego's wife's father,,,Marck1996,
+mWM,hingaunga,,male ego's wife's mother,,,Marck1996,
+mWB,ma,,male ego's wife's brother,,,Marck1996,
+mWZ,"hangau, kainga",,male ego's wife's sister,,,Marck1996,
+fHF,hingaunga,,female ego's husband's father,,,Marck1996,
+fHM,hingaunga,,female ego's husband's mother,,,Marck1996,
+fHB,"hangau, kainga",,female ego's husband's brother,,,Marck1996,
+fHZ,ma,,female ego's husband's sister,,,Marck1996,
+mBW,"hangau, kainga",,male ego's brother's wife,,,Marck1996,
+fBW,ma,,female ego's brother's wife,,,Marck1996,
+mZH,ma,,male ego's sister's husband,,,Marck1996,
+fZH,"hangau, kainga",,female ego's sister's husband,,,Marck1996,
+mFBS,"hangau, kainga",,male ego's father's brother's son,,,Marck1996,
+mFZS,"hangau, kainga",,male ego's father's sister's son,,,Marck1996,
+mMBS,"hangau, kainga",,male ego's mother's brother's son,,,Marck1996,
+mMZS,"hangau, kainga",,male ego's mother's sister's son,,,Marck1996,
+mFBD,ave,,male ego's father's brother's daughter,,,Marck1996,
+mFZD,ave,,male ego's father's sister's daughter,,,Marck1996,
+mMBD,ave,,male ego's mother's brother's daughter,,,Marck1996,
+mMZD,ave,,male ego's mother's sister's daughter,,,Marck1996,
+fFBS,ave,,female ego's father's brother's son,,,Marck1996,
+fFZS,ave,,female ego's father's sister's son,,,Marck1996,
+fMBS,ave,,female ego's mother's brother's son,,,Marck1996,
+fMZS,ave,,female ego's mother's sister's son,,,Marck1996,
+fFBD,"hangau, kainga",,female ego's father's brother's daughter,,,Marck1996,
+fFZD,"hangau, kainga",,female ego's father's sister's daughter,,,Marck1996,
+fMBD,"hangau, kainga",,female ego's mother's brother's daughter,,,Marck1996,
+fMZD,"hangau, kainga",,female ego's mother's sister's daughter,,,Marck1996,
+mFeBS,"hangau, kainga",,male ego's father's brother's son,,,Marck1996,Inferred; NA
+mFyBS,"hangau, kainga",,male ego's father's brother's son,,,Marck1996,Inferred; NA
+mFeZS,"hangau, kainga",,male ego's father's sister's son,,,Marck1996,Inferred; NA
+mFyZS,"hangau, kainga",,male ego's father's sister's son,,,Marck1996,Inferred; NA
+mFeBD,ave,,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
+mFyBD,ave,,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
+mFeZD,ave,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
+mFyZD,ave,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
+mMeBS,"hangau, kainga",,male ego's mother's brother's son,,,Marck1996,Inferred; NA
+mMyBS,"hangau, kainga",,male ego's mother's brother's son,,,Marck1996,Inferred; NA
+mMeZS,"hangau, kainga",,male ego's mother's sister's son,,,Marck1996,Inferred; NA
+mMyZS,"hangau, kainga",,male ego's mother's sister's son,,,Marck1996,Inferred; NA
+mMeBD,ave,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+mMyBD,ave,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+mMeZD,ave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+mMyZD,ave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+mFBeS,"hangau, kainga",,male ego's father's brother's son,,,Marck1996,Inferred; NA
+mFByS,"hangau, kainga",,male ego's father's brother's son,,,Marck1996,Inferred; NA
+mFZeS,"hangau, kainga",,male ego's father's sister's son,,,Marck1996,Inferred; NA
+mFZyS,"hangau, kainga",,male ego's father's sister's son,,,Marck1996,Inferred; NA
+mFBeD,ave,,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
+mFByD,ave,,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
+mFZeD,ave,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
+mFZyD,ave,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
+mMBeS,"hangau, kainga",,male ego's mother's brother's son,,,Marck1996,Inferred; NA
+mMByS,"hangau, kainga",,male ego's mother's brother's son,,,Marck1996,Inferred; NA
+mMZeS,"hangau, kainga",,male ego's mother's sister's son,,,Marck1996,Inferred; NA
+mMZyS,"hangau, kainga",,male ego's mother's sister's son,,,Marck1996,Inferred; NA
+mMBeD,ave,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+mMByD,ave,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+mMZeD,ave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+mMZyD,ave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+fFeBS,ave,,female ego's father's brother's son,,,Marck1996,Inferred; NA
+fFyBS,ave,,female ego's father's brother's son,,,Marck1996,Inferred; NA
+fFeZS,ave,,female ego's father's sister's son,,,Marck1996,Inferred; NA
+fFyZS,ave,,female ego's father's sister's son,,,Marck1996,Inferred; NA
+fFeBD,"hangau, kainga",,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
+fFyBD,"hangau, kainga",,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
+fFeZD,"hangau, kainga",,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
+fFyZD,"hangau, kainga",,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
+fMeBS,ave,,female ego's mother's brother's son,,,Marck1996,Inferred; NA
+fMyBS,ave,,female ego's mother's brother's son,,,Marck1996,Inferred; NA
+fMeZS,ave,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
+fMyZS,ave,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
+fMeBD,"hangau, kainga",,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+fMyBD,"hangau, kainga",,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+fMeZD,"hangau, kainga",,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+fMyZD,"hangau, kainga",,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+fFBeS,ave,,female ego's father's brother's son,,,Marck1996,Inferred; NA
+fFByS,ave,,female ego's father's brother's son,,,Marck1996,Inferred; NA
+fFZeS,ave,,female ego's father's sister's son,,,Marck1996,Inferred; NA
+fFZyS,ave,,female ego's father's sister's son,,,Marck1996,Inferred; NA
+fFBeD,"hangau, kainga",,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
+fFByD,"hangau, kainga",,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
+fFZeD,"hangau, kainga",,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
+fFZyD,"hangau, kainga",,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
+fMBeS,ave,,female ego's mother's brother's son,,,Marck1996,Inferred; NA
+fMByS,ave,,female ego's mother's brother's son,,,Marck1996,Inferred; NA
+fMZeS,ave,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
+fMZyS,ave,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
+fMBeD,"hangau, kainga",,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+fMByD,"hangau, kainga",,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
+fMZeD,"hangau, kainga",,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+fMZyD,"hangau, kainga",,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA

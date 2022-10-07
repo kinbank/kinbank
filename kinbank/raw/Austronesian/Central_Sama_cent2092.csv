@@ -1,155 +1,155 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","siyaka",,"male ego's older brother",,,,
-"myB","siyali",,"male ego's younger brother",,,,
-"feB","siyaka",,"female ego's older brother",,,,
-"fyB","siyali",,"female ego's younger brother",,,,
-"meZ","siyaka",,"male ego's older sister",,,,
-"myZ","siyali",,"male ego's younger sister",,,,
-"feZ","siyaka",,"female ego's older sister",,,,
-"fyZ","siyali",,"female ego's younger sister",,,,
-"mF","ama'",,"male ego's father",,,,
-"mM","ina'",,"male ego's mother",,,,
-"fF","ama'",,"female ego's father",,,,
-"fM","ina'",,"female ego's mother",,,,
-"mS","anak",,"male ego's son",,,,
-"fS","anak",,"female ego's son",,,,
-"mD","anak",,"male ego's daughter",,,,
-"fD","anak",,"female ego's daughter",,,,
-"mSS","mbo'",,"male ego's son's son",,,,
-"mSD","mbo'",,"male ego's son's daughter",,,,
-"mDS","mbo'",,"male ego's daughter's son",,,,
-"mDD","mbo'",,"male ego's daughter's daughter",,,,
-"fSS","mbo'",,"female ego's son's son",,,,
-"fSD","mbo'",,"female ego's son's daughter",,,,
-"fDS","mbo'",,"female ego's daughter's son",,,,
-"fDD","mbo'",,"female ego's daugher's daughter",,,,
-"mFF","mbo'",,"male ego's father‘s father",,,,
-"mFM","mbo'",,"male ego's father's mother",,,,
-"mMF","mbo'",,"male ego's mother's father",,,,
-"mMM","mbo'",,"male ego's mother's mother",,,,
-"fFF","mbo'",,"female ego's father's father",,,,
-"fFM","mbo'",,"female ego's father's mother",,,,
-"fMF","mbo'",,"female ego's mother's father",,,,
-"fMM","mbo'",,"female ego's mother's mother",,,,
-"meBS","kamanakan",,"male ego's older brother's son",,,,
-"myBS","kamanakan",,"male ego's younger brother's son",,,,
-"meZS","kamanakan",,"male ego's older sister's son",,,,
-"myZS","kamanakan",,"male ego's younger sister's son",,,,
-"meBD","kamanakan",,"male ego's older brother's daughter",,,,
-"myBD","kamanakan",,"male ego's younger brother's daughter",,,,
-"meZD","kamanakan",,"male ego's older sister's daughter",,,,
-"myZD","kamanakan",,"male ego's younger sister's daughter",,,,
-"feBS","kamanakan",,"female ego's older brother's son",,,,
-"fyBS","kamanakan",,"female ego's younger brother's son",,,,
-"feZS","kamanakan",,"female ego's older sister's son",,,,
-"fyZS","kamanakan",,"female ego's younger sister's son",,,,
-"feBD","kamanakan",,"female ego's older brother's daughter",,,,
-"fyBD","kamanakan",,"female ego's younger brother's daughter",,,,
-"feZD","kamanakan",,"female ego's older sister's daughter",,,,
-"fyZD","kamanakan",,"female ego's younger sister's daughter",,,,
-"mFeB","bapa'",,"male ego's father's older brother",,,,
-"mFyB","bapa'",,"male ego's father's younger brother",,,,
-"mFeZ","babu'",,"male ego's father's older sister",,,,
-"mFyZ","babu'",,"male ego's father's younger sister",,,,
-"mMeB","bapa'",,"male ego's mother's older brother",,,,
-"mMyB","bapa'",,"male ego's mother's younger brother",,,,
-"mMeZ","babu'",,"male ego's mother's older sister",,,,
-"mMyZ","babu'",,"male ego's mother's younger sister",,,,
-"fFeB","bapa'",,"female ego's father's older brother",,,,
-"fFyB","bapa'",,"female ego's father's younger brother",,,,
-"fFeZ","babu'",,"female ego's father's older sister",,,,
-"fFyZ","babu'",,"female ego's father's younger sister",,,,
-"fMeB","bapa'",,"female ego's mother's older brother",,,,
-"fMyB","bapa'",,"female ego's mother's younger brother",,,,
-"fMeZ","babu'",,"female ego's mother's older sister",,,,
-"fMyZ","babu'",,"female ego's mother's younger sister",,,,
-"mW","paghola', h'nda",,"male ego's wife",,,,
-"fH","paghola', h'lla",,"female ego‘s husband",,,,
-"mDH","ayuwan",,"male ego's daughter's husband",,,,
-"fDH","ayuwan",,"female ego's daughter's husband",,,,
-"mSW","ayuwan",,"male ego's son's wife",,,,
-"fSW","ayuwan",,"female ego's son's wife",,,,
-"mWF","mato'a",,"male ego's wife's father",,,,
-"mWM","mato'a",,"male ego's wife's mother",,,,
-"fHF","mato'a",,"female ego's husband's father",,,,
-"fHM","mato'a",,"female ego's husband's mother",,,,
-"mFBS","kaki",,"male ego's father's brother's son",,,,
-"mFZS","kaki",,"male ego's father's sister's son",,,,
-"mMBS","kaki",,"male ego's mother's brother's son",,,,
-"mMZS","kaki",,"male ego's mother's sister's son",,,,
-"mFBD","kaki",,"male ego's father's brother's daughter",,,,
-"mFZD","kaki",,"male ego's father's sister's daughter",,,,
-"mMBD","kaki",,"male ego's mother's brother's daughter",,,,
-"mMZD","kaki",,"male ego's mother's sister's daughter",,,,
-"fFBS","kaki",,"female ego's father's brother's son",,,,
-"fFZS","kaki",,"female ego's father's sister's son",,,,
-"fMBS","kaki",,"female ego's mother's brother's son",,,,
-"fMZS","kaki",,"female ego's mother's sister's son",,,,
-"fFBD","kaki",,"female ego's father's brother's daughter",,,,
-"fFZD","kaki",,"female ego's father's sister's daughter",,,,
-"fMBD","kaki",,"female ego's mother's brother's daughter",,,,
-"fMZD","kaki",,"female ego's mother's sister's daughter",,,,
-"mFeBS","kaki",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","kaki",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","kaki",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","kaki",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","kaki",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","kaki",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","kaki",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","kaki",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","kaki",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","kaki",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","kaki",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","kaki",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","kaki",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","kaki",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","kaki",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","kaki",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","kaki",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","kaki",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","kaki",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","kaki",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","kaki",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","kaki",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","kaki",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","kaki",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","kaki",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","kaki",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","kaki",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","kaki",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","kaki",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","kaki",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","kaki",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","kaki",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","kaki",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","kaki",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","kaki",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","kaki",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","kaki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","kaki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","kaki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","kaki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","kaki",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","kaki",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","kaki",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","kaki",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","kaki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","kaki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","kaki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","kaki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","kaki",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","kaki",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","kaki",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","kaki",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","kaki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","kaki",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","kaki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","kaki",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","kaki",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","kaki",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","kaki",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","kaki",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","kaki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","kaki",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","kaki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","kaki",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,siyaka,,male ego's older brother,,,samawebsite,
+myB,siyali,,male ego's younger brother,,,samawebsite,
+feB,siyaka,,female ego's older brother,,,samawebsite,
+fyB,siyali,,female ego's younger brother,,,samawebsite,
+meZ,siyaka,,male ego's older sister,,,samawebsite,
+myZ,siyali,,male ego's younger sister,,,samawebsite,
+feZ,siyaka,,female ego's older sister,,,samawebsite,
+fyZ,siyali,,female ego's younger sister,,,samawebsite,
+mF,ama',,male ego's father,,,samawebsite,
+mM,ina',,male ego's mother,,,samawebsite,
+fF,ama',,female ego's father,,,samawebsite,
+fM,ina',,female ego's mother,,,samawebsite,
+mS,anak,,male ego's son,,,samawebsite,
+fS,anak,,female ego's son,,,samawebsite,
+mD,anak,,male ego's daughter,,,samawebsite,
+fD,anak,,female ego's daughter,,,samawebsite,
+mSS,mbo',,male ego's son's son,,,samawebsite,
+mSD,mbo',,male ego's son's daughter,,,samawebsite,
+mDS,mbo',,male ego's daughter's son,,,samawebsite,
+mDD,mbo',,male ego's daughter's daughter,,,samawebsite,
+fSS,mbo',,female ego's son's son,,,samawebsite,
+fSD,mbo',,female ego's son's daughter,,,samawebsite,
+fDS,mbo',,female ego's daughter's son,,,samawebsite,
+fDD,mbo',,female ego's daugher's daughter,,,samawebsite,
+mFF,mbo',,male ego's father‘s father,,,samawebsite,
+mFM,mbo',,male ego's father's mother,,,samawebsite,
+mMF,mbo',,male ego's mother's father,,,samawebsite,
+mMM,mbo',,male ego's mother's mother,,,samawebsite,
+fFF,mbo',,female ego's father's father,,,samawebsite,
+fFM,mbo',,female ego's father's mother,,,samawebsite,
+fMF,mbo',,female ego's mother's father,,,samawebsite,
+fMM,mbo',,female ego's mother's mother,,,samawebsite,
+meBS,kamanakan,,male ego's older brother's son,,,samawebsite,
+myBS,kamanakan,,male ego's younger brother's son,,,samawebsite,
+meZS,kamanakan,,male ego's older sister's son,,,samawebsite,
+myZS,kamanakan,,male ego's younger sister's son,,,samawebsite,
+meBD,kamanakan,,male ego's older brother's daughter,,,samawebsite,
+myBD,kamanakan,,male ego's younger brother's daughter,,,samawebsite,
+meZD,kamanakan,,male ego's older sister's daughter,,,samawebsite,
+myZD,kamanakan,,male ego's younger sister's daughter,,,samawebsite,
+feBS,kamanakan,,female ego's older brother's son,,,samawebsite,
+fyBS,kamanakan,,female ego's younger brother's son,,,samawebsite,
+feZS,kamanakan,,female ego's older sister's son,,,samawebsite,
+fyZS,kamanakan,,female ego's younger sister's son,,,samawebsite,
+feBD,kamanakan,,female ego's older brother's daughter,,,samawebsite,
+fyBD,kamanakan,,female ego's younger brother's daughter,,,samawebsite,
+feZD,kamanakan,,female ego's older sister's daughter,,,samawebsite,
+fyZD,kamanakan,,female ego's younger sister's daughter,,,samawebsite,
+mFeB,bapa',,male ego's father's older brother,,,samawebsite,
+mFyB,bapa',,male ego's father's younger brother,,,samawebsite,
+mFeZ,babu',,male ego's father's older sister,,,samawebsite,
+mFyZ,babu',,male ego's father's younger sister,,,samawebsite,
+mMeB,bapa',,male ego's mother's older brother,,,samawebsite,
+mMyB,bapa',,male ego's mother's younger brother,,,samawebsite,
+mMeZ,babu',,male ego's mother's older sister,,,samawebsite,
+mMyZ,babu',,male ego's mother's younger sister,,,samawebsite,
+fFeB,bapa',,female ego's father's older brother,,,samawebsite,
+fFyB,bapa',,female ego's father's younger brother,,,samawebsite,
+fFeZ,babu',,female ego's father's older sister,,,samawebsite,
+fFyZ,babu',,female ego's father's younger sister,,,samawebsite,
+fMeB,bapa',,female ego's mother's older brother,,,samawebsite,
+fMyB,bapa',,female ego's mother's younger brother,,,samawebsite,
+fMeZ,babu',,female ego's mother's older sister,,,samawebsite,
+fMyZ,babu',,female ego's mother's younger sister,,,samawebsite,
+mW,"paghola', h'nda",,male ego's wife,,,samawebsite,
+fH,"paghola', h'lla",,female ego‘s husband,,,samawebsite,
+mDH,ayuwan,,male ego's daughter's husband,,,samawebsite,
+fDH,ayuwan,,female ego's daughter's husband,,,samawebsite,
+mSW,ayuwan,,male ego's son's wife,,,samawebsite,
+fSW,ayuwan,,female ego's son's wife,,,samawebsite,
+mWF,mato'a,,male ego's wife's father,,,samawebsite,
+mWM,mato'a,,male ego's wife's mother,,,samawebsite,
+fHF,mato'a,,female ego's husband's father,,,samawebsite,
+fHM,mato'a,,female ego's husband's mother,,,samawebsite,
+mFBS,kaki,,male ego's father's brother's son,,,samawebsite,
+mFZS,kaki,,male ego's father's sister's son,,,samawebsite,
+mMBS,kaki,,male ego's mother's brother's son,,,samawebsite,
+mMZS,kaki,,male ego's mother's sister's son,,,samawebsite,
+mFBD,kaki,,male ego's father's brother's daughter,,,samawebsite,
+mFZD,kaki,,male ego's father's sister's daughter,,,samawebsite,
+mMBD,kaki,,male ego's mother's brother's daughter,,,samawebsite,
+mMZD,kaki,,male ego's mother's sister's daughter,,,samawebsite,
+fFBS,kaki,,female ego's father's brother's son,,,samawebsite,
+fFZS,kaki,,female ego's father's sister's son,,,samawebsite,
+fMBS,kaki,,female ego's mother's brother's son,,,samawebsite,
+fMZS,kaki,,female ego's mother's sister's son,,,samawebsite,
+fFBD,kaki,,female ego's father's brother's daughter,,,samawebsite,
+fFZD,kaki,,female ego's father's sister's daughter,,,samawebsite,
+fMBD,kaki,,female ego's mother's brother's daughter,,,samawebsite,
+fMZD,kaki,,female ego's mother's sister's daughter,,,samawebsite,
+mFeBS,kaki,,male ego's father's brother's son,,,samawebsite,Inferred; NA
+mFyBS,kaki,,male ego's father's brother's son,,,samawebsite,Inferred; NA
+mFeZS,kaki,,male ego's father's sister's son,,,samawebsite,Inferred; NA
+mFyZS,kaki,,male ego's father's sister's son,,,samawebsite,Inferred; NA
+mFeBD,kaki,,male ego's father's brother's daughter,,,samawebsite,Inferred; NA
+mFyBD,kaki,,male ego's father's brother's daughter,,,samawebsite,Inferred; NA
+mFeZD,kaki,,male ego's father's sister's daughter,,,samawebsite,Inferred; NA
+mFyZD,kaki,,male ego's father's sister's daughter,,,samawebsite,Inferred; NA
+mMeBS,kaki,,male ego's mother's brother's son,,,samawebsite,Inferred; NA
+mMyBS,kaki,,male ego's mother's brother's son,,,samawebsite,Inferred; NA
+mMeZS,kaki,,male ego's mother's sister's son,,,samawebsite,Inferred; NA
+mMyZS,kaki,,male ego's mother's sister's son,,,samawebsite,Inferred; NA
+mMeBD,kaki,,male ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+mMyBD,kaki,,male ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+mMeZD,kaki,,male ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+mMyZD,kaki,,male ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+mFBeS,kaki,,male ego's father's brother's son,,,samawebsite,Inferred; NA
+mFByS,kaki,,male ego's father's brother's son,,,samawebsite,Inferred; NA
+mFZeS,kaki,,male ego's father's sister's son,,,samawebsite,Inferred; NA
+mFZyS,kaki,,male ego's father's sister's son,,,samawebsite,Inferred; NA
+mFBeD,kaki,,male ego's father's brother's daughter,,,samawebsite,Inferred; NA
+mFByD,kaki,,male ego's father's brother's daughter,,,samawebsite,Inferred; NA
+mFZeD,kaki,,male ego's father's sister's daughter,,,samawebsite,Inferred; NA
+mFZyD,kaki,,male ego's father's sister's daughter,,,samawebsite,Inferred; NA
+mMBeS,kaki,,male ego's mother's brother's son,,,samawebsite,Inferred; NA
+mMByS,kaki,,male ego's mother's brother's son,,,samawebsite,Inferred; NA
+mMZeS,kaki,,male ego's mother's sister's son,,,samawebsite,Inferred; NA
+mMZyS,kaki,,male ego's mother's sister's son,,,samawebsite,Inferred; NA
+mMBeD,kaki,,male ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+mMByD,kaki,,male ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+mMZeD,kaki,,male ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+mMZyD,kaki,,male ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+fFeBS,kaki,,female ego's father's brother's son,,,samawebsite,Inferred; NA
+fFyBS,kaki,,female ego's father's brother's son,,,samawebsite,Inferred; NA
+fFeZS,kaki,,female ego's father's sister's son,,,samawebsite,Inferred; NA
+fFyZS,kaki,,female ego's father's sister's son,,,samawebsite,Inferred; NA
+fFeBD,kaki,,female ego's father's brother's daughter,,,samawebsite,Inferred; NA
+fFyBD,kaki,,female ego's father's brother's daughter,,,samawebsite,Inferred; NA
+fFeZD,kaki,,female ego's father's sister's daughter,,,samawebsite,Inferred; NA
+fFyZD,kaki,,female ego's father's sister's daughter,,,samawebsite,Inferred; NA
+fMeBS,kaki,,female ego's mother's brother's son,,,samawebsite,Inferred; NA
+fMyBS,kaki,,female ego's mother's brother's son,,,samawebsite,Inferred; NA
+fMeZS,kaki,,female ego's mother's sister's son,,,samawebsite,Inferred; NA
+fMyZS,kaki,,female ego's mother's sister's son,,,samawebsite,Inferred; NA
+fMeBD,kaki,,female ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+fMyBD,kaki,,female ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+fMeZD,kaki,,female ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+fMyZD,kaki,,female ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+fFBeS,kaki,,female ego's father's brother's son,,,samawebsite,Inferred; NA
+fFByS,kaki,,female ego's father's brother's son,,,samawebsite,Inferred; NA
+fFZeS,kaki,,female ego's father's sister's son,,,samawebsite,Inferred; NA
+fFZyS,kaki,,female ego's father's sister's son,,,samawebsite,Inferred; NA
+fFBeD,kaki,,female ego's father's brother's daughter,,,samawebsite,Inferred; NA
+fFByD,kaki,,female ego's father's brother's daughter,,,samawebsite,Inferred; NA
+fFZeD,kaki,,female ego's father's sister's daughter,,,samawebsite,Inferred; NA
+fFZyD,kaki,,female ego's father's sister's daughter,,,samawebsite,Inferred; NA
+fMBeS,kaki,,female ego's mother's brother's son,,,samawebsite,Inferred; NA
+fMByS,kaki,,female ego's mother's brother's son,,,samawebsite,Inferred; NA
+fMZeS,kaki,,female ego's mother's sister's son,,,samawebsite,Inferred; NA
+fMZyS,kaki,,female ego's mother's sister's son,,,samawebsite,Inferred; NA
+fMBeD,kaki,,female ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+fMByD,kaki,,female ego's mother's brother's daughter,,,samawebsite,Inferred; NA
+fMZeD,kaki,,female ego's mother's sister's daughter,,,samawebsite,Inferred; NA
+fMZyD,kaki,,female ego's mother's sister's daughter,,,samawebsite,Inferred; NA

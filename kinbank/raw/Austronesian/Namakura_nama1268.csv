@@ -1,159 +1,159 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","suan, titi",,"male ego's older brother",,,,
-"myB","suan, titi",,"male ego's younger brother",,,,
-"feB","suan, titi",,"female ego's older brother",,,,
-"fyB","suan, titi",,"female ego's younger brother",,,,
-"meZ","ngkoren, nana",,"male ego's older sister",,,,
-"myZ","ngkoren, nana",,"male ego's younger sister",,,,
-"feZ","ngkoren, nana",,"female ego's older sister",,,,
-"fyZ","ngkoren, nana",,"female ego's younger sister",,,,
-"mF","taman, aba, poop",,"male ego's father",,,,
-"mM","anuh, bwilamw",,"male ego's mother",,,,
-"fF","taman, aba, poop",,"female ego's father",,,,
-"fM","anuh, bwilamw",,"female ego's mother",,,,
-"mS","natin",,"male ego's son",,,,
-"fS","natin",,"female ego's son",,,,
-"mD","natin",,"male ego's daughter",,,,
-"fD","natin",,"female ego's daughter",,,,
-"mSS","tahin",,"male ego's son's son",,,,
-"mSD","tahin",,"male ego's son's daughter",,,,
-"mDS","tahin",,"male ego's daughter's son",,,,
-"mDD","tahin",,"male ego's daughter's daughter",,,,
-"fSS","tahin",,"female ego's son's son",,,,
-"fSD","tahin",,"female ego's son's daughter",,,,
-"fDS","tahin",,"female ego's daughter's son",,,,
-"fDD","tahin",,"female ego's daugher's daughter",,,,
-"mFF","pupu",,"male ego's father‘s father",,,,
-"mFM","taat",,"male ego's father's mother",,,,
-"mMF","pupu",,"male ego's mother's father",,,,
-"mMM","taat",,"male ego's mother's mother",,,,
-"fFF","pupu",,"female ego's father's father",,,,
-"fFM","taat",,"female ego's father's mother",,,,
-"fMF","pupu",,"female ego's mother's father",,,,
-"fMM","taat",,"female ego's mother's mother",,,,
-"meBS","loan",,"male ego's older brother's son",,,,
-"myBS","loan",,"male ego's younger brother's son",,,,
-"meZS","loan",,"male ego's older sister's son",,,,
-"myZS","loan",,"male ego's younger sister's son",,,,
-"meBD","loan",,"male ego's older brother's daughter",,,,
-"myBD","loan",,"male ego's younger brother's daughter",,,,
-"meZD","loan",,"male ego's older sister's daughter",,,,
-"myZD","loan",,"male ego's younger sister's daughter",,,,
-"feBS","loan",,"female ego's older brother's son",,,,
-"fyBS","loan",,"female ego's younger brother's son",,,,
-"feZS","loan",,"female ego's older sister's son",,,,
-"fyZS","loan",,"female ego's younger sister's son",,,,
-"feBD","loan",,"female ego's older brother's daughter",,,,
-"fyBD","loan",,"female ego's younger brother's daughter",,,,
-"feZD","loan",,"female ego's older sister's daughter",,,,
-"fyZD","loan",,"female ego's younger sister's daughter",,,,
-"mFeB","taman, aba, poop",,"male ego's father's older brother",,,,
-"mFyB","taman, aba, poop",,"male ego's father's younger brother",,,,
-"mFeZ","miim, vingon",,"male ego's father's older sister",,,,
-"mFyZ","miim, vingon",,"male ego's father's younger sister",,,,
-"mMeB","lolo, tavalin",,"male ego's mother's older brother",,,,
-"mMyB","lolo, tavalin",,"male ego's mother's younger brother",,,,
-"mMeZ","anuh, bwilamw",,"male ego's mother's older sister",,,,
-"mMyZ","anuh, bwilamw",,"male ego's mother's younger sister",,,,
-"fFeB","taman, aba, poop",,"female ego's father's older brother",,,,
-"fFyB","taman, aba, poop",,"female ego's father's younger brother",,,,
-"fFeZ","miim, vingon",,"female ego's father's older sister",,,,
-"fFyZ","miim, vingon",,"female ego's father's younger sister",,,,
-"fMeB","lolo, tavalin",,"female ego's mother's older brother",,,,
-"fMyB","lolo, tavalin",,"female ego's mother's younger brother",,,,
-"fMeZ","anuh, bwilamw",,"female ego's mother's older sister",,,,
-"fMyZ","anuh, bwilamw",,"female ego's mother's younger sister",,,,
-"mW","hoan",,"male ego's wife",,,,
-"fH","hoan",,"female ego‘s husband",,,,
-"mWF","lolo, tavalin",,"male ego's wife's father",,,,
-"mWM","miim, vingon",,"male ego's wife's mother",,,,
-"mWB","tawian",,"male ego's wife's brother",,,,
-"mWZ","tawian",,"male ego's wife's sister",,,,
-"fHF","lolo, tavalin",,"female ego's husband's father",,,,
-"fHM","miim, vingon",,"female ego's husband's mother",,,,
-"fHB","tawian",,"female ego's husband's brother",,,,
-"fHZ","tawian",,"female ego's husband's sister",,,,
-"mBW","tawian",,"male ego's brother's wife",,,,
-"fBW","tawian",,"female ego's brother's wife",,,,
-"mZH","tawian",,"male ego's sister's husband",,,,
-"fZH","tawian",,"female ego's sister's husband",,,,
-"mFBS","hivang, tawian",,"male ego's father's brother's son",,,,
-"mFZS","hivang, tawian",,"male ego's father's sister's son",,,,
-"mMBS","hivang, tawian",,"male ego's mother's brother's son",,,,
-"mMZS","hivang, tawian",,"male ego's mother's sister's son",,,,
-"mFBD","vain, tawian",,"male ego's father's brother's daughter",,,,
-"mFZD","vain, tawian",,"male ego's father's sister's daughter",,,,
-"mMBD","vain, tawian",,"male ego's mother's brother's daughter",,,,
-"mMZD","vain, tawian",,"male ego's mother's sister's daughter",,,,
-"fFBS","hivang, tawian",,"female ego's father's brother's son",,,,
-"fFZS","hivang, tawian",,"female ego's father's sister's son",,,,
-"fMBS","hivang, tawian",,"female ego's mother's brother's son",,,,
-"fMZS","hivang, tawian",,"female ego's mother's sister's son",,,,
-"fFBD","vain, tawian",,"female ego's father's brother's daughter",,,,
-"fFZD","vain, tawian",,"female ego's father's sister's daughter",,,,
-"fMBD","vain, tawian",,"female ego's mother's brother's daughter",,,,
-"fMZD","vain, tawian",,"female ego's mother's sister's daughter",,,,
-"mFeBS","hivang, tawian",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","hivang, tawian",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","hivang, tawian",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","hivang, tawian",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","vain, tawian",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","vain, tawian",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","vain, tawian",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","vain, tawian",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","hivang, tawian",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","hivang, tawian",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","hivang, tawian",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","hivang, tawian",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","vain, tawian",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","vain, tawian",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","vain, tawian",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","vain, tawian",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","hivang, tawian",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","hivang, tawian",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","hivang, tawian",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","hivang, tawian",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","vain, tawian",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","vain, tawian",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","vain, tawian",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","vain, tawian",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","hivang, tawian",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","hivang, tawian",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","hivang, tawian",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","hivang, tawian",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","vain, tawian",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","vain, tawian",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","vain, tawian",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","vain, tawian",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","hivang, tawian",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","hivang, tawian",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","hivang, tawian",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","hivang, tawian",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","vain, tawian",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","vain, tawian",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","vain, tawian",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","vain, tawian",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","hivang, tawian",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","hivang, tawian",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","hivang, tawian",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","hivang, tawian",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","vain, tawian",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","vain, tawian",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","vain, tawian",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","vain, tawian",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","hivang, tawian",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","hivang, tawian",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","hivang, tawian",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","hivang, tawian",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","vain, tawian",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","vain, tawian",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","vain, tawian",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","vain, tawian",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","hivang, tawian",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","hivang, tawian",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","hivang, tawian",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","hivang, tawian",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","vain, tawian",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","vain, tawian",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","vain, tawian",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","vain, tawian",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"suan, titi",,male ego's older brother,,,GeorgeND,
+myB,"suan, titi",,male ego's younger brother,,,GeorgeND,
+feB,"suan, titi",,female ego's older brother,,,GeorgeND,
+fyB,"suan, titi",,female ego's younger brother,,,GeorgeND,
+meZ,"ngkoren, nana",,male ego's older sister,,,GeorgeND,
+myZ,"ngkoren, nana",,male ego's younger sister,,,GeorgeND,
+feZ,"ngkoren, nana",,female ego's older sister,,,GeorgeND,
+fyZ,"ngkoren, nana",,female ego's younger sister,,,GeorgeND,
+mF,"taman, aba, poop",,male ego's father,,,GeorgeND,
+mM,"anuh, bwilamw",,male ego's mother,,,GeorgeND,
+fF,"taman, aba, poop",,female ego's father,,,GeorgeND,
+fM,"anuh, bwilamw",,female ego's mother,,,GeorgeND,
+mS,natin,,male ego's son,,,GeorgeND,
+fS,natin,,female ego's son,,,GeorgeND,
+mD,natin,,male ego's daughter,,,GeorgeND,
+fD,natin,,female ego's daughter,,,GeorgeND,
+mSS,tahin,,male ego's son's son,,,GeorgeND,
+mSD,tahin,,male ego's son's daughter,,,GeorgeND,
+mDS,tahin,,male ego's daughter's son,,,GeorgeND,
+mDD,tahin,,male ego's daughter's daughter,,,GeorgeND,
+fSS,tahin,,female ego's son's son,,,GeorgeND,
+fSD,tahin,,female ego's son's daughter,,,GeorgeND,
+fDS,tahin,,female ego's daughter's son,,,GeorgeND,
+fDD,tahin,,female ego's daugher's daughter,,,GeorgeND,
+mFF,pupu,,male ego's father‘s father,,,GeorgeND,
+mFM,taat,,male ego's father's mother,,,GeorgeND,
+mMF,pupu,,male ego's mother's father,,,GeorgeND,
+mMM,taat,,male ego's mother's mother,,,GeorgeND,
+fFF,pupu,,female ego's father's father,,,GeorgeND,
+fFM,taat,,female ego's father's mother,,,GeorgeND,
+fMF,pupu,,female ego's mother's father,,,GeorgeND,
+fMM,taat,,female ego's mother's mother,,,GeorgeND,
+meBS,loan,,male ego's older brother's son,,,GeorgeND,
+myBS,loan,,male ego's younger brother's son,,,GeorgeND,
+meZS,loan,,male ego's older sister's son,,,GeorgeND,
+myZS,loan,,male ego's younger sister's son,,,GeorgeND,
+meBD,loan,,male ego's older brother's daughter,,,GeorgeND,
+myBD,loan,,male ego's younger brother's daughter,,,GeorgeND,
+meZD,loan,,male ego's older sister's daughter,,,GeorgeND,
+myZD,loan,,male ego's younger sister's daughter,,,GeorgeND,
+feBS,loan,,female ego's older brother's son,,,GeorgeND,
+fyBS,loan,,female ego's younger brother's son,,,GeorgeND,
+feZS,loan,,female ego's older sister's son,,,GeorgeND,
+fyZS,loan,,female ego's younger sister's son,,,GeorgeND,
+feBD,loan,,female ego's older brother's daughter,,,GeorgeND,
+fyBD,loan,,female ego's younger brother's daughter,,,GeorgeND,
+feZD,loan,,female ego's older sister's daughter,,,GeorgeND,
+fyZD,loan,,female ego's younger sister's daughter,,,GeorgeND,
+mFeB,"taman, aba, poop",,male ego's father's older brother,,,GeorgeND,
+mFyB,"taman, aba, poop",,male ego's father's younger brother,,,GeorgeND,
+mFeZ,"miim, vingon",,male ego's father's older sister,,,GeorgeND,
+mFyZ,"miim, vingon",,male ego's father's younger sister,,,GeorgeND,
+mMeB,"lolo, tavalin",,male ego's mother's older brother,,,GeorgeND,
+mMyB,"lolo, tavalin",,male ego's mother's younger brother,,,GeorgeND,
+mMeZ,"anuh, bwilamw",,male ego's mother's older sister,,,GeorgeND,
+mMyZ,"anuh, bwilamw",,male ego's mother's younger sister,,,GeorgeND,
+fFeB,"taman, aba, poop",,female ego's father's older brother,,,GeorgeND,
+fFyB,"taman, aba, poop",,female ego's father's younger brother,,,GeorgeND,
+fFeZ,"miim, vingon",,female ego's father's older sister,,,GeorgeND,
+fFyZ,"miim, vingon",,female ego's father's younger sister,,,GeorgeND,
+fMeB,"lolo, tavalin",,female ego's mother's older brother,,,GeorgeND,
+fMyB,"lolo, tavalin",,female ego's mother's younger brother,,,GeorgeND,
+fMeZ,"anuh, bwilamw",,female ego's mother's older sister,,,GeorgeND,
+fMyZ,"anuh, bwilamw",,female ego's mother's younger sister,,,GeorgeND,
+mW,hoan,,male ego's wife,,,GeorgeND,
+fH,hoan,,female ego‘s husband,,,GeorgeND,
+mWF,"lolo, tavalin",,male ego's wife's father,,,GeorgeND,
+mWM,"miim, vingon",,male ego's wife's mother,,,GeorgeND,
+mWB,tawian,,male ego's wife's brother,,,GeorgeND,
+mWZ,tawian,,male ego's wife's sister,,,GeorgeND,
+fHF,"lolo, tavalin",,female ego's husband's father,,,GeorgeND,
+fHM,"miim, vingon",,female ego's husband's mother,,,GeorgeND,
+fHB,tawian,,female ego's husband's brother,,,GeorgeND,
+fHZ,tawian,,female ego's husband's sister,,,GeorgeND,
+mBW,tawian,,male ego's brother's wife,,,GeorgeND,
+fBW,tawian,,female ego's brother's wife,,,GeorgeND,
+mZH,tawian,,male ego's sister's husband,,,GeorgeND,
+fZH,tawian,,female ego's sister's husband,,,GeorgeND,
+mFBS,"hivang, tawian",,male ego's father's brother's son,,,GeorgeND,
+mFZS,"hivang, tawian",,male ego's father's sister's son,,,GeorgeND,
+mMBS,"hivang, tawian",,male ego's mother's brother's son,,,GeorgeND,
+mMZS,"hivang, tawian",,male ego's mother's sister's son,,,GeorgeND,
+mFBD,"vain, tawian",,male ego's father's brother's daughter,,,GeorgeND,
+mFZD,"vain, tawian",,male ego's father's sister's daughter,,,GeorgeND,
+mMBD,"vain, tawian",,male ego's mother's brother's daughter,,,GeorgeND,
+mMZD,"vain, tawian",,male ego's mother's sister's daughter,,,GeorgeND,
+fFBS,"hivang, tawian",,female ego's father's brother's son,,,GeorgeND,
+fFZS,"hivang, tawian",,female ego's father's sister's son,,,GeorgeND,
+fMBS,"hivang, tawian",,female ego's mother's brother's son,,,GeorgeND,
+fMZS,"hivang, tawian",,female ego's mother's sister's son,,,GeorgeND,
+fFBD,"vain, tawian",,female ego's father's brother's daughter,,,GeorgeND,
+fFZD,"vain, tawian",,female ego's father's sister's daughter,,,GeorgeND,
+fMBD,"vain, tawian",,female ego's mother's brother's daughter,,,GeorgeND,
+fMZD,"vain, tawian",,female ego's mother's sister's daughter,,,GeorgeND,
+mFeBS,"hivang, tawian",,male ego's father's brother's son,,,GeorgeND,Inferred; NA
+mFyBS,"hivang, tawian",,male ego's father's brother's son,,,GeorgeND,Inferred; NA
+mFeZS,"hivang, tawian",,male ego's father's sister's son,,,GeorgeND,Inferred; NA
+mFyZS,"hivang, tawian",,male ego's father's sister's son,,,GeorgeND,Inferred; NA
+mFeBD,"vain, tawian",,male ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+mFyBD,"vain, tawian",,male ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+mFeZD,"vain, tawian",,male ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+mFyZD,"vain, tawian",,male ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+mMeBS,"hivang, tawian",,male ego's mother's brother's son,,,GeorgeND,Inferred; NA
+mMyBS,"hivang, tawian",,male ego's mother's brother's son,,,GeorgeND,Inferred; NA
+mMeZS,"hivang, tawian",,male ego's mother's sister's son,,,GeorgeND,Inferred; NA
+mMyZS,"hivang, tawian",,male ego's mother's sister's son,,,GeorgeND,Inferred; NA
+mMeBD,"vain, tawian",,male ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+mMyBD,"vain, tawian",,male ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+mMeZD,"vain, tawian",,male ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+mMyZD,"vain, tawian",,male ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+mFBeS,"hivang, tawian",,male ego's father's brother's son,,,GeorgeND,Inferred; NA
+mFByS,"hivang, tawian",,male ego's father's brother's son,,,GeorgeND,Inferred; NA
+mFZeS,"hivang, tawian",,male ego's father's sister's son,,,GeorgeND,Inferred; NA
+mFZyS,"hivang, tawian",,male ego's father's sister's son,,,GeorgeND,Inferred; NA
+mFBeD,"vain, tawian",,male ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+mFByD,"vain, tawian",,male ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+mFZeD,"vain, tawian",,male ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+mFZyD,"vain, tawian",,male ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+mMBeS,"hivang, tawian",,male ego's mother's brother's son,,,GeorgeND,Inferred; NA
+mMByS,"hivang, tawian",,male ego's mother's brother's son,,,GeorgeND,Inferred; NA
+mMZeS,"hivang, tawian",,male ego's mother's sister's son,,,GeorgeND,Inferred; NA
+mMZyS,"hivang, tawian",,male ego's mother's sister's son,,,GeorgeND,Inferred; NA
+mMBeD,"vain, tawian",,male ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+mMByD,"vain, tawian",,male ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+mMZeD,"vain, tawian",,male ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+mMZyD,"vain, tawian",,male ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+fFeBS,"hivang, tawian",,female ego's father's brother's son,,,GeorgeND,Inferred; NA
+fFyBS,"hivang, tawian",,female ego's father's brother's son,,,GeorgeND,Inferred; NA
+fFeZS,"hivang, tawian",,female ego's father's sister's son,,,GeorgeND,Inferred; NA
+fFyZS,"hivang, tawian",,female ego's father's sister's son,,,GeorgeND,Inferred; NA
+fFeBD,"vain, tawian",,female ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+fFyBD,"vain, tawian",,female ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+fFeZD,"vain, tawian",,female ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+fFyZD,"vain, tawian",,female ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+fMeBS,"hivang, tawian",,female ego's mother's brother's son,,,GeorgeND,Inferred; NA
+fMyBS,"hivang, tawian",,female ego's mother's brother's son,,,GeorgeND,Inferred; NA
+fMeZS,"hivang, tawian",,female ego's mother's sister's son,,,GeorgeND,Inferred; NA
+fMyZS,"hivang, tawian",,female ego's mother's sister's son,,,GeorgeND,Inferred; NA
+fMeBD,"vain, tawian",,female ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+fMyBD,"vain, tawian",,female ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+fMeZD,"vain, tawian",,female ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+fMyZD,"vain, tawian",,female ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+fFBeS,"hivang, tawian",,female ego's father's brother's son,,,GeorgeND,Inferred; NA
+fFByS,"hivang, tawian",,female ego's father's brother's son,,,GeorgeND,Inferred; NA
+fFZeS,"hivang, tawian",,female ego's father's sister's son,,,GeorgeND,Inferred; NA
+fFZyS,"hivang, tawian",,female ego's father's sister's son,,,GeorgeND,Inferred; NA
+fFBeD,"vain, tawian",,female ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+fFByD,"vain, tawian",,female ego's father's brother's daughter,,,GeorgeND,Inferred; NA
+fFZeD,"vain, tawian",,female ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+fFZyD,"vain, tawian",,female ego's father's sister's daughter,,,GeorgeND,Inferred; NA
+fMBeS,"hivang, tawian",,female ego's mother's brother's son,,,GeorgeND,Inferred; NA
+fMByS,"hivang, tawian",,female ego's mother's brother's son,,,GeorgeND,Inferred; NA
+fMZeS,"hivang, tawian",,female ego's mother's sister's son,,,GeorgeND,Inferred; NA
+fMZyS,"hivang, tawian",,female ego's mother's sister's son,,,GeorgeND,Inferred; NA
+fMBeD,"vain, tawian",,female ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+fMByD,"vain, tawian",,female ego's mother's brother's daughter,,,GeorgeND,Inferred; NA
+fMZeD,"vain, tawian",,female ego's mother's sister's daughter,,,GeorgeND,Inferred; NA
+fMZyD,"vain, tawian",,female ego's mother's sister's daughter,,,GeorgeND,Inferred; NA

@@ -647,7 +647,7 @@ p_dzonghkashadzon1239,Dzonghka_Sha_dzon1239,dzon1239,dzo,Dzongkha,Sino-Tibetan,2
 p_dzonghkawangwang1287,Dzonghka_Wang_wang1287,wang1287,,Wang-The,Sino-Tibetan,,,parabank,Dzonghka Wang wang1287.txt,,,,Parabank
 p_eastambaelolovolieast2443,East_Ambae_(Lolovoli)_east2443,east2443,omb,East Ambae,Austronesian,-15.3523,167.89,parabank,East Ambae (Lolovoli) east2443.txt,,,,Parabank
 p_eastfutunaeast2447,East_Futuna_east2447,east2447,fud,East Futuna,Austronesian,-14.278717,-178.137222,parabank,East Futuna east2447.txt,,,,Parabank
-p_eastkaveeast2516,East_Kave_east2516,east2516,kjs,East Kewa,Nuclear Trans New Guinea,-6.32989,143.931,parabank,East Kave east2516.txt,20170328.0,,,Parabank
+p_eastkaveeast2516,East_Kewa_east2516,east2516,kjs,East Kewa,Nuclear Trans New Guinea,-6.32989,143.931,parabank,East_Kewa_east2516.txt,20170328.0,,,Parabank
 p_emaemaeemae1237,Emae_(Mae)_emae1237,emae1237,mmw,Emae,Austronesian,-17.052,168.399,parabank,Emae (Mae) emae1237.txt,20171031.0,,,Parabank
 p_emauemaoislandemau1237,Emau_(Emao_Island)_emau1237,emau1237,,Emau,Austronesian,,,parabank,Emau (Emao Island) emau1237.txt,20180123.0,,,Parabank
 p_endepapuanewguineaende1235,Ende_(Papua_New_Guinea)_ende1235,ende1235,,Ende (Papua New Guinea),,-8.957786,142.240799,parabank,Ende (Papua New Guinea) ende1235.txt,20171113.0,,,Parabank
@@ -708,7 +708,7 @@ p_kilivilakili1267,Kilivila_kili1267,kili1267,kij,Kilivila,Austronesian,-8.72574
 p_kiputkipu1237,Kiput_kipu1237,kipu1237,kyi,Kiput,Austronesian,4.16535,114.367,parabank,Kiput kipu1237.txt,20161202.0,,,Parabank
 p_kiramankira1248,Kiraman_kira1248,kira1248,,Kiramang,,,,parabank,Kiraman kira1248.txt,20170621.0,,,Parabank
 p_kiwaiankiwa1251,Kiwaian_kiwa1251,kiwa1251,,Kiwaian,,,,parabank,Kiwaian kiwa1251.txt,,,,Parabank
-p_klonklon1234,Klon_klon1234,klon1234,,Klon-Kafoa,,,,parabank,Klon klon1234.txt,20161124.0,,,Parabank
+p_klonklon1234,Klon_kelo1247,kelo1247,,Klon-Kafoa,,,,parabank,Klon kelo1247.txt,20161124.0,,,Parabank
 p_kodeohakode1237,Kodeoha_kode1237,kode1237,vko,Kodeoha,Austronesian,-3.39566,120.937,parabank,Kodeoha kode1237.txt,20161209.0,,,Parabank
 p_kogicogu1240,Kogi_cogu1240,cogu1240,kog,Cogui,,10.9485,-73.8043,parabank,Kogi_cogu1240.txt,20191115.0,,,Parabank
 p_koiarigras1249,Koiari_gras1249,gras1249,kbk,Grass Koiari,,-9.51218,147.437,parabank,Koiari gras1249.txt,20161205.0,,,Parabank
@@ -1121,6 +1121,8 @@ p_yukultaganggalidagang1267a,Yukulta_(Ganggalida)_gang1267a,gang1267,gcd,Ganggal
 p_yuracareyura1255,Yuracare_yura1255,yura1255,yuz,Yuracaré,,-16.7479,-65.1224,parabank,Yuracare yura1255.txt,20170220.0,,,Parabank
 p_zabanakiazaba1237,Zabana_(Kia)_zaba1237,zaba1237,kji,Zabana,Austronesian,-7.74311,158.753,parabank,Zabana (Kia) zaba1237.txt,20170627.0,,,Parabank
 p_lebanesearabicstan1323,Lebanese_Arabic_stan1323,stan1323,,Standard Lebanese Arabic,Afro-Asiatic,34.17,36.05,parabank,Lebanese_Arabic_stan1323.csv,,,,Parabank
+p_marra,Marra_mara1385,mara1385,mec,Marra,Other,,,parabank,Marra_mara1385.csv,20220920.0,,,Parabank
+p_kriolroperriver,Kriol_Roper_River_krio1252,krio1252,rop,Kriol (Roper River),Indo-European,,,parabank,Kriol_Roper_River_krio1252.csv,20220920.0,,,Parabank
 p_finnishfinn1318,Finnish_finn1318,finn1318,fin,Finnish,Uralic,64.7628,25.5577,parabank,Finnish finn1318.txt,20170901.0,,,Kinura
 v_erzyaerzy1239,Erzya_erzy1239,erzy1239,myv,Erzya,Uralic,52.8548,45.3901,varikin,Erzya_erzy1239.txt,,,,Kinura
 v_estonianesto1258,Estonian_esto1258,esto1258,ekk,Estonian,Uralic,58.55,25.82,varikin,Estonian_esto1258.txt,,,,Kinura
@@ -1131,6 +1133,7 @@ v_mansimans1258,Mansi_mans1258,mans1258,mns,Northern Mansi,Uralic,64.4118,61.344
 v_marieast2328,Mari_east2328,east2328,mhr,Eastern Mari,Uralic,55.8307,48.405,varikin,Mari_east2328.txt,,,,Kinura
 v_udmurtudmu1245,Udmurt_udmu1245,udmu1245,udm,Udmurt,Uralic,56.12921,52.63548,varikin,Udmurt_udmu1245.txt,,,,Kinura
 v_vepsveps1250,Veps_veps1250,veps1250,vep,Veps,Uralic,60.3353,34.7865,varikin,Veps_veps1250.txt,,,,Kinura
+kinura_skol1241,skol1241,skol1241,sms,Skolt Saami,Uralic,69.505596,28.592182,Kinura,,,,,Kinura
 v_acheache1246,Aché_ache1246,ache1246,guq,Aché,Tupian,-25.5865,-56.4697,varikin,Aché_ache1246.txt,,,,Goeldi
 v_anambeanam1249,Anambé_anam1249,anam1249,aan,Anambé,Tupian,-2.71119,-49.303,varikin,Anambé_anam1249.txt,,,,Goeldi
 v_arawetearaw1273,Araweté_araw1273,araw1273,awt,Araweté,Tupian,-4.90246,-52.5001,varikin,Araweté_araw1273.txt,,,,Goeldi
@@ -1167,3 +1170,4 @@ v_waimiriatroariwaim1253,Waimiri_Atroari_waim1253,waim1253,atr,Waimiri-Atroari,C
 v_awetiawet1244,Awetí_awet1244,awet1244,awe,Awetí,Tupian,-12.38,-53.39,varikin,Awetí_awet1244.txt,,,,Goeldi
 v_kamayurakama1373,Kamayurá_kama1373,kama1373,kay,Kamayurá,Tupian,-12.27,-53.47,varikin,Kamayurá_kama1373.txt,,,,Goeldi
 v_mbyaguaranimbya1239,Mbyá_Guaraní_mbya1239,mbya1239,gun,Mbyá Guaraní,Tupian,-26.02,-52.71,varikin,Mbyá_Guaraní_mbya1239.txt,,,,Goeldi
+v_prototupiguaranitupi1276,Proto_Tupi_Guarani_tupi1276,tupi1239,,Proto-Tupi-Guarani,Tupian,,,varikin,Proto_Tupi_Guarani_tupi1276.txt,,,,Goeldi

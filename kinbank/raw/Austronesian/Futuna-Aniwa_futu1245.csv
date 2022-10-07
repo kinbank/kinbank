@@ -1,112 +1,112 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","so, soa",,"male ego's older brother",,,,
-"myB","so, soa",,"male ego's younger brother",,,,
-"feB","kave",,"female ego's older brother",,,,
-"fyB","kave",,"female ego's younger brother",,,,
-"meZ","kave",,"male ego's older sister",,,,
-"myZ","kave",,"male ego's younger sister",,,,
-"feZ","so, soa",,"female ego's older sister",,,,
-"fyZ","so, soa",,"female ego's younger sister",,,,
-"mF","tamana",,"male ego's father",,,,
-"mM","toshinana",,"male ego's mother",,,,
-"fF","tamana",,"female ego's father",,,,
-"fM","toshinana",,"female ego's mother",,,,
-"mS","tariki",,"male ego's son",,,,
-"fS","tariki",,"female ego's son",,,,
-"mD","fine",,"male ego's daughter",,,,
-"fD","fine",,"female ego's daughter",,,,
-"mSS","mpupuna",,"male ego's son's son",,,,
-"mSD","mpupuna",,"male ego's son's daughter",,,,
-"mDS","mpupuna",,"male ego's daughter's son",,,,
-"mDD","mpupuna",,"male ego's daughter's daughter",,,,
-"fSS","mpupuna",,"female ego's son's son",,,,
-"fSD","mpupuna",,"female ego's son's daughter",,,,
-"fDS","mpupuna",,"female ego's daughter's son",,,,
-"fDD","mpupuna",,"female ego's daugher's daughter",,,,
-"mFF","tupuna",,"male ego's father‘s father",,,,
-"mFM","tupuna",,"male ego's father's mother",,,,
-"mMF","tupuna",,"male ego's mother's father",,,,
-"mMM","tupuna",,"male ego's mother's mother",,,,
-"fFF","tupuna",,"female ego's father's father",,,,
-"fFM","tupuna",,"female ego's father's mother",,,,
-"fMF","tupuna",,"female ego's mother's father",,,,
-"fMM","tupuna",,"female ego's mother's mother",,,,
-"meBS","tariki",,"male ego's older brother's son",,,,
-"myBS","tariki",,"male ego's younger brother's son",,,,
-"meZS","tariki",,"male ego's older sister's son",,,,
-"myZS","tariki",,"male ego's younger sister's son",,,,
-"meBD","raimutu",,"male ego's older brother's daughter",,,,
-"myBD","raimutu",,"male ego's younger brother's daughter",,,,
-"meZD","raimutu",,"male ego's older sister's daughter",,,,
-"myZD","raimutu",,"male ego's younger sister's daughter",,,,
-"feBS","raimutu",,"female ego's older brother's son",,,,
-"fyBS","raimutu",,"female ego's younger brother's son",,,,
-"feZS","raimutu",,"female ego's older sister's son",,,,
-"fyZS","raimutu",,"female ego's younger sister's son",,,,
-"feBD","raimutu",,"female ego's older brother's daughter",,,,
-"fyBD","raimutu",,"female ego's younger brother's daughter",,,,
-"feZD","raimutu",,"female ego's older sister's daughter",,,,
-"fyZD","raimutu",,"female ego's younger sister's daughter",,,,
-"mFeB","tamana",,"male ego's father's older brother",,,,
-"mFyB","tamana",,"male ego's father's younger brother",,,,
-"mFeZ","amahavai",,"male ego's father's older sister",,,,
-"mFyZ","amahavai",,"male ego's father's younger sister",,,,
-"mMeB","taruana, tomana, toshinana",,"male ego's mother's older brother",,,,
-"mMyB","taruana, tomana, toshinana",,"male ego's mother's younger brother",,,,
-"fFeB","tamana",,"female ego's father's older brother",,,,
-"fFyB","tamana",,"female ego's father's younger brother",,,,
-"fFeZ","amahavai",,"female ego's father's older sister",,,,
-"fFyZ","amahavai",,"female ego's father's younger sister",,,,
-"fMeB","taruana, tomana, toshinana",,"female ego's mother's older brother",,,,
-"fMyB","taruana, tomana, toshinana",,"female ego's mother's younger brother",,,,
-"fH","nuane, tomana",,"female ego‘s husband",,,,
-"mSW","fungona",,"male ego's son's wife",,,,
-"fSW","fungona",,"female ego's son's wife",,,,
-"mWF","tomana",,"male ego's wife's father",,,,
-"mWM","amahavai",,"male ego's wife's mother",,,,
-"mWB","safe",,"male ego's wife's brother",,,,
-"fHF","tomana",,"female ego's husband's father",,,,
-"fHM","amahavai",,"female ego's husband's mother",,,,
-"fHB","safe",,"female ego's husband's brother",,,,
-"mZH","safe",,"male ego's sister's husband",,,,
-"fZH","safe",,"female ego's sister's husband",,,,
-"mFZS","rarakave",,"male ego's father's sister's son",,,,
-"mMBS","rarakave",,"male ego's mother's brother's son",,,,
-"mFZD","rarakave",,"male ego's father's sister's daughter",,,,
-"mMBD","rarakave",,"male ego's mother's brother's daughter",,,,
-"fFZS","rarakave",,"female ego's father's sister's son",,,,
-"fMBS","rarakave",,"female ego's mother's brother's son",,,,
-"fFZD","rarakave",,"female ego's father's sister's daughter",,,,
-"fMBD","rarakave",,"female ego's mother's brother's daughter",,,,
-"mFeZS","rarakave",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","rarakave",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeZD","rarakave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","rarakave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","rarakave",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","rarakave",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeBD","rarakave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","rarakave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mFZeS","rarakave",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","rarakave",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZeD","rarakave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","rarakave",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","rarakave",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","rarakave",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMBeD","rarakave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","rarakave",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFeZS","rarakave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","rarakave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeZD","rarakave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","rarakave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","rarakave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","rarakave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeBD","rarakave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","rarakave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFZeS","rarakave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","rarakave",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZeD","rarakave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","rarakave",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","rarakave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","rarakave",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMBeD","rarakave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","rarakave",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"so, soa",,male ego's older brother,,,Capell1984,
+myB,"so, soa",,male ego's younger brother,,,Capell1984,
+feB,kave,,female ego's older brother,,,Capell1984,
+fyB,kave,,female ego's younger brother,,,Capell1984,
+meZ,kave,,male ego's older sister,,,Capell1984,
+myZ,kave,,male ego's younger sister,,,Capell1984,
+feZ,"so, soa",,female ego's older sister,,,Capell1984,
+fyZ,"so, soa",,female ego's younger sister,,,Capell1984,
+mF,tamana,,male ego's father,,,Capell1984,
+mM,toshinana,,male ego's mother,,,Capell1984,
+fF,tamana,,female ego's father,,,Capell1984,
+fM,toshinana,,female ego's mother,,,Capell1984,
+mS,tariki,,male ego's son,,,Capell1984,
+fS,tariki,,female ego's son,,,Capell1984,
+mD,fine,,male ego's daughter,,,Capell1984,
+fD,fine,,female ego's daughter,,,Capell1984,
+mSS,mpupuna,,male ego's son's son,,,Capell1984,
+mSD,mpupuna,,male ego's son's daughter,,,Capell1984,
+mDS,mpupuna,,male ego's daughter's son,,,Capell1984,
+mDD,mpupuna,,male ego's daughter's daughter,,,Capell1984,
+fSS,mpupuna,,female ego's son's son,,,Capell1984,
+fSD,mpupuna,,female ego's son's daughter,,,Capell1984,
+fDS,mpupuna,,female ego's daughter's son,,,Capell1984,
+fDD,mpupuna,,female ego's daugher's daughter,,,Capell1984,
+mFF,tupuna,,male ego's father‘s father,,,Capell1984,
+mFM,tupuna,,male ego's father's mother,,,Capell1984,
+mMF,tupuna,,male ego's mother's father,,,Capell1984,
+mMM,tupuna,,male ego's mother's mother,,,Capell1984,
+fFF,tupuna,,female ego's father's father,,,Capell1984,
+fFM,tupuna,,female ego's father's mother,,,Capell1984,
+fMF,tupuna,,female ego's mother's father,,,Capell1984,
+fMM,tupuna,,female ego's mother's mother,,,Capell1984,
+meBS,tariki,,male ego's older brother's son,,,Capell1984,
+myBS,tariki,,male ego's younger brother's son,,,Capell1984,
+meZS,tariki,,male ego's older sister's son,,,Capell1984,
+myZS,tariki,,male ego's younger sister's son,,,Capell1984,
+meBD,raimutu,,male ego's older brother's daughter,,,Capell1984,
+myBD,raimutu,,male ego's younger brother's daughter,,,Capell1984,
+meZD,raimutu,,male ego's older sister's daughter,,,Capell1984,
+myZD,raimutu,,male ego's younger sister's daughter,,,Capell1984,
+feBS,raimutu,,female ego's older brother's son,,,Capell1984,
+fyBS,raimutu,,female ego's younger brother's son,,,Capell1984,
+feZS,raimutu,,female ego's older sister's son,,,Capell1984,
+fyZS,raimutu,,female ego's younger sister's son,,,Capell1984,
+feBD,raimutu,,female ego's older brother's daughter,,,Capell1984,
+fyBD,raimutu,,female ego's younger brother's daughter,,,Capell1984,
+feZD,raimutu,,female ego's older sister's daughter,,,Capell1984,
+fyZD,raimutu,,female ego's younger sister's daughter,,,Capell1984,
+mFeB,tamana,,male ego's father's older brother,,,Capell1984,
+mFyB,tamana,,male ego's father's younger brother,,,Capell1984,
+mFeZ,amahavai,,male ego's father's older sister,,,Capell1984,
+mFyZ,amahavai,,male ego's father's younger sister,,,Capell1984,
+mMeB,"taruana, tomana, toshinana",,male ego's mother's older brother,,,Capell1984,
+mMyB,"taruana, tomana, toshinana",,male ego's mother's younger brother,,,Capell1984,
+fFeB,tamana,,female ego's father's older brother,,,Capell1984,
+fFyB,tamana,,female ego's father's younger brother,,,Capell1984,
+fFeZ,amahavai,,female ego's father's older sister,,,Capell1984,
+fFyZ,amahavai,,female ego's father's younger sister,,,Capell1984,
+fMeB,"taruana, tomana, toshinana",,female ego's mother's older brother,,,Capell1984,
+fMyB,"taruana, tomana, toshinana",,female ego's mother's younger brother,,,Capell1984,
+fH,"nuane, tomana",,female ego‘s husband,,,Capell1984,
+mSW,fungona,,male ego's son's wife,,,Capell1984,
+fSW,fungona,,female ego's son's wife,,,Capell1984,
+mWF,tomana,,male ego's wife's father,,,Capell1984,
+mWM,amahavai,,male ego's wife's mother,,,Capell1984,
+mWB,safe,,male ego's wife's brother,,,Capell1984,
+fHF,tomana,,female ego's husband's father,,,Capell1984,
+fHM,amahavai,,female ego's husband's mother,,,Capell1984,
+fHB,safe,,female ego's husband's brother,,,Capell1984,
+mZH,safe,,male ego's sister's husband,,,Capell1984,
+fZH,safe,,female ego's sister's husband,,,Capell1984,
+mFZS,rarakave,,male ego's father's sister's son,,,Capell1984,
+mMBS,rarakave,,male ego's mother's brother's son,,,Capell1984,
+mFZD,rarakave,,male ego's father's sister's daughter,,,Capell1984,
+mMBD,rarakave,,male ego's mother's brother's daughter,,,Capell1984,
+fFZS,rarakave,,female ego's father's sister's son,,,Capell1984,
+fMBS,rarakave,,female ego's mother's brother's son,,,Capell1984,
+fFZD,rarakave,,female ego's father's sister's daughter,,,Capell1984,
+fMBD,rarakave,,female ego's mother's brother's daughter,,,Capell1984,
+mFeZS,rarakave,,male ego's father's sister's son,,,Capell1984,Inferred; NA
+mFyZS,rarakave,,male ego's father's sister's son,,,Capell1984,Inferred; NA
+mFeZD,rarakave,,male ego's father's sister's daughter,,,Capell1984,Inferred; NA
+mFyZD,rarakave,,male ego's father's sister's daughter,,,Capell1984,Inferred; NA
+mMeBS,rarakave,,male ego's mother's brother's son,,,Capell1984,Inferred; NA
+mMyBS,rarakave,,male ego's mother's brother's son,,,Capell1984,Inferred; NA
+mMeBD,rarakave,,male ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+mMyBD,rarakave,,male ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+mFZeS,rarakave,,male ego's father's sister's son,,,Capell1984,Inferred; NA
+mFZyS,rarakave,,male ego's father's sister's son,,,Capell1984,Inferred; NA
+mFZeD,rarakave,,male ego's father's sister's daughter,,,Capell1984,Inferred; NA
+mFZyD,rarakave,,male ego's father's sister's daughter,,,Capell1984,Inferred; NA
+mMBeS,rarakave,,male ego's mother's brother's son,,,Capell1984,Inferred; NA
+mMByS,rarakave,,male ego's mother's brother's son,,,Capell1984,Inferred; NA
+mMBeD,rarakave,,male ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+mMByD,rarakave,,male ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+fFeZS,rarakave,,female ego's father's sister's son,,,Capell1984,Inferred; NA
+fFyZS,rarakave,,female ego's father's sister's son,,,Capell1984,Inferred; NA
+fFeZD,rarakave,,female ego's father's sister's daughter,,,Capell1984,Inferred; NA
+fFyZD,rarakave,,female ego's father's sister's daughter,,,Capell1984,Inferred; NA
+fMeBS,rarakave,,female ego's mother's brother's son,,,Capell1984,Inferred; NA
+fMyBS,rarakave,,female ego's mother's brother's son,,,Capell1984,Inferred; NA
+fMeBD,rarakave,,female ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+fMyBD,rarakave,,female ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+fFZeS,rarakave,,female ego's father's sister's son,,,Capell1984,Inferred; NA
+fFZyS,rarakave,,female ego's father's sister's son,,,Capell1984,Inferred; NA
+fFZeD,rarakave,,female ego's father's sister's daughter,,,Capell1984,Inferred; NA
+fFZyD,rarakave,,female ego's father's sister's daughter,,,Capell1984,Inferred; NA
+fMBeS,rarakave,,female ego's mother's brother's son,,,Capell1984,Inferred; NA
+fMByS,rarakave,,female ego's mother's brother's son,,,Capell1984,Inferred; NA
+fMBeD,rarakave,,female ego's mother's brother's daughter,,,Capell1984,Inferred; NA
+fMByD,rarakave,,female ego's mother's brother's daughter,,,Capell1984,Inferred; NA

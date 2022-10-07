@@ -1,110 +1,110 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tasina",,"male ego's older brother",,,,
-"myB","tasina",,"male ego's younger brother",,,,
-"feB","tasina",,"female ego's older brother",,,,
-"fyB","tasina",,"female ego's younger brother",,,,
-"mF","tamana, ana toenatuna",,"male ego's father",,,,
-"mM","sinana, ana toenatuna",,"male ego's mother",,,,
-"fF","tamana, ana toenatuna",,"female ego's father",,,,
-"fM","sinana, ana toenatuna",,"female ego's mother",,,,
-"mS","natuna",,"male ego's son",,,,
-"fS","natuna",,"female ego's son",,,,
-"mD","natuna",,"male ego's daughter",,,,
-"fD","natuna",,"female ego's daughter",,,,
-"mSS","tubuna",,"male ego's son's son",,,,
-"mSD","tubuna",,"male ego's son's daughter",,,,
-"mDS","tubuna",,"male ego's daughter's son",,,,
-"mDD","tubuna",,"male ego's daughter's daughter",,,,
-"fSS","tubuna",,"female ego's son's son",,,,
-"fSD","tubuna",,"female ego's son's daughter",,,,
-"fDS","tubuna",,"female ego's daughter's son",,,,
-"fDD","tubuna",,"female ego's daugher's daughter",,,,
-"mFF","tubuna",,"male ego's father‘s father",,,,
-"mFM","tubuna",,"male ego's father's mother",,,,
-"mMF","tubuna",,"male ego's mother's father",,,,
-"mMM","tubuna",,"male ego's mother's mother",,,,
-"fFF","tubuna",,"female ego's father's father",,,,
-"fFM","tubuna",,"female ego's father's mother",,,,
-"fMF","tubuna",,"female ego's mother's father",,,,
-"fMM","tubuna",,"female ego's mother's mother",,,,
-"mFeB","tamana",,"male ego's father's older brother",,,,
-"mFyB","tamana",,"male ego's father's younger brother",,,,
-"mFeZ","edeyana, yayana",,"male ego's father's older sister",,,,
-"mFyZ","edeyana, yayana",,"male ego's father's younger sister",,,,
-"mMeB","wana",,"male ego's mother's older brother",,,,
-"mMyB","wana",,"male ego's mother's younger brother",,,,
-"mMeZ","sinana",,"male ego's mother's older sister",,,,
-"mMyZ","sinana",,"male ego's mother's younger sister",,,,
-"fFeB","tamana",,"female ego's father's older brother",,,,
-"fFyB","tamana",,"female ego's father's younger brother",,,,
-"fFeZ","edeyana, yayana",,"female ego's father's older sister",,,,
-"fFyZ","edeyana, yayana",,"female ego's father's younger sister",,,,
-"fMeB","wana",,"female ego's mother's older brother",,,,
-"fMyB","wana",,"female ego's mother's younger brother",,,,
-"fMeZ","sinana",,"female ego's mother's older sister",,,,
-"fMyZ","sinana",,"female ego's mother's younger sister",,,,
-"mW","eyana",,"male ego's wife",,,,
-"fH","eyana",,"female ego‘s husband",,,,
-"mDH","bwasiyana",,"male ego's daughter's husband",,,,
-"fDH","bwasiyana",,"female ego's daughter's husband",,,,
-"mSW","lawana",,"male ego's son's wife",,,,
-"fSW","lawana",,"female ego's son's wife",,,,
-"mWF","bwasiyana",,"male ego's wife's father",,,,
-"mWM","lawana",,"male ego's wife's mother",,,,
-"mWZ","tasina",,"male ego's wife's sister",,,,
-"fHF","bwasiyana",,"female ego's husband's father",,,,
-"fHM","lawana",,"female ego's husband's mother",,,,
-"fHB","eyana",,"female ego's husband's brother",,,,
-"fHZ","tasina",,"female ego's husband's sister",,,,
-"mBW","tasina",,"male ego's brother's wife",,,,
-"fBW","tasina",,"female ego's brother's wife",,,,
-"mFBS","tasina",,"male ego's father's brother's son",,,,
-"mMBS","nibana",,"male ego's mother's brother's son",,,,
-"mMZS","nibana",,"male ego's mother's sister's son",,,,
-"mMBD","nibana",,"male ego's mother's brother's daughter",,,,
-"mMZD","nibana",,"male ego's mother's sister's daughter",,,,
-"fFBS","tasina",,"female ego's father's brother's son",,,,
-"fMBS","nibana",,"female ego's mother's brother's son",,,,
-"fMZS","nibana",,"female ego's mother's sister's son",,,,
-"fMBD","nibana",,"female ego's mother's brother's daughter",,,,
-"fMZD","nibana",,"female ego's mother's sister's daughter",,,,
-"mFeBS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mMeBS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","tasina",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mMBeS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","nibana",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","nibana",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","nibana",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","nibana",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fMeBS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","tasina",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fMBeS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","nibana",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","nibana",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","nibana",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","nibana",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,tasina,,male ego's older brother,,,Atchison1995,
+myB,tasina,,male ego's younger brother,,,Atchison1995,
+feB,tasina,,female ego's older brother,,,Atchison1995,
+fyB,tasina,,female ego's younger brother,,,Atchison1995,
+mF,"tamana, ana toenatuna",,male ego's father,,,Atchison1995,
+mM,"sinana, ana toenatuna",,male ego's mother,,,Atchison1995,
+fF,"tamana, ana toenatuna",,female ego's father,,,Atchison1995,
+fM,"sinana, ana toenatuna",,female ego's mother,,,Atchison1995,
+mS,natuna,,male ego's son,,,Atchison1995,
+fS,natuna,,female ego's son,,,Atchison1995,
+mD,natuna,,male ego's daughter,,,Atchison1995,
+fD,natuna,,female ego's daughter,,,Atchison1995,
+mSS,tubuna,,male ego's son's son,,,Atchison1995,
+mSD,tubuna,,male ego's son's daughter,,,Atchison1995,
+mDS,tubuna,,male ego's daughter's son,,,Atchison1995,
+mDD,tubuna,,male ego's daughter's daughter,,,Atchison1995,
+fSS,tubuna,,female ego's son's son,,,Atchison1995,
+fSD,tubuna,,female ego's son's daughter,,,Atchison1995,
+fDS,tubuna,,female ego's daughter's son,,,Atchison1995,
+fDD,tubuna,,female ego's daugher's daughter,,,Atchison1995,
+mFF,tubuna,,male ego's father‘s father,,,Atchison1995,
+mFM,tubuna,,male ego's father's mother,,,Atchison1995,
+mMF,tubuna,,male ego's mother's father,,,Atchison1995,
+mMM,tubuna,,male ego's mother's mother,,,Atchison1995,
+fFF,tubuna,,female ego's father's father,,,Atchison1995,
+fFM,tubuna,,female ego's father's mother,,,Atchison1995,
+fMF,tubuna,,female ego's mother's father,,,Atchison1995,
+fMM,tubuna,,female ego's mother's mother,,,Atchison1995,
+mFeB,tamana,,male ego's father's older brother,,,Atchison1995,
+mFyB,tamana,,male ego's father's younger brother,,,Atchison1995,
+mFeZ,"edeyana, yayana",,male ego's father's older sister,,,Atchison1995,
+mFyZ,"edeyana, yayana",,male ego's father's younger sister,,,Atchison1995,
+mMeB,wana,,male ego's mother's older brother,,,Atchison1995,
+mMyB,wana,,male ego's mother's younger brother,,,Atchison1995,
+mMeZ,sinana,,male ego's mother's older sister,,,Atchison1995,
+mMyZ,sinana,,male ego's mother's younger sister,,,Atchison1995,
+fFeB,tamana,,female ego's father's older brother,,,Atchison1995,
+fFyB,tamana,,female ego's father's younger brother,,,Atchison1995,
+fFeZ,"edeyana, yayana",,female ego's father's older sister,,,Atchison1995,
+fFyZ,"edeyana, yayana",,female ego's father's younger sister,,,Atchison1995,
+fMeB,wana,,female ego's mother's older brother,,,Atchison1995,
+fMyB,wana,,female ego's mother's younger brother,,,Atchison1995,
+fMeZ,sinana,,female ego's mother's older sister,,,Atchison1995,
+fMyZ,sinana,,female ego's mother's younger sister,,,Atchison1995,
+mW,eyana,,male ego's wife,,,Atchison1995,
+fH,eyana,,female ego‘s husband,,,Atchison1995,
+mDH,bwasiyana,,male ego's daughter's husband,,,Atchison1995,
+fDH,bwasiyana,,female ego's daughter's husband,,,Atchison1995,
+mSW,lawana,,male ego's son's wife,,,Atchison1995,
+fSW,lawana,,female ego's son's wife,,,Atchison1995,
+mWF,bwasiyana,,male ego's wife's father,,,Atchison1995,
+mWM,lawana,,male ego's wife's mother,,,Atchison1995,
+mWZ,tasina,,male ego's wife's sister,,,Atchison1995,
+fHF,bwasiyana,,female ego's husband's father,,,Atchison1995,
+fHM,lawana,,female ego's husband's mother,,,Atchison1995,
+fHB,eyana,,female ego's husband's brother,,,Atchison1995,
+fHZ,tasina,,female ego's husband's sister,,,Atchison1995,
+mBW,tasina,,male ego's brother's wife,,,Atchison1995,
+fBW,tasina,,female ego's brother's wife,,,Atchison1995,
+mFBS,tasina,,male ego's father's brother's son,,,Atchison1995,
+mMBS,nibana,,male ego's mother's brother's son,,,Atchison1995,
+mMZS,nibana,,male ego's mother's sister's son,,,Atchison1995,
+mMBD,nibana,,male ego's mother's brother's daughter,,,Atchison1995,
+mMZD,nibana,,male ego's mother's sister's daughter,,,Atchison1995,
+fFBS,tasina,,female ego's father's brother's son,,,Atchison1995,
+fMBS,nibana,,female ego's mother's brother's son,,,Atchison1995,
+fMZS,nibana,,female ego's mother's sister's son,,,Atchison1995,
+fMBD,nibana,,female ego's mother's brother's daughter,,,Atchison1995,
+fMZD,nibana,,female ego's mother's sister's daughter,,,Atchison1995,
+mFeBS,tasina,,male ego's father's brother's son,,,Atchison1995,Inferred; NA
+mFyBS,tasina,,male ego's father's brother's son,,,Atchison1995,Inferred; NA
+mMeBS,nibana,,male ego's mother's brother's son,,,Atchison1995,Inferred; NA
+mMyBS,nibana,,male ego's mother's brother's son,,,Atchison1995,Inferred; NA
+mMeZS,nibana,,male ego's mother's sister's son,,,Atchison1995,Inferred; NA
+mMyZS,nibana,,male ego's mother's sister's son,,,Atchison1995,Inferred; NA
+mMeBD,nibana,,male ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+mMyBD,nibana,,male ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+mMeZD,nibana,,male ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+mMyZD,nibana,,male ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+mFBeS,tasina,,male ego's father's brother's son,,,Atchison1995,Inferred; NA
+mFByS,tasina,,male ego's father's brother's son,,,Atchison1995,Inferred; NA
+mMBeS,nibana,,male ego's mother's brother's son,,,Atchison1995,Inferred; NA
+mMByS,nibana,,male ego's mother's brother's son,,,Atchison1995,Inferred; NA
+mMZeS,nibana,,male ego's mother's sister's son,,,Atchison1995,Inferred; NA
+mMZyS,nibana,,male ego's mother's sister's son,,,Atchison1995,Inferred; NA
+mMBeD,nibana,,male ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+mMByD,nibana,,male ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+mMZeD,nibana,,male ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+mMZyD,nibana,,male ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+fFeBS,tasina,,female ego's father's brother's son,,,Atchison1995,Inferred; NA
+fFyBS,tasina,,female ego's father's brother's son,,,Atchison1995,Inferred; NA
+fMeBS,nibana,,female ego's mother's brother's son,,,Atchison1995,Inferred; NA
+fMyBS,nibana,,female ego's mother's brother's son,,,Atchison1995,Inferred; NA
+fMeZS,nibana,,female ego's mother's sister's son,,,Atchison1995,Inferred; NA
+fMyZS,nibana,,female ego's mother's sister's son,,,Atchison1995,Inferred; NA
+fMeBD,nibana,,female ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+fMyBD,nibana,,female ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+fMeZD,nibana,,female ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+fMyZD,nibana,,female ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+fFBeS,tasina,,female ego's father's brother's son,,,Atchison1995,Inferred; NA
+fFByS,tasina,,female ego's father's brother's son,,,Atchison1995,Inferred; NA
+fMBeS,nibana,,female ego's mother's brother's son,,,Atchison1995,Inferred; NA
+fMByS,nibana,,female ego's mother's brother's son,,,Atchison1995,Inferred; NA
+fMZeS,nibana,,female ego's mother's sister's son,,,Atchison1995,Inferred; NA
+fMZyS,nibana,,female ego's mother's sister's son,,,Atchison1995,Inferred; NA
+fMBeD,nibana,,female ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+fMByD,nibana,,female ego's mother's brother's daughter,,,Atchison1995,Inferred; NA
+fMZeD,nibana,,female ego's mother's sister's daughter,,,Atchison1995,Inferred; NA
+fMZyD,nibana,,female ego's mother's sister's daughter,,,Atchison1995,Inferred; NA

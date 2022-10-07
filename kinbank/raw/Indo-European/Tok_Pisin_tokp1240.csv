@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","barata",,"male ego's older brother",,,,
-"myB","barata",,"male ego's younger brother",,,,
-"feB","sista",,"female ego's older brother",,,,
-"fyB","sista",,"female ego's younger brother",,,,
-"meZ","sista",,"male ego's older sister",,,,
-"myZ","sista",,"male ego's younger sister",,,,
-"feZ","barata",,"female ego's older sister",,,,
-"fyZ","barata",,"female ego's younger sister",,,,
-"mF","papa",,"male ego's father",,,,
-"mM","mama",,"male ego's mother",,,,
-"fF","papa",,"female ego's father",,,,
-"fM","mama",,"female ego's mother",,,,
-"mS","pikinini",,"male ego's son",,,,
-"fS","pikinini",,"female ego's son",,,,
-"mD","pikinini",,"male ego's daughter",,,,
-"fD","pikinini",,"female ego's daughter",,,,
-"mSS","pupu",,"male ego's son's son",,,,
-"mSD","pupu",,"male ego's son's daughter",,,,
-"mDS","pupu",,"male ego's daughter's son",,,,
-"mDD","pupu",,"male ego's daughter's daughter",,,,
-"fSS","pupu",,"female ego's son's son",,,,
-"fSD","pupu",,"female ego's son's daughter",,,,
-"fDS","pupu",,"female ego's daughter's son",,,,
-"fDD","pupu",,"female ego's daugher's daughter",,,,
-"mFF","pupu",,"male ego's father‘s father",,,,
-"mFM","pupu",,"male ego's father's mother",,,,
-"mMF","pupu",,"male ego's mother's father",,,,
-"mMM","pupu",,"male ego's mother's mother",,,,
-"fFF","pupu",,"female ego's father's father",,,,
-"fFM","pupu",,"female ego's father's mother",,,,
-"fMF","pupu",,"female ego's mother's father",,,,
-"fMM","pupu",,"female ego's mother's mother",,,,
-"meBS","pikinini",,"male ego's older brother's son",,,,
-"myBS","pikinini",,"male ego's younger brother's son",,,,
-"meZS","kandere",,"male ego's older sister's son",,,,
-"myZS","kandere",,"male ego's younger sister's son",,,,
-"meBD","pikinini",,"male ego's older brother's daughter",,,,
-"myBD","pikinini",,"male ego's younger brother's daughter",,,,
-"meZD","kandere",,"male ego's older sister's daughter",,,,
-"myZD","kandere",,"male ego's younger sister's daughter",,,,
-"feBS","(nil)",,"female ego's older brother's son",,,,
-"fyBS","(nil)",,"female ego's younger brother's son",,,,
-"feZS","pikinini",,"female ego's older sister's son",,,,
-"fyZS","pikinini",,"female ego's younger sister's son",,,,
-"feBD","(nil)",,"female ego's older brother's daughter",,,,
-"fyBD","(nil)",,"female ego's younger brother's daughter",,,,
-"feZD","pikinini",,"female ego's older sister's daughter",,,,
-"fyZD","pikinini",,"female ego's younger sister's daughter",,,,
-"mFeB","papa",,"male ego's father's older brother",,,,
-"mFyB","papa",,"male ego's father's younger brother",,,,
-"mFeZ","(nil)",,"male ego's father's older sister",,,,
-"mFyZ","(nil)",,"male ego's father's younger sister",,,,
-"mMeB","kandere",,"male ego's mother's older brother",,,,
-"mMyB","kandere",,"male ego's mother's younger brother",,,,
-"mMeZ","mama",,"male ego's mother's older sister",,,,
-"mMyZ","mama",,"male ego's mother's younger sister",,,,
-"fFeB","papa",,"female ego's father's older brother",,,,
-"fFyB","papa",,"female ego's father's younger brother",,,,
-"fFeZ","(nil)",,"female ego's father's older sister",,,,
-"fFyZ","(nil)",,"female ego's father's younger sister",,,,
-"fMeB","kandere",,"female ego's mother's older brother",,,,
-"fMyB","kandere",,"female ego's mother's younger brother",,,,
-"fMeZ","mama",,"female ego's mother's older sister",,,,
-"fMyZ","mama",,"female ego's mother's younger sister",,,,
-"mW","meri",,"male ego's wife",,,,
-"fH","man",,"female ego‘s husband",,,,
-"mDH","tambu",,"male ego's daughter's husband",,,,
-"fDH","tambu",,"female ego's daughter's husband",,,,
-"mSW","tambu",,"male ego's son's wife",,,,
-"fSW","tambu",,"female ego's son's wife",,,,
-"mWF","tambu",,"male ego's wife's father",,,,
-"mWM","tambu",,"male ego's wife's mother",,,,
-"mWB","tambu",,"male ego's wife's brother",,,,
-"mWZ","tambu",,"male ego's wife's sister",,,,
-"fHF","tambu",,"female ego's husband's father",,,,
-"fHM","tambu",,"female ego's husband's mother",,,,
-"fHB","tambu",,"female ego's husband's brother",,,,
-"fHZ","tambu",,"female ego's husband's sister",,,,
-"mBW","tambu",,"male ego's brother's wife",,,,
-"fBW","tambu",,"female ego's brother's wife",,,,
-"mZH","tambu",,"male ego's sister's husband",,,,
-"fZH","tambu",,"female ego's sister's husband",,,,
-"mFBS","barata",,"male ego's father's brother's son",,,,
-"mFZS","kasen",,"male ego's father's sister's son",,,,
-"mMBS","kasen",,"male ego's mother's brother's son",,,,
-"mMZS","barata",,"male ego's mother's sister's son",,,,
-"mFBD","sista",,"male ego's father's brother's daughter",,,,
-"mFZD","kasen",,"male ego's father's sister's daughter",,,,
-"mMBD","kasen",,"male ego's mother's brother's daughter",,,,
-"mMZD","sista",,"male ego's mother's sister's daughter",,,,
-"fFBS","sista",,"female ego's father's brother's son",,,,
-"fFZS","kasen",,"female ego's father's sister's son",,,,
-"fMBS","kasen",,"female ego's mother's brother's son",,,,
-"fMZS","sista",,"female ego's mother's sister's son",,,,
-"fFBD","barata",,"female ego's father's brother's daughter",,,,
-"fFZD","kasen",,"female ego's father's sister's daughter",,,,
-"fMBD","kasen",,"female ego's mother's brother's daughter",,,,
-"fMZD","barata",,"female ego's mother's sister's daughter",,,,
-"mFeBS","barata",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","barata",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","kasen",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","kasen",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","sista",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","sista",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","kasen",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","kasen",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","kasen",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","kasen",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","barata",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","barata",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","kasen",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","kasen",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","sista",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","sista",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","barata",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","barata",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","kasen",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","kasen",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","sista",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","sista",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","kasen",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","kasen",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","kasen",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","kasen",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","barata",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","barata",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","kasen",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","kasen",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","sista",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","sista",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","sista",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","sista",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","kasen",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","kasen",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","barata",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","barata",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","kasen",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","kasen",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","kasen",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","kasen",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","sista",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","sista",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","kasen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","kasen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","barata",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","barata",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","sista",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","sista",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","kasen",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","kasen",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","barata",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","barata",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","kasen",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","kasen",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","kasen",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","kasen",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","sista",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","sista",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","kasen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","kasen",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","barata",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","barata",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,barata,,male ego's older brother,,,Fingleton1986,
+myB,barata,,male ego's younger brother,,,Fingleton1986,
+feB,sista,,female ego's older brother,,,Fingleton1986,
+fyB,sista,,female ego's younger brother,,,Fingleton1986,
+meZ,sista,,male ego's older sister,,,Fingleton1986,
+myZ,sista,,male ego's younger sister,,,Fingleton1986,
+feZ,barata,,female ego's older sister,,,Fingleton1986,
+fyZ,barata,,female ego's younger sister,,,Fingleton1986,
+mF,papa,,male ego's father,,,Fingleton1986,
+mM,mama,,male ego's mother,,,Fingleton1986,
+fF,papa,,female ego's father,,,Fingleton1986,
+fM,mama,,female ego's mother,,,Fingleton1986,
+mS,pikinini,,male ego's son,,,Fingleton1986,
+fS,pikinini,,female ego's son,,,Fingleton1986,
+mD,pikinini,,male ego's daughter,,,Fingleton1986,
+fD,pikinini,,female ego's daughter,,,Fingleton1986,
+mSS,pupu,,male ego's son's son,,,Fingleton1986,
+mSD,pupu,,male ego's son's daughter,,,Fingleton1986,
+mDS,pupu,,male ego's daughter's son,,,Fingleton1986,
+mDD,pupu,,male ego's daughter's daughter,,,Fingleton1986,
+fSS,pupu,,female ego's son's son,,,Fingleton1986,
+fSD,pupu,,female ego's son's daughter,,,Fingleton1986,
+fDS,pupu,,female ego's daughter's son,,,Fingleton1986,
+fDD,pupu,,female ego's daugher's daughter,,,Fingleton1986,
+mFF,pupu,,male ego's father‘s father,,,Fingleton1986,
+mFM,pupu,,male ego's father's mother,,,Fingleton1986,
+mMF,pupu,,male ego's mother's father,,,Fingleton1986,
+mMM,pupu,,male ego's mother's mother,,,Fingleton1986,
+fFF,pupu,,female ego's father's father,,,Fingleton1986,
+fFM,pupu,,female ego's father's mother,,,Fingleton1986,
+fMF,pupu,,female ego's mother's father,,,Fingleton1986,
+fMM,pupu,,female ego's mother's mother,,,Fingleton1986,
+meBS,pikinini,,male ego's older brother's son,,,Fingleton1986,
+myBS,pikinini,,male ego's younger brother's son,,,Fingleton1986,
+meZS,kandere,,male ego's older sister's son,,,Fingleton1986,
+myZS,kandere,,male ego's younger sister's son,,,Fingleton1986,
+meBD,pikinini,,male ego's older brother's daughter,,,Fingleton1986,
+myBD,pikinini,,male ego's younger brother's daughter,,,Fingleton1986,
+meZD,kandere,,male ego's older sister's daughter,,,Fingleton1986,
+myZD,kandere,,male ego's younger sister's daughter,,,Fingleton1986,
+feBS,(nil),,female ego's older brother's son,,,Fingleton1986,
+fyBS,(nil),,female ego's younger brother's son,,,Fingleton1986,
+feZS,pikinini,,female ego's older sister's son,,,Fingleton1986,
+fyZS,pikinini,,female ego's younger sister's son,,,Fingleton1986,
+feBD,(nil),,female ego's older brother's daughter,,,Fingleton1986,
+fyBD,(nil),,female ego's younger brother's daughter,,,Fingleton1986,
+feZD,pikinini,,female ego's older sister's daughter,,,Fingleton1986,
+fyZD,pikinini,,female ego's younger sister's daughter,,,Fingleton1986,
+mFeB,papa,,male ego's father's older brother,,,Fingleton1986,
+mFyB,papa,,male ego's father's younger brother,,,Fingleton1986,
+mFeZ,(nil),,male ego's father's older sister,,,Fingleton1986,
+mFyZ,(nil),,male ego's father's younger sister,,,Fingleton1986,
+mMeB,kandere,,male ego's mother's older brother,,,Fingleton1986,
+mMyB,kandere,,male ego's mother's younger brother,,,Fingleton1986,
+mMeZ,mama,,male ego's mother's older sister,,,Fingleton1986,
+mMyZ,mama,,male ego's mother's younger sister,,,Fingleton1986,
+fFeB,papa,,female ego's father's older brother,,,Fingleton1986,
+fFyB,papa,,female ego's father's younger brother,,,Fingleton1986,
+fFeZ,(nil),,female ego's father's older sister,,,Fingleton1986,
+fFyZ,(nil),,female ego's father's younger sister,,,Fingleton1986,
+fMeB,kandere,,female ego's mother's older brother,,,Fingleton1986,
+fMyB,kandere,,female ego's mother's younger brother,,,Fingleton1986,
+fMeZ,mama,,female ego's mother's older sister,,,Fingleton1986,
+fMyZ,mama,,female ego's mother's younger sister,,,Fingleton1986,
+mW,meri,,male ego's wife,,,Fingleton1986,
+fH,man,,female ego‘s husband,,,Fingleton1986,
+mDH,tambu,,male ego's daughter's husband,,,Fingleton1986,
+fDH,tambu,,female ego's daughter's husband,,,Fingleton1986,
+mSW,tambu,,male ego's son's wife,,,Fingleton1986,
+fSW,tambu,,female ego's son's wife,,,Fingleton1986,
+mWF,tambu,,male ego's wife's father,,,Fingleton1986,
+mWM,tambu,,male ego's wife's mother,,,Fingleton1986,
+mWB,tambu,,male ego's wife's brother,,,Fingleton1986,
+mWZ,tambu,,male ego's wife's sister,,,Fingleton1986,
+fHF,tambu,,female ego's husband's father,,,Fingleton1986,
+fHM,tambu,,female ego's husband's mother,,,Fingleton1986,
+fHB,tambu,,female ego's husband's brother,,,Fingleton1986,
+fHZ,tambu,,female ego's husband's sister,,,Fingleton1986,
+mBW,tambu,,male ego's brother's wife,,,Fingleton1986,
+fBW,tambu,,female ego's brother's wife,,,Fingleton1986,
+mZH,tambu,,male ego's sister's husband,,,Fingleton1986,
+fZH,tambu,,female ego's sister's husband,,,Fingleton1986,
+mFBS,barata,,male ego's father's brother's son,,,Fingleton1986,
+mFZS,kasen,,male ego's father's sister's son,,,Fingleton1986,
+mMBS,kasen,,male ego's mother's brother's son,,,Fingleton1986,
+mMZS,barata,,male ego's mother's sister's son,,,Fingleton1986,
+mFBD,sista,,male ego's father's brother's daughter,,,Fingleton1986,
+mFZD,kasen,,male ego's father's sister's daughter,,,Fingleton1986,
+mMBD,kasen,,male ego's mother's brother's daughter,,,Fingleton1986,
+mMZD,sista,,male ego's mother's sister's daughter,,,Fingleton1986,
+fFBS,sista,,female ego's father's brother's son,,,Fingleton1986,
+fFZS,kasen,,female ego's father's sister's son,,,Fingleton1986,
+fMBS,kasen,,female ego's mother's brother's son,,,Fingleton1986,
+fMZS,sista,,female ego's mother's sister's son,,,Fingleton1986,
+fFBD,barata,,female ego's father's brother's daughter,,,Fingleton1986,
+fFZD,kasen,,female ego's father's sister's daughter,,,Fingleton1986,
+fMBD,kasen,,female ego's mother's brother's daughter,,,Fingleton1986,
+fMZD,barata,,female ego's mother's sister's daughter,,,Fingleton1986,
+mFeBS,barata,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFyBS,barata,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFeZS,kasen,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFyZS,kasen,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFeBD,sista,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFyBD,sista,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFeZD,kasen,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mFyZD,kasen,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mMeBS,kasen,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMyBS,kasen,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMeZS,barata,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMyZS,barata,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMeBD,kasen,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMyBD,kasen,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMeZD,sista,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+mMyZD,sista,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+mFBeS,barata,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFByS,barata,,male ego's father's brother's son,,,Fingleton1986,Inferred; NA
+mFZeS,kasen,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFZyS,kasen,,male ego's father's sister's son,,,Fingleton1986,Inferred; NA
+mFBeD,sista,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFByD,sista,,male ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+mFZeD,kasen,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mFZyD,kasen,,male ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+mMBeS,kasen,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMByS,kasen,,male ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+mMZeS,barata,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMZyS,barata,,male ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+mMBeD,kasen,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMByD,kasen,,male ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+mMZeD,sista,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+mMZyD,sista,,male ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fFeBS,sista,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFyBS,sista,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFeZS,kasen,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFyZS,kasen,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFeBD,barata,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFyBD,barata,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFeZD,kasen,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fFyZD,kasen,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fMeBS,kasen,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMyBS,kasen,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMeZS,sista,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMyZS,sista,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMeBD,kasen,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMyBD,kasen,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMeZD,barata,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fMyZD,barata,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fFBeS,sista,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFByS,sista,,female ego's father's brother's son,,,Fingleton1986,Inferred; NA
+fFZeS,kasen,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFZyS,kasen,,female ego's father's sister's son,,,Fingleton1986,Inferred; NA
+fFBeD,barata,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFByD,barata,,female ego's father's brother's daughter,,,Fingleton1986,Inferred; NA
+fFZeD,kasen,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fFZyD,kasen,,female ego's father's sister's daughter,,,Fingleton1986,Inferred; NA
+fMBeS,kasen,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMByS,kasen,,female ego's mother's brother's son,,,Fingleton1986,Inferred; NA
+fMZeS,sista,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMZyS,sista,,female ego's mother's sister's son,,,Fingleton1986,Inferred; NA
+fMBeD,kasen,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMByD,kasen,,female ego's mother's brother's daughter,,,Fingleton1986,Inferred; NA
+fMZeD,barata,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA
+fMZyD,barata,,female ego's mother's sister's daughter,,,Fingleton1986,Inferred; NA

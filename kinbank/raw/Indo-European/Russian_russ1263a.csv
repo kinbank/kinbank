@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","брат",,"male ego's older brother",,,,""
-"myB","брат",,"male ego's younger brother",,,,""
-"feB","брат",,"female ego's older brother",,,,""
-"fyB","брат",,"female ego's younger brother",,,,""
-"meZ","сестра",,"male ego's older sister",,,,""
-"myZ","сестра",,"male ego's younger sister",,,,""
-"feZ","сестра",,"female ego's older sister",,,,""
-"fyZ","сестра",,"female ego's younger sister",,,,""
-"mF","отец",,"male ego's father",,,,""
-"mM","мать",,"male ego's mother",,,,""
-"fF","отец",,"female ego's father",,,,""
-"fM","мать",,"female ego's mother",,,,""
-"mS","сын",,"male ego's son",,,,""
-"fS","сын",,"female ego's son",,,,""
-"mD","дочь",,"male ego's daughter",,,,""
-"fD","дочь",,"female ego's daughter",,,,""
-"mSS","внук",,"male ego's son's son",,,,""
-"mSD","внучка",,"male ego's son's daughter",,,,""
-"mDS","внук",,"male ego's daughter's son",,,,""
-"mDD","внучка",,"male ego's daughter's daughter",,,,""
-"fSS","внук",,"female ego's son's son",,,,""
-"fSD","внучка",,"female ego's son's daughter",,,,""
-"fDS","внук",,"female ego's daughter's son",,,,""
-"fDD","внучка",,"female ego's daugher's daughter",,,,""
-"mFF","дедушка",,"male ego's father‘s father",,,,""
-"mFM","бабушка",,"male ego's father's mother",,,,""
-"mMF","дедушка",,"male ego's mother's father",,,,""
-"mMM","бабушка",,"male ego's mother's mother",,,,""
-"fFF","дедушка",,"female ego's father's father",,,,""
-"fFM","бабушка",,"female ego's father's mother",,,,""
-"fMF","дедушка",,"female ego's mother's father",,,,""
-"fMM","бабушка",,"female ego's mother's mother",,,,""
-"meBS","племянник",,"male ego's older brother's son",,,,""
-"myBS","племянник",,"male ego's younger brother's son",,,,""
-"meZS","племянник",,"male ego's older sister's son",,,,""
-"myZS","племянник",,"male ego's younger sister's son",,,,""
-"meBD","племянница",,"male ego's older brother's daughter",,,,""
-"myBD","племянница",,"male ego's younger brother's daughter",,,,""
-"meZD","племянница",,"male ego's older sister's daughter",,,,""
-"myZD","племянница",,"male ego's younger sister's daughter",,,,""
-"feBS","племянник",,"female ego's older brother's son",,,,""
-"fyBS","племянник",,"female ego's younger brother's son",,,,""
-"feZS","племянник",,"female ego's older sister's son",,,,""
-"fyZS","племянник",,"female ego's younger sister's son",,,,""
-"feBD","племянница",,"female ego's older brother's daughter",,,,""
-"fyBD","племянница",,"female ego's younger brother's daughter",,,,""
-"feZD","племянница",,"female ego's older sister's daughter",,,,""
-"fyZD","племянница",,"female ego's younger sister's daughter",,,,""
-"mFeB","дядя",,"male ego's father's older brother",,,,""
-"mFyB","дядя",,"male ego's father's younger brother",,,,""
-"mFeZ","тётя",,"male ego's father's older sister",,,,""
-"mFyZ","тётя",,"male ego's father's younger sister",,,,""
-"mMeB","дядя",,"male ego's mother's older brother",,,,""
-"mMyB","дядя",,"male ego's mother's younger brother",,,,""
-"mMeZ","тётя",,"male ego's mother's older sister",,,,""
-"mMyZ","тётя",,"male ego's mother's younger sister",,,,""
-"fFeB","дядя",,"female ego's father's older brother",,,,""
-"fFyB","дядя",,"female ego's father's younger brother",,,,""
-"fFeZ","тётя",,"female ego's father's older sister",,,,""
-"fFyZ","тётя",,"female ego's father's younger sister",,,,""
-"fMeB","дядя",,"female ego's mother's older brother",,,,""
-"fMyB","дядя",,"female ego's mother's younger brother",,,,""
-"fMeZ","тётя",,"female ego's mother's older sister",,,,""
-"fMyZ","тётя",,"female ego's mother's younger sister",,,,""
-"mW","жена, супруга",,"male ego's wife",,,,""
-"fH","муж, супруг",,"female ego‘s husband",,,,""
-"mDH","зять",,"male ego's daughter's husband",,,,""
-"fDH","зять",,"female ego's daughter's husband",,,,""
-"mSW","невестка, сноха",,"male ego's son's wife",,,,""
-"fSW","невестка, сноха",,"female ego's son's wife",,,,"Some sources claim this is incorrect usage and that сноха is restricted to mSW, not fSW"
-"mWF","тесть",,"male ego's wife's father",,,,""
-"mWM","теща",,"male ego's wife's mother",,,,""
-"mWB","шурин",,"male ego's wife's brother",,,,""
-"mWZ","свояченица",,"male ego's wife's sister",,,,""
-"fHF","свекор",,"female ego's husband's father",,,,""
-"fHM","свекровь",,"female ego's husband's mother",,,,""
-"fHB","деверь",,"female ego's husband's brother",,,,""
-"fHZ","золовка",,"female ego's husband's sister",,,,""
-"mBW","невестка",,"male ego's brother's wife",,,,""
-"fBW","невестка",,"female ego's brother's wife",,,,"щ"
-"mZH","зять",,"male ego's sister's husband",,,,""
-"fZH","зять",,"female ego's sister's husband",,,,""
-"mFBS","двоюродный брат",,"male ego's father's brother's son",,,,""
-"mFZS","двоюродный брат",,"male ego's father's sister's son",,,,""
-"mMBS","двоюродный брат",,"male ego's mother's brother's son",,,,""
-"mMZS","двоюродный брат",,"male ego's mother's sister's son",,,,""
-"mFBD","двоюродный сестра",,"male ego's father's brother's daughter",,,,""
-"mFZD","двоюродный сестра",,"male ego's father's sister's daughter",,,,""
-"mMBD","двоюродный сестра",,"male ego's mother's brother's daughter",,,,""
-"mMZD","двоюродный сестра",,"male ego's mother's sister's daughter",,,,""
-"fFBS","двоюродный брат",,"female ego's father's brother's son",,,,""
-"fFZS","двоюродный брат",,"female ego's father's sister's son",,,,""
-"fMBS","двоюродный брат",,"female ego's mother's brother's son",,,,""
-"fMZS","двоюродный брат",,"female ego's mother's sister's son",,,,""
-"fFBD","двоюродный сестра",,"female ego's father's brother's daughter",,,,""
-"fFZD","двоюродный сестра",,"female ego's father's sister's daughter",,,,""
-"fMBD","двоюродный сестра",,"female ego's mother's brother's daughter",,,,""
-"fMZD","двоюродный сестра",,"female ego's mother's sister's daughter",,,,""
-"mFeBS","двоюродный брат",,"male ego's father's brother's son",,,,"Inferred; "
-"mFyBS","двоюродный брат",,"male ego's father's brother's son",,,,"Inferred; "
-"mFeZS","двоюродный брат",,"male ego's father's sister's son",,,,"Inferred; "
-"mFyZS","двоюродный брат",,"male ego's father's sister's son",,,,"Inferred; "
-"mFeBD","двоюродный сестра",,"male ego's father's brother's daughter",,,,"Inferred; "
-"mFyBD","двоюродный сестра",,"male ego's father's brother's daughter",,,,"Inferred; "
-"mFeZD","двоюродный сестра",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFyZD","двоюродный сестра",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mMeBS","двоюродный брат",,"male ego's mother's brother's son",,,,"Inferred; "
-"mMyBS","двоюродный брат",,"male ego's mother's brother's son",,,,"Inferred; "
-"mMeZS","двоюродный брат",,"male ego's mother's sister's son",,,,"Inferred; "
-"mMyZS","двоюродный брат",,"male ego's mother's sister's son",,,,"Inferred; "
-"mMeBD","двоюродный сестра",,"male ego's mother's brother's daughter",,,,"Inferred; "
-"mMyBD","двоюродный сестра",,"male ego's mother's brother's daughter",,,,"Inferred; "
-"mMeZD","двоюродный сестра",,"male ego's mother's sister's daughter",,,,"Inferred; "
-"mMyZD","двоюродный сестра",,"male ego's mother's sister's daughter",,,,"Inferred; "
-"mFBeS","двоюродный брат",,"male ego's father's brother's son",,,,"Inferred; "
-"mFByS","двоюродный брат",,"male ego's father's brother's son",,,,"Inferred; "
-"mFZeS","двоюродный брат",,"male ego's father's sister's son",,,,"Inferred; "
-"mFZyS","двоюродный брат",,"male ego's father's sister's son",,,,"Inferred; "
-"mFBeD","двоюродный сестра",,"male ego's father's brother's daughter",,,,"Inferred; "
-"mFByD","двоюродный сестра",,"male ego's father's brother's daughter",,,,"Inferred; "
-"mFZeD","двоюродный сестра",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFZyD","двоюродный сестра",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mMBeS","двоюродный брат",,"male ego's mother's brother's son",,,,"Inferred; "
-"mMByS","двоюродный брат",,"male ego's mother's brother's son",,,,"Inferred; "
-"mMZeS","двоюродный брат",,"male ego's mother's sister's son",,,,"Inferred; "
-"mMZyS","двоюродный брат",,"male ego's mother's sister's son",,,,"Inferred; "
-"mMBeD","двоюродный сестра",,"male ego's mother's brother's daughter",,,,"Inferred; "
-"mMByD","двоюродный сестра",,"male ego's mother's brother's daughter",,,,"Inferred; "
-"mMZeD","двоюродный сестра",,"male ego's mother's sister's daughter",,,,"Inferred; "
-"mMZyD","двоюродный сестра",,"male ego's mother's sister's daughter",,,,"Inferred; "
-"fFeBS","двоюродный брат",,"female ego's father's brother's son",,,,"Inferred; "
-"fFyBS","двоюродный брат",,"female ego's father's brother's son",,,,"Inferred; "
-"fFeZS","двоюродный брат",,"female ego's father's sister's son",,,,"Inferred; "
-"fFyZS","двоюродный брат",,"female ego's father's sister's son",,,,"Inferred; "
-"fFeBD","двоюродный сестра",,"female ego's father's brother's daughter",,,,"Inferred; "
-"fFyBD","двоюродный сестра",,"female ego's father's brother's daughter",,,,"Inferred; "
-"fFeZD","двоюродный сестра",,"female ego's father's sister's daughter",,,,"Inferred; "
-"fFyZD","двоюродный сестра",,"female ego's father's sister's daughter",,,,"Inferred; "
-"fMeBS","двоюродный брат",,"female ego's mother's brother's son",,,,"Inferred; "
-"fMyBS","двоюродный брат",,"female ego's mother's brother's son",,,,"Inferred; "
-"fMeZS","двоюродный брат",,"female ego's mother's sister's son",,,,"Inferred; "
-"fMyZS","двоюродный брат",,"female ego's mother's sister's son",,,,"Inferred; "
-"fMeBD","двоюродный сестра",,"female ego's mother's brother's daughter",,,,"Inferred; "
-"fMyBD","двоюродный сестра",,"female ego's mother's brother's daughter",,,,"Inferred; "
-"fMeZD","двоюродный сестра",,"female ego's mother's sister's daughter",,,,"Inferred; "
-"fMyZD","двоюродный сестра",,"female ego's mother's sister's daughter",,,,"Inferred; "
-"fFBeS","двоюродный брат",,"female ego's father's brother's son",,,,"Inferred; "
-"fFByS","двоюродный брат",,"female ego's father's brother's son",,,,"Inferred; "
-"fFZeS","двоюродный брат",,"female ego's father's sister's son",,,,"Inferred; "
-"fFZyS","двоюродный брат",,"female ego's father's sister's son",,,,"Inferred; "
-"fFBeD","двоюродный сестра",,"female ego's father's brother's daughter",,,,"Inferred; "
-"fFByD","двоюродный сестра",,"female ego's father's brother's daughter",,,,"Inferred; "
-"fFZeD","двоюродный сестра",,"female ego's father's sister's daughter",,,,"Inferred; "
-"fFZyD","двоюродный сестра",,"female ego's father's sister's daughter",,,,"Inferred; "
-"fMBeS","двоюродный брат",,"female ego's mother's brother's son",,,,"Inferred; "
-"fMByS","двоюродный брат",,"female ego's mother's brother's son",,,,"Inferred; "
-"fMZeS","двоюродный брат",,"female ego's mother's sister's son",,,,"Inferred; "
-"fMZyS","двоюродный брат",,"female ego's mother's sister's son",,,,"Inferred; "
-"fMBeD","двоюродный сестра",,"female ego's mother's brother's daughter",,,,"Inferred; "
-"fMByD","двоюродный сестра",,"female ego's mother's brother's daughter",,,,"Inferred; "
-"fMZeD","двоюродный сестра",,"female ego's mother's sister's daughter",,,,"Inferred; "
-"fMZyD","двоюродный сестра",,"female ego's mother's sister's daughter",,,,"Inferred; "
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,брат,,male ego's older brother,,,Evans2016,
+myB,брат,,male ego's younger brother,,,Evans2016,
+feB,брат,,female ego's older brother,,,Evans2016,
+fyB,брат,,female ego's younger brother,,,Evans2016,
+meZ,сестра,,male ego's older sister,,,Evans2016,
+myZ,сестра,,male ego's younger sister,,,Evans2016,
+feZ,сестра,,female ego's older sister,,,Evans2016,
+fyZ,сестра,,female ego's younger sister,,,Evans2016,
+mF,отец,,male ego's father,,,Evans2016,
+mM,мать,,male ego's mother,,,Evans2016,
+fF,отец,,female ego's father,,,Evans2016,
+fM,мать,,female ego's mother,,,Evans2016,
+mS,сын,,male ego's son,,,Evans2016,
+fS,сын,,female ego's son,,,Evans2016,
+mD,дочь,,male ego's daughter,,,Evans2016,
+fD,дочь,,female ego's daughter,,,Evans2016,
+mSS,внук,,male ego's son's son,,,Evans2016,
+mSD,внучка,,male ego's son's daughter,,,Evans2016,
+mDS,внук,,male ego's daughter's son,,,Evans2016,
+mDD,внучка,,male ego's daughter's daughter,,,Evans2016,
+fSS,внук,,female ego's son's son,,,Evans2016,
+fSD,внучка,,female ego's son's daughter,,,Evans2016,
+fDS,внук,,female ego's daughter's son,,,Evans2016,
+fDD,внучка,,female ego's daugher's daughter,,,Evans2016,
+mFF,дедушка,,male ego's father‘s father,,,Evans2016,
+mFM,бабушка,,male ego's father's mother,,,Evans2016,
+mMF,дедушка,,male ego's mother's father,,,Evans2016,
+mMM,бабушка,,male ego's mother's mother,,,Evans2016,
+fFF,дедушка,,female ego's father's father,,,Evans2016,
+fFM,бабушка,,female ego's father's mother,,,Evans2016,
+fMF,дедушка,,female ego's mother's father,,,Evans2016,
+fMM,бабушка,,female ego's mother's mother,,,Evans2016,
+meBS,племянник,,male ego's older brother's son,,,Evans2016,
+myBS,племянник,,male ego's younger brother's son,,,Evans2016,
+meZS,племянник,,male ego's older sister's son,,,Evans2016,
+myZS,племянник,,male ego's younger sister's son,,,Evans2016,
+meBD,племянница,,male ego's older brother's daughter,,,Evans2016,
+myBD,племянница,,male ego's younger brother's daughter,,,Evans2016,
+meZD,племянница,,male ego's older sister's daughter,,,Evans2016,
+myZD,племянница,,male ego's younger sister's daughter,,,Evans2016,
+feBS,племянник,,female ego's older brother's son,,,Evans2016,
+fyBS,племянник,,female ego's younger brother's son,,,Evans2016,
+feZS,племянник,,female ego's older sister's son,,,Evans2016,
+fyZS,племянник,,female ego's younger sister's son,,,Evans2016,
+feBD,племянница,,female ego's older brother's daughter,,,Evans2016,
+fyBD,племянница,,female ego's younger brother's daughter,,,Evans2016,
+feZD,племянница,,female ego's older sister's daughter,,,Evans2016,
+fyZD,племянница,,female ego's younger sister's daughter,,,Evans2016,
+mFeB,дядя,,male ego's father's older brother,,,Evans2016,
+mFyB,дядя,,male ego's father's younger brother,,,Evans2016,
+mFeZ,тётя,,male ego's father's older sister,,,Evans2016,
+mFyZ,тётя,,male ego's father's younger sister,,,Evans2016,
+mMeB,дядя,,male ego's mother's older brother,,,Evans2016,
+mMyB,дядя,,male ego's mother's younger brother,,,Evans2016,
+mMeZ,тётя,,male ego's mother's older sister,,,Evans2016,
+mMyZ,тётя,,male ego's mother's younger sister,,,Evans2016,
+fFeB,дядя,,female ego's father's older brother,,,Evans2016,
+fFyB,дядя,,female ego's father's younger brother,,,Evans2016,
+fFeZ,тётя,,female ego's father's older sister,,,Evans2016,
+fFyZ,тётя,,female ego's father's younger sister,,,Evans2016,
+fMeB,дядя,,female ego's mother's older brother,,,Evans2016,
+fMyB,дядя,,female ego's mother's younger brother,,,Evans2016,
+fMeZ,тётя,,female ego's mother's older sister,,,Evans2016,
+fMyZ,тётя,,female ego's mother's younger sister,,,Evans2016,
+mW,"жена, супруга",,male ego's wife,,,Evans2016,
+fH,"муж, супруг",,female ego‘s husband,,,Evans2016,
+mDH,зять,,male ego's daughter's husband,,,Evans2016,
+fDH,зять,,female ego's daughter's husband,,,Evans2016,
+mSW,"невестка, сноха",,male ego's son's wife,,,Evans2016,
+fSW,"невестка, сноха",,female ego's son's wife,,,Evans2016,"Some sources claim this is incorrect usage and that сноха is restricted to mSW, not fSW"
+mWF,тесть,,male ego's wife's father,,,Evans2016,
+mWM,теща,,male ego's wife's mother,,,Evans2016,
+mWB,шурин,,male ego's wife's brother,,,Evans2016,
+mWZ,свояченица,,male ego's wife's sister,,,Evans2016,
+fHF,свекор,,female ego's husband's father,,,Evans2016,
+fHM,свекровь,,female ego's husband's mother,,,Evans2016,
+fHB,деверь,,female ego's husband's brother,,,Evans2016,
+fHZ,золовка,,female ego's husband's sister,,,Evans2016,
+mBW,невестка,,male ego's brother's wife,,,Evans2016,
+fBW,невестка,,female ego's brother's wife,,,Evans2016,щ
+mZH,зять,,male ego's sister's husband,,,Evans2016,
+fZH,зять,,female ego's sister's husband,,,Evans2016,
+mFBS,двоюродный брат,,male ego's father's brother's son,,,Evans2016,
+mFZS,двоюродный брат,,male ego's father's sister's son,,,Evans2016,
+mMBS,двоюродный брат,,male ego's mother's brother's son,,,Evans2016,
+mMZS,двоюродный брат,,male ego's mother's sister's son,,,Evans2016,
+mFBD,двоюродный сестра,,male ego's father's brother's daughter,,,Evans2016,
+mFZD,двоюродный сестра,,male ego's father's sister's daughter,,,Evans2016,
+mMBD,двоюродный сестра,,male ego's mother's brother's daughter,,,Evans2016,
+mMZD,двоюродный сестра,,male ego's mother's sister's daughter,,,Evans2016,
+fFBS,двоюродный брат,,female ego's father's brother's son,,,Evans2016,
+fFZS,двоюродный брат,,female ego's father's sister's son,,,Evans2016,
+fMBS,двоюродный брат,,female ego's mother's brother's son,,,Evans2016,
+fMZS,двоюродный брат,,female ego's mother's sister's son,,,Evans2016,
+fFBD,двоюродный сестра,,female ego's father's brother's daughter,,,Evans2016,
+fFZD,двоюродный сестра,,female ego's father's sister's daughter,,,Evans2016,
+fMBD,двоюродный сестра,,female ego's mother's brother's daughter,,,Evans2016,
+fMZD,двоюродный сестра,,female ego's mother's sister's daughter,,,Evans2016,
+mFeBS,двоюродный брат,,male ego's father's brother's son,,,Evans2016,Inferred; 
+mFyBS,двоюродный брат,,male ego's father's brother's son,,,Evans2016,Inferred; 
+mFeZS,двоюродный брат,,male ego's father's sister's son,,,Evans2016,Inferred; 
+mFyZS,двоюродный брат,,male ego's father's sister's son,,,Evans2016,Inferred; 
+mFeBD,двоюродный сестра,,male ego's father's brother's daughter,,,Evans2016,Inferred; 
+mFyBD,двоюродный сестра,,male ego's father's brother's daughter,,,Evans2016,Inferred; 
+mFeZD,двоюродный сестра,,male ego's father's sister's daughter,,,Evans2016,Inferred; 
+mFyZD,двоюродный сестра,,male ego's father's sister's daughter,,,Evans2016,Inferred; 
+mMeBS,двоюродный брат,,male ego's mother's brother's son,,,Evans2016,Inferred; 
+mMyBS,двоюродный брат,,male ego's mother's brother's son,,,Evans2016,Inferred; 
+mMeZS,двоюродный брат,,male ego's mother's sister's son,,,Evans2016,Inferred; 
+mMyZS,двоюродный брат,,male ego's mother's sister's son,,,Evans2016,Inferred; 
+mMeBD,двоюродный сестра,,male ego's mother's brother's daughter,,,Evans2016,Inferred; 
+mMyBD,двоюродный сестра,,male ego's mother's brother's daughter,,,Evans2016,Inferred; 
+mMeZD,двоюродный сестра,,male ego's mother's sister's daughter,,,Evans2016,Inferred; 
+mMyZD,двоюродный сестра,,male ego's mother's sister's daughter,,,Evans2016,Inferred; 
+mFBeS,двоюродный брат,,male ego's father's brother's son,,,Evans2016,Inferred; 
+mFByS,двоюродный брат,,male ego's father's brother's son,,,Evans2016,Inferred; 
+mFZeS,двоюродный брат,,male ego's father's sister's son,,,Evans2016,Inferred; 
+mFZyS,двоюродный брат,,male ego's father's sister's son,,,Evans2016,Inferred; 
+mFBeD,двоюродный сестра,,male ego's father's brother's daughter,,,Evans2016,Inferred; 
+mFByD,двоюродный сестра,,male ego's father's brother's daughter,,,Evans2016,Inferred; 
+mFZeD,двоюродный сестра,,male ego's father's sister's daughter,,,Evans2016,Inferred; 
+mFZyD,двоюродный сестра,,male ego's father's sister's daughter,,,Evans2016,Inferred; 
+mMBeS,двоюродный брат,,male ego's mother's brother's son,,,Evans2016,Inferred; 
+mMByS,двоюродный брат,,male ego's mother's brother's son,,,Evans2016,Inferred; 
+mMZeS,двоюродный брат,,male ego's mother's sister's son,,,Evans2016,Inferred; 
+mMZyS,двоюродный брат,,male ego's mother's sister's son,,,Evans2016,Inferred; 
+mMBeD,двоюродный сестра,,male ego's mother's brother's daughter,,,Evans2016,Inferred; 
+mMByD,двоюродный сестра,,male ego's mother's brother's daughter,,,Evans2016,Inferred; 
+mMZeD,двоюродный сестра,,male ego's mother's sister's daughter,,,Evans2016,Inferred; 
+mMZyD,двоюродный сестра,,male ego's mother's sister's daughter,,,Evans2016,Inferred; 
+fFeBS,двоюродный брат,,female ego's father's brother's son,,,Evans2016,Inferred; 
+fFyBS,двоюродный брат,,female ego's father's brother's son,,,Evans2016,Inferred; 
+fFeZS,двоюродный брат,,female ego's father's sister's son,,,Evans2016,Inferred; 
+fFyZS,двоюродный брат,,female ego's father's sister's son,,,Evans2016,Inferred; 
+fFeBD,двоюродный сестра,,female ego's father's brother's daughter,,,Evans2016,Inferred; 
+fFyBD,двоюродный сестра,,female ego's father's brother's daughter,,,Evans2016,Inferred; 
+fFeZD,двоюродный сестра,,female ego's father's sister's daughter,,,Evans2016,Inferred; 
+fFyZD,двоюродный сестра,,female ego's father's sister's daughter,,,Evans2016,Inferred; 
+fMeBS,двоюродный брат,,female ego's mother's brother's son,,,Evans2016,Inferred; 
+fMyBS,двоюродный брат,,female ego's mother's brother's son,,,Evans2016,Inferred; 
+fMeZS,двоюродный брат,,female ego's mother's sister's son,,,Evans2016,Inferred; 
+fMyZS,двоюродный брат,,female ego's mother's sister's son,,,Evans2016,Inferred; 
+fMeBD,двоюродный сестра,,female ego's mother's brother's daughter,,,Evans2016,Inferred; 
+fMyBD,двоюродный сестра,,female ego's mother's brother's daughter,,,Evans2016,Inferred; 
+fMeZD,двоюродный сестра,,female ego's mother's sister's daughter,,,Evans2016,Inferred; 
+fMyZD,двоюродный сестра,,female ego's mother's sister's daughter,,,Evans2016,Inferred; 
+fFBeS,двоюродный брат,,female ego's father's brother's son,,,Evans2016,Inferred; 
+fFByS,двоюродный брат,,female ego's father's brother's son,,,Evans2016,Inferred; 
+fFZeS,двоюродный брат,,female ego's father's sister's son,,,Evans2016,Inferred; 
+fFZyS,двоюродный брат,,female ego's father's sister's son,,,Evans2016,Inferred; 
+fFBeD,двоюродный сестра,,female ego's father's brother's daughter,,,Evans2016,Inferred; 
+fFByD,двоюродный сестра,,female ego's father's brother's daughter,,,Evans2016,Inferred; 
+fFZeD,двоюродный сестра,,female ego's father's sister's daughter,,,Evans2016,Inferred; 
+fFZyD,двоюродный сестра,,female ego's father's sister's daughter,,,Evans2016,Inferred; 
+fMBeS,двоюродный брат,,female ego's mother's brother's son,,,Evans2016,Inferred; 
+fMByS,двоюродный брат,,female ego's mother's brother's son,,,Evans2016,Inferred; 
+fMZeS,двоюродный брат,,female ego's mother's sister's son,,,Evans2016,Inferred; 
+fMZyS,двоюродный брат,,female ego's mother's sister's son,,,Evans2016,Inferred; 
+fMBeD,двоюродный сестра,,female ego's mother's brother's daughter,,,Evans2016,Inferred; 
+fMByD,двоюродный сестра,,female ego's mother's brother's daughter,,,Evans2016,Inferred; 
+fMZeD,двоюродный сестра,,female ego's mother's sister's daughter,,,Evans2016,Inferred; 
+fMZyD,двоюродный сестра,,female ego's mother's sister's daughter,,,Evans2016,Inferred; 

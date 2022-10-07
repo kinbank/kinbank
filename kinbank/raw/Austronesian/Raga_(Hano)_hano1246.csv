@@ -1,106 +1,106 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tua, tuaga",,"male ego's older brother",,,,
-"myB","tua, tihi",,"male ego's younger brother",,,,
-"feB","hogosi",,"female ego's older brother",,,,
-"fyB","tihi, hogosi",,"female ego's younger brother",,,,
-"meZ","hogosi",,"male ego's older sister",,,,
-"myZ","tihi, hogosi",,"male ego's younger sister",,,,
-"feZ","tua, tuaga",,"female ego's older sister",,,,
-"fyZ","tua, tihi",,"female ego's younger sister",,,,
-"mF","tama",,"male ego's father",,,,
-"mM","ratahi",,"male ego's mother",,,,
-"fF","tama",,"female ego's father",,,,
-"fM","ratahi",,"female ego's mother",,,,
-"mS","nitu",,"male ego's son",,,,
-"fS","nitu",,"female ego's son",,,,
-"mD","nitu",,"male ego's daughter",,,,
-"fD","nitu",,"female ego's daughter",,,,
-"mSS","tihi",,"male ego's son's son",,,,
-"mSD","tihi",,"male ego's son's daughter",,,,
-"mDS","mabi",,"male ego's daughter's son",,,,
-"mDD","mabi",,"male ego's daughter's daughter",,,,
-"fDS","tihi",,"female ego's daughter's son",,,,
-"fDD","tihi",,"female ego's daugher's daughter",,,,
-"mFF","tuaga",,"male ego's father‘s father",,,,
-"mMF","sibi, bibi",,"male ego's mother's father",,,,
-"mMM","tuaga",,"male ego's mother's mother",,,,
-"fFF","tuaga",,"female ego's father's father",,,,
-"fMF","sibi, bibi",,"female ego's mother's father",,,,
-"fMM","tuaga",,"female ego's mother's mother",,,,
-"meZS","aloa",,"male ego's older sister's son",,,,
-"myZS","aloa",,"male ego's younger sister's son",,,,
-"meZD","aloa",,"male ego's older sister's daughter",,,,
-"myZD","aloa",,"male ego's younger sister's daughter",,,,
-"mFeB","tama",,"male ego's father's older brother",,,,
-"mFyB","tama",,"male ego's father's younger brother",,,,
-"mFeZ","vwavwa",,"male ego's father's older sister",,,,
-"mFyZ","vwavwa",,"male ego's father's younger sister",,,,
-"mMeB","tarabe",,"male ego's mother's older brother",,,,
-"mMyB","tarabe",,"male ego's mother's younger brother",,,,
-"mMeZ","ratahi",,"male ego's mother's older sister",,,,
-"mMyZ","ratahi",,"male ego's mother's younger sister",,,,
-"fFeB","tama",,"female ego's father's older brother",,,,
-"fFyB","tama",,"female ego's father's younger brother",,,,
-"fFeZ","vwavwa",,"female ego's father's older sister",,,,
-"fFyZ","vwavwa",,"female ego's father's younger sister",,,,
-"fMeB","tarabe",,"female ego's mother's older brother",,,,
-"fMyB","tarabe",,"female ego's mother's younger brother",,,,
-"fMeZ","ratahi",,"female ego's mother's older sister",,,,
-"fMyZ","ratahi",,"female ego's mother's younger sister",,,,
-"mW","mabi, tasala",,"male ego's wife",,,,
-"fH","ahoa",,"female ego‘s husband",,,,
-"mDH","bwaliga",,"male ego's daughter's husband",,,,
-"mWF","bwaliga",,"male ego's wife's father",,,,
-"mWM","nitu",,"male ego's wife's mother",,,,
-"mWB","mabi, bulena",,"male ego's wife's brother",,,,
-"fHM","sibi, bibi",,"female ego's husband's mother",,,,
-"fHB","sibi, bibi",,"female ego's husband's brother",,,,
-"fHZ","habwe",,"female ego's husband's sister",,,,
-"fBW","habwe",,"female ego's brother's wife",,,,
-"mZH","sibi, bibi",,"male ego's sister's husband",,,,
-"fZH","sibi, bibi",,"female ego's sister's husband",,,,
-"mFZS","tama",,"male ego's father's sister's son",,,,
-"mMBS","nitu",,"male ego's mother's brother's son",,,,
-"mFZD","vwavwa",,"male ego's father's sister's daughter",,,,
-"mMBD","nitu",,"male ego's mother's brother's daughter",,,,
-"fFBS","tama",,"female ego's father's brother's son",,,,
-"fFZS","sibi, bibi",,"female ego's father's sister's son",,,,
-"fMBS","nitu",,"female ego's mother's brother's son",,,,
-"fFZD","vwavwa",,"female ego's father's sister's daughter",,,,
-"fMBD","nitu",,"female ego's mother's brother's daughter",,,,
-"mFeZS","tama",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","tama",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeZD","vwavwa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","vwavwa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","nitu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","nitu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeBD","nitu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","nitu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mFZeS","tama",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","tama",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZeD","vwavwa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","vwavwa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","nitu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","nitu",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMBeD","nitu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","nitu",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFeBS","tama",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","tama",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","sibi, bibi",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","sibi, bibi",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeZD","vwavwa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","vwavwa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","nitu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","nitu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeBD","nitu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","nitu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFBeS","tama",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","tama",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","sibi, bibi",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","sibi, bibi",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZeD","vwavwa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","vwavwa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","nitu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","nitu",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMBeD","nitu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","nitu",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"tua, tuaga",,male ego's older brother,,,yoshioka1988a,
+myB,"tua, tihi",,male ego's younger brother,,,yoshioka1988a,
+feB,hogosi,,female ego's older brother,,,yoshioka1988a,
+fyB,"tihi, hogosi",,female ego's younger brother,,,yoshioka1988a,
+meZ,hogosi,,male ego's older sister,,,yoshioka1988a,
+myZ,"tihi, hogosi",,male ego's younger sister,,,yoshioka1988a,
+feZ,"tua, tuaga",,female ego's older sister,,,yoshioka1988a,
+fyZ,"tua, tihi",,female ego's younger sister,,,yoshioka1988a,
+mF,tama,,male ego's father,,,yoshioka1988a,
+mM,ratahi,,male ego's mother,,,yoshioka1988a,
+fF,tama,,female ego's father,,,yoshioka1988a,
+fM,ratahi,,female ego's mother,,,yoshioka1988a,
+mS,nitu,,male ego's son,,,yoshioka1988a,
+fS,nitu,,female ego's son,,,yoshioka1988a,
+mD,nitu,,male ego's daughter,,,yoshioka1988a,
+fD,nitu,,female ego's daughter,,,yoshioka1988a,
+mSS,tihi,,male ego's son's son,,,yoshioka1988a,
+mSD,tihi,,male ego's son's daughter,,,yoshioka1988a,
+mDS,mabi,,male ego's daughter's son,,,yoshioka1988a,
+mDD,mabi,,male ego's daughter's daughter,,,yoshioka1988a,
+fDS,tihi,,female ego's daughter's son,,,yoshioka1988a,
+fDD,tihi,,female ego's daugher's daughter,,,yoshioka1988a,
+mFF,tuaga,,male ego's father‘s father,,,yoshioka1988a,
+mMF,"sibi, bibi",,male ego's mother's father,,,yoshioka1988a,
+mMM,tuaga,,male ego's mother's mother,,,yoshioka1988a,
+fFF,tuaga,,female ego's father's father,,,yoshioka1988a,
+fMF,"sibi, bibi",,female ego's mother's father,,,yoshioka1988a,
+fMM,tuaga,,female ego's mother's mother,,,yoshioka1988a,
+meZS,aloa,,male ego's older sister's son,,,yoshioka1988a,
+myZS,aloa,,male ego's younger sister's son,,,yoshioka1988a,
+meZD,aloa,,male ego's older sister's daughter,,,yoshioka1988a,
+myZD,aloa,,male ego's younger sister's daughter,,,yoshioka1988a,
+mFeB,tama,,male ego's father's older brother,,,yoshioka1988a,
+mFyB,tama,,male ego's father's younger brother,,,yoshioka1988a,
+mFeZ,vwavwa,,male ego's father's older sister,,,yoshioka1988a,
+mFyZ,vwavwa,,male ego's father's younger sister,,,yoshioka1988a,
+mMeB,tarabe,,male ego's mother's older brother,,,yoshioka1988a,
+mMyB,tarabe,,male ego's mother's younger brother,,,yoshioka1988a,
+mMeZ,ratahi,,male ego's mother's older sister,,,yoshioka1988a,
+mMyZ,ratahi,,male ego's mother's younger sister,,,yoshioka1988a,
+fFeB,tama,,female ego's father's older brother,,,yoshioka1988a,
+fFyB,tama,,female ego's father's younger brother,,,yoshioka1988a,
+fFeZ,vwavwa,,female ego's father's older sister,,,yoshioka1988a,
+fFyZ,vwavwa,,female ego's father's younger sister,,,yoshioka1988a,
+fMeB,tarabe,,female ego's mother's older brother,,,yoshioka1988a,
+fMyB,tarabe,,female ego's mother's younger brother,,,yoshioka1988a,
+fMeZ,ratahi,,female ego's mother's older sister,,,yoshioka1988a,
+fMyZ,ratahi,,female ego's mother's younger sister,,,yoshioka1988a,
+mW,"mabi, tasala",,male ego's wife,,,yoshioka1988a,
+fH,ahoa,,female ego‘s husband,,,yoshioka1988a,
+mDH,bwaliga,,male ego's daughter's husband,,,yoshioka1988a,
+mWF,bwaliga,,male ego's wife's father,,,yoshioka1988a,
+mWM,nitu,,male ego's wife's mother,,,yoshioka1988a,
+mWB,"mabi, bulena",,male ego's wife's brother,,,yoshioka1988a,
+fHM,"sibi, bibi",,female ego's husband's mother,,,yoshioka1988a,
+fHB,"sibi, bibi",,female ego's husband's brother,,,yoshioka1988a,
+fHZ,habwe,,female ego's husband's sister,,,yoshioka1988a,
+fBW,habwe,,female ego's brother's wife,,,yoshioka1988a,
+mZH,"sibi, bibi",,male ego's sister's husband,,,yoshioka1988a,
+fZH,"sibi, bibi",,female ego's sister's husband,,,yoshioka1988a,
+mFZS,tama,,male ego's father's sister's son,,,yoshioka1988a,
+mMBS,nitu,,male ego's mother's brother's son,,,yoshioka1988a,
+mFZD,vwavwa,,male ego's father's sister's daughter,,,yoshioka1988a,
+mMBD,nitu,,male ego's mother's brother's daughter,,,yoshioka1988a,
+fFBS,tama,,female ego's father's brother's son,,,yoshioka1988a,
+fFZS,"sibi, bibi",,female ego's father's sister's son,,,yoshioka1988a,
+fMBS,nitu,,female ego's mother's brother's son,,,yoshioka1988a,
+fFZD,vwavwa,,female ego's father's sister's daughter,,,yoshioka1988a,
+fMBD,nitu,,female ego's mother's brother's daughter,,,yoshioka1988a,
+mFeZS,tama,,male ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+mFyZS,tama,,male ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+mFeZD,vwavwa,,male ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+mFyZD,vwavwa,,male ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+mMeBS,nitu,,male ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+mMyBS,nitu,,male ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+mMeBD,nitu,,male ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+mMyBD,nitu,,male ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+mFZeS,tama,,male ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+mFZyS,tama,,male ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+mFZeD,vwavwa,,male ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+mFZyD,vwavwa,,male ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+mMBeS,nitu,,male ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+mMByS,nitu,,male ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+mMBeD,nitu,,male ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+mMByD,nitu,,male ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+fFeBS,tama,,female ego's father's brother's son,,,yoshioka1988a,Inferred; NA
+fFyBS,tama,,female ego's father's brother's son,,,yoshioka1988a,Inferred; NA
+fFeZS,"sibi, bibi",,female ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+fFyZS,"sibi, bibi",,female ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+fFeZD,vwavwa,,female ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+fFyZD,vwavwa,,female ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+fMeBS,nitu,,female ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+fMyBS,nitu,,female ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+fMeBD,nitu,,female ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+fMyBD,nitu,,female ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+fFBeS,tama,,female ego's father's brother's son,,,yoshioka1988a,Inferred; NA
+fFByS,tama,,female ego's father's brother's son,,,yoshioka1988a,Inferred; NA
+fFZeS,"sibi, bibi",,female ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+fFZyS,"sibi, bibi",,female ego's father's sister's son,,,yoshioka1988a,Inferred; NA
+fFZeD,vwavwa,,female ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+fFZyD,vwavwa,,female ego's father's sister's daughter,,,yoshioka1988a,Inferred; NA
+fMBeS,nitu,,female ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+fMByS,nitu,,female ego's mother's brother's son,,,yoshioka1988a,Inferred; NA
+fMBeD,nitu,,female ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA
+fMByD,nitu,,female ego's mother's brother's daughter,,,yoshioka1988a,Inferred; NA

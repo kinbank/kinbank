@@ -1,5 +1,6 @@
 import glob
 import os
+import fileinput
 from shutil import move
 from pathlib import Path
 import pandas as pd
@@ -42,7 +43,21 @@ all_filenames = [
     "collections/kinura/kinbank/etc/languages.csv",
     "collections/goeldi/kinbank/etc/languages.csv",
 ]
+
 #combine all files in the list
 combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ])
 #export to csv
 combined_csv.to_csv("kinbank/etc/languages.csv", index=False, encoding='utf-8-sig')
+
+# combine source.bib files
+all_bibs = [
+    "collections/varikin/kinbank/raw/sources.bib",
+    "collections/parabank/kinbank/raw/sources.bib",
+    "collections/kinura/kinbank/raw/sources.bib",
+    "collections/goeldi/kinbank/raw/sources.bib"
+]
+
+#combine all files in the list
+with open('kinbank/raw/sources.bib', 'w') as file:
+    input_lines = fileinput.input(all_bibs)
+    file.writelines(input_lines)

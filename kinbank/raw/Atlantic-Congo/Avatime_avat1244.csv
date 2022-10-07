@@ -1,49 +1,49 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","ofo",,"male ego's older brother","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"myB","ɔtsɛ",,"male ego's younger brother","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"feB","ofo",,"female ego's older brother","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"fyB","ɔtsɛ",,"female ego's younger brother","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"meZ","ɔda",,"male ego's older sister","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"myZ","oƒe",,"male ego's younger sister","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"feZ","ɔda",,"female ego's older sister","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"fyZ","oƒe",,"female ego's younger sister","onemi 'sibling'",,,"the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters"
-"mF","ɔka",,"male ego's father","",,,""
-"mM","one",,"male ego's mother","",,,""
-"fF","ɔka",,"female ego's father","",,,""
-"fM","one",,"female ego's mother","",,,""
-"mS","obinyime",,"male ego's son","obi 'child'",,,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
-"fS","obinyime",,"female ego's son","obi 'child'",,,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
-"mD","obidzɛ",,"male ego's daughter","obi 'child'",,,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
-"fD","obidzɛ",,"female ego's daughter","obi 'child'",,,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
-"mSS","osobi",,"male ego's son's son","",,,""
-"mSD","osobi",,"male ego's son's daughter","",,,""
-"mDS","osobi",,"male ego's daughter's son","",,,""
-"mDD","osobi",,"male ego's daughter's daughter","",,,""
-"fSS","osobi",,"female ego's son's son","",,,""
-"fSD","osobi",,"female ego's son's daughter","",,,""
-"fDS","osobi",,"female ego's daughter's son","",,,""
-"fDD","osobi",,"female ego's daugher's daughter","",,,""
-"mFF","ɔkatsi",,"male ego's father‘s father","",,,""
-"mFM","onetsi",,"male ego's father's mother","",,,""
-"mMF","ɔkatsi",,"male ego's mother's father","",,,""
-"mMM","onetsi",,"male ego's mother's mother","",,,""
-"fFF","ɔkatsi",,"female ego's father's father","",,,""
-"fFM","onetsi",,"female ego's father's mother","",,,""
-"fMF","ɔkatsi",,"female ego's mother's father","",,,""
-"fMM","onetsi",,"female ego's mother's mother","",,,""
-"mFeB","ɔkabi",,"male ego's father's older brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"mFyB","ɔkabi",,"male ego's father's younger brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"mFeZ","ɔkada",,"male ego's father's older sister","",,,""
-"mFyZ","ɔkada",,"male ego's father's younger sister","",,,""
-"mMeB","ɔnyrɛ",,"male ego's mother's older brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"mMyB","ɔnyrɛ",,"male ego's mother's younger brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"mMeZ","oneda",,"male ego's mother's older sister","",,,""
-"mMyZ","oneda",,"male ego's mother's younger sister","",,,""
-"fFeB","ɔkabi",,"female ego's father's older brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"fFyB","ɔkabi",,"female ego's father's younger brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"fFeZ","ɔkada",,"female ego's father's older sister","",,,""
-"fFyZ","ɔkada",,"female ego's father's younger sister","",,,""
-"fMeB","ɔnyrɛ",,"female ego's mother's older brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"fMyB","ɔnyrɛ",,"female ego's mother's younger brother","ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,,""
-"fMeZ","oneda",,"female ego's mother's older sister","",,,""
-"fMyZ","oneda",,"female ego's mother's younger sister","",,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,ofo,,male ego's older brother,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+myB,ɔtsɛ,,male ego's younger brother,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+feB,ofo,,female ego's older brother,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+fyB,ɔtsɛ,,female ego's younger brother,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+meZ,ɔda,,male ego's older sister,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+myZ,oƒe,,male ego's younger sister,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+feZ,ɔda,,female ego's older sister,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+fyZ,oƒe,,female ego's younger sister,onemi 'sibling',,VanPuttenPC,the general 'sibling'  term onemi is also a very common way to refer to brothers and sisters
+mF,ɔka,,male ego's father,,,VanPuttenPC,
+mM,one,,male ego's mother,,,VanPuttenPC,
+fF,ɔka,,female ego's father,,,VanPuttenPC,
+fM,one,,female ego's mother,,,VanPuttenPC,
+mS,obinyime,,male ego's son,obi 'child',,VanPuttenPC,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
+fS,obinyime,,female ego's son,obi 'child',,VanPuttenPC,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
+mD,obidzɛ,,male ego's daughter,obi 'child',,VanPuttenPC,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
+fD,obidzɛ,,female ego's daughter,obi 'child',,VanPuttenPC,"obi 'child' is most frequent, the gender-specific terms obinyime 'son' (lit. male child) and obidzɛ 'daugher'  (lit. female child) are only used when gender is important/needs to be emphasized"
+mSS,osobi,,male ego's son's son,,,VanPuttenPC,
+mSD,osobi,,male ego's son's daughter,,,VanPuttenPC,
+mDS,osobi,,male ego's daughter's son,,,VanPuttenPC,
+mDD,osobi,,male ego's daughter's daughter,,,VanPuttenPC,
+fSS,osobi,,female ego's son's son,,,VanPuttenPC,
+fSD,osobi,,female ego's son's daughter,,,VanPuttenPC,
+fDS,osobi,,female ego's daughter's son,,,VanPuttenPC,
+fDD,osobi,,female ego's daugher's daughter,,,VanPuttenPC,
+mFF,ɔkatsi,,male ego's father‘s father,,,VanPuttenPC,
+mFM,onetsi,,male ego's father's mother,,,VanPuttenPC,
+mMF,ɔkatsi,,male ego's mother's father,,,VanPuttenPC,
+mMM,onetsi,,male ego's mother's mother,,,VanPuttenPC,
+fFF,ɔkatsi,,female ego's father's father,,,VanPuttenPC,
+fFM,onetsi,,female ego's father's mother,,,VanPuttenPC,
+fMF,ɔkatsi,,female ego's mother's father,,,VanPuttenPC,
+fMM,onetsi,,female ego's mother's mother,,,VanPuttenPC,
+mFeB,ɔkabi,,male ego's father's older brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+mFyB,ɔkabi,,male ego's father's younger brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+mFeZ,ɔkada,,male ego's father's older sister,,,VanPuttenPC,
+mFyZ,ɔkada,,male ego's father's younger sister,,,VanPuttenPC,
+mMeB,ɔnyrɛ,,male ego's mother's older brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+mMyB,ɔnyrɛ,,male ego's mother's younger brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+mMeZ,oneda,,male ego's mother's older sister,,,VanPuttenPC,
+mMyZ,oneda,,male ego's mother's younger sister,,,VanPuttenPC,
+fFeB,ɔkabi,,female ego's father's older brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+fFyB,ɔkabi,,female ego's father's younger brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+fFeZ,ɔkada,,female ego's father's older sister,,,VanPuttenPC,
+fFyZ,ɔkada,,female ego's father's younger sister,,,VanPuttenPC,
+fMeB,ɔnyrɛ,,female ego's mother's older brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+fMyB,ɔnyrɛ,,female ego's mother's younger brother,"ɔfa 'uncle' (can refer to both maternal and paternal, not sure if it applies to both older and younger)",,VanPuttenPC,
+fMeZ,oneda,,female ego's mother's older sister,,,VanPuttenPC,
+fMyZ,oneda,,female ego's mother's younger sister,,,VanPuttenPC,

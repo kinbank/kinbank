@@ -1,159 +1,159 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","súun ig-, pútul ug, titi",,"male ego's older brother",,,,
-"myB","manghud, súun ig-, pútul ug",,"male ego's younger brother",,,,
-"feB","súun ig-, pútul ug, titi",,"female ego's older brother",,,,
-"fyB","manghud, súun ig-, pútul ug",,"female ego's younger brother",,,,
-"meZ","súun ig-, pútul ug, manang",,"male ego's older sister",,,,
-"myZ","manghud, súun ig-, pútul ug",,"male ego's younger sister",,,,
-"feZ","súun ig-, pútul ug, manang",,"female ego's older sister",,,,
-"fyZ","manghud, súun ig-, pútul ug",,"female ego's younger sister",,,,
-"mF","úyung, amahan, irpat, itay",,"male ego's father",,,,
-"mM","anay",,"male ego's mother",,,,
-"fF","úyung, amahan, irpat, itay",,"female ego's father",,,,
-"fM","anay",,"female ego's mother",,,,
-"mS","anak",,"male ego's son",,,,
-"fS","anak",,"female ego's son",,,,
-"mD","anak",,"male ego's daughter",,,,
-"fD","anak",,"female ego's daughter",,,,
-"mSS","apu",,"male ego's son's son",,,,
-"mSD","apu",,"male ego's son's daughter",,,,
-"mDS","apu",,"male ego's daughter's son",,,,
-"mDD","apu",,"male ego's daughter's daughter",,,,
-"fSS","apu",,"female ego's son's son",,,,
-"fSD","apu",,"female ego's son's daughter",,,,
-"fDS","apu",,"female ego's daughter's son",,,,
-"fDD","apu",,"female ego's daugher's daughter",,,,
-"mFF","úyung, lúlu",,"male ego's father‘s father",,,,
-"mFM","úyang",,"male ego's father's mother",,,,
-"mMF","úyung, lúlu",,"male ego's mother's father",,,,
-"mMM","úyang",,"male ego's mother's mother",,,,
-"fFF","úyung, lúlu",,"female ego's father's father",,,,
-"fFM","úyang",,"female ego's father's mother",,,,
-"fMF","úyung, lúlu",,"female ego's mother's father",,,,
-"fMM","úyang",,"female ego's mother's mother",,,,
-"meBS","pag-umangkun",,"male ego's older brother's son",,,,
-"myBS","pag-umangkun",,"male ego's younger brother's son",,,,
-"meZS","pag-umangkun",,"male ego's older sister's son",,,,
-"myZS","pag-umangkun",,"male ego's younger sister's son",,,,
-"meBD","pag-umangkun",,"male ego's older brother's daughter",,,,
-"myBD","pag-umangkun",,"male ego's younger brother's daughter",,,,
-"meZD","pag-umangkun",,"male ego's older sister's daughter",,,,
-"myZD","pag-umangkun",,"male ego's younger sister's daughter",,,,
-"feBS","pag-umangkun",,"female ego's older brother's son",,,,
-"fyBS","pag-umangkun",,"female ego's younger brother's son",,,,
-"feZS","pag-umangkun",,"female ego's older sister's son",,,,
-"fyZS","pag-umangkun",,"female ego's younger sister's son",,,,
-"feBD","pag-umangkun",,"female ego's older brother's daughter",,,,
-"fyBD","pag-umangkun",,"female ego's younger brother's daughter",,,,
-"feZD","pag-umangkun",,"female ego's older sister's daughter",,,,
-"fyZD","pag-umangkun",,"female ego's younger sister's daughter",,,,
-"mFeB","uyuan",,"male ego's father's older brother",,,,
-"mFyB","uyuan",,"male ego's father's younger brother",,,,
-"mFeZ","anti",,"male ego's father's older sister",,,,
-"mFyZ","anti",,"male ego's father's younger sister",,,,
-"mMeB","uyuan",,"male ego's mother's older brother",,,,
-"mMyB","uyuan",,"male ego's mother's younger brother",,,,
-"mMeZ","anti",,"male ego's mother's older sister",,,,
-"mMyZ","anti",,"male ego's mother's younger sister",,,,
-"fFeB","uyuan",,"female ego's father's older brother",,,,
-"fFyB","uyuan",,"female ego's father's younger brother",,,,
-"fFeZ","anti",,"female ego's father's older sister",,,,
-"fFyZ","anti",,"female ego's father's younger sister",,,,
-"fMeB","uyuan",,"female ego's mother's older brother",,,,
-"fMyB","uyuan",,"female ego's mother's younger brother",,,,
-"fMeZ","anti",,"female ego's mother's older sister",,,,
-"fMyZ","anti",,"female ego's mother's younger sister",,,,
-"mW","ispúsa",,"male ego's wife",,,,
-"fH","bána",,"female ego‘s husband",,,,
-"mDH","masámung",,"male ego's daughter's husband",,,,
-"fDH","masámung",,"female ego's daughter's husband",,,,
-"mSW","binaláyi",,"male ego's son's wife",,,,
-"fSW","binaláyi",,"female ego's son's wife",,,,
-"mWB","bayaw",,"male ego's wife's brother",,,,
-"mWZ","bayaw",,"male ego's wife's sister",,,,
-"fHB","bayaw",,"female ego's husband's brother",,,,
-"fHZ","bayaw",,"female ego's husband's sister",,,,
-"mBW","bayaw",,"male ego's brother's wife",,,,
-"fBW","bayaw",,"female ego's brother's wife",,,,
-"mZH","bayaw, masámung",,"male ego's sister's husband",,,,
-"fZH","bayaw, masámung",,"female ego's sister's husband",,,,
-"mFBS","igtagsa, ig-",,"male ego's father's brother's son",,,,
-"mFZS","igtagsa, ig-",,"male ego's father's sister's son",,,,
-"mMBS","igtagsa, ig-",,"male ego's mother's brother's son",,,,
-"mMZS","igtagsa, ig-",,"male ego's mother's sister's son",,,,
-"mFBD","igtagsa, ig-",,"male ego's father's brother's daughter",,,,
-"mFZD","igtagsa, ig-",,"male ego's father's sister's daughter",,,,
-"mMBD","igtagsa, ig-",,"male ego's mother's brother's daughter",,,,
-"mMZD","igtagsa, ig-",,"male ego's mother's sister's daughter",,,,
-"fFBS","igtagsa, ig-",,"female ego's father's brother's son",,,,
-"fFZS","igtagsa, ig-",,"female ego's father's sister's son",,,,
-"fMBS","igtagsa, ig-",,"female ego's mother's brother's son",,,,
-"fMZS","igtagsa, ig-",,"female ego's mother's sister's son",,,,
-"fFBD","igtagsa, ig-",,"female ego's father's brother's daughter",,,,
-"fFZD","igtagsa, ig-",,"female ego's father's sister's daughter",,,,
-"fMBD","igtagsa, ig-",,"female ego's mother's brother's daughter",,,,
-"fMZD","igtagsa, ig-",,"female ego's mother's sister's daughter",,,,
-"mFeBS","igtagsa, ig-",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","igtagsa, ig-",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","igtagsa, ig-",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","igtagsa, ig-",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","igtagsa, ig-",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","igtagsa, ig-",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","igtagsa, ig-",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","igtagsa, ig-",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","igtagsa, ig-",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","igtagsa, ig-",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","igtagsa, ig-",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","igtagsa, ig-",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","igtagsa, ig-",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","igtagsa, ig-",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","igtagsa, ig-",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","igtagsa, ig-",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","igtagsa, ig-",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","igtagsa, ig-",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","igtagsa, ig-",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","igtagsa, ig-",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","igtagsa, ig-",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","igtagsa, ig-",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","igtagsa, ig-",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","igtagsa, ig-",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","igtagsa, ig-",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","igtagsa, ig-",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","igtagsa, ig-",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","igtagsa, ig-",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","igtagsa, ig-",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","igtagsa, ig-",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","igtagsa, ig-",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","igtagsa, ig-",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","igtagsa, ig-",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","igtagsa, ig-",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","igtagsa, ig-",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","igtagsa, ig-",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","igtagsa, ig-",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","igtagsa, ig-",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","igtagsa, ig-",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","igtagsa, ig-",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","igtagsa, ig-",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","igtagsa, ig-",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","igtagsa, ig-",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","igtagsa, ig-",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","igtagsa, ig-",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","igtagsa, ig-",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","igtagsa, ig-",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","igtagsa, ig-",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","igtagsa, ig-",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","igtagsa, ig-",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","igtagsa, ig-",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","igtagsa, ig-",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","igtagsa, ig-",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","igtagsa, ig-",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","igtagsa, ig-",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","igtagsa, ig-",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","igtagsa, ig-",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","igtagsa, ig-",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","igtagsa, ig-",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","igtagsa, ig-",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","igtagsa, ig-",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","igtagsa, ig-",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","igtagsa, ig-",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","igtagsa, ig-",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"súun ig-, pútul ug, titi",,male ego's older brother,,,Wolff1972,
+myB,"manghud, súun ig-, pútul ug",,male ego's younger brother,,,Wolff1972,
+feB,"súun ig-, pútul ug, titi",,female ego's older brother,,,Wolff1972,
+fyB,"manghud, súun ig-, pútul ug",,female ego's younger brother,,,Wolff1972,
+meZ,"súun ig-, pútul ug, manang",,male ego's older sister,,,Wolff1972,
+myZ,"manghud, súun ig-, pútul ug",,male ego's younger sister,,,Wolff1972,
+feZ,"súun ig-, pútul ug, manang",,female ego's older sister,,,Wolff1972,
+fyZ,"manghud, súun ig-, pútul ug",,female ego's younger sister,,,Wolff1972,
+mF,"úyung, amahan, irpat, itay",,male ego's father,,,Wolff1972,
+mM,anay,,male ego's mother,,,Wolff1972,
+fF,"úyung, amahan, irpat, itay",,female ego's father,,,Wolff1972,
+fM,anay,,female ego's mother,,,Wolff1972,
+mS,anak,,male ego's son,,,Wolff1972,
+fS,anak,,female ego's son,,,Wolff1972,
+mD,anak,,male ego's daughter,,,Wolff1972,
+fD,anak,,female ego's daughter,,,Wolff1972,
+mSS,apu,,male ego's son's son,,,Wolff1972,
+mSD,apu,,male ego's son's daughter,,,Wolff1972,
+mDS,apu,,male ego's daughter's son,,,Wolff1972,
+mDD,apu,,male ego's daughter's daughter,,,Wolff1972,
+fSS,apu,,female ego's son's son,,,Wolff1972,
+fSD,apu,,female ego's son's daughter,,,Wolff1972,
+fDS,apu,,female ego's daughter's son,,,Wolff1972,
+fDD,apu,,female ego's daugher's daughter,,,Wolff1972,
+mFF,"úyung, lúlu",,male ego's father‘s father,,,Wolff1972,
+mFM,úyang,,male ego's father's mother,,,Wolff1972,
+mMF,"úyung, lúlu",,male ego's mother's father,,,Wolff1972,
+mMM,úyang,,male ego's mother's mother,,,Wolff1972,
+fFF,"úyung, lúlu",,female ego's father's father,,,Wolff1972,
+fFM,úyang,,female ego's father's mother,,,Wolff1972,
+fMF,"úyung, lúlu",,female ego's mother's father,,,Wolff1972,
+fMM,úyang,,female ego's mother's mother,,,Wolff1972,
+meBS,pag-umangkun,,male ego's older brother's son,,,Wolff1972,
+myBS,pag-umangkun,,male ego's younger brother's son,,,Wolff1972,
+meZS,pag-umangkun,,male ego's older sister's son,,,Wolff1972,
+myZS,pag-umangkun,,male ego's younger sister's son,,,Wolff1972,
+meBD,pag-umangkun,,male ego's older brother's daughter,,,Wolff1972,
+myBD,pag-umangkun,,male ego's younger brother's daughter,,,Wolff1972,
+meZD,pag-umangkun,,male ego's older sister's daughter,,,Wolff1972,
+myZD,pag-umangkun,,male ego's younger sister's daughter,,,Wolff1972,
+feBS,pag-umangkun,,female ego's older brother's son,,,Wolff1972,
+fyBS,pag-umangkun,,female ego's younger brother's son,,,Wolff1972,
+feZS,pag-umangkun,,female ego's older sister's son,,,Wolff1972,
+fyZS,pag-umangkun,,female ego's younger sister's son,,,Wolff1972,
+feBD,pag-umangkun,,female ego's older brother's daughter,,,Wolff1972,
+fyBD,pag-umangkun,,female ego's younger brother's daughter,,,Wolff1972,
+feZD,pag-umangkun,,female ego's older sister's daughter,,,Wolff1972,
+fyZD,pag-umangkun,,female ego's younger sister's daughter,,,Wolff1972,
+mFeB,uyuan,,male ego's father's older brother,,,Wolff1972,
+mFyB,uyuan,,male ego's father's younger brother,,,Wolff1972,
+mFeZ,anti,,male ego's father's older sister,,,Wolff1972,
+mFyZ,anti,,male ego's father's younger sister,,,Wolff1972,
+mMeB,uyuan,,male ego's mother's older brother,,,Wolff1972,
+mMyB,uyuan,,male ego's mother's younger brother,,,Wolff1972,
+mMeZ,anti,,male ego's mother's older sister,,,Wolff1972,
+mMyZ,anti,,male ego's mother's younger sister,,,Wolff1972,
+fFeB,uyuan,,female ego's father's older brother,,,Wolff1972,
+fFyB,uyuan,,female ego's father's younger brother,,,Wolff1972,
+fFeZ,anti,,female ego's father's older sister,,,Wolff1972,
+fFyZ,anti,,female ego's father's younger sister,,,Wolff1972,
+fMeB,uyuan,,female ego's mother's older brother,,,Wolff1972,
+fMyB,uyuan,,female ego's mother's younger brother,,,Wolff1972,
+fMeZ,anti,,female ego's mother's older sister,,,Wolff1972,
+fMyZ,anti,,female ego's mother's younger sister,,,Wolff1972,
+mW,ispúsa,,male ego's wife,,,Wolff1972,
+fH,bána,,female ego‘s husband,,,Wolff1972,
+mDH,masámung,,male ego's daughter's husband,,,Wolff1972,
+fDH,masámung,,female ego's daughter's husband,,,Wolff1972,
+mSW,binaláyi,,male ego's son's wife,,,Wolff1972,
+fSW,binaláyi,,female ego's son's wife,,,Wolff1972,
+mWB,bayaw,,male ego's wife's brother,,,Wolff1972,
+mWZ,bayaw,,male ego's wife's sister,,,Wolff1972,
+fHB,bayaw,,female ego's husband's brother,,,Wolff1972,
+fHZ,bayaw,,female ego's husband's sister,,,Wolff1972,
+mBW,bayaw,,male ego's brother's wife,,,Wolff1972,
+fBW,bayaw,,female ego's brother's wife,,,Wolff1972,
+mZH,"bayaw, masámung",,male ego's sister's husband,,,Wolff1972,
+fZH,"bayaw, masámung",,female ego's sister's husband,,,Wolff1972,
+mFBS,"igtagsa, ig-",,male ego's father's brother's son,,,Wolff1972,
+mFZS,"igtagsa, ig-",,male ego's father's sister's son,,,Wolff1972,
+mMBS,"igtagsa, ig-",,male ego's mother's brother's son,,,Wolff1972,
+mMZS,"igtagsa, ig-",,male ego's mother's sister's son,,,Wolff1972,
+mFBD,"igtagsa, ig-",,male ego's father's brother's daughter,,,Wolff1972,
+mFZD,"igtagsa, ig-",,male ego's father's sister's daughter,,,Wolff1972,
+mMBD,"igtagsa, ig-",,male ego's mother's brother's daughter,,,Wolff1972,
+mMZD,"igtagsa, ig-",,male ego's mother's sister's daughter,,,Wolff1972,
+fFBS,"igtagsa, ig-",,female ego's father's brother's son,,,Wolff1972,
+fFZS,"igtagsa, ig-",,female ego's father's sister's son,,,Wolff1972,
+fMBS,"igtagsa, ig-",,female ego's mother's brother's son,,,Wolff1972,
+fMZS,"igtagsa, ig-",,female ego's mother's sister's son,,,Wolff1972,
+fFBD,"igtagsa, ig-",,female ego's father's brother's daughter,,,Wolff1972,
+fFZD,"igtagsa, ig-",,female ego's father's sister's daughter,,,Wolff1972,
+fMBD,"igtagsa, ig-",,female ego's mother's brother's daughter,,,Wolff1972,
+fMZD,"igtagsa, ig-",,female ego's mother's sister's daughter,,,Wolff1972,
+mFeBS,"igtagsa, ig-",,male ego's father's brother's son,,,Wolff1972,Inferred; NA
+mFyBS,"igtagsa, ig-",,male ego's father's brother's son,,,Wolff1972,Inferred; NA
+mFeZS,"igtagsa, ig-",,male ego's father's sister's son,,,Wolff1972,Inferred; NA
+mFyZS,"igtagsa, ig-",,male ego's father's sister's son,,,Wolff1972,Inferred; NA
+mFeBD,"igtagsa, ig-",,male ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+mFyBD,"igtagsa, ig-",,male ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+mFeZD,"igtagsa, ig-",,male ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+mFyZD,"igtagsa, ig-",,male ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+mMeBS,"igtagsa, ig-",,male ego's mother's brother's son,,,Wolff1972,Inferred; NA
+mMyBS,"igtagsa, ig-",,male ego's mother's brother's son,,,Wolff1972,Inferred; NA
+mMeZS,"igtagsa, ig-",,male ego's mother's sister's son,,,Wolff1972,Inferred; NA
+mMyZS,"igtagsa, ig-",,male ego's mother's sister's son,,,Wolff1972,Inferred; NA
+mMeBD,"igtagsa, ig-",,male ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+mMyBD,"igtagsa, ig-",,male ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+mMeZD,"igtagsa, ig-",,male ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+mMyZD,"igtagsa, ig-",,male ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+mFBeS,"igtagsa, ig-",,male ego's father's brother's son,,,Wolff1972,Inferred; NA
+mFByS,"igtagsa, ig-",,male ego's father's brother's son,,,Wolff1972,Inferred; NA
+mFZeS,"igtagsa, ig-",,male ego's father's sister's son,,,Wolff1972,Inferred; NA
+mFZyS,"igtagsa, ig-",,male ego's father's sister's son,,,Wolff1972,Inferred; NA
+mFBeD,"igtagsa, ig-",,male ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+mFByD,"igtagsa, ig-",,male ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+mFZeD,"igtagsa, ig-",,male ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+mFZyD,"igtagsa, ig-",,male ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+mMBeS,"igtagsa, ig-",,male ego's mother's brother's son,,,Wolff1972,Inferred; NA
+mMByS,"igtagsa, ig-",,male ego's mother's brother's son,,,Wolff1972,Inferred; NA
+mMZeS,"igtagsa, ig-",,male ego's mother's sister's son,,,Wolff1972,Inferred; NA
+mMZyS,"igtagsa, ig-",,male ego's mother's sister's son,,,Wolff1972,Inferred; NA
+mMBeD,"igtagsa, ig-",,male ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+mMByD,"igtagsa, ig-",,male ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+mMZeD,"igtagsa, ig-",,male ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+mMZyD,"igtagsa, ig-",,male ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+fFeBS,"igtagsa, ig-",,female ego's father's brother's son,,,Wolff1972,Inferred; NA
+fFyBS,"igtagsa, ig-",,female ego's father's brother's son,,,Wolff1972,Inferred; NA
+fFeZS,"igtagsa, ig-",,female ego's father's sister's son,,,Wolff1972,Inferred; NA
+fFyZS,"igtagsa, ig-",,female ego's father's sister's son,,,Wolff1972,Inferred; NA
+fFeBD,"igtagsa, ig-",,female ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+fFyBD,"igtagsa, ig-",,female ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+fFeZD,"igtagsa, ig-",,female ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+fFyZD,"igtagsa, ig-",,female ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+fMeBS,"igtagsa, ig-",,female ego's mother's brother's son,,,Wolff1972,Inferred; NA
+fMyBS,"igtagsa, ig-",,female ego's mother's brother's son,,,Wolff1972,Inferred; NA
+fMeZS,"igtagsa, ig-",,female ego's mother's sister's son,,,Wolff1972,Inferred; NA
+fMyZS,"igtagsa, ig-",,female ego's mother's sister's son,,,Wolff1972,Inferred; NA
+fMeBD,"igtagsa, ig-",,female ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+fMyBD,"igtagsa, ig-",,female ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+fMeZD,"igtagsa, ig-",,female ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+fMyZD,"igtagsa, ig-",,female ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+fFBeS,"igtagsa, ig-",,female ego's father's brother's son,,,Wolff1972,Inferred; NA
+fFByS,"igtagsa, ig-",,female ego's father's brother's son,,,Wolff1972,Inferred; NA
+fFZeS,"igtagsa, ig-",,female ego's father's sister's son,,,Wolff1972,Inferred; NA
+fFZyS,"igtagsa, ig-",,female ego's father's sister's son,,,Wolff1972,Inferred; NA
+fFBeD,"igtagsa, ig-",,female ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+fFByD,"igtagsa, ig-",,female ego's father's brother's daughter,,,Wolff1972,Inferred; NA
+fFZeD,"igtagsa, ig-",,female ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+fFZyD,"igtagsa, ig-",,female ego's father's sister's daughter,,,Wolff1972,Inferred; NA
+fMBeS,"igtagsa, ig-",,female ego's mother's brother's son,,,Wolff1972,Inferred; NA
+fMByS,"igtagsa, ig-",,female ego's mother's brother's son,,,Wolff1972,Inferred; NA
+fMZeS,"igtagsa, ig-",,female ego's mother's sister's son,,,Wolff1972,Inferred; NA
+fMZyS,"igtagsa, ig-",,female ego's mother's sister's son,,,Wolff1972,Inferred; NA
+fMBeD,"igtagsa, ig-",,female ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+fMByD,"igtagsa, ig-",,female ego's mother's brother's daughter,,,Wolff1972,Inferred; NA
+fMZeD,"igtagsa, ig-",,female ego's mother's sister's daughter,,,Wolff1972,Inferred; NA
+fMZyD,"igtagsa, ig-",,female ego's mother's sister's daughter,,,Wolff1972,Inferred; NA

@@ -1,94 +1,94 @@
 "parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","hermano manung",,"male ego's older brother",,,,
-"myB","hermano",,"male ego's younger brother",,,,
-"feB","hermano manung",,"female ego's older brother",,,,
-"fyB","hermano",,"female ego's younger brother",,,,
-"meZ","hermana manang",,"male ego's older sister",,,,
-"myZ","hermana",,"male ego's younger sister",,,,
-"feZ","hermana manang",,"female ego's older sister",,,,
-"fyZ","hermana",,"female ego's younger sister",,,,
-"mF","tata",,"male ego's father",,,,
-"mM","nana",,"male ego's mother",,,,
-"fF","tata",,"female ego's father",,,,
-"fM","nana",,"female ego's mother",,,,
-"mS","anak, hijo",,"male ego's son",,,,
-"fS","anak, hijo",,"female ego's son",,,,
-"mD","anak, hija",,"male ego's daughter",,,,
-"fD","anak, hija",,"female ego's daughter",,,,
-"mSS","apu, nieto",,"male ego's son's son",,,,
-"mSD","apu, nieta",,"male ego's son's daughter",,,,
-"mDS","apu, nieto",,"male ego's daughter's son",,,,
-"mDD","apu, nieta",,"male ego's daughter's daughter",,,,
-"fSS","apu, nieto",,"female ego's son's son",,,,
-"fSD","apu, nieta",,"female ego's son's daughter",,,,
-"fDS","apu, nieto",,"female ego's daughter's son",,,,
-"fDD","apu, nieta",,"female ego's daugher's daughter",,,,
-"mFF","lolo",,"male ego's father‘s father",,,,
-"mFM","lola",,"male ego's father's mother",,,,
-"mMF","lolo",,"male ego's mother's father",,,,
-"mMM","lola",,"male ego's mother's mother",,,,
-"fFF","lolo",,"female ego's father's father",,,,
-"fFM","lola",,"female ego's father's mother",,,,
-"fMF","lolo",,"female ego's mother's father",,,,
-"fMM","lola",,"female ego's mother's mother",,,,
-"meBS","sobrino",,"male ego's older brother's son",,,,
-"myBS","sobrino",,"male ego's younger brother's son",,,,
-"meZS","sobrino",,"male ego's older sister's son",,,,
-"myZS","sobrino",,"male ego's younger sister's son",,,,
-"meBD","sobrina",,"male ego's older brother's daughter",,,,
-"myBD","sobrina",,"male ego's younger brother's daughter",,,,
-"meZD","sobrina",,"male ego's older sister's daughter",,,,
-"myZD","sobrina",,"male ego's younger sister's daughter",,,,
-"mFeB","tio",,"male ego's father's older brother",,,,
-"mFyB","tio",,"male ego's father's younger brother",,,,
-"mFeZ","tia",,"male ego's father's older sister",,,,
-"mFyZ","tia",,"male ego's father's younger sister",,,,
-"mMeB","tio",,"male ego's mother's older brother",,,,
-"mMyB","tio",,"male ego's mother's younger brother",,,,
-"mMeZ","tia",,"male ego's mother's older sister",,,,
-"mMyZ","tia",,"male ego's mother's younger sister",,,,
-"fFeB","tio",,"female ego's father's older brother",,,,
-"fFyB","tio",,"female ego's father's younger brother",,,,
-"fFeZ","tia",,"female ego's father's older sister",,,,
-"fFyZ","tia",,"female ego's father's younger sister",,,,
-"fMeB","tio",,"female ego's mother's older brother",,,,
-"fMyB","tio",,"female ego's mother's younger brother",,,,
-"fMeZ","tia",,"female ego's mother's older sister",,,,
-"fMyZ","tia",,"female ego's mother's younger sister",,,,
-"mW","mujer",,"male ego's wife",,,,
-"fH","marido",,"female ego‘s husband",,,,
-"mDH","yerno",,"male ego's daughter's husband",,,,
-"fDH","yerno",,"female ego's daughter's husband",,,,
-"mSW","yerna",,"male ego's son's wife",,,,
-"fSW","yerna",,"female ego's son's wife",,,,
-"mWF","suegro",,"male ego's wife's father",,,,
-"mWM","suegra",,"male ego's wife's mother",,,,
-"mWB","cuñyao",,"male ego's wife's brother",,,,
-"mWZ","coñada",,"male ego's wife's sister",,,,
-"fHF","suegro",,"female ego's husband's father",,,,
-"fHM","suegra",,"female ego's husband's mother",,,,
-"fHB","cuñyao",,"female ego's husband's brother",,,,
-"fHZ","coñada",,"female ego's husband's sister",,,,
-"mBW","coñada",,"male ego's brother's wife",,,,
-"fBW","coñada",,"female ego's brother's wife",,,,
-"mZH","cuñyao",,"male ego's sister's husband",,,,
-"fZH","cuñyao",,"female ego's sister's husband",,,,
-"mFBS","primo",,"male ego's father's brother's son",,,,
-"mFZS","primo",,"male ego's father's sister's son",,,,
-"mMBS","primo",,"male ego's mother's brother's son",,,,
-"mMZS","primo",,"male ego's mother's sister's son",,,,
-"mFBD","prima",,"male ego's father's brother's daughter",,,,
-"mFZD","prima",,"male ego's father's sister's daughter",,,,
-"mMBD","prima",,"male ego's mother's brother's daughter",,,,
-"mMZD","prima",,"male ego's mother's sister's daughter",,,,
-"fFBS","primo",,"female ego's father's brother's son",,,,
-"fFZS","primo",,"female ego's father's sister's son",,,,
-"fMBS","primo",,"female ego's mother's brother's son",,,,
-"fMZS","primo",,"female ego's mother's sister's son",,,,
-"fFBD","prima",,"female ego's father's brother's daughter",,,,
-"fFZD","prima",,"female ego's father's sister's daughter",,,,
-"fMBD","prima",,"female ego's mother's brother's daughter",,,,
-"fMZD","prima",,"female ego's mother's sister's daughter",,,,
+"meB","hermano manung",,"male ego's older brother",,,,""
+"myB","hermano",,"male ego's younger brother",,,,""
+"feB","hermano manung",,"female ego's older brother",,,,""
+"fyB","hermano",,"female ego's younger brother",,,,""
+"meZ","hermana manang",,"male ego's older sister",,,,""
+"myZ","hermana",,"male ego's younger sister",,,,""
+"feZ","hermana manang",,"female ego's older sister",,,,""
+"fyZ","hermana",,"female ego's younger sister",,,,""
+"mF","tata",,"male ego's father",,,,""
+"mM","nana",,"male ego's mother",,,,""
+"fF","tata",,"female ego's father",,,,""
+"fM","nana",,"female ego's mother",,,,""
+"mS","anak, hijo",,"male ego's son",,,,""
+"fS","anak, hijo",,"female ego's son",,,,""
+"mD","anak, hija",,"male ego's daughter",,,,""
+"fD","anak, hija",,"female ego's daughter",,,,""
+"mSS","apu, nieto",,"male ego's son's son",,,,""
+"mSD","apu, nieta",,"male ego's son's daughter",,,,""
+"mDS","apu, nieto",,"male ego's daughter's son",,,,""
+"mDD","apu, nieta",,"male ego's daughter's daughter",,,,""
+"fSS","apu, nieto",,"female ego's son's son",,,,""
+"fSD","apu, nieta",,"female ego's son's daughter",,,,""
+"fDS","apu, nieto",,"female ego's daughter's son",,,,""
+"fDD","apu, nieta",,"female ego's daugher's daughter",,,,""
+"mFF","lolo",,"male ego's father‘s father",,,,""
+"mFM","lola",,"male ego's father's mother",,,,""
+"mMF","lolo",,"male ego's mother's father",,,,""
+"mMM","lola",,"male ego's mother's mother",,,,""
+"fFF","lolo",,"female ego's father's father",,,,""
+"fFM","lola",,"female ego's father's mother",,,,""
+"fMF","lolo",,"female ego's mother's father",,,,""
+"fMM","lola",,"female ego's mother's mother",,,,""
+"meBS","sobrino",,"male ego's older brother's son",,,,""
+"myBS","sobrino",,"male ego's younger brother's son",,,,""
+"meZS","sobrino",,"male ego's older sister's son",,,,""
+"myZS","sobrino",,"male ego's younger sister's son",,,,""
+"meBD","sobrina",,"male ego's older brother's daughter",,,,""
+"myBD","sobrina",,"male ego's younger brother's daughter",,,,""
+"meZD","sobrina",,"male ego's older sister's daughter",,,,""
+"myZD","sobrina",,"male ego's younger sister's daughter",,,,""
+"mFeB","tio",,"male ego's father's older brother",,,,""
+"mFyB","tio",,"male ego's father's younger brother",,,,""
+"mFeZ","tia",,"male ego's father's older sister",,,,""
+"mFyZ","tia",,"male ego's father's younger sister",,,,""
+"mMeB","tio",,"male ego's mother's older brother",,,,""
+"mMyB","tio",,"male ego's mother's younger brother",,,,""
+"mMeZ","tia",,"male ego's mother's older sister",,,,""
+"mMyZ","tia",,"male ego's mother's younger sister",,,,""
+"fFeB","tio",,"female ego's father's older brother",,,,""
+"fFyB","tio",,"female ego's father's younger brother",,,,""
+"fFeZ","tia",,"female ego's father's older sister",,,,""
+"fFyZ","tia",,"female ego's father's younger sister",,,,""
+"fMeB","tio",,"female ego's mother's older brother",,,,""
+"fMyB","tio",,"female ego's mother's younger brother",,,,""
+"fMeZ","tia",,"female ego's mother's older sister",,,,""
+"fMyZ","tia",,"female ego's mother's younger sister",,,,""
+"mW","mujer",,"male ego's wife",,,,""
+"fH","marido",,"female ego‘s husband",,,,""
+"mDH","yerno",,"male ego's daughter's husband",,,,""
+"fDH","yerno",,"female ego's daughter's husband",,,,""
+"mSW","yerna",,"male ego's son's wife",,,,""
+"fSW","yerna",,"female ego's son's wife",,,,""
+"mWF","suegro",,"male ego's wife's father",,,,""
+"mWM","suegra",,"male ego's wife's mother",,,,""
+"mWB","cuñyao",,"male ego's wife's brother",,,,""
+"mWZ","coñada",,"male ego's wife's sister",,,,""
+"fHF","suegro",,"female ego's husband's father",,,,""
+"fHM","suegra",,"female ego's husband's mother",,,,""
+"fHB","cuñyao",,"female ego's husband's brother",,,,""
+"fHZ","coñada",,"female ego's husband's sister",,,,""
+"mBW","coñada",,"male ego's brother's wife",,,,""
+"fBW","coñada",,"female ego's brother's wife",,,,""
+"mZH","cuñyao",,"male ego's sister's husband",,,,""
+"fZH","cuñyao",,"female ego's sister's husband",,,,""
+"mFBS","primo",,"male ego's father's brother's son",,,,""
+"mFZS","primo",,"male ego's father's sister's son",,,,""
+"mMBS","primo",,"male ego's mother's brother's son",,,,""
+"mMZS","primo",,"male ego's mother's sister's son",,,,""
+"mFBD","prima",,"male ego's father's brother's daughter",,,,""
+"mFZD","prima",,"male ego's father's sister's daughter",,,,""
+"mMBD","prima",,"male ego's mother's brother's daughter",,,,""
+"mMZD","prima",,"male ego's mother's sister's daughter",,,,""
+"fFBS","primo",,"female ego's father's brother's son",,,,""
+"fFZS","primo",,"female ego's father's sister's son",,,,""
+"fMBS","primo",,"female ego's mother's brother's son",,,,""
+"fMZS","primo",,"female ego's mother's sister's son",,,,""
+"fFBD","prima",,"female ego's father's brother's daughter",,,,""
+"fFZD","prima",,"female ego's father's sister's daughter",,,,""
+"fMBD","prima",,"female ego's mother's brother's daughter",,,,""
+"fMZD","prima",,"female ego's mother's sister's daughter",,,,""
 "mFeBS","primo",,"male ego's father's brother's son",,,,"Inferred; NA"
 "mFyBS","primo",,"male ego's father's brother's son",,,,"Inferred; NA"
 "mFeZS","primo",,"male ego's father's sister's son",,,,"Inferred; NA"

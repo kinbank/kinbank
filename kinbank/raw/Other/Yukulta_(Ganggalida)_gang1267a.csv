@@ -1,116 +1,116 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","t̪aputYu",,"male ego's older brother",,,,
-"myB","kunat̪u",,"male ego's younger brother",,,,
-"feB","waŋkutu",,"female ego's older brother",,,,
-"fyB","kunat̪u",,"female ego's younger brother",,,,
-"meZ","yakukat̪u, palkatYi",,"male ego's older sister",,,,
-"myZ","palkatYi",,"male ego's younger sister",,,,
-"feZ","yakukat̪u",,"female ego's older sister",,,,
-"fyZ","kunat̪u",,"female ego's younger sister",,,,
-"mF","kan̪t̪at̪u",,"male ego's father",,,,
-"mM","ŋamat̪u",,"male ego's mother",,,,
-"fF","kan̪t̪at̪u",,"female ego's father",,,,
-"fM","ŋamat̪u",,"female ego's mother",,,,
-"mS","piŋkanŋu",,"male ego's son",,,,
-"fS","katYakatYa, katuwa",,"female ego's son",,,,
-"mD","piŋkanŋu",,"male ego's daughter",,,,
-"fD","katuwa",,"female ego's daughter",,,,
-"mSS","kaŋkult̪at̪u",,"male ego's son's son",,,,
-"mSD","kaŋkult̪at̪u",,"male ego's son's daughter",,,,
-"mDS","maluŋinta",,"male ego's daughter's son",,,,
-"fSS","ŋarmantat̪u",,"female ego's son's son",,,,
-"fSD","ŋarmantat̪u",,"female ego's son's daughter",,,,
-"fDS","maluŋinta",,"female ego's daughter's son",,,,
-"fDD","kirkunku",,"female ego's daugher's daughter",,,,
-"mFF","kaŋkalitYu",,"male ego's father‘s father",,,,
-"mFM","papitYu",,"male ego's father's mother",,,,
-"mMF","tYampat̪u",,"male ego's mother's father",,,,
-"mMM","ŋaritYu",,"male ego's mother's mother",,,,
-"fFF","kaŋkalitYu",,"female ego's father's father",,,,
-"fFM","papitYu",,"female ego's father's mother",,,,
-"fMF","tYampat̪u",,"female ego's mother's father",,,,
-"fMM","ŋaritYu",,"female ego's mother's mother",,,,
-"meBS","katuwa",,"male ego's older brother's son",,,,
-"myBS","katuwa",,"male ego's younger brother's son",,,,
-"meZS","katuwa",,"male ego's older sister's son",,,,
-"myZS","katuwa",,"male ego's younger sister's son",,,,
-"feBS","katYakatYa, piŋkanŋu",,"female ego's older brother's son",,,,
-"fyBS","katYakatYa, piŋkanŋu",,"female ego's younger brother's son",,,,
-"feBD","katYakatYa, piŋkanŋu",,"female ego's older brother's daughter",,,,
-"fyBD","katYakatYa, piŋkanŋu",,"female ego's younger brother's daughter",,,,
-"mFyB","kan̪t̪at̪u",,"male ego's father's younger brother",,,,
-"mFeZ","markat̪u",,"male ego's father's older sister",,,,
-"mMeB","kakutYu",,"male ego's mother's older brother",,,,
-"mMeZ","ŋamat̪u",,"male ego's mother's older sister",,,,
-"mMyZ","kapilitYu",,"male ego's mother's younger sister",,,,
-"fFyB","kan̪t̪at̪u",,"female ego's father's younger brother",,,,
-"fFeZ","markat̪u",,"female ego's father's older sister",,,,
-"fMeB","kakutYu",,"female ego's mother's older brother",,,,
-"fMeZ","ŋamat̪u",,"female ego's mother's older sister",,,,
-"fMyZ","kapilitYu",,"female ego's mother's younger sister",,,,
-"mW","kantiya",,"male ego's wife",,,,
-"fH","tirkuli",,"female ego‘s husband",,,,
-"mDH","yampiya",,"male ego's daughter's husband",,,,
-"fDH","t̪awula",,"female ego's daughter's husband",,,,
-"mSW","ŋatat̪at̪u",,"male ego's son's wife",,,,
-"fSW","ŋatat̪at̪u",,"female ego's son's wife",,,,
-"mWF","yampiya",,"male ego's wife's father",,,,
-"mWM","tYippana",,"male ego's wife's mother",,,,
-"mWB","napinapi",,"male ego's wife's brother",,,,
-"mWZ","tYulwiri",,"male ego's wife's sister",,,,
-"fHF","yampiya",,"female ego's husband's father",,,,
-"fHM","kan̪iŋaratu",,"female ego's husband's mother",,,,
-"fHZ","tYulwiri",,"female ego's husband's sister",,,,
-"mBW","tYulwiri",,"male ego's brother's wife",,,,
-"fBW","tYulwiri",,"female ego's brother's wife",,,,
-"mZH","kaltYirulu",,"male ego's sister's husband",,,,
-"mMBS","tYampat̪u",,"male ego's mother's brother's son",,,,
-"mFBD","putYirinta",,"male ego's father's brother's daughter",,,,
-"mFZD","ŋayantat̪u",,"male ego's father's sister's daughter",,,,
-"mMBD","ŋayantat̪u",,"male ego's mother's brother's daughter",,,,
-"mMZD","putYirinta",,"male ego's mother's sister's daughter",,,,
-"fMBS","tYampat̪u",,"female ego's mother's brother's son",,,,
-"fFBD","putYirinta",,"female ego's father's brother's daughter",,,,
-"fFZD","ŋayantat̪u",,"female ego's father's sister's daughter",,,,
-"fMBD","ŋayantat̪u",,"female ego's mother's brother's daughter",,,,
-"fMZD","putYirinta",,"female ego's mother's sister's daughter",,,,
-"mFeBD","putYirinta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","putYirinta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","ŋayantat̪u",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","ŋayantat̪u",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","tYampat̪u",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","tYampat̪u",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeBD","ŋayantat̪u",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","ŋayantat̪u",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","putYirinta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","putYirinta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeD","putYirinta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","putYirinta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","ŋayantat̪u",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","ŋayantat̪u",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","tYampat̪u",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","tYampat̪u",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMBeD","ŋayantat̪u",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","ŋayantat̪u",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","putYirinta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","putYirinta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBD","putYirinta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","putYirinta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","ŋayantat̪u",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","ŋayantat̪u",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","tYampat̪u",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","tYampat̪u",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeBD","ŋayantat̪u",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","ŋayantat̪u",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","putYirinta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","putYirinta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeD","putYirinta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","putYirinta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","ŋayantat̪u",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","ŋayantat̪u",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","tYampat̪u",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","tYampat̪u",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMBeD","ŋayantat̪u",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","ŋayantat̪u",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","putYirinta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","putYirinta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,t̪aputYu,,male ego's older brother,,,Nancarrow2014;kee83,
+myB,kunat̪u,,male ego's younger brother,,,Nancarrow2014;kee83,
+feB,waŋkutu,,female ego's older brother,,,Nancarrow2014;kee83,
+fyB,kunat̪u,,female ego's younger brother,,,Nancarrow2014;kee83,
+meZ,yakukat̪u, palkatYi,,male ego's older sister,,EvansPC,Nancarrow2014;kee83
+myZ,palkatYi,,male ego's younger sister,,,Nancarrow2014;kee83,
+feZ,yakukat̪u,,female ego's older sister,,,Nancarrow2014;kee83,
+fyZ,kunat̪u,,female ego's younger sister,,,Nancarrow2014;kee83,
+mF,kan̪t̪at̪u,,male ego's father,,,Nancarrow2014;kee83,
+mM,ŋamat̪u,,male ego's mother,,,Nancarrow2014;kee83,
+fF,kan̪t̪at̪u,,female ego's father,,,Nancarrow2014;kee83,
+fM,ŋamat̪u,,female ego's mother,,,Nancarrow2014;kee83,
+mS,piŋkanŋu,,male ego's son,,,Nancarrow2014;kee83,
+fS,katYakatYa, katuwa,,female ego's son,,EvansPC,Nancarrow2014;kee83
+mD,piŋkanŋu,,male ego's daughter,,,Nancarrow2014;kee83,
+fD,katuwa,,female ego's daughter,,,Nancarrow2014;kee83,
+mSS,kaŋkult̪at̪u,,male ego's son's son,,,Nancarrow2014;kee83,
+mSD,kaŋkult̪at̪u,,male ego's son's daughter,,,Nancarrow2014;kee83,
+mDS,maluŋinta,,male ego's daughter's son,,,Nancarrow2014;kee83,
+fSS,ŋarmantat̪u,,female ego's son's son,,,Nancarrow2014;kee83,
+fSD,ŋarmantat̪u,,female ego's son's daughter,,,Nancarrow2014;kee83,
+fDS,maluŋinta,,female ego's daughter's son,,,Nancarrow2014;kee83,
+fDD,kirkunku,,female ego's daugher's daughter,,,Nancarrow2014;kee83,
+mFF,kaŋkalitYu,,male ego's father‘s father,,,Nancarrow2014;kee83,
+mFM,papitYu,,male ego's father's mother,,,Nancarrow2014;kee83,
+mMF,tYampat̪u,,male ego's mother's father,,,Nancarrow2014;kee83,
+mMM,ŋaritYu,,male ego's mother's mother,,,Nancarrow2014;kee83,
+fFF,kaŋkalitYu,,female ego's father's father,,,Nancarrow2014;kee83,
+fFM,papitYu,,female ego's father's mother,,,Nancarrow2014;kee83,
+fMF,tYampat̪u,,female ego's mother's father,,,Nancarrow2014;kee83,
+fMM,ŋaritYu,,female ego's mother's mother,,,Nancarrow2014;kee83,
+meBS,katuwa,,male ego's older brother's son,,,Nancarrow2014;kee83,
+myBS,katuwa,,male ego's younger brother's son,,,Nancarrow2014;kee83,
+meZS,katuwa,,male ego's older sister's son,,,Nancarrow2014;kee83,
+myZS,katuwa,,male ego's younger sister's son,,,Nancarrow2014;kee83,
+feBS,katYakatYa, piŋkanŋu,,female ego's older brother's son,,EvansPC,Nancarrow2014;kee83
+fyBS,katYakatYa, piŋkanŋu,,female ego's younger brother's son,,EvansPC,Nancarrow2014;kee83
+feBD,katYakatYa, piŋkanŋu,,female ego's older brother's daughter,,EvansPC,Nancarrow2014;kee83
+fyBD,katYakatYa, piŋkanŋu,,female ego's younger brother's daughter,,EvansPC,Nancarrow2014;kee83
+mFyB,kan̪t̪at̪u,,male ego's father's younger brother,,,Nancarrow2014;kee83,
+mFeZ,markat̪u,,male ego's father's older sister,,,Nancarrow2014;kee83,
+mMeB,kakutYu,,male ego's mother's older brother,,,Nancarrow2014;kee83,
+mMeZ,ŋamat̪u,,male ego's mother's older sister,,,Nancarrow2014;kee83,
+mMyZ,kapilitYu,,male ego's mother's younger sister,,,Nancarrow2014;kee83,
+fFyB,kan̪t̪at̪u,,female ego's father's younger brother,,,Nancarrow2014;kee83,
+fFeZ,markat̪u,,female ego's father's older sister,,,Nancarrow2014;kee83,
+fMeB,kakutYu,,female ego's mother's older brother,,,Nancarrow2014;kee83,
+fMeZ,ŋamat̪u,,female ego's mother's older sister,,,Nancarrow2014;kee83,
+fMyZ,kapilitYu,,female ego's mother's younger sister,,,Nancarrow2014;kee83,
+mW,kantiya,,male ego's wife,,,Nancarrow2014;kee83,
+fH,tirkuli,,female ego‘s husband,,,Nancarrow2014;kee83,
+mDH,yampiya,,male ego's daughter's husband,,,Nancarrow2014;kee83,
+fDH,t̪awula,,female ego's daughter's husband,,,Nancarrow2014;kee83,
+mSW,ŋatat̪at̪u,,male ego's son's wife,,,Nancarrow2014;kee83,
+fSW,ŋatat̪at̪u,,female ego's son's wife,,,Nancarrow2014;kee83,
+mWF,yampiya,,male ego's wife's father,,,Nancarrow2014;kee83,
+mWM,tYippana,,male ego's wife's mother,,,Nancarrow2014;kee83,
+mWB,napinapi,,male ego's wife's brother,,,Nancarrow2014;kee83,
+mWZ,tYulwiri,,male ego's wife's sister,,,Nancarrow2014;kee83,
+fHF,yampiya,,female ego's husband's father,,,Nancarrow2014;kee83,
+fHM,kan̪iŋaratu,,female ego's husband's mother,,,Nancarrow2014;kee83,
+fHZ,tYulwiri,,female ego's husband's sister,,,Nancarrow2014;kee83,
+mBW,tYulwiri,,male ego's brother's wife,,,Nancarrow2014;kee83,
+fBW,tYulwiri,,female ego's brother's wife,,,Nancarrow2014;kee83,
+mZH,kaltYirulu,,male ego's sister's husband,,,Nancarrow2014;kee83,
+mMBS,tYampat̪u,,male ego's mother's brother's son,,,Nancarrow2014;kee83,
+mFBD,putYirinta,,male ego's father's brother's daughter,,,Nancarrow2014;kee83,
+mFZD,ŋayantat̪u,,male ego's father's sister's daughter,,,Nancarrow2014;kee83,
+mMBD,ŋayantat̪u,,male ego's mother's brother's daughter,,,Nancarrow2014;kee83,
+mMZD,putYirinta,,male ego's mother's sister's daughter,,,Nancarrow2014;kee83,
+fMBS,tYampat̪u,,female ego's mother's brother's son,,,Nancarrow2014;kee83,
+fFBD,putYirinta,,female ego's father's brother's daughter,,,Nancarrow2014;kee83,
+fFZD,ŋayantat̪u,,female ego's father's sister's daughter,,,Nancarrow2014;kee83,
+fMBD,ŋayantat̪u,,female ego's mother's brother's daughter,,,Nancarrow2014;kee83,
+fMZD,putYirinta,,female ego's mother's sister's daughter,,,Nancarrow2014;kee83,
+mFeBD,putYirinta,,male ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFyBD,putYirinta,,male ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFeZD,ŋayantat̪u,,male ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFyZD,ŋayantat̪u,,male ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMeBS,tYampat̪u,,male ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+mMyBS,tYampat̪u,,male ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+mMeBD,ŋayantat̪u,,male ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMyBD,ŋayantat̪u,,male ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMeZD,putYirinta,,male ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMyZD,putYirinta,,male ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFBeD,putYirinta,,male ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFByD,putYirinta,,male ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFZeD,ŋayantat̪u,,male ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mFZyD,ŋayantat̪u,,male ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMBeS,tYampat̪u,,male ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+mMByS,tYampat̪u,,male ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+mMBeD,ŋayantat̪u,,male ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMByD,ŋayantat̪u,,male ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMZeD,putYirinta,,male ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+mMZyD,putYirinta,,male ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFeBD,putYirinta,,female ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFyBD,putYirinta,,female ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFeZD,ŋayantat̪u,,female ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFyZD,ŋayantat̪u,,female ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMeBS,tYampat̪u,,female ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+fMyBS,tYampat̪u,,female ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+fMeBD,ŋayantat̪u,,female ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMyBD,ŋayantat̪u,,female ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMeZD,putYirinta,,female ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMyZD,putYirinta,,female ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFBeD,putYirinta,,female ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFByD,putYirinta,,female ego's father's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFZeD,ŋayantat̪u,,female ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fFZyD,ŋayantat̪u,,female ego's father's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMBeS,tYampat̪u,,female ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+fMByS,tYampat̪u,,female ego's mother's brother's son,,,Nancarrow2014;kee83,Inferred; NA
+fMBeD,ŋayantat̪u,,female ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMByD,ŋayantat̪u,,female ego's mother's brother's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMZeD,putYirinta,,female ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA
+fMZyD,putYirinta,,female ego's mother's sister's daughter,,,Nancarrow2014;kee83,Inferred; NA

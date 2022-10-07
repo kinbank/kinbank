@@ -1,115 +1,115 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","laka",,"male ego's older brother","",,,""
-"myB","kumoy",,"male ego's younger brother","",,,""
-"feB","miidiila",,"female ego's older brother","",,,""
-"fyB","miidiila",,"female ego's younger brother","",,,""
-"meZ","mowoy",,"male ego's older sister","",,,""
-"myZ","mowoy",,"male ego's younger sister","",,,""
-"feZ","laka",,"female ego's older sister","",,,""
-"fyZ","kumoy",,"female ego's younger sister","",,,""
-"mF","apok",,"male ego's father","epi",,,"epi = address"
-"mM","nowkwapa",,"male ego's mother","awi",,,"awi = address"
-"fF","apok",,"female ego's father","epi",,,"epi = address"
-"fM","nowkwapa",,"female ego's mother","awi",,,"awi = address"
-"mS","yikapa",,"male ego's son","",,,""
-"fS","yikapa",,"female ego's son","",,,""
-"mD","yikapa",,"male ego's daughter","",,,""
-"fD","yikapa",,"female ego's daughter","",,,""
-"mSS","nyija",,"male ego's son's son","",,,""
-"mSD","nyija",,"male ego's son's daughter","",,,""
-"mDS","nyija",,"male ego's daughter's son","",,,""
-"mDD","nyija",,"male ego's daughter's daughter","",,,""
-"fSS","nyija",,"female ego's son's son","",,,""
-"fSD","nyija",,"female ego's son's daughter","",,,""
-"fDS","nyija",,"female ego's daughter's son","",,,""
-"fDD","nyija",,"female ego's daugher's daughter","",,,""
-"mFF","yey",,"male ego's father‘s father","",,,""
-"mFM","yey",,"male ego's father's mother","",,,""
-"mMF","atokw",,"male ego's mother's father","ach",,,"ach = address"
-"mMM","atokw",,"male ego's mother's mother","ach",,,"ach = address"
-"fFF","yey",,"female ego's father's father","",,,""
-"fFM","yey",,"female ego's father's mother","",,,""
-"fMF","atokw",,"female ego's mother's father","ach",,,"ach = address"
-"fMM","atokw",,"female ego's mother's mother","ach",,,"ach = address"
-"meBS","yikapa",,"male ego's older brother's son","",,,""
-"myBS","yikapa",,"male ego's younger brother's son","",,,""
-"meZS","ruwey",,"male ego's older sister's son","",,,""
-"myZS","ruwey",,"male ego's younger sister's son","",,,""
-"meBD","yikapa",,"male ego's older brother's daughter","",,,""
-"myBD","yikapa",,"male ego's younger brother's daughter","",,,""
-"meZD","ruwey",,"male ego's older sister's daughter","",,,""
-"myZD","ruwey",,"male ego's younger sister's daughter","",,,""
-"feBS","nel",,"female ego's older brother's son","",,,""
-"fyBS","nel",,"female ego's younger brother's son","",,,""
-"feZS","yikapa",,"female ego's older sister's son","",,,""
-"fyZS","yikapa",,"female ego's younger sister's son","",,,""
-"feBD","nel",,"female ego's older brother's daughter","",,,""
-"fyBD","nel",,"female ego's younger brother's daughter","",,,""
-"feZD","yikapa",,"female ego's older sister's daughter","",,,""
-"fyZD","yikapa",,"female ego's younger sister's daughter","",,,""
-"mFeB","apalaka, apok",,"male ego's father's older brother","",,,""
-"mFyB","amoy, apok",,"male ego's father's younger brother","",,,""
-"mFeZ","yakw",,"male ego's father's older sister","",,,""
-"mFyZ","yakw",,"male ego's father's younger sister","",,,""
-"mMeB","magwapa",,"male ego's mother's older brother","mem",,,"mem = address"
-"mMyB","magwapa",,"male ego's mother's younger brother","mem",,,"mem = address"
-"mMeZ","nawalaka, nowkwapa",,"male ego's mother's older sister","",,,""
-"mMyZ","amoy, nowkwapa",,"male ego's mother's younger sister","",,,""
-"fFeB","apalaka, apok",,"female ego's father's older brother","",,,""
-"fFyB","amoy, apok",,"female ego's father's younger brother","",,,""
-"fFeZ","yakw",,"female ego's father's older sister","",,,""
-"fFyZ","yakw",,"female ego's father's younger sister","",,,""
-"fMeB","magwapa",,"female ego's mother's older brother","mem",,,"mem = address"
-"fMyB","magwapa",,"female ego's mother's younger brother","mem",,,"mem = address"
-"fMeZ","nawalaka, nowkwapa",,"female ego's mother's older sister","",,,""
-"fMyZ","amoy, nowkwapa",,"female ego's mother's younger sister","",,,""
-"mW","mima",,"male ego's wife","",,,""
-"fH","ma",,"female ego‘s husband","",,,""
-"mDH","nyijokw",,"male ego's daughter's husband","",,,""
-"fDH","nyijokw",,"female ego's daughter's husband","",,,""
-"mSW","narem",,"male ego's son's wife","",,,""
-"fSW","narem",,"female ego's son's wife","",,,""
-"mWF","atokw",,"male ego's wife's father","ach",,,"ach = address"
-"mWM","atokw",,"male ego's wife's mother","ach",,,"ach = address"
-"mWB","nibel",,"male ego's wife's brother","",,,""
-"mWZ","laka, kumoy",,"male ego's wife's sister","",,,"laka = wife's elder sister, kumoy = wife's younger sister"
-"fHF","yey",,"female ego's husband's father","",,,""
-"fHM","yey",,"female ego's husband's mother","",,,""
-"fHB","laka, kumoy",,"female ego's husband's brother","",,,"laka = husband's elder brother, kumoy = husband's younger brother"
-"fHZ","yakw",,"female ego's husband's sister","",,,""
-"mBW","laka, kumoy",,"male ego's brother's wife","",,,"laka = elder brother's wife, kumoy = younger brother's wife"
-"fBW","yekim",,"female ego's brother's wife","",,,""
-"mZH","mowoy",,"male ego's sister's husband","",,,""
-"fZH","laka, kumoy",,"female ego's sister's husband","",,,"laka = elder sister's husband, kumoy = younger sister's husband"
-"mFeBS","laka",,"male ego's father‘s older brother‘s son","",,,""
-"mFyBS","kumoy",,"male ego‘s father‘s younger brother‘s son","",,,""
-"mFeZS","ruwey",,"male ego's father‘s older sister‘s son","",,,""
-"mFyZS","ruwey",,"male ego‘s father‘s younger sister‘s son","",,,""
-"mFeBD","mowoy",,"male ego's father‘s older brother‘s daughter","",,,""
-"mFyBD","mowoy",,"male ego‘s father‘s younger brother‘s daughter","",,,""
-"mFeZD","ruwey",,"male ego's father‘s older sister‘s daughter","",,,""
-"mFyZD","ruwey",,"male ego‘s father‘s younger sister‘s daughter","",,,""
-"mMeBS","magwapa",,"male ego's mother‘s older brother‘s son","mem",,,"mem = address"
-"mMyBS","magwapa",,"male ego‘s mother‘s younger brother‘s son","mem",,,"mem = address"
-"mMeZS","laka",,"male ego's mother‘s older sister‘s son","",,,""
-"mMyZS","kumoy",,"male ego‘s mother‘s younger sister‘s son","",,,""
-"mMeBD","nowkwapa",,"male ego's mother‘s older brother‘s daughter","",,,""
-"mMyBD","nowkwapa",,"male ego‘s mother‘s younger brother‘s daughter","",,,""
-"mMeZD","mowoy",,"male ego's mother‘s older sister‘s daughter","",,,""
-"mMyZD","mowoy",,"male ego‘s mother‘s younger sister‘s daughter","",,,""
-"fFeBS","miidiila",,"female ego's father‘s older brother‘s son","",,,""
-"fFyBS","miidiila",,"female ego‘s father‘s younger brother‘s son","",,,""
-"fFeZS","yikapa",,"female ego's father‘s older sister‘s son","",,,""
-"fFyZS","yikapa",,"female ego‘s father‘s younger sister‘s son","",,,""
-"fFeBD","yikapa",,"female ego's father‘s older brother‘s daughter","",,,""
-"fFyBD","yikapa",,"female ego‘s father‘s younger brother‘s daughter","",,,""
-"fFeZD","ruwey",,"female ego's father‘s older sister‘s daughter","",,,""
-"fFyZD","ruwey",,"female ego‘s father‘s younger sister‘s daughter","",,,""
-"fMeBS","magwapa",,"female ego's mother‘s older brother‘s son","mem",,,"mem = address"
-"fMyBS","magwapa",,"female ego‘s mother‘s younger brother‘s son","mem",,,"mem = address"
-"fMeZS","miidiila",,"female ego's mother‘s older sister‘s son","",,,""
-"fMyZS","miidiila",,"female ego‘s mother‘s younger sister‘s son","",,,""
-"fMeBD","nowkwapa",,"female ego's mother‘s older brother‘s daughter","",,,""
-"fMyBD","nowkwapa",,"female ego‘s mother‘s younger brother‘s daughter","",,,""
-"fMeZD","mowoy",,"female ego's mother‘s older sister‘s daughter","",,,""
-"fMyZD","mowoy",,"female ego‘s mother‘s younger sister‘s daughter","",,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,laka,,male ego's older brother,,,Bowden1983,
+myB,kumoy,,male ego's younger brother,,,Bowden1983,
+feB,miidiila,,female ego's older brother,,,Bowden1983,
+fyB,miidiila,,female ego's younger brother,,,Bowden1983,
+meZ,mowoy,,male ego's older sister,,,Bowden1983,
+myZ,mowoy,,male ego's younger sister,,,Bowden1983,
+feZ,laka,,female ego's older sister,,,Bowden1983,
+fyZ,kumoy,,female ego's younger sister,,,Bowden1983,
+mF,apok,,male ego's father,epi,,Bowden1983,epi = address
+mM,nowkwapa,,male ego's mother,awi,,Bowden1983,awi = address
+fF,apok,,female ego's father,epi,,Bowden1983,epi = address
+fM,nowkwapa,,female ego's mother,awi,,Bowden1983,awi = address
+mS,yikapa,,male ego's son,,,Bowden1983,
+fS,yikapa,,female ego's son,,,Bowden1983,
+mD,yikapa,,male ego's daughter,,,Bowden1983,
+fD,yikapa,,female ego's daughter,,,Bowden1983,
+mSS,nyija,,male ego's son's son,,,Bowden1983,
+mSD,nyija,,male ego's son's daughter,,,Bowden1983,
+mDS,nyija,,male ego's daughter's son,,,Bowden1983,
+mDD,nyija,,male ego's daughter's daughter,,,Bowden1983,
+fSS,nyija,,female ego's son's son,,,Bowden1983,
+fSD,nyija,,female ego's son's daughter,,,Bowden1983,
+fDS,nyija,,female ego's daughter's son,,,Bowden1983,
+fDD,nyija,,female ego's daugher's daughter,,,Bowden1983,
+mFF,yey,,male ego's father‘s father,,,Bowden1983,
+mFM,yey,,male ego's father's mother,,,Bowden1983,
+mMF,atokw,,male ego's mother's father,ach,,Bowden1983,ach = address
+mMM,atokw,,male ego's mother's mother,ach,,Bowden1983,ach = address
+fFF,yey,,female ego's father's father,,,Bowden1983,
+fFM,yey,,female ego's father's mother,,,Bowden1983,
+fMF,atokw,,female ego's mother's father,ach,,Bowden1983,ach = address
+fMM,atokw,,female ego's mother's mother,ach,,Bowden1983,ach = address
+meBS,yikapa,,male ego's older brother's son,,,Bowden1983,
+myBS,yikapa,,male ego's younger brother's son,,,Bowden1983,
+meZS,ruwey,,male ego's older sister's son,,,Bowden1983,
+myZS,ruwey,,male ego's younger sister's son,,,Bowden1983,
+meBD,yikapa,,male ego's older brother's daughter,,,Bowden1983,
+myBD,yikapa,,male ego's younger brother's daughter,,,Bowden1983,
+meZD,ruwey,,male ego's older sister's daughter,,,Bowden1983,
+myZD,ruwey,,male ego's younger sister's daughter,,,Bowden1983,
+feBS,nel,,female ego's older brother's son,,,Bowden1983,
+fyBS,nel,,female ego's younger brother's son,,,Bowden1983,
+feZS,yikapa,,female ego's older sister's son,,,Bowden1983,
+fyZS,yikapa,,female ego's younger sister's son,,,Bowden1983,
+feBD,nel,,female ego's older brother's daughter,,,Bowden1983,
+fyBD,nel,,female ego's younger brother's daughter,,,Bowden1983,
+feZD,yikapa,,female ego's older sister's daughter,,,Bowden1983,
+fyZD,yikapa,,female ego's younger sister's daughter,,,Bowden1983,
+mFeB,"apalaka, apok",,male ego's father's older brother,,,Bowden1983,
+mFyB,"amoy, apok",,male ego's father's younger brother,,,Bowden1983,
+mFeZ,yakw,,male ego's father's older sister,,,Bowden1983,
+mFyZ,yakw,,male ego's father's younger sister,,,Bowden1983,
+mMeB,magwapa,,male ego's mother's older brother,mem,,Bowden1983,mem = address
+mMyB,magwapa,,male ego's mother's younger brother,mem,,Bowden1983,mem = address
+mMeZ,"nawalaka, nowkwapa",,male ego's mother's older sister,,,Bowden1983,
+mMyZ,"amoy, nowkwapa",,male ego's mother's younger sister,,,Bowden1983,
+fFeB,"apalaka, apok",,female ego's father's older brother,,,Bowden1983,
+fFyB,"amoy, apok",,female ego's father's younger brother,,,Bowden1983,
+fFeZ,yakw,,female ego's father's older sister,,,Bowden1983,
+fFyZ,yakw,,female ego's father's younger sister,,,Bowden1983,
+fMeB,magwapa,,female ego's mother's older brother,mem,,Bowden1983,mem = address
+fMyB,magwapa,,female ego's mother's younger brother,mem,,Bowden1983,mem = address
+fMeZ,"nawalaka, nowkwapa",,female ego's mother's older sister,,,Bowden1983,
+fMyZ,"amoy, nowkwapa",,female ego's mother's younger sister,,,Bowden1983,
+mW,mima,,male ego's wife,,,Bowden1983,
+fH,ma,,female ego‘s husband,,,Bowden1983,
+mDH,nyijokw,,male ego's daughter's husband,,,Bowden1983,
+fDH,nyijokw,,female ego's daughter's husband,,,Bowden1983,
+mSW,narem,,male ego's son's wife,,,Bowden1983,
+fSW,narem,,female ego's son's wife,,,Bowden1983,
+mWF,atokw,,male ego's wife's father,ach,,Bowden1983,ach = address
+mWM,atokw,,male ego's wife's mother,ach,,Bowden1983,ach = address
+mWB,nibel,,male ego's wife's brother,,,Bowden1983,
+mWZ,"laka, kumoy",,male ego's wife's sister,,,Bowden1983,"laka = wife's elder sister, kumoy = wife's younger sister"
+fHF,yey,,female ego's husband's father,,,Bowden1983,
+fHM,yey,,female ego's husband's mother,,,Bowden1983,
+fHB,"laka, kumoy",,female ego's husband's brother,,,Bowden1983,"laka = husband's elder brother, kumoy = husband's younger brother"
+fHZ,yakw,,female ego's husband's sister,,,Bowden1983,
+mBW,"laka, kumoy",,male ego's brother's wife,,,Bowden1983,"laka = elder brother's wife, kumoy = younger brother's wife"
+fBW,yekim,,female ego's brother's wife,,,Bowden1983,
+mZH,mowoy,,male ego's sister's husband,,,Bowden1983,
+fZH,"laka, kumoy",,female ego's sister's husband,,,Bowden1983,"laka = elder sister's husband, kumoy = younger sister's husband"
+mFeBS,laka,,male ego's father‘s older brother‘s son,,,Bowden1983,
+mFyBS,kumoy,,male ego‘s father‘s younger brother‘s son,,,Bowden1983,
+mFeZS,ruwey,,male ego's father‘s older sister‘s son,,,Bowden1983,
+mFyZS,ruwey,,male ego‘s father‘s younger sister‘s son,,,Bowden1983,
+mFeBD,mowoy,,male ego's father‘s older brother‘s daughter,,,Bowden1983,
+mFyBD,mowoy,,male ego‘s father‘s younger brother‘s daughter,,,Bowden1983,
+mFeZD,ruwey,,male ego's father‘s older sister‘s daughter,,,Bowden1983,
+mFyZD,ruwey,,male ego‘s father‘s younger sister‘s daughter,,,Bowden1983,
+mMeBS,magwapa,,male ego's mother‘s older brother‘s son,mem,,Bowden1983,mem = address
+mMyBS,magwapa,,male ego‘s mother‘s younger brother‘s son,mem,,Bowden1983,mem = address
+mMeZS,laka,,male ego's mother‘s older sister‘s son,,,Bowden1983,
+mMyZS,kumoy,,male ego‘s mother‘s younger sister‘s son,,,Bowden1983,
+mMeBD,nowkwapa,,male ego's mother‘s older brother‘s daughter,,,Bowden1983,
+mMyBD,nowkwapa,,male ego‘s mother‘s younger brother‘s daughter,,,Bowden1983,
+mMeZD,mowoy,,male ego's mother‘s older sister‘s daughter,,,Bowden1983,
+mMyZD,mowoy,,male ego‘s mother‘s younger sister‘s daughter,,,Bowden1983,
+fFeBS,miidiila,,female ego's father‘s older brother‘s son,,,Bowden1983,
+fFyBS,miidiila,,female ego‘s father‘s younger brother‘s son,,,Bowden1983,
+fFeZS,yikapa,,female ego's father‘s older sister‘s son,,,Bowden1983,
+fFyZS,yikapa,,female ego‘s father‘s younger sister‘s son,,,Bowden1983,
+fFeBD,yikapa,,female ego's father‘s older brother‘s daughter,,,Bowden1983,
+fFyBD,yikapa,,female ego‘s father‘s younger brother‘s daughter,,,Bowden1983,
+fFeZD,ruwey,,female ego's father‘s older sister‘s daughter,,,Bowden1983,
+fFyZD,ruwey,,female ego‘s father‘s younger sister‘s daughter,,,Bowden1983,
+fMeBS,magwapa,,female ego's mother‘s older brother‘s son,mem,,Bowden1983,mem = address
+fMyBS,magwapa,,female ego‘s mother‘s younger brother‘s son,mem,,Bowden1983,mem = address
+fMeZS,miidiila,,female ego's mother‘s older sister‘s son,,,Bowden1983,
+fMyZS,miidiila,,female ego‘s mother‘s younger sister‘s son,,,Bowden1983,
+fMeBD,nowkwapa,,female ego's mother‘s older brother‘s daughter,,,Bowden1983,
+fMyBD,nowkwapa,,female ego‘s mother‘s younger brother‘s daughter,,,Bowden1983,
+fMeZD,mowoy,,female ego's mother‘s older sister‘s daughter,,,Bowden1983,
+fMyZD,mowoy,,female ego‘s mother‘s younger sister‘s daughter,,,Bowden1983,

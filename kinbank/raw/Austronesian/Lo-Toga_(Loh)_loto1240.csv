@@ -1,151 +1,151 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","tigik",,"male ego's older brother",,,,
-"myB","tigik",,"male ego's younger brother",,,,
-"feB","chichiak",,"female ego's older brother",,,,
-"fyB","chichiak",,"female ego's younger brother",,,,
-"meZ","chichiak",,"male ego's older sister",,,,
-"myZ","chichiak",,"male ego's younger sister",,,,
-"feZ","takelek",,"female ego's older sister",,,,
-"fyZ","takelek",,"female ego's younger sister",,,,
-"mF","ma",,"male ego's father",,,,
-"mM","reme",,"male ego's mother",,,,
-"fF","ma",,"female ego's father",,,,
-"fM","reme",,"female ego's mother",,,,
-"mS","magola, netuk",,"male ego's son",,,,
-"fS","magola, netuk",,"female ego's son",,,,
-"mD","magola, netuk",,"male ego's daughter",,,,
-"fD","magola, netuk",,"female ego's daughter",,,,
-"mSS","tukwuk",,"male ego's son's son",,,,
-"mSD","tukwuk",,"male ego's son's daughter",,,,
-"mDS","tukwuk, netukwoda",,"male ego's daughter's son",,,,
-"mDD","tukwuk",,"male ego's daughter's daughter",,,,
-"fSS","tukwuk",,"female ego's son's son",,,,
-"fSD","tukwuk",,"female ego's son's daughter",,,,
-"fDS","tukwuk",,"female ego's daughter's son",,,,
-"fDD","tukwuk",,"female ego's daugher's daughter",,,,
-"mFF","tukwuk",,"male ego's father‘s father",,,,
-"mFM","tukwuk, retukwuk, repu",,"male ego's father's mother",,,,
-"mMF","tukwuk",,"male ego's mother's father",,,,
-"mMM","tukwuk, retukwuk, repu",,"male ego's mother's mother",,,,
-"fFF","tukwuk",,"female ego's father's father",,,,
-"fFM","tukwuk, retukwuk, repu",,"female ego's father's mother",,,,
-"fMF","tukwuk",,"female ego's mother's father",,,,
-"fMM","tukwuk, retukwuk, repu",,"female ego's mother's mother",,,,
-"meZS","meruk",,"male ego's older sister's son",,,,
-"myZS","meruk",,"male ego's younger sister's son",,,,
-"meZD","meruk",,"male ego's older sister's daughter",,,,
-"myZD","meruk",,"male ego's younger sister's daughter",,,,
-"mFeB","ma",,"male ego's father's older brother",,,,
-"mFyB","ma",,"male ego's father's younger brother",,,,
-"mFeZ","reme",,"male ego's father's older sister",,,,
-"mFyZ","reme",,"male ego's father's younger sister",,,,
-"mMeB","meruk",,"male ego's mother's older brother",,,,
-"mMyB","meruk",,"male ego's mother's younger brother",,,,
-"mMeZ","reme",,"male ego's mother's older sister",,,,
-"mMyZ","reme",,"male ego's mother's younger sister",,,,
-"fFeB","ma",,"female ego's father's older brother",,,,
-"fFyB","ma",,"female ego's father's younger brother",,,,
-"fFeZ","reme",,"female ego's father's older sister",,,,
-"fFyZ","reme",,"female ego's father's younger sister",,,,
-"fMeB","meruk",,"female ego's mother's older brother",,,,
-"fMyB","meruk",,"female ego's mother's younger brother",,,,
-"fMeZ","reme",,"female ego's mother's older sister",,,,
-"fMyZ","reme",,"female ego's mother's younger sister",,,,
-"mW","lekwavina mino",,"male ego's wife",,,,
-"fH","temwan mino",,"female ego‘s husband",,,,
-"mDH","kwiliga",,"male ego's daughter's husband",,,,
-"fDH","kwiliga",,"female ego's daughter's husband",,,,
-"mSW","tivina",,"male ego's son's wife",,,,
-"fSW","recha",,"female ego's son's wife",,,,
-"mWF","kwiliga",,"male ego's wife's father",,,,
-"mWM","tivina",,"male ego's wife's mother",,,,
-"mWB","wuluk",,"male ego's wife's brother",,,,
-"mWZ","chichiak",,"male ego's wife's sister",,,,
-"fHF","kwiliga",,"female ego's husband's father",,,,
-"fHM","recha",,"female ego's husband's mother",,,,
-"fHB","chichiak",,"female ego's husband's brother",,,,
-"fHZ","wuluk",,"female ego's husband's sister",,,,
-"mBW","chichiak",,"male ego's brother's wife",,,,
-"fBW","wuluk",,"female ego's brother's wife",,,,
-"mZH","wuluk",,"male ego's sister's husband",,,,
-"fZH","chichiak",,"female ego's sister's husband",,,,
-"mFBS","tigik",,"male ego's father's brother's son",,,,
-"mFZS","tigik",,"male ego's father's sister's son",,,,
-"mMBS","tigik",,"male ego's mother's brother's son",,,,
-"mMZS","tigik",,"male ego's mother's sister's son",,,,
-"mFBD","chichiak",,"male ego's father's brother's daughter",,,,
-"mFZD","chichiak",,"male ego's father's sister's daughter",,,,
-"mMBD","chichiak",,"male ego's mother's brother's daughter",,,,
-"mMZD","chickiak",,"male ego's mother's sister's daughter",,,,
-"fFBS","chichiak",,"female ego's father's brother's son",,,,
-"fFZS","chichiak",,"female ego's father's sister's son",,,,
-"fMBS","chichiak",,"female ego's mother's brother's son",,,,
-"fMZS","chickiak",,"female ego's mother's sister's son",,,,
-"fFBD","takelek",,"female ego's father's brother's daughter",,,,
-"fFZD","takelek",,"female ego's father's sister's daughter",,,,
-"fMBD","takelek",,"female ego's mother's brother's daughter",,,,
-"fMZD","takelek",,"female ego's mother's sister's daughter",,,,
-"mFeBS","tigik",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","tigik",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","tigik",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","tigik",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","chichiak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","chichiak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","chichiak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","chichiak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","tigik",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","tigik",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","tigik",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","tigik",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","chichiak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","chichiak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","chickiak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","chickiak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","tigik",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","tigik",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","tigik",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","tigik",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","chichiak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","chichiak",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","chichiak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","chichiak",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","tigik",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","tigik",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","tigik",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","tigik",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","chichiak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","chichiak",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","chickiak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","chickiak",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","chichiak",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","chichiak",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","chichiak",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","chichiak",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","takelek",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","takelek",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","takelek",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","takelek",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","chichiak",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","chichiak",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","chickiak",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","chickiak",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","takelek",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","takelek",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","takelek",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","takelek",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","chichiak",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","chichiak",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","chichiak",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","chichiak",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","takelek",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","takelek",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","takelek",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","takelek",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","chichiak",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","chichiak",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","chickiak",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","chickiak",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","takelek",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","takelek",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","takelek",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","takelek",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,tigik,,male ego's older brother,,,Durrad1940,
+myB,tigik,,male ego's younger brother,,,Durrad1940,
+feB,chichiak,,female ego's older brother,,,Durrad1940,
+fyB,chichiak,,female ego's younger brother,,,Durrad1940,
+meZ,chichiak,,male ego's older sister,,,Durrad1940,
+myZ,chichiak,,male ego's younger sister,,,Durrad1940,
+feZ,takelek,,female ego's older sister,,,Durrad1940,
+fyZ,takelek,,female ego's younger sister,,,Durrad1940,
+mF,ma,,male ego's father,,,Durrad1940,
+mM,reme,,male ego's mother,,,Durrad1940,
+fF,ma,,female ego's father,,,Durrad1940,
+fM,reme,,female ego's mother,,,Durrad1940,
+mS,"magola, netuk",,male ego's son,,,Durrad1940,
+fS,"magola, netuk",,female ego's son,,,Durrad1940,
+mD,"magola, netuk",,male ego's daughter,,,Durrad1940,
+fD,"magola, netuk",,female ego's daughter,,,Durrad1940,
+mSS,tukwuk,,male ego's son's son,,,Durrad1940,
+mSD,tukwuk,,male ego's son's daughter,,,Durrad1940,
+mDS,"tukwuk, netukwoda",,male ego's daughter's son,,,Durrad1940,
+mDD,tukwuk,,male ego's daughter's daughter,,,Durrad1940,
+fSS,tukwuk,,female ego's son's son,,,Durrad1940,
+fSD,tukwuk,,female ego's son's daughter,,,Durrad1940,
+fDS,tukwuk,,female ego's daughter's son,,,Durrad1940,
+fDD,tukwuk,,female ego's daugher's daughter,,,Durrad1940,
+mFF,tukwuk,,male ego's father‘s father,,,Durrad1940,
+mFM,"tukwuk, retukwuk, repu",,male ego's father's mother,,,Durrad1940,
+mMF,tukwuk,,male ego's mother's father,,,Durrad1940,
+mMM,"tukwuk, retukwuk, repu",,male ego's mother's mother,,,Durrad1940,
+fFF,tukwuk,,female ego's father's father,,,Durrad1940,
+fFM,"tukwuk, retukwuk, repu",,female ego's father's mother,,,Durrad1940,
+fMF,tukwuk,,female ego's mother's father,,,Durrad1940,
+fMM,"tukwuk, retukwuk, repu",,female ego's mother's mother,,,Durrad1940,
+meZS,meruk,,male ego's older sister's son,,,Durrad1940,
+myZS,meruk,,male ego's younger sister's son,,,Durrad1940,
+meZD,meruk,,male ego's older sister's daughter,,,Durrad1940,
+myZD,meruk,,male ego's younger sister's daughter,,,Durrad1940,
+mFeB,ma,,male ego's father's older brother,,,Durrad1940,
+mFyB,ma,,male ego's father's younger brother,,,Durrad1940,
+mFeZ,reme,,male ego's father's older sister,,,Durrad1940,
+mFyZ,reme,,male ego's father's younger sister,,,Durrad1940,
+mMeB,meruk,,male ego's mother's older brother,,,Durrad1940,
+mMyB,meruk,,male ego's mother's younger brother,,,Durrad1940,
+mMeZ,reme,,male ego's mother's older sister,,,Durrad1940,
+mMyZ,reme,,male ego's mother's younger sister,,,Durrad1940,
+fFeB,ma,,female ego's father's older brother,,,Durrad1940,
+fFyB,ma,,female ego's father's younger brother,,,Durrad1940,
+fFeZ,reme,,female ego's father's older sister,,,Durrad1940,
+fFyZ,reme,,female ego's father's younger sister,,,Durrad1940,
+fMeB,meruk,,female ego's mother's older brother,,,Durrad1940,
+fMyB,meruk,,female ego's mother's younger brother,,,Durrad1940,
+fMeZ,reme,,female ego's mother's older sister,,,Durrad1940,
+fMyZ,reme,,female ego's mother's younger sister,,,Durrad1940,
+mW,lekwavina mino,,male ego's wife,,,Durrad1940,
+fH,temwan mino,,female ego‘s husband,,,Durrad1940,
+mDH,kwiliga,,male ego's daughter's husband,,,Durrad1940,
+fDH,kwiliga,,female ego's daughter's husband,,,Durrad1940,
+mSW,tivina,,male ego's son's wife,,,Durrad1940,
+fSW,recha,,female ego's son's wife,,,Durrad1940,
+mWF,kwiliga,,male ego's wife's father,,,Durrad1940,
+mWM,tivina,,male ego's wife's mother,,,Durrad1940,
+mWB,wuluk,,male ego's wife's brother,,,Durrad1940,
+mWZ,chichiak,,male ego's wife's sister,,,Durrad1940,
+fHF,kwiliga,,female ego's husband's father,,,Durrad1940,
+fHM,recha,,female ego's husband's mother,,,Durrad1940,
+fHB,chichiak,,female ego's husband's brother,,,Durrad1940,
+fHZ,wuluk,,female ego's husband's sister,,,Durrad1940,
+mBW,chichiak,,male ego's brother's wife,,,Durrad1940,
+fBW,wuluk,,female ego's brother's wife,,,Durrad1940,
+mZH,wuluk,,male ego's sister's husband,,,Durrad1940,
+fZH,chichiak,,female ego's sister's husband,,,Durrad1940,
+mFBS,tigik,,male ego's father's brother's son,,,Durrad1940,
+mFZS,tigik,,male ego's father's sister's son,,,Durrad1940,
+mMBS,tigik,,male ego's mother's brother's son,,,Durrad1940,
+mMZS,tigik,,male ego's mother's sister's son,,,Durrad1940,
+mFBD,chichiak,,male ego's father's brother's daughter,,,Durrad1940,
+mFZD,chichiak,,male ego's father's sister's daughter,,,Durrad1940,
+mMBD,chichiak,,male ego's mother's brother's daughter,,,Durrad1940,
+mMZD,chickiak,,male ego's mother's sister's daughter,,,Durrad1940,
+fFBS,chichiak,,female ego's father's brother's son,,,Durrad1940,
+fFZS,chichiak,,female ego's father's sister's son,,,Durrad1940,
+fMBS,chichiak,,female ego's mother's brother's son,,,Durrad1940,
+fMZS,chickiak,,female ego's mother's sister's son,,,Durrad1940,
+fFBD,takelek,,female ego's father's brother's daughter,,,Durrad1940,
+fFZD,takelek,,female ego's father's sister's daughter,,,Durrad1940,
+fMBD,takelek,,female ego's mother's brother's daughter,,,Durrad1940,
+fMZD,takelek,,female ego's mother's sister's daughter,,,Durrad1940,
+mFeBS,tigik,,male ego's father's brother's son,,,Durrad1940,Inferred; NA
+mFyBS,tigik,,male ego's father's brother's son,,,Durrad1940,Inferred; NA
+mFeZS,tigik,,male ego's father's sister's son,,,Durrad1940,Inferred; NA
+mFyZS,tigik,,male ego's father's sister's son,,,Durrad1940,Inferred; NA
+mFeBD,chichiak,,male ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+mFyBD,chichiak,,male ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+mFeZD,chichiak,,male ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+mFyZD,chichiak,,male ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+mMeBS,tigik,,male ego's mother's brother's son,,,Durrad1940,Inferred; NA
+mMyBS,tigik,,male ego's mother's brother's son,,,Durrad1940,Inferred; NA
+mMeZS,tigik,,male ego's mother's sister's son,,,Durrad1940,Inferred; NA
+mMyZS,tigik,,male ego's mother's sister's son,,,Durrad1940,Inferred; NA
+mMeBD,chichiak,,male ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+mMyBD,chichiak,,male ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+mMeZD,chickiak,,male ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+mMyZD,chickiak,,male ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+mFBeS,tigik,,male ego's father's brother's son,,,Durrad1940,Inferred; NA
+mFByS,tigik,,male ego's father's brother's son,,,Durrad1940,Inferred; NA
+mFZeS,tigik,,male ego's father's sister's son,,,Durrad1940,Inferred; NA
+mFZyS,tigik,,male ego's father's sister's son,,,Durrad1940,Inferred; NA
+mFBeD,chichiak,,male ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+mFByD,chichiak,,male ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+mFZeD,chichiak,,male ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+mFZyD,chichiak,,male ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+mMBeS,tigik,,male ego's mother's brother's son,,,Durrad1940,Inferred; NA
+mMByS,tigik,,male ego's mother's brother's son,,,Durrad1940,Inferred; NA
+mMZeS,tigik,,male ego's mother's sister's son,,,Durrad1940,Inferred; NA
+mMZyS,tigik,,male ego's mother's sister's son,,,Durrad1940,Inferred; NA
+mMBeD,chichiak,,male ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+mMByD,chichiak,,male ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+mMZeD,chickiak,,male ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+mMZyD,chickiak,,male ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+fFeBS,chichiak,,female ego's father's brother's son,,,Durrad1940,Inferred; NA
+fFyBS,chichiak,,female ego's father's brother's son,,,Durrad1940,Inferred; NA
+fFeZS,chichiak,,female ego's father's sister's son,,,Durrad1940,Inferred; NA
+fFyZS,chichiak,,female ego's father's sister's son,,,Durrad1940,Inferred; NA
+fFeBD,takelek,,female ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+fFyBD,takelek,,female ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+fFeZD,takelek,,female ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+fFyZD,takelek,,female ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+fMeBS,chichiak,,female ego's mother's brother's son,,,Durrad1940,Inferred; NA
+fMyBS,chichiak,,female ego's mother's brother's son,,,Durrad1940,Inferred; NA
+fMeZS,chickiak,,female ego's mother's sister's son,,,Durrad1940,Inferred; NA
+fMyZS,chickiak,,female ego's mother's sister's son,,,Durrad1940,Inferred; NA
+fMeBD,takelek,,female ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+fMyBD,takelek,,female ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+fMeZD,takelek,,female ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+fMyZD,takelek,,female ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+fFBeS,chichiak,,female ego's father's brother's son,,,Durrad1940,Inferred; NA
+fFByS,chichiak,,female ego's father's brother's son,,,Durrad1940,Inferred; NA
+fFZeS,chichiak,,female ego's father's sister's son,,,Durrad1940,Inferred; NA
+fFZyS,chichiak,,female ego's father's sister's son,,,Durrad1940,Inferred; NA
+fFBeD,takelek,,female ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+fFByD,takelek,,female ego's father's brother's daughter,,,Durrad1940,Inferred; NA
+fFZeD,takelek,,female ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+fFZyD,takelek,,female ego's father's sister's daughter,,,Durrad1940,Inferred; NA
+fMBeS,chichiak,,female ego's mother's brother's son,,,Durrad1940,Inferred; NA
+fMByS,chichiak,,female ego's mother's brother's son,,,Durrad1940,Inferred; NA
+fMZeS,chickiak,,female ego's mother's sister's son,,,Durrad1940,Inferred; NA
+fMZyS,chickiak,,female ego's mother's sister's son,,,Durrad1940,Inferred; NA
+fMBeD,takelek,,female ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+fMByD,takelek,,female ego's mother's brother's daughter,,,Durrad1940,Inferred; NA
+fMZeD,takelek,,female ego's mother's sister's daughter,,,Durrad1940,Inferred; NA
+fMZyD,takelek,,female ego's mother's sister's daughter,,,Durrad1940,Inferred; NA

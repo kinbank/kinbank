@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","le",,"male ego's older brother",,,,
-"myB","le",,"male ego's younger brother",,,,
-"feB","běrbet",,"female ego's older brother",,,,
-"fyB","běrbet",,"female ego's younger brother",,,,
-"meZ","běrbet",,"male ego's older sister",,,,
-"myZ","běrbet",,"male ego's younger sister",,,,
-"feZ","le",,"female ego's older sister",,,,
-"fyZ","le",,"female ego's younger sister",,,,
-"mF","ab, aba, baba",,"male ego's father",,,,
-"mM","apu, ama, amaua",,"male ego's mother",,,,
-"fF","ab, aba, baba",,"female ego's father",,,,
-"fM","apu, ama, amaua",,"female ego's mother",,,,
-"mS","wěrěm",,"male ego's son",,,,
-"fS","wěrěm",,"female ego's son",,,,
-"mD","neaur",,"male ego's daughter",,,,
-"fD","neaur",,"female ego's daughter",,,,
-"mSS","nǎp",,"male ego's son's son",,,,
-"mSD","nǎp",,"male ego's son's daughter",,,,
-"mDS","nǎp",,"male ego's daughter's son",,,,
-"mDD","nǎp",,"male ego's daughter's daughter",,,,
-"fSS","nǎp",,"female ego's son's son",,,,
-"fSD","nǎp",,"female ego's son's daughter",,,,
-"fDS","nǎp",,"female ego's daughter's son",,,,
-"fDD","nǎp",,"female ego's daugher's daughter",,,,
-"mFF","kaiǎd, pòpa",,"male ego's father‘s father",,,,
-"mFM","kaiǎd, pòpa",,"male ego's father's mother",,,,
-"mMF","kaiǎd, pòpa",,"male ego's mother's father",,,,
-"mMM","kaiǎd, pòpa",,"male ego's mother's mother",,,,
-"fFF","kaiǎd, pòpa",,"female ego's father's father",,,,
-"fFM","kaiǎd, pòpa",,"female ego's father's mother",,,,
-"fMF","kaiǎd, pòpa",,"female ego's mother's father",,,,
-"fMM","kaiǎd, pòpa",,"female ego's mother's mother",,,,
-"meBS","wěrěm",,"male ego's older brother's son",,,,
-"myBS","wěrěm",,"male ego's younger brother's son",,,,
-"meZS","nunei",,"male ego's older sister's son",,,,
-"myZS","nunei",,"male ego's younger sister's son",,,,
-"meBD","neaur",,"male ego's older brother's daughter",,,,
-"myBD","neaur",,"male ego's younger brother's daughter",,,,
-"meZD","neaur",,"male ego's older sister's daughter",,,,
-"myZD","neaur",,"male ego's younger sister's daughter",,,,
-"feBS","wěrěm",,"female ego's older brother's son",,,,
-"fyBS","wěrěm",,"female ego's younger brother's son",,,,
-"feZS","nunei",,"female ego's older sister's son",,,,
-"fyZS","nunei",,"female ego's younger sister's son",,,,
-"feBD","neaur",,"female ego's older brother's daughter",,,,
-"fyBD","neaur",,"female ego's younger brother's daughter",,,,
-"feZD","neaur",,"female ego's older sister's daughter",,,,
-"fyZD","neaur",,"female ego's younger sister's daughter",,,,
-"mFeB","ab, aba, baba",,"male ego's father's older brother",,,,
-"mFyB","ab, aba, baba",,"male ego's father's younger brother",,,,
-"mFeZ","apu, ama, amaua",,"male ego's father's older sister",,,,
-"mFyZ","apu, ama, amaua",,"male ego's father's younger sister",,,,
-"mMeB","aua",,"male ego's mother's older brother",,,,
-"mMyB","aua",,"male ego's mother's younger brother",,,,
-"mMeZ","apu, ama, amaua",,"male ego's mother's older sister",,,,
-"mMyZ","apu, ama, amaua",,"male ego's mother's younger sister",,,,
-"fFeB","ab, aba, baba",,"female ego's father's older brother",,,,
-"fFyB","ab, aba, baba",,"female ego's father's younger brother",,,,
-"fFeZ","apu, ama, amaua",,"female ego's father's older sister",,,,
-"fFyZ","apu, ama, amaua",,"female ego's father's younger sister",,,,
-"fMeB","aua",,"female ego's mother's older brother",,,,
-"fMyB","aua",,"female ego's mother's younger brother",,,,
-"fMeZ","apu, ama, amaua",,"female ego's mother's older sister",,,,
-"fMyZ","apu, ama, amaua",,"female ego's mother's younger sister",,,,
-"mW","kǒsker",,"male ego's wife",,,,
-"fH","kǐmiar",,"female ego‘s husband",,,,
-"mDH","awim, awima, naiwet",,"male ego's daughter's husband",,,,
-"fDH","awim, awima, naiwet",,"female ego's daughter's husband",,,,
-"mSW","naubět",,"male ego's son's wife",,,,
-"fSW","naubět",,"female ego's son's wife",,,,
-"mWF","awim, awima, naiwet",,"male ego's wife's father",,,,
-"mWM","awim, awima, naiwet",,"male ego's wife's mother",,,,
-"mWB","awim, awima, naiwet",,"male ego's wife's brother",,,,
-"mWZ","awim, awima, naiwet",,"male ego's wife's sister",,,,
-"fHF","naubět",,"female ego's husband's father",,,,
-"fHM","naubět",,"female ego's husband's mother",,,,
-"fHB","naubět",,"female ego's husband's brother",,,,
-"fHZ","naubět",,"female ego's husband's sister",,,,
-"mBW","naubět",,"male ego's brother's wife",,,,
-"fBW","naubět",,"female ego's brother's wife",,,,
-"mZH","awim, awima, naiwet",,"male ego's sister's husband",,,,
-"fZH","awim, awima, naiwet",,"female ego's sister's husband",,,,
-"mFBS","le",,"male ego's father's brother's son",,,,
-"mFZS","něgwam",,"male ego's father's sister's son",,,,
-"mMBS","něgwam",,"male ego's mother's brother's son",,,,
-"mMZS","le",,"male ego's mother's sister's son",,,,
-"mFBD","běrbet",,"male ego's father's brother's daughter",,,,
-"mFZD","něgwam",,"male ego's father's sister's daughter",,,,
-"mMBD","něgwam",,"male ego's mother's brother's daughter",,,,
-"mMZD","běrbet",,"male ego's mother's sister's daughter",,,,
-"fFBS","běrbet",,"female ego's father's brother's son",,,,
-"fFZS","něgwam",,"female ego's father's sister's son",,,,
-"fMBS","něgwam",,"female ego's mother's brother's son",,,,
-"fMZS","běrbet",,"female ego's mother's sister's son",,,,
-"fFBD","le",,"female ego's father's brother's daughter",,,,
-"fFZD","něgwam",,"female ego's father's sister's daughter",,,,
-"fMBD","něgwam",,"female ego's mother's brother's daughter",,,,
-"fMZD","le",,"female ego's mother's sister's daughter",,,,
-"mFeBS","le",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","le",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","něgwam",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","něgwam",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","běrbet",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","běrbet",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","něgwam",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","něgwam",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","něgwam",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","něgwam",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","le",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","le",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","něgwam",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","něgwam",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","běrbet",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","běrbet",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","le",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","le",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","něgwam",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","něgwam",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","běrbet",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","běrbet",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","něgwam",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","něgwam",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","něgwam",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","něgwam",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","le",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","le",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","něgwam",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","něgwam",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","běrbet",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","běrbet",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","běrbet",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","běrbet",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","něgwam",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","něgwam",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","le",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","le",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","něgwam",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","něgwam",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","něgwam",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","něgwam",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","běrbet",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","běrbet",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","něgwam",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","něgwam",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","le",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","le",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","běrbet",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","běrbet",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","něgwam",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","něgwam",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","le",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","le",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","něgwam",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","něgwam",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","něgwam",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","něgwam",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","běrbet",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","běrbet",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","něgwam",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","něgwam",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","le",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","le",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,le,,male ego's older brother,,,Haddon1907,
+myB,le,,male ego's younger brother,,,Haddon1907,
+feB,běrbet,,female ego's older brother,,,Haddon1907,
+fyB,běrbet,,female ego's younger brother,,,Haddon1907,
+meZ,běrbet,,male ego's older sister,,,Haddon1907,
+myZ,běrbet,,male ego's younger sister,,,Haddon1907,
+feZ,le,,female ego's older sister,,,Haddon1907,
+fyZ,le,,female ego's younger sister,,,Haddon1907,
+mF,"ab, aba, baba",,male ego's father,,,Haddon1907,
+mM,"apu, ama, amaua",,male ego's mother,,,Haddon1907,
+fF,"ab, aba, baba",,female ego's father,,,Haddon1907,
+fM,"apu, ama, amaua",,female ego's mother,,,Haddon1907,
+mS,wěrěm,,male ego's son,,,Haddon1907,
+fS,wěrěm,,female ego's son,,,Haddon1907,
+mD,neaur,,male ego's daughter,,,Haddon1907,
+fD,neaur,,female ego's daughter,,,Haddon1907,
+mSS,nǎp,,male ego's son's son,,,Haddon1907,
+mSD,nǎp,,male ego's son's daughter,,,Haddon1907,
+mDS,nǎp,,male ego's daughter's son,,,Haddon1907,
+mDD,nǎp,,male ego's daughter's daughter,,,Haddon1907,
+fSS,nǎp,,female ego's son's son,,,Haddon1907,
+fSD,nǎp,,female ego's son's daughter,,,Haddon1907,
+fDS,nǎp,,female ego's daughter's son,,,Haddon1907,
+fDD,nǎp,,female ego's daugher's daughter,,,Haddon1907,
+mFF,"kaiǎd, pòpa",,male ego's father‘s father,,,Haddon1907,
+mFM,"kaiǎd, pòpa",,male ego's father's mother,,,Haddon1907,
+mMF,"kaiǎd, pòpa",,male ego's mother's father,,,Haddon1907,
+mMM,"kaiǎd, pòpa",,male ego's mother's mother,,,Haddon1907,
+fFF,"kaiǎd, pòpa",,female ego's father's father,,,Haddon1907,
+fFM,"kaiǎd, pòpa",,female ego's father's mother,,,Haddon1907,
+fMF,"kaiǎd, pòpa",,female ego's mother's father,,,Haddon1907,
+fMM,"kaiǎd, pòpa",,female ego's mother's mother,,,Haddon1907,
+meBS,wěrěm,,male ego's older brother's son,,,Haddon1907,
+myBS,wěrěm,,male ego's younger brother's son,,,Haddon1907,
+meZS,nunei,,male ego's older sister's son,,,Haddon1907,
+myZS,nunei,,male ego's younger sister's son,,,Haddon1907,
+meBD,neaur,,male ego's older brother's daughter,,,Haddon1907,
+myBD,neaur,,male ego's younger brother's daughter,,,Haddon1907,
+meZD,neaur,,male ego's older sister's daughter,,,Haddon1907,
+myZD,neaur,,male ego's younger sister's daughter,,,Haddon1907,
+feBS,wěrěm,,female ego's older brother's son,,,Haddon1907,
+fyBS,wěrěm,,female ego's younger brother's son,,,Haddon1907,
+feZS,nunei,,female ego's older sister's son,,,Haddon1907,
+fyZS,nunei,,female ego's younger sister's son,,,Haddon1907,
+feBD,neaur,,female ego's older brother's daughter,,,Haddon1907,
+fyBD,neaur,,female ego's younger brother's daughter,,,Haddon1907,
+feZD,neaur,,female ego's older sister's daughter,,,Haddon1907,
+fyZD,neaur,,female ego's younger sister's daughter,,,Haddon1907,
+mFeB,"ab, aba, baba",,male ego's father's older brother,,,Haddon1907,
+mFyB,"ab, aba, baba",,male ego's father's younger brother,,,Haddon1907,
+mFeZ,"apu, ama, amaua",,male ego's father's older sister,,,Haddon1907,
+mFyZ,"apu, ama, amaua",,male ego's father's younger sister,,,Haddon1907,
+mMeB,aua,,male ego's mother's older brother,,,Haddon1907,
+mMyB,aua,,male ego's mother's younger brother,,,Haddon1907,
+mMeZ,"apu, ama, amaua",,male ego's mother's older sister,,,Haddon1907,
+mMyZ,"apu, ama, amaua",,male ego's mother's younger sister,,,Haddon1907,
+fFeB,"ab, aba, baba",,female ego's father's older brother,,,Haddon1907,
+fFyB,"ab, aba, baba",,female ego's father's younger brother,,,Haddon1907,
+fFeZ,"apu, ama, amaua",,female ego's father's older sister,,,Haddon1907,
+fFyZ,"apu, ama, amaua",,female ego's father's younger sister,,,Haddon1907,
+fMeB,aua,,female ego's mother's older brother,,,Haddon1907,
+fMyB,aua,,female ego's mother's younger brother,,,Haddon1907,
+fMeZ,"apu, ama, amaua",,female ego's mother's older sister,,,Haddon1907,
+fMyZ,"apu, ama, amaua",,female ego's mother's younger sister,,,Haddon1907,
+mW,kǒsker,,male ego's wife,,,Haddon1907,
+fH,kǐmiar,,female ego‘s husband,,,Haddon1907,
+mDH,"awim, awima, naiwet",,male ego's daughter's husband,,,Haddon1907,
+fDH,"awim, awima, naiwet",,female ego's daughter's husband,,,Haddon1907,
+mSW,naubět,,male ego's son's wife,,,Haddon1907,
+fSW,naubět,,female ego's son's wife,,,Haddon1907,
+mWF,"awim, awima, naiwet",,male ego's wife's father,,,Haddon1907,
+mWM,"awim, awima, naiwet",,male ego's wife's mother,,,Haddon1907,
+mWB,"awim, awima, naiwet",,male ego's wife's brother,,,Haddon1907,
+mWZ,"awim, awima, naiwet",,male ego's wife's sister,,,Haddon1907,
+fHF,naubět,,female ego's husband's father,,,Haddon1907,
+fHM,naubět,,female ego's husband's mother,,,Haddon1907,
+fHB,naubět,,female ego's husband's brother,,,Haddon1907,
+fHZ,naubět,,female ego's husband's sister,,,Haddon1907,
+mBW,naubět,,male ego's brother's wife,,,Haddon1907,
+fBW,naubět,,female ego's brother's wife,,,Haddon1907,
+mZH,"awim, awima, naiwet",,male ego's sister's husband,,,Haddon1907,
+fZH,"awim, awima, naiwet",,female ego's sister's husband,,,Haddon1907,
+mFBS,le,,male ego's father's brother's son,,,Haddon1907,
+mFZS,něgwam,,male ego's father's sister's son,,,Haddon1907,
+mMBS,něgwam,,male ego's mother's brother's son,,,Haddon1907,
+mMZS,le,,male ego's mother's sister's son,,,Haddon1907,
+mFBD,běrbet,,male ego's father's brother's daughter,,,Haddon1907,
+mFZD,něgwam,,male ego's father's sister's daughter,,,Haddon1907,
+mMBD,něgwam,,male ego's mother's brother's daughter,,,Haddon1907,
+mMZD,běrbet,,male ego's mother's sister's daughter,,,Haddon1907,
+fFBS,běrbet,,female ego's father's brother's son,,,Haddon1907,
+fFZS,něgwam,,female ego's father's sister's son,,,Haddon1907,
+fMBS,něgwam,,female ego's mother's brother's son,,,Haddon1907,
+fMZS,běrbet,,female ego's mother's sister's son,,,Haddon1907,
+fFBD,le,,female ego's father's brother's daughter,,,Haddon1907,
+fFZD,něgwam,,female ego's father's sister's daughter,,,Haddon1907,
+fMBD,něgwam,,female ego's mother's brother's daughter,,,Haddon1907,
+fMZD,le,,female ego's mother's sister's daughter,,,Haddon1907,
+mFeBS,le,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
+mFyBS,le,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
+mFeZS,něgwam,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
+mFyZS,něgwam,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
+mFeBD,běrbet,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+mFyBD,běrbet,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+mFeZD,něgwam,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+mFyZD,něgwam,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+mMeBS,něgwam,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
+mMyBS,něgwam,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
+mMeZS,le,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
+mMyZS,le,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
+mMeBD,něgwam,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+mMyBD,něgwam,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+mMeZD,běrbet,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+mMyZD,běrbet,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+mFBeS,le,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
+mFByS,le,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
+mFZeS,něgwam,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
+mFZyS,něgwam,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
+mFBeD,běrbet,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+mFByD,běrbet,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+mFZeD,něgwam,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+mFZyD,něgwam,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+mMBeS,něgwam,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
+mMByS,něgwam,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
+mMZeS,le,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
+mMZyS,le,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
+mMBeD,něgwam,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+mMByD,něgwam,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+mMZeD,běrbet,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+mMZyD,běrbet,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+fFeBS,běrbet,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
+fFyBS,běrbet,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
+fFeZS,něgwam,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
+fFyZS,něgwam,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
+fFeBD,le,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+fFyBD,le,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+fFeZD,něgwam,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+fFyZD,něgwam,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+fMeBS,něgwam,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
+fMyBS,něgwam,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
+fMeZS,běrbet,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
+fMyZS,běrbet,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
+fMeBD,něgwam,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+fMyBD,něgwam,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+fMeZD,le,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+fMyZD,le,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+fFBeS,běrbet,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
+fFByS,běrbet,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
+fFZeS,něgwam,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
+fFZyS,něgwam,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
+fFBeD,le,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+fFByD,le,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
+fFZeD,něgwam,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+fFZyD,něgwam,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
+fMBeS,něgwam,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
+fMByS,něgwam,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
+fMZeS,běrbet,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
+fMZyS,běrbet,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
+fMBeD,něgwam,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+fMByD,něgwam,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
+fMZeD,le,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+fMZyD,le,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA

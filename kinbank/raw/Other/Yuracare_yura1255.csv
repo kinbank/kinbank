@@ -1,115 +1,115 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","pii",,"male ego's older brother",,,,""
-"myB","paa",,"male ego's younger brother",,,,""
-"feB","pipi",,"female ego's older brother",,,,""
-"fyB","dyama",,"female ego's younger brother",,,,""
-"meZ","yee",,"male ego's older sister",,,,""
-"myZ","yee",,"male ego's younger sister",,,,""
-"feZ","neshu",,"female ego's older sister",,,,""
-"fyZ","dyama",,"female ego's younger sister",,,,""
-"mF","tata",,"male ego's father",,,,""
-"mM","meme",,"male ego's mother",,,,""
-"fF","tata",,"female ego's father",,,,""
-"fM","meme",,"female ego's mother",,,,""
-"mS","ëtë̄jñu, bonto",,"male ego's son",,,,"ētējñu before puberty, bonto after puberty"
-"fS","ëtë̄jñu, bonto",,"female ego's son",,,,"ētējñu before puberty, bonto after puberty"
-"mD","yijñu, shoja",,"male ego's daughter",,,,"yijñu before puberty, shoja after puberty"
-"fD","yijñu, shoja",,"female ego's daughter",,,,"yijñu before puberty, shoja after puberty"
-"mSS","lele",,"male ego's son's son",,,,""
-"mSD","lele",,"male ego's son's daughter",,,,""
-"mDS","lele",,"male ego's daughter's son",,,,""
-"mDD","lele",,"male ego's daughter's daughter",,,,""
-"fSS","lele",,"female ego's son's son",,,,""
-"fSD","lele",,"female ego's son's daughter",,,,""
-"fDS","lele",,"female ego's daughter's son",,,,""
-"fDD","lele",,"female ego's daugher's daughter",,,,""
-"mFF","pëpë",,"male ego's father‘s father",,,,""
-"mFM","tejte",,"male ego's father's mother",,,,""
-"mMF","pëpë",,"male ego's mother's father",,,,""
-"mMM","tejte",,"male ego's mother's mother",,,,""
-"fFF","pëpë",,"female ego's father's father",,,,""
-"fFM","tejte",,"female ego's father's mother",,,,""
-"fMF","pëpë",,"female ego's mother's father",,,,""
-"fMM","tejte",,"female ego's mother's mother",,,,""
-"meBS","are",,"male ego's older brother's son",,,,""
-"myBS","are",,"male ego's younger brother's son",,,,""
-"meZS","are",,"male ego's older sister's son",,,,""
-"myZS","are",,"male ego's younger sister's son",,,,""
-"meBD","shoja",,"male ego's older brother's daughter",,,,""
-"myBD","shoja",,"male ego's younger brother's daughter",,,,""
-"meZD","shoja",,"male ego's older sister's daughter",,,,""
-"myZD","shoja",,"male ego's younger sister's daughter",,,,""
-"feBS","tëë",,"female ego's older brother's son",,,,""
-"fyBS","tëë",,"female ego's younger brother's son",,,,""
-"feZS","tëë",,"female ego's older sister's son",,,,""
-"fyZS","tëë",,"female ego's younger sister's son",,,,""
-"feBD","tëë",,"female ego's older brother's daughter",,,,""
-"fyBD","tëë",,"female ego's younger brother's daughter",,,,""
-"feZD","tëë",,"female ego's older sister's daughter",,,,""
-"fyZD","tëë",,"female ego's younger sister's daughter",,,,""
-"mFeB","choo",,"male ego's father's older brother",,,,""
-"mFyB","choo",,"male ego's father's younger brother",,,,""
-"mFeZ","lëlë",,"male ego's father's older sister",,,,""
-"mFyZ","lëlë",,"male ego's father's younger sister",,,,""
-"mMeB","choo",,"male ego's mother's older brother",,,,""
-"mMyB","choo",,"male ego's mother's younger brother",,,,""
-"mMeZ","lëlë",,"male ego's mother's older sister",,,,""
-"mMyZ","lëlë",,"male ego's mother's younger sister",,,,""
-"fFeB","choo",,"female ego's father's older brother",,,,""
-"fFyB","choo",,"female ego's father's younger brother",,,,""
-"fFeZ","lëlë",,"female ego's father's older sister",,,,""
-"fFyZ","lëlë",,"female ego's father's younger sister",,,,""
-"fMeB","choo",,"female ego's mother's older brother",,,,""
-"fMyB","choo",,"female ego's mother's younger brother",,,,""
-"fMeZ","lëlë",,"female ego's mother's older sister",,,,""
-"fMyZ","lëlë",,"female ego's mother's younger sister",,,,""
-"mW","bashti",,"male ego's wife",,,,""
-"fH","ba",,"female ego‘s husband",,,,""
-"mDH","wëshi",,"male ego's daughter's husband",,,,""
-"fDH","wëshi",,"female ego's daughter's husband",,,,""
-"mSW","ñaba",,"male ego's son's wife",,,,""
-"fSW","ñaba",,"female ego's son's wife",,,,""
-"mWF","wëshshuñe",,"male ego's wife's father",,,,""
-"mWM","wëshshendye, ñabshendye, memshendye",,"male ego's wife's mother",,,,""
-"mWB","wëshi",,"male ego's wife's brother",,,,""
-"mWZ","/",,"male ego's wife's sister",,,,"no term in the language for this relation"
-"fHF","wëshshuñe",,"female ego's husband's father",,,,""
-"fHM","wëshshendye, ñabshendye, memshendye",,"female ego's husband's mother",,,,""
-"fHB","/",,"female ego's husband's brother",,,,"no term in the language for this relation"
-"fHZ","ñaba",,"female ego's husband's sister",,,,""
-"mBW","ñaba",,"male ego's brother's wife",,,,""
-"fBW","ñaba",,"female ego's brother's wife",,,,""
-"mZH","wëshi",,"male ego's sister's husband",,,,""
-"fZH","wëshi",,"female ego's sister's husband",,,,""
-"mFBeS","pii",,"male ego‘s father‘s brother‘s older son",,,,""
-"mFByS","paa",,"male ego‘s father‘s brother‘s younger son",,,,""
-"mFBeD","yee",,"male ego‘s father‘s brother‘s older daughter",,,,""
-"mFByD","yee",,"male ego‘s father‘s brother‘s younger daughter",,,,""
-"mFZeS","pii",,"male ego‘s father‘s sisters‘s older son",,,,""
-"mFZyS","paa",,"male ego‘s father‘s sisters‘s younger son",,,,""
-"mFZeD","yee",,"male ego‘s father‘s sisters‘s older daughter",,,,""
-"mFZyD","yee",,"male ego‘s father‘s sisters‘s younger daughter",,,,""
-"mMBeS","pii",,"male ego‘s mother‘s brother‘s older son",,,,""
-"mMByS","paa",,"male ego‘s mother‘s brother‘s younger son",,,,""
-"mMBeD","yee",,"male ego‘s mother‘s brother‘s older daughter",,,,""
-"mMByD","yee",,"male ego‘s mother‘s brother‘s younger daughter",,,,""
-"mMZeS","pii",,"male ego‘s mother‘s sisters‘s older son",,,,""
-"mMZyS","paa",,"male ego‘s mother‘s sisters‘s younger son",,,,""
-"mMZeD","yee",,"male ego‘s mother‘s sisters‘s older daughter",,,,""
-"mMZyD","yee",,"male ego‘s mother‘s sisters‘s younger daughter",,,,""
-"fFBeS","pipi",,"female ego‘s father‘s brother‘s older son",,,,""
-"fFByS","dyama",,"female ego‘s father‘s brother‘s younger son",,,,""
-"fFBeD","neshu",,"female ego‘s father‘s brother‘s older daughter",,,,""
-"fFByD","dyama",,"female ego‘s father‘s brother‘s younger daughter",,,,""
-"fFZeS","pipi",,"female ego‘s father‘s sisters‘s older son",,,,""
-"fFZyS","dyama",,"female ego‘s father‘s sisters‘s younger son",,,,""
-"fFZeD","neshu",,"female ego‘s father‘s sisters‘s older daughter",,,,""
-"fFZyD","dyama",,"female ego‘s father‘s sisters‘s younger daughter",,,,""
-"fMBeS","pipi",,"female ego‘s mother‘s brother‘s older son",,,,""
-"fMByS","dyama",,"female ego‘s mother‘s brother‘s younger son",,,,""
-"fMBeD","neshu",,"female ego‘s mother‘s brother‘s older daughter",,,,""
-"fMByD","dyama",,"female ego‘s mother‘s brother‘s younger daughter",,,,""
-"fMZeS","pipi",,"female ego‘s mother‘s sisters‘s older son",,,,""
-"fMZyS","dyama",,"female ego‘s mother‘s sisters‘s younger son",,,,""
-"fMZeD","neshu",,"female ego‘s mother‘s sisters‘s older daughter",,,,""
-"fMZyD","dyama",,"female ego‘s mother‘s sisters‘s younger daughter",,,,""
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,pii,,male ego's older brother,,,Hirtzel2010,
+myB,paa,,male ego's younger brother,,,Hirtzel2010,
+feB,pipi,,female ego's older brother,,,Hirtzel2010,
+fyB,dyama,,female ego's younger brother,,,Hirtzel2010,
+meZ,yee,,male ego's older sister,,,Hirtzel2010,
+myZ,yee,,male ego's younger sister,,,Hirtzel2010,
+feZ,neshu,,female ego's older sister,,,Hirtzel2010,
+fyZ,dyama,,female ego's younger sister,,,Hirtzel2010,
+mF,tata,,male ego's father,,,Hirtzel2010,
+mM,meme,,male ego's mother,,,Hirtzel2010,
+fF,tata,,female ego's father,,,Hirtzel2010,
+fM,meme,,female ego's mother,,,Hirtzel2010,
+mS,"ëtë̄jñu, bonto",,male ego's son,,,Hirtzel2010,"ētējñu before puberty, bonto after puberty"
+fS,"ëtë̄jñu, bonto",,female ego's son,,,Hirtzel2010,"ētējñu before puberty, bonto after puberty"
+mD,"yijñu, shoja",,male ego's daughter,,,Hirtzel2010,"yijñu before puberty, shoja after puberty"
+fD,"yijñu, shoja",,female ego's daughter,,,Hirtzel2010,"yijñu before puberty, shoja after puberty"
+mSS,lele,,male ego's son's son,,,Hirtzel2010,
+mSD,lele,,male ego's son's daughter,,,Hirtzel2010,
+mDS,lele,,male ego's daughter's son,,,Hirtzel2010,
+mDD,lele,,male ego's daughter's daughter,,,Hirtzel2010,
+fSS,lele,,female ego's son's son,,,Hirtzel2010,
+fSD,lele,,female ego's son's daughter,,,Hirtzel2010,
+fDS,lele,,female ego's daughter's son,,,Hirtzel2010,
+fDD,lele,,female ego's daugher's daughter,,,Hirtzel2010,
+mFF,pëpë,,male ego's father‘s father,,,Hirtzel2010,
+mFM,tejte,,male ego's father's mother,,,Hirtzel2010,
+mMF,pëpë,,male ego's mother's father,,,Hirtzel2010,
+mMM,tejte,,male ego's mother's mother,,,Hirtzel2010,
+fFF,pëpë,,female ego's father's father,,,Hirtzel2010,
+fFM,tejte,,female ego's father's mother,,,Hirtzel2010,
+fMF,pëpë,,female ego's mother's father,,,Hirtzel2010,
+fMM,tejte,,female ego's mother's mother,,,Hirtzel2010,
+meBS,are,,male ego's older brother's son,,,Hirtzel2010,
+myBS,are,,male ego's younger brother's son,,,Hirtzel2010,
+meZS,are,,male ego's older sister's son,,,Hirtzel2010,
+myZS,are,,male ego's younger sister's son,,,Hirtzel2010,
+meBD,shoja,,male ego's older brother's daughter,,,Hirtzel2010,
+myBD,shoja,,male ego's younger brother's daughter,,,Hirtzel2010,
+meZD,shoja,,male ego's older sister's daughter,,,Hirtzel2010,
+myZD,shoja,,male ego's younger sister's daughter,,,Hirtzel2010,
+feBS,tëë,,female ego's older brother's son,,,Hirtzel2010,
+fyBS,tëë,,female ego's younger brother's son,,,Hirtzel2010,
+feZS,tëë,,female ego's older sister's son,,,Hirtzel2010,
+fyZS,tëë,,female ego's younger sister's son,,,Hirtzel2010,
+feBD,tëë,,female ego's older brother's daughter,,,Hirtzel2010,
+fyBD,tëë,,female ego's younger brother's daughter,,,Hirtzel2010,
+feZD,tëë,,female ego's older sister's daughter,,,Hirtzel2010,
+fyZD,tëë,,female ego's younger sister's daughter,,,Hirtzel2010,
+mFeB,choo,,male ego's father's older brother,,,Hirtzel2010,
+mFyB,choo,,male ego's father's younger brother,,,Hirtzel2010,
+mFeZ,lëlë,,male ego's father's older sister,,,Hirtzel2010,
+mFyZ,lëlë,,male ego's father's younger sister,,,Hirtzel2010,
+mMeB,choo,,male ego's mother's older brother,,,Hirtzel2010,
+mMyB,choo,,male ego's mother's younger brother,,,Hirtzel2010,
+mMeZ,lëlë,,male ego's mother's older sister,,,Hirtzel2010,
+mMyZ,lëlë,,male ego's mother's younger sister,,,Hirtzel2010,
+fFeB,choo,,female ego's father's older brother,,,Hirtzel2010,
+fFyB,choo,,female ego's father's younger brother,,,Hirtzel2010,
+fFeZ,lëlë,,female ego's father's older sister,,,Hirtzel2010,
+fFyZ,lëlë,,female ego's father's younger sister,,,Hirtzel2010,
+fMeB,choo,,female ego's mother's older brother,,,Hirtzel2010,
+fMyB,choo,,female ego's mother's younger brother,,,Hirtzel2010,
+fMeZ,lëlë,,female ego's mother's older sister,,,Hirtzel2010,
+fMyZ,lëlë,,female ego's mother's younger sister,,,Hirtzel2010,
+mW,bashti,,male ego's wife,,,Hirtzel2010,
+fH,ba,,female ego‘s husband,,,Hirtzel2010,
+mDH,wëshi,,male ego's daughter's husband,,,Hirtzel2010,
+fDH,wëshi,,female ego's daughter's husband,,,Hirtzel2010,
+mSW,ñaba,,male ego's son's wife,,,Hirtzel2010,
+fSW,ñaba,,female ego's son's wife,,,Hirtzel2010,
+mWF,wëshshuñe,,male ego's wife's father,,,Hirtzel2010,
+mWM,"wëshshendye, ñabshendye, memshendye",,male ego's wife's mother,,,Hirtzel2010,
+mWB,wëshi,,male ego's wife's brother,,,Hirtzel2010,
+mWZ,/,,male ego's wife's sister,,,Hirtzel2010,no term in the language for this relation
+fHF,wëshshuñe,,female ego's husband's father,,,Hirtzel2010,
+fHM,"wëshshendye, ñabshendye, memshendye",,female ego's husband's mother,,,Hirtzel2010,
+fHB,/,,female ego's husband's brother,,,Hirtzel2010,no term in the language for this relation
+fHZ,ñaba,,female ego's husband's sister,,,Hirtzel2010,
+mBW,ñaba,,male ego's brother's wife,,,Hirtzel2010,
+fBW,ñaba,,female ego's brother's wife,,,Hirtzel2010,
+mZH,wëshi,,male ego's sister's husband,,,Hirtzel2010,
+fZH,wëshi,,female ego's sister's husband,,,Hirtzel2010,
+mFBeS,pii,,male ego‘s father‘s brother‘s older son,,,Hirtzel2010,
+mFByS,paa,,male ego‘s father‘s brother‘s younger son,,,Hirtzel2010,
+mFBeD,yee,,male ego‘s father‘s brother‘s older daughter,,,Hirtzel2010,
+mFByD,yee,,male ego‘s father‘s brother‘s younger daughter,,,Hirtzel2010,
+mFZeS,pii,,male ego‘s father‘s sisters‘s older son,,,Hirtzel2010,
+mFZyS,paa,,male ego‘s father‘s sisters‘s younger son,,,Hirtzel2010,
+mFZeD,yee,,male ego‘s father‘s sisters‘s older daughter,,,Hirtzel2010,
+mFZyD,yee,,male ego‘s father‘s sisters‘s younger daughter,,,Hirtzel2010,
+mMBeS,pii,,male ego‘s mother‘s brother‘s older son,,,Hirtzel2010,
+mMByS,paa,,male ego‘s mother‘s brother‘s younger son,,,Hirtzel2010,
+mMBeD,yee,,male ego‘s mother‘s brother‘s older daughter,,,Hirtzel2010,
+mMByD,yee,,male ego‘s mother‘s brother‘s younger daughter,,,Hirtzel2010,
+mMZeS,pii,,male ego‘s mother‘s sisters‘s older son,,,Hirtzel2010,
+mMZyS,paa,,male ego‘s mother‘s sisters‘s younger son,,,Hirtzel2010,
+mMZeD,yee,,male ego‘s mother‘s sisters‘s older daughter,,,Hirtzel2010,
+mMZyD,yee,,male ego‘s mother‘s sisters‘s younger daughter,,,Hirtzel2010,
+fFBeS,pipi,,female ego‘s father‘s brother‘s older son,,,Hirtzel2010,
+fFByS,dyama,,female ego‘s father‘s brother‘s younger son,,,Hirtzel2010,
+fFBeD,neshu,,female ego‘s father‘s brother‘s older daughter,,,Hirtzel2010,
+fFByD,dyama,,female ego‘s father‘s brother‘s younger daughter,,,Hirtzel2010,
+fFZeS,pipi,,female ego‘s father‘s sisters‘s older son,,,Hirtzel2010,
+fFZyS,dyama,,female ego‘s father‘s sisters‘s younger son,,,Hirtzel2010,
+fFZeD,neshu,,female ego‘s father‘s sisters‘s older daughter,,,Hirtzel2010,
+fFZyD,dyama,,female ego‘s father‘s sisters‘s younger daughter,,,Hirtzel2010,
+fMBeS,pipi,,female ego‘s mother‘s brother‘s older son,,,Hirtzel2010,
+fMByS,dyama,,female ego‘s mother‘s brother‘s younger son,,,Hirtzel2010,
+fMBeD,neshu,,female ego‘s mother‘s brother‘s older daughter,,,Hirtzel2010,
+fMByD,dyama,,female ego‘s mother‘s brother‘s younger daughter,,,Hirtzel2010,
+fMZeS,pipi,,female ego‘s mother‘s sisters‘s older son,,,Hirtzel2010,
+fMZyS,dyama,,female ego‘s mother‘s sisters‘s younger son,,,Hirtzel2010,
+fMZeD,neshu,,female ego‘s mother‘s sisters‘s older daughter,,,Hirtzel2010,
+fMZyD,dyama,,female ego‘s mother‘s sisters‘s younger daughter,,,Hirtzel2010,

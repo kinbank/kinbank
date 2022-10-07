@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","kakka, saka, pongtina'i",,"male ego's older brother",,,,
-"myB","sali, pongtina'i",,"male ego's younger brother",,,,
-"feB","pongtina'i",,"female ego's older brother",,,,
-"fyB","pongtina'i",,"female ego's younger brother",,,,
-"meZ","pongtina'i",,"male ego's older sister",,,,
-"myZ","pongtina'i",,"male ego's younger sister",,,,
-"feZ","kakka, saka, pongtina'i",,"female ego's older sister",,,,
-"fyZ","sali, pongtina'i",,"female ego's younger sister",,,,
-"mF","amma, sama",,"male ego's father",,,,
-"mM","ina', sa'i",,"male ego's mother",,,,
-"fF","amma, sama",,"female ego's father",,,,
-"fM","ina', sa'i",,"female ego's mother",,,,
-"mS","anak",,"male ego's son",,,,
-"fS","anak",,"female ego's son",,,,
-"mD","anak",,"male ego's daughter",,,,
-"fD","anak",,"female ego's daughter",,,,
-"mSS","ampu",,"male ego's son's son",,,,
-"mSD","ampu",,"male ego's son's daughter",,,,
-"mDS","ampu",,"male ego's daughter's son",,,,
-"mDD","ampu",,"male ego's daughter's daughter",,,,
-"fSS","ampu",,"female ego's son's son",,,,
-"fSD","ampu",,"female ego's son's daughter",,,,
-"fDS","ampu",,"female ego's daughter's son",,,,
-"fDD","ampu",,"female ego's daugher's daughter",,,,
-"mFF","apu, papu'",,"male ego's father‘s father",,,,
-"mFM","apu, papu'",,"male ego's father's mother",,,,
-"mMF","apu, papu'",,"male ego's mother's father",,,,
-"mMM","apu, papu'",,"male ego's mother's mother",,,,
-"fFF","apu, papu'",,"female ego's father's father",,,,
-"fFM","apu, papu'",,"female ego's father's mother",,,,
-"fMF","apu, papu'",,"female ego's mother's father",,,,
-"fMM","apu, papu'",,"female ego's mother's mother",,,,
-"meBS","kamanakan",,"male ego's older brother's son",,,,
-"myBS","kamanakan",,"male ego's younger brother's son",,,,
-"meZS","kamanakan",,"male ego's older sister's son",,,,
-"myZS","kamanakan",,"male ego's younger sister's son",,,,
-"meBD","kamanakan",,"male ego's older brother's daughter",,,,
-"myBD","kamanakan",,"male ego's younger brother's daughter",,,,
-"meZD","kamanakan",,"male ego's older sister's daughter",,,,
-"myZD","kamanakan",,"male ego's younger sister's daughter",,,,
-"feBS","kamanakan",,"female ego's older brother's son",,,,
-"fyBS","kamanakan",,"female ego's younger brother's son",,,,
-"feZS","kamanakan",,"female ego's older sister's son",,,,
-"fyZS","kamanakan",,"female ego's younger sister's son",,,,
-"feBD","kamanakan",,"female ego's older brother's daughter",,,,
-"fyBD","kamanakan",,"female ego's younger brother's daughter",,,,
-"feZD","kamanakan",,"female ego's older sister's daughter",,,,
-"fyZD","kamanakan",,"female ego's younger sister's daughter",,,,
-"mFeB","si'it, galabat, apa",,"male ego's father's older brother",,,,
-"mFyB","si'it, galabat, apa",,"male ego's father's younger brother",,,,
-"mFeZ","si'it",,"male ego's father's older sister",,,,
-"mFyZ","si'it",,"male ego's father's younger sister",,,,
-"mMeB","si'it, apa",,"male ego's mother's older brother",,,,
-"mMyB","si'it, apa",,"male ego's mother's younger brother",,,,
-"mMeZ","si'it",,"male ego's mother's older sister",,,,
-"mMyZ","si'it",,"male ego's mother's younger sister",,,,
-"fFeB","si'it, galabat, apa",,"female ego's father's older brother",,,,
-"fFyB","si'it, galabat, apa",,"female ego's father's younger brother",,,,
-"fFeZ","si'it",,"female ego's father's older sister",,,,
-"fFyZ","si'it",,"female ego's father's younger sister",,,,
-"fMeB","si'it, apa",,"female ego's mother's older brother",,,,
-"fMyB","si'it, apa",,"female ego's mother's younger brother",,,,
-"fMeZ","si'it",,"female ego's mother's older sister",,,,
-"fMyZ","si'it",,"female ego's mother's younger sister",,,,
-"mW","anda",,"male ego's wife",,,,
-"fH","ella",,"female ego‘s husband",,,,
-"mDH","eyu'an",,"male ego's daughter's husband",,,,
-"fDH","eyu'an",,"female ego's daughter's husband",,,,
-"mSW","eyu'an",,"male ego's son's wife",,,,
-"fSW","eyu'an",,"female ego's son's wife",,,,
-"mWF","meto'a",,"male ego's wife's father",,,,
-"mWM","meto'a",,"male ego's wife's mother",,,,
-"mWB","ipal",,"male ego's wife's brother",,,,
-"mWZ","ipal",,"male ego's wife's sister",,,,
-"fHF","meto'a",,"female ego's husband's father",,,,
-"fHM","meto'a",,"female ego's husband's mother",,,,
-"fHB","ipal",,"female ego's husband's brother",,,,
-"fHZ","ipal",,"female ego's husband's sister",,,,
-"mBW","ipal",,"male ego's brother's wife",,,,
-"fBW","ipal",,"female ego's brother's wife",,,,
-"mZH","ipal",,"male ego's sister's husband",,,,
-"fZH","ipal",,"female ego's sister's husband",,,,
-"mFBS","danganakan",,"male ego's father's brother's son",,,,
-"mFZS","danganakan",,"male ego's father's sister's son",,,,
-"mMBS","danganakan",,"male ego's mother's brother's son",,,,
-"mMZS","danganakan",,"male ego's mother's sister's son",,,,
-"mFBD","danganakan",,"male ego's father's brother's daughter",,,,
-"mFZD","danganakan",,"male ego's father's sister's daughter",,,,
-"mMBD","danganakan",,"male ego's mother's brother's daughter",,,,
-"mMZD","danganakan",,"male ego's mother's sister's daughter",,,,
-"fFBS","danganakan",,"female ego's father's brother's son",,,,
-"fFZS","danganakan",,"female ego's father's sister's son",,,,
-"fMBS","danganakan",,"female ego's mother's brother's son",,,,
-"fMZS","danganakan",,"female ego's mother's sister's son",,,,
-"fFBD","danganakan",,"female ego's father's brother's daughter",,,,
-"fFZD","danganakan",,"female ego's father's sister's daughter",,,,
-"fMBD","danganakan",,"female ego's mother's brother's daughter",,,,
-"fMZD","danganakan",,"female ego's mother's sister's daughter",,,,
-"mFeBS","danganakan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","danganakan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","danganakan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","danganakan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","danganakan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","danganakan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","danganakan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","danganakan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","danganakan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","danganakan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","danganakan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","danganakan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","danganakan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","danganakan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","danganakan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","danganakan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","danganakan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","danganakan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","danganakan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","danganakan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","danganakan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","danganakan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","danganakan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","danganakan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","danganakan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","danganakan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","danganakan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","danganakan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","danganakan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","danganakan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","danganakan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","danganakan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","danganakan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","danganakan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","danganakan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","danganakan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","danganakan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","danganakan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","danganakan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","danganakan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","danganakan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","danganakan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","danganakan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","danganakan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","danganakan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","danganakan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","danganakan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","danganakan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","danganakan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","danganakan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","danganakan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","danganakan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","danganakan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","danganakan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","danganakan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","danganakan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","danganakan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","danganakan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","danganakan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","danganakan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","danganakan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","danganakan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","danganakan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","danganakan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,"kakka, saka, pongtina'i",,male ego's older brother,,,Behrens2002YakanEng,
+myB,"sali, pongtina'i",,male ego's younger brother,,,Behrens2002YakanEng,
+feB,pongtina'i,,female ego's older brother,,,Behrens2002YakanEng,
+fyB,pongtina'i,,female ego's younger brother,,,Behrens2002YakanEng,
+meZ,pongtina'i,,male ego's older sister,,,Behrens2002YakanEng,
+myZ,pongtina'i,,male ego's younger sister,,,Behrens2002YakanEng,
+feZ,"kakka, saka, pongtina'i",,female ego's older sister,,,Behrens2002YakanEng,
+fyZ,"sali, pongtina'i",,female ego's younger sister,,,Behrens2002YakanEng,
+mF,"amma, sama",,male ego's father,,,Behrens2002YakanEng,
+mM,"ina', sa'i",,male ego's mother,,,Behrens2002YakanEng,
+fF,"amma, sama",,female ego's father,,,Behrens2002YakanEng,
+fM,"ina', sa'i",,female ego's mother,,,Behrens2002YakanEng,
+mS,anak,,male ego's son,,,Behrens2002YakanEng,
+fS,anak,,female ego's son,,,Behrens2002YakanEng,
+mD,anak,,male ego's daughter,,,Behrens2002YakanEng,
+fD,anak,,female ego's daughter,,,Behrens2002YakanEng,
+mSS,ampu,,male ego's son's son,,,Behrens2002YakanEng,
+mSD,ampu,,male ego's son's daughter,,,Behrens2002YakanEng,
+mDS,ampu,,male ego's daughter's son,,,Behrens2002YakanEng,
+mDD,ampu,,male ego's daughter's daughter,,,Behrens2002YakanEng,
+fSS,ampu,,female ego's son's son,,,Behrens2002YakanEng,
+fSD,ampu,,female ego's son's daughter,,,Behrens2002YakanEng,
+fDS,ampu,,female ego's daughter's son,,,Behrens2002YakanEng,
+fDD,ampu,,female ego's daugher's daughter,,,Behrens2002YakanEng,
+mFF,"apu, papu'",,male ego's father‘s father,,,Behrens2002YakanEng,
+mFM,"apu, papu'",,male ego's father's mother,,,Behrens2002YakanEng,
+mMF,"apu, papu'",,male ego's mother's father,,,Behrens2002YakanEng,
+mMM,"apu, papu'",,male ego's mother's mother,,,Behrens2002YakanEng,
+fFF,"apu, papu'",,female ego's father's father,,,Behrens2002YakanEng,
+fFM,"apu, papu'",,female ego's father's mother,,,Behrens2002YakanEng,
+fMF,"apu, papu'",,female ego's mother's father,,,Behrens2002YakanEng,
+fMM,"apu, papu'",,female ego's mother's mother,,,Behrens2002YakanEng,
+meBS,kamanakan,,male ego's older brother's son,,,Behrens2002YakanEng,
+myBS,kamanakan,,male ego's younger brother's son,,,Behrens2002YakanEng,
+meZS,kamanakan,,male ego's older sister's son,,,Behrens2002YakanEng,
+myZS,kamanakan,,male ego's younger sister's son,,,Behrens2002YakanEng,
+meBD,kamanakan,,male ego's older brother's daughter,,,Behrens2002YakanEng,
+myBD,kamanakan,,male ego's younger brother's daughter,,,Behrens2002YakanEng,
+meZD,kamanakan,,male ego's older sister's daughter,,,Behrens2002YakanEng,
+myZD,kamanakan,,male ego's younger sister's daughter,,,Behrens2002YakanEng,
+feBS,kamanakan,,female ego's older brother's son,,,Behrens2002YakanEng,
+fyBS,kamanakan,,female ego's younger brother's son,,,Behrens2002YakanEng,
+feZS,kamanakan,,female ego's older sister's son,,,Behrens2002YakanEng,
+fyZS,kamanakan,,female ego's younger sister's son,,,Behrens2002YakanEng,
+feBD,kamanakan,,female ego's older brother's daughter,,,Behrens2002YakanEng,
+fyBD,kamanakan,,female ego's younger brother's daughter,,,Behrens2002YakanEng,
+feZD,kamanakan,,female ego's older sister's daughter,,,Behrens2002YakanEng,
+fyZD,kamanakan,,female ego's younger sister's daughter,,,Behrens2002YakanEng,
+mFeB,"si'it, galabat, apa",,male ego's father's older brother,,,Behrens2002YakanEng,
+mFyB,"si'it, galabat, apa",,male ego's father's younger brother,,,Behrens2002YakanEng,
+mFeZ,si'it,,male ego's father's older sister,,,Behrens2002YakanEng,
+mFyZ,si'it,,male ego's father's younger sister,,,Behrens2002YakanEng,
+mMeB,"si'it, apa",,male ego's mother's older brother,,,Behrens2002YakanEng,
+mMyB,"si'it, apa",,male ego's mother's younger brother,,,Behrens2002YakanEng,
+mMeZ,si'it,,male ego's mother's older sister,,,Behrens2002YakanEng,
+mMyZ,si'it,,male ego's mother's younger sister,,,Behrens2002YakanEng,
+fFeB,"si'it, galabat, apa",,female ego's father's older brother,,,Behrens2002YakanEng,
+fFyB,"si'it, galabat, apa",,female ego's father's younger brother,,,Behrens2002YakanEng,
+fFeZ,si'it,,female ego's father's older sister,,,Behrens2002YakanEng,
+fFyZ,si'it,,female ego's father's younger sister,,,Behrens2002YakanEng,
+fMeB,"si'it, apa",,female ego's mother's older brother,,,Behrens2002YakanEng,
+fMyB,"si'it, apa",,female ego's mother's younger brother,,,Behrens2002YakanEng,
+fMeZ,si'it,,female ego's mother's older sister,,,Behrens2002YakanEng,
+fMyZ,si'it,,female ego's mother's younger sister,,,Behrens2002YakanEng,
+mW,anda,,male ego's wife,,,Behrens2002YakanEng,
+fH,ella,,female ego‘s husband,,,Behrens2002YakanEng,
+mDH,eyu'an,,male ego's daughter's husband,,,Behrens2002YakanEng,
+fDH,eyu'an,,female ego's daughter's husband,,,Behrens2002YakanEng,
+mSW,eyu'an,,male ego's son's wife,,,Behrens2002YakanEng,
+fSW,eyu'an,,female ego's son's wife,,,Behrens2002YakanEng,
+mWF,meto'a,,male ego's wife's father,,,Behrens2002YakanEng,
+mWM,meto'a,,male ego's wife's mother,,,Behrens2002YakanEng,
+mWB,ipal,,male ego's wife's brother,,,Behrens2002YakanEng,
+mWZ,ipal,,male ego's wife's sister,,,Behrens2002YakanEng,
+fHF,meto'a,,female ego's husband's father,,,Behrens2002YakanEng,
+fHM,meto'a,,female ego's husband's mother,,,Behrens2002YakanEng,
+fHB,ipal,,female ego's husband's brother,,,Behrens2002YakanEng,
+fHZ,ipal,,female ego's husband's sister,,,Behrens2002YakanEng,
+mBW,ipal,,male ego's brother's wife,,,Behrens2002YakanEng,
+fBW,ipal,,female ego's brother's wife,,,Behrens2002YakanEng,
+mZH,ipal,,male ego's sister's husband,,,Behrens2002YakanEng,
+fZH,ipal,,female ego's sister's husband,,,Behrens2002YakanEng,
+mFBS,danganakan,,male ego's father's brother's son,,,Behrens2002YakanEng,
+mFZS,danganakan,,male ego's father's sister's son,,,Behrens2002YakanEng,
+mMBS,danganakan,,male ego's mother's brother's son,,,Behrens2002YakanEng,
+mMZS,danganakan,,male ego's mother's sister's son,,,Behrens2002YakanEng,
+mFBD,danganakan,,male ego's father's brother's daughter,,,Behrens2002YakanEng,
+mFZD,danganakan,,male ego's father's sister's daughter,,,Behrens2002YakanEng,
+mMBD,danganakan,,male ego's mother's brother's daughter,,,Behrens2002YakanEng,
+mMZD,danganakan,,male ego's mother's sister's daughter,,,Behrens2002YakanEng,
+fFBS,danganakan,,female ego's father's brother's son,,,Behrens2002YakanEng,
+fFZS,danganakan,,female ego's father's sister's son,,,Behrens2002YakanEng,
+fMBS,danganakan,,female ego's mother's brother's son,,,Behrens2002YakanEng,
+fMZS,danganakan,,female ego's mother's sister's son,,,Behrens2002YakanEng,
+fFBD,danganakan,,female ego's father's brother's daughter,,,Behrens2002YakanEng,
+fFZD,danganakan,,female ego's father's sister's daughter,,,Behrens2002YakanEng,
+fMBD,danganakan,,female ego's mother's brother's daughter,,,Behrens2002YakanEng,
+fMZD,danganakan,,female ego's mother's sister's daughter,,,Behrens2002YakanEng,
+mFeBS,danganakan,,male ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mFyBS,danganakan,,male ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mFeZS,danganakan,,male ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mFyZS,danganakan,,male ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mFeBD,danganakan,,male ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFyBD,danganakan,,male ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFeZD,danganakan,,male ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFyZD,danganakan,,male ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMeBS,danganakan,,male ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mMyBS,danganakan,,male ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mMeZS,danganakan,,male ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mMyZS,danganakan,,male ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mMeBD,danganakan,,male ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMyBD,danganakan,,male ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMeZD,danganakan,,male ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMyZD,danganakan,,male ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFBeS,danganakan,,male ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mFByS,danganakan,,male ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mFZeS,danganakan,,male ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mFZyS,danganakan,,male ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mFBeD,danganakan,,male ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFByD,danganakan,,male ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFZeD,danganakan,,male ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mFZyD,danganakan,,male ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMBeS,danganakan,,male ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mMByS,danganakan,,male ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+mMZeS,danganakan,,male ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mMZyS,danganakan,,male ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+mMBeD,danganakan,,male ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMByD,danganakan,,male ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMZeD,danganakan,,male ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+mMZyD,danganakan,,male ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFeBS,danganakan,,female ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fFyBS,danganakan,,female ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fFeZS,danganakan,,female ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fFyZS,danganakan,,female ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fFeBD,danganakan,,female ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFyBD,danganakan,,female ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFeZD,danganakan,,female ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFyZD,danganakan,,female ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMeBS,danganakan,,female ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fMyBS,danganakan,,female ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fMeZS,danganakan,,female ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fMyZS,danganakan,,female ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fMeBD,danganakan,,female ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMyBD,danganakan,,female ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMeZD,danganakan,,female ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMyZD,danganakan,,female ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFBeS,danganakan,,female ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fFByS,danganakan,,female ego's father's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fFZeS,danganakan,,female ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fFZyS,danganakan,,female ego's father's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fFBeD,danganakan,,female ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFByD,danganakan,,female ego's father's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFZeD,danganakan,,female ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fFZyD,danganakan,,female ego's father's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMBeS,danganakan,,female ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fMByS,danganakan,,female ego's mother's brother's son,,,Behrens2002YakanEng,Inferred; NA
+fMZeS,danganakan,,female ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fMZyS,danganakan,,female ego's mother's sister's son,,,Behrens2002YakanEng,Inferred; NA
+fMBeD,danganakan,,female ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMByD,danganakan,,female ego's mother's brother's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMZeD,danganakan,,female ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA
+fMZyD,danganakan,,female ego's mother's sister's daughter,,,Behrens2002YakanEng,Inferred; NA

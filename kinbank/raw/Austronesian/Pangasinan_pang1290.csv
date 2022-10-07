@@ -1,118 +1,118 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","aguin laki",,"male ego's older brother",,,,
-"myB","aguin laki",,"male ego's younger brother",,,,
-"feB","aguin laki",,"female ego's older brother",,,,
-"fyB","aguin laki",,"female ego's younger brother",,,,
-"mF","ama",,"male ego's father",,,,
-"mM","ina",,"male ego's mother",,,,
-"fF","ama",,"female ego's father",,,,
-"fM","ina",,"female ego's mother",,,,
-"mS","anae-a-laki",,"male ego's son",,,,
-"fS","anae-a-laki",,"female ego's son",,,,
-"mD","ugao",,"male ego's daughter",,,,
-"fD","ugao",,"female ego's daughter",,,,
-"meBS","caanacan",,"male ego's older brother's son",,,,
-"myBS","caanacan",,"male ego's younger brother's son",,,,
-"meZS","caanacan",,"male ego's older sister's son",,,,
-"myZS","caanacan",,"male ego's younger sister's son",,,,
-"feBS","caanacan",,"female ego's older brother's son",,,,
-"fyBS","caanacan",,"female ego's younger brother's son",,,,
-"feZS","caanacan",,"female ego's older sister's son",,,,
-"fyZS","caanacan",,"female ego's younger sister's son",,,,
-"mFeB","pangamaen",,"male ego's father's older brother",,,,
-"mFyB","pangamaen",,"male ego's father's younger brother",,,,
-"mFeZ","panginaen",,"male ego's father's older sister",,,,
-"mFyZ","panginaen",,"male ego's father's younger sister",,,,
-"mMeB","pangamaen",,"male ego's mother's older brother",,,,
-"mMyB","pangamaen",,"male ego's mother's younger brother",,,,
-"mMeZ","panginaen",,"male ego's mother's older sister",,,,
-"mMyZ","panginaen",,"male ego's mother's younger sister",,,,
-"fFeB","pangamaen",,"female ego's father's older brother",,,,
-"fFyB","pangamaen",,"female ego's father's younger brother",,,,
-"fFeZ","panginaen",,"female ego's father's older sister",,,,
-"fFyZ","panginaen",,"female ego's father's younger sister",,,,
-"fMeB","pangamaen",,"female ego's mother's older brother",,,,
-"fMyB","pangamaen",,"female ego's mother's younger brother",,,,
-"fMeZ","panginaen",,"female ego's mother's older sister",,,,
-"fMyZ","panginaen",,"female ego's mother's younger sister",,,,
-"fH","asaoan-laki",,"female ego‘s husband",,,,
-"mFBS","eapinsan",,"male ego's father's brother's son",,,,
-"mFZS","eapinsan",,"male ego's father's sister's son",,,,
-"mMBS","eapinsan",,"male ego's mother's brother's son",,,,
-"mMZS","eapinsan",,"male ego's mother's sister's son",,,,
-"mFBD","eapinsan",,"male ego's father's brother's daughter",,,,
-"mFZD","eapinsan",,"male ego's father's sister's daughter",,,,
-"mMBD","eapinsan",,"male ego's mother's brother's daughter",,,,
-"mMZD","eapinsan",,"male ego's mother's sister's daughter",,,,
-"fFBS","eapinsan",,"female ego's father's brother's son",,,,
-"fFZS","eapinsan",,"female ego's father's sister's son",,,,
-"fMBS","eapinsan",,"female ego's mother's brother's son",,,,
-"fMZS","eapinsan",,"female ego's mother's sister's son",,,,
-"fFBD","eapinsan",,"female ego's father's brother's daughter",,,,
-"fFZD","eapinsan",,"female ego's father's sister's daughter",,,,
-"fMBD","eapinsan",,"female ego's mother's brother's daughter",,,,
-"fMZD","eapinsan",,"female ego's mother's sister's daughter",,,,
-"mFeBS","eapinsan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","eapinsan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","eapinsan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","eapinsan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","eapinsan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","eapinsan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","eapinsan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","eapinsan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","eapinsan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","eapinsan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","eapinsan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","eapinsan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","eapinsan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","eapinsan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","eapinsan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","eapinsan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","eapinsan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","eapinsan",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","eapinsan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","eapinsan",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","eapinsan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","eapinsan",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","eapinsan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","eapinsan",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","eapinsan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","eapinsan",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","eapinsan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","eapinsan",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","eapinsan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","eapinsan",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","eapinsan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","eapinsan",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","eapinsan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","eapinsan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","eapinsan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","eapinsan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","eapinsan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","eapinsan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","eapinsan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","eapinsan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","eapinsan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","eapinsan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","eapinsan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","eapinsan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","eapinsan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","eapinsan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","eapinsan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","eapinsan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","eapinsan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","eapinsan",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","eapinsan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","eapinsan",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","eapinsan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","eapinsan",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","eapinsan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","eapinsan",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","eapinsan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","eapinsan",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","eapinsan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","eapinsan",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","eapinsan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","eapinsan",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","eapinsan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","eapinsan",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,aguin laki,,male ego's older brother,,,Rayner1923,
+myB,aguin laki,,male ego's younger brother,,,Rayner1923,
+feB,aguin laki,,female ego's older brother,,,Rayner1923,
+fyB,aguin laki,,female ego's younger brother,,,Rayner1923,
+mF,ama,,male ego's father,,,Rayner1923,
+mM,ina,,male ego's mother,,,Rayner1923,
+fF,ama,,female ego's father,,,Rayner1923,
+fM,ina,,female ego's mother,,,Rayner1923,
+mS,anae-a-laki,,male ego's son,,,Rayner1923,
+fS,anae-a-laki,,female ego's son,,,Rayner1923,
+mD,ugao,,male ego's daughter,,,Rayner1923,
+fD,ugao,,female ego's daughter,,,Rayner1923,
+meBS,caanacan,,male ego's older brother's son,,,Rayner1923,
+myBS,caanacan,,male ego's younger brother's son,,,Rayner1923,
+meZS,caanacan,,male ego's older sister's son,,,Rayner1923,
+myZS,caanacan,,male ego's younger sister's son,,,Rayner1923,
+feBS,caanacan,,female ego's older brother's son,,,Rayner1923,
+fyBS,caanacan,,female ego's younger brother's son,,,Rayner1923,
+feZS,caanacan,,female ego's older sister's son,,,Rayner1923,
+fyZS,caanacan,,female ego's younger sister's son,,,Rayner1923,
+mFeB,pangamaen,,male ego's father's older brother,,,Rayner1923,
+mFyB,pangamaen,,male ego's father's younger brother,,,Rayner1923,
+mFeZ,panginaen,,male ego's father's older sister,,,Rayner1923,
+mFyZ,panginaen,,male ego's father's younger sister,,,Rayner1923,
+mMeB,pangamaen,,male ego's mother's older brother,,,Rayner1923,
+mMyB,pangamaen,,male ego's mother's younger brother,,,Rayner1923,
+mMeZ,panginaen,,male ego's mother's older sister,,,Rayner1923,
+mMyZ,panginaen,,male ego's mother's younger sister,,,Rayner1923,
+fFeB,pangamaen,,female ego's father's older brother,,,Rayner1923,
+fFyB,pangamaen,,female ego's father's younger brother,,,Rayner1923,
+fFeZ,panginaen,,female ego's father's older sister,,,Rayner1923,
+fFyZ,panginaen,,female ego's father's younger sister,,,Rayner1923,
+fMeB,pangamaen,,female ego's mother's older brother,,,Rayner1923,
+fMyB,pangamaen,,female ego's mother's younger brother,,,Rayner1923,
+fMeZ,panginaen,,female ego's mother's older sister,,,Rayner1923,
+fMyZ,panginaen,,female ego's mother's younger sister,,,Rayner1923,
+fH,asaoan-laki,,female ego‘s husband,,,Rayner1923,
+mFBS,eapinsan,,male ego's father's brother's son,,,Rayner1923,
+mFZS,eapinsan,,male ego's father's sister's son,,,Rayner1923,
+mMBS,eapinsan,,male ego's mother's brother's son,,,Rayner1923,
+mMZS,eapinsan,,male ego's mother's sister's son,,,Rayner1923,
+mFBD,eapinsan,,male ego's father's brother's daughter,,,Rayner1923,
+mFZD,eapinsan,,male ego's father's sister's daughter,,,Rayner1923,
+mMBD,eapinsan,,male ego's mother's brother's daughter,,,Rayner1923,
+mMZD,eapinsan,,male ego's mother's sister's daughter,,,Rayner1923,
+fFBS,eapinsan,,female ego's father's brother's son,,,Rayner1923,
+fFZS,eapinsan,,female ego's father's sister's son,,,Rayner1923,
+fMBS,eapinsan,,female ego's mother's brother's son,,,Rayner1923,
+fMZS,eapinsan,,female ego's mother's sister's son,,,Rayner1923,
+fFBD,eapinsan,,female ego's father's brother's daughter,,,Rayner1923,
+fFZD,eapinsan,,female ego's father's sister's daughter,,,Rayner1923,
+fMBD,eapinsan,,female ego's mother's brother's daughter,,,Rayner1923,
+fMZD,eapinsan,,female ego's mother's sister's daughter,,,Rayner1923,
+mFeBS,eapinsan,,male ego's father's brother's son,,,Rayner1923,Inferred; NA
+mFyBS,eapinsan,,male ego's father's brother's son,,,Rayner1923,Inferred; NA
+mFeZS,eapinsan,,male ego's father's sister's son,,,Rayner1923,Inferred; NA
+mFyZS,eapinsan,,male ego's father's sister's son,,,Rayner1923,Inferred; NA
+mFeBD,eapinsan,,male ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+mFyBD,eapinsan,,male ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+mFeZD,eapinsan,,male ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+mFyZD,eapinsan,,male ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+mMeBS,eapinsan,,male ego's mother's brother's son,,,Rayner1923,Inferred; NA
+mMyBS,eapinsan,,male ego's mother's brother's son,,,Rayner1923,Inferred; NA
+mMeZS,eapinsan,,male ego's mother's sister's son,,,Rayner1923,Inferred; NA
+mMyZS,eapinsan,,male ego's mother's sister's son,,,Rayner1923,Inferred; NA
+mMeBD,eapinsan,,male ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+mMyBD,eapinsan,,male ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+mMeZD,eapinsan,,male ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+mMyZD,eapinsan,,male ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+mFBeS,eapinsan,,male ego's father's brother's son,,,Rayner1923,Inferred; NA
+mFByS,eapinsan,,male ego's father's brother's son,,,Rayner1923,Inferred; NA
+mFZeS,eapinsan,,male ego's father's sister's son,,,Rayner1923,Inferred; NA
+mFZyS,eapinsan,,male ego's father's sister's son,,,Rayner1923,Inferred; NA
+mFBeD,eapinsan,,male ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+mFByD,eapinsan,,male ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+mFZeD,eapinsan,,male ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+mFZyD,eapinsan,,male ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+mMBeS,eapinsan,,male ego's mother's brother's son,,,Rayner1923,Inferred; NA
+mMByS,eapinsan,,male ego's mother's brother's son,,,Rayner1923,Inferred; NA
+mMZeS,eapinsan,,male ego's mother's sister's son,,,Rayner1923,Inferred; NA
+mMZyS,eapinsan,,male ego's mother's sister's son,,,Rayner1923,Inferred; NA
+mMBeD,eapinsan,,male ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+mMByD,eapinsan,,male ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+mMZeD,eapinsan,,male ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+mMZyD,eapinsan,,male ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+fFeBS,eapinsan,,female ego's father's brother's son,,,Rayner1923,Inferred; NA
+fFyBS,eapinsan,,female ego's father's brother's son,,,Rayner1923,Inferred; NA
+fFeZS,eapinsan,,female ego's father's sister's son,,,Rayner1923,Inferred; NA
+fFyZS,eapinsan,,female ego's father's sister's son,,,Rayner1923,Inferred; NA
+fFeBD,eapinsan,,female ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+fFyBD,eapinsan,,female ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+fFeZD,eapinsan,,female ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+fFyZD,eapinsan,,female ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+fMeBS,eapinsan,,female ego's mother's brother's son,,,Rayner1923,Inferred; NA
+fMyBS,eapinsan,,female ego's mother's brother's son,,,Rayner1923,Inferred; NA
+fMeZS,eapinsan,,female ego's mother's sister's son,,,Rayner1923,Inferred; NA
+fMyZS,eapinsan,,female ego's mother's sister's son,,,Rayner1923,Inferred; NA
+fMeBD,eapinsan,,female ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+fMyBD,eapinsan,,female ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+fMeZD,eapinsan,,female ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+fMyZD,eapinsan,,female ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+fFBeS,eapinsan,,female ego's father's brother's son,,,Rayner1923,Inferred; NA
+fFByS,eapinsan,,female ego's father's brother's son,,,Rayner1923,Inferred; NA
+fFZeS,eapinsan,,female ego's father's sister's son,,,Rayner1923,Inferred; NA
+fFZyS,eapinsan,,female ego's father's sister's son,,,Rayner1923,Inferred; NA
+fFBeD,eapinsan,,female ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+fFByD,eapinsan,,female ego's father's brother's daughter,,,Rayner1923,Inferred; NA
+fFZeD,eapinsan,,female ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+fFZyD,eapinsan,,female ego's father's sister's daughter,,,Rayner1923,Inferred; NA
+fMBeS,eapinsan,,female ego's mother's brother's son,,,Rayner1923,Inferred; NA
+fMByS,eapinsan,,female ego's mother's brother's son,,,Rayner1923,Inferred; NA
+fMZeS,eapinsan,,female ego's mother's sister's son,,,Rayner1923,Inferred; NA
+fMZyS,eapinsan,,female ego's mother's sister's son,,,Rayner1923,Inferred; NA
+fMBeD,eapinsan,,female ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+fMByD,eapinsan,,female ego's mother's brother's daughter,,,Rayner1923,Inferred; NA
+fMZeD,eapinsan,,female ego's mother's sister's daughter,,,Rayner1923,Inferred; NA
+fMZyD,eapinsan,,female ego's mother's sister's daughter,,,Rayner1923,Inferred; NA

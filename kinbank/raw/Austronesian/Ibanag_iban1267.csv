@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","wagi",,"male ego's older brother",,,,
-"myB","wagi",,"male ego's younger brother",,,,
-"feB","wagi",,"female ego's older brother",,,,
-"fyB","wagi",,"female ego's younger brother",,,,
-"meZ","wagi",,"male ego's older sister",,,,
-"myZ","wagi",,"male ego's younger sister",,,,
-"feZ","wagi",,"female ego's older sister",,,,
-"fyZ","wagi",,"female ego's younger sister",,,,
-"mF","ama",,"male ego's father",,,,
-"mM","inno",,"male ego's mother",,,,
-"fF","ama",,"female ego's father",,,,
-"fM","inno",,"female ego's mother",,,,
-"mS","ana",,"male ego's son",,,,
-"fS","ana",,"female ego's son",,,,
-"mD","ana",,"male ego's daughter",,,,
-"fD","ana",,"female ego's daughter",,,,
-"mSS","afuku",,"male ego's son's son",,,,
-"mSD","afuku",,"male ego's son's daughter",,,,
-"mDS","afuku",,"male ego's daughter's son",,,,
-"mDD","afuku",,"male ego's daughter's daughter",,,,
-"fSS","afuku",,"female ego's son's son",,,,
-"fSD","afuku",,"female ego's son's daughter",,,,
-"fDS","afuku",,"female ego's daughter's son",,,,
-"fDD","afuku",,"female ego's daugher's daughter",,,,
-"mFF","kakay, abbo",,"male ego's father‘s father",,,,
-"mFM","kako, abba",,"male ego's father's mother",,,,
-"mMF","kakay, abbo",,"male ego's mother's father",,,,
-"mMM","kako, abba",,"male ego's mother's mother",,,,
-"fFF","kakay, abbo",,"female ego's father's father",,,,
-"fFM","kako, abba",,"female ego's father's mother",,,,
-"fMF","kakay, abbo",,"female ego's mother's father",,,,
-"fMM","kako, abba",,"female ego's mother's mother",,,,
-"meBS","kanakan",,"male ego's older brother's son",,,,
-"myBS","kanakan",,"male ego's younger brother's son",,,,
-"meZS","kanakan",,"male ego's older sister's son",,,,
-"myZS","kanakan",,"male ego's younger sister's son",,,,
-"meBD","kanakan",,"male ego's older brother's daughter",,,,
-"myBD","kanakan",,"male ego's younger brother's daughter",,,,
-"meZD","kanakan",,"male ego's older sister's daughter",,,,
-"myZD","kanakan",,"male ego's younger sister's daughter",,,,
-"feBS","kanakan",,"female ego's older brother's son",,,,
-"fyBS","kanakan",,"female ego's younger brother's son",,,,
-"feZS","kanakan",,"female ego's older sister's son",,,,
-"fyZS","kanakan",,"female ego's younger sister's son",,,,
-"feBD","kanakan",,"female ego's older brother's daughter",,,,
-"fyBD","kanakan",,"female ego's younger brother's daughter",,,,
-"feZD","kanakan",,"female ego's older sister's daughter",,,,
-"fyZD","kanakan",,"female ego's younger sister's daughter",,,,
-"mFeB","ulitag, tiyu",,"male ego's father's older brother",,,,
-"mFyB","ulitag, tiyu",,"male ego's father's younger brother",,,,
-"mFeZ","iki, tiya",,"male ego's father's older sister",,,,
-"mFyZ","iki, tiya",,"male ego's father's younger sister",,,,
-"mMeB","ulitag, tiyu",,"male ego's mother's older brother",,,,
-"mMyB","ulitag, tiyu",,"male ego's mother's younger brother",,,,
-"mMeZ","iki, tiya",,"male ego's mother's older sister",,,,
-"mMyZ","iki, tiya",,"male ego's mother's younger sister",,,,
-"fFeB","ulitag, tiyu",,"female ego's father's older brother",,,,
-"fFyB","ulitag, tiyu",,"female ego's father's younger brother",,,,
-"fFeZ","iki, tiya",,"female ego's father's older sister",,,,
-"fFyZ","iki, tiya",,"female ego's father's younger sister",,,,
-"fMeB","ulitag, tiyu",,"female ego's mother's older brother",,,,
-"fMyB","ulitag, tiyu",,"female ego's mother's younger brother",,,,
-"fMeZ","iki, tiya",,"female ego's mother's older sister",,,,
-"fMyZ","iki, tiya",,"female ego's mother's younger sister",,,,
-"mW","atawa",,"male ego's wife",,,,
-"fH","atawa",,"female ego‘s husband",,,,
-"mDH","manugang",,"male ego's daughter's husband",,,,
-"fDH","manugang",,"female ego's daughter's husband",,,,
-"mSW","manugang la kanakan",,"male ego's son's wife",,,,
-"fSW","manugang",,"female ego's son's wife",,,,
-"mWF","katugangan",,"male ego's wife's father",,,,
-"mWM","katugangan",,"male ego's wife's mother",,,,
-"mWB","kayung",,"male ego's wife's brother",,,,
-"mWZ","asipag",,"male ego's wife's sister",,,,
-"fHF","katugangan tu lalaki",,"female ego's husband's father",,,,
-"fHM","katugangan tu babay",,"female ego's husband's mother",,,,
-"fHB","kayung",,"female ego's husband's brother",,,,
-"fHZ","asipag",,"female ego's husband's sister",,,,
-"mBW","asipag",,"male ego's brother's wife",,,,
-"fBW","asipag",,"female ego's brother's wife",,,,
-"mZH","kayung",,"male ego's sister's husband",,,,
-"fZH","kayung",,"female ego's sister's husband",,,,
-"mFBS","kapitta",,"male ego's father's brother's son",,,,
-"mFZS","kapitta",,"male ego's father's sister's son",,,,
-"mMBS","kapitta",,"male ego's mother's brother's son",,,,
-"mMZS","kapitta",,"male ego's mother's sister's son",,,,
-"mFBD","kapitta",,"male ego's father's brother's daughter",,,,
-"mFZD","kapitta",,"male ego's father's sister's daughter",,,,
-"mMBD","kapitta",,"male ego's mother's brother's daughter",,,,
-"mMZD","kapitta",,"male ego's mother's sister's daughter",,,,
-"fFBS","kapitta",,"female ego's father's brother's son",,,,
-"fFZS","kapitta",,"female ego's father's sister's son",,,,
-"fMBS","kapitta",,"female ego's mother's brother's son",,,,
-"fMZS","kapitta",,"female ego's mother's sister's son",,,,
-"fFBD","kapitta",,"female ego's father's brother's daughter",,,,
-"fFZD","kapitta",,"female ego's father's sister's daughter",,,,
-"fMBD","kapitta",,"female ego's mother's brother's daughter",,,,
-"fMZD","kapitta",,"female ego's mother's sister's daughter",,,,
-"mFeBS","kapitta",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","kapitta",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","kapitta",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","kapitta",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","kapitta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","kapitta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","kapitta",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","kapitta",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","kapitta",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","kapitta",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","kapitta",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","kapitta",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","kapitta",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","kapitta",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","kapitta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","kapitta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","kapitta",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","kapitta",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","kapitta",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","kapitta",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","kapitta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","kapitta",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","kapitta",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","kapitta",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","kapitta",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","kapitta",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","kapitta",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","kapitta",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","kapitta",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","kapitta",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","kapitta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","kapitta",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","kapitta",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","kapitta",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","kapitta",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","kapitta",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","kapitta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","kapitta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","kapitta",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","kapitta",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","kapitta",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","kapitta",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","kapitta",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","kapitta",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","kapitta",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","kapitta",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","kapitta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","kapitta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","kapitta",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","kapitta",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","kapitta",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","kapitta",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","kapitta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","kapitta",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","kapitta",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","kapitta",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","kapitta",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","kapitta",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","kapitta",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","kapitta",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","kapitta",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","kapitta",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","kapitta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","kapitta",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,wagi,,male ego's older brother,,,gatan1981ibanag,
+myB,wagi,,male ego's younger brother,,,gatan1981ibanag,
+feB,wagi,,female ego's older brother,,,gatan1981ibanag,
+fyB,wagi,,female ego's younger brother,,,gatan1981ibanag,
+meZ,wagi,,male ego's older sister,,,gatan1981ibanag,
+myZ,wagi,,male ego's younger sister,,,gatan1981ibanag,
+feZ,wagi,,female ego's older sister,,,gatan1981ibanag,
+fyZ,wagi,,female ego's younger sister,,,gatan1981ibanag,
+mF,ama,,male ego's father,,,gatan1981ibanag,
+mM,inno,,male ego's mother,,,gatan1981ibanag,
+fF,ama,,female ego's father,,,gatan1981ibanag,
+fM,inno,,female ego's mother,,,gatan1981ibanag,
+mS,ana,,male ego's son,,,gatan1981ibanag,
+fS,ana,,female ego's son,,,gatan1981ibanag,
+mD,ana,,male ego's daughter,,,gatan1981ibanag,
+fD,ana,,female ego's daughter,,,gatan1981ibanag,
+mSS,afuku,,male ego's son's son,,,gatan1981ibanag,
+mSD,afuku,,male ego's son's daughter,,,gatan1981ibanag,
+mDS,afuku,,male ego's daughter's son,,,gatan1981ibanag,
+mDD,afuku,,male ego's daughter's daughter,,,gatan1981ibanag,
+fSS,afuku,,female ego's son's son,,,gatan1981ibanag,
+fSD,afuku,,female ego's son's daughter,,,gatan1981ibanag,
+fDS,afuku,,female ego's daughter's son,,,gatan1981ibanag,
+fDD,afuku,,female ego's daugher's daughter,,,gatan1981ibanag,
+mFF,"kakay, abbo",,male ego's father‘s father,,,gatan1981ibanag,
+mFM,"kako, abba",,male ego's father's mother,,,gatan1981ibanag,
+mMF,"kakay, abbo",,male ego's mother's father,,,gatan1981ibanag,
+mMM,"kako, abba",,male ego's mother's mother,,,gatan1981ibanag,
+fFF,"kakay, abbo",,female ego's father's father,,,gatan1981ibanag,
+fFM,"kako, abba",,female ego's father's mother,,,gatan1981ibanag,
+fMF,"kakay, abbo",,female ego's mother's father,,,gatan1981ibanag,
+fMM,"kako, abba",,female ego's mother's mother,,,gatan1981ibanag,
+meBS,kanakan,,male ego's older brother's son,,,gatan1981ibanag,
+myBS,kanakan,,male ego's younger brother's son,,,gatan1981ibanag,
+meZS,kanakan,,male ego's older sister's son,,,gatan1981ibanag,
+myZS,kanakan,,male ego's younger sister's son,,,gatan1981ibanag,
+meBD,kanakan,,male ego's older brother's daughter,,,gatan1981ibanag,
+myBD,kanakan,,male ego's younger brother's daughter,,,gatan1981ibanag,
+meZD,kanakan,,male ego's older sister's daughter,,,gatan1981ibanag,
+myZD,kanakan,,male ego's younger sister's daughter,,,gatan1981ibanag,
+feBS,kanakan,,female ego's older brother's son,,,gatan1981ibanag,
+fyBS,kanakan,,female ego's younger brother's son,,,gatan1981ibanag,
+feZS,kanakan,,female ego's older sister's son,,,gatan1981ibanag,
+fyZS,kanakan,,female ego's younger sister's son,,,gatan1981ibanag,
+feBD,kanakan,,female ego's older brother's daughter,,,gatan1981ibanag,
+fyBD,kanakan,,female ego's younger brother's daughter,,,gatan1981ibanag,
+feZD,kanakan,,female ego's older sister's daughter,,,gatan1981ibanag,
+fyZD,kanakan,,female ego's younger sister's daughter,,,gatan1981ibanag,
+mFeB,"ulitag, tiyu",,male ego's father's older brother,,,gatan1981ibanag,
+mFyB,"ulitag, tiyu",,male ego's father's younger brother,,,gatan1981ibanag,
+mFeZ,"iki, tiya",,male ego's father's older sister,,,gatan1981ibanag,
+mFyZ,"iki, tiya",,male ego's father's younger sister,,,gatan1981ibanag,
+mMeB,"ulitag, tiyu",,male ego's mother's older brother,,,gatan1981ibanag,
+mMyB,"ulitag, tiyu",,male ego's mother's younger brother,,,gatan1981ibanag,
+mMeZ,"iki, tiya",,male ego's mother's older sister,,,gatan1981ibanag,
+mMyZ,"iki, tiya",,male ego's mother's younger sister,,,gatan1981ibanag,
+fFeB,"ulitag, tiyu",,female ego's father's older brother,,,gatan1981ibanag,
+fFyB,"ulitag, tiyu",,female ego's father's younger brother,,,gatan1981ibanag,
+fFeZ,"iki, tiya",,female ego's father's older sister,,,gatan1981ibanag,
+fFyZ,"iki, tiya",,female ego's father's younger sister,,,gatan1981ibanag,
+fMeB,"ulitag, tiyu",,female ego's mother's older brother,,,gatan1981ibanag,
+fMyB,"ulitag, tiyu",,female ego's mother's younger brother,,,gatan1981ibanag,
+fMeZ,"iki, tiya",,female ego's mother's older sister,,,gatan1981ibanag,
+fMyZ,"iki, tiya",,female ego's mother's younger sister,,,gatan1981ibanag,
+mW,atawa,,male ego's wife,,,gatan1981ibanag,
+fH,atawa,,female ego‘s husband,,,gatan1981ibanag,
+mDH,manugang,,male ego's daughter's husband,,,gatan1981ibanag,
+fDH,manugang,,female ego's daughter's husband,,,gatan1981ibanag,
+mSW,manugang la kanakan,,male ego's son's wife,,,gatan1981ibanag,
+fSW,manugang,,female ego's son's wife,,,gatan1981ibanag,
+mWF,katugangan,,male ego's wife's father,,,gatan1981ibanag,
+mWM,katugangan,,male ego's wife's mother,,,gatan1981ibanag,
+mWB,kayung,,male ego's wife's brother,,,gatan1981ibanag,
+mWZ,asipag,,male ego's wife's sister,,,gatan1981ibanag,
+fHF,katugangan tu lalaki,,female ego's husband's father,,,gatan1981ibanag,
+fHM,katugangan tu babay,,female ego's husband's mother,,,gatan1981ibanag,
+fHB,kayung,,female ego's husband's brother,,,gatan1981ibanag,
+fHZ,asipag,,female ego's husband's sister,,,gatan1981ibanag,
+mBW,asipag,,male ego's brother's wife,,,gatan1981ibanag,
+fBW,asipag,,female ego's brother's wife,,,gatan1981ibanag,
+mZH,kayung,,male ego's sister's husband,,,gatan1981ibanag,
+fZH,kayung,,female ego's sister's husband,,,gatan1981ibanag,
+mFBS,kapitta,,male ego's father's brother's son,,,gatan1981ibanag,
+mFZS,kapitta,,male ego's father's sister's son,,,gatan1981ibanag,
+mMBS,kapitta,,male ego's mother's brother's son,,,gatan1981ibanag,
+mMZS,kapitta,,male ego's mother's sister's son,,,gatan1981ibanag,
+mFBD,kapitta,,male ego's father's brother's daughter,,,gatan1981ibanag,
+mFZD,kapitta,,male ego's father's sister's daughter,,,gatan1981ibanag,
+mMBD,kapitta,,male ego's mother's brother's daughter,,,gatan1981ibanag,
+mMZD,kapitta,,male ego's mother's sister's daughter,,,gatan1981ibanag,
+fFBS,kapitta,,female ego's father's brother's son,,,gatan1981ibanag,
+fFZS,kapitta,,female ego's father's sister's son,,,gatan1981ibanag,
+fMBS,kapitta,,female ego's mother's brother's son,,,gatan1981ibanag,
+fMZS,kapitta,,female ego's mother's sister's son,,,gatan1981ibanag,
+fFBD,kapitta,,female ego's father's brother's daughter,,,gatan1981ibanag,
+fFZD,kapitta,,female ego's father's sister's daughter,,,gatan1981ibanag,
+fMBD,kapitta,,female ego's mother's brother's daughter,,,gatan1981ibanag,
+fMZD,kapitta,,female ego's mother's sister's daughter,,,gatan1981ibanag,
+mFeBS,kapitta,,male ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+mFyBS,kapitta,,male ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+mFeZS,kapitta,,male ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+mFyZS,kapitta,,male ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+mFeBD,kapitta,,male ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mFyBD,kapitta,,male ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mFeZD,kapitta,,male ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mFyZD,kapitta,,male ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mMeBS,kapitta,,male ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+mMyBS,kapitta,,male ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+mMeZS,kapitta,,male ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+mMyZS,kapitta,,male ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+mMeBD,kapitta,,male ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mMyBD,kapitta,,male ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mMeZD,kapitta,,male ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mMyZD,kapitta,,male ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mFBeS,kapitta,,male ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+mFByS,kapitta,,male ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+mFZeS,kapitta,,male ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+mFZyS,kapitta,,male ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+mFBeD,kapitta,,male ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mFByD,kapitta,,male ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mFZeD,kapitta,,male ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mFZyD,kapitta,,male ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mMBeS,kapitta,,male ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+mMByS,kapitta,,male ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+mMZeS,kapitta,,male ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+mMZyS,kapitta,,male ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+mMBeD,kapitta,,male ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mMByD,kapitta,,male ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+mMZeD,kapitta,,male ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+mMZyD,kapitta,,male ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fFeBS,kapitta,,female ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+fFyBS,kapitta,,female ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+fFeZS,kapitta,,female ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+fFyZS,kapitta,,female ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+fFeBD,kapitta,,female ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fFyBD,kapitta,,female ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fFeZD,kapitta,,female ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fFyZD,kapitta,,female ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fMeBS,kapitta,,female ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+fMyBS,kapitta,,female ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+fMeZS,kapitta,,female ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+fMyZS,kapitta,,female ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+fMeBD,kapitta,,female ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fMyBD,kapitta,,female ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fMeZD,kapitta,,female ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fMyZD,kapitta,,female ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fFBeS,kapitta,,female ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+fFByS,kapitta,,female ego's father's brother's son,,,gatan1981ibanag,Inferred; NA
+fFZeS,kapitta,,female ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+fFZyS,kapitta,,female ego's father's sister's son,,,gatan1981ibanag,Inferred; NA
+fFBeD,kapitta,,female ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fFByD,kapitta,,female ego's father's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fFZeD,kapitta,,female ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fFZyD,kapitta,,female ego's father's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fMBeS,kapitta,,female ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+fMByS,kapitta,,female ego's mother's brother's son,,,gatan1981ibanag,Inferred; NA
+fMZeS,kapitta,,female ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+fMZyS,kapitta,,female ego's mother's sister's son,,,gatan1981ibanag,Inferred; NA
+fMBeD,kapitta,,female ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fMByD,kapitta,,female ego's mother's brother's daughter,,,gatan1981ibanag,Inferred; NA
+fMZeD,kapitta,,female ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA
+fMZyD,kapitta,,female ego's mother's sister's daughter,,,gatan1981ibanag,Inferred; NA

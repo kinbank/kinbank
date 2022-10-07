@@ -1,87 +1,87 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","toak",,"male ego's older brother",,,,""
-"myB","tik",,"male ego's younger brother",,,,""
-"feB","toak",,"female ego's older brother",,,,""
-"fyB","tik",,"female ego's younger brother",,,,""
-"meZ","fēngyak",,"male ego's older sister",,,,"term of reference only"
-"myZ","fēngyak",,"male ego's younger sister",,,,"term of reference only"
-"feZ","fēngyak",,"female ego's older sister",,,,"term of reference only"
-"fyZ","fēngyak",,"female ego's younger sister",,,,"term of reference only"
-"mF","tatang",,"male ego's father",,,,""
-"mM","mang",,"male ego's mother",,,,""
-"fF","tatang",,"female ego's father",,,,""
-"fM","mang",,"female ego's mother",,,,""
-"mS","netik",,"male ego's son",,,,""
-"fS","netik",,"female ego's son",,,,""
-"mD","fenetik",,"male ego's daughter",,,,""
-"fD","fenetik",,"female ego's daughter",,,,""
-"mSS","nembēk",,"male ego's son's son",,,,""
-"mSD","fenembēk",,"male ego's son's daughter",,,,""
-"mDS","nembēk",,"male ego's daughter's son",,,,""
-"mDD","fenembēk",,"male ego's daughter's daughter",,,,""
-"fSS","nembēk",,"female ego's son's son",,,,""
-"fSD","fenembēk",,"female ego's son's daughter",,,,""
-"fDS","nembēk",,"female ego's daughter's son",,,,""
-"fDD","fenembēk",,"female ego's daugher's daughter",,,,""
-"mFF","tumbuk",,"male ego's father‘s father",,,,""
-"mFM","tumbuk",,"male ego's father's mother",,,,""
-"mMF","tumbuk",,"male ego's mother's father",,,,""
-"mMM","tumbuk",,"male ego's mother's mother",,,,""
-"fFF","tumbuk",,"female ego's father's father",,,,""
-"fFM","tumbuk",,"female ego's father's mother",,,,""
-"fMF","tumbuk",,"female ego's mother's father",,,,""
-"fMM","tumbuk",,"female ego's mother's mother",,,,""
-"meBS","netik",,"male ego's older brother's son",,,,""
-"myBS","netik",,"male ego's younger brother's son",,,,""
-"meBD","fenetik",,"male ego's older brother's daughter",,,,""
-"myBD","fenetik",,"male ego's younger brother's daughter",,,,""
-"feBS","netik",,"female ego's older brother's son",,,,""
-"fyBS","netik",,"female ego's younger brother's son",,,,""
-"feBD","fenetik",,"female ego's older brother's daughter",,,,""
-"fyBD","fenetik",,"female ego's younger brother's daughter",,,,""
-"mFeB","tatang",,"male ego's father's older brother",,,,""
-"mFyB","tatang",,"male ego's father's younger brother",,,,""
-"mMeB","paliak",,"male ego's mother's older brother",,,,""
-"mMyB","paliak",,"male ego's mother's younger brother",,,,""
-"fFeB","tatang",,"female ego's father's older brother",,,,""
-"fFyB","tatang",,"female ego's father's younger brother",,,,""
-"fMeB","paliak",,"female ego's mother's older brother",,,,""
-"fMyB","paliak",,"female ego's mother's younger brother",,,,""
-"mDH","uširik",,"male ego's daughter's husband",,,,""
-"fDH","uširik",,"female ego's daughter's husband",,,,""
-"mSW","serambēk",,"male ego's son's wife",,,,""
-"fSW","serambēk",,"female ego's son's wife",,,,""
-"mWF","uširik",,"male ego's wife's father",,,,""
-"mWM","fambalak",,"male ego's wife's mother",,,,""
-"mZH","tuk",,"male ego's sister's husband",,,,""
-"fZH","tuk",,"female ego's sister's husband",,,,""
-"mFBS","tik",,"male ego's father's brother's son",,,,""
-"mFZS","tik",,"male ego's father's sister's son",,,,""
-"mMZS","mortak",,"male ego's mother's sister's son",,,,""
-"mFZD","finimbik",,"male ego's father's sister's daughter",,,,""
-"fFBS","tik",,"female ego's father's brother's son",,,,""
-"fFZS","tik",,"female ego's father's sister's son",,,,""
-"mFeBS","tik",,"male ego's father's brother's son",,,,"Inferred; "
-"mFyBS","tik",,"male ego's father's brother's son",,,,"Inferred; "
-"mFeZS","tik",,"male ego's father's sister's son",,,,"Inferred; "
-"mFyZS","tik",,"male ego's father's sister's son",,,,"Inferred; "
-"mFeZD","finimbik",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFyZD","finimbik",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mMeZS","mortak",,"male ego's mother's sister's son",,,,"Inferred; "
-"mMyZS","mortak",,"male ego's mother's sister's son",,,,"Inferred; "
-"mFBeS","tik",,"male ego's father's brother's son",,,,"Inferred; "
-"mFByS","tik",,"male ego's father's brother's son",,,,"Inferred; "
-"mFZeS","tik",,"male ego's father's sister's son",,,,"Inferred; "
-"mFZyS","tik",,"male ego's father's sister's son",,,,"Inferred; "
-"mFZeD","finimbik",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mFZyD","finimbik",,"male ego's father's sister's daughter",,,,"Inferred; "
-"mMZeS","mortak",,"male ego's mother's sister's son",,,,"Inferred; "
-"mMZyS","mortak",,"male ego's mother's sister's son",,,,"Inferred; "
-"fFeBS","tik",,"female ego's father's brother's son",,,,"Inferred; "
-"fFyBS","tik",,"female ego's father's brother's son",,,,"Inferred; "
-"fFeZS","tik",,"female ego's father's sister's son",,,,"Inferred; "
-"fFyZS","tik",,"female ego's father's sister's son",,,,"Inferred; "
-"fFBeS","tik",,"female ego's father's brother's son",,,,"Inferred; "
-"fFByS","tik",,"female ego's father's brother's son",,,,"Inferred; "
-"fFZeS","tik",,"female ego's father's sister's son",,,,"Inferred; "
-"fFZyS","tik",,"female ego's father's sister's son",,,,"Inferred; "
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,toak,,male ego's older brother,,,guiart1958a,
+myB,tik,,male ego's younger brother,,,guiart1958a,
+feB,toak,,female ego's older brother,,,guiart1958a,
+fyB,tik,,female ego's younger brother,,,guiart1958a,
+meZ,fēngyak,,male ego's older sister,,,guiart1958a,term of reference only
+myZ,fēngyak,,male ego's younger sister,,,guiart1958a,term of reference only
+feZ,fēngyak,,female ego's older sister,,,guiart1958a,term of reference only
+fyZ,fēngyak,,female ego's younger sister,,,guiart1958a,term of reference only
+mF,tatang,,male ego's father,,,guiart1958a,
+mM,mang,,male ego's mother,,,guiart1958a,
+fF,tatang,,female ego's father,,,guiart1958a,
+fM,mang,,female ego's mother,,,guiart1958a,
+mS,netik,,male ego's son,,,guiart1958a,
+fS,netik,,female ego's son,,,guiart1958a,
+mD,fenetik,,male ego's daughter,,,guiart1958a,
+fD,fenetik,,female ego's daughter,,,guiart1958a,
+mSS,nembēk,,male ego's son's son,,,guiart1958a,
+mSD,fenembēk,,male ego's son's daughter,,,guiart1958a,
+mDS,nembēk,,male ego's daughter's son,,,guiart1958a,
+mDD,fenembēk,,male ego's daughter's daughter,,,guiart1958a,
+fSS,nembēk,,female ego's son's son,,,guiart1958a,
+fSD,fenembēk,,female ego's son's daughter,,,guiart1958a,
+fDS,nembēk,,female ego's daughter's son,,,guiart1958a,
+fDD,fenembēk,,female ego's daugher's daughter,,,guiart1958a,
+mFF,tumbuk,,male ego's father‘s father,,,guiart1958a,
+mFM,tumbuk,,male ego's father's mother,,,guiart1958a,
+mMF,tumbuk,,male ego's mother's father,,,guiart1958a,
+mMM,tumbuk,,male ego's mother's mother,,,guiart1958a,
+fFF,tumbuk,,female ego's father's father,,,guiart1958a,
+fFM,tumbuk,,female ego's father's mother,,,guiart1958a,
+fMF,tumbuk,,female ego's mother's father,,,guiart1958a,
+fMM,tumbuk,,female ego's mother's mother,,,guiart1958a,
+meBS,netik,,male ego's older brother's son,,,guiart1958a,
+myBS,netik,,male ego's younger brother's son,,,guiart1958a,
+meBD,fenetik,,male ego's older brother's daughter,,,guiart1958a,
+myBD,fenetik,,male ego's younger brother's daughter,,,guiart1958a,
+feBS,netik,,female ego's older brother's son,,,guiart1958a,
+fyBS,netik,,female ego's younger brother's son,,,guiart1958a,
+feBD,fenetik,,female ego's older brother's daughter,,,guiart1958a,
+fyBD,fenetik,,female ego's younger brother's daughter,,,guiart1958a,
+mFeB,tatang,,male ego's father's older brother,,,guiart1958a,
+mFyB,tatang,,male ego's father's younger brother,,,guiart1958a,
+mMeB,paliak,,male ego's mother's older brother,,,guiart1958a,
+mMyB,paliak,,male ego's mother's younger brother,,,guiart1958a,
+fFeB,tatang,,female ego's father's older brother,,,guiart1958a,
+fFyB,tatang,,female ego's father's younger brother,,,guiart1958a,
+fMeB,paliak,,female ego's mother's older brother,,,guiart1958a,
+fMyB,paliak,,female ego's mother's younger brother,,,guiart1958a,
+mDH,uširik,,male ego's daughter's husband,,,guiart1958a,
+fDH,uširik,,female ego's daughter's husband,,,guiart1958a,
+mSW,serambēk,,male ego's son's wife,,,guiart1958a,
+fSW,serambēk,,female ego's son's wife,,,guiart1958a,
+mWF,uširik,,male ego's wife's father,,,guiart1958a,
+mWM,fambalak,,male ego's wife's mother,,,guiart1958a,
+mZH,tuk,,male ego's sister's husband,,,guiart1958a,
+fZH,tuk,,female ego's sister's husband,,,guiart1958a,
+mFBS,tik,,male ego's father's brother's son,,,guiart1958a,
+mFZS,tik,,male ego's father's sister's son,,,guiart1958a,
+mMZS,mortak,,male ego's mother's sister's son,,,guiart1958a,
+mFZD,finimbik,,male ego's father's sister's daughter,,,guiart1958a,
+fFBS,tik,,female ego's father's brother's son,,,guiart1958a,
+fFZS,tik,,female ego's father's sister's son,,,guiart1958a,
+mFeBS,tik,,male ego's father's brother's son,,,guiart1958a,Inferred; 
+mFyBS,tik,,male ego's father's brother's son,,,guiart1958a,Inferred; 
+mFeZS,tik,,male ego's father's sister's son,,,guiart1958a,Inferred; 
+mFyZS,tik,,male ego's father's sister's son,,,guiart1958a,Inferred; 
+mFeZD,finimbik,,male ego's father's sister's daughter,,,guiart1958a,Inferred; 
+mFyZD,finimbik,,male ego's father's sister's daughter,,,guiart1958a,Inferred; 
+mMeZS,mortak,,male ego's mother's sister's son,,,guiart1958a,Inferred; 
+mMyZS,mortak,,male ego's mother's sister's son,,,guiart1958a,Inferred; 
+mFBeS,tik,,male ego's father's brother's son,,,guiart1958a,Inferred; 
+mFByS,tik,,male ego's father's brother's son,,,guiart1958a,Inferred; 
+mFZeS,tik,,male ego's father's sister's son,,,guiart1958a,Inferred; 
+mFZyS,tik,,male ego's father's sister's son,,,guiart1958a,Inferred; 
+mFZeD,finimbik,,male ego's father's sister's daughter,,,guiart1958a,Inferred; 
+mFZyD,finimbik,,male ego's father's sister's daughter,,,guiart1958a,Inferred; 
+mMZeS,mortak,,male ego's mother's sister's son,,,guiart1958a,Inferred; 
+mMZyS,mortak,,male ego's mother's sister's son,,,guiart1958a,Inferred; 
+fFeBS,tik,,female ego's father's brother's son,,,guiart1958a,Inferred; 
+fFyBS,tik,,female ego's father's brother's son,,,guiart1958a,Inferred; 
+fFeZS,tik,,female ego's father's sister's son,,,guiart1958a,Inferred; 
+fFyZS,tik,,female ego's father's sister's son,,,guiart1958a,Inferred; 
+fFBeS,tik,,female ego's father's brother's son,,,guiart1958a,Inferred; 
+fFByS,tik,,female ego's father's brother's son,,,guiart1958a,Inferred; 
+fFZeS,tik,,female ego's father's sister's son,,,guiart1958a,Inferred; 
+fFZyS,tik,,female ego's father's sister's son,,,guiart1958a,Inferred; 

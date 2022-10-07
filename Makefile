@@ -1,6 +1,6 @@
 # define version:
-GLOTTOLOG=v4.4
-CONCEPTICON=v2.5.0
+GLOTTOLOG=v4.6
+CONCEPTICON=v2.6.0
 
 # Repositories:
 PARABANK_REPO=https://github.com/kinbank/parabank
@@ -21,7 +21,7 @@ help:
 
 # install python venv and install python libraries
 env:
-	python -m venv env
+	python3 -m venv env
 	./env/bin/python ./env/bin/pip3 install -r requirements.txt
 	./env/bin/cldfbench catconfig
 
@@ -43,15 +43,15 @@ merge: env
 	cd collections/ && git clone $(VARIKIN_REPO)
 	cd collections/ && git clone $(KINURA_REPO)
 	cd collections/ && git clone $(GOELDI_REPO)
-	python merge_collections.py
+	./env/bin/python merge_collections.py
 	rm -rf collections
-	cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
-	cp ./kinbank/etc/languages.csv ./kinbank/cldf/languages.csv
-	cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
+	# cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
+	# cp ./kinbank/etc/languages.csv ./kinbank/cldf/languages.csv
+	# cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
 
 # generate CLDF
 cldf: env ./kinbank/raw/
-	./env/bin/python ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
+	./env/bin/python3 ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
 
 test: env
 	cd kinbank && pytest

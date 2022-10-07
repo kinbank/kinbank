@@ -1,110 +1,110 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","papa",,"male ego's older brother",,,,
-"myB","papa",,"male ego's younger brother",,,,
-"feB","papa ruang",,"female ego's older brother",,,,
-"feZ","papa",,"female ego's older sister",,,,
-"fyZ","papa",,"female ego's younger sister",,,,
-"mF","namo",,"male ego's father",,,,
-"mM","nangan",,"male ego's mother",,,,
-"fF","namo",,"female ego's father",,,,
-"fM","nangan",,"female ego's mother",,,,
-"mS","poinang",,"male ego's son",,,,
-"fS","poinang",,"female ego's son",,,,
-"mD","poirung",,"male ego's daughter",,,,
-"fD","poirung",,"female ego's daughter",,,,
-"mSS","aia",,"male ego's son's son",,,,
-"mSD","aia",,"male ego's son's daughter",,,,
-"mDS","aia",,"male ego's daughter's son",,,,
-"mDD","aia",,"male ego's daughter's daughter",,,,
-"fSS","aia",,"female ego's son's son",,,,
-"fSD","aia",,"female ego's son's daughter",,,,
-"fDS","aia",,"female ego's daughter's son",,,,
-"fDD","aia",,"female ego's daugher's daughter",,,,
-"mFF","aia",,"male ego's father‘s father",,,,
-"mFM","aia",,"male ego's father's mother",,,,
-"mMF","aia",,"male ego's mother's father",,,,
-"mMM","aia",,"male ego's mother's mother",,,,
-"fFF","aia",,"female ego's father's father",,,,
-"fFM","aia",,"female ego's father's mother",,,,
-"fMF","aia",,"female ego's mother's father",,,,
-"fMM","aia",,"female ego's mother's mother",,,,
-"meZS","talo",,"male ego's older sister's son",,,,
-"myZS","talo",,"male ego's younger sister's son",,,,
-"meZD","talau-rung",,"male ego's older sister's daughter",,,,
-"myZD","talau-rung",,"male ego's younger sister's daughter",,,,
-"feBS","nambura ruang",,"female ego's older brother's son",,,,
-"fyBS","nambura ruang",,"female ego's younger brother's son",,,,
-"feZS","talo",,"female ego's older sister's son",,,,
-"fyZS","talo",,"female ego's younger sister's son",,,,
-"feZD","talau-rung",,"female ego's older sister's daughter",,,,
-"fyZD","talau-rung",,"female ego's younger sister's daughter",,,,
-"mFeB","namo",,"male ego's father's older brother",,,,
-"mFyB","namo",,"male ego's father's younger brother",,,,
-"mFeZ","nambura",,"male ego's father's older sister",,,,
-"mFyZ","nambura",,"male ego's father's younger sister",,,,
-"mMeB","tatah",,"male ego's mother's older brother",,,,
-"mMyB","tatah",,"male ego's mother's younger brother",,,,
-"fFeB","namo",,"female ego's father's older brother",,,,
-"fFyB","namo",,"female ego's father's younger brother",,,,
-"fFeZ","nambura",,"female ego's father's older sister",,,,
-"fFyZ","nambura",,"female ego's father's younger sister",,,,
-"fMeB","tatah",,"female ego's mother's older brother",,,,
-"fMyB","tatah",,"female ego's mother's younger brother",,,,
-"mW","magabutung",,"male ego's wife",,,,
-"fH","leruang",,"female ego‘s husband",,,,
-"mDH","anmula ruang",,"male ego's daughter's husband",,,,
-"fDH","muge",,"female ego's daughter's husband",,,,
-"mSW","aia",,"male ego's son's wife",,,,
-"fSW","aia",,"female ego's son's wife",,,,
-"mWF","anmula ruang",,"male ego's wife's father",,,,
-"mWM","kogup, kogule",,"male ego's wife's mother",,,,
-"mWB","muge,  melu ruang",,"male ego's wife's brother",,,,
-"mWZ","pava",,"male ego's wife's sister",,,,
-"fHF","aia",,"female ego's husband's father",,,,
-"fHM","aia",,"female ego's husband's mother",,,,
-"fHB","pava",,"female ego's husband's brother",,,,
-"fHZ","nemula",,"female ego's husband's sister",,,,
-"mBW","pava",,"male ego's brother's wife",,,,
-"fBW","nemula",,"female ego's brother's wife",,,,
-"mZH","melu ruang",,"male ego's sister's husband",,,,
-"fZH","melu ruang, pava",,"female ego's sister's husband",,,,
-"mFZS","kogup",,"male ego's father's sister's son",,,,
-"mFZD","kogule",,"male ego's father's sister's daughter",,,,
-"mMBD","kogule",,"male ego's mother's brother's daughter",,,,
-"fFZS","kogup",,"female ego's father's sister's son",,,,
-"fMBS","muge",,"female ego's mother's brother's son",,,,
-"fMZS","muge",,"female ego's mother's sister's son",,,,
-"fFZD","kogule",,"female ego's father's sister's daughter",,,,
-"fMBD","kogule",,"female ego's mother's brother's daughter",,,,
-"mFeZS","kogup",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","kogup",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeZD","kogule",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","kogule",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBD","kogule",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","kogule",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mFZeS","kogup",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","kogup",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZeD","kogule",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","kogule",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeD","kogule",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","kogule",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFeZS","kogup",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","kogup",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeZD","kogule",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","kogule",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","muge",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","muge",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","muge",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","muge",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","kogule",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","kogule",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fFZeS","kogup",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","kogup",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZeD","kogule",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","kogule",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","muge",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","muge",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","muge",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","muge",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","kogule",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","kogule",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,papa,,male ego's older brother,,,Chinnery1930,
+myB,papa,,male ego's younger brother,,,Chinnery1930,
+feB,papa ruang,,female ego's older brother,,,Chinnery1930,
+feZ,papa,,female ego's older sister,,,Chinnery1930,
+fyZ,papa,,female ego's younger sister,,,Chinnery1930,
+mF,namo,,male ego's father,,,Chinnery1930,
+mM,nangan,,male ego's mother,,,Chinnery1930,
+fF,namo,,female ego's father,,,Chinnery1930,
+fM,nangan,,female ego's mother,,,Chinnery1930,
+mS,poinang,,male ego's son,,,Chinnery1930,
+fS,poinang,,female ego's son,,,Chinnery1930,
+mD,poirung,,male ego's daughter,,,Chinnery1930,
+fD,poirung,,female ego's daughter,,,Chinnery1930,
+mSS,aia,,male ego's son's son,,,Chinnery1930,
+mSD,aia,,male ego's son's daughter,,,Chinnery1930,
+mDS,aia,,male ego's daughter's son,,,Chinnery1930,
+mDD,aia,,male ego's daughter's daughter,,,Chinnery1930,
+fSS,aia,,female ego's son's son,,,Chinnery1930,
+fSD,aia,,female ego's son's daughter,,,Chinnery1930,
+fDS,aia,,female ego's daughter's son,,,Chinnery1930,
+fDD,aia,,female ego's daugher's daughter,,,Chinnery1930,
+mFF,aia,,male ego's father‘s father,,,Chinnery1930,
+mFM,aia,,male ego's father's mother,,,Chinnery1930,
+mMF,aia,,male ego's mother's father,,,Chinnery1930,
+mMM,aia,,male ego's mother's mother,,,Chinnery1930,
+fFF,aia,,female ego's father's father,,,Chinnery1930,
+fFM,aia,,female ego's father's mother,,,Chinnery1930,
+fMF,aia,,female ego's mother's father,,,Chinnery1930,
+fMM,aia,,female ego's mother's mother,,,Chinnery1930,
+meZS,talo,,male ego's older sister's son,,,Chinnery1930,
+myZS,talo,,male ego's younger sister's son,,,Chinnery1930,
+meZD,talau-rung,,male ego's older sister's daughter,,,Chinnery1930,
+myZD,talau-rung,,male ego's younger sister's daughter,,,Chinnery1930,
+feBS,nambura ruang,,female ego's older brother's son,,,Chinnery1930,
+fyBS,nambura ruang,,female ego's younger brother's son,,,Chinnery1930,
+feZS,talo,,female ego's older sister's son,,,Chinnery1930,
+fyZS,talo,,female ego's younger sister's son,,,Chinnery1930,
+feZD,talau-rung,,female ego's older sister's daughter,,,Chinnery1930,
+fyZD,talau-rung,,female ego's younger sister's daughter,,,Chinnery1930,
+mFeB,namo,,male ego's father's older brother,,,Chinnery1930,
+mFyB,namo,,male ego's father's younger brother,,,Chinnery1930,
+mFeZ,nambura,,male ego's father's older sister,,,Chinnery1930,
+mFyZ,nambura,,male ego's father's younger sister,,,Chinnery1930,
+mMeB,tatah,,male ego's mother's older brother,,,Chinnery1930,
+mMyB,tatah,,male ego's mother's younger brother,,,Chinnery1930,
+fFeB,namo,,female ego's father's older brother,,,Chinnery1930,
+fFyB,namo,,female ego's father's younger brother,,,Chinnery1930,
+fFeZ,nambura,,female ego's father's older sister,,,Chinnery1930,
+fFyZ,nambura,,female ego's father's younger sister,,,Chinnery1930,
+fMeB,tatah,,female ego's mother's older brother,,,Chinnery1930,
+fMyB,tatah,,female ego's mother's younger brother,,,Chinnery1930,
+mW,magabutung,,male ego's wife,,,Chinnery1930,
+fH,leruang,,female ego‘s husband,,,Chinnery1930,
+mDH,anmula ruang,,male ego's daughter's husband,,,Chinnery1930,
+fDH,muge,,female ego's daughter's husband,,,Chinnery1930,
+mSW,aia,,male ego's son's wife,,,Chinnery1930,
+fSW,aia,,female ego's son's wife,,,Chinnery1930,
+mWF,anmula ruang,,male ego's wife's father,,,Chinnery1930,
+mWM,"kogup, kogule",,male ego's wife's mother,,,Chinnery1930,
+mWB,"muge,  melu ruang",,male ego's wife's brother,,,Chinnery1930,
+mWZ,pava,,male ego's wife's sister,,,Chinnery1930,
+fHF,aia,,female ego's husband's father,,,Chinnery1930,
+fHM,aia,,female ego's husband's mother,,,Chinnery1930,
+fHB,pava,,female ego's husband's brother,,,Chinnery1930,
+fHZ,nemula,,female ego's husband's sister,,,Chinnery1930,
+mBW,pava,,male ego's brother's wife,,,Chinnery1930,
+fBW,nemula,,female ego's brother's wife,,,Chinnery1930,
+mZH,melu ruang,,male ego's sister's husband,,,Chinnery1930,
+fZH,"melu ruang, pava",,female ego's sister's husband,,,Chinnery1930,
+mFZS,kogup,,male ego's father's sister's son,,,Chinnery1930,
+mFZD,kogule,,male ego's father's sister's daughter,,,Chinnery1930,
+mMBD,kogule,,male ego's mother's brother's daughter,,,Chinnery1930,
+fFZS,kogup,,female ego's father's sister's son,,,Chinnery1930,
+fMBS,muge,,female ego's mother's brother's son,,,Chinnery1930,
+fMZS,muge,,female ego's mother's sister's son,,,Chinnery1930,
+fFZD,kogule,,female ego's father's sister's daughter,,,Chinnery1930,
+fMBD,kogule,,female ego's mother's brother's daughter,,,Chinnery1930,
+mFeZS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
+mFyZS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
+mFeZD,kogule,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+mFyZD,kogule,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+mMeBD,kogule,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+mMyBD,kogule,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+mFZeS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
+mFZyS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
+mFZeD,kogule,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+mFZyD,kogule,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+mMBeD,kogule,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+mMByD,kogule,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+fFeZS,kogup,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
+fFyZS,kogup,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
+fFeZD,kogule,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+fFyZD,kogule,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+fMeBS,muge,,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
+fMyBS,muge,,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
+fMeZS,muge,,female ego's mother's sister's son,,,Chinnery1930,Inferred; NA
+fMyZS,muge,,female ego's mother's sister's son,,,Chinnery1930,Inferred; NA
+fMeBD,kogule,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+fMyBD,kogule,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+fFZeS,kogup,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
+fFZyS,kogup,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
+fFZeD,kogule,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+fFZyD,kogule,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
+fMBeS,muge,,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
+fMByS,muge,,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
+fMZeS,muge,,female ego's mother's sister's son,,,Chinnery1930,Inferred; NA
+fMZyS,muge,,female ego's mother's sister's son,,,Chinnery1930,Inferred; NA
+fMBeD,kogule,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+fMByD,kogule,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA

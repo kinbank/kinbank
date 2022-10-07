@@ -1,163 +1,163 @@
-"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"meB","isa",,"male ego's older brother",,,,
-"myB","ai",,"male ego's younger brother",,,,
-"feB","isa, finimoghane",,"female ego's older brother",,,,
-"fyB","ai, finimoghane",,"female ego's younger brother",,,,
-"meZ","isa, finirobhine",,"male ego's older sister",,,,
-"myZ","ai, finirobhine",,"male ego's younger sister",,,,
-"feZ","isa",,"female ego's older sister",,,,
-"fyZ","ai",,"female ego's younger sister",,,,
-"mF","ama",,"male ego's father",,,,
-"mM","ina",,"male ego's mother",,,,
-"fF","ama",,"female ego's father",,,,
-"fM","ina",,"female ego's mother",,,,
-"mS","ana",,"male ego's son",,,,
-"fS","ana",,"female ego's son",,,,
-"mD","ana",,"male ego's daughter",,,,
-"fD","ana",,"female ego's daughter",,,,
-"mSS","awa",,"male ego's son's son",,,,
-"mSD","awa",,"male ego's son's daughter",,,,
-"mDS","awa",,"male ego's daughter's son",,,,
-"mDD","awa",,"male ego's daughter's daughter",,,,
-"fSS","awa",,"female ego's son's son",,,,
-"fSD","awa",,"female ego's son's daughter",,,,
-"fDS","awa",,"female ego's daughter's son",,,,
-"fDD","awa",,"female ego's daugher's daughter",,,,
-"mFF","awa",,"male ego's father‘s father",,,,
-"mFM","awa",,"male ego's father's mother",,,,
-"mMF","awa",,"male ego's mother's father",,,,
-"mMM","awa",,"male ego's mother's mother",,,,
-"fFF","awa",,"female ego's father's father",,,,
-"fFM","awa",,"female ego's father's mother",,,,
-"fMF","awa",,"female ego's mother's father",,,,
-"fMM","awa",,"female ego's mother's mother",,,,
-"meBS","fokoanau",,"male ego's older brother's son",,,,
-"myBS","fokoanau",,"male ego's younger brother's son",,,,
-"meZS","fokoanau",,"male ego's older sister's son",,,,
-"myZS","fokoanau",,"male ego's younger sister's son",,,,
-"meBD","fokoanau",,"male ego's older brother's daughter",,,,
-"myBD","fokoanau",,"male ego's younger brother's daughter",,,,
-"meZD","fokoanau",,"male ego's older sister's daughter",,,,
-"myZD","fokoanau",,"male ego's younger sister's daughter",,,,
-"feBS","fokoanau",,"female ego's older brother's son",,,,
-"fyBS","fokoanau",,"female ego's younger brother's son",,,,
-"feZS","fokoanau",,"female ego's older sister's son",,,,
-"fyZS","fokoanau",,"female ego's younger sister's son",,,,
-"feBD","fokoanau",,"female ego's older brother's daughter",,,,
-"fyBD","fokoanau",,"female ego's younger brother's daughter",,,,
-"feZD","fokoanau",,"female ego's older sister's daughter",,,,
-"fyZD","fokoanau",,"female ego's younger sister's daughter",,,,
-"mFeB","fokomau",,"male ego's father's older brother",,,,
-"mFyB","fokomau",,"male ego's father's younger brother",,,,
-"mFeZ","fokoinau",,"male ego's father's older sister",,,,
-"mFyZ","fokoinau",,"male ego's father's younger sister",,,,
-"mMeB","fokomau",,"male ego's mother's older brother",,,,
-"mMyB","fokomau",,"male ego's mother's younger brother",,,,
-"mMeZ","fokoinau",,"male ego's mother's older sister",,,,
-"mMyZ","fokoinau",,"male ego's mother's younger sister",,,,
-"fFeB","fokomau",,"female ego's father's older brother",,,,
-"fFyB","fokomau",,"female ego's father's younger brother",,,,
-"fFeZ","fokoinau",,"female ego's father's older sister",,,,
-"fFyZ","fokoinau",,"female ego's father's younger sister",,,,
-"fMeB","fokomau",,"female ego's mother's older brother",,,,
-"fMyB","fokomau",,"female ego's mother's younger brother",,,,
-"fMeZ","fokoinau",,"female ego's mother's older sister",,,,
-"fMyZ","fokoinau",,"female ego's mother's younger sister",,,,
-"mW","mieno lambu",,"male ego's wife",,,,
-"fH","salambu",,"female ego‘s husband",,,,
-"mDH","ana mantu, ana ghampu",,"male ego's daughter's husband",,,,
-"fDH","ana mantu, ana ghampu",,"female ego's daughter's husband",,,,
-"mSW","ana mantu, ana ghampu",,"male ego's son's wife",,,,
-"fSW","ana mantu, ana ghampu",,"female ego's son's wife",,,,
-"mWF","ama mantu, ama ghampo",,"male ego's wife's father",,,,
-"mWM","ina mantu, ina ghampo",,"male ego's wife's mother",,,,
-"mWB","tamba",,"male ego's wife's brother",,,,
-"mWZ","tamba",,"male ego's wife's sister",,,,
-"fHF","ama mantu, ama ghampo",,"female ego's husband's father",,,,
-"fHM","ina mantu, ina ghampo",,"female ego's husband's mother",,,,
-"fHB","tamba",,"female ego's husband's brother",,,,
-"fHZ","tamba",,"female ego's husband's sister",,,,
-"mBW","tamba",,"male ego's brother's wife",,,,
-"fBW","tamba",,"female ego's brother's wife",,,,
-"mZH","tamba",,"male ego's sister's husband",,,,
-"fZH","tamba",,"female ego's sister's husband",,,,
-"mFBS","pisa",,"male ego's father's brother's son",,,,
-"mFZS","pisa",,"male ego's father's sister's son",,,,
-"mMBS","pisa",,"male ego's mother's brother's son",,,,
-"mMZS","pisa",,"male ego's mother's sister's son",,,,
-"mFBD","pisa",,"male ego's father's brother's daughter",,,,
-"mFZD","pisa",,"male ego's father's sister's daughter",,,,
-"mMBD","pisa",,"male ego's mother's brother's daughter",,,,
-"mMZD","pisa",,"male ego's mother's sister's daughter",,,,
-"fFBS","pisa",,"female ego's father's brother's son",,,,
-"fFZS","pisa",,"female ego's father's sister's son",,,,
-"fMBS","pisa",,"female ego's mother's brother's son",,,,
-"fMZS","pisa",,"female ego's mother's sister's son",,,,
-"fFBD","pisa",,"female ego's father's brother's daughter",,,,
-"fFZD","pisa",,"female ego's father's sister's daughter",,,,
-"fMBD","pisa",,"female ego's mother's brother's daughter",,,,
-"fMZD","pisa",,"female ego's mother's sister's daughter",,,,
-"mFeBS","pisa",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFyBS","pisa",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFeZS","pisa",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFyZS","pisa",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFeBD","pisa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFyBD","pisa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFeZD","pisa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFyZD","pisa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMeBS","pisa",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMyBS","pisa",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMeZS","pisa",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMyZS","pisa",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMeBD","pisa",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMyBD","pisa",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMeZD","pisa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMyZD","pisa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mFBeS","pisa",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFByS","pisa",,"male ego's father's brother's son",,,,"Inferred; NA"
-"mFZeS","pisa",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFZyS","pisa",,"male ego's father's sister's son",,,,"Inferred; NA"
-"mFBeD","pisa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFByD","pisa",,"male ego's father's brother's daughter",,,,"Inferred; NA"
-"mFZeD","pisa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mFZyD","pisa",,"male ego's father's sister's daughter",,,,"Inferred; NA"
-"mMBeS","pisa",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMByS","pisa",,"male ego's mother's brother's son",,,,"Inferred; NA"
-"mMZeS","pisa",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMZyS","pisa",,"male ego's mother's sister's son",,,,"Inferred; NA"
-"mMBeD","pisa",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMByD","pisa",,"male ego's mother's brother's daughter",,,,"Inferred; NA"
-"mMZeD","pisa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"mMZyD","pisa",,"male ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFeBS","pisa",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFyBS","pisa",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFeZS","pisa",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFyZS","pisa",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFeBD","pisa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFyBD","pisa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFeZD","pisa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFyZD","pisa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMeBS","pisa",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMyBS","pisa",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMeZS","pisa",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMyZS","pisa",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMeBD","pisa",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMyBD","pisa",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMeZD","pisa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMyZD","pisa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fFBeS","pisa",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFByS","pisa",,"female ego's father's brother's son",,,,"Inferred; NA"
-"fFZeS","pisa",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFZyS","pisa",,"female ego's father's sister's son",,,,"Inferred; NA"
-"fFBeD","pisa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFByD","pisa",,"female ego's father's brother's daughter",,,,"Inferred; NA"
-"fFZeD","pisa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fFZyD","pisa",,"female ego's father's sister's daughter",,,,"Inferred; NA"
-"fMBeS","pisa",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMByS","pisa",,"female ego's mother's brother's son",,,,"Inferred; NA"
-"fMZeS","pisa",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMZyS","pisa",,"female ego's mother's sister's son",,,,"Inferred; NA"
-"fMBeD","pisa",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMByD","pisa",,"female ego's mother's brother's daughter",,,,"Inferred; NA"
-"fMZeD","pisa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
-"fMZyD","pisa",,"female ego's mother's sister's daughter",,,,"Inferred; NA"
+parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
+meB,isa,,male ego's older brother,,,BergKingemann2010,
+myB,ai,,male ego's younger brother,,,BergKingemann2010,
+feB,"isa, finimoghane",,female ego's older brother,,,BergKingemann2010,
+fyB,"ai, finimoghane",,female ego's younger brother,,,BergKingemann2010,
+meZ,"isa, finirobhine",,male ego's older sister,,,BergKingemann2010,
+myZ,"ai, finirobhine",,male ego's younger sister,,,BergKingemann2010,
+feZ,isa,,female ego's older sister,,,BergKingemann2010,
+fyZ,ai,,female ego's younger sister,,,BergKingemann2010,
+mF,ama,,male ego's father,,,BergKingemann2010,
+mM,ina,,male ego's mother,,,BergKingemann2010,
+fF,ama,,female ego's father,,,BergKingemann2010,
+fM,ina,,female ego's mother,,,BergKingemann2010,
+mS,ana,,male ego's son,,,BergKingemann2010,
+fS,ana,,female ego's son,,,BergKingemann2010,
+mD,ana,,male ego's daughter,,,BergKingemann2010,
+fD,ana,,female ego's daughter,,,BergKingemann2010,
+mSS,awa,,male ego's son's son,,,BergKingemann2010,
+mSD,awa,,male ego's son's daughter,,,BergKingemann2010,
+mDS,awa,,male ego's daughter's son,,,BergKingemann2010,
+mDD,awa,,male ego's daughter's daughter,,,BergKingemann2010,
+fSS,awa,,female ego's son's son,,,BergKingemann2010,
+fSD,awa,,female ego's son's daughter,,,BergKingemann2010,
+fDS,awa,,female ego's daughter's son,,,BergKingemann2010,
+fDD,awa,,female ego's daugher's daughter,,,BergKingemann2010,
+mFF,awa,,male ego's father‘s father,,,BergKingemann2010,
+mFM,awa,,male ego's father's mother,,,BergKingemann2010,
+mMF,awa,,male ego's mother's father,,,BergKingemann2010,
+mMM,awa,,male ego's mother's mother,,,BergKingemann2010,
+fFF,awa,,female ego's father's father,,,BergKingemann2010,
+fFM,awa,,female ego's father's mother,,,BergKingemann2010,
+fMF,awa,,female ego's mother's father,,,BergKingemann2010,
+fMM,awa,,female ego's mother's mother,,,BergKingemann2010,
+meBS,fokoanau,,male ego's older brother's son,,,BergKingemann2010,
+myBS,fokoanau,,male ego's younger brother's son,,,BergKingemann2010,
+meZS,fokoanau,,male ego's older sister's son,,,BergKingemann2010,
+myZS,fokoanau,,male ego's younger sister's son,,,BergKingemann2010,
+meBD,fokoanau,,male ego's older brother's daughter,,,BergKingemann2010,
+myBD,fokoanau,,male ego's younger brother's daughter,,,BergKingemann2010,
+meZD,fokoanau,,male ego's older sister's daughter,,,BergKingemann2010,
+myZD,fokoanau,,male ego's younger sister's daughter,,,BergKingemann2010,
+feBS,fokoanau,,female ego's older brother's son,,,BergKingemann2010,
+fyBS,fokoanau,,female ego's younger brother's son,,,BergKingemann2010,
+feZS,fokoanau,,female ego's older sister's son,,,BergKingemann2010,
+fyZS,fokoanau,,female ego's younger sister's son,,,BergKingemann2010,
+feBD,fokoanau,,female ego's older brother's daughter,,,BergKingemann2010,
+fyBD,fokoanau,,female ego's younger brother's daughter,,,BergKingemann2010,
+feZD,fokoanau,,female ego's older sister's daughter,,,BergKingemann2010,
+fyZD,fokoanau,,female ego's younger sister's daughter,,,BergKingemann2010,
+mFeB,fokomau,,male ego's father's older brother,,,BergKingemann2010,
+mFyB,fokomau,,male ego's father's younger brother,,,BergKingemann2010,
+mFeZ,fokoinau,,male ego's father's older sister,,,BergKingemann2010,
+mFyZ,fokoinau,,male ego's father's younger sister,,,BergKingemann2010,
+mMeB,fokomau,,male ego's mother's older brother,,,BergKingemann2010,
+mMyB,fokomau,,male ego's mother's younger brother,,,BergKingemann2010,
+mMeZ,fokoinau,,male ego's mother's older sister,,,BergKingemann2010,
+mMyZ,fokoinau,,male ego's mother's younger sister,,,BergKingemann2010,
+fFeB,fokomau,,female ego's father's older brother,,,BergKingemann2010,
+fFyB,fokomau,,female ego's father's younger brother,,,BergKingemann2010,
+fFeZ,fokoinau,,female ego's father's older sister,,,BergKingemann2010,
+fFyZ,fokoinau,,female ego's father's younger sister,,,BergKingemann2010,
+fMeB,fokomau,,female ego's mother's older brother,,,BergKingemann2010,
+fMyB,fokomau,,female ego's mother's younger brother,,,BergKingemann2010,
+fMeZ,fokoinau,,female ego's mother's older sister,,,BergKingemann2010,
+fMyZ,fokoinau,,female ego's mother's younger sister,,,BergKingemann2010,
+mW,mieno lambu,,male ego's wife,,,BergKingemann2010,
+fH,salambu,,female ego‘s husband,,,BergKingemann2010,
+mDH,"ana mantu, ana ghampu",,male ego's daughter's husband,,,BergKingemann2010,
+fDH,"ana mantu, ana ghampu",,female ego's daughter's husband,,,BergKingemann2010,
+mSW,"ana mantu, ana ghampu",,male ego's son's wife,,,BergKingemann2010,
+fSW,"ana mantu, ana ghampu",,female ego's son's wife,,,BergKingemann2010,
+mWF,"ama mantu, ama ghampo",,male ego's wife's father,,,BergKingemann2010,
+mWM,"ina mantu, ina ghampo",,male ego's wife's mother,,,BergKingemann2010,
+mWB,tamba,,male ego's wife's brother,,,BergKingemann2010,
+mWZ,tamba,,male ego's wife's sister,,,BergKingemann2010,
+fHF,"ama mantu, ama ghampo",,female ego's husband's father,,,BergKingemann2010,
+fHM,"ina mantu, ina ghampo",,female ego's husband's mother,,,BergKingemann2010,
+fHB,tamba,,female ego's husband's brother,,,BergKingemann2010,
+fHZ,tamba,,female ego's husband's sister,,,BergKingemann2010,
+mBW,tamba,,male ego's brother's wife,,,BergKingemann2010,
+fBW,tamba,,female ego's brother's wife,,,BergKingemann2010,
+mZH,tamba,,male ego's sister's husband,,,BergKingemann2010,
+fZH,tamba,,female ego's sister's husband,,,BergKingemann2010,
+mFBS,pisa,,male ego's father's brother's son,,,BergKingemann2010,
+mFZS,pisa,,male ego's father's sister's son,,,BergKingemann2010,
+mMBS,pisa,,male ego's mother's brother's son,,,BergKingemann2010,
+mMZS,pisa,,male ego's mother's sister's son,,,BergKingemann2010,
+mFBD,pisa,,male ego's father's brother's daughter,,,BergKingemann2010,
+mFZD,pisa,,male ego's father's sister's daughter,,,BergKingemann2010,
+mMBD,pisa,,male ego's mother's brother's daughter,,,BergKingemann2010,
+mMZD,pisa,,male ego's mother's sister's daughter,,,BergKingemann2010,
+fFBS,pisa,,female ego's father's brother's son,,,BergKingemann2010,
+fFZS,pisa,,female ego's father's sister's son,,,BergKingemann2010,
+fMBS,pisa,,female ego's mother's brother's son,,,BergKingemann2010,
+fMZS,pisa,,female ego's mother's sister's son,,,BergKingemann2010,
+fFBD,pisa,,female ego's father's brother's daughter,,,BergKingemann2010,
+fFZD,pisa,,female ego's father's sister's daughter,,,BergKingemann2010,
+fMBD,pisa,,female ego's mother's brother's daughter,,,BergKingemann2010,
+fMZD,pisa,,female ego's mother's sister's daughter,,,BergKingemann2010,
+mFeBS,pisa,,male ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+mFyBS,pisa,,male ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+mFeZS,pisa,,male ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+mFyZS,pisa,,male ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+mFeBD,pisa,,male ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+mFyBD,pisa,,male ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+mFeZD,pisa,,male ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+mFyZD,pisa,,male ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+mMeBS,pisa,,male ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+mMyBS,pisa,,male ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+mMeZS,pisa,,male ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+mMyZS,pisa,,male ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+mMeBD,pisa,,male ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+mMyBD,pisa,,male ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+mMeZD,pisa,,male ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+mMyZD,pisa,,male ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+mFBeS,pisa,,male ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+mFByS,pisa,,male ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+mFZeS,pisa,,male ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+mFZyS,pisa,,male ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+mFBeD,pisa,,male ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+mFByD,pisa,,male ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+mFZeD,pisa,,male ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+mFZyD,pisa,,male ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+mMBeS,pisa,,male ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+mMByS,pisa,,male ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+mMZeS,pisa,,male ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+mMZyS,pisa,,male ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+mMBeD,pisa,,male ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+mMByD,pisa,,male ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+mMZeD,pisa,,male ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+mMZyD,pisa,,male ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+fFeBS,pisa,,female ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+fFyBS,pisa,,female ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+fFeZS,pisa,,female ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+fFyZS,pisa,,female ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+fFeBD,pisa,,female ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+fFyBD,pisa,,female ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+fFeZD,pisa,,female ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+fFyZD,pisa,,female ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+fMeBS,pisa,,female ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+fMyBS,pisa,,female ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+fMeZS,pisa,,female ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+fMyZS,pisa,,female ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+fMeBD,pisa,,female ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+fMyBD,pisa,,female ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+fMeZD,pisa,,female ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+fMyZD,pisa,,female ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+fFBeS,pisa,,female ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+fFByS,pisa,,female ego's father's brother's son,,,BergKingemann2010,Inferred; NA
+fFZeS,pisa,,female ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+fFZyS,pisa,,female ego's father's sister's son,,,BergKingemann2010,Inferred; NA
+fFBeD,pisa,,female ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+fFByD,pisa,,female ego's father's brother's daughter,,,BergKingemann2010,Inferred; NA
+fFZeD,pisa,,female ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+fFZyD,pisa,,female ego's father's sister's daughter,,,BergKingemann2010,Inferred; NA
+fMBeS,pisa,,female ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+fMByS,pisa,,female ego's mother's brother's son,,,BergKingemann2010,Inferred; NA
+fMZeS,pisa,,female ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+fMZyS,pisa,,female ego's mother's sister's son,,,BergKingemann2010,Inferred; NA
+fMBeD,pisa,,female ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+fMByD,pisa,,female ego's mother's brother's daughter,,,BergKingemann2010,Inferred; NA
+fMZeD,pisa,,female ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
+fMZyD,pisa,,female ego's mother's sister's daughter,,,BergKingemann2010,Inferred; NA
