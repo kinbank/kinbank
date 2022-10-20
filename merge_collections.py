@@ -1,9 +1,13 @@
 import glob
 import os
-import fileinput
 from shutil import move
 from pathlib import Path
 import pandas as pd
+
+# for combining bibtex files
+import pybtex.errors
+pybtex.errors.strict = False
+from pybtex import database
 
 def new_path(path):
     return("/".join(Path(path).parts[2:]))
@@ -57,7 +61,18 @@ all_bibs = [
     "collections/goeldi/kinbank/raw/sources.bib"
 ]
 
+# combine bibtex files
+out_bib = ""
+for bib in all_bibs:
+    with open(bib) as infile:
+        bib_contents = infile.read()
+        out_bib += bib_contents
+
+# parse bibtex
+out_bib = database.parse_string(out_bib, bib_format= 'bibtex')
+out_bib.to_file('kinbank/raw/sources.bib', bib_format = 'bibtex')
+
 #combine all files in the list
-with open('kinbank/raw/sources.bib', 'w') as file:
-    input_lines = fileinput.input(all_bibs)
-    file.writelines(input_lines)
+# with open('kinbank/raw/sources.bib', 'w') as file:
+#     input_lines = fileinput.input(all_bibs)
+#     file.writelines(input_lines)
