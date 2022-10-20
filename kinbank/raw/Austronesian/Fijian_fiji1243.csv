@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tuakaqu,,male ego's older brother,,,nayacakalou1957a,
-myB,taciqu,,male ego's younger brother,,,nayacakalou1957a,
-feB,ganequ,,female ego's older brother,,,nayacakalou1957a,
-fyB,ganequ,,female ego's younger brother,,,nayacakalou1957a,
-meZ,genequ,,male ego's older sister,,,nayacakalou1957a,
-myZ,genequ,,male ego's younger sister,,,nayacakalou1957a,
-feZ,tuakaqu,,female ego's older sister,,,nayacakalou1957a,
-fyZ,taciqu,,female ego's younger sister,,,nayacakalou1957a,
-mF,tamaqu,,male ego's father,,,nayacakalou1957a,
-mM,tinaqu,,male ego's mother,,,nayacakalou1957a,
-fF,tamaqu,,female ego's father,,,nayacakalou1957a,
-fM,tinaqu,,female ego's mother,,,nayacakalou1957a,
-mS,luvequ,,male ego's son,,,nayacakalou1957a,
-fS,luvequ,,female ego's son,,,nayacakalou1957a,
-mD,luvequ,,male ego's daughter,,,nayacakalou1957a,
-fD,luvequ,,female ego's daughter,,,nayacakalou1957a,
-mSS,makubuqu,,male ego's son's son,,,nayacakalou1957a,
-mSD,makubuqu,,male ego's son's daughter,,,nayacakalou1957a,
-mDS,makubuqu,,male ego's daughter's son,,,nayacakalou1957a,
-mDD,makubuqu,,male ego's daughter's daughter,,,nayacakalou1957a,
-fSS,makubuqu,,female ego's son's son,,,nayacakalou1957a,
-fSD,makubuqu,,female ego's son's daughter,,,nayacakalou1957a,
-fDS,makubuqu,,female ego's daughter's son,,,nayacakalou1957a,
-fDD,makubuqu,,female ego's daugher's daughter,,,nayacakalou1957a,
-mFF,tubuqu,,male ego's father‘s father,,,nayacakalou1957a,
-mFM,buqu,,male ego's father's mother,,,nayacakalou1957a,
-mMF,tukaqu,,male ego's mother's father,,,nayacakalou1957a,
-mMM,buqu,,male ego's mother's mother,,,nayacakalou1957a,
-fFF,tubuqu,,female ego's father's father,,,nayacakalou1957a,
-fFM,buqu,,female ego's father's mother,,,nayacakalou1957a,
-fMF,tukaqu,,female ego's mother's father,,,nayacakalou1957a,
-fMM,buqu,,female ego's mother's mother,,,nayacakalou1957a,
-meBS,luvequ,,male ego's older brother's son,,,nayacakalou1957a,
-myBS,luvequ,,male ego's younger brother's son,,,nayacakalou1957a,
-meZS,"vugoqu, noqu vatuvu",,male ego's older sister's son,,,nayacakalou1957a,
-myZS,"vugoqu, noqu vatuvu",,male ego's younger sister's son,,,nayacakalou1957a,
-meBD,luvequ,,male ego's older brother's daughter,,,nayacakalou1957a,
-myBD,luvequ,,male ego's younger brother's daughter,,,nayacakalou1957a,
-meZD,"vugoqu, noqu vatuvu",,male ego's older sister's daughter,,,nayacakalou1957a,
-myZD,"vugoqu, noqu vatuvu",,male ego's younger sister's daughter,,,nayacakalou1957a,
-feBS,vugoqu,,female ego's older brother's son,,,nayacakalou1957a,
-fyBS,vugoqu,,female ego's younger brother's son,,,nayacakalou1957a,
-feZS,luvequ,,female ego's older sister's son,,,nayacakalou1957a,
-fyZS,luvequ,,female ego's younger sister's son,,,nayacakalou1957a,
-feBD,vugoqu,,female ego's older brother's daughter,,,nayacakalou1957a,
-fyBD,vugoqu,,female ego's younger brother's daughter,,,nayacakalou1957a,
-feZD,luvequ,,female ego's older sister's daughter,,,nayacakalou1957a,
-fyZD,luvequ,,female ego's younger sister's daughter,,,nayacakalou1957a,
-mFeB,tamaqu,,male ego's father's older brother,,,nayacakalou1957a,
-mFyB,tamaqu,,male ego's father's younger brother,,,nayacakalou1957a,
-mFeZ,"ganei, nei",,male ego's father's older sister,,,nayacakalou1957a,
-mFyZ,"ganei, nei",,male ego's father's younger sister,,,nayacakalou1957a,
-mMeB,momo,,male ego's mother's older brother,,,nayacakalou1957a,
-mMyB,momo,,male ego's mother's younger brother,,,nayacakalou1957a,
-mMeZ,tinaqu,,male ego's mother's older sister,,,nayacakalou1957a,
-mMyZ,tinaqu,,male ego's mother's younger sister,,,nayacakalou1957a,
-fFeB,tamaqu,,female ego's father's older brother,,,nayacakalou1957a,
-fFyB,tamaqu,,female ego's father's younger brother,,,nayacakalou1957a,
-fFeZ,"ganei, nei",,female ego's father's older sister,,,nayacakalou1957a,
-fFyZ,"ganei, nei",,female ego's father's younger sister,,,nayacakalou1957a,
-fMeB,momo,,female ego's mother's older brother,,,nayacakalou1957a,
-fMyB,momo,,female ego's mother's younger brother,,,nayacakalou1957a,
-fMeZ,tinaqu,,female ego's mother's older sister,,,nayacakalou1957a,
-fMyZ,tinaqu,,female ego's mother's younger sister,,,nayacakalou1957a,
-mW,watiqu,,male ego's wife,,,nayacakalou1957a,
-fH,watiqu,,female ego‘s husband,,,nayacakalou1957a,
-mDH,vugoqu,,male ego's daughter's husband,,,nayacakalou1957a,
-fDH,vugoqu,,female ego's daughter's husband,,,nayacakalou1957a,
-mSW,vugoqu,,male ego's son's wife,,,nayacakalou1957a,
-fSW,vugoqu,,female ego's son's wife,,,nayacakalou1957a,
-mWF,momo,,male ego's wife's father,,,nayacakalou1957a,
-mWM,"ganei, nei",,male ego's wife's mother,,,nayacakalou1957a,
-mWB,tavalequ,,male ego's wife's brother,,,nayacakalou1957a,
-mWZ,noqu daku,,male ego's wife's sister,,,nayacakalou1957a,
-fHF,momo,,female ego's husband's father,,,nayacakalou1957a,
-fHM,"ganei, nei",,female ego's husband's mother,,,nayacakalou1957a,
-fHB,noqu daku,,female ego's husband's brother,,,nayacakalou1957a,
-fHZ,raivaqu,,female ego's husband's sister,,,nayacakalou1957a,
-mBW,noqu daku,,male ego's brother's wife,,,nayacakalou1957a,
-fBW,raivaqu,,female ego's brother's wife,,,nayacakalou1957a,
-mZH,tavalequ,,male ego's sister's husband,,,nayacakalou1957a,
-fZH,noqu daku,,female ego's sister's husband,,,nayacakalou1957a,
-mFBS,"karuaqu, taciqu",,male ego's father's brother's son,,,nayacakalou1957a,
-mFZS,tavalequ,,male ego's father's sister's son,,,nayacakalou1957a,
-mMBS,tavalequ,,male ego's mother's brother's son,,,nayacakalou1957a,
-mMZS,"karuaqu, taciqu",,male ego's mother's sister's son,,,nayacakalou1957a,
-mFBD,"karuaqu, taciqu",,male ego's father's brother's daughter,,,nayacakalou1957a,
-mFZD,"davolaqu, watiqu",,male ego's father's sister's daughter,,,nayacakalou1957a,
-mMBD,"davolaqu, watiqu",,male ego's mother's brother's daughter,,,nayacakalou1957a,
-mMZD,"karuaqu, taciqu",,male ego's mother's sister's daughter,,,nayacakalou1957a,
-fFBS,"karuaqu, taciqu",,female ego's father's brother's son,,,nayacakalou1957a,
-fFZS,"davolaqu, watiqu",,female ego's father's sister's son,,,nayacakalou1957a,
-fMBS,"davolaqu, watiqu",,female ego's mother's brother's son,,,nayacakalou1957a,
-fMZS,"karuaqu, taciqu",,female ego's mother's sister's son,,,nayacakalou1957a,
-fFBD,"karuaqu, taciqu",,female ego's father's brother's daughter,,,nayacakalou1957a,
-fFZD,raivaqu,,female ego's father's sister's daughter,,,nayacakalou1957a,
-fMBD,raivaqu,,female ego's mother's brother's daughter,,,nayacakalou1957a,
-fMZD,"karuaqu, taciqu",,female ego's mother's sister's daughter,,,nayacakalou1957a,
-mFeBS,"karuaqu, taciqu",,male ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-mFyBS,"karuaqu, taciqu",,male ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-mFeZS,tavalequ,,male ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-mFyZS,tavalequ,,male ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-mFeBD,"karuaqu, taciqu",,male ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mFyBD,"karuaqu, taciqu",,male ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mFeZD,"davolaqu, watiqu",,male ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mFyZD,"davolaqu, watiqu",,male ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mMeBS,tavalequ,,male ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-mMyBS,tavalequ,,male ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-mMeZS,"karuaqu, taciqu",,male ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-mMyZS,"karuaqu, taciqu",,male ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-mMeBD,"davolaqu, watiqu",,male ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mMyBD,"davolaqu, watiqu",,male ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mMeZD,"karuaqu, taciqu",,male ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mMyZD,"karuaqu, taciqu",,male ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mFBeS,"karuaqu, taciqu",,male ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-mFByS,"karuaqu, taciqu",,male ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-mFZeS,tavalequ,,male ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-mFZyS,tavalequ,,male ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-mFBeD,"karuaqu, taciqu",,male ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mFByD,"karuaqu, taciqu",,male ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mFZeD,"davolaqu, watiqu",,male ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mFZyD,"davolaqu, watiqu",,male ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mMBeS,tavalequ,,male ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-mMByS,tavalequ,,male ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-mMZeS,"karuaqu, taciqu",,male ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-mMZyS,"karuaqu, taciqu",,male ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-mMBeD,"davolaqu, watiqu",,male ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mMByD,"davolaqu, watiqu",,male ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-mMZeD,"karuaqu, taciqu",,male ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-mMZyD,"karuaqu, taciqu",,male ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fFeBS,"karuaqu, taciqu",,female ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-fFyBS,"karuaqu, taciqu",,female ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-fFeZS,"davolaqu, watiqu",,female ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-fFyZS,"davolaqu, watiqu",,female ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-fFeBD,"karuaqu, taciqu",,female ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fFyBD,"karuaqu, taciqu",,female ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fFeZD,raivaqu,,female ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fFyZD,raivaqu,,female ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fMeBS,"davolaqu, watiqu",,female ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-fMyBS,"davolaqu, watiqu",,female ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-fMeZS,"karuaqu, taciqu",,female ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-fMyZS,"karuaqu, taciqu",,female ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-fMeBD,raivaqu,,female ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fMyBD,raivaqu,,female ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fMeZD,"karuaqu, taciqu",,female ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fMyZD,"karuaqu, taciqu",,female ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fFBeS,"karuaqu, taciqu",,female ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-fFByS,"karuaqu, taciqu",,female ego's father's brother's son,,,nayacakalou1957a,Inferred; NA
-fFZeS,"davolaqu, watiqu",,female ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-fFZyS,"davolaqu, watiqu",,female ego's father's sister's son,,,nayacakalou1957a,Inferred; NA
-fFBeD,"karuaqu, taciqu",,female ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fFByD,"karuaqu, taciqu",,female ego's father's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fFZeD,raivaqu,,female ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fFZyD,raivaqu,,female ego's father's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fMBeS,"davolaqu, watiqu",,female ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-fMByS,"davolaqu, watiqu",,female ego's mother's brother's son,,,nayacakalou1957a,Inferred; NA
-fMZeS,"karuaqu, taciqu",,female ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-fMZyS,"karuaqu, taciqu",,female ego's mother's sister's son,,,nayacakalou1957a,Inferred; NA
-fMBeD,raivaqu,,female ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fMByD,raivaqu,,female ego's mother's brother's daughter,,,nayacakalou1957a,Inferred; NA
-fMZeD,"karuaqu, taciqu",,female ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
-fMZyD,"karuaqu, taciqu",,female ego's mother's sister's daughter,,,nayacakalou1957a,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tuakaqu",,"male ego's older brother",,,"nayacakalou1957a",""
+"myB","taciqu",,"male ego's younger brother",,,"nayacakalou1957a",""
+"feB","ganequ",,"female ego's older brother",,,"nayacakalou1957a",""
+"fyB","ganequ",,"female ego's younger brother",,,"nayacakalou1957a",""
+"meZ","genequ",,"male ego's older sister",,,"nayacakalou1957a",""
+"myZ","genequ",,"male ego's younger sister",,,"nayacakalou1957a",""
+"feZ","tuakaqu",,"female ego's older sister",,,"nayacakalou1957a",""
+"fyZ","taciqu",,"female ego's younger sister",,,"nayacakalou1957a",""
+"mF","tamaqu",,"male ego's father",,,"nayacakalou1957a",""
+"mM","tinaqu",,"male ego's mother",,,"nayacakalou1957a",""
+"fF","tamaqu",,"female ego's father",,,"nayacakalou1957a",""
+"fM","tinaqu",,"female ego's mother",,,"nayacakalou1957a",""
+"mS","luvequ",,"male ego's son",,,"nayacakalou1957a",""
+"fS","luvequ",,"female ego's son",,,"nayacakalou1957a",""
+"mD","luvequ",,"male ego's daughter",,,"nayacakalou1957a",""
+"fD","luvequ",,"female ego's daughter",,,"nayacakalou1957a",""
+"mSS","makubuqu",,"male ego's son's son",,,"nayacakalou1957a",""
+"mSD","makubuqu",,"male ego's son's daughter",,,"nayacakalou1957a",""
+"mDS","makubuqu",,"male ego's daughter's son",,,"nayacakalou1957a",""
+"mDD","makubuqu",,"male ego's daughter's daughter",,,"nayacakalou1957a",""
+"fSS","makubuqu",,"female ego's son's son",,,"nayacakalou1957a",""
+"fSD","makubuqu",,"female ego's son's daughter",,,"nayacakalou1957a",""
+"fDS","makubuqu",,"female ego's daughter's son",,,"nayacakalou1957a",""
+"fDD","makubuqu",,"female ego's daugher's daughter",,,"nayacakalou1957a",""
+"mFF","tubuqu",,"male ego's father‘s father",,,"nayacakalou1957a",""
+"mFM","buqu",,"male ego's father's mother",,,"nayacakalou1957a",""
+"mMF","tukaqu",,"male ego's mother's father",,,"nayacakalou1957a",""
+"mMM","buqu",,"male ego's mother's mother",,,"nayacakalou1957a",""
+"fFF","tubuqu",,"female ego's father's father",,,"nayacakalou1957a",""
+"fFM","buqu",,"female ego's father's mother",,,"nayacakalou1957a",""
+"fMF","tukaqu",,"female ego's mother's father",,,"nayacakalou1957a",""
+"fMM","buqu",,"female ego's mother's mother",,,"nayacakalou1957a",""
+"meBS","luvequ",,"male ego's older brother's son",,,"nayacakalou1957a",""
+"myBS","luvequ",,"male ego's younger brother's son",,,"nayacakalou1957a",""
+"meZS","vugoqu, noqu vatuvu",,"male ego's older sister's son",,,"nayacakalou1957a",""
+"myZS","vugoqu, noqu vatuvu",,"male ego's younger sister's son",,,"nayacakalou1957a",""
+"meBD","luvequ",,"male ego's older brother's daughter",,,"nayacakalou1957a",""
+"myBD","luvequ",,"male ego's younger brother's daughter",,,"nayacakalou1957a",""
+"meZD","vugoqu, noqu vatuvu",,"male ego's older sister's daughter",,,"nayacakalou1957a",""
+"myZD","vugoqu, noqu vatuvu",,"male ego's younger sister's daughter",,,"nayacakalou1957a",""
+"feBS","vugoqu",,"female ego's older brother's son",,,"nayacakalou1957a",""
+"fyBS","vugoqu",,"female ego's younger brother's son",,,"nayacakalou1957a",""
+"feZS","luvequ",,"female ego's older sister's son",,,"nayacakalou1957a",""
+"fyZS","luvequ",,"female ego's younger sister's son",,,"nayacakalou1957a",""
+"feBD","vugoqu",,"female ego's older brother's daughter",,,"nayacakalou1957a",""
+"fyBD","vugoqu",,"female ego's younger brother's daughter",,,"nayacakalou1957a",""
+"feZD","luvequ",,"female ego's older sister's daughter",,,"nayacakalou1957a",""
+"fyZD","luvequ",,"female ego's younger sister's daughter",,,"nayacakalou1957a",""
+"mFeB","tamaqu",,"male ego's father's older brother",,,"nayacakalou1957a",""
+"mFyB","tamaqu",,"male ego's father's younger brother",,,"nayacakalou1957a",""
+"mFeZ","ganei, nei",,"male ego's father's older sister",,,"nayacakalou1957a",""
+"mFyZ","ganei, nei",,"male ego's father's younger sister",,,"nayacakalou1957a",""
+"mMeB","momo",,"male ego's mother's older brother",,,"nayacakalou1957a",""
+"mMyB","momo",,"male ego's mother's younger brother",,,"nayacakalou1957a",""
+"mMeZ","tinaqu",,"male ego's mother's older sister",,,"nayacakalou1957a",""
+"mMyZ","tinaqu",,"male ego's mother's younger sister",,,"nayacakalou1957a",""
+"fFeB","tamaqu",,"female ego's father's older brother",,,"nayacakalou1957a",""
+"fFyB","tamaqu",,"female ego's father's younger brother",,,"nayacakalou1957a",""
+"fFeZ","ganei, nei",,"female ego's father's older sister",,,"nayacakalou1957a",""
+"fFyZ","ganei, nei",,"female ego's father's younger sister",,,"nayacakalou1957a",""
+"fMeB","momo",,"female ego's mother's older brother",,,"nayacakalou1957a",""
+"fMyB","momo",,"female ego's mother's younger brother",,,"nayacakalou1957a",""
+"fMeZ","tinaqu",,"female ego's mother's older sister",,,"nayacakalou1957a",""
+"fMyZ","tinaqu",,"female ego's mother's younger sister",,,"nayacakalou1957a",""
+"mW","watiqu",,"male ego's wife",,,"nayacakalou1957a",""
+"fH","watiqu",,"female ego‘s husband",,,"nayacakalou1957a",""
+"mDH","vugoqu",,"male ego's daughter's husband",,,"nayacakalou1957a",""
+"fDH","vugoqu",,"female ego's daughter's husband",,,"nayacakalou1957a",""
+"mSW","vugoqu",,"male ego's son's wife",,,"nayacakalou1957a",""
+"fSW","vugoqu",,"female ego's son's wife",,,"nayacakalou1957a",""
+"mWF","momo",,"male ego's wife's father",,,"nayacakalou1957a",""
+"mWM","ganei, nei",,"male ego's wife's mother",,,"nayacakalou1957a",""
+"mWB","tavalequ",,"male ego's wife's brother",,,"nayacakalou1957a",""
+"mWZ","noqu daku",,"male ego's wife's sister",,,"nayacakalou1957a",""
+"fHF","momo",,"female ego's husband's father",,,"nayacakalou1957a",""
+"fHM","ganei, nei",,"female ego's husband's mother",,,"nayacakalou1957a",""
+"fHB","noqu daku",,"female ego's husband's brother",,,"nayacakalou1957a",""
+"fHZ","raivaqu",,"female ego's husband's sister",,,"nayacakalou1957a",""
+"mBW","noqu daku",,"male ego's brother's wife",,,"nayacakalou1957a",""
+"fBW","raivaqu",,"female ego's brother's wife",,,"nayacakalou1957a",""
+"mZH","tavalequ",,"male ego's sister's husband",,,"nayacakalou1957a",""
+"fZH","noqu daku",,"female ego's sister's husband",,,"nayacakalou1957a",""
+"mFBS","karuaqu, taciqu",,"male ego's father's brother's son",,,"nayacakalou1957a",""
+"mFZS","tavalequ",,"male ego's father's sister's son",,,"nayacakalou1957a",""
+"mMBS","tavalequ",,"male ego's mother's brother's son",,,"nayacakalou1957a",""
+"mMZS","karuaqu, taciqu",,"male ego's mother's sister's son",,,"nayacakalou1957a",""
+"mFBD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,"nayacakalou1957a",""
+"mFZD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,"nayacakalou1957a",""
+"mMBD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,"nayacakalou1957a",""
+"mMZD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,"nayacakalou1957a",""
+"fFBS","karuaqu, taciqu",,"female ego's father's brother's son",,,"nayacakalou1957a",""
+"fFZS","davolaqu, watiqu",,"female ego's father's sister's son",,,"nayacakalou1957a",""
+"fMBS","davolaqu, watiqu",,"female ego's mother's brother's son",,,"nayacakalou1957a",""
+"fMZS","karuaqu, taciqu",,"female ego's mother's sister's son",,,"nayacakalou1957a",""
+"fFBD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,"nayacakalou1957a",""
+"fFZD","raivaqu",,"female ego's father's sister's daughter",,,"nayacakalou1957a",""
+"fMBD","raivaqu",,"female ego's mother's brother's daughter",,,"nayacakalou1957a",""
+"fMZD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,"nayacakalou1957a",""
+"mFeBS","karuaqu, taciqu",,"male ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mFyBS","karuaqu, taciqu",,"male ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mFeZS","tavalequ",,"male ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mFyZS","tavalequ",,"male ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mFeBD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFyBD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFeZD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFyZD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMeBS","tavalequ",,"male ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mMyBS","tavalequ",,"male ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mMeZS","karuaqu, taciqu",,"male ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mMyZS","karuaqu, taciqu",,"male ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mMeBD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMyBD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMeZD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMyZD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFBeS","karuaqu, taciqu",,"male ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mFByS","karuaqu, taciqu",,"male ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mFZeS","tavalequ",,"male ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mFZyS","tavalequ",,"male ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mFBeD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFByD","karuaqu, taciqu",,"male ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFZeD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mFZyD","davolaqu, watiqu",,"male ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMBeS","tavalequ",,"male ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mMByS","tavalequ",,"male ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"mMZeS","karuaqu, taciqu",,"male ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mMZyS","karuaqu, taciqu",,"male ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"mMBeD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMByD","davolaqu, watiqu",,"male ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMZeD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"mMZyD","karuaqu, taciqu",,"male ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFeBS","karuaqu, taciqu",,"female ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fFyBS","karuaqu, taciqu",,"female ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fFeZS","davolaqu, watiqu",,"female ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fFyZS","davolaqu, watiqu",,"female ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fFeBD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFyBD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFeZD","raivaqu",,"female ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFyZD","raivaqu",,"female ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMeBS","davolaqu, watiqu",,"female ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fMyBS","davolaqu, watiqu",,"female ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fMeZS","karuaqu, taciqu",,"female ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fMyZS","karuaqu, taciqu",,"female ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fMeBD","raivaqu",,"female ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMyBD","raivaqu",,"female ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMeZD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMyZD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFBeS","karuaqu, taciqu",,"female ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fFByS","karuaqu, taciqu",,"female ego's father's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fFZeS","davolaqu, watiqu",,"female ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fFZyS","davolaqu, watiqu",,"female ego's father's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fFBeD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFByD","karuaqu, taciqu",,"female ego's father's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFZeD","raivaqu",,"female ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fFZyD","raivaqu",,"female ego's father's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMBeS","davolaqu, watiqu",,"female ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fMByS","davolaqu, watiqu",,"female ego's mother's brother's son",,,"nayacakalou1957a","Inferred; NA"
+"fMZeS","karuaqu, taciqu",,"female ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fMZyS","karuaqu, taciqu",,"female ego's mother's sister's son",,,"nayacakalou1957a","Inferred; NA"
+"fMBeD","raivaqu",,"female ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMByD","raivaqu",,"female ego's mother's brother's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMZeD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"
+"fMZyD","karuaqu, taciqu",,"female ego's mother's sister's daughter",,,"nayacakalou1957a","Inferred; NA"

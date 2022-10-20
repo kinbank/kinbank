@@ -1,117 +1,117 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,pwiipwi,,male ego's older brother,,,Odango2015,
-myB,pwiipwi,,male ego's younger brother,,,Odango2015,
-feB,mwengeang,,female ego's older brother,,,Odango2015,
-fyB,mwengeang,,female ego's younger brother,,,Odango2015,
-meZ,mwengeang,,male ego's older sister,,,Odango2015,
-myZ,mwengeang,,male ego's younger sister,,,Odango2015,
-feZ,pwiipwi,,female ego's older sister,,,Odango2015,
-fyZ,pwiipwi,,female ego's younger sister,,,Odango2015,
-mF,saam,,male ego's father,,,Odango2015,
-mM,iin,,male ego's mother,,,Odango2015,
-fF,saam,,female ego's father,,,Odango2015,
-fM,iin,,female ego's mother,,,Odango2015,
-mFF,samelap,,male ego's father‘s father,,,Odango2015,
-mFM,inelap,,male ego's father's mother,,,Odango2015,
-mMF,samelap,,male ego's mother's father,,,Odango2015,
-mMM,inelap,,male ego's mother's mother,,,Odango2015,
-fFF,samelap,,female ego's father's father,,,Odango2015,
-fFM,inelap,,female ego's father's mother,,,Odango2015,
-fMF,samelap,,female ego's mother's father,,,Odango2015,
-fMM,inelap,,female ego's mother's mother,,,Odango2015,
-mFeB,tattalin saam,,male ego's father's older brother,,,Odango2015,
-mFyB,tattalin saam,,male ego's father's younger brother,,,Odango2015,
-mFeZ,tattalin iin,,male ego's father's older sister,,,Odango2015,
-mFyZ,tattalin iin,,male ego's father's younger sister,,,Odango2015,
-mMeB,tattalin saam,,male ego's mother's older brother,,,Odango2015,
-mMyB,tattalin saam,,male ego's mother's younger brother,,,Odango2015,
-mMeZ,tattalin iin,,male ego's mother's older sister,,,Odango2015,
-mMyZ,tattalin iin,,male ego's mother's younger sister,,,Odango2015,
-fFeB,tattalin saam,,female ego's father's older brother,,,Odango2015,
-fFyB,tattalin saam,,female ego's father's younger brother,,,Odango2015,
-fFeZ,tattalin iin,,female ego's father's older sister,,,Odango2015,
-fFyZ,tattalin iin,,female ego's father's younger sister,,,Odango2015,
-fMeB,tattalin saam,,female ego's mother's older brother,,,Odango2015,
-fMyB,tattalin saam,,female ego's mother's younger brother,,,Odango2015,
-fMeZ,tattalin iin,,female ego's mother's older sister,,,Odango2015,
-fMyZ,tattalin iin,,female ego's mother's younger sister,,,Odango2015,
-mFBS,tattalin pwiipwi,,male ego's father's brother's son,,,Odango2015,
-mFZS,tattalin pwiipwi,,male ego's father's sister's son,,,Odango2015,
-mMBS,tattalin pwiipwi,,male ego's mother's brother's son,,,Odango2015,
-mMZS,tattalin pwiipwi,,male ego's mother's sister's son,,,Odango2015,
-mFBD,tattalin mwengeang,,male ego's father's brother's daughter,,,Odango2015,
-mFZD,tattalin mwengeang,,male ego's father's sister's daughter,,,Odango2015,
-mMBD,tattalin mwengeang,,male ego's mother's brother's daughter,,,Odango2015,
-mMZD,tattalin mwengeang,,male ego's mother's sister's daughter,,,Odango2015,
-fFBS,tattalin pwiipwi,,female ego's father's brother's son,,,Odango2015,
-fFZS,tattalin pwiipwi,,female ego's father's sister's son,,,Odango2015,
-fMBS,tattalin pwiipwi,,female ego's mother's brother's son,,,Odango2015,
-fMZS,tattalin pwiipwi,,female ego's mother's sister's son,,,Odango2015,
-fFBD,tattalin mwengeang,,female ego's father's brother's daughter,,,Odango2015,
-fFZD,tattalin mwengeang,,female ego's father's sister's daughter,,,Odango2015,
-fMBD,tattalin mwengeang,,female ego's mother's brother's daughter,,,Odango2015,
-fMZD,tattalin mwengeang,,female ego's mother's sister's daughter,,,Odango2015,
-mFeBS,tattalin pwiipwi,,male ego's father's brother's son,,,Odango2015,Inferred; NA
-mFyBS,tattalin pwiipwi,,male ego's father's brother's son,,,Odango2015,Inferred; NA
-mFeZS,tattalin pwiipwi,,male ego's father's sister's son,,,Odango2015,Inferred; NA
-mFyZS,tattalin pwiipwi,,male ego's father's sister's son,,,Odango2015,Inferred; NA
-mFeBD,tattalin mwengeang,,male ego's father's brother's daughter,,,Odango2015,Inferred; NA
-mFyBD,tattalin mwengeang,,male ego's father's brother's daughter,,,Odango2015,Inferred; NA
-mFeZD,tattalin mwengeang,,male ego's father's sister's daughter,,,Odango2015,Inferred; NA
-mFyZD,tattalin mwengeang,,male ego's father's sister's daughter,,,Odango2015,Inferred; NA
-mMeBS,tattalin pwiipwi,,male ego's mother's brother's son,,,Odango2015,Inferred; NA
-mMyBS,tattalin pwiipwi,,male ego's mother's brother's son,,,Odango2015,Inferred; NA
-mMeZS,tattalin pwiipwi,,male ego's mother's sister's son,,,Odango2015,Inferred; NA
-mMyZS,tattalin pwiipwi,,male ego's mother's sister's son,,,Odango2015,Inferred; NA
-mMeBD,tattalin mwengeang,,male ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-mMyBD,tattalin mwengeang,,male ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-mMeZD,tattalin mwengeang,,male ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-mMyZD,tattalin mwengeang,,male ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-mFBeS,tattalin pwiipwi,,male ego's father's brother's son,,,Odango2015,Inferred; NA
-mFByS,tattalin pwiipwi,,male ego's father's brother's son,,,Odango2015,Inferred; NA
-mFZeS,tattalin pwiipwi,,male ego's father's sister's son,,,Odango2015,Inferred; NA
-mFZyS,tattalin pwiipwi,,male ego's father's sister's son,,,Odango2015,Inferred; NA
-mFBeD,tattalin mwengeang,,male ego's father's brother's daughter,,,Odango2015,Inferred; NA
-mFByD,tattalin mwengeang,,male ego's father's brother's daughter,,,Odango2015,Inferred; NA
-mFZeD,tattalin mwengeang,,male ego's father's sister's daughter,,,Odango2015,Inferred; NA
-mFZyD,tattalin mwengeang,,male ego's father's sister's daughter,,,Odango2015,Inferred; NA
-mMBeS,tattalin pwiipwi,,male ego's mother's brother's son,,,Odango2015,Inferred; NA
-mMByS,tattalin pwiipwi,,male ego's mother's brother's son,,,Odango2015,Inferred; NA
-mMZeS,tattalin pwiipwi,,male ego's mother's sister's son,,,Odango2015,Inferred; NA
-mMZyS,tattalin pwiipwi,,male ego's mother's sister's son,,,Odango2015,Inferred; NA
-mMBeD,tattalin mwengeang,,male ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-mMByD,tattalin mwengeang,,male ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-mMZeD,tattalin mwengeang,,male ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-mMZyD,tattalin mwengeang,,male ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-fFeBS,tattalin pwiipwi,,female ego's father's brother's son,,,Odango2015,Inferred; NA
-fFyBS,tattalin pwiipwi,,female ego's father's brother's son,,,Odango2015,Inferred; NA
-fFeZS,tattalin pwiipwi,,female ego's father's sister's son,,,Odango2015,Inferred; NA
-fFyZS,tattalin pwiipwi,,female ego's father's sister's son,,,Odango2015,Inferred; NA
-fFeBD,tattalin mwengeang,,female ego's father's brother's daughter,,,Odango2015,Inferred; NA
-fFyBD,tattalin mwengeang,,female ego's father's brother's daughter,,,Odango2015,Inferred; NA
-fFeZD,tattalin mwengeang,,female ego's father's sister's daughter,,,Odango2015,Inferred; NA
-fFyZD,tattalin mwengeang,,female ego's father's sister's daughter,,,Odango2015,Inferred; NA
-fMeBS,tattalin pwiipwi,,female ego's mother's brother's son,,,Odango2015,Inferred; NA
-fMyBS,tattalin pwiipwi,,female ego's mother's brother's son,,,Odango2015,Inferred; NA
-fMeZS,tattalin pwiipwi,,female ego's mother's sister's son,,,Odango2015,Inferred; NA
-fMyZS,tattalin pwiipwi,,female ego's mother's sister's son,,,Odango2015,Inferred; NA
-fMeBD,tattalin mwengeang,,female ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-fMyBD,tattalin mwengeang,,female ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-fMeZD,tattalin mwengeang,,female ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-fMyZD,tattalin mwengeang,,female ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-fFBeS,tattalin pwiipwi,,female ego's father's brother's son,,,Odango2015,Inferred; NA
-fFByS,tattalin pwiipwi,,female ego's father's brother's son,,,Odango2015,Inferred; NA
-fFZeS,tattalin pwiipwi,,female ego's father's sister's son,,,Odango2015,Inferred; NA
-fFZyS,tattalin pwiipwi,,female ego's father's sister's son,,,Odango2015,Inferred; NA
-fFBeD,tattalin mwengeang,,female ego's father's brother's daughter,,,Odango2015,Inferred; NA
-fFByD,tattalin mwengeang,,female ego's father's brother's daughter,,,Odango2015,Inferred; NA
-fFZeD,tattalin mwengeang,,female ego's father's sister's daughter,,,Odango2015,Inferred; NA
-fFZyD,tattalin mwengeang,,female ego's father's sister's daughter,,,Odango2015,Inferred; NA
-fMBeS,tattalin pwiipwi,,female ego's mother's brother's son,,,Odango2015,Inferred; NA
-fMByS,tattalin pwiipwi,,female ego's mother's brother's son,,,Odango2015,Inferred; NA
-fMZeS,tattalin pwiipwi,,female ego's mother's sister's son,,,Odango2015,Inferred; NA
-fMZyS,tattalin pwiipwi,,female ego's mother's sister's son,,,Odango2015,Inferred; NA
-fMBeD,tattalin mwengeang,,female ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-fMByD,tattalin mwengeang,,female ego's mother's brother's daughter,,,Odango2015,Inferred; NA
-fMZeD,tattalin mwengeang,,female ego's mother's sister's daughter,,,Odango2015,Inferred; NA
-fMZyD,tattalin mwengeang,,female ego's mother's sister's daughter,,,Odango2015,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","pwiipwi",,"male ego's older brother",,,"Odango2015",""
+"myB","pwiipwi",,"male ego's younger brother",,,"Odango2015",""
+"feB","mwengeang",,"female ego's older brother",,,"Odango2015",""
+"fyB","mwengeang",,"female ego's younger brother",,,"Odango2015",""
+"meZ","mwengeang",,"male ego's older sister",,,"Odango2015",""
+"myZ","mwengeang",,"male ego's younger sister",,,"Odango2015",""
+"feZ","pwiipwi",,"female ego's older sister",,,"Odango2015",""
+"fyZ","pwiipwi",,"female ego's younger sister",,,"Odango2015",""
+"mF","saam",,"male ego's father",,,"Odango2015",""
+"mM","iin",,"male ego's mother",,,"Odango2015",""
+"fF","saam",,"female ego's father",,,"Odango2015",""
+"fM","iin",,"female ego's mother",,,"Odango2015",""
+"mFF","samelap",,"male ego's father‘s father",,,"Odango2015",""
+"mFM","inelap",,"male ego's father's mother",,,"Odango2015",""
+"mMF","samelap",,"male ego's mother's father",,,"Odango2015",""
+"mMM","inelap",,"male ego's mother's mother",,,"Odango2015",""
+"fFF","samelap",,"female ego's father's father",,,"Odango2015",""
+"fFM","inelap",,"female ego's father's mother",,,"Odango2015",""
+"fMF","samelap",,"female ego's mother's father",,,"Odango2015",""
+"fMM","inelap",,"female ego's mother's mother",,,"Odango2015",""
+"mFeB","tattalin saam",,"male ego's father's older brother",,,"Odango2015",""
+"mFyB","tattalin saam",,"male ego's father's younger brother",,,"Odango2015",""
+"mFeZ","tattalin iin",,"male ego's father's older sister",,,"Odango2015",""
+"mFyZ","tattalin iin",,"male ego's father's younger sister",,,"Odango2015",""
+"mMeB","tattalin saam",,"male ego's mother's older brother",,,"Odango2015",""
+"mMyB","tattalin saam",,"male ego's mother's younger brother",,,"Odango2015",""
+"mMeZ","tattalin iin",,"male ego's mother's older sister",,,"Odango2015",""
+"mMyZ","tattalin iin",,"male ego's mother's younger sister",,,"Odango2015",""
+"fFeB","tattalin saam",,"female ego's father's older brother",,,"Odango2015",""
+"fFyB","tattalin saam",,"female ego's father's younger brother",,,"Odango2015",""
+"fFeZ","tattalin iin",,"female ego's father's older sister",,,"Odango2015",""
+"fFyZ","tattalin iin",,"female ego's father's younger sister",,,"Odango2015",""
+"fMeB","tattalin saam",,"female ego's mother's older brother",,,"Odango2015",""
+"fMyB","tattalin saam",,"female ego's mother's younger brother",,,"Odango2015",""
+"fMeZ","tattalin iin",,"female ego's mother's older sister",,,"Odango2015",""
+"fMyZ","tattalin iin",,"female ego's mother's younger sister",,,"Odango2015",""
+"mFBS","tattalin pwiipwi",,"male ego's father's brother's son",,,"Odango2015",""
+"mFZS","tattalin pwiipwi",,"male ego's father's sister's son",,,"Odango2015",""
+"mMBS","tattalin pwiipwi",,"male ego's mother's brother's son",,,"Odango2015",""
+"mMZS","tattalin pwiipwi",,"male ego's mother's sister's son",,,"Odango2015",""
+"mFBD","tattalin mwengeang",,"male ego's father's brother's daughter",,,"Odango2015",""
+"mFZD","tattalin mwengeang",,"male ego's father's sister's daughter",,,"Odango2015",""
+"mMBD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,"Odango2015",""
+"mMZD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,"Odango2015",""
+"fFBS","tattalin pwiipwi",,"female ego's father's brother's son",,,"Odango2015",""
+"fFZS","tattalin pwiipwi",,"female ego's father's sister's son",,,"Odango2015",""
+"fMBS","tattalin pwiipwi",,"female ego's mother's brother's son",,,"Odango2015",""
+"fMZS","tattalin pwiipwi",,"female ego's mother's sister's son",,,"Odango2015",""
+"fFBD","tattalin mwengeang",,"female ego's father's brother's daughter",,,"Odango2015",""
+"fFZD","tattalin mwengeang",,"female ego's father's sister's daughter",,,"Odango2015",""
+"fMBD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,"Odango2015",""
+"fMZD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,"Odango2015",""
+"mFeBS","tattalin pwiipwi",,"male ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"mFyBS","tattalin pwiipwi",,"male ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"mFeZS","tattalin pwiipwi",,"male ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"mFyZS","tattalin pwiipwi",,"male ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"mFeBD","tattalin mwengeang",,"male ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"mFyBD","tattalin mwengeang",,"male ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"mFeZD","tattalin mwengeang",,"male ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"mFyZD","tattalin mwengeang",,"male ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"mMeBS","tattalin pwiipwi",,"male ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"mMyBS","tattalin pwiipwi",,"male ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"mMeZS","tattalin pwiipwi",,"male ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"mMyZS","tattalin pwiipwi",,"male ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"mMeBD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"mMyBD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"mMeZD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"mMyZD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"mFBeS","tattalin pwiipwi",,"male ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"mFByS","tattalin pwiipwi",,"male ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"mFZeS","tattalin pwiipwi",,"male ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"mFZyS","tattalin pwiipwi",,"male ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"mFBeD","tattalin mwengeang",,"male ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"mFByD","tattalin mwengeang",,"male ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"mFZeD","tattalin mwengeang",,"male ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"mFZyD","tattalin mwengeang",,"male ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"mMBeS","tattalin pwiipwi",,"male ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"mMByS","tattalin pwiipwi",,"male ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"mMZeS","tattalin pwiipwi",,"male ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"mMZyS","tattalin pwiipwi",,"male ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"mMBeD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"mMByD","tattalin mwengeang",,"male ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"mMZeD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"mMZyD","tattalin mwengeang",,"male ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"fFeBS","tattalin pwiipwi",,"female ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"fFyBS","tattalin pwiipwi",,"female ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"fFeZS","tattalin pwiipwi",,"female ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"fFyZS","tattalin pwiipwi",,"female ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"fFeBD","tattalin mwengeang",,"female ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"fFyBD","tattalin mwengeang",,"female ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"fFeZD","tattalin mwengeang",,"female ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"fFyZD","tattalin mwengeang",,"female ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"fMeBS","tattalin pwiipwi",,"female ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"fMyBS","tattalin pwiipwi",,"female ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"fMeZS","tattalin pwiipwi",,"female ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"fMyZS","tattalin pwiipwi",,"female ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"fMeBD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"fMyBD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"fMeZD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"fMyZD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"fFBeS","tattalin pwiipwi",,"female ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"fFByS","tattalin pwiipwi",,"female ego's father's brother's son",,,"Odango2015","Inferred; NA"
+"fFZeS","tattalin pwiipwi",,"female ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"fFZyS","tattalin pwiipwi",,"female ego's father's sister's son",,,"Odango2015","Inferred; NA"
+"fFBeD","tattalin mwengeang",,"female ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"fFByD","tattalin mwengeang",,"female ego's father's brother's daughter",,,"Odango2015","Inferred; NA"
+"fFZeD","tattalin mwengeang",,"female ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"fFZyD","tattalin mwengeang",,"female ego's father's sister's daughter",,,"Odango2015","Inferred; NA"
+"fMBeS","tattalin pwiipwi",,"female ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"fMByS","tattalin pwiipwi",,"female ego's mother's brother's son",,,"Odango2015","Inferred; NA"
+"fMZeS","tattalin pwiipwi",,"female ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"fMZyS","tattalin pwiipwi",,"female ego's mother's sister's son",,,"Odango2015","Inferred; NA"
+"fMBeD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"fMByD","tattalin mwengeang",,"female ego's mother's brother's daughter",,,"Odango2015","Inferred; NA"
+"fMZeD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"
+"fMZyD","tattalin mwengeang",,"female ego's mother's sister's daughter",,,"Odango2015","Inferred; NA"

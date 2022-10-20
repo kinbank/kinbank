@@ -1,161 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"yangone, yangonge",,male ego's older brother,,,Draper2002,
-myB,"yangone, yangonge",,male ego's younger brother,,,Draper2002,
-feB,"pemalene, pemalenge",,female ego's older brother,,,Draper2002,
-fyB,"pemalene, pemalenge",,female ego's younger brother,,,Draper2002,
-meZ,"pemalene, pemalenge",,male ego's older sister,,,Draper2002,
-myZ,"pemalene, pemalenge",,male ego's younger sister,,,Draper2002,
-feZ,"kakingi, kakinyi",,female ego's older sister,,,Draper2002,
-fyZ,"kakingi, kakinyi",,female ego's younger sister,,,Draper2002,
-mF,"rakane, rakange",,male ego's father,,,Draper2002,
-mM,"anyi, endangi",,male ego's mother,,,Draper2002,
-fF,"rakane, rakange",,female ego's father,,,Draper2002,
-fM,"anyi, endangi",,female ego's mother,,,Draper2002,
-mS,"anyi, ikini, ikininyi, ikiningi, wane",,male ego's son,,,Draper2002,
-fS,"anyi, ikini, ikininyi, ikiningi, wane",,female ego's son,,,Draper2002,
-mD,"anyi, wanake, wanaku",,male ego's daughter,,,Draper2002,
-fD,"anyi, wanake, wanaku",,female ego's daughter,,,Draper2002,
-mSS,"apu, apusi, apusingi, kawu, kawuange",,male ego's son's son,,,Draper2002,
-mSD,"apu, apusi, apusingi, kawu, kawuange",,male ego's son's daughter,,,Draper2002,
-mDS,"apu, apusi, apusingi, kawu, kawuange",,male ego's daughter's son,,,Draper2002,
-mDD,"apu, apusi, apusingi, kawu, kawuange",,male ego's daughter's daughter,,,Draper2002,
-fSS,"apu, apusi, apusingi, kawu, kawuange",,female ego's son's son,,,Draper2002,
-fSD,"apu, apusi, apusingi, kawu, kawuange",,female ego's son's daughter,,,Draper2002,
-fDS,"apu, apusi, apusingi, kawu, kawuange",,female ego's daughter's son,,,Draper2002,
-fDD,"apu, apusi, apusingi, kawu, kawuange",,female ego's daugher's daughter,,,Draper2002,
-mFF,kawua,,male ego's father‘s father,,,Draper2002,
-mFM,"apu, apusi, apusingi",,male ego's father's mother,,,Draper2002,
-mMF,kawua,,male ego's mother's father,,,Draper2002,
-mMM,"apu, apusi, apusingi",,male ego's mother's mother,,,Draper2002,
-fFF,kawua,,female ego's father's father,,,Draper2002,
-fFM,"apu, apusi, apusingi",,female ego's father's mother,,,Draper2002,
-fMF,kawua,,female ego's mother's father,,,Draper2002,
-fMM,"apu, apusi",,female ego's mother's mother,,,Draper2002,
-meBS,"apa, apange",,male ego's older brother's son,,,Draper2002,
-myBS,"apa, apange",,male ego's younger brother's son,,,Draper2002,
-meZS,"apa, apange, arange, ata",,male ego's older sister's son,,,Draper2002,
-myZS,"apa, apange, arange, ata",,male ego's younger sister's son,,,Draper2002,
-meBD,"anyi, apa, apange",,male ego's older brother's daughter,,,Draper2002,
-myBD,"anyi, apa, apange",,male ego's younger brother's daughter,,,Draper2002,
-meZD,"anyi, apa, apange, arange, ata",,male ego's older sister's daughter,,,Draper2002,
-myZD,"anyi, apa, apange, arange, ata",,male ego's younger sister's daughter,,,Draper2002,
-feBS,"apa, apange",,female ego's older brother's son,,,Draper2002,
-fyBS,"apa, apange",,female ego's younger brother's son,,,Draper2002,
-feZS,"apa, apange, arange, ata",,female ego's older sister's son,,,Draper2002,
-fyZS,"apa, apange, arange, ata",,female ego's younger sister's son,,,Draper2002,
-feBD,"anyi, apa, apange",,female ego's older brother's daughter,,,Draper2002,
-fyBD,"anyi, apa, apange",,female ego's younger brother's daughter,,,Draper2002,
-feZD,"apa, apange, arange, ata",,female ego's older sister's daughter,,,Draper2002,
-fyZD,"apa, apange, arange, ata",,female ego's younger sister's daughter,,,Draper2002,
-mFeB,"apa, apange",,male ego's father's older brother,,,Draper2002,
-mFyB,"apa, apange",,male ego's father's younger brother,,,Draper2002,
-mFeZ,"arange, ata",,male ego's father's older sister,,,Draper2002,
-mFyZ,"arange, ata",,male ego's father's younger sister,,,Draper2002,
-mMeB,"apa, apange",,male ego's mother's older brother,,,Draper2002,
-mMyB,"apa, apange",,male ego's mother's younger brother,,,Draper2002,
-mMeZ,anyi,,male ego's mother's older sister,,,Draper2002,
-mMyZ,anyi,,male ego's mother's younger sister,,,Draper2002,
-fFeB,"apa, apange",,female ego's father's older brother,,,Draper2002,
-fFyB,"apa, apange",,female ego's father's younger brother,,,Draper2002,
-fFeZ,"arange, ata",,female ego's father's older sister,,,Draper2002,
-fFyZ,"arange, ata",,female ego's father's younger sister,,,Draper2002,
-fMeB,"apa, apange",,female ego's mother's older brother,,,Draper2002,
-fMyB,"apa, apange",,female ego's mother's younger brother,,,Draper2002,
-fMeZ,anyi,,female ego's mother's older sister,,,Draper2002,
-fMyZ,anyi,,female ego's mother's younger sister,,,Draper2002,
-mW,"enda, eranenge, etene, etenge",,male ego's wife,,,Draper2002,
-fH,"akali, akalingi, akalinyi",,female ego‘s husband,,,Draper2002,
-mDH,imange,,male ego's daughter's husband,,,Draper2002,
-fDH,imange,,female ego's daughter's husband,,,Draper2002,
-mSW,"aeya, aeyange",,male ego's son's wife,,,Draper2002,
-fSW,"aeya, aeyange",,female ego's son's wife,,,Draper2002,
-mWF,imange,,male ego's wife's father,,,Draper2002,
-mWM,imange,,male ego's wife's mother,,,Draper2002,
-mWB,"akalingi lyange, pali, palingi",,male ego's wife's brother,,,Draper2002,
-mWZ,akalingi lyange,,male ego's wife's sister,,,Draper2002,
-fHF,"imange, kawuange",,female ego's husband's father,,,Draper2002,
-fHM,"aeya, aeyange",,female ego's husband's mother,,,Draper2002,
-fHB,akalingi lyange,,female ego's husband's brother,,,Draper2002,
-fHZ,"pili, pilingi",,female ego's husband's sister,,,Draper2002,
-mBW,akalingi lyange,,male ego's brother's wife,,,Draper2002,
-fBW,akalingi lyange,,female ego's brother's wife,,,Draper2002,
-mFBS,"kaingi, kaingi, yangone, yangonge",,male ego's father's brother's son,,,Draper2002,
-mFZS,"kaingi, kaingi, yangone, yangonge",,male ego's father's sister's son,,,Draper2002,
-mMBS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's brother's son,,,Draper2002,
-mMZS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's sister's son,,,Draper2002,
-mFBD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's brother's daughter,,,Draper2002,
-mFZD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's sister's daughter,,,Draper2002,
-mMBD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's brother's daughter,,,Draper2002,
-mMZD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's sister's daughter,,,Draper2002,
-fFBS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's brother's son,,,Draper2002,
-fFZS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's sister's son,,,Draper2002,
-fMBS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's brother's son,,,Draper2002,
-fMZS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's sister's son,,,Draper2002,
-fFBD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's brother's daughter,,,Draper2002,
-fFZD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's sister's daughter,,,Draper2002,
-fMBD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's brother's daughter,,,Draper2002,
-fMZD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's sister's daughter,,,Draper2002,
-mFeBS,"kaingi, kaingi, yangone, yangonge",,male ego's father's brother's son,,,Draper2002,Inferred; NA
-mFyBS,"kaingi, kaingi, yangone, yangonge",,male ego's father's brother's son,,,Draper2002,Inferred; NA
-mFeZS,"kaingi, kaingi, yangone, yangonge",,male ego's father's sister's son,,,Draper2002,Inferred; NA
-mFyZS,"kaingi, kaingi, yangone, yangonge",,male ego's father's sister's son,,,Draper2002,Inferred; NA
-mFeBD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's brother's daughter,,,Draper2002,Inferred; NA
-mFyBD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's brother's daughter,,,Draper2002,Inferred; NA
-mFeZD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's sister's daughter,,,Draper2002,Inferred; NA
-mFyZD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's sister's daughter,,,Draper2002,Inferred; NA
-mMeBS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's brother's son,,,Draper2002,Inferred; NA
-mMyBS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's brother's son,,,Draper2002,Inferred; NA
-mMeZS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's sister's son,,,Draper2002,Inferred; NA
-mMyZS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's sister's son,,,Draper2002,Inferred; NA
-mMeBD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-mMyBD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-mMeZD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-mMyZD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-mFBeS,"kaingi, kaingi, yangone, yangonge",,male ego's father's brother's son,,,Draper2002,Inferred; NA
-mFByS,"kaingi, kaingi, yangone, yangonge",,male ego's father's brother's son,,,Draper2002,Inferred; NA
-mFZeS,"kaingi, kaingi, yangone, yangonge",,male ego's father's sister's son,,,Draper2002,Inferred; NA
-mFZyS,"kaingi, kaingi, yangone, yangonge",,male ego's father's sister's son,,,Draper2002,Inferred; NA
-mFBeD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's brother's daughter,,,Draper2002,Inferred; NA
-mFByD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's brother's daughter,,,Draper2002,Inferred; NA
-mFZeD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's sister's daughter,,,Draper2002,Inferred; NA
-mFZyD,"kaingi, kaingi, pemalene, pemalenge",,male ego's father's sister's daughter,,,Draper2002,Inferred; NA
-mMBeS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's brother's son,,,Draper2002,Inferred; NA
-mMByS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's brother's son,,,Draper2002,Inferred; NA
-mMZeS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's sister's son,,,Draper2002,Inferred; NA
-mMZyS,"kaingi, kaingi, yangone, yangonge",,male ego's mother's sister's son,,,Draper2002,Inferred; NA
-mMBeD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-mMByD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-mMZeD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-mMZyD,"kaingi, kaingi, pemalene, pemalenge",,male ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-fFeBS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's brother's son,,,Draper2002,Inferred; NA
-fFyBS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's brother's son,,,Draper2002,Inferred; NA
-fFeZS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's sister's son,,,Draper2002,Inferred; NA
-fFyZS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's sister's son,,,Draper2002,Inferred; NA
-fFeBD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's brother's daughter,,,Draper2002,Inferred; NA
-fFyBD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's brother's daughter,,,Draper2002,Inferred; NA
-fFeZD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's sister's daughter,,,Draper2002,Inferred; NA
-fFyZD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's sister's daughter,,,Draper2002,Inferred; NA
-fMeBS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's brother's son,,,Draper2002,Inferred; NA
-fMyBS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's brother's son,,,Draper2002,Inferred; NA
-fMeZS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's sister's son,,,Draper2002,Inferred; NA
-fMyZS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's sister's son,,,Draper2002,Inferred; NA
-fMeBD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-fMyBD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-fMeZD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-fMyZD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-fFBeS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's brother's son,,,Draper2002,Inferred; NA
-fFByS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's brother's son,,,Draper2002,Inferred; NA
-fFZeS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's sister's son,,,Draper2002,Inferred; NA
-fFZyS,"kaingi, kaingi, pemalene, pemalenge",,female ego's father's sister's son,,,Draper2002,Inferred; NA
-fFBeD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's brother's daughter,,,Draper2002,Inferred; NA
-fFByD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's brother's daughter,,,Draper2002,Inferred; NA
-fFZeD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's sister's daughter,,,Draper2002,Inferred; NA
-fFZyD,"kaingi, kaingi, kakingi, kakinyi",,female ego's father's sister's daughter,,,Draper2002,Inferred; NA
-fMBeS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's brother's son,,,Draper2002,Inferred; NA
-fMByS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's brother's son,,,Draper2002,Inferred; NA
-fMZeS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's sister's son,,,Draper2002,Inferred; NA
-fMZyS,"kaingi, kaingi, pemalene, pemalenge",,female ego's mother's sister's son,,,Draper2002,Inferred; NA
-fMBeD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-fMByD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's brother's daughter,,,Draper2002,Inferred; NA
-fMZeD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's sister's daughter,,,Draper2002,Inferred; NA
-fMZyD,"kaingi, kaingi, kakingi, kakinyi",,female ego's mother's sister's daughter,,,Draper2002,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","yangone, yangonge",,"male ego's older brother",,,"Draper2002",""
+"myB","yangone, yangonge",,"male ego's younger brother",,,"Draper2002",""
+"feB","pemalene, pemalenge",,"female ego's older brother",,,"Draper2002",""
+"fyB","pemalene, pemalenge",,"female ego's younger brother",,,"Draper2002",""
+"meZ","pemalene, pemalenge",,"male ego's older sister",,,"Draper2002",""
+"myZ","pemalene, pemalenge",,"male ego's younger sister",,,"Draper2002",""
+"feZ","kakingi, kakinyi",,"female ego's older sister",,,"Draper2002",""
+"fyZ","kakingi, kakinyi",,"female ego's younger sister",,,"Draper2002",""
+"mF","rakane, rakange",,"male ego's father",,,"Draper2002",""
+"mM","anyi, endangi",,"male ego's mother",,,"Draper2002",""
+"fF","rakane, rakange",,"female ego's father",,,"Draper2002",""
+"fM","anyi, endangi",,"female ego's mother",,,"Draper2002",""
+"mS","anyi, ikini, ikininyi, ikiningi, wane",,"male ego's son",,,"Draper2002",""
+"fS","anyi, ikini, ikininyi, ikiningi, wane",,"female ego's son",,,"Draper2002",""
+"mD","anyi, wanake, wanaku",,"male ego's daughter",,,"Draper2002",""
+"fD","anyi, wanake, wanaku",,"female ego's daughter",,,"Draper2002",""
+"mSS","apu, apusi, apusingi, kawu, kawuange",,"male ego's son's son",,,"Draper2002",""
+"mSD","apu, apusi, apusingi, kawu, kawuange",,"male ego's son's daughter",,,"Draper2002",""
+"mDS","apu, apusi, apusingi, kawu, kawuange",,"male ego's daughter's son",,,"Draper2002",""
+"mDD","apu, apusi, apusingi, kawu, kawuange",,"male ego's daughter's daughter",,,"Draper2002",""
+"fSS","apu, apusi, apusingi, kawu, kawuange",,"female ego's son's son",,,"Draper2002",""
+"fSD","apu, apusi, apusingi, kawu, kawuange",,"female ego's son's daughter",,,"Draper2002",""
+"fDS","apu, apusi, apusingi, kawu, kawuange",,"female ego's daughter's son",,,"Draper2002",""
+"fDD","apu, apusi, apusingi, kawu, kawuange",,"female ego's daugher's daughter",,,"Draper2002",""
+"mFF","kawua",,"male ego's father‘s father",,,"Draper2002",""
+"mFM","apu, apusi, apusingi",,"male ego's father's mother",,,"Draper2002",""
+"mMF","kawua",,"male ego's mother's father",,,"Draper2002",""
+"mMM","apu, apusi, apusingi",,"male ego's mother's mother",,,"Draper2002",""
+"fFF","kawua",,"female ego's father's father",,,"Draper2002",""
+"fFM","apu, apusi, apusingi",,"female ego's father's mother",,,"Draper2002",""
+"fMF","kawua",,"female ego's mother's father",,,"Draper2002",""
+"fMM","apu, apusi",,"female ego's mother's mother",,,"Draper2002",""
+"meBS","apa, apange",,"male ego's older brother's son",,,"Draper2002",""
+"myBS","apa, apange",,"male ego's younger brother's son",,,"Draper2002",""
+"meZS","apa, apange, arange, ata",,"male ego's older sister's son",,,"Draper2002",""
+"myZS","apa, apange, arange, ata",,"male ego's younger sister's son",,,"Draper2002",""
+"meBD","anyi, apa, apange",,"male ego's older brother's daughter",,,"Draper2002",""
+"myBD","anyi, apa, apange",,"male ego's younger brother's daughter",,,"Draper2002",""
+"meZD","anyi, apa, apange, arange, ata",,"male ego's older sister's daughter",,,"Draper2002",""
+"myZD","anyi, apa, apange, arange, ata",,"male ego's younger sister's daughter",,,"Draper2002",""
+"feBS","apa, apange",,"female ego's older brother's son",,,"Draper2002",""
+"fyBS","apa, apange",,"female ego's younger brother's son",,,"Draper2002",""
+"feZS","apa, apange, arange, ata",,"female ego's older sister's son",,,"Draper2002",""
+"fyZS","apa, apange, arange, ata",,"female ego's younger sister's son",,,"Draper2002",""
+"feBD","anyi, apa, apange",,"female ego's older brother's daughter",,,"Draper2002",""
+"fyBD","anyi, apa, apange",,"female ego's younger brother's daughter",,,"Draper2002",""
+"feZD","apa, apange, arange, ata",,"female ego's older sister's daughter",,,"Draper2002",""
+"fyZD","apa, apange, arange, ata",,"female ego's younger sister's daughter",,,"Draper2002",""
+"mFeB","apa, apange",,"male ego's father's older brother",,,"Draper2002",""
+"mFyB","apa, apange",,"male ego's father's younger brother",,,"Draper2002",""
+"mFeZ","arange, ata",,"male ego's father's older sister",,,"Draper2002",""
+"mFyZ","arange, ata",,"male ego's father's younger sister",,,"Draper2002",""
+"mMeB","apa, apange",,"male ego's mother's older brother",,,"Draper2002",""
+"mMyB","apa, apange",,"male ego's mother's younger brother",,,"Draper2002",""
+"mMeZ","anyi",,"male ego's mother's older sister",,,"Draper2002",""
+"mMyZ","anyi",,"male ego's mother's younger sister",,,"Draper2002",""
+"fFeB","apa, apange",,"female ego's father's older brother",,,"Draper2002",""
+"fFyB","apa, apange",,"female ego's father's younger brother",,,"Draper2002",""
+"fFeZ","arange, ata",,"female ego's father's older sister",,,"Draper2002",""
+"fFyZ","arange, ata",,"female ego's father's younger sister",,,"Draper2002",""
+"fMeB","apa, apange",,"female ego's mother's older brother",,,"Draper2002",""
+"fMyB","apa, apange",,"female ego's mother's younger brother",,,"Draper2002",""
+"fMeZ","anyi",,"female ego's mother's older sister",,,"Draper2002",""
+"fMyZ","anyi",,"female ego's mother's younger sister",,,"Draper2002",""
+"mW","enda, eranenge, etene, etenge",,"male ego's wife",,,"Draper2002",""
+"fH","akali, akalingi, akalinyi",,"female ego‘s husband",,,"Draper2002",""
+"mDH","imange",,"male ego's daughter's husband",,,"Draper2002",""
+"fDH","imange",,"female ego's daughter's husband",,,"Draper2002",""
+"mSW","aeya, aeyange",,"male ego's son's wife",,,"Draper2002",""
+"fSW","aeya, aeyange",,"female ego's son's wife",,,"Draper2002",""
+"mWF","imange",,"male ego's wife's father",,,"Draper2002",""
+"mWM","imange",,"male ego's wife's mother",,,"Draper2002",""
+"mWB","akalingi lyange, pali, palingi",,"male ego's wife's brother",,,"Draper2002",""
+"mWZ","akalingi lyange",,"male ego's wife's sister",,,"Draper2002",""
+"fHF","imange, kawuange",,"female ego's husband's father",,,"Draper2002",""
+"fHM","aeya, aeyange",,"female ego's husband's mother",,,"Draper2002",""
+"fHB","akalingi lyange",,"female ego's husband's brother",,,"Draper2002",""
+"fHZ","pili, pilingi",,"female ego's husband's sister",,,"Draper2002",""
+"mBW","akalingi lyange",,"male ego's brother's wife",,,"Draper2002",""
+"fBW","akalingi lyange",,"female ego's brother's wife",,,"Draper2002",""
+"mFBS","kaingi, kaingi, yangone, yangonge",,"male ego's father's brother's son",,,"Draper2002",""
+"mFZS","kaingi, kaingi, yangone, yangonge",,"male ego's father's sister's son",,,"Draper2002",""
+"mMBS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's brother's son",,,"Draper2002",""
+"mMZS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's sister's son",,,"Draper2002",""
+"mFBD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's brother's daughter",,,"Draper2002",""
+"mFZD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's sister's daughter",,,"Draper2002",""
+"mMBD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's brother's daughter",,,"Draper2002",""
+"mMZD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's sister's daughter",,,"Draper2002",""
+"fFBS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's brother's son",,,"Draper2002",""
+"fFZS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's sister's son",,,"Draper2002",""
+"fMBS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's brother's son",,,"Draper2002",""
+"fMZS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's sister's son",,,"Draper2002",""
+"fFBD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's brother's daughter",,,"Draper2002",""
+"fFZD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's sister's daughter",,,"Draper2002",""
+"fMBD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's brother's daughter",,,"Draper2002",""
+"fMZD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's sister's daughter",,,"Draper2002",""
+"mFeBS","kaingi, kaingi, yangone, yangonge",,"male ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"mFyBS","kaingi, kaingi, yangone, yangonge",,"male ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"mFeZS","kaingi, kaingi, yangone, yangonge",,"male ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"mFyZS","kaingi, kaingi, yangone, yangonge",,"male ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"mFeBD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"mFyBD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"mFeZD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"mFyZD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"mMeBS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"mMyBS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"mMeZS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"mMyZS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"mMeBD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"mMyBD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"mMeZD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"mMyZD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"mFBeS","kaingi, kaingi, yangone, yangonge",,"male ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"mFByS","kaingi, kaingi, yangone, yangonge",,"male ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"mFZeS","kaingi, kaingi, yangone, yangonge",,"male ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"mFZyS","kaingi, kaingi, yangone, yangonge",,"male ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"mFBeD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"mFByD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"mFZeD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"mFZyD","kaingi, kaingi, pemalene, pemalenge",,"male ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"mMBeS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"mMByS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"mMZeS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"mMZyS","kaingi, kaingi, yangone, yangonge",,"male ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"mMBeD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"mMByD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"mMZeD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"mMZyD","kaingi, kaingi, pemalene, pemalenge",,"male ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"fFeBS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"fFyBS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"fFeZS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"fFyZS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"fFeBD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"fFyBD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"fFeZD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"fFyZD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"fMeBS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"fMyBS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"fMeZS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"fMyZS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"fMeBD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"fMyBD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"fMeZD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"fMyZD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"fFBeS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"fFByS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's brother's son",,,"Draper2002","Inferred; NA"
+"fFZeS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"fFZyS","kaingi, kaingi, pemalene, pemalenge",,"female ego's father's sister's son",,,"Draper2002","Inferred; NA"
+"fFBeD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"fFByD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's brother's daughter",,,"Draper2002","Inferred; NA"
+"fFZeD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"fFZyD","kaingi, kaingi, kakingi, kakinyi",,"female ego's father's sister's daughter",,,"Draper2002","Inferred; NA"
+"fMBeS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"fMByS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's brother's son",,,"Draper2002","Inferred; NA"
+"fMZeS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"fMZyS","kaingi, kaingi, pemalene, pemalenge",,"female ego's mother's sister's son",,,"Draper2002","Inferred; NA"
+"fMBeD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"fMByD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's brother's daughter",,,"Draper2002","Inferred; NA"
+"fMZeD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"
+"fMZyD","kaingi, kaingi, kakingi, kakinyi",,"female ego's mother's sister's daughter",,,"Draper2002","Inferred; NA"

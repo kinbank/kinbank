@@ -1,141 +1,141 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,minlhafut,,male ego's older brother,,,Blust2003Thao,
-myB,minlhafut,,male ego's younger brother,,,Blust2003Thao,
-feB,minlhafut,,female ego's older brother,,,Blust2003Thao,
-fyB,minlhafut,,female ego's younger brother,,,Blust2003Thao,
-meZ,minlhafut,,male ego's older sister,,,Blust2003Thao,
-myZ,minlhafut,,male ego's younger sister,,,Blust2003Thao,
-feZ,minlhafut,,female ego's older sister,,,Blust2003Thao,
-fyZ,minlhafut,,female ego's younger sister,,,Blust2003Thao,
-mF,ama,,male ego's father,,,Blust2003Thao,
-mM,ina,,male ego's mother,,,Blust2003Thao,
-fF,ama,,female ego's father,,,Blust2003Thao,
-fM,ina,,female ego's mother,,,Blust2003Thao,
-mS,azazak a ayuzi,,male ego's son,,,Blust2003Thao,
-fS,azazak a ayuzi,,female ego's son,,,Blust2003Thao,
-mD,azazak a binanau'az,,male ego's daughter,,,Blust2003Thao,
-fD,azazak a binanau'az,,female ego's daughter,,,Blust2003Thao,
-mSS,"qati, qumqum",,male ego's son's son,,,Blust2003Thao,
-mSD,"qati, qumqum",,male ego's son's daughter,,,Blust2003Thao,
-mDS,"qati, qumqum",,male ego's daughter's son,,,Blust2003Thao,
-mDD,"qati, qumqum",,male ego's daughter's daughter,,,Blust2003Thao,
-fSS,"qati, qumqum",,female ego's son's son,,,Blust2003Thao,
-fSD,"qati, qumqum",,female ego's son's daughter,,,Blust2003Thao,
-fDS,"qati, qumqum",,female ego's daughter's son,,,Blust2003Thao,
-fDD,"qati, qumqum",,female ego's daugher's daughter,,,Blust2003Thao,
-mFF,apu ra'in,,male ego's father‘s father,,,Blust2003Thao,
-mFM,apu ki'ay,,male ego's father's mother,,,Blust2003Thao,
-mMF,apu ra'in,,male ego's mother's father,,,Blust2003Thao,
-mMM,apu ki'ay,,male ego's mother's mother,,,Blust2003Thao,
-fFF,apu ra'in,,female ego's father's father,,,Blust2003Thao,
-fFM,apu ki'ay,,female ego's father's mother,,,Blust2003Thao,
-fMF,apu ra'in,,female ego's mother's father,,,Blust2003Thao,
-fMM,apu ki'ay,,female ego's mother's mother,,,Blust2003Thao,
-meBS,qumqum,,male ego's older brother's son,,,Blust2003Thao,
-myBS,qumqum,,male ego's younger brother's son,,,Blust2003Thao,
-meZS,qumqum,,male ego's older sister's son,,,Blust2003Thao,
-myZS,qumqum,,male ego's younger sister's son,,,Blust2003Thao,
-meBD,qumqum,,male ego's older brother's daughter,,,Blust2003Thao,
-myBD,qumqum,,male ego's younger brother's daughter,,,Blust2003Thao,
-meZD,qumqum,,male ego's older sister's daughter,,,Blust2003Thao,
-myZD,qumqum,,male ego's younger sister's daughter,,,Blust2003Thao,
-feBS,qumqum,,female ego's older brother's son,,,Blust2003Thao,
-fyBS,qumqum,,female ego's younger brother's son,,,Blust2003Thao,
-feZS,qumqum,,female ego's older sister's son,,,Blust2003Thao,
-fyZS,qumqum,,female ego's younger sister's son,,,Blust2003Thao,
-feBD,qumqum,,female ego's older brother's daughter,,,Blust2003Thao,
-fyBD,qumqum,,female ego's younger brother's daughter,,,Blust2003Thao,
-feZD,qumqum,,female ego's older sister's daughter,,,Blust2003Thao,
-fyZD,qumqum,,female ego's younger sister's daughter,,,Blust2003Thao,
-mFeB,pan-amá-n,,male ego's father's older brother,,,Blust2003Thao,
-mFyB,pan-amá-n,,male ego's father's younger brother,,,Blust2003Thao,
-fFeB,pan-amá-n,,female ego's father's older brother,,,Blust2003Thao,
-fFyB,pan-amá-n,,female ego's father's younger brother,,,Blust2003Thao,
-mW,binanau'az,,male ego's wife,,,Blust2003Thao,
-fH,ayuzi,,female ego‘s husband,,,Blust2003Thao,
-mSW,apiq,,male ego's son's wife,,,Blust2003Thao,
-fSW,apiq,,female ego's son's wife,,,Blust2003Thao,
-mWB,mawala,,male ego's wife's brother,,,Blust2003Thao,
-fHB,mawala,,female ego's husband's brother,,,Blust2003Thao,
-mZH,mawala,,male ego's sister's husband,,,Blust2003Thao,
-fZH,mawala,,female ego's sister's husband,,,Blust2003Thao,
-mFBS,minlhafut,,male ego's father's brother's son,,,Blust2003Thao,
-mFZS,minlhafut,,male ego's father's sister's son,,,Blust2003Thao,
-mMBS,minlhafut,,male ego's mother's brother's son,,,Blust2003Thao,
-mMZS,minlhafut,,male ego's mother's sister's son,,,Blust2003Thao,
-mFBD,minlhafut,,male ego's father's brother's daughter,,,Blust2003Thao,
-mFZD,minlhafut,,male ego's father's sister's daughter,,,Blust2003Thao,
-mMBD,minlhafut,,male ego's mother's brother's daughter,,,Blust2003Thao,
-mMZD,minlhafut,,male ego's mother's sister's daughter,,,Blust2003Thao,
-fFBS,minlhafut,,female ego's father's brother's son,,,Blust2003Thao,
-fFZS,minlhafut,,female ego's father's sister's son,,,Blust2003Thao,
-fMBS,minlhafut,,female ego's mother's brother's son,,,Blust2003Thao,
-fMZS,minlhafut,,female ego's mother's sister's son,,,Blust2003Thao,
-fFBD,minlhafut,,female ego's father's brother's daughter,,,Blust2003Thao,
-fFZD,minlhafut,,female ego's father's sister's daughter,,,Blust2003Thao,
-fMBD,minlhafut,,female ego's mother's brother's daughter,,,Blust2003Thao,
-fMZD,minlhafut,,female ego's mother's sister's daughter,,,Blust2003Thao,
-mFeBS,minlhafut,,male ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-mFyBS,minlhafut,,male ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-mFeZS,minlhafut,,male ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-mFyZS,minlhafut,,male ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-mFeBD,minlhafut,,male ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-mFyBD,minlhafut,,male ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-mFeZD,minlhafut,,male ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-mFyZD,minlhafut,,male ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-mMeBS,minlhafut,,male ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-mMyBS,minlhafut,,male ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-mMeZS,minlhafut,,male ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-mMyZS,minlhafut,,male ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-mMeBD,minlhafut,,male ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-mMyBD,minlhafut,,male ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-mMeZD,minlhafut,,male ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-mMyZD,minlhafut,,male ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-mFBeS,minlhafut,,male ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-mFByS,minlhafut,,male ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-mFZeS,minlhafut,,male ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-mFZyS,minlhafut,,male ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-mFBeD,minlhafut,,male ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-mFByD,minlhafut,,male ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-mFZeD,minlhafut,,male ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-mFZyD,minlhafut,,male ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-mMBeS,minlhafut,,male ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-mMByS,minlhafut,,male ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-mMZeS,minlhafut,,male ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-mMZyS,minlhafut,,male ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-mMBeD,minlhafut,,male ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-mMByD,minlhafut,,male ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-mMZeD,minlhafut,,male ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-mMZyD,minlhafut,,male ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-fFeBS,minlhafut,,female ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-fFyBS,minlhafut,,female ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-fFeZS,minlhafut,,female ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-fFyZS,minlhafut,,female ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-fFeBD,minlhafut,,female ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-fFyBD,minlhafut,,female ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-fFeZD,minlhafut,,female ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-fFyZD,minlhafut,,female ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-fMeBS,minlhafut,,female ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-fMyBS,minlhafut,,female ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-fMeZS,minlhafut,,female ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-fMyZS,minlhafut,,female ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-fMeBD,minlhafut,,female ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-fMyBD,minlhafut,,female ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-fMeZD,minlhafut,,female ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-fMyZD,minlhafut,,female ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-fFBeS,minlhafut,,female ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-fFByS,minlhafut,,female ego's father's brother's son,,,Blust2003Thao,Inferred; NA
-fFZeS,minlhafut,,female ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-fFZyS,minlhafut,,female ego's father's sister's son,,,Blust2003Thao,Inferred; NA
-fFBeD,minlhafut,,female ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-fFByD,minlhafut,,female ego's father's brother's daughter,,,Blust2003Thao,Inferred; NA
-fFZeD,minlhafut,,female ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-fFZyD,minlhafut,,female ego's father's sister's daughter,,,Blust2003Thao,Inferred; NA
-fMBeS,minlhafut,,female ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-fMByS,minlhafut,,female ego's mother's brother's son,,,Blust2003Thao,Inferred; NA
-fMZeS,minlhafut,,female ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-fMZyS,minlhafut,,female ego's mother's sister's son,,,Blust2003Thao,Inferred; NA
-fMBeD,minlhafut,,female ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-fMByD,minlhafut,,female ego's mother's brother's daughter,,,Blust2003Thao,Inferred; NA
-fMZeD,minlhafut,,female ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
-fMZyD,minlhafut,,female ego's mother's sister's daughter,,,Blust2003Thao,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","minlhafut",,"male ego's older brother",,,"Blust2003Thao",""
+"myB","minlhafut",,"male ego's younger brother",,,"Blust2003Thao",""
+"feB","minlhafut",,"female ego's older brother",,,"Blust2003Thao",""
+"fyB","minlhafut",,"female ego's younger brother",,,"Blust2003Thao",""
+"meZ","minlhafut",,"male ego's older sister",,,"Blust2003Thao",""
+"myZ","minlhafut",,"male ego's younger sister",,,"Blust2003Thao",""
+"feZ","minlhafut",,"female ego's older sister",,,"Blust2003Thao",""
+"fyZ","minlhafut",,"female ego's younger sister",,,"Blust2003Thao",""
+"mF","ama",,"male ego's father",,,"Blust2003Thao",""
+"mM","ina",,"male ego's mother",,,"Blust2003Thao",""
+"fF","ama",,"female ego's father",,,"Blust2003Thao",""
+"fM","ina",,"female ego's mother",,,"Blust2003Thao",""
+"mS","azazak a ayuzi",,"male ego's son",,,"Blust2003Thao",""
+"fS","azazak a ayuzi",,"female ego's son",,,"Blust2003Thao",""
+"mD","azazak a binanau'az",,"male ego's daughter",,,"Blust2003Thao",""
+"fD","azazak a binanau'az",,"female ego's daughter",,,"Blust2003Thao",""
+"mSS","qati, qumqum",,"male ego's son's son",,,"Blust2003Thao",""
+"mSD","qati, qumqum",,"male ego's son's daughter",,,"Blust2003Thao",""
+"mDS","qati, qumqum",,"male ego's daughter's son",,,"Blust2003Thao",""
+"mDD","qati, qumqum",,"male ego's daughter's daughter",,,"Blust2003Thao",""
+"fSS","qati, qumqum",,"female ego's son's son",,,"Blust2003Thao",""
+"fSD","qati, qumqum",,"female ego's son's daughter",,,"Blust2003Thao",""
+"fDS","qati, qumqum",,"female ego's daughter's son",,,"Blust2003Thao",""
+"fDD","qati, qumqum",,"female ego's daugher's daughter",,,"Blust2003Thao",""
+"mFF","apu ra'in",,"male ego's father‘s father",,,"Blust2003Thao",""
+"mFM","apu ki'ay",,"male ego's father's mother",,,"Blust2003Thao",""
+"mMF","apu ra'in",,"male ego's mother's father",,,"Blust2003Thao",""
+"mMM","apu ki'ay",,"male ego's mother's mother",,,"Blust2003Thao",""
+"fFF","apu ra'in",,"female ego's father's father",,,"Blust2003Thao",""
+"fFM","apu ki'ay",,"female ego's father's mother",,,"Blust2003Thao",""
+"fMF","apu ra'in",,"female ego's mother's father",,,"Blust2003Thao",""
+"fMM","apu ki'ay",,"female ego's mother's mother",,,"Blust2003Thao",""
+"meBS","qumqum",,"male ego's older brother's son",,,"Blust2003Thao",""
+"myBS","qumqum",,"male ego's younger brother's son",,,"Blust2003Thao",""
+"meZS","qumqum",,"male ego's older sister's son",,,"Blust2003Thao",""
+"myZS","qumqum",,"male ego's younger sister's son",,,"Blust2003Thao",""
+"meBD","qumqum",,"male ego's older brother's daughter",,,"Blust2003Thao",""
+"myBD","qumqum",,"male ego's younger brother's daughter",,,"Blust2003Thao",""
+"meZD","qumqum",,"male ego's older sister's daughter",,,"Blust2003Thao",""
+"myZD","qumqum",,"male ego's younger sister's daughter",,,"Blust2003Thao",""
+"feBS","qumqum",,"female ego's older brother's son",,,"Blust2003Thao",""
+"fyBS","qumqum",,"female ego's younger brother's son",,,"Blust2003Thao",""
+"feZS","qumqum",,"female ego's older sister's son",,,"Blust2003Thao",""
+"fyZS","qumqum",,"female ego's younger sister's son",,,"Blust2003Thao",""
+"feBD","qumqum",,"female ego's older brother's daughter",,,"Blust2003Thao",""
+"fyBD","qumqum",,"female ego's younger brother's daughter",,,"Blust2003Thao",""
+"feZD","qumqum",,"female ego's older sister's daughter",,,"Blust2003Thao",""
+"fyZD","qumqum",,"female ego's younger sister's daughter",,,"Blust2003Thao",""
+"mFeB","pan-amá-n",,"male ego's father's older brother",,,"Blust2003Thao",""
+"mFyB","pan-amá-n",,"male ego's father's younger brother",,,"Blust2003Thao",""
+"fFeB","pan-amá-n",,"female ego's father's older brother",,,"Blust2003Thao",""
+"fFyB","pan-amá-n",,"female ego's father's younger brother",,,"Blust2003Thao",""
+"mW","binanau'az",,"male ego's wife",,,"Blust2003Thao",""
+"fH","ayuzi",,"female ego‘s husband",,,"Blust2003Thao",""
+"mSW","apiq",,"male ego's son's wife",,,"Blust2003Thao",""
+"fSW","apiq",,"female ego's son's wife",,,"Blust2003Thao",""
+"mWB","mawala",,"male ego's wife's brother",,,"Blust2003Thao",""
+"fHB","mawala",,"female ego's husband's brother",,,"Blust2003Thao",""
+"mZH","mawala",,"male ego's sister's husband",,,"Blust2003Thao",""
+"fZH","mawala",,"female ego's sister's husband",,,"Blust2003Thao",""
+"mFBS","minlhafut",,"male ego's father's brother's son",,,"Blust2003Thao",""
+"mFZS","minlhafut",,"male ego's father's sister's son",,,"Blust2003Thao",""
+"mMBS","minlhafut",,"male ego's mother's brother's son",,,"Blust2003Thao",""
+"mMZS","minlhafut",,"male ego's mother's sister's son",,,"Blust2003Thao",""
+"mFBD","minlhafut",,"male ego's father's brother's daughter",,,"Blust2003Thao",""
+"mFZD","minlhafut",,"male ego's father's sister's daughter",,,"Blust2003Thao",""
+"mMBD","minlhafut",,"male ego's mother's brother's daughter",,,"Blust2003Thao",""
+"mMZD","minlhafut",,"male ego's mother's sister's daughter",,,"Blust2003Thao",""
+"fFBS","minlhafut",,"female ego's father's brother's son",,,"Blust2003Thao",""
+"fFZS","minlhafut",,"female ego's father's sister's son",,,"Blust2003Thao",""
+"fMBS","minlhafut",,"female ego's mother's brother's son",,,"Blust2003Thao",""
+"fMZS","minlhafut",,"female ego's mother's sister's son",,,"Blust2003Thao",""
+"fFBD","minlhafut",,"female ego's father's brother's daughter",,,"Blust2003Thao",""
+"fFZD","minlhafut",,"female ego's father's sister's daughter",,,"Blust2003Thao",""
+"fMBD","minlhafut",,"female ego's mother's brother's daughter",,,"Blust2003Thao",""
+"fMZD","minlhafut",,"female ego's mother's sister's daughter",,,"Blust2003Thao",""
+"mFeBS","minlhafut",,"male ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mFyBS","minlhafut",,"male ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mFeZS","minlhafut",,"male ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mFyZS","minlhafut",,"male ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mFeBD","minlhafut",,"male ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFyBD","minlhafut",,"male ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFeZD","minlhafut",,"male ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFyZD","minlhafut",,"male ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMeBS","minlhafut",,"male ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mMyBS","minlhafut",,"male ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mMeZS","minlhafut",,"male ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mMyZS","minlhafut",,"male ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mMeBD","minlhafut",,"male ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMyBD","minlhafut",,"male ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMeZD","minlhafut",,"male ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMyZD","minlhafut",,"male ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFBeS","minlhafut",,"male ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mFByS","minlhafut",,"male ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mFZeS","minlhafut",,"male ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mFZyS","minlhafut",,"male ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mFBeD","minlhafut",,"male ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFByD","minlhafut",,"male ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFZeD","minlhafut",,"male ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mFZyD","minlhafut",,"male ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMBeS","minlhafut",,"male ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mMByS","minlhafut",,"male ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"mMZeS","minlhafut",,"male ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mMZyS","minlhafut",,"male ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"mMBeD","minlhafut",,"male ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMByD","minlhafut",,"male ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMZeD","minlhafut",,"male ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"mMZyD","minlhafut",,"male ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFeBS","minlhafut",,"female ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fFyBS","minlhafut",,"female ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fFeZS","minlhafut",,"female ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fFyZS","minlhafut",,"female ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fFeBD","minlhafut",,"female ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFyBD","minlhafut",,"female ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFeZD","minlhafut",,"female ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFyZD","minlhafut",,"female ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMeBS","minlhafut",,"female ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fMyBS","minlhafut",,"female ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fMeZS","minlhafut",,"female ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fMyZS","minlhafut",,"female ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fMeBD","minlhafut",,"female ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMyBD","minlhafut",,"female ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMeZD","minlhafut",,"female ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMyZD","minlhafut",,"female ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFBeS","minlhafut",,"female ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fFByS","minlhafut",,"female ego's father's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fFZeS","minlhafut",,"female ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fFZyS","minlhafut",,"female ego's father's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fFBeD","minlhafut",,"female ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFByD","minlhafut",,"female ego's father's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFZeD","minlhafut",,"female ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fFZyD","minlhafut",,"female ego's father's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMBeS","minlhafut",,"female ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fMByS","minlhafut",,"female ego's mother's brother's son",,,"Blust2003Thao","Inferred; NA"
+"fMZeS","minlhafut",,"female ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fMZyS","minlhafut",,"female ego's mother's sister's son",,,"Blust2003Thao","Inferred; NA"
+"fMBeD","minlhafut",,"female ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMByD","minlhafut",,"female ego's mother's brother's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMZeD","minlhafut",,"female ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"
+"fMZyD","minlhafut",,"female ego's mother's sister's daughter",,,"Blust2003Thao","Inferred; NA"

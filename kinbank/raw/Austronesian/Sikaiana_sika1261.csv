@@ -1,145 +1,145 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,taina,,male ego's older brother,,,s:Capell:Sikayana,
-myB,taina,,male ego's younger brother,,,s:Capell:Sikayana,
-feB,kave,,female ego's older brother,,,s:Capell:Sikayana,
-fyB,kave,,female ego's younger brother,,,s:Capell:Sikayana,
-meZ,kave,,male ego's older sister,,,s:Capell:Sikayana,
-myZ,kave,,male ego's younger sister,,,s:Capell:Sikayana,
-feZ,taina,,female ego's older sister,,,s:Capell:Sikayana,
-fyZ,taina,,female ego's younger sister,,,s:Capell:Sikayana,
-mF,tamana,,male ego's father,,,s:Capell:Sikayana,
-mM,tinna,,male ego's mother,,,s:Capell:Sikayana,
-fF,tamana,,female ego's father,,,s:Capell:Sikayana,
-fM,tinna,,female ego's mother,,,s:Capell:Sikayana,
-mS,tama,,male ego's son,,,s:Capell:Sikayana,
-fS,tama,,female ego's son,,,s:Capell:Sikayana,
-mD,tama,,male ego's daughter,,,s:Capell:Sikayana,
-fD,tama,,female ego's daughter,,,s:Capell:Sikayana,
-mSS,mokupuna,,male ego's son's son,,,s:Capell:Sikayana,
-mSD,mokupuna,,male ego's son's daughter,,,s:Capell:Sikayana,
-mDS,mokupuna,,male ego's daughter's son,,,s:Capell:Sikayana,
-mDD,mokupuna,,male ego's daughter's daughter,,,s:Capell:Sikayana,
-fSS,mokupuna,,female ego's son's son,,,s:Capell:Sikayana,
-fSD,mokupuna,,female ego's son's daughter,,,s:Capell:Sikayana,
-fDS,mokupuna,,female ego's daughter's son,,,s:Capell:Sikayana,
-fDD,mokupuna,,female ego's daugher's daughter,,,s:Capell:Sikayana,
-mFF,tupuna,,male ego's father‘s father,,,s:Capell:Sikayana,
-mFM,tupuna,,male ego's father's mother,,,s:Capell:Sikayana,
-mMF,tupuna,,male ego's mother's father,,,s:Capell:Sikayana,
-mMM,tupuna,,male ego's mother's mother,,,s:Capell:Sikayana,
-fFF,tupuna,,female ego's father's father,,,s:Capell:Sikayana,
-fFM,tupuna,,female ego's father's mother,,,s:Capell:Sikayana,
-fMF,tupuna,,female ego's mother's father,,,s:Capell:Sikayana,
-fMM,tupuna,,female ego's mother's mother,,,s:Capell:Sikayana,
-meBS,tama,,male ego's older brother's son,,,s:Capell:Sikayana,
-myBS,tama,,male ego's younger brother's son,,,s:Capell:Sikayana,
-meZS,tama,,male ego's older sister's son,,,s:Capell:Sikayana,
-myZS,tama,,male ego's younger sister's son,,,s:Capell:Sikayana,
-meBD,tama,,male ego's older brother's daughter,,,s:Capell:Sikayana,
-myBD,tama,,male ego's younger brother's daughter,,,s:Capell:Sikayana,
-meZD,tama,,male ego's older sister's daughter,,,s:Capell:Sikayana,
-myZD,tama,,male ego's younger sister's daughter,,,s:Capell:Sikayana,
-feBS,tama,,female ego's older brother's son,,,s:Capell:Sikayana,
-fyBS,tama,,female ego's younger brother's son,,,s:Capell:Sikayana,
-feZS,tama,,female ego's older sister's son,,,s:Capell:Sikayana,
-fyZS,tama,,female ego's younger sister's son,,,s:Capell:Sikayana,
-feBD,tama,,female ego's older brother's daughter,,,s:Capell:Sikayana,
-fyBD,tama,,female ego's younger brother's daughter,,,s:Capell:Sikayana,
-feZD,tama,,female ego's older sister's daughter,,,s:Capell:Sikayana,
-fyZD,tama,,female ego's younger sister's daughter,,,s:Capell:Sikayana,
-mFeB,tamana,,male ego's father's older brother,,,s:Capell:Sikayana,
-mFyB,tamana,,male ego's father's younger brother,,,s:Capell:Sikayana,
-mFeZ,tinna,,male ego's father's older sister,,,s:Capell:Sikayana,
-mFyZ,tinna,,male ego's father's younger sister,,,s:Capell:Sikayana,
-mMeB,"tamana, inoa",,male ego's mother's older brother,,,s:Capell:Sikayana,
-mMyB,"tamana, inoa",,male ego's mother's younger brother,,,s:Capell:Sikayana,
-mMeZ,tinna,,male ego's mother's older sister,,,s:Capell:Sikayana,
-mMyZ,tinna,,male ego's mother's younger sister,,,s:Capell:Sikayana,
-fFeB,tamana,,female ego's father's older brother,,,s:Capell:Sikayana,
-fFyB,tamana,,female ego's father's younger brother,,,s:Capell:Sikayana,
-fFeZ,tinna,,female ego's father's older sister,,,s:Capell:Sikayana,
-fFyZ,tinna,,female ego's father's younger sister,,,s:Capell:Sikayana,
-fMeB,"tamana, inoa",,female ego's mother's older brother,,,s:Capell:Sikayana,
-fMyB,"tamana, inoa",,female ego's mother's younger brother,,,s:Capell:Sikayana,
-fMeZ,tinna,,female ego's mother's older sister,,,s:Capell:Sikayana,
-fMyZ,tinna,,female ego's mother's younger sister,,,s:Capell:Sikayana,
-mFBS,taina,,male ego's father's brother's son,,,s:Capell:Sikayana,
-mFZS,taina,,male ego's father's sister's son,,,s:Capell:Sikayana,
-mMBS,taina,,male ego's mother's brother's son,,,s:Capell:Sikayana,
-mMZS,taina,,male ego's mother's sister's son,,,s:Capell:Sikayana,
-mFBD,kave,,male ego's father's brother's daughter,,,s:Capell:Sikayana,
-mFZD,kave,,male ego's father's sister's daughter,,,s:Capell:Sikayana,
-mMBD,kave,,male ego's mother's brother's daughter,,,s:Capell:Sikayana,
-mMZD,kave,,male ego's mother's sister's daughter,,,s:Capell:Sikayana,
-fFBS,kave,,female ego's father's brother's son,,,s:Capell:Sikayana,
-fFZS,kave,,female ego's father's sister's son,,,s:Capell:Sikayana,
-fMBS,kave,,female ego's mother's brother's son,,,s:Capell:Sikayana,
-fMZS,kave,,female ego's mother's sister's son,,,s:Capell:Sikayana,
-fFBD,taina,,female ego's father's brother's daughter,,,s:Capell:Sikayana,
-fFZD,taina,,female ego's father's sister's daughter,,,s:Capell:Sikayana,
-fMBD,taina,,female ego's mother's brother's daughter,,,s:Capell:Sikayana,
-fMZD,taina,,female ego's mother's sister's daughter,,,s:Capell:Sikayana,
-mFeBS,taina,,male ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mFyBS,taina,,male ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mFeZS,taina,,male ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mFyZS,taina,,male ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mFeBD,kave,,male ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFyBD,kave,,male ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFeZD,kave,,male ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFyZD,kave,,male ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMeBS,taina,,male ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mMyBS,taina,,male ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mMeZS,taina,,male ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mMyZS,taina,,male ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mMeBD,kave,,male ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMyBD,kave,,male ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMeZD,kave,,male ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMyZD,kave,,male ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFBeS,taina,,male ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mFByS,taina,,male ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mFZeS,taina,,male ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mFZyS,taina,,male ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mFBeD,kave,,male ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFByD,kave,,male ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFZeD,kave,,male ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mFZyD,kave,,male ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMBeS,taina,,male ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mMByS,taina,,male ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-mMZeS,taina,,male ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mMZyS,taina,,male ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-mMBeD,kave,,male ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMByD,kave,,male ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMZeD,kave,,male ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-mMZyD,kave,,male ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFeBS,kave,,female ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fFyBS,kave,,female ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fFeZS,kave,,female ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fFyZS,kave,,female ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fFeBD,taina,,female ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFyBD,taina,,female ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFeZD,taina,,female ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFyZD,taina,,female ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMeBS,kave,,female ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fMyBS,kave,,female ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fMeZS,kave,,female ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fMyZS,kave,,female ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fMeBD,taina,,female ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMyBD,taina,,female ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMeZD,taina,,female ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMyZD,taina,,female ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFBeS,kave,,female ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fFByS,kave,,female ego's father's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fFZeS,kave,,female ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fFZyS,kave,,female ego's father's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fFBeD,taina,,female ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFByD,taina,,female ego's father's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFZeD,taina,,female ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fFZyD,taina,,female ego's father's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMBeS,kave,,female ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fMByS,kave,,female ego's mother's brother's son,,,s:Capell:Sikayana,Inferred; NA
-fMZeS,kave,,female ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fMZyS,kave,,female ego's mother's sister's son,,,s:Capell:Sikayana,Inferred; NA
-fMBeD,taina,,female ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMByD,taina,,female ego's mother's brother's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMZeD,taina,,female ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
-fMZyD,taina,,female ego's mother's sister's daughter,,,s:Capell:Sikayana,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","taina",,"male ego's older brother",,,"s:Capell:Sikayana",""
+"myB","taina",,"male ego's younger brother",,,"s:Capell:Sikayana",""
+"feB","kave",,"female ego's older brother",,,"s:Capell:Sikayana",""
+"fyB","kave",,"female ego's younger brother",,,"s:Capell:Sikayana",""
+"meZ","kave",,"male ego's older sister",,,"s:Capell:Sikayana",""
+"myZ","kave",,"male ego's younger sister",,,"s:Capell:Sikayana",""
+"feZ","taina",,"female ego's older sister",,,"s:Capell:Sikayana",""
+"fyZ","taina",,"female ego's younger sister",,,"s:Capell:Sikayana",""
+"mF","tamana",,"male ego's father",,,"s:Capell:Sikayana",""
+"mM","tinna",,"male ego's mother",,,"s:Capell:Sikayana",""
+"fF","tamana",,"female ego's father",,,"s:Capell:Sikayana",""
+"fM","tinna",,"female ego's mother",,,"s:Capell:Sikayana",""
+"mS","tama",,"male ego's son",,,"s:Capell:Sikayana",""
+"fS","tama",,"female ego's son",,,"s:Capell:Sikayana",""
+"mD","tama",,"male ego's daughter",,,"s:Capell:Sikayana",""
+"fD","tama",,"female ego's daughter",,,"s:Capell:Sikayana",""
+"mSS","mokupuna",,"male ego's son's son",,,"s:Capell:Sikayana",""
+"mSD","mokupuna",,"male ego's son's daughter",,,"s:Capell:Sikayana",""
+"mDS","mokupuna",,"male ego's daughter's son",,,"s:Capell:Sikayana",""
+"mDD","mokupuna",,"male ego's daughter's daughter",,,"s:Capell:Sikayana",""
+"fSS","mokupuna",,"female ego's son's son",,,"s:Capell:Sikayana",""
+"fSD","mokupuna",,"female ego's son's daughter",,,"s:Capell:Sikayana",""
+"fDS","mokupuna",,"female ego's daughter's son",,,"s:Capell:Sikayana",""
+"fDD","mokupuna",,"female ego's daugher's daughter",,,"s:Capell:Sikayana",""
+"mFF","tupuna",,"male ego's father‘s father",,,"s:Capell:Sikayana",""
+"mFM","tupuna",,"male ego's father's mother",,,"s:Capell:Sikayana",""
+"mMF","tupuna",,"male ego's mother's father",,,"s:Capell:Sikayana",""
+"mMM","tupuna",,"male ego's mother's mother",,,"s:Capell:Sikayana",""
+"fFF","tupuna",,"female ego's father's father",,,"s:Capell:Sikayana",""
+"fFM","tupuna",,"female ego's father's mother",,,"s:Capell:Sikayana",""
+"fMF","tupuna",,"female ego's mother's father",,,"s:Capell:Sikayana",""
+"fMM","tupuna",,"female ego's mother's mother",,,"s:Capell:Sikayana",""
+"meBS","tama",,"male ego's older brother's son",,,"s:Capell:Sikayana",""
+"myBS","tama",,"male ego's younger brother's son",,,"s:Capell:Sikayana",""
+"meZS","tama",,"male ego's older sister's son",,,"s:Capell:Sikayana",""
+"myZS","tama",,"male ego's younger sister's son",,,"s:Capell:Sikayana",""
+"meBD","tama",,"male ego's older brother's daughter",,,"s:Capell:Sikayana",""
+"myBD","tama",,"male ego's younger brother's daughter",,,"s:Capell:Sikayana",""
+"meZD","tama",,"male ego's older sister's daughter",,,"s:Capell:Sikayana",""
+"myZD","tama",,"male ego's younger sister's daughter",,,"s:Capell:Sikayana",""
+"feBS","tama",,"female ego's older brother's son",,,"s:Capell:Sikayana",""
+"fyBS","tama",,"female ego's younger brother's son",,,"s:Capell:Sikayana",""
+"feZS","tama",,"female ego's older sister's son",,,"s:Capell:Sikayana",""
+"fyZS","tama",,"female ego's younger sister's son",,,"s:Capell:Sikayana",""
+"feBD","tama",,"female ego's older brother's daughter",,,"s:Capell:Sikayana",""
+"fyBD","tama",,"female ego's younger brother's daughter",,,"s:Capell:Sikayana",""
+"feZD","tama",,"female ego's older sister's daughter",,,"s:Capell:Sikayana",""
+"fyZD","tama",,"female ego's younger sister's daughter",,,"s:Capell:Sikayana",""
+"mFeB","tamana",,"male ego's father's older brother",,,"s:Capell:Sikayana",""
+"mFyB","tamana",,"male ego's father's younger brother",,,"s:Capell:Sikayana",""
+"mFeZ","tinna",,"male ego's father's older sister",,,"s:Capell:Sikayana",""
+"mFyZ","tinna",,"male ego's father's younger sister",,,"s:Capell:Sikayana",""
+"mMeB","tamana, inoa",,"male ego's mother's older brother",,,"s:Capell:Sikayana",""
+"mMyB","tamana, inoa",,"male ego's mother's younger brother",,,"s:Capell:Sikayana",""
+"mMeZ","tinna",,"male ego's mother's older sister",,,"s:Capell:Sikayana",""
+"mMyZ","tinna",,"male ego's mother's younger sister",,,"s:Capell:Sikayana",""
+"fFeB","tamana",,"female ego's father's older brother",,,"s:Capell:Sikayana",""
+"fFyB","tamana",,"female ego's father's younger brother",,,"s:Capell:Sikayana",""
+"fFeZ","tinna",,"female ego's father's older sister",,,"s:Capell:Sikayana",""
+"fFyZ","tinna",,"female ego's father's younger sister",,,"s:Capell:Sikayana",""
+"fMeB","tamana, inoa",,"female ego's mother's older brother",,,"s:Capell:Sikayana",""
+"fMyB","tamana, inoa",,"female ego's mother's younger brother",,,"s:Capell:Sikayana",""
+"fMeZ","tinna",,"female ego's mother's older sister",,,"s:Capell:Sikayana",""
+"fMyZ","tinna",,"female ego's mother's younger sister",,,"s:Capell:Sikayana",""
+"mFBS","taina",,"male ego's father's brother's son",,,"s:Capell:Sikayana",""
+"mFZS","taina",,"male ego's father's sister's son",,,"s:Capell:Sikayana",""
+"mMBS","taina",,"male ego's mother's brother's son",,,"s:Capell:Sikayana",""
+"mMZS","taina",,"male ego's mother's sister's son",,,"s:Capell:Sikayana",""
+"mFBD","kave",,"male ego's father's brother's daughter",,,"s:Capell:Sikayana",""
+"mFZD","kave",,"male ego's father's sister's daughter",,,"s:Capell:Sikayana",""
+"mMBD","kave",,"male ego's mother's brother's daughter",,,"s:Capell:Sikayana",""
+"mMZD","kave",,"male ego's mother's sister's daughter",,,"s:Capell:Sikayana",""
+"fFBS","kave",,"female ego's father's brother's son",,,"s:Capell:Sikayana",""
+"fFZS","kave",,"female ego's father's sister's son",,,"s:Capell:Sikayana",""
+"fMBS","kave",,"female ego's mother's brother's son",,,"s:Capell:Sikayana",""
+"fMZS","kave",,"female ego's mother's sister's son",,,"s:Capell:Sikayana",""
+"fFBD","taina",,"female ego's father's brother's daughter",,,"s:Capell:Sikayana",""
+"fFZD","taina",,"female ego's father's sister's daughter",,,"s:Capell:Sikayana",""
+"fMBD","taina",,"female ego's mother's brother's daughter",,,"s:Capell:Sikayana",""
+"fMZD","taina",,"female ego's mother's sister's daughter",,,"s:Capell:Sikayana",""
+"mFeBS","taina",,"male ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFyBS","taina",,"male ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFeZS","taina",,"male ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFyZS","taina",,"male ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFeBD","kave",,"male ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFyBD","kave",,"male ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFeZD","kave",,"male ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFyZD","kave",,"male ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMeBS","taina",,"male ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMyBS","taina",,"male ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMeZS","taina",,"male ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMyZS","taina",,"male ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMeBD","kave",,"male ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMyBD","kave",,"male ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMeZD","kave",,"male ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMyZD","kave",,"male ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFBeS","taina",,"male ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFByS","taina",,"male ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFZeS","taina",,"male ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFZyS","taina",,"male ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mFBeD","kave",,"male ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFByD","kave",,"male ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFZeD","kave",,"male ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mFZyD","kave",,"male ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMBeS","taina",,"male ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMByS","taina",,"male ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMZeS","taina",,"male ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMZyS","taina",,"male ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"mMBeD","kave",,"male ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMByD","kave",,"male ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMZeD","kave",,"male ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"mMZyD","kave",,"male ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFeBS","kave",,"female ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFyBS","kave",,"female ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFeZS","kave",,"female ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFyZS","kave",,"female ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFeBD","taina",,"female ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFyBD","taina",,"female ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFeZD","taina",,"female ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFyZD","taina",,"female ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMeBS","kave",,"female ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMyBS","kave",,"female ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMeZS","kave",,"female ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMyZS","kave",,"female ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMeBD","taina",,"female ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMyBD","taina",,"female ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMeZD","taina",,"female ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMyZD","taina",,"female ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFBeS","kave",,"female ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFByS","kave",,"female ego's father's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFZeS","kave",,"female ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFZyS","kave",,"female ego's father's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fFBeD","taina",,"female ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFByD","taina",,"female ego's father's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFZeD","taina",,"female ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fFZyD","taina",,"female ego's father's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMBeS","kave",,"female ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMByS","kave",,"female ego's mother's brother's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMZeS","kave",,"female ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMZyS","kave",,"female ego's mother's sister's son",,,"s:Capell:Sikayana","Inferred; NA"
+"fMBeD","taina",,"female ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMByD","taina",,"female ego's mother's brother's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMZeD","taina",,"female ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"
+"fMZyD","taina",,"female ego's mother's sister's daughter",,,"s:Capell:Sikayana","Inferred; NA"

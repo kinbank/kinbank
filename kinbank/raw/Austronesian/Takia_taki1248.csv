@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tei-,,male ego's older brother,,,Ross2002,
-myB,tei-,,male ego's younger brother,,,Ross2002,
-feB,lu-,,female ego's older brother,,,Ross2002,
-fyB,lu-,,female ego's younger brother,,,Ross2002,
-meZ,lu-,,male ego's older sister,,,Ross2002,
-myZ,lu-,,male ego's younger sister,,,Ross2002,
-feZ,tei-,,female ego's older sister,,,Ross2002,
-fyZ,tei-,,female ego's younger sister,,,Ross2002,
-mF,tama-,,male ego's father,,,Ross2002,
-mM,tna-,,male ego's mother,,,Ross2002,
-fF,tama-,,female ego's father,,,Ross2002,
-fM,tna-,,female ego's mother,,,Ross2002,
-mS,"nanu-, bai",,male ego's son,,,Ross2002,
-fS,"nanu-, nei",,female ego's son,,,Ross2002,
-mD,"nanu-, bai",,male ego's daughter,,,Ross2002,
-fD,"nanu-, nei",,female ego's daughter,,,Ross2002,
-mSS,tbu-,,male ego's son's son,,,Ross2002,
-mSD,tbu-,,male ego's son's daughter,,,Ross2002,
-mDS,tbu-,,male ego's daughter's son,,,Ross2002,
-mDD,tbu-,,male ego's daughter's daughter,,,Ross2002,
-fSS,tbu-,,female ego's son's son,,,Ross2002,
-fSD,tbu-,,female ego's son's daughter,,,Ross2002,
-fDS,tbu-,,female ego's daughter's son,,,Ross2002,
-fDD,tbu-,,female ego's daugher's daughter,,,Ross2002,
-mFF,tbu-,,male ego's father‘s father,,,Ross2002,
-mFM,tbu-,,male ego's father's mother,,,Ross2002,
-mMF,tbu-,,male ego's mother's father,,,Ross2002,
-mMM,tbu-,,male ego's mother's mother,,,Ross2002,
-fFF,tbu-,,female ego's father's father,,,Ross2002,
-fFM,tbu-,,female ego's father's mother,,,Ross2002,
-fMF,tbu-,,female ego's mother's father,,,Ross2002,
-fMM,tbu-,,female ego's mother's mother,,,Ross2002,
-meBS,nanu-,,male ego's older brother's son,,,Ross2002,
-myBS,nanu-,,male ego's younger brother's son,,,Ross2002,
-meZS,ngai,,male ego's older sister's son,,,Ross2002,
-myZS,ngai,,male ego's younger sister's son,,,Ross2002,
-meBD,nanu-,,male ego's older brother's daughter,,,Ross2002,
-myBD,nanu-,,male ego's younger brother's daughter,,,Ross2002,
-meZD,ngai,,male ego's older sister's daughter,,,Ross2002,
-myZD,ngai,,male ego's younger sister's daughter,,,Ross2002,
-feBS,nbi,,female ego's older brother's son,,,Ross2002,
-fyBS,nbi,,female ego's younger brother's son,,,Ross2002,
-feZS,nanu-,,female ego's older sister's son,,,Ross2002,
-fyZS,nanu-,,female ego's younger sister's son,,,Ross2002,
-feBD,nbi,,female ego's older brother's daughter,,,Ross2002,
-fyBD,nbi,,female ego's younger brother's daughter,,,Ross2002,
-feZD,nanu-,,female ego's older sister's daughter,,,Ross2002,
-fyZD,nanu-,,female ego's younger sister's daughter,,,Ross2002,
-mFeB,tama-,,male ego's father's older brother,,,Ross2002,
-mFyB,tama-,,male ego's father's younger brother,,,Ross2002,
-mFeZ,nbi,,male ego's father's older sister,,,Ross2002,
-mFyZ,nbi,,male ego's father's younger sister,,,Ross2002,
-mMeB,ngai,,male ego's mother's older brother,,,Ross2002,
-mMyB,ngai,,male ego's mother's younger brother,,,Ross2002,
-mMeZ,tna-,,male ego's mother's older sister,,,Ross2002,
-mMyZ,tna-,,male ego's mother's younger sister,,,Ross2002,
-fFeB,tama-,,female ego's father's older brother,,,Ross2002,
-fFyB,tama-,,female ego's father's younger brother,,,Ross2002,
-fFeZ,nbi,,female ego's father's older sister,,,Ross2002,
-fFyZ,nbi,,female ego's father's younger sister,,,Ross2002,
-fMeB,ngai,,female ego's mother's older brother,,,Ross2002,
-fMyB,ngai,,female ego's mother's younger brother,,,Ross2002,
-fMeZ,tna-,,female ego's mother's older sister,,,Ross2002,
-fMyZ,tna-,,female ego's mother's younger sister,,,Ross2002,
-mW,iwo-,,male ego's wife,,,Ross2002,
-fH,iwo-,,female ego‘s husband,,,Ross2002,
-mDH,nteŋ,,male ego's daughter's husband,,,Ross2002,
-fDH,rao-,,female ego's daughter's husband,,,Ross2002,
-mSW,rao-,,male ego's son's wife,,,Ross2002,
-fSW,rao-,,female ego's son's wife,,,Ross2002,
-mWF,nteŋ,,male ego's wife's father,,,Ross2002,
-mWM,rao-,,male ego's wife's mother,,,Ross2002,
-mWB,iwa-,,male ego's wife's brother,,,Ross2002,
-mWZ,tei-,,male ego's wife's sister,,,Ross2002,
-fHF,rao-,,female ego's husband's father,,,Ross2002,
-fHM,rao-,,female ego's husband's mother,,,Ross2002,
-fHB,tei-,,female ego's husband's brother,,,Ross2002,
-fHZ,iwa-,,female ego's husband's sister,,,Ross2002,
-mBW,tei-,,male ego's brother's wife,,,Ross2002,
-fBW,iwa-,,female ego's brother's wife,,,Ross2002,
-mZH,iwa-,,male ego's sister's husband,,,Ross2002,
-fZH,tei-,,female ego's sister's husband,,,Ross2002,
-mFBS,tei-,,male ego's father's brother's son,,,Ross2002,
-mFZS,tei-,,male ego's father's sister's son,,,Ross2002,
-mMBS,tei-,,male ego's mother's brother's son,,,Ross2002,
-mMZS,tei-,,male ego's mother's sister's son,,,Ross2002,
-mFBD,lu-,,male ego's father's brother's daughter,,,Ross2002,
-mFZD,lu-,,male ego's father's sister's daughter,,,Ross2002,
-mMBD,lu-,,male ego's mother's brother's daughter,,,Ross2002,
-mMZD,lu-,,male ego's mother's sister's daughter,,,Ross2002,
-fFBS,lu-,,female ego's father's brother's son,,,Ross2002,
-fFZS,lu-,,female ego's father's sister's son,,,Ross2002,
-fMBS,lu-,,female ego's mother's brother's son,,,Ross2002,
-fMZS,lu-,,female ego's mother's sister's son,,,Ross2002,
-fFBD,tei-,,female ego's father's brother's daughter,,,Ross2002,
-fFZD,nkol,,female ego's father's sister's daughter,,,Ross2002,
-fMBD,nkol,,female ego's mother's brother's daughter,,,Ross2002,
-fMZD,tei-,,female ego's mother's sister's daughter,,,Ross2002,
-mFeBS,tei-,,male ego's father's brother's son,,,Ross2002,Inferred; NA
-mFyBS,tei-,,male ego's father's brother's son,,,Ross2002,Inferred; NA
-mFeZS,tei-,,male ego's father's sister's son,,,Ross2002,Inferred; NA
-mFyZS,tei-,,male ego's father's sister's son,,,Ross2002,Inferred; NA
-mFeBD,lu-,,male ego's father's brother's daughter,,,Ross2002,Inferred; NA
-mFyBD,lu-,,male ego's father's brother's daughter,,,Ross2002,Inferred; NA
-mFeZD,lu-,,male ego's father's sister's daughter,,,Ross2002,Inferred; NA
-mFyZD,lu-,,male ego's father's sister's daughter,,,Ross2002,Inferred; NA
-mMeBS,tei-,,male ego's mother's brother's son,,,Ross2002,Inferred; NA
-mMyBS,tei-,,male ego's mother's brother's son,,,Ross2002,Inferred; NA
-mMeZS,tei-,,male ego's mother's sister's son,,,Ross2002,Inferred; NA
-mMyZS,tei-,,male ego's mother's sister's son,,,Ross2002,Inferred; NA
-mMeBD,lu-,,male ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-mMyBD,lu-,,male ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-mMeZD,lu-,,male ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-mMyZD,lu-,,male ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-mFBeS,tei-,,male ego's father's brother's son,,,Ross2002,Inferred; NA
-mFByS,tei-,,male ego's father's brother's son,,,Ross2002,Inferred; NA
-mFZeS,tei-,,male ego's father's sister's son,,,Ross2002,Inferred; NA
-mFZyS,tei-,,male ego's father's sister's son,,,Ross2002,Inferred; NA
-mFBeD,lu-,,male ego's father's brother's daughter,,,Ross2002,Inferred; NA
-mFByD,lu-,,male ego's father's brother's daughter,,,Ross2002,Inferred; NA
-mFZeD,lu-,,male ego's father's sister's daughter,,,Ross2002,Inferred; NA
-mFZyD,lu-,,male ego's father's sister's daughter,,,Ross2002,Inferred; NA
-mMBeS,tei-,,male ego's mother's brother's son,,,Ross2002,Inferred; NA
-mMByS,tei-,,male ego's mother's brother's son,,,Ross2002,Inferred; NA
-mMZeS,tei-,,male ego's mother's sister's son,,,Ross2002,Inferred; NA
-mMZyS,tei-,,male ego's mother's sister's son,,,Ross2002,Inferred; NA
-mMBeD,lu-,,male ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-mMByD,lu-,,male ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-mMZeD,lu-,,male ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-mMZyD,lu-,,male ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-fFeBS,lu-,,female ego's father's brother's son,,,Ross2002,Inferred; NA
-fFyBS,lu-,,female ego's father's brother's son,,,Ross2002,Inferred; NA
-fFeZS,lu-,,female ego's father's sister's son,,,Ross2002,Inferred; NA
-fFyZS,lu-,,female ego's father's sister's son,,,Ross2002,Inferred; NA
-fFeBD,tei-,,female ego's father's brother's daughter,,,Ross2002,Inferred; NA
-fFyBD,tei-,,female ego's father's brother's daughter,,,Ross2002,Inferred; NA
-fFeZD,nkol,,female ego's father's sister's daughter,,,Ross2002,Inferred; NA
-fFyZD,nkol,,female ego's father's sister's daughter,,,Ross2002,Inferred; NA
-fMeBS,lu-,,female ego's mother's brother's son,,,Ross2002,Inferred; NA
-fMyBS,lu-,,female ego's mother's brother's son,,,Ross2002,Inferred; NA
-fMeZS,lu-,,female ego's mother's sister's son,,,Ross2002,Inferred; NA
-fMyZS,lu-,,female ego's mother's sister's son,,,Ross2002,Inferred; NA
-fMeBD,nkol,,female ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-fMyBD,nkol,,female ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-fMeZD,tei-,,female ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-fMyZD,tei-,,female ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-fFBeS,lu-,,female ego's father's brother's son,,,Ross2002,Inferred; NA
-fFByS,lu-,,female ego's father's brother's son,,,Ross2002,Inferred; NA
-fFZeS,lu-,,female ego's father's sister's son,,,Ross2002,Inferred; NA
-fFZyS,lu-,,female ego's father's sister's son,,,Ross2002,Inferred; NA
-fFBeD,tei-,,female ego's father's brother's daughter,,,Ross2002,Inferred; NA
-fFByD,tei-,,female ego's father's brother's daughter,,,Ross2002,Inferred; NA
-fFZeD,nkol,,female ego's father's sister's daughter,,,Ross2002,Inferred; NA
-fFZyD,nkol,,female ego's father's sister's daughter,,,Ross2002,Inferred; NA
-fMBeS,lu-,,female ego's mother's brother's son,,,Ross2002,Inferred; NA
-fMByS,lu-,,female ego's mother's brother's son,,,Ross2002,Inferred; NA
-fMZeS,lu-,,female ego's mother's sister's son,,,Ross2002,Inferred; NA
-fMZyS,lu-,,female ego's mother's sister's son,,,Ross2002,Inferred; NA
-fMBeD,nkol,,female ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-fMByD,nkol,,female ego's mother's brother's daughter,,,Ross2002,Inferred; NA
-fMZeD,tei-,,female ego's mother's sister's daughter,,,Ross2002,Inferred; NA
-fMZyD,tei-,,female ego's mother's sister's daughter,,,Ross2002,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tei-",,"male ego's older brother",,,"Ross2002",""
+"myB","tei-",,"male ego's younger brother",,,"Ross2002",""
+"feB","lu-",,"female ego's older brother",,,"Ross2002",""
+"fyB","lu-",,"female ego's younger brother",,,"Ross2002",""
+"meZ","lu-",,"male ego's older sister",,,"Ross2002",""
+"myZ","lu-",,"male ego's younger sister",,,"Ross2002",""
+"feZ","tei-",,"female ego's older sister",,,"Ross2002",""
+"fyZ","tei-",,"female ego's younger sister",,,"Ross2002",""
+"mF","tama-",,"male ego's father",,,"Ross2002",""
+"mM","tna-",,"male ego's mother",,,"Ross2002",""
+"fF","tama-",,"female ego's father",,,"Ross2002",""
+"fM","tna-",,"female ego's mother",,,"Ross2002",""
+"mS","nanu-, bai",,"male ego's son",,,"Ross2002",""
+"fS","nanu-, nei",,"female ego's son",,,"Ross2002",""
+"mD","nanu-, bai",,"male ego's daughter",,,"Ross2002",""
+"fD","nanu-, nei",,"female ego's daughter",,,"Ross2002",""
+"mSS","tbu-",,"male ego's son's son",,,"Ross2002",""
+"mSD","tbu-",,"male ego's son's daughter",,,"Ross2002",""
+"mDS","tbu-",,"male ego's daughter's son",,,"Ross2002",""
+"mDD","tbu-",,"male ego's daughter's daughter",,,"Ross2002",""
+"fSS","tbu-",,"female ego's son's son",,,"Ross2002",""
+"fSD","tbu-",,"female ego's son's daughter",,,"Ross2002",""
+"fDS","tbu-",,"female ego's daughter's son",,,"Ross2002",""
+"fDD","tbu-",,"female ego's daugher's daughter",,,"Ross2002",""
+"mFF","tbu-",,"male ego's father‘s father",,,"Ross2002",""
+"mFM","tbu-",,"male ego's father's mother",,,"Ross2002",""
+"mMF","tbu-",,"male ego's mother's father",,,"Ross2002",""
+"mMM","tbu-",,"male ego's mother's mother",,,"Ross2002",""
+"fFF","tbu-",,"female ego's father's father",,,"Ross2002",""
+"fFM","tbu-",,"female ego's father's mother",,,"Ross2002",""
+"fMF","tbu-",,"female ego's mother's father",,,"Ross2002",""
+"fMM","tbu-",,"female ego's mother's mother",,,"Ross2002",""
+"meBS","nanu-",,"male ego's older brother's son",,,"Ross2002",""
+"myBS","nanu-",,"male ego's younger brother's son",,,"Ross2002",""
+"meZS","ngai",,"male ego's older sister's son",,,"Ross2002",""
+"myZS","ngai",,"male ego's younger sister's son",,,"Ross2002",""
+"meBD","nanu-",,"male ego's older brother's daughter",,,"Ross2002",""
+"myBD","nanu-",,"male ego's younger brother's daughter",,,"Ross2002",""
+"meZD","ngai",,"male ego's older sister's daughter",,,"Ross2002",""
+"myZD","ngai",,"male ego's younger sister's daughter",,,"Ross2002",""
+"feBS","nbi",,"female ego's older brother's son",,,"Ross2002",""
+"fyBS","nbi",,"female ego's younger brother's son",,,"Ross2002",""
+"feZS","nanu-",,"female ego's older sister's son",,,"Ross2002",""
+"fyZS","nanu-",,"female ego's younger sister's son",,,"Ross2002",""
+"feBD","nbi",,"female ego's older brother's daughter",,,"Ross2002",""
+"fyBD","nbi",,"female ego's younger brother's daughter",,,"Ross2002",""
+"feZD","nanu-",,"female ego's older sister's daughter",,,"Ross2002",""
+"fyZD","nanu-",,"female ego's younger sister's daughter",,,"Ross2002",""
+"mFeB","tama-",,"male ego's father's older brother",,,"Ross2002",""
+"mFyB","tama-",,"male ego's father's younger brother",,,"Ross2002",""
+"mFeZ","nbi",,"male ego's father's older sister",,,"Ross2002",""
+"mFyZ","nbi",,"male ego's father's younger sister",,,"Ross2002",""
+"mMeB","ngai",,"male ego's mother's older brother",,,"Ross2002",""
+"mMyB","ngai",,"male ego's mother's younger brother",,,"Ross2002",""
+"mMeZ","tna-",,"male ego's mother's older sister",,,"Ross2002",""
+"mMyZ","tna-",,"male ego's mother's younger sister",,,"Ross2002",""
+"fFeB","tama-",,"female ego's father's older brother",,,"Ross2002",""
+"fFyB","tama-",,"female ego's father's younger brother",,,"Ross2002",""
+"fFeZ","nbi",,"female ego's father's older sister",,,"Ross2002",""
+"fFyZ","nbi",,"female ego's father's younger sister",,,"Ross2002",""
+"fMeB","ngai",,"female ego's mother's older brother",,,"Ross2002",""
+"fMyB","ngai",,"female ego's mother's younger brother",,,"Ross2002",""
+"fMeZ","tna-",,"female ego's mother's older sister",,,"Ross2002",""
+"fMyZ","tna-",,"female ego's mother's younger sister",,,"Ross2002",""
+"mW","iwo-",,"male ego's wife",,,"Ross2002",""
+"fH","iwo-",,"female ego‘s husband",,,"Ross2002",""
+"mDH","nteŋ",,"male ego's daughter's husband",,,"Ross2002",""
+"fDH","rao-",,"female ego's daughter's husband",,,"Ross2002",""
+"mSW","rao-",,"male ego's son's wife",,,"Ross2002",""
+"fSW","rao-",,"female ego's son's wife",,,"Ross2002",""
+"mWF","nteŋ",,"male ego's wife's father",,,"Ross2002",""
+"mWM","rao-",,"male ego's wife's mother",,,"Ross2002",""
+"mWB","iwa-",,"male ego's wife's brother",,,"Ross2002",""
+"mWZ","tei-",,"male ego's wife's sister",,,"Ross2002",""
+"fHF","rao-",,"female ego's husband's father",,,"Ross2002",""
+"fHM","rao-",,"female ego's husband's mother",,,"Ross2002",""
+"fHB","tei-",,"female ego's husband's brother",,,"Ross2002",""
+"fHZ","iwa-",,"female ego's husband's sister",,,"Ross2002",""
+"mBW","tei-",,"male ego's brother's wife",,,"Ross2002",""
+"fBW","iwa-",,"female ego's brother's wife",,,"Ross2002",""
+"mZH","iwa-",,"male ego's sister's husband",,,"Ross2002",""
+"fZH","tei-",,"female ego's sister's husband",,,"Ross2002",""
+"mFBS","tei-",,"male ego's father's brother's son",,,"Ross2002",""
+"mFZS","tei-",,"male ego's father's sister's son",,,"Ross2002",""
+"mMBS","tei-",,"male ego's mother's brother's son",,,"Ross2002",""
+"mMZS","tei-",,"male ego's mother's sister's son",,,"Ross2002",""
+"mFBD","lu-",,"male ego's father's brother's daughter",,,"Ross2002",""
+"mFZD","lu-",,"male ego's father's sister's daughter",,,"Ross2002",""
+"mMBD","lu-",,"male ego's mother's brother's daughter",,,"Ross2002",""
+"mMZD","lu-",,"male ego's mother's sister's daughter",,,"Ross2002",""
+"fFBS","lu-",,"female ego's father's brother's son",,,"Ross2002",""
+"fFZS","lu-",,"female ego's father's sister's son",,,"Ross2002",""
+"fMBS","lu-",,"female ego's mother's brother's son",,,"Ross2002",""
+"fMZS","lu-",,"female ego's mother's sister's son",,,"Ross2002",""
+"fFBD","tei-",,"female ego's father's brother's daughter",,,"Ross2002",""
+"fFZD","nkol",,"female ego's father's sister's daughter",,,"Ross2002",""
+"fMBD","nkol",,"female ego's mother's brother's daughter",,,"Ross2002",""
+"fMZD","tei-",,"female ego's mother's sister's daughter",,,"Ross2002",""
+"mFeBS","tei-",,"male ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"mFyBS","tei-",,"male ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"mFeZS","tei-",,"male ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"mFyZS","tei-",,"male ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"mFeBD","lu-",,"male ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"mFyBD","lu-",,"male ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"mFeZD","lu-",,"male ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"mFyZD","lu-",,"male ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"mMeBS","tei-",,"male ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"mMyBS","tei-",,"male ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"mMeZS","tei-",,"male ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"mMyZS","tei-",,"male ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"mMeBD","lu-",,"male ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"mMyBD","lu-",,"male ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"mMeZD","lu-",,"male ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"mMyZD","lu-",,"male ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"mFBeS","tei-",,"male ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"mFByS","tei-",,"male ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"mFZeS","tei-",,"male ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"mFZyS","tei-",,"male ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"mFBeD","lu-",,"male ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"mFByD","lu-",,"male ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"mFZeD","lu-",,"male ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"mFZyD","lu-",,"male ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"mMBeS","tei-",,"male ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"mMByS","tei-",,"male ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"mMZeS","tei-",,"male ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"mMZyS","tei-",,"male ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"mMBeD","lu-",,"male ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"mMByD","lu-",,"male ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"mMZeD","lu-",,"male ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"mMZyD","lu-",,"male ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"fFeBS","lu-",,"female ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"fFyBS","lu-",,"female ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"fFeZS","lu-",,"female ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"fFyZS","lu-",,"female ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"fFeBD","tei-",,"female ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"fFyBD","tei-",,"female ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"fFeZD","nkol",,"female ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"fFyZD","nkol",,"female ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"fMeBS","lu-",,"female ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"fMyBS","lu-",,"female ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"fMeZS","lu-",,"female ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"fMyZS","lu-",,"female ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"fMeBD","nkol",,"female ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"fMyBD","nkol",,"female ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"fMeZD","tei-",,"female ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"fMyZD","tei-",,"female ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"fFBeS","lu-",,"female ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"fFByS","lu-",,"female ego's father's brother's son",,,"Ross2002","Inferred; NA"
+"fFZeS","lu-",,"female ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"fFZyS","lu-",,"female ego's father's sister's son",,,"Ross2002","Inferred; NA"
+"fFBeD","tei-",,"female ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"fFByD","tei-",,"female ego's father's brother's daughter",,,"Ross2002","Inferred; NA"
+"fFZeD","nkol",,"female ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"fFZyD","nkol",,"female ego's father's sister's daughter",,,"Ross2002","Inferred; NA"
+"fMBeS","lu-",,"female ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"fMByS","lu-",,"female ego's mother's brother's son",,,"Ross2002","Inferred; NA"
+"fMZeS","lu-",,"female ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"fMZyS","lu-",,"female ego's mother's sister's son",,,"Ross2002","Inferred; NA"
+"fMBeD","nkol",,"female ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"fMByD","nkol",,"female ego's mother's brother's daughter",,,"Ross2002","Inferred; NA"
+"fMZeD","tei-",,"female ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"
+"fMZyD","tei-",,"female ego's mother's sister's daughter",,,"Ross2002","Inferred; NA"

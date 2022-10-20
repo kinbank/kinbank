@@ -1,145 +1,145 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kabsat,,male ego's older brother,,,Afable1989,
-myB,áding,,male ego's younger brother,,,Afable1989,
-feB,kabsat,,female ego's older brother,,,Afable1989,
-fyB,áding,,female ego's younger brother,,,Afable1989,
-meZ,kabsat,,male ego's older sister,,,Afable1989,
-myZ,áding,,male ego's younger sister,,,Afable1989,
-feZ,kabsat,,female ego's older sister,,,Afable1989,
-fyZ,áding,,female ego's younger sister,,,Afable1989,
-mF,ama,,male ego's father,,,Afable1989,
-mM,ina,,male ego's mother,,,Afable1989,
-fF,ama,,female ego's father,,,Afable1989,
-fM,ina,,female ego's mother,,,Afable1989,
-mS,anak,,male ego's son,,,Afable1989,
-fS,anak,,female ego's son,,,Afable1989,
-mD,anak,,male ego's daughter,,,Afable1989,
-fD,anak,,female ego's daughter,,,Afable1989,
-mSS,apu,,male ego's son's son,,,Afable1989,
-mSD,apu,,male ego's son's daughter,,,Afable1989,
-mDS,apu,,male ego's daughter's son,,,Afable1989,
-mDD,apu,,male ego's daughter's daughter,,,Afable1989,
-fSS,apu,,female ego's son's son,,,Afable1989,
-fSD,apu,,female ego's son's daughter,,,Afable1989,
-fDS,apu,,female ego's daughter's son,,,Afable1989,
-fDD,apu,,female ego's daugher's daughter,,,Afable1989,
-mFF,"apu, lúlung",,male ego's father‘s father,,,Afable1989,
-mFM,"apu, lúlang",,male ego's father's mother,,,Afable1989,
-mMF,"apu, lúlung",,male ego's mother's father,,,Afable1989,
-mMM,"apu, lúlang",,male ego's mother's mother,,,Afable1989,
-fFF,"apu, lúlung",,female ego's father's father,,,Afable1989,
-fFM,"apu, lúlang",,female ego's father's mother,,,Afable1989,
-fMF,"apu, lúlung",,female ego's mother's father,,,Afable1989,
-fMM,"apu, lúlang",,female ego's mother's mother,,,Afable1989,
-meBS,ka'anakan,,male ego's older brother's son,,,Afable1989,
-myBS,ka'anakan,,male ego's younger brother's son,,,Afable1989,
-meZS,ka'anakan,,male ego's older sister's son,,,Afable1989,
-myZS,ka'anakan,,male ego's younger sister's son,,,Afable1989,
-meBD,ka'anakan,,male ego's older brother's daughter,,,Afable1989,
-myBD,ka'anakan,,male ego's younger brother's daughter,,,Afable1989,
-meZD,ka'anakan,,male ego's older sister's daughter,,,Afable1989,
-myZD,ka'anakan,,male ego's younger sister's daughter,,,Afable1989,
-feBS,ka'anakan,,female ego's older brother's son,,,Afable1989,
-fyBS,ka'anakan,,female ego's younger brother's son,,,Afable1989,
-feZS,ka'anakan,,female ego's older sister's son,,,Afable1989,
-fyZS,ka'anakan,,female ego's younger sister's son,,,Afable1989,
-feBD,ka'anakan,,female ego's older brother's daughter,,,Afable1989,
-fyBD,ka'anakan,,female ego's younger brother's daughter,,,Afable1989,
-feZD,ka'anakan,,female ego's older sister's daughter,,,Afable1989,
-fyZD,ka'anakan,,female ego's younger sister's daughter,,,Afable1989,
-mFeB,pangama'en,,male ego's father's older brother,,,Afable1989,
-mFyB,pangama'en,,male ego's father's younger brother,,,Afable1989,
-mFeZ,pangina'en,,male ego's father's older sister,,,Afable1989,
-mFyZ,pangina'en,,male ego's father's younger sister,,,Afable1989,
-mMeB,pangama'en,,male ego's mother's older brother,,,Afable1989,
-mMyB,pangama'en,,male ego's mother's younger brother,,,Afable1989,
-mMeZ,pangina'en,,male ego's mother's older sister,,,Afable1989,
-mMyZ,pangina'en,,male ego's mother's younger sister,,,Afable1989,
-fFeB,pangama'en,,female ego's father's older brother,,,Afable1989,
-fFyB,pangama'en,,female ego's father's younger brother,,,Afable1989,
-fFeZ,pangina'en,,female ego's father's older sister,,,Afable1989,
-fFyZ,pangina'en,,female ego's father's younger sister,,,Afable1989,
-fMeB,pangama'en,,female ego's mother's older brother,,,Afable1989,
-fMyB,pangama'en,,female ego's mother's younger brother,,,Afable1989,
-fMeZ,pangina'en,,female ego's mother's older sister,,,Afable1989,
-fMyZ,pangina'en,,female ego's mother's younger sister,,,Afable1989,
-mFBS,kasinsin,,male ego's father's brother's son,,,Afable1989,
-mFZS,kasinsin,,male ego's father's sister's son,,,Afable1989,
-mMBS,kasinsin,,male ego's mother's brother's son,,,Afable1989,
-mMZS,kasinsin,,male ego's mother's sister's son,,,Afable1989,
-mFBD,kasinsin,,male ego's father's brother's daughter,,,Afable1989,
-mFZD,kasinsin,,male ego's father's sister's daughter,,,Afable1989,
-mMBD,kasinsin,,male ego's mother's brother's daughter,,,Afable1989,
-mMZD,kasinsin,,male ego's mother's sister's daughter,,,Afable1989,
-fFBS,kasinsin,,female ego's father's brother's son,,,Afable1989,
-fFZS,kasinsin,,female ego's father's sister's son,,,Afable1989,
-fMBS,kasinsin,,female ego's mother's brother's son,,,Afable1989,
-fMZS,kasinsin,,female ego's mother's sister's son,,,Afable1989,
-fFBD,kasinsin,,female ego's father's brother's daughter,,,Afable1989,
-fFZD,kasinsin,,female ego's father's sister's daughter,,,Afable1989,
-fMBD,kasinsin,,female ego's mother's brother's daughter,,,Afable1989,
-fMZD,kasinsin,,female ego's mother's sister's daughter,,,Afable1989,
-mFeBS,kasinsin,,male ego's father's brother's son,,,Afable1989,Inferred; NA
-mFyBS,kasinsin,,male ego's father's brother's son,,,Afable1989,Inferred; NA
-mFeZS,kasinsin,,male ego's father's sister's son,,,Afable1989,Inferred; NA
-mFyZS,kasinsin,,male ego's father's sister's son,,,Afable1989,Inferred; NA
-mFeBD,kasinsin,,male ego's father's brother's daughter,,,Afable1989,Inferred; NA
-mFyBD,kasinsin,,male ego's father's brother's daughter,,,Afable1989,Inferred; NA
-mFeZD,kasinsin,,male ego's father's sister's daughter,,,Afable1989,Inferred; NA
-mFyZD,kasinsin,,male ego's father's sister's daughter,,,Afable1989,Inferred; NA
-mMeBS,kasinsin,,male ego's mother's brother's son,,,Afable1989,Inferred; NA
-mMyBS,kasinsin,,male ego's mother's brother's son,,,Afable1989,Inferred; NA
-mMeZS,kasinsin,,male ego's mother's sister's son,,,Afable1989,Inferred; NA
-mMyZS,kasinsin,,male ego's mother's sister's son,,,Afable1989,Inferred; NA
-mMeBD,kasinsin,,male ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-mMyBD,kasinsin,,male ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-mMeZD,kasinsin,,male ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-mMyZD,kasinsin,,male ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-mFBeS,kasinsin,,male ego's father's brother's son,,,Afable1989,Inferred; NA
-mFByS,kasinsin,,male ego's father's brother's son,,,Afable1989,Inferred; NA
-mFZeS,kasinsin,,male ego's father's sister's son,,,Afable1989,Inferred; NA
-mFZyS,kasinsin,,male ego's father's sister's son,,,Afable1989,Inferred; NA
-mFBeD,kasinsin,,male ego's father's brother's daughter,,,Afable1989,Inferred; NA
-mFByD,kasinsin,,male ego's father's brother's daughter,,,Afable1989,Inferred; NA
-mFZeD,kasinsin,,male ego's father's sister's daughter,,,Afable1989,Inferred; NA
-mFZyD,kasinsin,,male ego's father's sister's daughter,,,Afable1989,Inferred; NA
-mMBeS,kasinsin,,male ego's mother's brother's son,,,Afable1989,Inferred; NA
-mMByS,kasinsin,,male ego's mother's brother's son,,,Afable1989,Inferred; NA
-mMZeS,kasinsin,,male ego's mother's sister's son,,,Afable1989,Inferred; NA
-mMZyS,kasinsin,,male ego's mother's sister's son,,,Afable1989,Inferred; NA
-mMBeD,kasinsin,,male ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-mMByD,kasinsin,,male ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-mMZeD,kasinsin,,male ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-mMZyD,kasinsin,,male ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-fFeBS,kasinsin,,female ego's father's brother's son,,,Afable1989,Inferred; NA
-fFyBS,kasinsin,,female ego's father's brother's son,,,Afable1989,Inferred; NA
-fFeZS,kasinsin,,female ego's father's sister's son,,,Afable1989,Inferred; NA
-fFyZS,kasinsin,,female ego's father's sister's son,,,Afable1989,Inferred; NA
-fFeBD,kasinsin,,female ego's father's brother's daughter,,,Afable1989,Inferred; NA
-fFyBD,kasinsin,,female ego's father's brother's daughter,,,Afable1989,Inferred; NA
-fFeZD,kasinsin,,female ego's father's sister's daughter,,,Afable1989,Inferred; NA
-fFyZD,kasinsin,,female ego's father's sister's daughter,,,Afable1989,Inferred; NA
-fMeBS,kasinsin,,female ego's mother's brother's son,,,Afable1989,Inferred; NA
-fMyBS,kasinsin,,female ego's mother's brother's son,,,Afable1989,Inferred; NA
-fMeZS,kasinsin,,female ego's mother's sister's son,,,Afable1989,Inferred; NA
-fMyZS,kasinsin,,female ego's mother's sister's son,,,Afable1989,Inferred; NA
-fMeBD,kasinsin,,female ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-fMyBD,kasinsin,,female ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-fMeZD,kasinsin,,female ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-fMyZD,kasinsin,,female ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-fFBeS,kasinsin,,female ego's father's brother's son,,,Afable1989,Inferred; NA
-fFByS,kasinsin,,female ego's father's brother's son,,,Afable1989,Inferred; NA
-fFZeS,kasinsin,,female ego's father's sister's son,,,Afable1989,Inferred; NA
-fFZyS,kasinsin,,female ego's father's sister's son,,,Afable1989,Inferred; NA
-fFBeD,kasinsin,,female ego's father's brother's daughter,,,Afable1989,Inferred; NA
-fFByD,kasinsin,,female ego's father's brother's daughter,,,Afable1989,Inferred; NA
-fFZeD,kasinsin,,female ego's father's sister's daughter,,,Afable1989,Inferred; NA
-fFZyD,kasinsin,,female ego's father's sister's daughter,,,Afable1989,Inferred; NA
-fMBeS,kasinsin,,female ego's mother's brother's son,,,Afable1989,Inferred; NA
-fMByS,kasinsin,,female ego's mother's brother's son,,,Afable1989,Inferred; NA
-fMZeS,kasinsin,,female ego's mother's sister's son,,,Afable1989,Inferred; NA
-fMZyS,kasinsin,,female ego's mother's sister's son,,,Afable1989,Inferred; NA
-fMBeD,kasinsin,,female ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-fMByD,kasinsin,,female ego's mother's brother's daughter,,,Afable1989,Inferred; NA
-fMZeD,kasinsin,,female ego's mother's sister's daughter,,,Afable1989,Inferred; NA
-fMZyD,kasinsin,,female ego's mother's sister's daughter,,,Afable1989,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kabsat",,"male ego's older brother",,,"Afable1989",""
+"myB","áding",,"male ego's younger brother",,,"Afable1989",""
+"feB","kabsat",,"female ego's older brother",,,"Afable1989",""
+"fyB","áding",,"female ego's younger brother",,,"Afable1989",""
+"meZ","kabsat",,"male ego's older sister",,,"Afable1989",""
+"myZ","áding",,"male ego's younger sister",,,"Afable1989",""
+"feZ","kabsat",,"female ego's older sister",,,"Afable1989",""
+"fyZ","áding",,"female ego's younger sister",,,"Afable1989",""
+"mF","ama",,"male ego's father",,,"Afable1989",""
+"mM","ina",,"male ego's mother",,,"Afable1989",""
+"fF","ama",,"female ego's father",,,"Afable1989",""
+"fM","ina",,"female ego's mother",,,"Afable1989",""
+"mS","anak",,"male ego's son",,,"Afable1989",""
+"fS","anak",,"female ego's son",,,"Afable1989",""
+"mD","anak",,"male ego's daughter",,,"Afable1989",""
+"fD","anak",,"female ego's daughter",,,"Afable1989",""
+"mSS","apu",,"male ego's son's son",,,"Afable1989",""
+"mSD","apu",,"male ego's son's daughter",,,"Afable1989",""
+"mDS","apu",,"male ego's daughter's son",,,"Afable1989",""
+"mDD","apu",,"male ego's daughter's daughter",,,"Afable1989",""
+"fSS","apu",,"female ego's son's son",,,"Afable1989",""
+"fSD","apu",,"female ego's son's daughter",,,"Afable1989",""
+"fDS","apu",,"female ego's daughter's son",,,"Afable1989",""
+"fDD","apu",,"female ego's daugher's daughter",,,"Afable1989",""
+"mFF","apu, lúlung",,"male ego's father‘s father",,,"Afable1989",""
+"mFM","apu, lúlang",,"male ego's father's mother",,,"Afable1989",""
+"mMF","apu, lúlung",,"male ego's mother's father",,,"Afable1989",""
+"mMM","apu, lúlang",,"male ego's mother's mother",,,"Afable1989",""
+"fFF","apu, lúlung",,"female ego's father's father",,,"Afable1989",""
+"fFM","apu, lúlang",,"female ego's father's mother",,,"Afable1989",""
+"fMF","apu, lúlung",,"female ego's mother's father",,,"Afable1989",""
+"fMM","apu, lúlang",,"female ego's mother's mother",,,"Afable1989",""
+"meBS","ka'anakan",,"male ego's older brother's son",,,"Afable1989",""
+"myBS","ka'anakan",,"male ego's younger brother's son",,,"Afable1989",""
+"meZS","ka'anakan",,"male ego's older sister's son",,,"Afable1989",""
+"myZS","ka'anakan",,"male ego's younger sister's son",,,"Afable1989",""
+"meBD","ka'anakan",,"male ego's older brother's daughter",,,"Afable1989",""
+"myBD","ka'anakan",,"male ego's younger brother's daughter",,,"Afable1989",""
+"meZD","ka'anakan",,"male ego's older sister's daughter",,,"Afable1989",""
+"myZD","ka'anakan",,"male ego's younger sister's daughter",,,"Afable1989",""
+"feBS","ka'anakan",,"female ego's older brother's son",,,"Afable1989",""
+"fyBS","ka'anakan",,"female ego's younger brother's son",,,"Afable1989",""
+"feZS","ka'anakan",,"female ego's older sister's son",,,"Afable1989",""
+"fyZS","ka'anakan",,"female ego's younger sister's son",,,"Afable1989",""
+"feBD","ka'anakan",,"female ego's older brother's daughter",,,"Afable1989",""
+"fyBD","ka'anakan",,"female ego's younger brother's daughter",,,"Afable1989",""
+"feZD","ka'anakan",,"female ego's older sister's daughter",,,"Afable1989",""
+"fyZD","ka'anakan",,"female ego's younger sister's daughter",,,"Afable1989",""
+"mFeB","pangama'en",,"male ego's father's older brother",,,"Afable1989",""
+"mFyB","pangama'en",,"male ego's father's younger brother",,,"Afable1989",""
+"mFeZ","pangina'en",,"male ego's father's older sister",,,"Afable1989",""
+"mFyZ","pangina'en",,"male ego's father's younger sister",,,"Afable1989",""
+"mMeB","pangama'en",,"male ego's mother's older brother",,,"Afable1989",""
+"mMyB","pangama'en",,"male ego's mother's younger brother",,,"Afable1989",""
+"mMeZ","pangina'en",,"male ego's mother's older sister",,,"Afable1989",""
+"mMyZ","pangina'en",,"male ego's mother's younger sister",,,"Afable1989",""
+"fFeB","pangama'en",,"female ego's father's older brother",,,"Afable1989",""
+"fFyB","pangama'en",,"female ego's father's younger brother",,,"Afable1989",""
+"fFeZ","pangina'en",,"female ego's father's older sister",,,"Afable1989",""
+"fFyZ","pangina'en",,"female ego's father's younger sister",,,"Afable1989",""
+"fMeB","pangama'en",,"female ego's mother's older brother",,,"Afable1989",""
+"fMyB","pangama'en",,"female ego's mother's younger brother",,,"Afable1989",""
+"fMeZ","pangina'en",,"female ego's mother's older sister",,,"Afable1989",""
+"fMyZ","pangina'en",,"female ego's mother's younger sister",,,"Afable1989",""
+"mFBS","kasinsin",,"male ego's father's brother's son",,,"Afable1989",""
+"mFZS","kasinsin",,"male ego's father's sister's son",,,"Afable1989",""
+"mMBS","kasinsin",,"male ego's mother's brother's son",,,"Afable1989",""
+"mMZS","kasinsin",,"male ego's mother's sister's son",,,"Afable1989",""
+"mFBD","kasinsin",,"male ego's father's brother's daughter",,,"Afable1989",""
+"mFZD","kasinsin",,"male ego's father's sister's daughter",,,"Afable1989",""
+"mMBD","kasinsin",,"male ego's mother's brother's daughter",,,"Afable1989",""
+"mMZD","kasinsin",,"male ego's mother's sister's daughter",,,"Afable1989",""
+"fFBS","kasinsin",,"female ego's father's brother's son",,,"Afable1989",""
+"fFZS","kasinsin",,"female ego's father's sister's son",,,"Afable1989",""
+"fMBS","kasinsin",,"female ego's mother's brother's son",,,"Afable1989",""
+"fMZS","kasinsin",,"female ego's mother's sister's son",,,"Afable1989",""
+"fFBD","kasinsin",,"female ego's father's brother's daughter",,,"Afable1989",""
+"fFZD","kasinsin",,"female ego's father's sister's daughter",,,"Afable1989",""
+"fMBD","kasinsin",,"female ego's mother's brother's daughter",,,"Afable1989",""
+"fMZD","kasinsin",,"female ego's mother's sister's daughter",,,"Afable1989",""
+"mFeBS","kasinsin",,"male ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"mFyBS","kasinsin",,"male ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"mFeZS","kasinsin",,"male ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"mFyZS","kasinsin",,"male ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"mFeBD","kasinsin",,"male ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"mFyBD","kasinsin",,"male ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"mFeZD","kasinsin",,"male ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"mFyZD","kasinsin",,"male ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"mMeBS","kasinsin",,"male ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"mMyBS","kasinsin",,"male ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"mMeZS","kasinsin",,"male ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"mMyZS","kasinsin",,"male ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"mMeBD","kasinsin",,"male ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"mMyBD","kasinsin",,"male ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"mMeZD","kasinsin",,"male ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"mMyZD","kasinsin",,"male ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"mFBeS","kasinsin",,"male ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"mFByS","kasinsin",,"male ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"mFZeS","kasinsin",,"male ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"mFZyS","kasinsin",,"male ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"mFBeD","kasinsin",,"male ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"mFByD","kasinsin",,"male ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"mFZeD","kasinsin",,"male ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"mFZyD","kasinsin",,"male ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"mMBeS","kasinsin",,"male ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"mMByS","kasinsin",,"male ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"mMZeS","kasinsin",,"male ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"mMZyS","kasinsin",,"male ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"mMBeD","kasinsin",,"male ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"mMByD","kasinsin",,"male ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"mMZeD","kasinsin",,"male ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"mMZyD","kasinsin",,"male ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"fFeBS","kasinsin",,"female ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"fFyBS","kasinsin",,"female ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"fFeZS","kasinsin",,"female ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"fFyZS","kasinsin",,"female ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"fFeBD","kasinsin",,"female ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"fFyBD","kasinsin",,"female ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"fFeZD","kasinsin",,"female ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"fFyZD","kasinsin",,"female ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"fMeBS","kasinsin",,"female ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"fMyBS","kasinsin",,"female ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"fMeZS","kasinsin",,"female ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"fMyZS","kasinsin",,"female ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"fMeBD","kasinsin",,"female ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"fMyBD","kasinsin",,"female ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"fMeZD","kasinsin",,"female ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"fMyZD","kasinsin",,"female ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"fFBeS","kasinsin",,"female ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"fFByS","kasinsin",,"female ego's father's brother's son",,,"Afable1989","Inferred; NA"
+"fFZeS","kasinsin",,"female ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"fFZyS","kasinsin",,"female ego's father's sister's son",,,"Afable1989","Inferred; NA"
+"fFBeD","kasinsin",,"female ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"fFByD","kasinsin",,"female ego's father's brother's daughter",,,"Afable1989","Inferred; NA"
+"fFZeD","kasinsin",,"female ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"fFZyD","kasinsin",,"female ego's father's sister's daughter",,,"Afable1989","Inferred; NA"
+"fMBeS","kasinsin",,"female ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"fMByS","kasinsin",,"female ego's mother's brother's son",,,"Afable1989","Inferred; NA"
+"fMZeS","kasinsin",,"female ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"fMZyS","kasinsin",,"female ego's mother's sister's son",,,"Afable1989","Inferred; NA"
+"fMBeD","kasinsin",,"female ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"fMByD","kasinsin",,"female ego's mother's brother's daughter",,,"Afable1989","Inferred; NA"
+"fMZeD","kasinsin",,"female ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"
+"fMZyD","kasinsin",,"female ego's mother's sister's daughter",,,"Afable1989","Inferred; NA"

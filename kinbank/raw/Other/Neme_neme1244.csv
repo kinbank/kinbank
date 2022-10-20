@@ -1,80 +1,80 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ane,,male ego's older brother,,,Williams1936,
-myB,nungan,,male ego's younger brother,,,Williams1936,
-meZ,ane,,male ego's older sister,,,Williams1936,
-myZ,nungan,,male ego's younger sister,,,Williams1936,
-mF,deve,,male ego's father,,,Williams1936,
-mM,ama,,male ego's mother,,,Williams1936,
-fF,deve,,female ego's father,,,Williams1936,
-fM,ama,,female ego's mother,,,Williams1936,
-mS,toge,,male ego's son,,,Williams1936,
-fS,toge,,female ego's son,,,Williams1936,
-mD,merej,,male ego's daughter,,,Williams1936,
-fD,merej,,female ego's daughter,,,Williams1936,
-mSS,kaki,,male ego's son's son,,,Williams1936,
-mSD,kaki,,male ego's son's daughter,,,Williams1936,
-mDS,kaki,,male ego's daughter's son,,,Williams1936,
-mDD,kaki,,male ego's daughter's daughter,,,Williams1936,
-fSS,kaki,,female ego's son's son,,,Williams1936,
-fSD,kaki,,female ego's son's daughter,,,Williams1936,
-fDS,kaki,,female ego's daughter's son,,,Williams1936,
-fDD,kaki,,female ego's daugher's daughter,,,Williams1936,
-mFF,kaki,,male ego's father‘s father,,,Williams1936,
-mFM,kaki,,male ego's father's mother,,,Williams1936,
-mMF,kaki,,male ego's mother's father,,,Williams1936,
-mMM,kaki,,male ego's mother's mother,,,Williams1936,
-fFF,kaki,,female ego's father's father,,,Williams1936,
-fFM,kaki,,female ego's father's mother,,,Williams1936,
-fMF,kaki,,female ego's mother's father,,,Williams1936,
-fMM,kaki,,female ego's mother's mother,,,Williams1936,
-meBS,toge,,male ego's older brother's son,,,Williams1936,
-myBS,tasor,,male ego's younger brother's son,,,Williams1936,
-meZS,bava,,male ego's older sister's son,,,Williams1936,
-myZS,bava,,male ego's younger sister's son,,,Williams1936,
-meBD,merej,,male ego's older brother's daughter,,,Williams1936,
-myBD,tasor,,male ego's younger brother's daughter,,,Williams1936,
-meZD,bava,,male ego's older sister's daughter,,,Williams1936,
-myZD,bava,,male ego's younger sister's daughter,,,Williams1936,
-feZS,bava,,female ego's older sister's son,,,Williams1936,
-fyZS,bava,,female ego's younger sister's son,,,Williams1936,
-feZD,bava,,female ego's older sister's daughter,,,Williams1936,
-fyZD,bava,,female ego's younger sister's daughter,,,Williams1936,
-mFeB,tasor,,male ego's father's older brother,,,Williams1936,
-mFyB,deve-toge,,male ego's father's younger brother,,,Williams1936,
-mFeZ,mwidadum,,male ego's father's older sister,,,Williams1936,
-mFyZ,mwidadum,,male ego's father's younger sister,,,Williams1936,
-mMeB,bava,,male ego's mother's older brother,,,Williams1936,
-mMyB,bava,,male ego's mother's younger brother,,,Williams1936,
-mMeZ,bava,,male ego's mother's older sister,,,Williams1936,
-mMyZ,bava,,male ego's mother's younger sister,,,Williams1936,
-fFeB,tasor,,female ego's father's older brother,,,Williams1936,
-mW,damave,,male ego's wife,,,Williams1936,
-fDH,tamat,,female ego's daughter's husband,,,Williams1936,
-mSW,kaki,,male ego's son's wife,,,Williams1936,
-fSW,kaki,,female ego's son's wife,,,Williams1936,
-mWF,tamat,,male ego's wife's father,,,Williams1936,
-mWM,tamat,,male ego's wife's mother,,,Williams1936,
-mWB,"kamat, ane-damave",,male ego's wife's brother,,,Williams1936,ane-damave = elder brother's wife
-mWZ,kamat,,male ego's wife's sister,,,Williams1936,
-fHF,kaki,,female ego's husband's father,,,Williams1936,
-fHB,tasor,,female ego's husband's brother,,,Williams1936,
-mZH,kamat,,male ego's sister's husband,,,Williams1936,
-fZH,kamat,,female ego's sister's husband,,,Williams1936,
-mFBeS,ane,,male ego‘s father‘s brother‘s older son,,,Williams1936,
-mFByS,nungan,,male ego‘s father‘s brother‘s younger son,,,Williams1936,
-mFBeD,ane,,male ego‘s father‘s brother‘s older daughter,,,Williams1936,
-mFByD,nungan,,male ego‘s father‘s brother‘s younger daughter,,,Williams1936,
-mMBeS,mwitei,,male ego‘s mother‘s brother‘s older son,,,Williams1936,
-mMByS,mwitei,,male ego‘s mother‘s brother‘s younger son,,,Williams1936,
-mMBeD,mwitei,,male ego‘s mother‘s brother‘s older daughter,,,Williams1936,
-mMByD,mwitei,,male ego‘s mother‘s brother‘s younger daughter,,,Williams1936,
-mMZeS,yakar,,male ego‘s mother‘s sisters‘s older son,,,Williams1936,
-mMZyS,yakar,,male ego‘s mother‘s sisters‘s younger son,,,Williams1936,
-mMZeD,yakar,,male ego‘s mother‘s sisters‘s older daughter,,,Williams1936,
-mMZyD,yakar,,male ego‘s mother‘s sisters‘s younger daughter,,,Williams1936,
-fFZeS,mwitei,,female ego‘s father‘s sisters‘s older son,,,Williams1936,
-fFZyS,mwitei,,female ego‘s father‘s sisters‘s younger son,,,Williams1936,
-fMBeS,mwitei,,female ego‘s mother‘s brother‘s older son,,,Williams1936,
-fMByS,mwitei,,female ego‘s mother‘s brother‘s younger son,,,Williams1936,
-fMZeS,yakar,,female ego‘s mother‘s sisters‘s older son,,,Williams1936,
-fMZyS,yakar,,female ego‘s mother‘s sisters‘s younger son,,,Williams1936,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ane",,"male ego's older brother",,,"Williams1936",""
+"myB","nungan",,"male ego's younger brother",,,"Williams1936",""
+"meZ","ane",,"male ego's older sister",,,"Williams1936",""
+"myZ","nungan",,"male ego's younger sister",,,"Williams1936",""
+"mF","deve",,"male ego's father",,,"Williams1936",""
+"mM","ama",,"male ego's mother",,,"Williams1936",""
+"fF","deve",,"female ego's father",,,"Williams1936",""
+"fM","ama",,"female ego's mother",,,"Williams1936",""
+"mS","toge",,"male ego's son",,,"Williams1936",""
+"fS","toge",,"female ego's son",,,"Williams1936",""
+"mD","merej",,"male ego's daughter",,,"Williams1936",""
+"fD","merej",,"female ego's daughter",,,"Williams1936",""
+"mSS","kaki",,"male ego's son's son",,,"Williams1936",""
+"mSD","kaki",,"male ego's son's daughter",,,"Williams1936",""
+"mDS","kaki",,"male ego's daughter's son",,,"Williams1936",""
+"mDD","kaki",,"male ego's daughter's daughter",,,"Williams1936",""
+"fSS","kaki",,"female ego's son's son",,,"Williams1936",""
+"fSD","kaki",,"female ego's son's daughter",,,"Williams1936",""
+"fDS","kaki",,"female ego's daughter's son",,,"Williams1936",""
+"fDD","kaki",,"female ego's daugher's daughter",,,"Williams1936",""
+"mFF","kaki",,"male ego's father‘s father",,,"Williams1936",""
+"mFM","kaki",,"male ego's father's mother",,,"Williams1936",""
+"mMF","kaki",,"male ego's mother's father",,,"Williams1936",""
+"mMM","kaki",,"male ego's mother's mother",,,"Williams1936",""
+"fFF","kaki",,"female ego's father's father",,,"Williams1936",""
+"fFM","kaki",,"female ego's father's mother",,,"Williams1936",""
+"fMF","kaki",,"female ego's mother's father",,,"Williams1936",""
+"fMM","kaki",,"female ego's mother's mother",,,"Williams1936",""
+"meBS","toge",,"male ego's older brother's son",,,"Williams1936",""
+"myBS","tasor",,"male ego's younger brother's son",,,"Williams1936",""
+"meZS","bava",,"male ego's older sister's son",,,"Williams1936",""
+"myZS","bava",,"male ego's younger sister's son",,,"Williams1936",""
+"meBD","merej",,"male ego's older brother's daughter",,,"Williams1936",""
+"myBD","tasor",,"male ego's younger brother's daughter",,,"Williams1936",""
+"meZD","bava",,"male ego's older sister's daughter",,,"Williams1936",""
+"myZD","bava",,"male ego's younger sister's daughter",,,"Williams1936",""
+"feZS","bava",,"female ego's older sister's son",,,"Williams1936",""
+"fyZS","bava",,"female ego's younger sister's son",,,"Williams1936",""
+"feZD","bava",,"female ego's older sister's daughter",,,"Williams1936",""
+"fyZD","bava",,"female ego's younger sister's daughter",,,"Williams1936",""
+"mFeB","tasor",,"male ego's father's older brother",,,"Williams1936",""
+"mFyB","deve-toge",,"male ego's father's younger brother",,,"Williams1936",""
+"mFeZ","mwidadum",,"male ego's father's older sister",,,"Williams1936",""
+"mFyZ","mwidadum",,"male ego's father's younger sister",,,"Williams1936",""
+"mMeB","bava",,"male ego's mother's older brother",,,"Williams1936",""
+"mMyB","bava",,"male ego's mother's younger brother",,,"Williams1936",""
+"mMeZ","bava",,"male ego's mother's older sister",,,"Williams1936",""
+"mMyZ","bava",,"male ego's mother's younger sister",,,"Williams1936",""
+"fFeB","tasor",,"female ego's father's older brother",,,"Williams1936",""
+"mW","damave",,"male ego's wife",,,"Williams1936",""
+"fDH","tamat",,"female ego's daughter's husband",,,"Williams1936",""
+"mSW","kaki",,"male ego's son's wife",,,"Williams1936",""
+"fSW","kaki",,"female ego's son's wife",,,"Williams1936",""
+"mWF","tamat",,"male ego's wife's father",,,"Williams1936",""
+"mWM","tamat",,"male ego's wife's mother",,,"Williams1936",""
+"mWB","kamat, ane-damave",,"male ego's wife's brother",,,"Williams1936","ane-damave = elder brother's wife"
+"mWZ","kamat",,"male ego's wife's sister",,,"Williams1936",""
+"fHF","kaki",,"female ego's husband's father",,,"Williams1936",""
+"fHB","tasor",,"female ego's husband's brother",,,"Williams1936",""
+"mZH","kamat",,"male ego's sister's husband",,,"Williams1936",""
+"fZH","kamat",,"female ego's sister's husband",,,"Williams1936",""
+"mFBeS","ane",,"male ego‘s father‘s brother‘s older son",,,"Williams1936",""
+"mFByS","nungan",,"male ego‘s father‘s brother‘s younger son",,,"Williams1936",""
+"mFBeD","ane",,"male ego‘s father‘s brother‘s older daughter",,,"Williams1936",""
+"mFByD","nungan",,"male ego‘s father‘s brother‘s younger daughter",,,"Williams1936",""
+"mMBeS","mwitei",,"male ego‘s mother‘s brother‘s older son",,,"Williams1936",""
+"mMByS","mwitei",,"male ego‘s mother‘s brother‘s younger son",,,"Williams1936",""
+"mMBeD","mwitei",,"male ego‘s mother‘s brother‘s older daughter",,,"Williams1936",""
+"mMByD","mwitei",,"male ego‘s mother‘s brother‘s younger daughter",,,"Williams1936",""
+"mMZeS","yakar",,"male ego‘s mother‘s sisters‘s older son",,,"Williams1936",""
+"mMZyS","yakar",,"male ego‘s mother‘s sisters‘s younger son",,,"Williams1936",""
+"mMZeD","yakar",,"male ego‘s mother‘s sisters‘s older daughter",,,"Williams1936",""
+"mMZyD","yakar",,"male ego‘s mother‘s sisters‘s younger daughter",,,"Williams1936",""
+"fFZeS","mwitei",,"female ego‘s father‘s sisters‘s older son",,,"Williams1936",""
+"fFZyS","mwitei",,"female ego‘s father‘s sisters‘s younger son",,,"Williams1936",""
+"fMBeS","mwitei",,"female ego‘s mother‘s brother‘s older son",,,"Williams1936",""
+"fMByS","mwitei",,"female ego‘s mother‘s brother‘s younger son",,,"Williams1936",""
+"fMZeS","yakar",,"female ego‘s mother‘s sisters‘s older son",,,"Williams1936",""
+"fMZyS","yakar",,"female ego‘s mother‘s sisters‘s younger son",,,"Williams1936",""

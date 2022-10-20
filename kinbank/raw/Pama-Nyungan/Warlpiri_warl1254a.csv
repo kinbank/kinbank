@@ -1,107 +1,107 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,papardi,,male speaker's older brother,,,nash2016,
-myB,kukurnu,,male speaker's younger brother,,,nash2016,
-feB,papardi,,female speaker's older brother,,,nash2016,
-fyB,kukurnu,,female speaker's younger brother,,,nash2016,
-meZ,kapurlu,,male speaker's older sister,biyweh,,nash2016,biyweh = honorific address term
-myZ,ngawurru,,male speaker's younger sister,,,nash2016,
-feZ,kapurlu,,female speaker's older sister,,,nash2016,
-fyZ,ngawurru,,female speaker's younger sister,,,nash2016,
-mF,kirdana,,male speaker's father,,,nash2016,
-mM,ngatina,,male speaker's mother,,,nash2016,
-fF,kirdana,,female speaker's father,,,nash2016,
-fM,ngatina,,female speaker's mother,,,nash2016,
-mS,ngalapi,,male speaker's son,,,nash2016,
-fS,kurduna,,female speaker's son,,,nash2016,
-mD,"ngalapi, yurntalpa",,male speaker's daughter,,,nash2016,
-fD,"kurduna, yurntalpa",,female speaker's daughter,,,nash2016,
-mSS,warringiyi,,male speaker's son's son,,,nash2016,
-mSD,warringiyi,,male speaker's son's daughter,,,nash2016,
-mDS,jamirdi,,male speaker's daughter's son,,,nash2016,
-mDD,jamirdi,,male speaker's daughter's daughter,,,nash2016,
-fSS,yaparla,,female speaker's son's son,,,nash2016,
-fSD,yaparla,,female speaker's son's daughter,,,nash2016,
-fDS,"mirntirdi, jaja",,female speaker's daughter's son,,,nash2016,
-fDD,"mirntirdi, jaja",,female speaker's daugher's daughter,,,nash2016,
-mFF,warringiyi,,male speaker's father‘s father,,,nash2016,
-mFM,yaparla,,male speaker's father's mother,,,nash2016,
-mMF,jamirdi,,male speaker's mother's father,,,nash2016,
-mMM,jaja,,male speaker's mother's mother,,,nash2016,
-fFF,warringiyi,,female speaker's father's father,,,nash2016,
-fFM,yaparla,,female speaker's father's mother,,,nash2016,
-fMF,jamirdi,,female speaker's mother's father,,,nash2016,
-fMM,jaja,,female speaker's mother's mother,,,nash2016,
-meBS,ngalapi,,male speaker's older brother's son,,,nash2016,
-myBS,ngalapi,,male speaker's younger brother's son,,,nash2016,
-meZS,kurduna,,male speaker's older sister's son,,,nash2016,
-myZS,kurduna,,male speaker's younger sister's son,,,nash2016,
-meBD,"ngalapi, yurntalpa",,male speaker's older brother's daughter,,,nash2016,
-myBD,"ngalapi, yurntalpa",,male speaker's younger brother's daughter,,,nash2016,
-meZD,"kurduna, yurntalpa",,male speaker's older sister's daughter,,,nash2016,
-myZD,"kurduna, yurntalpa",,male speaker's younger sister's daughter,,,nash2016,
-feBS,ngalapi,,female speaker's older brother's son,,,nash2016,
-fyBS,ngalapi,,female speaker's younger brother's son,,,nash2016,
-feZS,kurduna,,female speaker's older sister's son,,,nash2016,
-fyZS,kurduna,,female speaker's younger sister's son,,,nash2016,
-feBD,"ngalapi, yurntalpa",,female speaker's older brother's daughter,,,nash2016,
-fyBD,"ngalapi, yurntalpa",,female speaker's younger brother's daughter,,,nash2016,
-feZD,"kurduna, yurntalpa",,female speaker's older sister's daughter,,,nash2016,
-fyZD,"kurduna, yurntalpa",,female speaker's younger sister's daughter,,,nash2016,
-mFeB,"kirdana, wapirra",,male speaker's father's older brother,,,nash2016,
-mFyB,"kirdana, wapirra",,male speaker's father's younger brother,,,nash2016,
-mFeZ,pimirdi,,male speaker's father's older sister,,,nash2016,
-mFyZ,pimirdi,,male speaker's father's younger sister,,,nash2016,
-mMeB,ngamirni,,male speaker's mother's older brother,,,nash2016,
-mMyB,ngamirni,,male speaker's mother's younger brother,,,nash2016,
-mMeZ,"ngatina, ngamardi",,male speaker's mother's older sister,,,nash2016,
-mMyZ,"ngatina, ngamardi",,male speaker's mother's younger sister,,,nash2016,
-fFeB,"kirdana, wapirra",,female speaker's father's older brother,,,nash2016,
-fFyB,"kirdana, wapirra",,female speaker's father's younger brother,,,nash2016,
-fFeZ,pimirdi,,female speaker's father's older sister,,,nash2016,
-fFyZ,pimirdi,,female speaker's father's younger sister,,,nash2016,
-fMeB,ngamirni,,female speaker's mother's older brother,,,nash2016,
-fMyB,ngamirni,,female speaker's mother's younger brother,,,nash2016,
-fMeZ,"ngatina, ngamardi",,female speaker's mother's older sister,,,nash2016,
-fMyZ,"ngatina, ngamardi",,female speaker's mother's younger sister,,,nash2016,
-mW,kali-nyanu,,male speaker's wife,,,nash2016,
-fH,kali-nyanu,,female speaker‘s husband,,,nash2016,
-fDH,malirdi,,female speaker's daughter's husband,,,nash2016,
-mDH,ngamirni,,male speaker's daughter's husband,,,nash2016,
-fSW,kurriji,,female speaker's son's wife,,,nash2016,
-mSW,"ngatina, ngamardi",,male speaker's son's wife,,,nash2016,
-fHM,kurriji,,female speaker's husband's mother,,,nash2016,
-mWM,kurriji,,male speaker's wife's mother,,,nash2016,
-fHF,wantirri,,female speaker's husband's father,,,nash2016,
-mWF,"wantirri, lamparra",,male speaker's wife's father,,,nash2016,
-mFeBS,papardi,,male speaker's father‘s older brother‘s son,,,nash2016,
-mFyBS,kukurnu,,male speaker‘s father‘s younger brother‘s son,,,nash2016,
-mFeZS,wankili,,male speaker's father‘s older sister‘s son,,,nash2016,
-mFyZS,wankili,,male speaker‘s father‘s younger sister‘s son,,,nash2016,
-mFeBD,kapurlu,,male speaker's father‘s older brother‘s daughter,,,nash2016,
-mFyBD,ngawurru,,male speaker‘s father‘s younger brother‘s daughter,,,nash2016,
-mFeZD,jukana,,male speaker's father‘s older sister‘s daughter,,,nash2016,
-mFyZD,jukana,,male speaker‘s father‘s younger sister‘s daughter,,,nash2016,
-mMeBS,wankili,,male speaker's mother‘s older brother‘s son,,,nash2016,
-mMyBS,wankili,,male speaker‘s mother‘s younger brother‘s son,,,nash2016,
-mMeZS,papardi,,male speaker's mother‘s older sister‘s son,,,nash2016,
-mMyZS,kukurnu,,male speaker‘s mother‘s younger sister‘s son,,,nash2016,
-mMeBD,jukana,,male speaker's mother‘s older brother‘s daughter,,,nash2016,
-mMyBD,jukana,,male speaker‘s mother‘s younger brother‘s daughter,,,nash2016,
-mMeZD,kapurlu,,male speaker's mother‘s older sister‘s daughter,,,nash2016,
-mMyZD,ngawurru,,male speaker‘s mother‘s younger sister‘s daughter,,,nash2016,
-fFeBS,papardi,,female speaker's father‘s older brother‘s son,,,nash2016,
-fFyBS,kukurnu,,female speaker‘s father‘s younger brother‘s son,,,nash2016,
-fFeZS,wankili,,female speaker's father‘s older sister‘s son,,,nash2016,
-fFyZS,wankili,,female speaker‘s father‘s younger sister‘s son,,,nash2016,
-fFeBD,kapurlu,,female speaker's father‘s older brother‘s daughter,,,nash2016,
-fFyBD,ngawurru,,female speaker‘s father‘s younger brother‘s daughter,,,nash2016,
-fFeZD,jukana,,female speaker's father‘s older sister‘s daughter,,,nash2016,
-fFyZD,jukana,,female speaker‘s father‘s younger sister‘s daughter,,,nash2016,
-fMeBS,wankili,,female speaker's mother‘s older brother‘s son,,,nash2016,
-fMyBS,wankili,,female speaker‘s mother‘s younger brother‘s son,,,nash2016,
-fMeZS,papardi,,female speaker's mother‘s older sister‘s son,,,nash2016,
-fMyZS,kukurnu,,female speaker‘s mother‘s younger sister‘s son,,,nash2016,
-fMeBD,jukana,,female speaker's mother‘s older brother‘s daughter,,,nash2016,
-fMyBD,jukana,,female speaker‘s mother‘s younger brother‘s daughter,,,nash2016,
-fMeZD,kapurlu,,female speaker's mother‘s older sister‘s daughter,,,nash2016,
-fMyZD,ngawurru,,female speaker‘s mother‘s younger sister‘s daughter,,,nash2016,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","papardi",,"male speaker's older brother","",,"nash2016",""
+"myB","kukurnu",,"male speaker's younger brother","",,"nash2016",""
+"feB","papardi",,"female speaker's older brother","",,"nash2016",""
+"fyB","kukurnu",,"female speaker's younger brother","",,"nash2016",""
+"meZ","kapurlu",,"male speaker's older sister","biyweh",,"nash2016","biyweh = honorific address term"
+"myZ","ngawurru",,"male speaker's younger sister","",,"nash2016",""
+"feZ","kapurlu",,"female speaker's older sister","",,"nash2016",""
+"fyZ","ngawurru",,"female speaker's younger sister","",,"nash2016",""
+"mF","kirdana",,"male speaker's father","",,"nash2016",""
+"mM","ngatina",,"male speaker's mother","",,"nash2016",""
+"fF","kirdana",,"female speaker's father","",,"nash2016",""
+"fM","ngatina",,"female speaker's mother","",,"nash2016",""
+"mS","ngalapi",,"male speaker's son","",,"nash2016",""
+"fS","kurduna",,"female speaker's son","",,"nash2016",""
+"mD","ngalapi, yurntalpa",,"male speaker's daughter","",,"nash2016",""
+"fD","kurduna, yurntalpa",,"female speaker's daughter","",,"nash2016",""
+"mSS","warringiyi",,"male speaker's son's son","",,"nash2016",""
+"mSD","warringiyi",,"male speaker's son's daughter","",,"nash2016",""
+"mDS","jamirdi",,"male speaker's daughter's son","",,"nash2016",""
+"mDD","jamirdi",,"male speaker's daughter's daughter","",,"nash2016",""
+"fSS","yaparla",,"female speaker's son's son","",,"nash2016",""
+"fSD","yaparla",,"female speaker's son's daughter","",,"nash2016",""
+"fDS","mirntirdi, jaja",,"female speaker's daughter's son","",,"nash2016",""
+"fDD","mirntirdi, jaja",,"female speaker's daugher's daughter","",,"nash2016",""
+"mFF","warringiyi",,"male speaker's father‘s father","",,"nash2016",""
+"mFM","yaparla",,"male speaker's father's mother","",,"nash2016",""
+"mMF","jamirdi",,"male speaker's mother's father","",,"nash2016",""
+"mMM","jaja",,"male speaker's mother's mother","",,"nash2016",""
+"fFF","warringiyi",,"female speaker's father's father","",,"nash2016",""
+"fFM","yaparla",,"female speaker's father's mother","",,"nash2016",""
+"fMF","jamirdi",,"female speaker's mother's father","",,"nash2016",""
+"fMM","jaja",,"female speaker's mother's mother","",,"nash2016",""
+"meBS","ngalapi",,"male speaker's older brother's son","",,"nash2016",""
+"myBS","ngalapi",,"male speaker's younger brother's son","",,"nash2016",""
+"meZS","kurduna",,"male speaker's older sister's son","",,"nash2016",""
+"myZS","kurduna",,"male speaker's younger sister's son","",,"nash2016",""
+"meBD","ngalapi, yurntalpa",,"male speaker's older brother's daughter","",,"nash2016",""
+"myBD","ngalapi, yurntalpa",,"male speaker's younger brother's daughter","",,"nash2016",""
+"meZD","kurduna, yurntalpa",,"male speaker's older sister's daughter","",,"nash2016",""
+"myZD","kurduna, yurntalpa",,"male speaker's younger sister's daughter","",,"nash2016",""
+"feBS","ngalapi",,"female speaker's older brother's son","",,"nash2016",""
+"fyBS","ngalapi",,"female speaker's younger brother's son","",,"nash2016",""
+"feZS","kurduna",,"female speaker's older sister's son","",,"nash2016",""
+"fyZS","kurduna",,"female speaker's younger sister's son","",,"nash2016",""
+"feBD","ngalapi, yurntalpa",,"female speaker's older brother's daughter","",,"nash2016",""
+"fyBD","ngalapi, yurntalpa",,"female speaker's younger brother's daughter","",,"nash2016",""
+"feZD","kurduna, yurntalpa",,"female speaker's older sister's daughter","",,"nash2016",""
+"fyZD","kurduna, yurntalpa",,"female speaker's younger sister's daughter","",,"nash2016",""
+"mFeB","kirdana, wapirra",,"male speaker's father's older brother","",,"nash2016",""
+"mFyB","kirdana, wapirra",,"male speaker's father's younger brother","",,"nash2016",""
+"mFeZ","pimirdi",,"male speaker's father's older sister","",,"nash2016",""
+"mFyZ","pimirdi",,"male speaker's father's younger sister","",,"nash2016",""
+"mMeB","ngamirni",,"male speaker's mother's older brother","",,"nash2016",""
+"mMyB","ngamirni",,"male speaker's mother's younger brother","",,"nash2016",""
+"mMeZ","ngatina, ngamardi",,"male speaker's mother's older sister","",,"nash2016",""
+"mMyZ","ngatina, ngamardi",,"male speaker's mother's younger sister","",,"nash2016",""
+"fFeB","kirdana, wapirra",,"female speaker's father's older brother","",,"nash2016",""
+"fFyB","kirdana, wapirra",,"female speaker's father's younger brother","",,"nash2016",""
+"fFeZ","pimirdi",,"female speaker's father's older sister","",,"nash2016",""
+"fFyZ","pimirdi",,"female speaker's father's younger sister","",,"nash2016",""
+"fMeB","ngamirni",,"female speaker's mother's older brother","",,"nash2016",""
+"fMyB","ngamirni",,"female speaker's mother's younger brother","",,"nash2016",""
+"fMeZ","ngatina, ngamardi",,"female speaker's mother's older sister","",,"nash2016",""
+"fMyZ","ngatina, ngamardi",,"female speaker's mother's younger sister","",,"nash2016",""
+"mW","kali-nyanu",,"male speaker's wife","",,"nash2016",""
+"fH","kali-nyanu",,"female speaker‘s husband","",,"nash2016",""
+"fDH","malirdi",,"female speaker's daughter's husband","",,"nash2016",""
+"mDH","ngamirni",,"male speaker's daughter's husband","",,"nash2016",""
+"fSW","kurriji",,"female speaker's son's wife","",,"nash2016",""
+"mSW","ngatina, ngamardi",,"male speaker's son's wife","",,"nash2016",""
+"fHM","kurriji",,"female speaker's husband's mother","",,"nash2016",""
+"mWM","kurriji",,"male speaker's wife's mother","",,"nash2016",""
+"fHF","wantirri",,"female speaker's husband's father","",,"nash2016",""
+"mWF","wantirri, lamparra",,"male speaker's wife's father","",,"nash2016",""
+"mFeBS","papardi",,"male speaker's father‘s older brother‘s son","",,"nash2016",""
+"mFyBS","kukurnu",,"male speaker‘s father‘s younger brother‘s son","",,"nash2016",""
+"mFeZS","wankili",,"male speaker's father‘s older sister‘s son","",,"nash2016",""
+"mFyZS","wankili",,"male speaker‘s father‘s younger sister‘s son","",,"nash2016",""
+"mFeBD","kapurlu",,"male speaker's father‘s older brother‘s daughter","",,"nash2016",""
+"mFyBD","ngawurru",,"male speaker‘s father‘s younger brother‘s daughter","",,"nash2016",""
+"mFeZD","jukana",,"male speaker's father‘s older sister‘s daughter","",,"nash2016",""
+"mFyZD","jukana",,"male speaker‘s father‘s younger sister‘s daughter","",,"nash2016",""
+"mMeBS","wankili",,"male speaker's mother‘s older brother‘s son","",,"nash2016",""
+"mMyBS","wankili",,"male speaker‘s mother‘s younger brother‘s son","",,"nash2016",""
+"mMeZS","papardi",,"male speaker's mother‘s older sister‘s son","",,"nash2016",""
+"mMyZS","kukurnu",,"male speaker‘s mother‘s younger sister‘s son","",,"nash2016",""
+"mMeBD","jukana",,"male speaker's mother‘s older brother‘s daughter","",,"nash2016",""
+"mMyBD","jukana",,"male speaker‘s mother‘s younger brother‘s daughter","",,"nash2016",""
+"mMeZD","kapurlu",,"male speaker's mother‘s older sister‘s daughter","",,"nash2016",""
+"mMyZD","ngawurru",,"male speaker‘s mother‘s younger sister‘s daughter","",,"nash2016",""
+"fFeBS","papardi",,"female speaker's father‘s older brother‘s son","",,"nash2016",""
+"fFyBS","kukurnu",,"female speaker‘s father‘s younger brother‘s son","",,"nash2016",""
+"fFeZS","wankili",,"female speaker's father‘s older sister‘s son","",,"nash2016",""
+"fFyZS","wankili",,"female speaker‘s father‘s younger sister‘s son","",,"nash2016",""
+"fFeBD","kapurlu",,"female speaker's father‘s older brother‘s daughter","",,"nash2016",""
+"fFyBD","ngawurru",,"female speaker‘s father‘s younger brother‘s daughter","",,"nash2016",""
+"fFeZD","jukana",,"female speaker's father‘s older sister‘s daughter","",,"nash2016",""
+"fFyZD","jukana",,"female speaker‘s father‘s younger sister‘s daughter","",,"nash2016",""
+"fMeBS","wankili",,"female speaker's mother‘s older brother‘s son","",,"nash2016",""
+"fMyBS","wankili",,"female speaker‘s mother‘s younger brother‘s son","",,"nash2016",""
+"fMeZS","papardi",,"female speaker's mother‘s older sister‘s son","",,"nash2016",""
+"fMyZS","kukurnu",,"female speaker‘s mother‘s younger sister‘s son","",,"nash2016",""
+"fMeBD","jukana",,"female speaker's mother‘s older brother‘s daughter","",,"nash2016",""
+"fMyBD","jukana",,"female speaker‘s mother‘s younger brother‘s daughter","",,"nash2016",""
+"fMeZD","kapurlu",,"female speaker's mother‘s older sister‘s daughter","",,"nash2016",""
+"fMyZD","ngawurru",,"female speaker‘s mother‘s younger sister‘s daughter","",,"nash2016",""

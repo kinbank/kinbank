@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mbwó,,male ego's older brother,,,Levinson1970,
-myB,mbwó,,male ego's younger brother,,,Levinson1970,
-feB,"tîdê, tîdî",,female ego's older brother,,,Levinson1970,
-fyB,"tîdê, tîdî",,female ego's younger brother,,,Levinson1970,
-meZ,"tîdê, tîdî",,male ego's older sister,,,Levinson1970,
-myZ,"tîdê, tîdî",,male ego's younger sister,,,Levinson1970,
-feZ,mbwó,,female ego's older sister,,,Levinson1970,
-fyZ,mbwó,,female ego's younger sister,,,Levinson1970,
-mF,"mî, m:aa",,male ego's father,,,Levinson1970,m:aa = address
-mM,"piye, pye, niye",,male ego's mother,,,Levinson1970,niye = address
-fF,"mî, m:aa",,female ego's father,,,Levinson1970,m:aa = address
-fM,"piye, pye, niye",,female ego's mother,,,Levinson1970,niye = address
-mS,tp:ee,,male ego's son,,,Levinson1970,
-fS,tp:ee,,female ego's son,,,Levinson1970,
-mD,tp:ee,,male ego's daughter,,,Levinson1970,
-fD,tp:ee,,female ego's daughter,,,Levinson1970,
-mSS,kee,,male ego's son's son,,,Levinson1970,
-mSD,kee,,male ego's son's daughter,,,Levinson1970,
-mDS,kee,,male ego's daughter's son,,,Levinson1970,
-mDD,kee,,male ego's daughter's daughter,,,Levinson1970,
-fSS,kee,,female ego's son's son,,,Levinson1970,
-fSD,kee,,female ego's son's daughter,,,Levinson1970,
-fDS,kee,,female ego's daughter's son,,,Levinson1970,
-fDD,kee,,female ego's daugher's daughter,,,Levinson1970,
-mFF,"kââkââ, kighê",,male ego's father‘s father,,,Levinson1970,
-mFM,kââpyââ,,male ego's father's mother,,,Levinson1970,
-mMF,"kââkââ, kighê",,male ego's mother's father,,,Levinson1970,
-mMM,kââpyââ,,male ego's mother's mother,,,Levinson1970,
-fFF,"kââkââ, kighê",,female ego's father's father,,,Levinson1970,
-fFM,kââpyââ,,female ego's father's mother,,,Levinson1970,
-fMF,"kââkââ, kighê",,female ego's mother's father,,,Levinson1970,
-fMM,kââpyââ,,female ego's mother's mother,,,Levinson1970,
-meBS,kee,,male ego's older brother's son,,,Levinson1970,
-myBS,kee,,male ego's younger brother's son,,,Levinson1970,
-meZS,chênê,,male ego's older sister's son,,,Levinson1970,
-myZS,chênê,,male ego's younger sister's son,,,Levinson1970,
-meBD,kee,,male ego's older brother's daughter,,,Levinson1970,
-myBD,kee,,male ego's younger brother's daughter,,,Levinson1970,
-meZD,chênê,,male ego's older sister's daughter,,,Levinson1970,
-myZD,chênê,,male ego's younger sister's daughter,,,Levinson1970,
-feBS,mbópó,,female ego's older brother's son,,,Levinson1970,
-fyBS,mbópó,,female ego's younger brother's son,,,Levinson1970,
-feZS,w:ââ,,female ego's older sister's son,,,Levinson1970,
-fyZS,w:ââ,,female ego's younger sister's son,,,Levinson1970,
-feBD,kee,,female ego's older brother's daughter,,,Levinson1970,
-fyBD,kee,,female ego's younger brother's daughter,,,Levinson1970,
-feZD,w:ââ,,female ego's older sister's daughter,,,Levinson1970,
-fyZD,w:ââ,,female ego's younger sister's daughter,,,Levinson1970,
-mFeB,"kââkââ, kighê",,male ego's father's older brother,,,Levinson1970,
-mFyB,"kââkââ, kighê",,male ego's father's younger brother,,,Levinson1970,
-mFeZ,"m:aam:ââ, mî pyââ",,male ego's father's older sister,,,Levinson1970,m:aam:ââ = address
-mFyZ,"m:aam:ââ, mî pyââ",,male ego's father's younger sister,,,Levinson1970,m:aam:ââ = address
-mMeB,"kênê, kênêwo, teetee",,male ego's mother's older brother,,,Levinson1970,kênêwo is becoming archaic
-mMyB,"kênê, kênêwo, teetee",,male ego's mother's younger brother,,,Levinson1970,kênêwo is becoming archaic
-mMeZ,"piye, pye",,male ego's mother's older sister,,,Levinson1970,
-mMyZ,"piye, pye",,male ego's mother's younger sister,,,Levinson1970,
-fFeB,"kââkââ, kighê",,female ego's father's older brother,,,Levinson1970,
-fFyB,"kââkââ, kighê",,female ego's father's younger brother,,,Levinson1970,
-fFeZ,"m:aam:ââ, mî pyââ",,female ego's father's older sister,,,Levinson1970,m:aam:ââ = address
-fFyZ,"m:aam:ââ, mî pyââ",,female ego's father's younger sister,,,Levinson1970,m:aam:ââ = address
-fMeB,"kênê, kênêwo, teetee",,female ego's mother's older brother,,,Levinson1970,kênêwo is becoming archaic
-fMyB,"kênê, kênêwo, teetee",,female ego's mother's younger brother,,,Levinson1970,kênêwo is becoming archaic
-fMeZ,"piye, pye",,female ego's mother's older sister,,,Levinson1970,
-fMyZ,"piye, pye",,female ego's mother's younger sister,,,Levinson1970,
-mW,"kpâm, kpâmu",,male ego's wife,,,Levinson1970,
-fH,moo,,female ego‘s husband,,,Levinson1970,
-mDH,"mbywé, mbwiyé",,male ego's daughter's husband,,,Levinson1970,
-fDH,"mbywé, mbwiyé",,female ego's daughter's husband,,,Levinson1970,
-mSW,'n:ââ,,male ego's son's wife,,,Levinson1970,
-fSW,'n:ââ,,female ego's son's wife,,,Levinson1970,
-mWF,"mbywé, mbwiyé",,male ego's wife's father,,,Levinson1970,
-mWM,"mbywé, mbwiyé, mbywé pyââ",,male ego's wife's mother,,,Levinson1970,
-mWB,mg:êê,,male ego's wife's brother,,,Levinson1970,
-mWZ,"mbwanko, kédikââ, choko",,male ego's wife's sister,,,Levinson1970,"kédikââ = a taboo relationship to eldest and youngest sister of wife, may not be addressed by this term. choko is used instead"
-fHF,'n:ââ,,female ego's husband's father,,,Levinson1970,
-fHM,'n:ââ,,female ego's husband's mother,,,Levinson1970,
-fHB,kédikââ,,female ego's husband's brother,,,Levinson1970,
-fHZ,vyîlî,,female ego's husband's sister,,,Levinson1970,
-mBW,kédikââ,,male ego's brother's wife,,,Levinson1970,
-fBW,"vyîlî, kémedi",,female ego's brother's wife,,,Levinson1970,
-mZH,"dyémi, mg:êê",,male ego's sister's husband,,,Levinson1970,
-fZH,"dyémi, mg:êê",,female ego's sister's husband,,,Levinson1970,
-mFBS,mbwó,,male ego's father's brother's son,,,Levinson1970,
-mFZS,mîchó,,male ego's father's sister's son,,,Levinson1970,
-mMBS,w:ââ,,male ego's mother's brother's son,,,Levinson1970,
-mMZS,mbwó,,male ego's mother's sister's son,,,Levinson1970,
-mFBD,"tîdê, tîdî",,male ego's father's brother's daughter,,,Levinson1970,
-mFZD,kââpyââ,,male ego's father's sister's daughter,,,Levinson1970,
-mMBD,w:ââ,,male ego's mother's brother's daughter,,,Levinson1970,
-mMZD,"tîdê, tîdî",,male ego's mother's sister's daughter,,,Levinson1970,
-fFBS,"tîdê, tîdî",,female ego's father's brother's son,,,Levinson1970,
-fFZS,mîchó,,female ego's father's sister's son,,,Levinson1970,
-fMBS,kee,,female ego's mother's brother's son,,,Levinson1970,
-fMZS,"tîdê, tîdî",,female ego's mother's sister's son,,,Levinson1970,
-fFBD,mbwó,,female ego's father's brother's daughter,,,Levinson1970,
-fFZD,kââpyââ,,female ego's father's sister's daughter,,,Levinson1970,
-fMBD,kee,,female ego's mother's brother's daughter,,,Levinson1970,
-fMZD,mbwó,,female ego's mother's sister's daughter,,,Levinson1970,
-mFeBS,mbwó,,male ego's father's brother's son,,,Levinson1970,Inferred; 
-mFyBS,mbwó,,male ego's father's brother's son,,,Levinson1970,Inferred; 
-mFeZS,mîchó,,male ego's father's sister's son,,,Levinson1970,Inferred; 
-mFyZS,mîchó,,male ego's father's sister's son,,,Levinson1970,Inferred; 
-mFeBD,"tîdê, tîdî",,male ego's father's brother's daughter,,,Levinson1970,Inferred; 
-mFyBD,"tîdê, tîdî",,male ego's father's brother's daughter,,,Levinson1970,Inferred; 
-mFeZD,kââpyââ,,male ego's father's sister's daughter,,,Levinson1970,Inferred; 
-mFyZD,kââpyââ,,male ego's father's sister's daughter,,,Levinson1970,Inferred; 
-mMeBS,w:ââ,,male ego's mother's brother's son,,,Levinson1970,Inferred; 
-mMyBS,w:ââ,,male ego's mother's brother's son,,,Levinson1970,Inferred; 
-mMeZS,mbwó,,male ego's mother's sister's son,,,Levinson1970,Inferred; 
-mMyZS,mbwó,,male ego's mother's sister's son,,,Levinson1970,Inferred; 
-mMeBD,w:ââ,,male ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-mMyBD,w:ââ,,male ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-mMeZD,"tîdê, tîdî",,male ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-mMyZD,"tîdê, tîdî",,male ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-mFBeS,mbwó,,male ego's father's brother's son,,,Levinson1970,Inferred; 
-mFByS,mbwó,,male ego's father's brother's son,,,Levinson1970,Inferred; 
-mFZeS,mîchó,,male ego's father's sister's son,,,Levinson1970,Inferred; 
-mFZyS,mîchó,,male ego's father's sister's son,,,Levinson1970,Inferred; 
-mFBeD,"tîdê, tîdî",,male ego's father's brother's daughter,,,Levinson1970,Inferred; 
-mFByD,"tîdê, tîdî",,male ego's father's brother's daughter,,,Levinson1970,Inferred; 
-mFZeD,kââpyââ,,male ego's father's sister's daughter,,,Levinson1970,Inferred; 
-mFZyD,kââpyââ,,male ego's father's sister's daughter,,,Levinson1970,Inferred; 
-mMBeS,w:ââ,,male ego's mother's brother's son,,,Levinson1970,Inferred; 
-mMByS,w:ââ,,male ego's mother's brother's son,,,Levinson1970,Inferred; 
-mMZeS,mbwó,,male ego's mother's sister's son,,,Levinson1970,Inferred; 
-mMZyS,mbwó,,male ego's mother's sister's son,,,Levinson1970,Inferred; 
-mMBeD,w:ââ,,male ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-mMByD,w:ââ,,male ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-mMZeD,"tîdê, tîdî",,male ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-mMZyD,"tîdê, tîdî",,male ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-fFeBS,"tîdê, tîdî",,female ego's father's brother's son,,,Levinson1970,Inferred; 
-fFyBS,"tîdê, tîdî",,female ego's father's brother's son,,,Levinson1970,Inferred; 
-fFeZS,mîchó,,female ego's father's sister's son,,,Levinson1970,Inferred; 
-fFyZS,mîchó,,female ego's father's sister's son,,,Levinson1970,Inferred; 
-fFeBD,mbwó,,female ego's father's brother's daughter,,,Levinson1970,Inferred; 
-fFyBD,mbwó,,female ego's father's brother's daughter,,,Levinson1970,Inferred; 
-fFeZD,kââpyââ,,female ego's father's sister's daughter,,,Levinson1970,Inferred; 
-fFyZD,kââpyââ,,female ego's father's sister's daughter,,,Levinson1970,Inferred; 
-fMeBS,kee,,female ego's mother's brother's son,,,Levinson1970,Inferred; 
-fMyBS,kee,,female ego's mother's brother's son,,,Levinson1970,Inferred; 
-fMeZS,"tîdê, tîdî",,female ego's mother's sister's son,,,Levinson1970,Inferred; 
-fMyZS,"tîdê, tîdî",,female ego's mother's sister's son,,,Levinson1970,Inferred; 
-fMeBD,kee,,female ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-fMyBD,kee,,female ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-fMeZD,mbwó,,female ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-fMyZD,mbwó,,female ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-fFBeS,"tîdê, tîdî",,female ego's father's brother's son,,,Levinson1970,Inferred; 
-fFByS,"tîdê, tîdî",,female ego's father's brother's son,,,Levinson1970,Inferred; 
-fFZeS,mîchó,,female ego's father's sister's son,,,Levinson1970,Inferred; 
-fFZyS,mîchó,,female ego's father's sister's son,,,Levinson1970,Inferred; 
-fFBeD,mbwó,,female ego's father's brother's daughter,,,Levinson1970,Inferred; 
-fFByD,mbwó,,female ego's father's brother's daughter,,,Levinson1970,Inferred; 
-fFZeD,kââpyââ,,female ego's father's sister's daughter,,,Levinson1970,Inferred; 
-fFZyD,kââpyââ,,female ego's father's sister's daughter,,,Levinson1970,Inferred; 
-fMBeS,kee,,female ego's mother's brother's son,,,Levinson1970,Inferred; 
-fMByS,kee,,female ego's mother's brother's son,,,Levinson1970,Inferred; 
-fMZeS,"tîdê, tîdî",,female ego's mother's sister's son,,,Levinson1970,Inferred; 
-fMZyS,"tîdê, tîdî",,female ego's mother's sister's son,,,Levinson1970,Inferred; 
-fMBeD,kee,,female ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-fMByD,kee,,female ego's mother's brother's daughter,,,Levinson1970,Inferred; 
-fMZeD,mbwó,,female ego's mother's sister's daughter,,,Levinson1970,Inferred; 
-fMZyD,mbwó,,female ego's mother's sister's daughter,,,Levinson1970,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mbwó",,"male ego's older brother",,,"Levinson1970",""
+"myB","mbwó",,"male ego's younger brother",,,"Levinson1970",""
+"feB","tîdê, tîdî",,"female ego's older brother",,,"Levinson1970",""
+"fyB","tîdê, tîdî",,"female ego's younger brother",,,"Levinson1970",""
+"meZ","tîdê, tîdî",,"male ego's older sister",,,"Levinson1970",""
+"myZ","tîdê, tîdî",,"male ego's younger sister",,,"Levinson1970",""
+"feZ","mbwó",,"female ego's older sister",,,"Levinson1970",""
+"fyZ","mbwó",,"female ego's younger sister",,,"Levinson1970",""
+"mF","mî, m:aa",,"male ego's father",,,"Levinson1970","m:aa = address"
+"mM","piye, pye, niye",,"male ego's mother",,,"Levinson1970","niye = address"
+"fF","mî, m:aa",,"female ego's father",,,"Levinson1970","m:aa = address"
+"fM","piye, pye, niye",,"female ego's mother",,,"Levinson1970","niye = address"
+"mS","tp:ee",,"male ego's son",,,"Levinson1970",""
+"fS","tp:ee",,"female ego's son",,,"Levinson1970",""
+"mD","tp:ee",,"male ego's daughter",,,"Levinson1970",""
+"fD","tp:ee",,"female ego's daughter",,,"Levinson1970",""
+"mSS","kee",,"male ego's son's son",,,"Levinson1970",""
+"mSD","kee",,"male ego's son's daughter",,,"Levinson1970",""
+"mDS","kee",,"male ego's daughter's son",,,"Levinson1970",""
+"mDD","kee",,"male ego's daughter's daughter",,,"Levinson1970",""
+"fSS","kee",,"female ego's son's son",,,"Levinson1970",""
+"fSD","kee",,"female ego's son's daughter",,,"Levinson1970",""
+"fDS","kee",,"female ego's daughter's son",,,"Levinson1970",""
+"fDD","kee",,"female ego's daugher's daughter",,,"Levinson1970",""
+"mFF","kââkââ, kighê",,"male ego's father‘s father",,,"Levinson1970",""
+"mFM","kââpyââ",,"male ego's father's mother",,,"Levinson1970",""
+"mMF","kââkââ, kighê",,"male ego's mother's father",,,"Levinson1970",""
+"mMM","kââpyââ",,"male ego's mother's mother",,,"Levinson1970",""
+"fFF","kââkââ, kighê",,"female ego's father's father",,,"Levinson1970",""
+"fFM","kââpyââ",,"female ego's father's mother",,,"Levinson1970",""
+"fMF","kââkââ, kighê",,"female ego's mother's father",,,"Levinson1970",""
+"fMM","kââpyââ",,"female ego's mother's mother",,,"Levinson1970",""
+"meBS","kee",,"male ego's older brother's son",,,"Levinson1970",""
+"myBS","kee",,"male ego's younger brother's son",,,"Levinson1970",""
+"meZS","chênê",,"male ego's older sister's son",,,"Levinson1970",""
+"myZS","chênê",,"male ego's younger sister's son",,,"Levinson1970",""
+"meBD","kee",,"male ego's older brother's daughter",,,"Levinson1970",""
+"myBD","kee",,"male ego's younger brother's daughter",,,"Levinson1970",""
+"meZD","chênê",,"male ego's older sister's daughter",,,"Levinson1970",""
+"myZD","chênê",,"male ego's younger sister's daughter",,,"Levinson1970",""
+"feBS","mbópó",,"female ego's older brother's son",,,"Levinson1970",""
+"fyBS","mbópó",,"female ego's younger brother's son",,,"Levinson1970",""
+"feZS","w:ââ",,"female ego's older sister's son",,,"Levinson1970",""
+"fyZS","w:ââ",,"female ego's younger sister's son",,,"Levinson1970",""
+"feBD","kee",,"female ego's older brother's daughter",,,"Levinson1970",""
+"fyBD","kee",,"female ego's younger brother's daughter",,,"Levinson1970",""
+"feZD","w:ââ",,"female ego's older sister's daughter",,,"Levinson1970",""
+"fyZD","w:ââ",,"female ego's younger sister's daughter",,,"Levinson1970",""
+"mFeB","kââkââ, kighê",,"male ego's father's older brother",,,"Levinson1970",""
+"mFyB","kââkââ, kighê",,"male ego's father's younger brother",,,"Levinson1970",""
+"mFeZ","m:aam:ââ, mî pyââ",,"male ego's father's older sister",,,"Levinson1970","m:aam:ââ = address"
+"mFyZ","m:aam:ââ, mî pyââ",,"male ego's father's younger sister",,,"Levinson1970","m:aam:ââ = address"
+"mMeB","kênê, kênêwo, teetee",,"male ego's mother's older brother",,,"Levinson1970","kênêwo is becoming archaic"
+"mMyB","kênê, kênêwo, teetee",,"male ego's mother's younger brother",,,"Levinson1970","kênêwo is becoming archaic"
+"mMeZ","piye, pye",,"male ego's mother's older sister",,,"Levinson1970",""
+"mMyZ","piye, pye",,"male ego's mother's younger sister",,,"Levinson1970",""
+"fFeB","kââkââ, kighê",,"female ego's father's older brother",,,"Levinson1970",""
+"fFyB","kââkââ, kighê",,"female ego's father's younger brother",,,"Levinson1970",""
+"fFeZ","m:aam:ââ, mî pyââ",,"female ego's father's older sister",,,"Levinson1970","m:aam:ââ = address"
+"fFyZ","m:aam:ââ, mî pyââ",,"female ego's father's younger sister",,,"Levinson1970","m:aam:ââ = address"
+"fMeB","kênê, kênêwo, teetee",,"female ego's mother's older brother",,,"Levinson1970","kênêwo is becoming archaic"
+"fMyB","kênê, kênêwo, teetee",,"female ego's mother's younger brother",,,"Levinson1970","kênêwo is becoming archaic"
+"fMeZ","piye, pye",,"female ego's mother's older sister",,,"Levinson1970",""
+"fMyZ","piye, pye",,"female ego's mother's younger sister",,,"Levinson1970",""
+"mW","kpâm, kpâmu",,"male ego's wife",,,"Levinson1970",""
+"fH","moo",,"female ego‘s husband",,,"Levinson1970",""
+"mDH","mbywé, mbwiyé",,"male ego's daughter's husband",,,"Levinson1970",""
+"fDH","mbywé, mbwiyé",,"female ego's daughter's husband",,,"Levinson1970",""
+"mSW","'n:ââ",,"male ego's son's wife",,,"Levinson1970",""
+"fSW","'n:ââ",,"female ego's son's wife",,,"Levinson1970",""
+"mWF","mbywé, mbwiyé",,"male ego's wife's father",,,"Levinson1970",""
+"mWM","mbywé, mbwiyé, mbywé pyââ",,"male ego's wife's mother",,,"Levinson1970",""
+"mWB","mg:êê",,"male ego's wife's brother",,,"Levinson1970",""
+"mWZ","mbwanko, kédikââ, choko",,"male ego's wife's sister",,,"Levinson1970","kédikââ = a taboo relationship to eldest and youngest sister of wife, may not be addressed by this term. choko is used instead"
+"fHF","'n:ââ",,"female ego's husband's father",,,"Levinson1970",""
+"fHM","'n:ââ",,"female ego's husband's mother",,,"Levinson1970",""
+"fHB","kédikââ",,"female ego's husband's brother",,,"Levinson1970",""
+"fHZ","vyîlî",,"female ego's husband's sister",,,"Levinson1970",""
+"mBW","kédikââ",,"male ego's brother's wife",,,"Levinson1970",""
+"fBW","vyîlî, kémedi",,"female ego's brother's wife",,,"Levinson1970",""
+"mZH","dyémi, mg:êê",,"male ego's sister's husband",,,"Levinson1970",""
+"fZH","dyémi, mg:êê",,"female ego's sister's husband",,,"Levinson1970",""
+"mFBS","mbwó",,"male ego's father's brother's son",,,"Levinson1970",""
+"mFZS","mîchó",,"male ego's father's sister's son",,,"Levinson1970",""
+"mMBS","w:ââ",,"male ego's mother's brother's son",,,"Levinson1970",""
+"mMZS","mbwó",,"male ego's mother's sister's son",,,"Levinson1970",""
+"mFBD","tîdê, tîdî",,"male ego's father's brother's daughter",,,"Levinson1970",""
+"mFZD","kââpyââ",,"male ego's father's sister's daughter",,,"Levinson1970",""
+"mMBD","w:ââ",,"male ego's mother's brother's daughter",,,"Levinson1970",""
+"mMZD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,"Levinson1970",""
+"fFBS","tîdê, tîdî",,"female ego's father's brother's son",,,"Levinson1970",""
+"fFZS","mîchó",,"female ego's father's sister's son",,,"Levinson1970",""
+"fMBS","kee",,"female ego's mother's brother's son",,,"Levinson1970",""
+"fMZS","tîdê, tîdî",,"female ego's mother's sister's son",,,"Levinson1970",""
+"fFBD","mbwó",,"female ego's father's brother's daughter",,,"Levinson1970",""
+"fFZD","kââpyââ",,"female ego's father's sister's daughter",,,"Levinson1970",""
+"fMBD","kee",,"female ego's mother's brother's daughter",,,"Levinson1970",""
+"fMZD","mbwó",,"female ego's mother's sister's daughter",,,"Levinson1970",""
+"mFeBS","mbwó",,"male ego's father's brother's son",,,"Levinson1970","Inferred; "
+"mFyBS","mbwó",,"male ego's father's brother's son",,,"Levinson1970","Inferred; "
+"mFeZS","mîchó",,"male ego's father's sister's son",,,"Levinson1970","Inferred; "
+"mFyZS","mîchó",,"male ego's father's sister's son",,,"Levinson1970","Inferred; "
+"mFeBD","tîdê, tîdî",,"male ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"mFyBD","tîdê, tîdî",,"male ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"mFeZD","kââpyââ",,"male ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"mFyZD","kââpyââ",,"male ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"mMeBS","w:ââ",,"male ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"mMyBS","w:ââ",,"male ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"mMeZS","mbwó",,"male ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"mMyZS","mbwó",,"male ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"mMeBD","w:ââ",,"male ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"mMyBD","w:ââ",,"male ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"mMeZD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"mMyZD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"mFBeS","mbwó",,"male ego's father's brother's son",,,"Levinson1970","Inferred; "
+"mFByS","mbwó",,"male ego's father's brother's son",,,"Levinson1970","Inferred; "
+"mFZeS","mîchó",,"male ego's father's sister's son",,,"Levinson1970","Inferred; "
+"mFZyS","mîchó",,"male ego's father's sister's son",,,"Levinson1970","Inferred; "
+"mFBeD","tîdê, tîdî",,"male ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"mFByD","tîdê, tîdî",,"male ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"mFZeD","kââpyââ",,"male ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"mFZyD","kââpyââ",,"male ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"mMBeS","w:ââ",,"male ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"mMByS","w:ââ",,"male ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"mMZeS","mbwó",,"male ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"mMZyS","mbwó",,"male ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"mMBeD","w:ââ",,"male ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"mMByD","w:ââ",,"male ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"mMZeD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"mMZyD","tîdê, tîdî",,"male ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"fFeBS","tîdê, tîdî",,"female ego's father's brother's son",,,"Levinson1970","Inferred; "
+"fFyBS","tîdê, tîdî",,"female ego's father's brother's son",,,"Levinson1970","Inferred; "
+"fFeZS","mîchó",,"female ego's father's sister's son",,,"Levinson1970","Inferred; "
+"fFyZS","mîchó",,"female ego's father's sister's son",,,"Levinson1970","Inferred; "
+"fFeBD","mbwó",,"female ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"fFyBD","mbwó",,"female ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"fFeZD","kââpyââ",,"female ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"fFyZD","kââpyââ",,"female ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"fMeBS","kee",,"female ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"fMyBS","kee",,"female ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"fMeZS","tîdê, tîdî",,"female ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"fMyZS","tîdê, tîdî",,"female ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"fMeBD","kee",,"female ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"fMyBD","kee",,"female ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"fMeZD","mbwó",,"female ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"fMyZD","mbwó",,"female ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"fFBeS","tîdê, tîdî",,"female ego's father's brother's son",,,"Levinson1970","Inferred; "
+"fFByS","tîdê, tîdî",,"female ego's father's brother's son",,,"Levinson1970","Inferred; "
+"fFZeS","mîchó",,"female ego's father's sister's son",,,"Levinson1970","Inferred; "
+"fFZyS","mîchó",,"female ego's father's sister's son",,,"Levinson1970","Inferred; "
+"fFBeD","mbwó",,"female ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"fFByD","mbwó",,"female ego's father's brother's daughter",,,"Levinson1970","Inferred; "
+"fFZeD","kââpyââ",,"female ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"fFZyD","kââpyââ",,"female ego's father's sister's daughter",,,"Levinson1970","Inferred; "
+"fMBeS","kee",,"female ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"fMByS","kee",,"female ego's mother's brother's son",,,"Levinson1970","Inferred; "
+"fMZeS","tîdê, tîdî",,"female ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"fMZyS","tîdê, tîdî",,"female ego's mother's sister's son",,,"Levinson1970","Inferred; "
+"fMBeD","kee",,"female ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"fMByD","kee",,"female ego's mother's brother's daughter",,,"Levinson1970","Inferred; "
+"fMZeD","mbwó",,"female ego's mother's sister's daughter",,,"Levinson1970","Inferred; "
+"fMZyD","mbwó",,"female ego's mother's sister's daughter",,,"Levinson1970","Inferred; "

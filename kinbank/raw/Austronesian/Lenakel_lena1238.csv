@@ -1,115 +1,115 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,pwia-,,male ego's older brother,tuta,,Lynch1977,address
-myB,norh-,,male ego's younger brother,,,Lynch1977,
-feB,nɨmwan-,,female ego's older brother,kaka,,Lynch1977,address
-fyB,nɨmwan-,,female ego's younger brother,kaka,,Lynch1977,address
-meZ,nouin-,,male ego's older sister,kaka,,Lynch1977,address
-myZ,nouin-,,male ego's younger sister,kaka,,Lynch1977,address
-feZ,pwia-,,female ego's older sister,tuta,,Lynch1977,address
-fyZ,norh-,,female ego's younger sister,,,Lynch1977,
-mF,rɨm-,,male ego's father,tata,,Lynch1977,address
-mM,in-,,male ego's mother,iemwa,,Lynch1977,address
-fF,rɨm-,,female ego's father,tata,,Lynch1977,address
-fM,in-,,female ego's mother,iemwa,,Lynch1977,address
-mS,ner-,,male ego's son,,,Lynch1977,
-fS,ner-,,female ego's son,,,Lynch1977,
-mD,ner-,,male ego's daughter,kuku,,Lynch1977,address
-fD,ner-,,female ego's daughter,kuku,,Lynch1977,address
-mSS,mwipw-,,male ego's son's son,,,Lynch1977,
-mSD,mwipw-,,male ego's son's daughter,,,Lynch1977,
-mDS,mwipw-,,male ego's daughter's son,,,Lynch1977,
-mDD,mwipw-,,male ego's daughter's daughter,,,Lynch1977,
-fSS,mwipw-,,female ego's son's son,,,Lynch1977,
-fSD,mwipw-,,female ego's son's daughter,,,Lynch1977,
-fDS,mwipw-,,female ego's daughter's son,,,Lynch1977,
-fDD,mwipw-,,female ego's daugher's daughter,,,Lynch1977,
-mFF,"rɨp-, kaha",,male ego's father‘s father,,,Lynch1977,
-mFM,"rɨp-, kaha",,male ego's father's mother,,,Lynch1977,
-mMF,"rɨp-, kaha",,male ego's mother's father,,,Lynch1977,
-mMM,"rɨp-, kaha",,male ego's mother's mother,,,Lynch1977,
-fFF,"rɨp-, kaha",,female ego's father's father,,,Lynch1977,
-fFM,"rɨp-, kaha",,female ego's father's mother,,,Lynch1977,
-fMF,"rɨp-, kaha",,female ego's mother's father,,,Lynch1977,
-fMM,"rɨp-, kaha",,female ego's mother's mother,,,Lynch1977,
-meBS,"ner-, nouu-",,male ego's older brother's son,kuku,,Lynch1977,addess
-myBS,"ner-, nouu-",,male ego's younger brother's son,kuku,,Lynch1977,addess
-meZS,ieuanien,,male ego's older sister's son,,,Lynch1977,
-myZS,ieuanien,,male ego's younger sister's son,,,Lynch1977,
-meBD,"ner-, nouu-",,male ego's older brother's daughter,kuku,,Lynch1977,addess
-myBD,"ner-, nouu-",,male ego's younger brother's daughter,kuku,,Lynch1977,addess
-meZD,ieuanien,,male ego's older sister's daughter,,,Lynch1977,
-myZD,ieuanien,,male ego's younger sister's daughter,,,Lynch1977,
-feBS,nouu-,,female ego's older brother's son,,,Lynch1977,
-fyBS,nouu-,,female ego's younger brother's son,,,Lynch1977,
-feZS,"ner-, ieuanien",,female ego's older sister's son,kuku,,Lynch1977,addess
-fyZS,"ner-, ieuanien",,female ego's younger sister's son,kuku,,Lynch1977,addess
-feBD,nouu-,,female ego's older brother's daughter,,,Lynch1977,
-fyBD,nouu-,,female ego's younger brother's daughter,,,Lynch1977,
-feZD,"ner-, ieuanien",,female ego's older sister's daughter,kuku,,Lynch1977,addess
-fyZD,"ner-, ieuanien",,female ego's younger sister's daughter,kuku,,Lynch1977,addess
-mFeB,rɨm-,,male ego's father's older brother,,,Lynch1977,
-mFyB,rɨm-,,male ego's father's younger brother,,,Lynch1977,
-mFeZ,uhu-,,male ego's father's older sister,,,Lynch1977,
-mFyZ,uhu-,,male ego's father's younger sister,,,Lynch1977,
-mMeB,mɨra-,,male ego's mother's older brother,,,Lynch1977,
-mMyB,mɨra-,,male ego's mother's younger brother,,,Lynch1977,
-mMeZ,in-,,male ego's mother's older sister,iemwa,,Lynch1977,address
-mMyZ,in-,,male ego's mother's younger sister,iemwa,,Lynch1977,address
-fFeB,rɨm-,,female ego's father's older brother,,,Lynch1977,
-fFyB,rɨm-,,female ego's father's younger brother,,,Lynch1977,
-fFeZ,uhu-,,female ego's father's older sister,,,Lynch1977,
-fFyZ,uhu-,,female ego's father's younger sister,,,Lynch1977,
-fMeB,mɨra-,,female ego's mother's older brother,,,Lynch1977,
-fMyB,mɨra-,,female ego's mother's younger brother,,,Lynch1977,
-fMeZ,in-,,female ego's mother's older sister,iemwa,,Lynch1977,address
-fMyZ,in-,,female ego's mother's younger sister,iemwa,,Lynch1977,address
-mW,"peravɨn, peran, namir-, nuaia-",,male ego's wife,uaskom,,Lynch1977,of a chief
-fH,"ieramwaan, namir-",,female ego‘s husband,iahigɨl,,Lynch1977,honorific
-mDH,ieuaninen,,male ego's daughter's husband,,,Lynch1977,
-fDH,nouu-,,female ego's daughter's husband,,,Lynch1977,
-mSW,ieuanien,,male ego's son's wife,,,Lynch1977,
-fSW,nouu-,,female ego's son's wife,,,Lynch1977,
-mWF,mɨra-,,male ego's wife's father,,,Lynch1977,
-mWM,uhu-,,male ego's wife's mother,,,Lynch1977,
-mWB,-iel,,male ego's wife's brother,,,Lynch1977,
-mWZ,ioug-,,male ego's wife's sister,,,Lynch1977,
-fHF,mɨra-,,female ego's husband's father,,,Lynch1977,
-fHM,uhu-,,female ego's husband's mother,,,Lynch1977,
-fHB,-iel,,female ego's husband's brother,,,Lynch1977,
-fHZ,ioug-,,female ego's husband's sister,,,Lynch1977,
-mBW,ioug-,,male ego's brother's wife,,,Lynch1977,
-fBW,ioug-,,female ego's brother's wife,,,Lynch1977,
-mZH,-iel,,male ego's sister's husband,,,Lynch1977,
-fZH,-iel,,female ego's sister's husband,,,Lynch1977,
-mFBeS,pwia-,,male ego‘s father‘s brother‘s older son,,,Lynch1977,
-mFByS,norh-,,male ego‘s father‘s brother‘s younger son,,,Lynch1977,
-mFBeD,nouin-,,male ego‘s father‘s brother‘s older daughter,,,Lynch1977,
-mFByD,nouin-,,male ego‘s father‘s brother‘s younger daughter,,,Lynch1977,
-mFZeS,mɨra-,,male ego‘s father‘s sisters‘s older son,,,Lynch1977,
-mFZyS,mɨra-,,male ego‘s father‘s sisters‘s younger son,,,Lynch1977,
-mFZeD,mɨra-,,male ego‘s father‘s sisters‘s older daughter,,,Lynch1977,
-mFZyD,mɨra-,,male ego‘s father‘s sisters‘s younger daughter,,,Lynch1977,
-mMBeS,mɨra-,,male ego‘s mother‘s brother‘s older son,,,Lynch1977,
-mMByS,mɨra-,,male ego‘s mother‘s brother‘s younger son,,,Lynch1977,
-mMBeD,mɨra-,,male ego‘s mother‘s brother‘s older daughter,,,Lynch1977,
-mMByD,mɨra-,,male ego‘s mother‘s brother‘s younger daughter,,,Lynch1977,
-mMZeS,mɨra-,,male ego‘s mother‘s sisters‘s older son,,,Lynch1977,
-mMZyS,mɨra-,,male ego‘s mother‘s sisters‘s younger son,,,Lynch1977,
-mMZeD,mɨra-,,male ego‘s mother‘s sisters‘s older daughter,,,Lynch1977,
-mMZyD,mɨra-,,male ego‘s mother‘s sisters‘s younger daughter,,,Lynch1977,
-fFBeS,nɨmwan-,,female ego‘s father‘s brother‘s older son,,,Lynch1977,
-fFByS,nɨmwan-,,female ego‘s father‘s brother‘s younger son,,,Lynch1977,
-fFBeD,pwia-,,female ego‘s father‘s brother‘s older daughter,,,Lynch1977,
-fFByD,norh-,,female ego‘s father‘s brother‘s younger daughter,,,Lynch1977,
-fFZeS,mɨra-,,female ego‘s father‘s sisters‘s older son,,,Lynch1977,
-fFZyS,mɨra-,,female ego‘s father‘s sisters‘s younger son,,,Lynch1977,
-fFZeD,mɨra-,,female ego‘s father‘s sisters‘s older daughter,,,Lynch1977,
-fFZyD,mɨra-,,female ego‘s father‘s sisters‘s younger daughter,,,Lynch1977,
-fMBeS,mɨra-,,female ego‘s mother‘s brother‘s older son,,,Lynch1977,
-fMByS,mɨra-,,female ego‘s mother‘s brother‘s younger son,,,Lynch1977,
-fMBeD,mɨra-,,female ego‘s mother‘s brother‘s older daughter,,,Lynch1977,
-fMByD,mɨra-,,female ego‘s mother‘s brother‘s younger daughter,,,Lynch1977,
-fMZeS,mɨra-,,female ego‘s mother‘s sisters‘s older son,,,Lynch1977,
-fMZyS,mɨra-,,female ego‘s mother‘s sisters‘s younger son,,,Lynch1977,
-fMZeD,mɨra-,,female ego‘s mother‘s sisters‘s older daughter,,,Lynch1977,
-fMZyD,mɨra-,,female ego‘s mother‘s sisters‘s younger daughter,,,Lynch1977,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","pwia-",,"male ego's older brother","tuta",,"Lynch1977","address"
+"myB","norh-",,"male ego's younger brother","",,"Lynch1977",""
+"feB","nɨmwan-",,"female ego's older brother","kaka",,"Lynch1977","address"
+"fyB","nɨmwan-",,"female ego's younger brother","kaka",,"Lynch1977","address"
+"meZ","nouin-",,"male ego's older sister","kaka",,"Lynch1977","address"
+"myZ","nouin-",,"male ego's younger sister","kaka",,"Lynch1977","address"
+"feZ","pwia-",,"female ego's older sister","tuta",,"Lynch1977","address"
+"fyZ","norh-",,"female ego's younger sister","",,"Lynch1977",""
+"mF","rɨm-",,"male ego's father","tata",,"Lynch1977","address"
+"mM","in-",,"male ego's mother","iemwa",,"Lynch1977","address"
+"fF","rɨm-",,"female ego's father","tata",,"Lynch1977","address"
+"fM","in-",,"female ego's mother","iemwa",,"Lynch1977","address"
+"mS","ner-",,"male ego's son","",,"Lynch1977",""
+"fS","ner-",,"female ego's son","",,"Lynch1977",""
+"mD","ner-",,"male ego's daughter","kuku",,"Lynch1977","address"
+"fD","ner-",,"female ego's daughter","kuku",,"Lynch1977","address"
+"mSS","mwipw-",,"male ego's son's son","",,"Lynch1977",""
+"mSD","mwipw-",,"male ego's son's daughter","",,"Lynch1977",""
+"mDS","mwipw-",,"male ego's daughter's son","",,"Lynch1977",""
+"mDD","mwipw-",,"male ego's daughter's daughter","",,"Lynch1977",""
+"fSS","mwipw-",,"female ego's son's son","",,"Lynch1977",""
+"fSD","mwipw-",,"female ego's son's daughter","",,"Lynch1977",""
+"fDS","mwipw-",,"female ego's daughter's son","",,"Lynch1977",""
+"fDD","mwipw-",,"female ego's daugher's daughter","",,"Lynch1977",""
+"mFF","rɨp-, kaha",,"male ego's father‘s father","",,"Lynch1977",""
+"mFM","rɨp-, kaha",,"male ego's father's mother","",,"Lynch1977",""
+"mMF","rɨp-, kaha",,"male ego's mother's father","",,"Lynch1977",""
+"mMM","rɨp-, kaha",,"male ego's mother's mother","",,"Lynch1977",""
+"fFF","rɨp-, kaha",,"female ego's father's father","",,"Lynch1977",""
+"fFM","rɨp-, kaha",,"female ego's father's mother","",,"Lynch1977",""
+"fMF","rɨp-, kaha",,"female ego's mother's father","",,"Lynch1977",""
+"fMM","rɨp-, kaha",,"female ego's mother's mother","",,"Lynch1977",""
+"meBS","ner-, nouu-",,"male ego's older brother's son","kuku",,"Lynch1977","addess"
+"myBS","ner-, nouu-",,"male ego's younger brother's son","kuku",,"Lynch1977","addess"
+"meZS","ieuanien",,"male ego's older sister's son","",,"Lynch1977",""
+"myZS","ieuanien",,"male ego's younger sister's son","",,"Lynch1977",""
+"meBD","ner-, nouu-",,"male ego's older brother's daughter","kuku",,"Lynch1977","addess"
+"myBD","ner-, nouu-",,"male ego's younger brother's daughter","kuku",,"Lynch1977","addess"
+"meZD","ieuanien",,"male ego's older sister's daughter","",,"Lynch1977",""
+"myZD","ieuanien",,"male ego's younger sister's daughter","",,"Lynch1977",""
+"feBS","nouu-",,"female ego's older brother's son","",,"Lynch1977",""
+"fyBS","nouu-",,"female ego's younger brother's son","",,"Lynch1977",""
+"feZS","ner-, ieuanien",,"female ego's older sister's son","kuku",,"Lynch1977","addess"
+"fyZS","ner-, ieuanien",,"female ego's younger sister's son","kuku",,"Lynch1977","addess"
+"feBD","nouu-",,"female ego's older brother's daughter","",,"Lynch1977",""
+"fyBD","nouu-",,"female ego's younger brother's daughter","",,"Lynch1977",""
+"feZD","ner-, ieuanien",,"female ego's older sister's daughter","kuku",,"Lynch1977","addess"
+"fyZD","ner-, ieuanien",,"female ego's younger sister's daughter","kuku",,"Lynch1977","addess"
+"mFeB","rɨm-",,"male ego's father's older brother","",,"Lynch1977",""
+"mFyB","rɨm-",,"male ego's father's younger brother","",,"Lynch1977",""
+"mFeZ","uhu-",,"male ego's father's older sister","",,"Lynch1977",""
+"mFyZ","uhu-",,"male ego's father's younger sister","",,"Lynch1977",""
+"mMeB","mɨra-",,"male ego's mother's older brother","",,"Lynch1977",""
+"mMyB","mɨra-",,"male ego's mother's younger brother","",,"Lynch1977",""
+"mMeZ","in-",,"male ego's mother's older sister","iemwa",,"Lynch1977","address"
+"mMyZ","in-",,"male ego's mother's younger sister","iemwa",,"Lynch1977","address"
+"fFeB","rɨm-",,"female ego's father's older brother","",,"Lynch1977",""
+"fFyB","rɨm-",,"female ego's father's younger brother","",,"Lynch1977",""
+"fFeZ","uhu-",,"female ego's father's older sister","",,"Lynch1977",""
+"fFyZ","uhu-",,"female ego's father's younger sister","",,"Lynch1977",""
+"fMeB","mɨra-",,"female ego's mother's older brother","",,"Lynch1977",""
+"fMyB","mɨra-",,"female ego's mother's younger brother","",,"Lynch1977",""
+"fMeZ","in-",,"female ego's mother's older sister","iemwa",,"Lynch1977","address"
+"fMyZ","in-",,"female ego's mother's younger sister","iemwa",,"Lynch1977","address"
+"mW","peravɨn, peran, namir-, nuaia-",,"male ego's wife","uaskom",,"Lynch1977","of a chief"
+"fH","ieramwaan, namir-",,"female ego‘s husband","iahigɨl",,"Lynch1977","honorific"
+"mDH","ieuaninen",,"male ego's daughter's husband","",,"Lynch1977",""
+"fDH","nouu-",,"female ego's daughter's husband","",,"Lynch1977",""
+"mSW","ieuanien",,"male ego's son's wife","",,"Lynch1977",""
+"fSW","nouu-",,"female ego's son's wife","",,"Lynch1977",""
+"mWF","mɨra-",,"male ego's wife's father","",,"Lynch1977",""
+"mWM","uhu-",,"male ego's wife's mother","",,"Lynch1977",""
+"mWB","-iel",,"male ego's wife's brother","",,"Lynch1977",""
+"mWZ","ioug-",,"male ego's wife's sister","",,"Lynch1977",""
+"fHF","mɨra-",,"female ego's husband's father","",,"Lynch1977",""
+"fHM","uhu-",,"female ego's husband's mother","",,"Lynch1977",""
+"fHB","-iel",,"female ego's husband's brother","",,"Lynch1977",""
+"fHZ","ioug-",,"female ego's husband's sister","",,"Lynch1977",""
+"mBW","ioug-",,"male ego's brother's wife","",,"Lynch1977",""
+"fBW","ioug-",,"female ego's brother's wife","",,"Lynch1977",""
+"mZH","-iel",,"male ego's sister's husband","",,"Lynch1977",""
+"fZH","-iel",,"female ego's sister's husband","",,"Lynch1977",""
+"mFBeS","pwia-",,"male ego‘s father‘s brother‘s older son","",,"Lynch1977",""
+"mFByS","norh-",,"male ego‘s father‘s brother‘s younger son","",,"Lynch1977",""
+"mFBeD","nouin-",,"male ego‘s father‘s brother‘s older daughter","",,"Lynch1977",""
+"mFByD","nouin-",,"male ego‘s father‘s brother‘s younger daughter","",,"Lynch1977",""
+"mFZeS","mɨra-",,"male ego‘s father‘s sisters‘s older son","",,"Lynch1977",""
+"mFZyS","mɨra-",,"male ego‘s father‘s sisters‘s younger son","",,"Lynch1977",""
+"mFZeD","mɨra-",,"male ego‘s father‘s sisters‘s older daughter","",,"Lynch1977",""
+"mFZyD","mɨra-",,"male ego‘s father‘s sisters‘s younger daughter","",,"Lynch1977",""
+"mMBeS","mɨra-",,"male ego‘s mother‘s brother‘s older son","",,"Lynch1977",""
+"mMByS","mɨra-",,"male ego‘s mother‘s brother‘s younger son","",,"Lynch1977",""
+"mMBeD","mɨra-",,"male ego‘s mother‘s brother‘s older daughter","",,"Lynch1977",""
+"mMByD","mɨra-",,"male ego‘s mother‘s brother‘s younger daughter","",,"Lynch1977",""
+"mMZeS","mɨra-",,"male ego‘s mother‘s sisters‘s older son","",,"Lynch1977",""
+"mMZyS","mɨra-",,"male ego‘s mother‘s sisters‘s younger son","",,"Lynch1977",""
+"mMZeD","mɨra-",,"male ego‘s mother‘s sisters‘s older daughter","",,"Lynch1977",""
+"mMZyD","mɨra-",,"male ego‘s mother‘s sisters‘s younger daughter","",,"Lynch1977",""
+"fFBeS","nɨmwan-",,"female ego‘s father‘s brother‘s older son","",,"Lynch1977",""
+"fFByS","nɨmwan-",,"female ego‘s father‘s brother‘s younger son","",,"Lynch1977",""
+"fFBeD","pwia-",,"female ego‘s father‘s brother‘s older daughter","",,"Lynch1977",""
+"fFByD","norh-",,"female ego‘s father‘s brother‘s younger daughter","",,"Lynch1977",""
+"fFZeS","mɨra-",,"female ego‘s father‘s sisters‘s older son","",,"Lynch1977",""
+"fFZyS","mɨra-",,"female ego‘s father‘s sisters‘s younger son","",,"Lynch1977",""
+"fFZeD","mɨra-",,"female ego‘s father‘s sisters‘s older daughter","",,"Lynch1977",""
+"fFZyD","mɨra-",,"female ego‘s father‘s sisters‘s younger daughter","",,"Lynch1977",""
+"fMBeS","mɨra-",,"female ego‘s mother‘s brother‘s older son","",,"Lynch1977",""
+"fMByS","mɨra-",,"female ego‘s mother‘s brother‘s younger son","",,"Lynch1977",""
+"fMBeD","mɨra-",,"female ego‘s mother‘s brother‘s older daughter","",,"Lynch1977",""
+"fMByD","mɨra-",,"female ego‘s mother‘s brother‘s younger daughter","",,"Lynch1977",""
+"fMZeS","mɨra-",,"female ego‘s mother‘s sisters‘s older son","",,"Lynch1977",""
+"fMZyS","mɨra-",,"female ego‘s mother‘s sisters‘s younger son","",,"Lynch1977",""
+"fMZeD","mɨra-",,"female ego‘s mother‘s sisters‘s older daughter","",,"Lynch1977",""
+"fMZyD","mɨra-",,"female ego‘s mother‘s sisters‘s younger daughter","",,"Lynch1977",""

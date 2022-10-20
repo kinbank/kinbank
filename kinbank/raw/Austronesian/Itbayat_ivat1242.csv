@@ -1,159 +1,159 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kaaka,,male ego's older brother,,,Yamada1966,
-myB,wari,,male ego's younger brother,,,Yamada1966,
-feB,kaaka,,female ego's older brother,,,Yamada1966,
-fyB,wari,,female ego's younger brother,,,Yamada1966,
-meZ,kaaka,,male ego's older sister,,,Yamada1966,
-myZ,wari,,male ego's younger sister,,,Yamada1966,
-feZ,kaaka,,female ego's older sister,,,Yamada1966,
-fyZ,wari,,female ego's younger sister,,,Yamada1966,
-mF,ama,,male ego's father,,,Yamada1966,
-mM,ina,,male ego's mother,,,Yamada1966,
-fF,ama,,female ego's father,,,Yamada1966,
-fM,ina,,female ego's mother,,,Yamada1966,
-mS,anak,,male ego's son,,,Yamada1966,
-fS,anak,,female ego's son,,,Yamada1966,
-mD,anak,,male ego's daughter,,,Yamada1966,
-fD,anak,,female ego's daughter,,,Yamada1966,
-mSS,inapo,,male ego's son's son,,,Yamada1966,
-mSD,inapo,,male ego's son's daughter,,,Yamada1966,
-mDS,inapo,,male ego's daughter's son,,,Yamada1966,
-mDD,inapo,,male ego's daughter's daughter,,,Yamada1966,
-fSS,inapo,,female ego's son's son,,,Yamada1966,
-fSD,inapo,,female ego's son's daughter,,,Yamada1966,
-fDS,inapo,,female ego's daughter's son,,,Yamada1966,
-fDD,inapo,,female ego's daugher's daughter,,,Yamada1966,
-mFF,apo,,male ego's father‘s father,,,Yamada1966,
-mFM,apo,,male ego's father's mother,,,Yamada1966,
-mMF,apo,,male ego's mother's father,,,Yamada1966,
-mMM,apo,,male ego's mother's mother,,,Yamada1966,
-fFF,apo,,female ego's father's father,,,Yamada1966,
-fFM,apo,,female ego's father's mother,,,Yamada1966,
-fMF,apo,,female ego's mother's father,,,Yamada1966,
-fMM,apo,,female ego's mother's mother,,,Yamada1966,
-meBS,anaken,,male ego's older brother's son,,,Yamada1966,
-myBS,anaken,,male ego's younger brother's son,,,Yamada1966,
-meZS,anaken,,male ego's older sister's son,,,Yamada1966,
-myZS,anaken,,male ego's younger sister's son,,,Yamada1966,
-meBD,anaken,,male ego's older brother's daughter,,,Yamada1966,
-myBD,anaken,,male ego's younger brother's daughter,,,Yamada1966,
-meZD,anaken,,male ego's older sister's daughter,,,Yamada1966,
-myZD,anaken,,male ego's younger sister's daughter,,,Yamada1966,
-feBS,anaken,,female ego's older brother's son,,,Yamada1966,
-fyBS,anaken,,female ego's younger brother's son,,,Yamada1966,
-feZS,anaken,,female ego's older sister's son,,,Yamada1966,
-fyZS,anaken,,female ego's younger sister's son,,,Yamada1966,
-feBD,anaken,,female ego's older brother's daughter,,,Yamada1966,
-fyBD,anaken,,female ego's younger brother's daughter,,,Yamada1966,
-feZD,anaken,,female ego's older sister's daughter,,,Yamada1966,
-fyZD,anaken,,female ego's younger sister's daughter,,,Yamada1966,
-mFeB,"maran, maraanen",,male ego's father's older brother,,,Yamada1966,
-mFyB,"maran, maraanen",,male ego's father's younger brother,,,Yamada1966,
-mFeZ,"kamnan, kamnanen",,male ego's father's older sister,,,Yamada1966,
-mFyZ,"kamnan, kamnanen",,male ego's father's younger sister,,,Yamada1966,
-mMeB,"maran, maraanen",,male ego's mother's older brother,,,Yamada1966,
-mMyB,"maran, maraanen",,male ego's mother's younger brother,,,Yamada1966,
-mMeZ,"kamnan, kamnanen",,male ego's mother's older sister,,,Yamada1966,
-mMyZ,"kamnan, kamnanen",,male ego's mother's younger sister,,,Yamada1966,
-fFeB,"maran, maraanen",,female ego's father's older brother,,,Yamada1966,
-fFyB,"maran, maraanen",,female ego's father's younger brother,,,Yamada1966,
-fFeZ,"kamnan, kamnanen",,female ego's father's older sister,,,Yamada1966,
-fFyZ,"kamnan, kamnanen",,female ego's father's younger sister,,,Yamada1966,
-fMeB,"maran, maraanen",,female ego's mother's older brother,,,Yamada1966,
-fMyB,"maran, maraanen",,female ego's mother's younger brother,,,Yamada1966,
-fMeZ,"kamnan, kamnanen",,female ego's mother's older sister,,,Yamada1966,
-fMyZ,"kamnan, kamnanen",,female ego's mother's younger sister,,,Yamada1966,
-mW,"kakovot, maysa, kaktex",,male ego's wife,,,Yamada1966,
-fH,"kakovot, maysa, kaktex",,female ego‘s husband,,,Yamada1966,
-mDH,anaken,,male ego's daughter's husband,,,Yamada1966,
-fDH,anaken,,female ego's daughter's husband,,,Yamada1966,
-mSW,anaken,,male ego's son's wife,,,Yamada1966,
-fSW,anaken,,female ego's son's wife,,,Yamada1966,
-mWB,"katayog, katayogen",,male ego's wife's brother,,,Yamada1966,
-mWZ,"katayog, katayogen",,male ego's wife's sister,,,Yamada1966,
-fHB,"katayog, katayogen",,female ego's husband's brother,,,Yamada1966,
-fHZ,"katayog, katayogen",,female ego's husband's sister,,,Yamada1966,
-mBW,"katayog, katayogen",,male ego's brother's wife,,,Yamada1966,
-fBW,"katayog, katayogen",,female ego's brother's wife,,,Yamada1966,
-mZH,"katayog, katayogen",,male ego's sister's husband,,,Yamada1966,
-fZH,"katayog, katayogen",,female ego's sister's husband,,,Yamada1966,
-mFBS,kataysa,,male ego's father's brother's son,,,Yamada1966,
-mFZS,kataysa,,male ego's father's sister's son,,,Yamada1966,
-mMBS,kataysa,,male ego's mother's brother's son,,,Yamada1966,
-mMZS,kataysa,,male ego's mother's sister's son,,,Yamada1966,
-mFBD,kataysa,,male ego's father's brother's daughter,,,Yamada1966,
-mFZD,kataysa,,male ego's father's sister's daughter,,,Yamada1966,
-mMBD,kataysa,,male ego's mother's brother's daughter,,,Yamada1966,
-mMZD,kataysa,,male ego's mother's sister's daughter,,,Yamada1966,
-fFBS,kataysa,,female ego's father's brother's son,,,Yamada1966,
-fFZS,kataysa,,female ego's father's sister's son,,,Yamada1966,
-fMBS,kataysa,,female ego's mother's brother's son,,,Yamada1966,
-fMZS,kataysa,,female ego's mother's sister's son,,,Yamada1966,
-fFBD,kataysa,,female ego's father's brother's daughter,,,Yamada1966,
-fFZD,kataysa,,female ego's father's sister's daughter,,,Yamada1966,
-fMBD,kataysa,,female ego's mother's brother's daughter,,,Yamada1966,
-fMZD,kataysa,,female ego's mother's sister's daughter,,,Yamada1966,
-mFeBS,kataysa,,male ego's father's brother's son,,,Yamada1966,Inferred; NA
-mFyBS,kataysa,,male ego's father's brother's son,,,Yamada1966,Inferred; NA
-mFeZS,kataysa,,male ego's father's sister's son,,,Yamada1966,Inferred; NA
-mFyZS,kataysa,,male ego's father's sister's son,,,Yamada1966,Inferred; NA
-mFeBD,kataysa,,male ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-mFyBD,kataysa,,male ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-mFeZD,kataysa,,male ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-mFyZD,kataysa,,male ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-mMeBS,kataysa,,male ego's mother's brother's son,,,Yamada1966,Inferred; NA
-mMyBS,kataysa,,male ego's mother's brother's son,,,Yamada1966,Inferred; NA
-mMeZS,kataysa,,male ego's mother's sister's son,,,Yamada1966,Inferred; NA
-mMyZS,kataysa,,male ego's mother's sister's son,,,Yamada1966,Inferred; NA
-mMeBD,kataysa,,male ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-mMyBD,kataysa,,male ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-mMeZD,kataysa,,male ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-mMyZD,kataysa,,male ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-mFBeS,kataysa,,male ego's father's brother's son,,,Yamada1966,Inferred; NA
-mFByS,kataysa,,male ego's father's brother's son,,,Yamada1966,Inferred; NA
-mFZeS,kataysa,,male ego's father's sister's son,,,Yamada1966,Inferred; NA
-mFZyS,kataysa,,male ego's father's sister's son,,,Yamada1966,Inferred; NA
-mFBeD,kataysa,,male ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-mFByD,kataysa,,male ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-mFZeD,kataysa,,male ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-mFZyD,kataysa,,male ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-mMBeS,kataysa,,male ego's mother's brother's son,,,Yamada1966,Inferred; NA
-mMByS,kataysa,,male ego's mother's brother's son,,,Yamada1966,Inferred; NA
-mMZeS,kataysa,,male ego's mother's sister's son,,,Yamada1966,Inferred; NA
-mMZyS,kataysa,,male ego's mother's sister's son,,,Yamada1966,Inferred; NA
-mMBeD,kataysa,,male ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-mMByD,kataysa,,male ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-mMZeD,kataysa,,male ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-mMZyD,kataysa,,male ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-fFeBS,kataysa,,female ego's father's brother's son,,,Yamada1966,Inferred; NA
-fFyBS,kataysa,,female ego's father's brother's son,,,Yamada1966,Inferred; NA
-fFeZS,kataysa,,female ego's father's sister's son,,,Yamada1966,Inferred; NA
-fFyZS,kataysa,,female ego's father's sister's son,,,Yamada1966,Inferred; NA
-fFeBD,kataysa,,female ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-fFyBD,kataysa,,female ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-fFeZD,kataysa,,female ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-fFyZD,kataysa,,female ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-fMeBS,kataysa,,female ego's mother's brother's son,,,Yamada1966,Inferred; NA
-fMyBS,kataysa,,female ego's mother's brother's son,,,Yamada1966,Inferred; NA
-fMeZS,kataysa,,female ego's mother's sister's son,,,Yamada1966,Inferred; NA
-fMyZS,kataysa,,female ego's mother's sister's son,,,Yamada1966,Inferred; NA
-fMeBD,kataysa,,female ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-fMyBD,kataysa,,female ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-fMeZD,kataysa,,female ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-fMyZD,kataysa,,female ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-fFBeS,kataysa,,female ego's father's brother's son,,,Yamada1966,Inferred; NA
-fFByS,kataysa,,female ego's father's brother's son,,,Yamada1966,Inferred; NA
-fFZeS,kataysa,,female ego's father's sister's son,,,Yamada1966,Inferred; NA
-fFZyS,kataysa,,female ego's father's sister's son,,,Yamada1966,Inferred; NA
-fFBeD,kataysa,,female ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-fFByD,kataysa,,female ego's father's brother's daughter,,,Yamada1966,Inferred; NA
-fFZeD,kataysa,,female ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-fFZyD,kataysa,,female ego's father's sister's daughter,,,Yamada1966,Inferred; NA
-fMBeS,kataysa,,female ego's mother's brother's son,,,Yamada1966,Inferred; NA
-fMByS,kataysa,,female ego's mother's brother's son,,,Yamada1966,Inferred; NA
-fMZeS,kataysa,,female ego's mother's sister's son,,,Yamada1966,Inferred; NA
-fMZyS,kataysa,,female ego's mother's sister's son,,,Yamada1966,Inferred; NA
-fMBeD,kataysa,,female ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-fMByD,kataysa,,female ego's mother's brother's daughter,,,Yamada1966,Inferred; NA
-fMZeD,kataysa,,female ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
-fMZyD,kataysa,,female ego's mother's sister's daughter,,,Yamada1966,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kaaka",,"male ego's older brother",,,"Yamada1966",""
+"myB","wari",,"male ego's younger brother",,,"Yamada1966",""
+"feB","kaaka",,"female ego's older brother",,,"Yamada1966",""
+"fyB","wari",,"female ego's younger brother",,,"Yamada1966",""
+"meZ","kaaka",,"male ego's older sister",,,"Yamada1966",""
+"myZ","wari",,"male ego's younger sister",,,"Yamada1966",""
+"feZ","kaaka",,"female ego's older sister",,,"Yamada1966",""
+"fyZ","wari",,"female ego's younger sister",,,"Yamada1966",""
+"mF","ama",,"male ego's father",,,"Yamada1966",""
+"mM","ina",,"male ego's mother",,,"Yamada1966",""
+"fF","ama",,"female ego's father",,,"Yamada1966",""
+"fM","ina",,"female ego's mother",,,"Yamada1966",""
+"mS","anak",,"male ego's son",,,"Yamada1966",""
+"fS","anak",,"female ego's son",,,"Yamada1966",""
+"mD","anak",,"male ego's daughter",,,"Yamada1966",""
+"fD","anak",,"female ego's daughter",,,"Yamada1966",""
+"mSS","inapo",,"male ego's son's son",,,"Yamada1966",""
+"mSD","inapo",,"male ego's son's daughter",,,"Yamada1966",""
+"mDS","inapo",,"male ego's daughter's son",,,"Yamada1966",""
+"mDD","inapo",,"male ego's daughter's daughter",,,"Yamada1966",""
+"fSS","inapo",,"female ego's son's son",,,"Yamada1966",""
+"fSD","inapo",,"female ego's son's daughter",,,"Yamada1966",""
+"fDS","inapo",,"female ego's daughter's son",,,"Yamada1966",""
+"fDD","inapo",,"female ego's daugher's daughter",,,"Yamada1966",""
+"mFF","apo",,"male ego's father‘s father",,,"Yamada1966",""
+"mFM","apo",,"male ego's father's mother",,,"Yamada1966",""
+"mMF","apo",,"male ego's mother's father",,,"Yamada1966",""
+"mMM","apo",,"male ego's mother's mother",,,"Yamada1966",""
+"fFF","apo",,"female ego's father's father",,,"Yamada1966",""
+"fFM","apo",,"female ego's father's mother",,,"Yamada1966",""
+"fMF","apo",,"female ego's mother's father",,,"Yamada1966",""
+"fMM","apo",,"female ego's mother's mother",,,"Yamada1966",""
+"meBS","anaken",,"male ego's older brother's son",,,"Yamada1966",""
+"myBS","anaken",,"male ego's younger brother's son",,,"Yamada1966",""
+"meZS","anaken",,"male ego's older sister's son",,,"Yamada1966",""
+"myZS","anaken",,"male ego's younger sister's son",,,"Yamada1966",""
+"meBD","anaken",,"male ego's older brother's daughter",,,"Yamada1966",""
+"myBD","anaken",,"male ego's younger brother's daughter",,,"Yamada1966",""
+"meZD","anaken",,"male ego's older sister's daughter",,,"Yamada1966",""
+"myZD","anaken",,"male ego's younger sister's daughter",,,"Yamada1966",""
+"feBS","anaken",,"female ego's older brother's son",,,"Yamada1966",""
+"fyBS","anaken",,"female ego's younger brother's son",,,"Yamada1966",""
+"feZS","anaken",,"female ego's older sister's son",,,"Yamada1966",""
+"fyZS","anaken",,"female ego's younger sister's son",,,"Yamada1966",""
+"feBD","anaken",,"female ego's older brother's daughter",,,"Yamada1966",""
+"fyBD","anaken",,"female ego's younger brother's daughter",,,"Yamada1966",""
+"feZD","anaken",,"female ego's older sister's daughter",,,"Yamada1966",""
+"fyZD","anaken",,"female ego's younger sister's daughter",,,"Yamada1966",""
+"mFeB","maran, maraanen",,"male ego's father's older brother",,,"Yamada1966",""
+"mFyB","maran, maraanen",,"male ego's father's younger brother",,,"Yamada1966",""
+"mFeZ","kamnan, kamnanen",,"male ego's father's older sister",,,"Yamada1966",""
+"mFyZ","kamnan, kamnanen",,"male ego's father's younger sister",,,"Yamada1966",""
+"mMeB","maran, maraanen",,"male ego's mother's older brother",,,"Yamada1966",""
+"mMyB","maran, maraanen",,"male ego's mother's younger brother",,,"Yamada1966",""
+"mMeZ","kamnan, kamnanen",,"male ego's mother's older sister",,,"Yamada1966",""
+"mMyZ","kamnan, kamnanen",,"male ego's mother's younger sister",,,"Yamada1966",""
+"fFeB","maran, maraanen",,"female ego's father's older brother",,,"Yamada1966",""
+"fFyB","maran, maraanen",,"female ego's father's younger brother",,,"Yamada1966",""
+"fFeZ","kamnan, kamnanen",,"female ego's father's older sister",,,"Yamada1966",""
+"fFyZ","kamnan, kamnanen",,"female ego's father's younger sister",,,"Yamada1966",""
+"fMeB","maran, maraanen",,"female ego's mother's older brother",,,"Yamada1966",""
+"fMyB","maran, maraanen",,"female ego's mother's younger brother",,,"Yamada1966",""
+"fMeZ","kamnan, kamnanen",,"female ego's mother's older sister",,,"Yamada1966",""
+"fMyZ","kamnan, kamnanen",,"female ego's mother's younger sister",,,"Yamada1966",""
+"mW","kakovot, maysa, kaktex",,"male ego's wife",,,"Yamada1966",""
+"fH","kakovot, maysa, kaktex",,"female ego‘s husband",,,"Yamada1966",""
+"mDH","anaken",,"male ego's daughter's husband",,,"Yamada1966",""
+"fDH","anaken",,"female ego's daughter's husband",,,"Yamada1966",""
+"mSW","anaken",,"male ego's son's wife",,,"Yamada1966",""
+"fSW","anaken",,"female ego's son's wife",,,"Yamada1966",""
+"mWB","katayog, katayogen",,"male ego's wife's brother",,,"Yamada1966",""
+"mWZ","katayog, katayogen",,"male ego's wife's sister",,,"Yamada1966",""
+"fHB","katayog, katayogen",,"female ego's husband's brother",,,"Yamada1966",""
+"fHZ","katayog, katayogen",,"female ego's husband's sister",,,"Yamada1966",""
+"mBW","katayog, katayogen",,"male ego's brother's wife",,,"Yamada1966",""
+"fBW","katayog, katayogen",,"female ego's brother's wife",,,"Yamada1966",""
+"mZH","katayog, katayogen",,"male ego's sister's husband",,,"Yamada1966",""
+"fZH","katayog, katayogen",,"female ego's sister's husband",,,"Yamada1966",""
+"mFBS","kataysa",,"male ego's father's brother's son",,,"Yamada1966",""
+"mFZS","kataysa",,"male ego's father's sister's son",,,"Yamada1966",""
+"mMBS","kataysa",,"male ego's mother's brother's son",,,"Yamada1966",""
+"mMZS","kataysa",,"male ego's mother's sister's son",,,"Yamada1966",""
+"mFBD","kataysa",,"male ego's father's brother's daughter",,,"Yamada1966",""
+"mFZD","kataysa",,"male ego's father's sister's daughter",,,"Yamada1966",""
+"mMBD","kataysa",,"male ego's mother's brother's daughter",,,"Yamada1966",""
+"mMZD","kataysa",,"male ego's mother's sister's daughter",,,"Yamada1966",""
+"fFBS","kataysa",,"female ego's father's brother's son",,,"Yamada1966",""
+"fFZS","kataysa",,"female ego's father's sister's son",,,"Yamada1966",""
+"fMBS","kataysa",,"female ego's mother's brother's son",,,"Yamada1966",""
+"fMZS","kataysa",,"female ego's mother's sister's son",,,"Yamada1966",""
+"fFBD","kataysa",,"female ego's father's brother's daughter",,,"Yamada1966",""
+"fFZD","kataysa",,"female ego's father's sister's daughter",,,"Yamada1966",""
+"fMBD","kataysa",,"female ego's mother's brother's daughter",,,"Yamada1966",""
+"fMZD","kataysa",,"female ego's mother's sister's daughter",,,"Yamada1966",""
+"mFeBS","kataysa",,"male ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"mFyBS","kataysa",,"male ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"mFeZS","kataysa",,"male ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"mFyZS","kataysa",,"male ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"mFeBD","kataysa",,"male ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mFyBD","kataysa",,"male ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mFeZD","kataysa",,"male ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mFyZD","kataysa",,"male ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mMeBS","kataysa",,"male ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"mMyBS","kataysa",,"male ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"mMeZS","kataysa",,"male ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"mMyZS","kataysa",,"male ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"mMeBD","kataysa",,"male ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mMyBD","kataysa",,"male ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mMeZD","kataysa",,"male ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mMyZD","kataysa",,"male ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mFBeS","kataysa",,"male ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"mFByS","kataysa",,"male ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"mFZeS","kataysa",,"male ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"mFZyS","kataysa",,"male ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"mFBeD","kataysa",,"male ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mFByD","kataysa",,"male ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mFZeD","kataysa",,"male ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mFZyD","kataysa",,"male ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mMBeS","kataysa",,"male ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"mMByS","kataysa",,"male ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"mMZeS","kataysa",,"male ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"mMZyS","kataysa",,"male ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"mMBeD","kataysa",,"male ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mMByD","kataysa",,"male ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"mMZeD","kataysa",,"male ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"mMZyD","kataysa",,"male ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fFeBS","kataysa",,"female ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"fFyBS","kataysa",,"female ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"fFeZS","kataysa",,"female ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"fFyZS","kataysa",,"female ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"fFeBD","kataysa",,"female ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fFyBD","kataysa",,"female ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fFeZD","kataysa",,"female ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fFyZD","kataysa",,"female ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fMeBS","kataysa",,"female ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"fMyBS","kataysa",,"female ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"fMeZS","kataysa",,"female ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"fMyZS","kataysa",,"female ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"fMeBD","kataysa",,"female ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fMyBD","kataysa",,"female ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fMeZD","kataysa",,"female ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fMyZD","kataysa",,"female ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fFBeS","kataysa",,"female ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"fFByS","kataysa",,"female ego's father's brother's son",,,"Yamada1966","Inferred; NA"
+"fFZeS","kataysa",,"female ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"fFZyS","kataysa",,"female ego's father's sister's son",,,"Yamada1966","Inferred; NA"
+"fFBeD","kataysa",,"female ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fFByD","kataysa",,"female ego's father's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fFZeD","kataysa",,"female ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fFZyD","kataysa",,"female ego's father's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fMBeS","kataysa",,"female ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"fMByS","kataysa",,"female ego's mother's brother's son",,,"Yamada1966","Inferred; NA"
+"fMZeS","kataysa",,"female ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"fMZyS","kataysa",,"female ego's mother's sister's son",,,"Yamada1966","Inferred; NA"
+"fMBeD","kataysa",,"female ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fMByD","kataysa",,"female ego's mother's brother's daughter",,,"Yamada1966","Inferred; NA"
+"fMZeD","kataysa",,"female ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"
+"fMZyD","kataysa",,"female ego's mother's sister's daughter",,,"Yamada1966","Inferred; NA"

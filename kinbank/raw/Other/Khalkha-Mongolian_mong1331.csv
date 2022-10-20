@@ -1,115 +1,115 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ax,ax,male ego's older brother,agaa,,GuntsetsegPC,
-myB,düü,tu,male ego's younger brother,,,GuntsetsegPC,
-feB,ax,ax,female ego's older brother,agaa,,GuntsetsegPC,
-fyB,düü,tu,female ego's younger brother,,,GuntsetsegPC,
-meZ,egč,egt͡ʃʰ,male ego's older sister,egee,,GuntsetsegPC,
-myZ,düü,tu,male ego's younger sister,,,GuntsetsegPC,
-feZ,egč,egt͡ʃʰ,female ego's older sister,egee,,GuntsetsegPC,
-fyZ,düü,tu,female ego's younger sister,,,GuntsetsegPC,
-mF,aav,aːw̜,male ego's father,,,GuntsetsegPC,
-mM,eež,eːt͡ʃ,male ego's mother,,,GuntsetsegPC,
-fF,aav,aːw̜,female ego's father,,,GuntsetsegPC,
-fM,eež,eːt͡ʃ,female ego's mother,,,GuntsetsegPC,
-mS,xüü,xu,male ego's son,,,GuntsetsegPC,
-fS,xüü,xu,female ego's son,,,GuntsetsegPC,
-mD,oxin,ɔxəŋ,male ego's daughter,,,GuntsetsegPC,
-fD,oxin,ɔxəŋ,female ego's daughter,,,GuntsetsegPC,
-mSS,ač,at͡ʃʰ,male ego's son's son,,,GuntsetsegPC,
-mSD,ač,at͡ʃʰ,male ego's son's daughter,,,GuntsetsegPC,
-mDS,zee,ze,male ego's daughter's son,,,GuntsetsegPC,
-mDD,zee,ze,male ego's daughter's daughter,,,GuntsetsegPC,
-fSS,ač,at͡ʃʰ,female ego's son's son,,,GuntsetsegPC,
-fSD,ač,at͡ʃʰ,female ego's son's daughter,,,GuntsetsegPC,
-fDS,zee,ze,female ego's daughter's son,,,GuntsetsegPC,
-fDD,zee,ze,female ego's daugher's daughter,,,GuntsetsegPC,
-mFF,övöö (övög aav),owo,male ego's father‘s father,buural aav,,GuntsetsegPC,
-mFM,emee (övög eež),eme,male ego's father's mother,buural eež,,GuntsetsegPC,
-mMF,övöö (nagac aav),owo,male ego's mother's father,buural aav,,GuntsetsegPC,
-mMM,emee (nagac eež),eme,male ego's mother's mother,buural eež,,GuntsetsegPC,
-fFF,övöö (övög aav),owo,female ego's father's father,buural aav,,GuntsetsegPC,
-fFM,emee (övög eež),eme,female ego's father's mother,buural eež,,GuntsetsegPC,
-fMF,övöö (nagac aav),owo,female ego's mother's father,buural aav,,GuntsetsegPC,
-fMM,emee (nagac eež),eme,female ego's mother's mother,buural eež,,GuntsetsegPC,
-meBS,ač düü,at͡ʃʰ tu,male ego's older brother's son,,,GuntsetsegPC,
-myBS,ač düü,at͡ʃʰ tu,male ego's younger brother's son,,,GuntsetsegPC,
-meZS,zee düü,ze tu,male ego's older sister's son,,,GuntsetsegPC,
-myZS,zee düü,ze tu,male ego's younger sister's son,,,GuntsetsegPC,
-meBD,ač düü,at͡ʃʰ tu,male ego's older brother's daughter,,,GuntsetsegPC,
-myBD,ač düü,at͡ʃʰ tu,male ego's younger brother's daughter,,,GuntsetsegPC,
-meZD,zee düü,ze tu,male ego's older sister's daughter,,,GuntsetsegPC,
-myZD,zee düü,ze tu,male ego's younger sister's daughter,,,GuntsetsegPC,
-feBS,ač düü,at͡ʃʰ tu,female ego's older brother's son,,,GuntsetsegPC,
-fyBS,ač düü,at͡ʃʰ tu,female ego's younger brother's son,,,GuntsetsegPC,
-feZS,zee düü,ze tu,female ego's older sister's son,,,GuntsetsegPC,
-fyZS,zee düü,ze tu,female ego's younger sister's son,,,GuntsetsegPC,
-feBD,ač düü,at͡ʃʰ tu,female ego's older brother's daughter,,,GuntsetsegPC,
-fyBD,ač düü,at͡ʃʰ tu,female ego's younger brother's daughter,,,GuntsetsegPC,
-feZD,zee düü,ze tu,female ego's older sister's daughter,,,GuntsetsegPC,
-fyZD,zee düü,ze tu,female ego's younger sister's daughter,,,GuntsetsegPC,
-mFeB,avga ax,awɢ ax,male ego's father's older brother,,,GuntsetsegPC,
-mFyB,avga ax,awɢ ax,male ego's father's younger brother,,,GuntsetsegPC,
-mFeZ,avga egč,awɢ egt͡ʃʰ,male ego's father's older sister,,,GuntsetsegPC,
-mFyZ,avga egč,awɢ egt͡ʃʰ,male ego's father's younger sister,,,GuntsetsegPC,
-mMeB,nagac ax,nagəc ax,male ego's mother's older brother,,,GuntsetsegPC,
-mMyB,nagac ax,nagəc ax,male ego's mother's younger brother,,,GuntsetsegPC,
-mMeZ,nagac egč,nagəc egt͡ʃʰ,male ego's mother's older sister,,,GuntsetsegPC,
-mMyZ,nagac egč,nagəc egt͡ʃʰ,male ego's mother's younger sister,,,GuntsetsegPC,
-fFeB,avga ax,awɢ ax,female ego's father's older brother,,,GuntsetsegPC,
-fFyB,avga ax,awɢ ax,female ego's father's younger brother,,,GuntsetsegPC,
-fFeZ,avga egč,awɢ egt͡ʃʰ,female ego's father's older sister,,,GuntsetsegPC,
-fFyZ,avga egč,awɢ egt͡ʃʰ,female ego's father's younger sister,,,GuntsetsegPC,
-fMeB,nagac ax,nagəc ax,female ego's mother's older brother,,,GuntsetsegPC,
-fMyB,nagac ax,nagəc ax,female ego's mother's younger brother,,,GuntsetsegPC,
-fMeZ,nagac egč,nagəc egt͡ʃʰ,female ego's mother's older sister,,,GuntsetsegPC,
-fMyZ,nagac egč,nagəc egt͡ʃʰ,female ego's mother's younger sister,,,GuntsetsegPC,
-mW,exner,exnər,male ego's wife,,,GuntsetsegPC,
-fH,nöxör,noxər,female ego‘s husband,,,GuntsetsegPC,
-mDH,xürgen (xüü),xurgəŋ (xu),male ego's daughter's husband,,,GuntsetsegPC,
-fDH,xürgen( xüü),xurgəŋ (xu),female ego's daughter's husband,,,GuntsetsegPC,
-mSW,ber (oxin),ber (ɔxəŋ),male ego's son's wife,,,GuntsetsegPC,
-fSW,ber (oxin),ber (ɔxəŋ),female ego's son's wife,,,GuntsetsegPC,
-mWF,xadam aav,xatəm aːw̜,male ego's wife's father,,,GuntsetsegPC,
-mWM,xadam eež,xatəm eːt͡ʃ,male ego's wife's mother,,,GuntsetsegPC,
-mWB,"xadam ax, xadam düü",xatəm ax,male ego's wife's brother,,,GuntsetsegPC,xadam ax (if older than ego and ego's wife) / xadam düü (if younger than ego and ego's wife)
-mWZ,"xadam egč, xadam düü",xatəm egt͡ʃʰ,male ego's wife's sister,,,GuntsetsegPC,xadam egč (if older than ego and ego's wife) / xadam düü (if younger than ego and ego's wife)
-fHF,xadam aav,xatəm aːw̜,female ego's husband's father,,,GuntsetsegPC,
-fHM,xadam eež,xatəm eːt͡ʃ,female ego's husband's mother,,,GuntsetsegPC,
-fHB,"xadam ax, xadam düü",xatəm ax,female ego's husband's brother,,,GuntsetsegPC,xadam ax (if older than ego and ego's husband) / xadam düü (if younger than ego and ego's husband)
-fHZ,"xadam egč, xadam düü",xatəm egt͡ʃʰ,female ego's husband's sister,,,GuntsetsegPC,xadam egč (if older than ego and ego's husband) / xadam düü (if younger than ego and ego's husband)
-mBW,bergen (if older brother's wife) / ber (if younger brother's wife),bergəŋ / ber,male ego's brother's wife,,,GuntsetsegPC,
-fBW,"Bergen, ber",bergəŋ / ber,female ego's brother's wife,,,GuntsetsegPC,bergen (if older brother's wife) / ber (if younger brother's wife)
-mZH,"xürgen ax, xürgen düü",xurgəŋ ax / xurgəŋ tu,male ego's sister's husband,,,GuntsetsegPC,xürgen ax (if older sister's husband) / xürgen düü (if younger sister's wife)
-fZH,"xürgen ax, xürgen düü",xurgəŋ ax / xurgəŋ tu,female ego's sister's husband,,,GuntsetsegPC,xürgen ax (if older sister's husband) / xürgen düü (if younger sister's wife)
-mFBeS,üjeel ax,ujeːɮ ax,male ego‘s father‘s brother‘s older son,,,GuntsetsegPC,
-mFByS,üjeel düü,ujeːɮ tu,male ego‘s father‘s brother‘s younger son,,,GuntsetsegPC,
-mFBeD,üjeel egč,ujeːɮ egt͡ʃʰ,male ego‘s father‘s brother‘s older daughter,,,GuntsetsegPC,
-mFByD,üjeel düü,ujeːɮ tu,male ego‘s father‘s brother‘s younger daughter,,,GuntsetsegPC,
-mFZeS,üjeel ax,ujeːɮ ax,male ego‘s father‘s sisters‘s older son,bül ax,,GuntsetsegPC,
-mFZyS,üjeel düü,ujeːɮ tu,male ego‘s father‘s sisters‘s younger son,bül düü,,GuntsetsegPC,
-mFZeD,üjeel egč,ujeːɮ egt͡ʃʰ,male ego‘s father‘s sisters‘s older daughter,bül egč,,GuntsetsegPC,
-mFZyD,üjeel düü,ujeːɮ tu,male ego‘s father‘s sisters‘s younger daughter,bül düü,,GuntsetsegPC,
-mMBeS,üjeel ax,ujeːɮ ax,male ego‘s mother‘s brother‘s older son,,,GuntsetsegPC,
-mMByS,üjeel düü,ujeːɮ tu,male ego‘s mother‘s brother‘s younger son,,,GuntsetsegPC,
-mMBeD,üjeel egč,ujeːɮ egt͡ʃʰ,male ego‘s mother‘s brother‘s older daughter,,,GuntsetsegPC,
-mMByD,üjeel düü,ujeːɮ tu,male ego‘s mother‘s brother‘s younger daughter,,,GuntsetsegPC,
-mMZeS,üjeel ax,ujeːɮ ax,male ego‘s mother‘s sisters‘s older son,bül ax,,GuntsetsegPC,
-mMZyS,üjeel düü,ujeːɮ tu,male ego‘s mother‘s sisters‘s younger son,bül düü,,GuntsetsegPC,
-mMZeD,üjeel egč,ujeːɮ egt͡ʃʰ,male ego‘s mother‘s sisters‘s older daughter,bül egč,,GuntsetsegPC,
-mMZyD,üjeel düü,ujeːɮ tu,male ego‘s mother‘s sisters‘s younger daughter,bül düü,,GuntsetsegPC,
-fFBeS,üjeel ax,ujeːɮ ax,female ego‘s father‘s brother‘s older son,,,GuntsetsegPC,
-fFByS,üjeel düü,ujeːɮ tu,female ego‘s father‘s brother‘s younger son,,,GuntsetsegPC,
-fFBeD,üjeel egč,ujeːɮ egt͡ʃʰ,female ego‘s father‘s brother‘s older daughter,,,GuntsetsegPC,
-fFByD,üjeel düü,ujeːɮ tu,female ego‘s father‘s brother‘s younger daughter,,,GuntsetsegPC,
-fFZeS,üjeel ax,ujeːɮ ax,female ego‘s father‘s sisters‘s older son,bül ax,,GuntsetsegPC,
-fFZyS,üjeel düü,ujeːɮ tu,female ego‘s father‘s sisters‘s younger son,bül düü,,GuntsetsegPC,
-fFZeD,üjeel egč,ujeːɮ egt͡ʃʰ,female ego‘s father‘s sisters‘s older daughter,bül egč,,GuntsetsegPC,
-fFZyD,üjeel düü,ujeːɮ tu,female ego‘s father‘s sisters‘s younger daughter,bül düü,,GuntsetsegPC,
-fMBeS,üjeel ax,ujeːɮ ax,female ego‘s mother‘s brother‘s older son,,,GuntsetsegPC,
-fMByS,üjeel düü,ujeːɮ tu,female ego‘s mother‘s brother‘s younger son,,,GuntsetsegPC,
-fMBeD,üjeel egč,ujeːɮ egt͡ʃʰ,female ego‘s mother‘s brother‘s older daughter,,,GuntsetsegPC,
-fMByD,üjeel düü,ujeːɮ tu,female ego‘s mother‘s brother‘s younger daughter,,,GuntsetsegPC,
-fMZeS,üjeel ax,ujeːɮ ax,female ego‘s mother‘s sisters‘s older son,bül ax,,GuntsetsegPC,
-fMZyS,üjeel düü,ujeːɮ tu,female ego‘s mother‘s sisters‘s younger son,bül düü,,GuntsetsegPC,
-fMZeD,üjeel egč,ujeːɮ egt͡ʃʰ,female ego‘s mother‘s sisters‘s older daughter,bül egč,,GuntsetsegPC,
-fMZyD,üjeel düü,ujeːɮ tu,female ego‘s mother‘s sisters‘s younger daughter,bül düü,,GuntsetsegPC,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ax","ax","male ego's older brother","agaa",,"GuntsetsegPC",""
+"myB","düü","tu","male ego's younger brother","",,"GuntsetsegPC",""
+"feB","ax","ax","female ego's older brother","agaa",,"GuntsetsegPC",""
+"fyB","düü","tu","female ego's younger brother","",,"GuntsetsegPC",""
+"meZ","egč","egt͡ʃʰ","male ego's older sister","egee",,"GuntsetsegPC",""
+"myZ","düü","tu","male ego's younger sister","",,"GuntsetsegPC",""
+"feZ","egč","egt͡ʃʰ","female ego's older sister","egee",,"GuntsetsegPC",""
+"fyZ","düü","tu","female ego's younger sister","",,"GuntsetsegPC",""
+"mF","aav","aːw̜","male ego's father","",,"GuntsetsegPC",""
+"mM","eež","eːt͡ʃ","male ego's mother","",,"GuntsetsegPC",""
+"fF","aav","aːw̜","female ego's father","",,"GuntsetsegPC",""
+"fM","eež","eːt͡ʃ","female ego's mother","",,"GuntsetsegPC",""
+"mS","xüü","xu","male ego's son","",,"GuntsetsegPC",""
+"fS","xüü","xu","female ego's son","",,"GuntsetsegPC",""
+"mD","oxin","ɔxəŋ","male ego's daughter","",,"GuntsetsegPC",""
+"fD","oxin","ɔxəŋ","female ego's daughter","",,"GuntsetsegPC",""
+"mSS","ač","at͡ʃʰ","male ego's son's son","",,"GuntsetsegPC",""
+"mSD","ač","at͡ʃʰ","male ego's son's daughter","",,"GuntsetsegPC",""
+"mDS","zee","ze","male ego's daughter's son","",,"GuntsetsegPC",""
+"mDD","zee","ze","male ego's daughter's daughter","",,"GuntsetsegPC",""
+"fSS","ač","at͡ʃʰ","female ego's son's son","",,"GuntsetsegPC",""
+"fSD","ač","at͡ʃʰ","female ego's son's daughter","",,"GuntsetsegPC",""
+"fDS","zee","ze","female ego's daughter's son","",,"GuntsetsegPC",""
+"fDD","zee","ze","female ego's daugher's daughter","",,"GuntsetsegPC",""
+"mFF","övöö (övög aav)","owo","male ego's father‘s father","buural aav",,"GuntsetsegPC",""
+"mFM","emee (övög eež)","eme","male ego's father's mother","buural eež",,"GuntsetsegPC",""
+"mMF","övöö (nagac aav)","owo","male ego's mother's father","buural aav",,"GuntsetsegPC",""
+"mMM","emee (nagac eež)","eme","male ego's mother's mother","buural eež",,"GuntsetsegPC",""
+"fFF","övöö (övög aav)","owo","female ego's father's father","buural aav",,"GuntsetsegPC",""
+"fFM","emee (övög eež)","eme","female ego's father's mother","buural eež",,"GuntsetsegPC",""
+"fMF","övöö (nagac aav)","owo","female ego's mother's father","buural aav",,"GuntsetsegPC",""
+"fMM","emee (nagac eež)","eme","female ego's mother's mother","buural eež",,"GuntsetsegPC",""
+"meBS","ač düü","at͡ʃʰ tu","male ego's older brother's son","",,"GuntsetsegPC",""
+"myBS","ač düü","at͡ʃʰ tu","male ego's younger brother's son","",,"GuntsetsegPC",""
+"meZS","zee düü","ze tu","male ego's older sister's son","",,"GuntsetsegPC",""
+"myZS","zee düü","ze tu","male ego's younger sister's son","",,"GuntsetsegPC",""
+"meBD","ač düü","at͡ʃʰ tu","male ego's older brother's daughter","",,"GuntsetsegPC",""
+"myBD","ač düü","at͡ʃʰ tu","male ego's younger brother's daughter","",,"GuntsetsegPC",""
+"meZD","zee düü","ze tu","male ego's older sister's daughter","",,"GuntsetsegPC",""
+"myZD","zee düü","ze tu","male ego's younger sister's daughter","",,"GuntsetsegPC",""
+"feBS","ač düü","at͡ʃʰ tu","female ego's older brother's son","",,"GuntsetsegPC",""
+"fyBS","ač düü","at͡ʃʰ tu","female ego's younger brother's son","",,"GuntsetsegPC",""
+"feZS","zee düü","ze tu","female ego's older sister's son","",,"GuntsetsegPC",""
+"fyZS","zee düü","ze tu","female ego's younger sister's son","",,"GuntsetsegPC",""
+"feBD","ač düü","at͡ʃʰ tu","female ego's older brother's daughter","",,"GuntsetsegPC",""
+"fyBD","ač düü","at͡ʃʰ tu","female ego's younger brother's daughter","",,"GuntsetsegPC",""
+"feZD","zee düü","ze tu","female ego's older sister's daughter","",,"GuntsetsegPC",""
+"fyZD","zee düü","ze tu","female ego's younger sister's daughter","",,"GuntsetsegPC",""
+"mFeB","avga ax","awɢ ax","male ego's father's older brother","",,"GuntsetsegPC",""
+"mFyB","avga ax","awɢ ax","male ego's father's younger brother","",,"GuntsetsegPC",""
+"mFeZ","avga egč","awɢ egt͡ʃʰ","male ego's father's older sister","",,"GuntsetsegPC",""
+"mFyZ","avga egč","awɢ egt͡ʃʰ","male ego's father's younger sister","",,"GuntsetsegPC",""
+"mMeB","nagac ax","nagəc ax","male ego's mother's older brother","",,"GuntsetsegPC",""
+"mMyB","nagac ax","nagəc ax","male ego's mother's younger brother","",,"GuntsetsegPC",""
+"mMeZ","nagac egč","nagəc egt͡ʃʰ","male ego's mother's older sister","",,"GuntsetsegPC",""
+"mMyZ","nagac egč","nagəc egt͡ʃʰ","male ego's mother's younger sister","",,"GuntsetsegPC",""
+"fFeB","avga ax","awɢ ax","female ego's father's older brother","",,"GuntsetsegPC",""
+"fFyB","avga ax","awɢ ax","female ego's father's younger brother","",,"GuntsetsegPC",""
+"fFeZ","avga egč","awɢ egt͡ʃʰ","female ego's father's older sister","",,"GuntsetsegPC",""
+"fFyZ","avga egč","awɢ egt͡ʃʰ","female ego's father's younger sister","",,"GuntsetsegPC",""
+"fMeB","nagac ax","nagəc ax","female ego's mother's older brother","",,"GuntsetsegPC",""
+"fMyB","nagac ax","nagəc ax","female ego's mother's younger brother","",,"GuntsetsegPC",""
+"fMeZ","nagac egč","nagəc egt͡ʃʰ","female ego's mother's older sister","",,"GuntsetsegPC",""
+"fMyZ","nagac egč","nagəc egt͡ʃʰ","female ego's mother's younger sister","",,"GuntsetsegPC",""
+"mW","exner","exnər","male ego's wife","",,"GuntsetsegPC",""
+"fH","nöxör","noxər","female ego‘s husband","",,"GuntsetsegPC",""
+"mDH","xürgen (xüü)","xurgəŋ (xu)","male ego's daughter's husband","",,"GuntsetsegPC",""
+"fDH","xürgen( xüü)","xurgəŋ (xu)","female ego's daughter's husband","",,"GuntsetsegPC",""
+"mSW","ber (oxin)","ber (ɔxəŋ)","male ego's son's wife","",,"GuntsetsegPC",""
+"fSW","ber (oxin)","ber (ɔxəŋ)","female ego's son's wife","",,"GuntsetsegPC",""
+"mWF","xadam aav","xatəm aːw̜","male ego's wife's father","",,"GuntsetsegPC",""
+"mWM","xadam eež","xatəm eːt͡ʃ","male ego's wife's mother","",,"GuntsetsegPC",""
+"mWB","xadam ax, xadam düü","xatəm ax","male ego's wife's brother","",,"GuntsetsegPC","xadam ax (if older than ego and ego's wife) / xadam düü (if younger than ego and ego's wife)"
+"mWZ","xadam egč, xadam düü","xatəm egt͡ʃʰ","male ego's wife's sister","",,"GuntsetsegPC","xadam egč (if older than ego and ego's wife) / xadam düü (if younger than ego and ego's wife)"
+"fHF","xadam aav","xatəm aːw̜","female ego's husband's father","",,"GuntsetsegPC",""
+"fHM","xadam eež","xatəm eːt͡ʃ","female ego's husband's mother","",,"GuntsetsegPC",""
+"fHB","xadam ax, xadam düü","xatəm ax","female ego's husband's brother","",,"GuntsetsegPC","xadam ax (if older than ego and ego's husband) / xadam düü (if younger than ego and ego's husband)"
+"fHZ","xadam egč, xadam düü","xatəm egt͡ʃʰ","female ego's husband's sister","",,"GuntsetsegPC","xadam egč (if older than ego and ego's husband) / xadam düü (if younger than ego and ego's husband)"
+"mBW","bergen (if older brother's wife) / ber (if younger brother's wife)","bergəŋ / ber","male ego's brother's wife","",,"GuntsetsegPC",""
+"fBW","Bergen, ber","bergəŋ / ber","female ego's brother's wife","",,"GuntsetsegPC","bergen (if older brother's wife) / ber (if younger brother's wife)"
+"mZH","xürgen ax, xürgen düü","xurgəŋ ax / xurgəŋ tu","male ego's sister's husband","",,"GuntsetsegPC","xürgen ax (if older sister's husband) / xürgen düü (if younger sister's wife)"
+"fZH","xürgen ax, xürgen düü","xurgəŋ ax / xurgəŋ tu","female ego's sister's husband","",,"GuntsetsegPC","xürgen ax (if older sister's husband) / xürgen düü (if younger sister's wife)"
+"mFBeS","üjeel ax","ujeːɮ ax","male ego‘s father‘s brother‘s older son","",,"GuntsetsegPC",""
+"mFByS","üjeel düü","ujeːɮ tu","male ego‘s father‘s brother‘s younger son","",,"GuntsetsegPC",""
+"mFBeD","üjeel egč","ujeːɮ egt͡ʃʰ","male ego‘s father‘s brother‘s older daughter","",,"GuntsetsegPC",""
+"mFByD","üjeel düü","ujeːɮ tu","male ego‘s father‘s brother‘s younger daughter","",,"GuntsetsegPC",""
+"mFZeS","üjeel ax","ujeːɮ ax","male ego‘s father‘s sisters‘s older son","bül ax",,"GuntsetsegPC",""
+"mFZyS","üjeel düü","ujeːɮ tu","male ego‘s father‘s sisters‘s younger son","bül düü",,"GuntsetsegPC",""
+"mFZeD","üjeel egč","ujeːɮ egt͡ʃʰ","male ego‘s father‘s sisters‘s older daughter","bül egč",,"GuntsetsegPC",""
+"mFZyD","üjeel düü","ujeːɮ tu","male ego‘s father‘s sisters‘s younger daughter","bül düü",,"GuntsetsegPC",""
+"mMBeS","üjeel ax","ujeːɮ ax","male ego‘s mother‘s brother‘s older son","",,"GuntsetsegPC",""
+"mMByS","üjeel düü","ujeːɮ tu","male ego‘s mother‘s brother‘s younger son","",,"GuntsetsegPC",""
+"mMBeD","üjeel egč","ujeːɮ egt͡ʃʰ","male ego‘s mother‘s brother‘s older daughter","",,"GuntsetsegPC",""
+"mMByD","üjeel düü","ujeːɮ tu","male ego‘s mother‘s brother‘s younger daughter","",,"GuntsetsegPC",""
+"mMZeS","üjeel ax","ujeːɮ ax","male ego‘s mother‘s sisters‘s older son","bül ax",,"GuntsetsegPC",""
+"mMZyS","üjeel düü","ujeːɮ tu","male ego‘s mother‘s sisters‘s younger son","bül düü",,"GuntsetsegPC",""
+"mMZeD","üjeel egč","ujeːɮ egt͡ʃʰ","male ego‘s mother‘s sisters‘s older daughter","bül egč",,"GuntsetsegPC",""
+"mMZyD","üjeel düü","ujeːɮ tu","male ego‘s mother‘s sisters‘s younger daughter","bül düü",,"GuntsetsegPC",""
+"fFBeS","üjeel ax","ujeːɮ ax","female ego‘s father‘s brother‘s older son","",,"GuntsetsegPC",""
+"fFByS","üjeel düü","ujeːɮ tu","female ego‘s father‘s brother‘s younger son","",,"GuntsetsegPC",""
+"fFBeD","üjeel egč","ujeːɮ egt͡ʃʰ","female ego‘s father‘s brother‘s older daughter","",,"GuntsetsegPC",""
+"fFByD","üjeel düü","ujeːɮ tu","female ego‘s father‘s brother‘s younger daughter","",,"GuntsetsegPC",""
+"fFZeS","üjeel ax","ujeːɮ ax","female ego‘s father‘s sisters‘s older son","bül ax",,"GuntsetsegPC",""
+"fFZyS","üjeel düü","ujeːɮ tu","female ego‘s father‘s sisters‘s younger son","bül düü",,"GuntsetsegPC",""
+"fFZeD","üjeel egč","ujeːɮ egt͡ʃʰ","female ego‘s father‘s sisters‘s older daughter","bül egč",,"GuntsetsegPC",""
+"fFZyD","üjeel düü","ujeːɮ tu","female ego‘s father‘s sisters‘s younger daughter","bül düü",,"GuntsetsegPC",""
+"fMBeS","üjeel ax","ujeːɮ ax","female ego‘s mother‘s brother‘s older son","",,"GuntsetsegPC",""
+"fMByS","üjeel düü","ujeːɮ tu","female ego‘s mother‘s brother‘s younger son","",,"GuntsetsegPC",""
+"fMBeD","üjeel egč","ujeːɮ egt͡ʃʰ","female ego‘s mother‘s brother‘s older daughter","",,"GuntsetsegPC",""
+"fMByD","üjeel düü","ujeːɮ tu","female ego‘s mother‘s brother‘s younger daughter","",,"GuntsetsegPC",""
+"fMZeS","üjeel ax","ujeːɮ ax","female ego‘s mother‘s sisters‘s older son","bül ax",,"GuntsetsegPC",""
+"fMZyS","üjeel düü","ujeːɮ tu","female ego‘s mother‘s sisters‘s younger son","bül düü",,"GuntsetsegPC",""
+"fMZeD","üjeel egč","ujeːɮ egt͡ʃʰ","female ego‘s mother‘s sisters‘s older daughter","bül egč",,"GuntsetsegPC",""
+"fMZyD","üjeel düü","ujeːɮ tu","female ego‘s mother‘s sisters‘s younger daughter","bül düü",,"GuntsetsegPC",""

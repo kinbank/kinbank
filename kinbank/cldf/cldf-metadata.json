@@ -4,6 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "kinbank/varikin",
     "prov:wasDerivedFrom": [
         {

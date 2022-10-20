@@ -1,141 +1,141 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kapatid,,male ego's older brother,,,Scebold2003,
-myB,kapatid,,male ego's younger brother,,,Scebold2003,
-feB,kapatid,,female ego's older brother,,,Scebold2003,
-fyB,kapatid,,female ego's younger brother,,,Scebold2003,
-mF,ama,,male ego's father,,,Scebold2003,
-mM,ina,,male ego's mother,,,Scebold2003,
-fF,ama,,female ego's father,,,Scebold2003,
-fM,ina,,female ego's mother,,,Scebold2003,
-mS,anak,,male ego's son,,,Scebold2003,
-fS,anak,,female ego's son,,,Scebold2003,
-mD,anak,,male ego's daughter,,,Scebold2003,
-fD,anak,,female ego's daughter,,,Scebold2003,
-mFF,apo,,male ego's father‘s father,,,Scebold2003,
-mFM,bai,,male ego's father's mother,,,Scebold2003,
-mMF,apo,,male ego's mother's father,,,Scebold2003,
-mMM,bai,,male ego's mother's mother,,,Scebold2003,
-fFF,apo,,female ego's father's father,,,Scebold2003,
-fFM,bai,,female ego's father's mother,,,Scebold2003,
-fMF,apo,,female ego's mother's father,,,Scebold2003,
-fMM,bai,,female ego's mother's mother,,,Scebold2003,
-meBS,kamanakin,,male ego's older brother's son,,,Scebold2003,
-myBS,kamanakin,,male ego's younger brother's son,,,Scebold2003,
-meZS,kamanakin,,male ego's older sister's son,,,Scebold2003,
-myZS,kamanakin,,male ego's younger sister's son,,,Scebold2003,
-feBS,kamanakin,,female ego's older brother's son,,,Scebold2003,
-fyBS,kamanakin,,female ego's younger brother's son,,,Scebold2003,
-feZS,kamanakin,,female ego's older sister's son,,,Scebold2003,
-fyZS,kamanakin,,female ego's younger sister's son,,,Scebold2003,
-mFeB,amiy,,male ego's father's older brother,,,Scebold2003,
-mFyB,amiy,,male ego's father's younger brother,,,Scebold2003,
-mFeZ,iniy,,male ego's father's older sister,,,Scebold2003,
-mFyZ,iniy,,male ego's father's younger sister,,,Scebold2003,
-mMeB,amiy,,male ego's mother's older brother,,,Scebold2003,
-mMyB,amiy,,male ego's mother's younger brother,,,Scebold2003,
-mMeZ,iniy,,male ego's mother's older sister,,,Scebold2003,
-mMyZ,iniy,,male ego's mother's younger sister,,,Scebold2003,
-fFeB,amiy,,female ego's father's older brother,,,Scebold2003,
-fFyB,amiy,,female ego's father's younger brother,,,Scebold2003,
-fFeZ,iniy,,female ego's father's older sister,,,Scebold2003,
-fFyZ,iniy,,female ego's father's younger sister,,,Scebold2003,
-fMeB,amiy,,female ego's mother's older brother,,,Scebold2003,
-fMyB,amiy,,female ego's mother's younger brother,,,Scebold2003,
-fMeZ,iniy,,female ego's mother's older sister,,,Scebold2003,
-fMyZ,iniy,,female ego's mother's younger sister,,,Scebold2003,
-mDH,minihad,,male ego's daughter's husband,,,Scebold2003,
-fDH,minihad,,female ego's daughter's husband,,,Scebold2003,
-mSW,minihad,,male ego's son's wife,,,Scebold2003,
-fSW,minihad,,female ego's son's wife,,,Scebold2003,
-mWF,punyangan,,male ego's wife's father,,,Scebold2003,
-mWM,punyangan,,male ego's wife's mother,,,Scebold2003,
-mWB,bayaw,,male ego's wife's brother,,,Scebold2003,
-mWZ,ipag,,male ego's wife's sister,,,Scebold2003,
-fHF,punyangan,,female ego's husband's father,,,Scebold2003,
-fHM,punyangan,,female ego's husband's mother,,,Scebold2003,
-fHB,bayaw,,female ego's husband's brother,,,Scebold2003,
-fHZ,ipag,,female ego's husband's sister,,,Scebold2003,
-mBW,ipag,,male ego's brother's wife,,,Scebold2003,
-fBW,ipag,,female ego's brother's wife,,,Scebold2003,
-mZH,bayaw,,male ego's sister's husband,,,Scebold2003,
-fZH,bayaw,,female ego's sister's husband,,,Scebold2003,
-mFBS,"ilog, tungal",,male ego's father's brother's son,,,Scebold2003,
-mFZS,"ilog, tungal",,male ego's father's sister's son,,,Scebold2003,
-mMBS,"ilog, tungal",,male ego's mother's brother's son,,,Scebold2003,
-mMZS,"ilog, tungal",,male ego's mother's sister's son,,,Scebold2003,
-mFBD,"ilog, tungal",,male ego's father's brother's daughter,,,Scebold2003,
-mFZD,"ilog, tungal",,male ego's father's sister's daughter,,,Scebold2003,
-mMBD,"ilog, tungal",,male ego's mother's brother's daughter,,,Scebold2003,
-mMZD,"ilog, tungal",,male ego's mother's sister's daughter,,,Scebold2003,
-fFBS,"ilog, tungal",,female ego's father's brother's son,,,Scebold2003,
-fFZS,"ilog, tungal",,female ego's father's sister's son,,,Scebold2003,
-fMBS,"ilog, tungal",,female ego's mother's brother's son,,,Scebold2003,
-fMZS,"ilog, tungal",,female ego's mother's sister's son,,,Scebold2003,
-fFBD,"ilog, tungal",,female ego's father's brother's daughter,,,Scebold2003,
-fFZD,"ilog, tungal",,female ego's father's sister's daughter,,,Scebold2003,
-fMBD,"ilog, tungal",,female ego's mother's brother's daughter,,,Scebold2003,
-fMZD,"ilog, tungal",,female ego's mother's sister's daughter,,,Scebold2003,
-mFeBS,"ilog, tungal",,male ego's father's brother's son,,,Scebold2003,Inferred; NA
-mFyBS,"ilog, tungal",,male ego's father's brother's son,,,Scebold2003,Inferred; NA
-mFeZS,"ilog, tungal",,male ego's father's sister's son,,,Scebold2003,Inferred; NA
-mFyZS,"ilog, tungal",,male ego's father's sister's son,,,Scebold2003,Inferred; NA
-mFeBD,"ilog, tungal",,male ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-mFyBD,"ilog, tungal",,male ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-mFeZD,"ilog, tungal",,male ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-mFyZD,"ilog, tungal",,male ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-mMeBS,"ilog, tungal",,male ego's mother's brother's son,,,Scebold2003,Inferred; NA
-mMyBS,"ilog, tungal",,male ego's mother's brother's son,,,Scebold2003,Inferred; NA
-mMeZS,"ilog, tungal",,male ego's mother's sister's son,,,Scebold2003,Inferred; NA
-mMyZS,"ilog, tungal",,male ego's mother's sister's son,,,Scebold2003,Inferred; NA
-mMeBD,"ilog, tungal",,male ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-mMyBD,"ilog, tungal",,male ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-mMeZD,"ilog, tungal",,male ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-mMyZD,"ilog, tungal",,male ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-mFBeS,"ilog, tungal",,male ego's father's brother's son,,,Scebold2003,Inferred; NA
-mFByS,"ilog, tungal",,male ego's father's brother's son,,,Scebold2003,Inferred; NA
-mFZeS,"ilog, tungal",,male ego's father's sister's son,,,Scebold2003,Inferred; NA
-mFZyS,"ilog, tungal",,male ego's father's sister's son,,,Scebold2003,Inferred; NA
-mFBeD,"ilog, tungal",,male ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-mFByD,"ilog, tungal",,male ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-mFZeD,"ilog, tungal",,male ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-mFZyD,"ilog, tungal",,male ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-mMBeS,"ilog, tungal",,male ego's mother's brother's son,,,Scebold2003,Inferred; NA
-mMByS,"ilog, tungal",,male ego's mother's brother's son,,,Scebold2003,Inferred; NA
-mMZeS,"ilog, tungal",,male ego's mother's sister's son,,,Scebold2003,Inferred; NA
-mMZyS,"ilog, tungal",,male ego's mother's sister's son,,,Scebold2003,Inferred; NA
-mMBeD,"ilog, tungal",,male ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-mMByD,"ilog, tungal",,male ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-mMZeD,"ilog, tungal",,male ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-mMZyD,"ilog, tungal",,male ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-fFeBS,"ilog, tungal",,female ego's father's brother's son,,,Scebold2003,Inferred; NA
-fFyBS,"ilog, tungal",,female ego's father's brother's son,,,Scebold2003,Inferred; NA
-fFeZS,"ilog, tungal",,female ego's father's sister's son,,,Scebold2003,Inferred; NA
-fFyZS,"ilog, tungal",,female ego's father's sister's son,,,Scebold2003,Inferred; NA
-fFeBD,"ilog, tungal",,female ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-fFyBD,"ilog, tungal",,female ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-fFeZD,"ilog, tungal",,female ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-fFyZD,"ilog, tungal",,female ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-fMeBS,"ilog, tungal",,female ego's mother's brother's son,,,Scebold2003,Inferred; NA
-fMyBS,"ilog, tungal",,female ego's mother's brother's son,,,Scebold2003,Inferred; NA
-fMeZS,"ilog, tungal",,female ego's mother's sister's son,,,Scebold2003,Inferred; NA
-fMyZS,"ilog, tungal",,female ego's mother's sister's son,,,Scebold2003,Inferred; NA
-fMeBD,"ilog, tungal",,female ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-fMyBD,"ilog, tungal",,female ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-fMeZD,"ilog, tungal",,female ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-fMyZD,"ilog, tungal",,female ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-fFBeS,"ilog, tungal",,female ego's father's brother's son,,,Scebold2003,Inferred; NA
-fFByS,"ilog, tungal",,female ego's father's brother's son,,,Scebold2003,Inferred; NA
-fFZeS,"ilog, tungal",,female ego's father's sister's son,,,Scebold2003,Inferred; NA
-fFZyS,"ilog, tungal",,female ego's father's sister's son,,,Scebold2003,Inferred; NA
-fFBeD,"ilog, tungal",,female ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-fFByD,"ilog, tungal",,female ego's father's brother's daughter,,,Scebold2003,Inferred; NA
-fFZeD,"ilog, tungal",,female ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-fFZyD,"ilog, tungal",,female ego's father's sister's daughter,,,Scebold2003,Inferred; NA
-fMBeS,"ilog, tungal",,female ego's mother's brother's son,,,Scebold2003,Inferred; NA
-fMByS,"ilog, tungal",,female ego's mother's brother's son,,,Scebold2003,Inferred; NA
-fMZeS,"ilog, tungal",,female ego's mother's sister's son,,,Scebold2003,Inferred; NA
-fMZyS,"ilog, tungal",,female ego's mother's sister's son,,,Scebold2003,Inferred; NA
-fMBeD,"ilog, tungal",,female ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-fMByD,"ilog, tungal",,female ego's mother's brother's daughter,,,Scebold2003,Inferred; NA
-fMZeD,"ilog, tungal",,female ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
-fMZyD,"ilog, tungal",,female ego's mother's sister's daughter,,,Scebold2003,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kapatid",,"male ego's older brother",,,"Scebold2003",""
+"myB","kapatid",,"male ego's younger brother",,,"Scebold2003",""
+"feB","kapatid",,"female ego's older brother",,,"Scebold2003",""
+"fyB","kapatid",,"female ego's younger brother",,,"Scebold2003",""
+"mF","ama",,"male ego's father",,,"Scebold2003",""
+"mM","ina",,"male ego's mother",,,"Scebold2003",""
+"fF","ama",,"female ego's father",,,"Scebold2003",""
+"fM","ina",,"female ego's mother",,,"Scebold2003",""
+"mS","anak",,"male ego's son",,,"Scebold2003",""
+"fS","anak",,"female ego's son",,,"Scebold2003",""
+"mD","anak",,"male ego's daughter",,,"Scebold2003",""
+"fD","anak",,"female ego's daughter",,,"Scebold2003",""
+"mFF","apo",,"male ego's father‘s father",,,"Scebold2003",""
+"mFM","bai",,"male ego's father's mother",,,"Scebold2003",""
+"mMF","apo",,"male ego's mother's father",,,"Scebold2003",""
+"mMM","bai",,"male ego's mother's mother",,,"Scebold2003",""
+"fFF","apo",,"female ego's father's father",,,"Scebold2003",""
+"fFM","bai",,"female ego's father's mother",,,"Scebold2003",""
+"fMF","apo",,"female ego's mother's father",,,"Scebold2003",""
+"fMM","bai",,"female ego's mother's mother",,,"Scebold2003",""
+"meBS","kamanakin",,"male ego's older brother's son",,,"Scebold2003",""
+"myBS","kamanakin",,"male ego's younger brother's son",,,"Scebold2003",""
+"meZS","kamanakin",,"male ego's older sister's son",,,"Scebold2003",""
+"myZS","kamanakin",,"male ego's younger sister's son",,,"Scebold2003",""
+"feBS","kamanakin",,"female ego's older brother's son",,,"Scebold2003",""
+"fyBS","kamanakin",,"female ego's younger brother's son",,,"Scebold2003",""
+"feZS","kamanakin",,"female ego's older sister's son",,,"Scebold2003",""
+"fyZS","kamanakin",,"female ego's younger sister's son",,,"Scebold2003",""
+"mFeB","amiy",,"male ego's father's older brother",,,"Scebold2003",""
+"mFyB","amiy",,"male ego's father's younger brother",,,"Scebold2003",""
+"mFeZ","iniy",,"male ego's father's older sister",,,"Scebold2003",""
+"mFyZ","iniy",,"male ego's father's younger sister",,,"Scebold2003",""
+"mMeB","amiy",,"male ego's mother's older brother",,,"Scebold2003",""
+"mMyB","amiy",,"male ego's mother's younger brother",,,"Scebold2003",""
+"mMeZ","iniy",,"male ego's mother's older sister",,,"Scebold2003",""
+"mMyZ","iniy",,"male ego's mother's younger sister",,,"Scebold2003",""
+"fFeB","amiy",,"female ego's father's older brother",,,"Scebold2003",""
+"fFyB","amiy",,"female ego's father's younger brother",,,"Scebold2003",""
+"fFeZ","iniy",,"female ego's father's older sister",,,"Scebold2003",""
+"fFyZ","iniy",,"female ego's father's younger sister",,,"Scebold2003",""
+"fMeB","amiy",,"female ego's mother's older brother",,,"Scebold2003",""
+"fMyB","amiy",,"female ego's mother's younger brother",,,"Scebold2003",""
+"fMeZ","iniy",,"female ego's mother's older sister",,,"Scebold2003",""
+"fMyZ","iniy",,"female ego's mother's younger sister",,,"Scebold2003",""
+"mDH","minihad",,"male ego's daughter's husband",,,"Scebold2003",""
+"fDH","minihad",,"female ego's daughter's husband",,,"Scebold2003",""
+"mSW","minihad",,"male ego's son's wife",,,"Scebold2003",""
+"fSW","minihad",,"female ego's son's wife",,,"Scebold2003",""
+"mWF","punyangan",,"male ego's wife's father",,,"Scebold2003",""
+"mWM","punyangan",,"male ego's wife's mother",,,"Scebold2003",""
+"mWB","bayaw",,"male ego's wife's brother",,,"Scebold2003",""
+"mWZ","ipag",,"male ego's wife's sister",,,"Scebold2003",""
+"fHF","punyangan",,"female ego's husband's father",,,"Scebold2003",""
+"fHM","punyangan",,"female ego's husband's mother",,,"Scebold2003",""
+"fHB","bayaw",,"female ego's husband's brother",,,"Scebold2003",""
+"fHZ","ipag",,"female ego's husband's sister",,,"Scebold2003",""
+"mBW","ipag",,"male ego's brother's wife",,,"Scebold2003",""
+"fBW","ipag",,"female ego's brother's wife",,,"Scebold2003",""
+"mZH","bayaw",,"male ego's sister's husband",,,"Scebold2003",""
+"fZH","bayaw",,"female ego's sister's husband",,,"Scebold2003",""
+"mFBS","ilog, tungal",,"male ego's father's brother's son",,,"Scebold2003",""
+"mFZS","ilog, tungal",,"male ego's father's sister's son",,,"Scebold2003",""
+"mMBS","ilog, tungal",,"male ego's mother's brother's son",,,"Scebold2003",""
+"mMZS","ilog, tungal",,"male ego's mother's sister's son",,,"Scebold2003",""
+"mFBD","ilog, tungal",,"male ego's father's brother's daughter",,,"Scebold2003",""
+"mFZD","ilog, tungal",,"male ego's father's sister's daughter",,,"Scebold2003",""
+"mMBD","ilog, tungal",,"male ego's mother's brother's daughter",,,"Scebold2003",""
+"mMZD","ilog, tungal",,"male ego's mother's sister's daughter",,,"Scebold2003",""
+"fFBS","ilog, tungal",,"female ego's father's brother's son",,,"Scebold2003",""
+"fFZS","ilog, tungal",,"female ego's father's sister's son",,,"Scebold2003",""
+"fMBS","ilog, tungal",,"female ego's mother's brother's son",,,"Scebold2003",""
+"fMZS","ilog, tungal",,"female ego's mother's sister's son",,,"Scebold2003",""
+"fFBD","ilog, tungal",,"female ego's father's brother's daughter",,,"Scebold2003",""
+"fFZD","ilog, tungal",,"female ego's father's sister's daughter",,,"Scebold2003",""
+"fMBD","ilog, tungal",,"female ego's mother's brother's daughter",,,"Scebold2003",""
+"fMZD","ilog, tungal",,"female ego's mother's sister's daughter",,,"Scebold2003",""
+"mFeBS","ilog, tungal",,"male ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"mFyBS","ilog, tungal",,"male ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"mFeZS","ilog, tungal",,"male ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"mFyZS","ilog, tungal",,"male ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"mFeBD","ilog, tungal",,"male ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mFyBD","ilog, tungal",,"male ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mFeZD","ilog, tungal",,"male ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mFyZD","ilog, tungal",,"male ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mMeBS","ilog, tungal",,"male ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"mMyBS","ilog, tungal",,"male ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"mMeZS","ilog, tungal",,"male ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"mMyZS","ilog, tungal",,"male ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"mMeBD","ilog, tungal",,"male ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mMyBD","ilog, tungal",,"male ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mMeZD","ilog, tungal",,"male ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mMyZD","ilog, tungal",,"male ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mFBeS","ilog, tungal",,"male ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"mFByS","ilog, tungal",,"male ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"mFZeS","ilog, tungal",,"male ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"mFZyS","ilog, tungal",,"male ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"mFBeD","ilog, tungal",,"male ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mFByD","ilog, tungal",,"male ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mFZeD","ilog, tungal",,"male ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mFZyD","ilog, tungal",,"male ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mMBeS","ilog, tungal",,"male ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"mMByS","ilog, tungal",,"male ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"mMZeS","ilog, tungal",,"male ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"mMZyS","ilog, tungal",,"male ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"mMBeD","ilog, tungal",,"male ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mMByD","ilog, tungal",,"male ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"mMZeD","ilog, tungal",,"male ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"mMZyD","ilog, tungal",,"male ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fFeBS","ilog, tungal",,"female ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"fFyBS","ilog, tungal",,"female ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"fFeZS","ilog, tungal",,"female ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"fFyZS","ilog, tungal",,"female ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"fFeBD","ilog, tungal",,"female ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fFyBD","ilog, tungal",,"female ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fFeZD","ilog, tungal",,"female ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fFyZD","ilog, tungal",,"female ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fMeBS","ilog, tungal",,"female ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"fMyBS","ilog, tungal",,"female ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"fMeZS","ilog, tungal",,"female ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"fMyZS","ilog, tungal",,"female ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"fMeBD","ilog, tungal",,"female ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fMyBD","ilog, tungal",,"female ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fMeZD","ilog, tungal",,"female ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fMyZD","ilog, tungal",,"female ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fFBeS","ilog, tungal",,"female ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"fFByS","ilog, tungal",,"female ego's father's brother's son",,,"Scebold2003","Inferred; NA"
+"fFZeS","ilog, tungal",,"female ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"fFZyS","ilog, tungal",,"female ego's father's sister's son",,,"Scebold2003","Inferred; NA"
+"fFBeD","ilog, tungal",,"female ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fFByD","ilog, tungal",,"female ego's father's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fFZeD","ilog, tungal",,"female ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fFZyD","ilog, tungal",,"female ego's father's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fMBeS","ilog, tungal",,"female ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"fMByS","ilog, tungal",,"female ego's mother's brother's son",,,"Scebold2003","Inferred; NA"
+"fMZeS","ilog, tungal",,"female ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"fMZyS","ilog, tungal",,"female ego's mother's sister's son",,,"Scebold2003","Inferred; NA"
+"fMBeD","ilog, tungal",,"female ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fMByD","ilog, tungal",,"female ego's mother's brother's daughter",,,"Scebold2003","Inferred; NA"
+"fMZeD","ilog, tungal",,"female ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"
+"fMZyD","ilog, tungal",,"female ego's mother's sister's daughter",,,"Scebold2003","Inferred; NA"

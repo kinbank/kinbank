@@ -1,153 +1,153 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,sia'ang,,male ego's older brother,,,Himmelmann2001,
-myB,tuai,,male ego's younger brother,,,Himmelmann2001,
-feB,sia'ang,,female ego's older brother,,,Himmelmann2001,
-fyB,tuai,,female ego's younger brother,,,Himmelmann2001,
-meZ,sia'ang,,male ego's older sister,,,Himmelmann2001,
-myZ,tuai,,male ego's younger sister,,,Himmelmann2001,
-feZ,sia'ang,,female ego's older sister,,,Himmelmann2001,
-fyZ,tuai,,female ego's younger sister,,,Himmelmann2001,
-mF,siama,,male ego's father,,,Himmelmann2001,
-mM,siina,,male ego's mother,,,Himmelmann2001,
-fF,siama,,female ego's father,,,Himmelmann2001,
-fM,siina,,female ego's mother,,,Himmelmann2001,
-mS,unga,,male ego's son,,,Himmelmann2001,
-fS,unga,,female ego's son,,,Himmelmann2001,
-mD,unga,,male ego's daughter,,,Himmelmann2001,
-fD,unga,,female ego's daughter,,,Himmelmann2001,
-mSS,"mo'opu -nyo, moupu",,male ego's son's son,,,Himmelmann2001,
-mSD,"mo'opu -nyo, moupu",,male ego's son's daughter,,,Himmelmann2001,
-mDS,"mo'opu -nyo, moupu",,male ego's daughter's son,,,Himmelmann2001,
-mDD,"mo'opu -nyo, moupu",,male ego's daughter's daughter,,,Himmelmann2001,
-fSS,"mo'opu -nyo, moupu",,female ego's son's son,,,Himmelmann2001,
-fSD,"mo'opu -nyo, moupu",,female ego's son's daughter,,,Himmelmann2001,
-fDS,"mo'opu -nyo, moupu",,female ego's daughter's son,,,Himmelmann2001,
-fDD,"mo'opu -nyo, moupu",,female ego's daugher's daughter,,,Himmelmann2001,
-mFF,silangkai,,male ego's father‘s father,,,Himmelmann2001,
-mFM,siopu,,male ego's father's mother,,,Himmelmann2001,
-mMF,silangkai,,male ego's mother's father,,,Himmelmann2001,
-mMM,siopu,,male ego's mother's mother,,,Himmelmann2001,
-fFF,silangkai,,female ego's father's father,,,Himmelmann2001,
-fFM,siopu,,female ego's father's mother,,,Himmelmann2001,
-fMF,silangkai,,female ego's mother's father,,,Himmelmann2001,
-fMM,siopu,,female ego's mother's mother,,,Himmelmann2001,
-meBS,ponungao,,male ego's older brother's son,,,Himmelmann2001,
-myBS,ponungao,,male ego's younger brother's son,,,Himmelmann2001,
-meZS,ponungao,,male ego's older sister's son,,,Himmelmann2001,
-myZS,ponungao,,male ego's younger sister's son,,,Himmelmann2001,
-meBD,ponungao,,male ego's older brother's daughter,,,Himmelmann2001,
-myBD,ponungao,,male ego's younger brother's daughter,,,Himmelmann2001,
-meZD,ponungao,,male ego's older sister's daughter,,,Himmelmann2001,
-myZD,ponungao,,male ego's younger sister's daughter,,,Himmelmann2001,
-feBS,ponungao,,female ego's older brother's son,,,Himmelmann2001,
-fyBS,ponungao,,female ego's younger brother's son,,,Himmelmann2001,
-feZS,ponungao,,female ego's older sister's son,,,Himmelmann2001,
-fyZS,ponungao,,female ego's younger sister's son,,,Himmelmann2001,
-feBD,ponungao,,female ego's older brother's daughter,,,Himmelmann2001,
-fyBD,ponungao,,female ego's younger brother's daughter,,,Himmelmann2001,
-feZD,ponungao,,female ego's older sister's daughter,,,Himmelmann2001,
-fyZD,ponungao,,female ego's younger sister's daughter,,,Himmelmann2001,
-mFeB,"somama' -onyo, posiamao -nyo",,male ego's father's older brother,,,Himmelmann2001,
-mFyB,"somama' -onyo, posiamao -nyo",,male ego's father's younger brother,,,Himmelmann2001,
-mFeZ,"sitete, posinao",,male ego's father's older sister,,,Himmelmann2001,
-mFyZ,"sitete, posinao",,male ego's father's younger sister,,,Himmelmann2001,
-mMeB,"somama' -onyo, posiamao -nyo",,male ego's mother's older brother,,,Himmelmann2001,
-mMyB,"somama' -onyo, posiamao -nyo",,male ego's mother's younger brother,,,Himmelmann2001,
-mMeZ,"sitete, posinao",,male ego's mother's older sister,,,Himmelmann2001,
-mMyZ,"sitete, posinao",,male ego's mother's younger sister,,,Himmelmann2001,
-fFeB,"somama' -onyo, posiamao -nyo",,female ego's father's older brother,,,Himmelmann2001,
-fFyB,"somama' -onyo, posiamao -nyo",,female ego's father's younger brother,,,Himmelmann2001,
-fFeZ,"sitete, posinao",,female ego's father's older sister,,,Himmelmann2001,
-fFyZ,"sitete, posinao",,female ego's father's younger sister,,,Himmelmann2001,
-fMeB,"somama' -onyo, posiamao -nyo",,female ego's mother's older brother,,,Himmelmann2001,
-fMyB,"somama' -onyo, posiamao -nyo",,female ego's mother's younger brother,,,Himmelmann2001,
-fMeZ,"sitete, posinao",,female ego's mother's older sister,,,Himmelmann2001,
-fMyZ,"sitete, posinao",,female ego's mother's younger sister,,,Himmelmann2001,
-mWF,memeniang,,male ego's wife's father,,,Himmelmann2001,
-mWM,memeniang,,male ego's wife's mother,,,Himmelmann2001,
-mWB,ipag,,male ego's wife's brother,,,Himmelmann2001,
-fHF,memeniang,,female ego's husband's father,,,Himmelmann2001,
-fHM,memeniang,,female ego's husband's mother,,,Himmelmann2001,
-fHB,ipag,,female ego's husband's brother,,,Himmelmann2001,
-mZH,ipag,,male ego's sister's husband,,,Himmelmann2001,
-fZH,ipag,,female ego's sister's husband,,,Himmelmann2001,
-mFBS,"lulus sangaing, lulus uongkaing",,male ego's father's brother's son,,,Himmelmann2001,
-mFZS,"lulus sangaing, lulus uongkaing",,male ego's father's sister's son,,,Himmelmann2001,
-mMBS,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's son,,,Himmelmann2001,
-mMZS,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's son,,,Himmelmann2001,
-mFBD,"lulus sangaing, lulus uongkaing",,male ego's father's brother's daughter,,,Himmelmann2001,
-mFZD,"lulus sangaing, lulus uongkaing",,male ego's father's sister's daughter,,,Himmelmann2001,
-mMBD,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's daughter,,,Himmelmann2001,
-mMZD,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's daughter,,,Himmelmann2001,
-fFBS,"lulus sangaing, lulus uongkaing",,female ego's father's brother's son,,,Himmelmann2001,
-fFZS,"lulus sangaing, lulus uongkaing",,female ego's father's sister's son,,,Himmelmann2001,
-fMBS,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's son,,,Himmelmann2001,
-fMZS,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's son,,,Himmelmann2001,
-fFBD,"lulus sangaing, lulus uongkaing",,female ego's father's brother's daughter,,,Himmelmann2001,
-fFZD,"lulus sangaing, lulus uongkaing",,female ego's father's sister's daughter,,,Himmelmann2001,
-fMBD,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's daughter,,,Himmelmann2001,
-fMZD,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's daughter,,,Himmelmann2001,
-mFeBS,"lulus sangaing, lulus uongkaing",,male ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-mFyBS,"lulus sangaing, lulus uongkaing",,male ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-mFeZS,"lulus sangaing, lulus uongkaing",,male ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-mFyZS,"lulus sangaing, lulus uongkaing",,male ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-mFeBD,"lulus sangaing, lulus uongkaing",,male ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-mFyBD,"lulus sangaing, lulus uongkaing",,male ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-mFeZD,"lulus sangaing, lulus uongkaing",,male ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-mFyZD,"lulus sangaing, lulus uongkaing",,male ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-mMeBS,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-mMyBS,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-mMeZS,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-mMyZS,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-mMeBD,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-mMyBD,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-mMeZD,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-mMyZD,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-mFBeS,"lulus sangaing, lulus uongkaing",,male ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-mFByS,"lulus sangaing, lulus uongkaing",,male ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-mFZeS,"lulus sangaing, lulus uongkaing",,male ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-mFZyS,"lulus sangaing, lulus uongkaing",,male ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-mFBeD,"lulus sangaing, lulus uongkaing",,male ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-mFByD,"lulus sangaing, lulus uongkaing",,male ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-mFZeD,"lulus sangaing, lulus uongkaing",,male ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-mFZyD,"lulus sangaing, lulus uongkaing",,male ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-mMBeS,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-mMByS,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-mMZeS,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-mMZyS,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-mMBeD,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-mMByD,"lulus sangaing, lulus uongkaing",,male ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-mMZeD,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-mMZyD,"lulus sangaing, lulus uongkaing",,male ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-fFeBS,"lulus sangaing, lulus uongkaing",,female ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-fFyBS,"lulus sangaing, lulus uongkaing",,female ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-fFeZS,"lulus sangaing, lulus uongkaing",,female ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-fFyZS,"lulus sangaing, lulus uongkaing",,female ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-fFeBD,"lulus sangaing, lulus uongkaing",,female ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-fFyBD,"lulus sangaing, lulus uongkaing",,female ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-fFeZD,"lulus sangaing, lulus uongkaing",,female ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-fFyZD,"lulus sangaing, lulus uongkaing",,female ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-fMeBS,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-fMyBS,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-fMeZS,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-fMyZS,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-fMeBD,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-fMyBD,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-fMeZD,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-fMyZD,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-fFBeS,"lulus sangaing, lulus uongkaing",,female ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-fFByS,"lulus sangaing, lulus uongkaing",,female ego's father's brother's son,,,Himmelmann2001,Inferred; NA
-fFZeS,"lulus sangaing, lulus uongkaing",,female ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-fFZyS,"lulus sangaing, lulus uongkaing",,female ego's father's sister's son,,,Himmelmann2001,Inferred; NA
-fFBeD,"lulus sangaing, lulus uongkaing",,female ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-fFByD,"lulus sangaing, lulus uongkaing",,female ego's father's brother's daughter,,,Himmelmann2001,Inferred; NA
-fFZeD,"lulus sangaing, lulus uongkaing",,female ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-fFZyD,"lulus sangaing, lulus uongkaing",,female ego's father's sister's daughter,,,Himmelmann2001,Inferred; NA
-fMBeS,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-fMByS,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's son,,,Himmelmann2001,Inferred; NA
-fMZeS,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-fMZyS,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's son,,,Himmelmann2001,Inferred; NA
-fMBeD,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-fMByD,"lulus sangaing, lulus uongkaing",,female ego's mother's brother's daughter,,,Himmelmann2001,Inferred; NA
-fMZeD,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
-fMZyD,"lulus sangaing, lulus uongkaing",,female ego's mother's sister's daughter,,,Himmelmann2001,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","sia'ang",,"male ego's older brother",,,"Himmelmann2001",""
+"myB","tuai",,"male ego's younger brother",,,"Himmelmann2001",""
+"feB","sia'ang",,"female ego's older brother",,,"Himmelmann2001",""
+"fyB","tuai",,"female ego's younger brother",,,"Himmelmann2001",""
+"meZ","sia'ang",,"male ego's older sister",,,"Himmelmann2001",""
+"myZ","tuai",,"male ego's younger sister",,,"Himmelmann2001",""
+"feZ","sia'ang",,"female ego's older sister",,,"Himmelmann2001",""
+"fyZ","tuai",,"female ego's younger sister",,,"Himmelmann2001",""
+"mF","siama",,"male ego's father",,,"Himmelmann2001",""
+"mM","siina",,"male ego's mother",,,"Himmelmann2001",""
+"fF","siama",,"female ego's father",,,"Himmelmann2001",""
+"fM","siina",,"female ego's mother",,,"Himmelmann2001",""
+"mS","unga",,"male ego's son",,,"Himmelmann2001",""
+"fS","unga",,"female ego's son",,,"Himmelmann2001",""
+"mD","unga",,"male ego's daughter",,,"Himmelmann2001",""
+"fD","unga",,"female ego's daughter",,,"Himmelmann2001",""
+"mSS","mo'opu -nyo, moupu",,"male ego's son's son",,,"Himmelmann2001",""
+"mSD","mo'opu -nyo, moupu",,"male ego's son's daughter",,,"Himmelmann2001",""
+"mDS","mo'opu -nyo, moupu",,"male ego's daughter's son",,,"Himmelmann2001",""
+"mDD","mo'opu -nyo, moupu",,"male ego's daughter's daughter",,,"Himmelmann2001",""
+"fSS","mo'opu -nyo, moupu",,"female ego's son's son",,,"Himmelmann2001",""
+"fSD","mo'opu -nyo, moupu",,"female ego's son's daughter",,,"Himmelmann2001",""
+"fDS","mo'opu -nyo, moupu",,"female ego's daughter's son",,,"Himmelmann2001",""
+"fDD","mo'opu -nyo, moupu",,"female ego's daugher's daughter",,,"Himmelmann2001",""
+"mFF","silangkai",,"male ego's father‘s father",,,"Himmelmann2001",""
+"mFM","siopu",,"male ego's father's mother",,,"Himmelmann2001",""
+"mMF","silangkai",,"male ego's mother's father",,,"Himmelmann2001",""
+"mMM","siopu",,"male ego's mother's mother",,,"Himmelmann2001",""
+"fFF","silangkai",,"female ego's father's father",,,"Himmelmann2001",""
+"fFM","siopu",,"female ego's father's mother",,,"Himmelmann2001",""
+"fMF","silangkai",,"female ego's mother's father",,,"Himmelmann2001",""
+"fMM","siopu",,"female ego's mother's mother",,,"Himmelmann2001",""
+"meBS","ponungao",,"male ego's older brother's son",,,"Himmelmann2001",""
+"myBS","ponungao",,"male ego's younger brother's son",,,"Himmelmann2001",""
+"meZS","ponungao",,"male ego's older sister's son",,,"Himmelmann2001",""
+"myZS","ponungao",,"male ego's younger sister's son",,,"Himmelmann2001",""
+"meBD","ponungao",,"male ego's older brother's daughter",,,"Himmelmann2001",""
+"myBD","ponungao",,"male ego's younger brother's daughter",,,"Himmelmann2001",""
+"meZD","ponungao",,"male ego's older sister's daughter",,,"Himmelmann2001",""
+"myZD","ponungao",,"male ego's younger sister's daughter",,,"Himmelmann2001",""
+"feBS","ponungao",,"female ego's older brother's son",,,"Himmelmann2001",""
+"fyBS","ponungao",,"female ego's younger brother's son",,,"Himmelmann2001",""
+"feZS","ponungao",,"female ego's older sister's son",,,"Himmelmann2001",""
+"fyZS","ponungao",,"female ego's younger sister's son",,,"Himmelmann2001",""
+"feBD","ponungao",,"female ego's older brother's daughter",,,"Himmelmann2001",""
+"fyBD","ponungao",,"female ego's younger brother's daughter",,,"Himmelmann2001",""
+"feZD","ponungao",,"female ego's older sister's daughter",,,"Himmelmann2001",""
+"fyZD","ponungao",,"female ego's younger sister's daughter",,,"Himmelmann2001",""
+"mFeB","somama' -onyo, posiamao -nyo",,"male ego's father's older brother",,,"Himmelmann2001",""
+"mFyB","somama' -onyo, posiamao -nyo",,"male ego's father's younger brother",,,"Himmelmann2001",""
+"mFeZ","sitete, posinao",,"male ego's father's older sister",,,"Himmelmann2001",""
+"mFyZ","sitete, posinao",,"male ego's father's younger sister",,,"Himmelmann2001",""
+"mMeB","somama' -onyo, posiamao -nyo",,"male ego's mother's older brother",,,"Himmelmann2001",""
+"mMyB","somama' -onyo, posiamao -nyo",,"male ego's mother's younger brother",,,"Himmelmann2001",""
+"mMeZ","sitete, posinao",,"male ego's mother's older sister",,,"Himmelmann2001",""
+"mMyZ","sitete, posinao",,"male ego's mother's younger sister",,,"Himmelmann2001",""
+"fFeB","somama' -onyo, posiamao -nyo",,"female ego's father's older brother",,,"Himmelmann2001",""
+"fFyB","somama' -onyo, posiamao -nyo",,"female ego's father's younger brother",,,"Himmelmann2001",""
+"fFeZ","sitete, posinao",,"female ego's father's older sister",,,"Himmelmann2001",""
+"fFyZ","sitete, posinao",,"female ego's father's younger sister",,,"Himmelmann2001",""
+"fMeB","somama' -onyo, posiamao -nyo",,"female ego's mother's older brother",,,"Himmelmann2001",""
+"fMyB","somama' -onyo, posiamao -nyo",,"female ego's mother's younger brother",,,"Himmelmann2001",""
+"fMeZ","sitete, posinao",,"female ego's mother's older sister",,,"Himmelmann2001",""
+"fMyZ","sitete, posinao",,"female ego's mother's younger sister",,,"Himmelmann2001",""
+"mWF","memeniang",,"male ego's wife's father",,,"Himmelmann2001",""
+"mWM","memeniang",,"male ego's wife's mother",,,"Himmelmann2001",""
+"mWB","ipag",,"male ego's wife's brother",,,"Himmelmann2001",""
+"fHF","memeniang",,"female ego's husband's father",,,"Himmelmann2001",""
+"fHM","memeniang",,"female ego's husband's mother",,,"Himmelmann2001",""
+"fHB","ipag",,"female ego's husband's brother",,,"Himmelmann2001",""
+"mZH","ipag",,"male ego's sister's husband",,,"Himmelmann2001",""
+"fZH","ipag",,"female ego's sister's husband",,,"Himmelmann2001",""
+"mFBS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,"Himmelmann2001",""
+"mFZS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,"Himmelmann2001",""
+"mMBS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,"Himmelmann2001",""
+"mMZS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,"Himmelmann2001",""
+"mFBD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,"Himmelmann2001",""
+"mFZD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,"Himmelmann2001",""
+"mMBD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,"Himmelmann2001",""
+"mMZD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,"Himmelmann2001",""
+"fFBS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,"Himmelmann2001",""
+"fFZS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,"Himmelmann2001",""
+"fMBS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,"Himmelmann2001",""
+"fMZS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,"Himmelmann2001",""
+"fFBD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,"Himmelmann2001",""
+"fFZD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,"Himmelmann2001",""
+"fMBD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,"Himmelmann2001",""
+"fMZD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,"Himmelmann2001",""
+"mFeBS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mFyBS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mFeZS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mFyZS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mFeBD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFyBD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFeZD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFyZD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMeBS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mMyBS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mMeZS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mMyZS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mMeBD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMyBD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMeZD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMyZD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFBeS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mFByS","lulus sangaing, lulus uongkaing",,"male ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mFZeS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mFZyS","lulus sangaing, lulus uongkaing",,"male ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mFBeD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFByD","lulus sangaing, lulus uongkaing",,"male ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFZeD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mFZyD","lulus sangaing, lulus uongkaing",,"male ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMBeS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mMByS","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"mMZeS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mMZyS","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"mMBeD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMByD","lulus sangaing, lulus uongkaing",,"male ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMZeD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"mMZyD","lulus sangaing, lulus uongkaing",,"male ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFeBS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fFyBS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fFeZS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fFyZS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fFeBD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFyBD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFeZD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFyZD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMeBS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fMyBS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fMeZS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fMyZS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fMeBD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMyBD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMeZD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMyZD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFBeS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fFByS","lulus sangaing, lulus uongkaing",,"female ego's father's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fFZeS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fFZyS","lulus sangaing, lulus uongkaing",,"female ego's father's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fFBeD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFByD","lulus sangaing, lulus uongkaing",,"female ego's father's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFZeD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fFZyD","lulus sangaing, lulus uongkaing",,"female ego's father's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMBeS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fMByS","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's son",,,"Himmelmann2001","Inferred; NA"
+"fMZeS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fMZyS","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's son",,,"Himmelmann2001","Inferred; NA"
+"fMBeD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMByD","lulus sangaing, lulus uongkaing",,"female ego's mother's brother's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMZeD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"
+"fMZyD","lulus sangaing, lulus uongkaing",,"female ego's mother's sister's daughter",,,"Himmelmann2001","Inferred; NA"

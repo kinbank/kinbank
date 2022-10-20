@@ -1,147 +1,147 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tahin,,male ego's older brother,,,Glennon2005NehanEng,
-myB,tahin,,male ego's younger brother,,,Glennon2005NehanEng,
-feB,tatahinalik,,female ego's older brother,,,Glennon2005NehanEng,
-fyB,tatahinalik,,female ego's younger brother,,,Glennon2005NehanEng,
-meZ,tatahinalik,,male ego's older sister,,,Glennon2005NehanEng,
-myZ,tatahinalik,,male ego's younger sister,,,Glennon2005NehanEng,
-feZ,tahinalik,,female ego's older sister,,,Glennon2005NehanEng,
-fyZ,tahinalik,,female ego's younger sister,,,Glennon2005NehanEng,
-mF,taman,,male ego's father,,,Glennon2005NehanEng,
-mM,tinan,,male ego's mother,,,Glennon2005NehanEng,
-fF,taman,,female ego's father,,,Glennon2005NehanEng,
-fM,tinan,,female ego's mother,,,Glennon2005NehanEng,
-mS,tuguo,,male ego's son,,,Glennon2005NehanEng,
-fS,tuguo,,female ego's son,,,Glennon2005NehanEng,
-mD,tuguo,,male ego's daughter,,,Glennon2005NehanEng,
-fD,tuguo,,female ego's daughter,,,Glennon2005NehanEng,
-mSS,tubug,,male ego's son's son,,,Glennon2005NehanEng,
-mSD,tubug,,male ego's son's daughter,,,Glennon2005NehanEng,
-mDS,tubug,,male ego's daughter's son,,,Glennon2005NehanEng,
-mDD,tubug,,male ego's daughter's daughter,,,Glennon2005NehanEng,
-fSS,tubug,,female ego's son's son,,,Glennon2005NehanEng,
-fSD,tubug,,female ego's son's daughter,,,Glennon2005NehanEng,
-fDS,tubug,,female ego's daughter's son,,,Glennon2005NehanEng,
-fDD,tubug,,female ego's daugher's daughter,,,Glennon2005NehanEng,
-mFF,tubug,,male ego's father‘s father,,,Glennon2005NehanEng,
-mFM,tubug,,male ego's father's mother,,,Glennon2005NehanEng,
-mMF,tubug,,male ego's mother's father,,,Glennon2005NehanEng,
-mMM,tubug,,male ego's mother's mother,,,Glennon2005NehanEng,
-fFF,tubug,,female ego's father's father,,,Glennon2005NehanEng,
-fFM,tubug,,female ego's father's mother,,,Glennon2005NehanEng,
-fMF,tubug,,female ego's mother's father,,,Glennon2005NehanEng,
-fMM,tubug,,female ego's mother's mother,,,Glennon2005NehanEng,
-meZS,kabin,,male ego's older sister's son,,,Glennon2005NehanEng,
-myZS,kabin,,male ego's younger sister's son,,,Glennon2005NehanEng,
-meZD,totuen,,male ego's older sister's daughter,,,Glennon2005NehanEng,
-myZD,totuen,,male ego's younger sister's daughter,,,Glennon2005NehanEng,
-feZS,kabin,,female ego's older sister's son,,,Glennon2005NehanEng,
-fyZS,kabin,,female ego's younger sister's son,,,Glennon2005NehanEng,
-feZD,totuen,,female ego's older sister's daughter,,,Glennon2005NehanEng,
-fyZD,totuen,,female ego's younger sister's daughter,,,Glennon2005NehanEng,
-mMeB,kabin,,male ego's mother's older brother,,,Glennon2005NehanEng,
-mMyB,kabin,,male ego's mother's younger brother,,,Glennon2005NehanEng,
-mMeZ,kabin,,male ego's mother's older sister,,,Glennon2005NehanEng,
-mMyZ,kabin,,male ego's mother's younger sister,,,Glennon2005NehanEng,
-fMeB,totuen,,female ego's mother's older brother,,,Glennon2005NehanEng,
-fMyB,totuen,,female ego's mother's younger brother,,,Glennon2005NehanEng,
-fMeZ,totuen,,female ego's mother's older sister,,,Glennon2005NehanEng,
-fMyZ,totuen,,female ego's mother's younger sister,,,Glennon2005NehanEng,
-mW,nagu kuaho,,male ego's wife,,,Glennon2005NehanEng,
-fH,"nagu bulouto, nomat",,female ego‘s husband,,,Glennon2005NehanEng,
-mDH,uarih,,male ego's daughter's husband,,,Glennon2005NehanEng,
-fDH,uarih,,female ego's daughter's husband,,,Glennon2005NehanEng,
-mSW,einanon,,male ego's son's wife,,,Glennon2005NehanEng,
-fSW,einanon,,female ego's son's wife,,,Glennon2005NehanEng,
-mWF,"uarih, hiuan",,male ego's wife's father,,,Glennon2005NehanEng,
-mWM,"uarih, hiuan",,male ego's wife's mother,,,Glennon2005NehanEng,
-mWB,"napon, pon",,male ego's wife's brother,,,Glennon2005NehanEng,
-mWZ,uauagon,,male ego's wife's sister,,,Glennon2005NehanEng,
-fHF,"einanon, hiuan",,female ego's husband's father,,,Glennon2005NehanEng,
-fHM,"einanon, hiuan",,female ego's husband's mother,,,Glennon2005NehanEng,
-fHB,"napon, uauagon",,female ego's husband's brother,,,Glennon2005NehanEng,
-fHZ,hinout,,female ego's husband's sister,,,Glennon2005NehanEng,
-mBW,uauagon,,male ego's brother's wife,,,Glennon2005NehanEng,
-fBW,hinout,,female ego's brother's wife,,,Glennon2005NehanEng,
-mZH,"napon, pon, uauagon",,male ego's sister's husband,,,Glennon2005NehanEng,
-fZH,"napon, pon, uauagon",,female ego's sister's husband,,,Glennon2005NehanEng,
-mFBS,turak,,male ego's father's brother's son,,,Glennon2005NehanEng,
-mFZS,turak,,male ego's father's sister's son,,,Glennon2005NehanEng,
-mMBS,turak,,male ego's mother's brother's son,,,Glennon2005NehanEng,
-mMZS,matmatatahinaliki,,male ego's mother's sister's son,,,Glennon2005NehanEng,
-mFBD,turak,,male ego's father's brother's daughter,,,Glennon2005NehanEng,
-mFZD,turak,,male ego's father's sister's daughter,,,Glennon2005NehanEng,
-mMBD,turak,,male ego's mother's brother's daughter,,,Glennon2005NehanEng,
-mMZD,turak,,male ego's mother's sister's daughter,,,Glennon2005NehanEng,
-fFBS,turak,,female ego's father's brother's son,,,Glennon2005NehanEng,
-fFZS,turak,,female ego's father's sister's son,,,Glennon2005NehanEng,
-fMBS,turak,,female ego's mother's brother's son,,,Glennon2005NehanEng,
-fMZS,matmatatahinaliki,,female ego's mother's sister's son,,,Glennon2005NehanEng,
-fFBD,turak,,female ego's father's brother's daughter,,,Glennon2005NehanEng,
-fFZD,turak,,female ego's father's sister's daughter,,,Glennon2005NehanEng,
-fMBD,turak,,female ego's mother's brother's daughter,,,Glennon2005NehanEng,
-fMZD,turak,,female ego's mother's sister's daughter,,,Glennon2005NehanEng,
-mFeBS,turak,,male ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mFyBS,turak,,male ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mFeZS,turak,,male ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mFyZS,turak,,male ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mFeBD,turak,,male ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFyBD,turak,,male ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFeZD,turak,,male ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFyZD,turak,,male ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMeBS,turak,,male ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mMyBS,turak,,male ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mMeZS,matmatatahinaliki,,male ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mMyZS,matmatatahinaliki,,male ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mMeBD,turak,,male ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMyBD,turak,,male ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMeZD,turak,,male ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMyZD,turak,,male ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFBeS,turak,,male ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mFByS,turak,,male ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mFZeS,turak,,male ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mFZyS,turak,,male ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mFBeD,turak,,male ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFByD,turak,,male ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFZeD,turak,,male ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mFZyD,turak,,male ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMBeS,turak,,male ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mMByS,turak,,male ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-mMZeS,matmatatahinaliki,,male ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mMZyS,matmatatahinaliki,,male ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-mMBeD,turak,,male ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMByD,turak,,male ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMZeD,turak,,male ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-mMZyD,turak,,male ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFeBS,turak,,female ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fFyBS,turak,,female ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fFeZS,turak,,female ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fFyZS,turak,,female ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fFeBD,turak,,female ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFyBD,turak,,female ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFeZD,turak,,female ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFyZD,turak,,female ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMeBS,turak,,female ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fMyBS,turak,,female ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fMeZS,matmatatahinaliki,,female ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fMyZS,matmatatahinaliki,,female ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fMeBD,turak,,female ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMyBD,turak,,female ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMeZD,turak,,female ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMyZD,turak,,female ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFBeS,turak,,female ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fFByS,turak,,female ego's father's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fFZeS,turak,,female ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fFZyS,turak,,female ego's father's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fFBeD,turak,,female ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFByD,turak,,female ego's father's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFZeD,turak,,female ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fFZyD,turak,,female ego's father's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMBeS,turak,,female ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fMByS,turak,,female ego's mother's brother's son,,,Glennon2005NehanEng,Inferred; NA
-fMZeS,matmatatahinaliki,,female ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fMZyS,matmatatahinaliki,,female ego's mother's sister's son,,,Glennon2005NehanEng,Inferred; NA
-fMBeD,turak,,female ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMByD,turak,,female ego's mother's brother's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMZeD,turak,,female ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
-fMZyD,turak,,female ego's mother's sister's daughter,,,Glennon2005NehanEng,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tahin",,"male ego's older brother",,,"Glennon2005NehanEng",""
+"myB","tahin",,"male ego's younger brother",,,"Glennon2005NehanEng",""
+"feB","tatahinalik",,"female ego's older brother",,,"Glennon2005NehanEng",""
+"fyB","tatahinalik",,"female ego's younger brother",,,"Glennon2005NehanEng",""
+"meZ","tatahinalik",,"male ego's older sister",,,"Glennon2005NehanEng",""
+"myZ","tatahinalik",,"male ego's younger sister",,,"Glennon2005NehanEng",""
+"feZ","tahinalik",,"female ego's older sister",,,"Glennon2005NehanEng",""
+"fyZ","tahinalik",,"female ego's younger sister",,,"Glennon2005NehanEng",""
+"mF","taman",,"male ego's father",,,"Glennon2005NehanEng",""
+"mM","tinan",,"male ego's mother",,,"Glennon2005NehanEng",""
+"fF","taman",,"female ego's father",,,"Glennon2005NehanEng",""
+"fM","tinan",,"female ego's mother",,,"Glennon2005NehanEng",""
+"mS","tuguo",,"male ego's son",,,"Glennon2005NehanEng",""
+"fS","tuguo",,"female ego's son",,,"Glennon2005NehanEng",""
+"mD","tuguo",,"male ego's daughter",,,"Glennon2005NehanEng",""
+"fD","tuguo",,"female ego's daughter",,,"Glennon2005NehanEng",""
+"mSS","tubug",,"male ego's son's son",,,"Glennon2005NehanEng",""
+"mSD","tubug",,"male ego's son's daughter",,,"Glennon2005NehanEng",""
+"mDS","tubug",,"male ego's daughter's son",,,"Glennon2005NehanEng",""
+"mDD","tubug",,"male ego's daughter's daughter",,,"Glennon2005NehanEng",""
+"fSS","tubug",,"female ego's son's son",,,"Glennon2005NehanEng",""
+"fSD","tubug",,"female ego's son's daughter",,,"Glennon2005NehanEng",""
+"fDS","tubug",,"female ego's daughter's son",,,"Glennon2005NehanEng",""
+"fDD","tubug",,"female ego's daugher's daughter",,,"Glennon2005NehanEng",""
+"mFF","tubug",,"male ego's father‘s father",,,"Glennon2005NehanEng",""
+"mFM","tubug",,"male ego's father's mother",,,"Glennon2005NehanEng",""
+"mMF","tubug",,"male ego's mother's father",,,"Glennon2005NehanEng",""
+"mMM","tubug",,"male ego's mother's mother",,,"Glennon2005NehanEng",""
+"fFF","tubug",,"female ego's father's father",,,"Glennon2005NehanEng",""
+"fFM","tubug",,"female ego's father's mother",,,"Glennon2005NehanEng",""
+"fMF","tubug",,"female ego's mother's father",,,"Glennon2005NehanEng",""
+"fMM","tubug",,"female ego's mother's mother",,,"Glennon2005NehanEng",""
+"meZS","kabin",,"male ego's older sister's son",,,"Glennon2005NehanEng",""
+"myZS","kabin",,"male ego's younger sister's son",,,"Glennon2005NehanEng",""
+"meZD","totuen",,"male ego's older sister's daughter",,,"Glennon2005NehanEng",""
+"myZD","totuen",,"male ego's younger sister's daughter",,,"Glennon2005NehanEng",""
+"feZS","kabin",,"female ego's older sister's son",,,"Glennon2005NehanEng",""
+"fyZS","kabin",,"female ego's younger sister's son",,,"Glennon2005NehanEng",""
+"feZD","totuen",,"female ego's older sister's daughter",,,"Glennon2005NehanEng",""
+"fyZD","totuen",,"female ego's younger sister's daughter",,,"Glennon2005NehanEng",""
+"mMeB","kabin",,"male ego's mother's older brother",,,"Glennon2005NehanEng",""
+"mMyB","kabin",,"male ego's mother's younger brother",,,"Glennon2005NehanEng",""
+"mMeZ","kabin",,"male ego's mother's older sister",,,"Glennon2005NehanEng",""
+"mMyZ","kabin",,"male ego's mother's younger sister",,,"Glennon2005NehanEng",""
+"fMeB","totuen",,"female ego's mother's older brother",,,"Glennon2005NehanEng",""
+"fMyB","totuen",,"female ego's mother's younger brother",,,"Glennon2005NehanEng",""
+"fMeZ","totuen",,"female ego's mother's older sister",,,"Glennon2005NehanEng",""
+"fMyZ","totuen",,"female ego's mother's younger sister",,,"Glennon2005NehanEng",""
+"mW","nagu kuaho",,"male ego's wife",,,"Glennon2005NehanEng",""
+"fH","nagu bulouto, nomat",,"female ego‘s husband",,,"Glennon2005NehanEng",""
+"mDH","uarih",,"male ego's daughter's husband",,,"Glennon2005NehanEng",""
+"fDH","uarih",,"female ego's daughter's husband",,,"Glennon2005NehanEng",""
+"mSW","einanon",,"male ego's son's wife",,,"Glennon2005NehanEng",""
+"fSW","einanon",,"female ego's son's wife",,,"Glennon2005NehanEng",""
+"mWF","uarih, hiuan",,"male ego's wife's father",,,"Glennon2005NehanEng",""
+"mWM","uarih, hiuan",,"male ego's wife's mother",,,"Glennon2005NehanEng",""
+"mWB","napon, pon",,"male ego's wife's brother",,,"Glennon2005NehanEng",""
+"mWZ","uauagon",,"male ego's wife's sister",,,"Glennon2005NehanEng",""
+"fHF","einanon, hiuan",,"female ego's husband's father",,,"Glennon2005NehanEng",""
+"fHM","einanon, hiuan",,"female ego's husband's mother",,,"Glennon2005NehanEng",""
+"fHB","napon, uauagon",,"female ego's husband's brother",,,"Glennon2005NehanEng",""
+"fHZ","hinout",,"female ego's husband's sister",,,"Glennon2005NehanEng",""
+"mBW","uauagon",,"male ego's brother's wife",,,"Glennon2005NehanEng",""
+"fBW","hinout",,"female ego's brother's wife",,,"Glennon2005NehanEng",""
+"mZH","napon, pon, uauagon",,"male ego's sister's husband",,,"Glennon2005NehanEng",""
+"fZH","napon, pon, uauagon",,"female ego's sister's husband",,,"Glennon2005NehanEng",""
+"mFBS","turak",,"male ego's father's brother's son",,,"Glennon2005NehanEng",""
+"mFZS","turak",,"male ego's father's sister's son",,,"Glennon2005NehanEng",""
+"mMBS","turak",,"male ego's mother's brother's son",,,"Glennon2005NehanEng",""
+"mMZS","matmatatahinaliki",,"male ego's mother's sister's son",,,"Glennon2005NehanEng",""
+"mFBD","turak",,"male ego's father's brother's daughter",,,"Glennon2005NehanEng",""
+"mFZD","turak",,"male ego's father's sister's daughter",,,"Glennon2005NehanEng",""
+"mMBD","turak",,"male ego's mother's brother's daughter",,,"Glennon2005NehanEng",""
+"mMZD","turak",,"male ego's mother's sister's daughter",,,"Glennon2005NehanEng",""
+"fFBS","turak",,"female ego's father's brother's son",,,"Glennon2005NehanEng",""
+"fFZS","turak",,"female ego's father's sister's son",,,"Glennon2005NehanEng",""
+"fMBS","turak",,"female ego's mother's brother's son",,,"Glennon2005NehanEng",""
+"fMZS","matmatatahinaliki",,"female ego's mother's sister's son",,,"Glennon2005NehanEng",""
+"fFBD","turak",,"female ego's father's brother's daughter",,,"Glennon2005NehanEng",""
+"fFZD","turak",,"female ego's father's sister's daughter",,,"Glennon2005NehanEng",""
+"fMBD","turak",,"female ego's mother's brother's daughter",,,"Glennon2005NehanEng",""
+"fMZD","turak",,"female ego's mother's sister's daughter",,,"Glennon2005NehanEng",""
+"mFeBS","turak",,"male ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFyBS","turak",,"male ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFeZS","turak",,"male ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFyZS","turak",,"male ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFeBD","turak",,"male ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFyBD","turak",,"male ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFeZD","turak",,"male ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFyZD","turak",,"male ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMeBS","turak",,"male ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMyBS","turak",,"male ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMeZS","matmatatahinaliki",,"male ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMyZS","matmatatahinaliki",,"male ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMeBD","turak",,"male ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMyBD","turak",,"male ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMeZD","turak",,"male ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMyZD","turak",,"male ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFBeS","turak",,"male ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFByS","turak",,"male ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFZeS","turak",,"male ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFZyS","turak",,"male ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mFBeD","turak",,"male ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFByD","turak",,"male ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFZeD","turak",,"male ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mFZyD","turak",,"male ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMBeS","turak",,"male ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMByS","turak",,"male ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMZeS","matmatatahinaliki",,"male ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMZyS","matmatatahinaliki",,"male ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"mMBeD","turak",,"male ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMByD","turak",,"male ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMZeD","turak",,"male ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"mMZyD","turak",,"male ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFeBS","turak",,"female ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFyBS","turak",,"female ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFeZS","turak",,"female ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFyZS","turak",,"female ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFeBD","turak",,"female ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFyBD","turak",,"female ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFeZD","turak",,"female ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFyZD","turak",,"female ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMeBS","turak",,"female ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMyBS","turak",,"female ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMeZS","matmatatahinaliki",,"female ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMyZS","matmatatahinaliki",,"female ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMeBD","turak",,"female ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMyBD","turak",,"female ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMeZD","turak",,"female ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMyZD","turak",,"female ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFBeS","turak",,"female ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFByS","turak",,"female ego's father's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFZeS","turak",,"female ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFZyS","turak",,"female ego's father's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fFBeD","turak",,"female ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFByD","turak",,"female ego's father's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFZeD","turak",,"female ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fFZyD","turak",,"female ego's father's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMBeS","turak",,"female ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMByS","turak",,"female ego's mother's brother's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMZeS","matmatatahinaliki",,"female ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMZyS","matmatatahinaliki",,"female ego's mother's sister's son",,,"Glennon2005NehanEng","Inferred; NA"
+"fMBeD","turak",,"female ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMByD","turak",,"female ego's mother's brother's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMZeD","turak",,"female ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
+"fMZyD","turak",,"female ego's mother's sister's daughter",,,"Glennon2005NehanEng","Inferred; NA"
