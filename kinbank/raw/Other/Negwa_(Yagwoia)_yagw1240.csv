@@ -1,115 +1,115 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kada,,male ego's older brother,,,Fischer1968,
-myB,kanugwa,,male ego's younger brother,,,Fischer1968,
-feB,kada,,female ego's older brother,,,Fischer1968,
-fyB,kanugwa,,female ego's younger brother,,,Fischer1968,
-meZ,kananji,,male ego's older sister,,,Fischer1968,
-myZ,kanab,,male ego's younger sister,,,Fischer1968,
-feZ,kananji,,female ego's older sister,,,Fischer1968,
-fyZ,kanab,,female ego's younger sister,,,Fischer1968,
-mF,kane,,male ego's father,"mpa, mpo",,Fischer1968,"mpa, mpo = address term for father and son reciprocally"
-mM,kanei,,male ego's mother,na,,Fischer1968,na = address term for mother and daughter reciprocally
-fF,kane,,female ego's father,"mpa, mpo",,Fischer1968,"mpa, mpo = address term for father and son reciprocally"
-fM,kanei,,female ego's mother,,,Fischer1968,na = address term for mother and daughter reciprocally
-mS,khomaljogho,,male ego's son,"mpa, mpo",,Fischer1968,"mpa, mpo = address term for father and son reciprocally"
-fS,khomaljogho,,female ego's son,"mpa, mpo",,Fischer1968,"mpa, mpo = address term for father and son reciprocally"
-mD,kumalji,,male ego's daughter,,,Fischer1968,na = address term for mother and daughter reciprocally
-fD,kumalji,,female ego's daughter,,,Fischer1968,na = address term for mother and daughter reciprocally
-mSS,kagwa,,male ego's son's son,,,Fischer1968,
-mSD,ka,,male ego's son's daughter,,,Fischer1968,
-mDS,kagwa,,male ego's daughter's son,,,Fischer1968,
-mDD,ka,,male ego's daughter's daughter,,,Fischer1968,
-fSS,kagwa,,female ego's son's son,,,Fischer1968,
-fSD,ka,,female ego's son's daughter,,,Fischer1968,
-fDS,kagwa,,female ego's daughter's son,,,Fischer1968,
-fDD,ka,,female ego's daugher's daughter,,,Fischer1968,
-mFF,kagwa,,male ego's father‘s father,,,Fischer1968,
-mFM,ka,,male ego's father's mother,,,Fischer1968,
-mMF,kagwa,,male ego's mother's father,,,Fischer1968,
-mMM,ka,,male ego's mother's mother,,,Fischer1968,
-fFF,kagwa,,female ego's father's father,,,Fischer1968,
-fFM,ka,,female ego's father's mother,,,Fischer1968,
-fMF,kagwa,,female ego's mother's father,,,Fischer1968,
-fMM,ka,,female ego's mother's mother,,,Fischer1968,
-meBS,khomaljogho,,male ego's older brother's son,,,Fischer1968,
-myBS,khomaljogho,,male ego's younger brother's son,,,Fischer1968,
-meZS,khomaljogho,,male ego's older sister's son,,,Fischer1968,
-myZS,khomaljogho,,male ego's younger sister's son,,,Fischer1968,
-meBD,kumalji,,male ego's older brother's daughter,,,Fischer1968,
-myBD,kumalji,,male ego's younger brother's daughter,,,Fischer1968,
-meZD,kumalji,,male ego's older sister's daughter,,,Fischer1968,
-myZD,kumalji,,male ego's younger sister's daughter,,,Fischer1968,
-feBS,khomaljogho,,female ego's older brother's son,,,Fischer1968,
-fyBS,khomaljogho,,female ego's younger brother's son,,,Fischer1968,
-feZS,khomaljogho,,female ego's older sister's son,,,Fischer1968,
-fyZS,khomaljogho,,female ego's younger sister's son,,,Fischer1968,
-feBD,kumalji,,female ego's older brother's daughter,,,Fischer1968,
-fyBD,kumalji,,female ego's younger brother's daughter,,,Fischer1968,
-feZD,kumalji,,female ego's older sister's daughter,,,Fischer1968,
-fyZD,kumalji,,female ego's younger sister's daughter,,,Fischer1968,
-mFeB,kane,,male ego's father's older brother,,,Fischer1968,
-mFyB,kane,,male ego's father's younger brother,,,Fischer1968,
-mFeZ,kalji,,male ego's father's older sister,,,Fischer1968,
-mFyZ,kalji,,male ego's father's younger sister,,,Fischer1968,
-mMeB,kame,,male ego's mother's older brother,,,Fischer1968,
-mMyB,kame,,male ego's mother's younger brother,,,Fischer1968,
-mMeZ,kanjima,,male ego's mother's older sister,,,Fischer1968,
-mMyZ,kanjima,,male ego's mother's younger sister,,,Fischer1968,
-fFeB,kane,,female ego's father's older brother,,,Fischer1968,
-fFyB,kane,,female ego's father's younger brother,,,Fischer1968,
-fFeZ,kalji,,female ego's father's older sister,,,Fischer1968,
-fFyZ,kalji,,female ego's father's younger sister,,,Fischer1968,
-fMeB,kame,,female ego's mother's older brother,,,Fischer1968,
-fMyB,kame,,female ego's mother's younger brother,,,Fischer1968,
-fMeZ,kanjima,,female ego's mother's older sister,,,Fischer1968,
-fMyZ,kanjima,,female ego's mother's younger sister,,,Fischer1968,
-mW,kaba,,male ego's wife,,,Fischer1968,
-fH,khologh,,female ego‘s husband,,,Fischer1968,
-mDH,kanale,,male ego's daughter's husband,,,Fischer1968,
-fDH,kanale,,female ego's daughter's husband,,,Fischer1968,
-mSW,ka,,male ego's son's wife,,,Fischer1968,
-fSW,ka,,female ego's son's wife,,,Fischer1968,
-mWF,kanale,,male ego's wife's father,,,Fischer1968,
-mWM,kanale,,male ego's wife's mother,,,Fischer1968,
-mWB,kanuba,,male ego's wife's brother,,,Fischer1968,
-mWZ,kanuba,,male ego's wife's sister,,,Fischer1968,
-fHF,kanale,,female ego's husband's father,,,Fischer1968,
-fHM,kanale,,female ego's husband's mother,,,Fischer1968,
-fHB,kane,,female ego's husband's brother,,,Fischer1968,
-fHZ,kalaghu,,female ego's husband's sister,,,Fischer1968,
-mBW,kalaghu,,male ego's brother's wife,,,Fischer1968,
-fBW,kalaghu,,female ego's brother's wife,,,Fischer1968,
-mZH,kanuba,,male ego's sister's husband,,,Fischer1968,
-fZH,kanuba,,female ego's sister's husband,,,Fischer1968,
-mFBeS,kada,,male ego‘s father‘s brother‘s older son,,,Fischer1968,
-mFByS,kanugwa,,male ego‘s father‘s brother‘s younger son,,,Fischer1968,
-mFBeD,kananji,,male ego‘s father‘s brother‘s older daughter,,,Fischer1968,
-mFByD,kanab,,male ego‘s father‘s brother‘s younger daughter,,,Fischer1968,
-mFZeS,kadakwa,,male ego‘s father‘s sisters‘s older son,,,Fischer1968,
-mFZyS,kadakwa,,male ego‘s father‘s sisters‘s younger son,,,Fischer1968,
-mFZeD,kadakwa,,male ego‘s father‘s sisters‘s older daughter,,,Fischer1968,
-mFZyD,kadakwa,,male ego‘s father‘s sisters‘s younger daughter,,,Fischer1968,
-mMBeS,kadakwa,,male ego‘s mother‘s brother‘s older son,,,Fischer1968,
-mMByS,kadakwa,,male ego‘s mother‘s brother‘s younger son,,,Fischer1968,
-mMBeD,kadakwa,,male ego‘s mother‘s brother‘s older daughter,,,Fischer1968,
-mMByD,kadakwa,,male ego‘s mother‘s brother‘s younger daughter,,,Fischer1968,
-mMZeS,kada,,male ego‘s mother‘s sisters‘s older son,,,Fischer1968,
-mMZyS,kanugwa,,male ego‘s mother‘s sisters‘s younger son,,,Fischer1968,
-mMZeD,kananji,,male ego‘s mother‘s sisters‘s older daughter,,,Fischer1968,
-mMZyD,kanab,,male ego‘s mother‘s sisters‘s younger daughter,,,Fischer1968,
-fFBeS,kada,,female ego‘s father‘s brother‘s older son,,,Fischer1968,
-fFByS,kanugwa,,female ego‘s father‘s brother‘s younger son,,,Fischer1968,
-fFBeD,kananji,,female ego‘s father‘s brother‘s older daughter,,,Fischer1968,
-fFByD,kanab,,female ego‘s father‘s brother‘s younger daughter,,,Fischer1968,
-fFZeS,kadakwa,,female ego‘s father‘s sisters‘s older son,,,Fischer1968,
-fFZyS,kadakwa,,female ego‘s father‘s sisters‘s younger son,,,Fischer1968,
-fFZeD,kadakwa,,female ego‘s father‘s sisters‘s older daughter,,,Fischer1968,
-fFZyD,kadakwa,,female ego‘s father‘s sisters‘s younger daughter,,,Fischer1968,
-fMBeS,kadakwa,,female ego‘s mother‘s brother‘s older son,,,Fischer1968,
-fMByS,kadakwa,,female ego‘s mother‘s brother‘s younger son,,,Fischer1968,
-fMBeD,kadakwa,,female ego‘s mother‘s brother‘s older daughter,,,Fischer1968,
-fMByD,kadakwa,,female ego‘s mother‘s brother‘s younger daughter,,,Fischer1968,
-fMZeS,kada,,female ego‘s mother‘s sisters‘s older son,,,Fischer1968,
-fMZyS,kanugwa,,female ego‘s mother‘s sisters‘s younger son,,,Fischer1968,
-fMZeD,kananji,,female ego‘s mother‘s sisters‘s older daughter,,,Fischer1968,
-fMZyD,kanab,,female ego‘s mother‘s sisters‘s younger daughter,,,Fischer1968,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kada",,"male ego's older brother","",,"Fischer1968",""
+"myB","kanugwa",,"male ego's younger brother","",,"Fischer1968",""
+"feB","kada",,"female ego's older brother","",,"Fischer1968",""
+"fyB","kanugwa",,"female ego's younger brother","",,"Fischer1968",""
+"meZ","kananji",,"male ego's older sister","",,"Fischer1968",""
+"myZ","kanab",,"male ego's younger sister","",,"Fischer1968",""
+"feZ","kananji",,"female ego's older sister","",,"Fischer1968",""
+"fyZ","kanab",,"female ego's younger sister","",,"Fischer1968",""
+"mF","kane",,"male ego's father","mpa, mpo",,"Fischer1968","mpa, mpo = address term for father and son reciprocally"
+"mM","kanei",,"male ego's mother","na",,"Fischer1968","na = address term for mother and daughter reciprocally"
+"fF","kane",,"female ego's father","mpa, mpo",,"Fischer1968","mpa, mpo = address term for father and son reciprocally"
+"fM","kanei",,"female ego's mother","",,"Fischer1968","na = address term for mother and daughter reciprocally"
+"mS","khomaljogho",,"male ego's son","mpa, mpo",,"Fischer1968","mpa, mpo = address term for father and son reciprocally"
+"fS","khomaljogho",,"female ego's son","mpa, mpo",,"Fischer1968","mpa, mpo = address term for father and son reciprocally"
+"mD","kumalji",,"male ego's daughter","",,"Fischer1968","na = address term for mother and daughter reciprocally"
+"fD","kumalji",,"female ego's daughter","",,"Fischer1968","na = address term for mother and daughter reciprocally"
+"mSS","kagwa",,"male ego's son's son","",,"Fischer1968",""
+"mSD","ka",,"male ego's son's daughter","",,"Fischer1968",""
+"mDS","kagwa",,"male ego's daughter's son","",,"Fischer1968",""
+"mDD","ka",,"male ego's daughter's daughter","",,"Fischer1968",""
+"fSS","kagwa",,"female ego's son's son","",,"Fischer1968",""
+"fSD","ka",,"female ego's son's daughter","",,"Fischer1968",""
+"fDS","kagwa",,"female ego's daughter's son","",,"Fischer1968",""
+"fDD","ka",,"female ego's daugher's daughter","",,"Fischer1968",""
+"mFF","kagwa",,"male ego's father‘s father","",,"Fischer1968",""
+"mFM","ka",,"male ego's father's mother","",,"Fischer1968",""
+"mMF","kagwa",,"male ego's mother's father","",,"Fischer1968",""
+"mMM","ka",,"male ego's mother's mother","",,"Fischer1968",""
+"fFF","kagwa",,"female ego's father's father","",,"Fischer1968",""
+"fFM","ka",,"female ego's father's mother","",,"Fischer1968",""
+"fMF","kagwa",,"female ego's mother's father","",,"Fischer1968",""
+"fMM","ka",,"female ego's mother's mother","",,"Fischer1968",""
+"meBS","khomaljogho",,"male ego's older brother's son","",,"Fischer1968",""
+"myBS","khomaljogho",,"male ego's younger brother's son","",,"Fischer1968",""
+"meZS","khomaljogho",,"male ego's older sister's son","",,"Fischer1968",""
+"myZS","khomaljogho",,"male ego's younger sister's son","",,"Fischer1968",""
+"meBD","kumalji",,"male ego's older brother's daughter","",,"Fischer1968",""
+"myBD","kumalji",,"male ego's younger brother's daughter","",,"Fischer1968",""
+"meZD","kumalji",,"male ego's older sister's daughter","",,"Fischer1968",""
+"myZD","kumalji",,"male ego's younger sister's daughter","",,"Fischer1968",""
+"feBS","khomaljogho",,"female ego's older brother's son","",,"Fischer1968",""
+"fyBS","khomaljogho",,"female ego's younger brother's son","",,"Fischer1968",""
+"feZS","khomaljogho",,"female ego's older sister's son","",,"Fischer1968",""
+"fyZS","khomaljogho",,"female ego's younger sister's son","",,"Fischer1968",""
+"feBD","kumalji",,"female ego's older brother's daughter","",,"Fischer1968",""
+"fyBD","kumalji",,"female ego's younger brother's daughter","",,"Fischer1968",""
+"feZD","kumalji",,"female ego's older sister's daughter","",,"Fischer1968",""
+"fyZD","kumalji",,"female ego's younger sister's daughter","",,"Fischer1968",""
+"mFeB","kane",,"male ego's father's older brother","",,"Fischer1968",""
+"mFyB","kane",,"male ego's father's younger brother","",,"Fischer1968",""
+"mFeZ","kalji",,"male ego's father's older sister","",,"Fischer1968",""
+"mFyZ","kalji",,"male ego's father's younger sister","",,"Fischer1968",""
+"mMeB","kame",,"male ego's mother's older brother","",,"Fischer1968",""
+"mMyB","kame",,"male ego's mother's younger brother","",,"Fischer1968",""
+"mMeZ","kanjima",,"male ego's mother's older sister","",,"Fischer1968",""
+"mMyZ","kanjima",,"male ego's mother's younger sister","",,"Fischer1968",""
+"fFeB","kane",,"female ego's father's older brother","",,"Fischer1968",""
+"fFyB","kane",,"female ego's father's younger brother","",,"Fischer1968",""
+"fFeZ","kalji",,"female ego's father's older sister","",,"Fischer1968",""
+"fFyZ","kalji",,"female ego's father's younger sister","",,"Fischer1968",""
+"fMeB","kame",,"female ego's mother's older brother","",,"Fischer1968",""
+"fMyB","kame",,"female ego's mother's younger brother","",,"Fischer1968",""
+"fMeZ","kanjima",,"female ego's mother's older sister","",,"Fischer1968",""
+"fMyZ","kanjima",,"female ego's mother's younger sister","",,"Fischer1968",""
+"mW","kaba",,"male ego's wife","",,"Fischer1968",""
+"fH","khologh",,"female ego‘s husband","",,"Fischer1968",""
+"mDH","kanale",,"male ego's daughter's husband","",,"Fischer1968",""
+"fDH","kanale",,"female ego's daughter's husband","",,"Fischer1968",""
+"mSW","ka",,"male ego's son's wife","",,"Fischer1968",""
+"fSW","ka",,"female ego's son's wife","",,"Fischer1968",""
+"mWF","kanale",,"male ego's wife's father","",,"Fischer1968",""
+"mWM","kanale",,"male ego's wife's mother","",,"Fischer1968",""
+"mWB","kanuba",,"male ego's wife's brother","",,"Fischer1968",""
+"mWZ","kanuba",,"male ego's wife's sister","",,"Fischer1968",""
+"fHF","kanale",,"female ego's husband's father","",,"Fischer1968",""
+"fHM","kanale",,"female ego's husband's mother","",,"Fischer1968",""
+"fHB","kane",,"female ego's husband's brother","",,"Fischer1968",""
+"fHZ","kalaghu",,"female ego's husband's sister","",,"Fischer1968",""
+"mBW","kalaghu",,"male ego's brother's wife","",,"Fischer1968",""
+"fBW","kalaghu",,"female ego's brother's wife","",,"Fischer1968",""
+"mZH","kanuba",,"male ego's sister's husband","",,"Fischer1968",""
+"fZH","kanuba",,"female ego's sister's husband","",,"Fischer1968",""
+"mFBeS","kada",,"male ego‘s father‘s brother‘s older son","",,"Fischer1968",""
+"mFByS","kanugwa",,"male ego‘s father‘s brother‘s younger son","",,"Fischer1968",""
+"mFBeD","kananji",,"male ego‘s father‘s brother‘s older daughter","",,"Fischer1968",""
+"mFByD","kanab",,"male ego‘s father‘s brother‘s younger daughter","",,"Fischer1968",""
+"mFZeS","kadakwa",,"male ego‘s father‘s sisters‘s older son","",,"Fischer1968",""
+"mFZyS","kadakwa",,"male ego‘s father‘s sisters‘s younger son","",,"Fischer1968",""
+"mFZeD","kadakwa",,"male ego‘s father‘s sisters‘s older daughter","",,"Fischer1968",""
+"mFZyD","kadakwa",,"male ego‘s father‘s sisters‘s younger daughter","",,"Fischer1968",""
+"mMBeS","kadakwa",,"male ego‘s mother‘s brother‘s older son","",,"Fischer1968",""
+"mMByS","kadakwa",,"male ego‘s mother‘s brother‘s younger son","",,"Fischer1968",""
+"mMBeD","kadakwa",,"male ego‘s mother‘s brother‘s older daughter","",,"Fischer1968",""
+"mMByD","kadakwa",,"male ego‘s mother‘s brother‘s younger daughter","",,"Fischer1968",""
+"mMZeS","kada",,"male ego‘s mother‘s sisters‘s older son","",,"Fischer1968",""
+"mMZyS","kanugwa",,"male ego‘s mother‘s sisters‘s younger son","",,"Fischer1968",""
+"mMZeD","kananji",,"male ego‘s mother‘s sisters‘s older daughter","",,"Fischer1968",""
+"mMZyD","kanab",,"male ego‘s mother‘s sisters‘s younger daughter","",,"Fischer1968",""
+"fFBeS","kada",,"female ego‘s father‘s brother‘s older son","",,"Fischer1968",""
+"fFByS","kanugwa",,"female ego‘s father‘s brother‘s younger son","",,"Fischer1968",""
+"fFBeD","kananji",,"female ego‘s father‘s brother‘s older daughter","",,"Fischer1968",""
+"fFByD","kanab",,"female ego‘s father‘s brother‘s younger daughter","",,"Fischer1968",""
+"fFZeS","kadakwa",,"female ego‘s father‘s sisters‘s older son","",,"Fischer1968",""
+"fFZyS","kadakwa",,"female ego‘s father‘s sisters‘s younger son","",,"Fischer1968",""
+"fFZeD","kadakwa",,"female ego‘s father‘s sisters‘s older daughter","",,"Fischer1968",""
+"fFZyD","kadakwa",,"female ego‘s father‘s sisters‘s younger daughter","",,"Fischer1968",""
+"fMBeS","kadakwa",,"female ego‘s mother‘s brother‘s older son","",,"Fischer1968",""
+"fMByS","kadakwa",,"female ego‘s mother‘s brother‘s younger son","",,"Fischer1968",""
+"fMBeD","kadakwa",,"female ego‘s mother‘s brother‘s older daughter","",,"Fischer1968",""
+"fMByD","kadakwa",,"female ego‘s mother‘s brother‘s younger daughter","",,"Fischer1968",""
+"fMZeS","kada",,"female ego‘s mother‘s sisters‘s older son","",,"Fischer1968",""
+"fMZyS","kanugwa",,"female ego‘s mother‘s sisters‘s younger son","",,"Fischer1968",""
+"fMZeD","kananji",,"female ego‘s mother‘s sisters‘s older daughter","",,"Fischer1968",""
+"fMZyD","kanab",,"female ego‘s mother‘s sisters‘s younger daughter","",,"Fischer1968",""

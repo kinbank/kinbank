@@ -1,180 +1,180 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mosen,mosɛn,male ego's older brother,,,endelc2015,
-myB,mänyan,mənjan,male ego's younger brother,,,endelc2015,
-feB,mang,maŋ,female ego's older brother,,,endelc2015,
-fyB,mang,maŋ,female ego's younger brother,,,endelc2015,
-meZ,män,mən,male ego's older sister,,,endelc2015,
-myZ,män,mən,male ego's younger sister,,,endelc2015,
-feZ,mosen,mosɛn,female ego's older sister,,,endelc2015,
-fyZ,mänyan,mənjan,female ego's younger sister,,,endelc2015,
-mF,baba,baba,male ego's father,"məda, jaja",,endelc2015,
-mM,yai,jai,male ego's mother,məg,,endelc2015,
-fF,baba,baba,female ego's father,,,endelc2015,
-fM,yai,jai,female ego's mother,məg,,endelc2015,
-mS,llɨg,ɽɪg,male ego's son,,,endelc2015,
-fS,llɨg,ɽɪg,female ego's son,,,endelc2015,
-mD,män,mən,male ego's daughter,,,endelc2015,
-fD,män,mən,female ego's daughter,,,endelc2015,
-mSS,kok,kok,male ego's son's son,,,endelc2015,
-mSD,kok,kok,male ego's son's daughter,,,endelc2015,
-mDS,kok,kok,male ego's daughter's son,,,endelc2015,
-mDD,kok,kok,male ego's daughter's daughter,,,endelc2015,
-fSS,kok,kok,female ego's son's son,,,endelc2015,
-fSD,kok,kok,female ego's son's daughter,,,endelc2015,
-fDS,kok,kok,female ego's daughter's son,,,endelc2015,
-fDD,kok,kok,female ego's daugher's daughter,,,endelc2015,
-mFF,masar,masar,male ego's father‘s father,,,endelc2015,
-mFM,kak,kak,male ego's father's mother,,,endelc2015,
-mMF,masar,masar,male ego's mother's father,,,endelc2015,
-mMM,kak,kak,male ego's mother's mother,,,endelc2015,
-fFF,masar,masar,female ego's father's father,,,endelc2015,
-fFM,kak,kak,female ego's father's mother,,,endelc2015,
-fMF,masar,masar,female ego's mother's father,,,endelc2015,
-fMM,kak,kak,female ego's mother's mother,,,endelc2015,
-meBS,llɨg,llɪg,male ego's older brother's son,,,endelc2015,
-myBS,llɨg,llɪg,male ego's younger brother's son,,,endelc2015,
-meZS,llɨg,llɪg,male ego's older sister's son,,,endelc2015,
-myZS,llɨg,llɪg,male ego's younger sister's son,,,endelc2015,
-meBD,män,mən,male ego's older brother's daughter,,,endelc2015,
-myBD,män,mən,male ego's younger brother's daughter,,,endelc2015,
-meZD,män,mən,male ego's older sister's daughter,,,endelc2015,
-myZD,män,mən,male ego's younger sister's daughter,,,endelc2015,
-feBS,llɨg,llɪg,female ego's older brother's son,,,endelc2015,
-fyBS,llɨg,llɪg,female ego's younger brother's son,,,endelc2015,
-feZS,llɨg,llɪg,female ego's older sister's son,,,endelc2015,
-fyZS,llɨg,llɪg,female ego's younger sister's son,,,endelc2015,
-feBD,män,mən,female ego's older brother's daughter,,,endelc2015,
-fyBD,män,mən,female ego's younger brother's daughter,,,endelc2015,
-feZD,män,mən,female ego's older sister's daughter,,,endelc2015,
-fyZD,män,mən,female ego's younger sister's daughter,,,endelc2015,
-mFeB,mädaulle,mədauɽe,male ego's father's older brother,,,endelc2015,
-mFyB,meyang,mejaŋ,male ego's father's younger brother,,,endelc2015,
-mFeZ,mädaulle,mədauɽe,male ego's father's older sister,,,endelc2015,
-mFyZ,näni,nəni,male ego's father's younger sister,,,endelc2015,
-mMeB,pope,pope,male ego's mother's older brother,,,endelc2015,Mother's side people are not relatives. We marry mother's side people.
-mMyB,pope,pope,male ego's mother's younger brother,,,endelc2015,Mother's side people are not relatives. We marry mother's side people.
-mMeZ,mällpa yai,məɽpa jai,male ego's mother's older sister,,,endelc2015,
-mMyZ,mällpa,məɽpa,male ego's mother's younger sister,,,endelc2015,
-fFeB,mädaulle,mədauɽe,female ego's father's older brother,,,endelc2015,
-fFyB,meyang,mejaŋ,female ego's father's younger brother,,,endelc2015,
-fFeZ,mädaulle,mədauɽe,female ego's father's older sister,,,endelc2015,
-fFyZ,nane,nəni,female ego's father's younger sister,,,endelc2015,
-fMeB,pope,pope,female ego's mother's older brother,,,endelc2015,
-fMyB,pope,pope,female ego's mother's younger brother,,,endelc2015,
-fMeZ,mällpa yai,məɽpa jai,female ego's mother's older sister,,,endelc2015,
-fMyZ,mädaulle,mədauɽe,female ego's mother's younger sister,,,endelc2015,
-mW,mälla,məɽa,male ego's wife,,,endelc2015,
-fH,gullbe,guɽbe,female ego‘s husband,,,endelc2015,
-mDH,mänang,mənaŋ,male ego's daughter's husband,,,endelc2015,
-fDH,mänang,mənaŋ,female ego's daughter's husband,,,endelc2015,
-mSW,kok,kok,male ego's son's wife,kak,,endelc2015,
-fSW,kok,kok,female ego's son's wife,kak,,endelc2015,
-mWF,mänang,mənaŋ,male ego's wife's father,,,endelc2015,
-mWM,mänang,mənaŋ,male ego's wife's mother,,,endelc2015,
-mWB,päzɨg,pəzɪg,male ego's wife's brother,,,endelc2015,
-mWZ,päzɨg,pəzɪg,male ego's wife's sister,,,endelc2015,
-fHF,masar,masar,female ego's husband's father,,,endelc2015,
-fHM,kak,kak,female ego's husband's mother,,,endelc2015,
-fHB,"mädaulle, meyang","mədauɽe, mejaŋ",female ego's husband's brother,,,endelc2015,"mädaulle = mWeB, meyang = mWyB"
-fHZ,"mädaulle, inbo","mədauɽe, inbo",female ego's husband's sister,,,endelc2015,"mädaulle = fHeZ, inbo = fHyZ"
-mBW,mädaolle,mədaoɽe,male ego's brother's wife,,,endelc2015,double check if ego creates distinction
-fBW,mädaolle,mədaoɽe,female ego's brother's wife,,,endelc2015,double check if ego creates distinction
-mZH,päzɨg,pəzɪg,male ego's sister's husband,,,endelc2015,double check if ego creates distinction
-fZH,päzɨg,pəzɪg,female ego's sister's husband,,,endelc2015,double check if ego creates distinction
-mFBS,yäkäl,yəkəl,male ego's father's brother's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mFZS,yäkäl,yəkəl,male ego's father's sister's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mMBS,yäkäl,yəkəl,male ego's mother's brother's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mMZS,yäkäl,yəkəl,male ego's mother's sister's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mFBD,yäkäl,yəkəl,male ego's father's brother's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mFZD,yäkäl,yəkəl,male ego's father's sister's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mMBD,yäkäl,yəkəl,male ego's mother's brother's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mMZD,yäkäl,yəkəl,male ego's mother's sister's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fFBS,yäkäl,yəkəl,female ego's father's brother's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fFZS,yäkäl,yəkəl,female ego's father's sister's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fMBS,yäkäl,yəkəl,female ego's mother's brother's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fMZS,yäkäl,yəkəl,female ego's mother's sister's son,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fFBD,yäkäl,yəkəl,female ego's father's brother's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fFZD,yäkäl,yəkəl,female ego's father's sister's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fMBD,yäkäl,yəkəl,female ego's mother's brother's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-fMZD,yäkäl,yəkəl,female ego's mother's sister's daughter,,,endelc2015,Needs double checking to see if there are different forms for age or gender.
-mWZH,kobeyam,kobɛjam,male ego's wife's sister's husband,,,endelc2015,I added this relationship
-fHBW,izig,izig,female ego's husband's brother's wife,,,endelc2015,I added this relationship
-fHW,izig,izig,female ego's husband's wife,,,endelc2015,I added this relationship
-mexchangeZ,erang,ɛraŋ,male ego's exchange sister,,,endelc2015,I added this relationship
-mexchangeZH,erang,ɛraŋ,male ego's exchange sister's husband,,,endelc2015,I added this relationship
-fexchangeB,erang,ɛraŋ,female ego's exchange brother,,,endelc2015,I added this relationship
-fexchangeBW,erang,ɛraŋ,female ego's exchange brother's wife,,,endelc2015,I added this relationship
-mFexchangeZ,erngazmäg,ɛrŋazməg,male ego's father's exchange sister,,,endelc2015,I added this relationship
-mMexchangeB,erngazenda,ɛrŋazɛnda,male ego's mother's exchange brother,,,endelc2015,I added this relationship
-fFexchangeZ,erngazmäg,ɛrŋazməg,female ego's father's exchange sister,,,endelc2015,I added this relationship
-fMexchangeB,erngazenda,ɛrŋazɛnda,female ego's mother's exchange brother,,,endelc2015,I added this relationship
-mFexchangeZS,erngazeg,ɛrŋazɛg,male ego's father's exchange sister's son,,,endelc2015,I added this relationship
-mFexchangeZD,erngazeg,ɛrŋazɛg,male ego's father's exchange sister's daughter,,,endelc2015,I added this relationship
-fFexchangeZS,erngazeg,ɛrŋazɛg,female ego's father's exchange sister's son,,,endelc2015,I added this relationship
-fFexchangeZD,erngazeg,ɛrŋazɛg,female ego's father's exchange sister's daughter,,,endelc2015,I added this relationship
-mFeBW,mäg ulle,məg uɽe,male ego's father's older brother's wife,,,endelc2015,I added this relationship
-fFeBW,mäg ulle,məg uɽe,female ego's father's older brother's wife,,,endelc2015,I added this relationship
-mFeBS,yäkäl,yəkəl,male ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFyBS,yäkäl,yəkəl,male ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFeZS,yäkäl,yəkəl,male ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFyZS,yäkäl,yəkəl,male ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFeBD,yäkäl,yəkəl,male ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFyBD,yäkäl,yəkəl,male ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFeZD,yäkäl,yəkəl,male ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFyZD,yäkäl,yəkəl,male ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMeBS,yäkäl,yəkəl,male ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMyBS,yäkäl,yəkəl,male ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMeZS,yäkäl,yəkəl,male ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMyZS,yäkäl,yəkəl,male ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMeBD,yäkäl,yəkəl,male ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMyBD,yäkäl,yəkəl,male ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMeZD,yäkäl,yəkəl,male ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMyZD,yäkäl,yəkəl,male ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFBeS,yäkäl,yəkəl,male ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFByS,yäkäl,yəkəl,male ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFZeS,yäkäl,yəkəl,male ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFZyS,yäkäl,yəkəl,male ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFBeD,yäkäl,yəkəl,male ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFByD,yäkäl,yəkəl,male ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFZeD,yäkäl,yəkəl,male ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mFZyD,yäkäl,yəkəl,male ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMBeS,yäkäl,yəkəl,male ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMByS,yäkäl,yəkəl,male ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMZeS,yäkäl,yəkəl,male ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMZyS,yäkäl,yəkəl,male ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMBeD,yäkäl,yəkəl,male ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMByD,yäkäl,yəkəl,male ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMZeD,yäkäl,yəkəl,male ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-mMZyD,yäkäl,yəkəl,male ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFeBS,yäkäl,yəkəl,female ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFyBS,yäkäl,yəkəl,female ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFeZS,yäkäl,yəkəl,female ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFyZS,yäkäl,yəkəl,female ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFeBD,yäkäl,yəkəl,female ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFyBD,yäkäl,yəkəl,female ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFeZD,yäkäl,yəkəl,female ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFyZD,yäkäl,yəkəl,female ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMeBS,yäkäl,yəkəl,female ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMyBS,yäkäl,yəkəl,female ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMeZS,yäkäl,yəkəl,female ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMyZS,yäkäl,yəkəl,female ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMeBD,yäkäl,yəkəl,female ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMyBD,yäkäl,yəkəl,female ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMeZD,yäkäl,yəkəl,female ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMyZD,yäkäl,yəkəl,female ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFBeS,yäkäl,yəkəl,female ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFByS,yäkäl,yəkəl,female ego's father's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFZeS,yäkäl,yəkəl,female ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFZyS,yäkäl,yəkəl,female ego's father's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFBeD,yäkäl,yəkəl,female ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFByD,yäkäl,yəkəl,female ego's father's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFZeD,yäkäl,yəkəl,female ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fFZyD,yäkäl,yəkəl,female ego's father's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMBeS,yäkäl,yəkəl,female ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMByS,yäkäl,yəkəl,female ego's mother's brother's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMZeS,yäkäl,yəkəl,female ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMZyS,yäkäl,yəkəl,female ego's mother's sister's son,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMBeD,yäkäl,yəkəl,female ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMByD,yäkäl,yəkəl,female ego's mother's brother's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMZeD,yäkäl,yəkəl,female ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
-fMZyD,yäkäl,yəkəl,female ego's mother's sister's daughter,,,endelc2015,Inferred; Needs double checking to see if there are different forms for age or gender.
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mosen","mosɛn","male ego's older brother","",,"endelc2015",""
+"myB","mänyan","mənjan","male ego's younger brother","",,"endelc2015",""
+"feB","mang","maŋ","female ego's older brother","",,"endelc2015",""
+"fyB","mang","maŋ","female ego's younger brother","",,"endelc2015",""
+"meZ","män","mən","male ego's older sister","",,"endelc2015",""
+"myZ","män","mən","male ego's younger sister","",,"endelc2015",""
+"feZ","mosen","mosɛn","female ego's older sister","",,"endelc2015",""
+"fyZ","mänyan","mənjan","female ego's younger sister","",,"endelc2015",""
+"mF","baba","baba","male ego's father","məda, jaja",,"endelc2015",""
+"mM","yai","jai","male ego's mother","məg",,"endelc2015",""
+"fF","baba","baba","female ego's father","",,"endelc2015",""
+"fM","yai","jai","female ego's mother","məg",,"endelc2015",""
+"mS","llɨg","ɽɪg","male ego's son","",,"endelc2015",""
+"fS","llɨg","ɽɪg","female ego's son","",,"endelc2015",""
+"mD","män","mən","male ego's daughter","",,"endelc2015",""
+"fD","män","mən","female ego's daughter","",,"endelc2015",""
+"mSS","kok","kok","male ego's son's son","",,"endelc2015",""
+"mSD","kok","kok","male ego's son's daughter","",,"endelc2015",""
+"mDS","kok","kok","male ego's daughter's son","",,"endelc2015",""
+"mDD","kok","kok","male ego's daughter's daughter","",,"endelc2015",""
+"fSS","kok","kok","female ego's son's son","",,"endelc2015",""
+"fSD","kok","kok","female ego's son's daughter","",,"endelc2015",""
+"fDS","kok","kok","female ego's daughter's son","",,"endelc2015",""
+"fDD","kok","kok","female ego's daugher's daughter","",,"endelc2015",""
+"mFF","masar","masar","male ego's father‘s father","",,"endelc2015",""
+"mFM","kak","kak","male ego's father's mother","",,"endelc2015",""
+"mMF","masar","masar","male ego's mother's father","",,"endelc2015",""
+"mMM","kak","kak","male ego's mother's mother","",,"endelc2015",""
+"fFF","masar","masar","female ego's father's father","",,"endelc2015",""
+"fFM","kak","kak","female ego's father's mother","",,"endelc2015",""
+"fMF","masar","masar","female ego's mother's father","",,"endelc2015",""
+"fMM","kak","kak","female ego's mother's mother","",,"endelc2015",""
+"meBS","llɨg","llɪg","male ego's older brother's son","",,"endelc2015",""
+"myBS","llɨg","llɪg","male ego's younger brother's son","",,"endelc2015",""
+"meZS","llɨg","llɪg","male ego's older sister's son","",,"endelc2015",""
+"myZS","llɨg","llɪg","male ego's younger sister's son","",,"endelc2015",""
+"meBD","män","mən","male ego's older brother's daughter","",,"endelc2015",""
+"myBD","män","mən","male ego's younger brother's daughter","",,"endelc2015",""
+"meZD","män","mən","male ego's older sister's daughter","",,"endelc2015",""
+"myZD","män","mən","male ego's younger sister's daughter","",,"endelc2015",""
+"feBS","llɨg","llɪg","female ego's older brother's son","",,"endelc2015",""
+"fyBS","llɨg","llɪg","female ego's younger brother's son","",,"endelc2015",""
+"feZS","llɨg","llɪg","female ego's older sister's son","",,"endelc2015",""
+"fyZS","llɨg","llɪg","female ego's younger sister's son","",,"endelc2015",""
+"feBD","män","mən","female ego's older brother's daughter","",,"endelc2015",""
+"fyBD","män","mən","female ego's younger brother's daughter","",,"endelc2015",""
+"feZD","män","mən","female ego's older sister's daughter","",,"endelc2015",""
+"fyZD","män","mən","female ego's younger sister's daughter","",,"endelc2015",""
+"mFeB","mädaulle","mədauɽe","male ego's father's older brother","",,"endelc2015",""
+"mFyB","meyang","mejaŋ","male ego's father's younger brother","",,"endelc2015",""
+"mFeZ","mädaulle","mədauɽe","male ego's father's older sister","",,"endelc2015",""
+"mFyZ","näni","nəni","male ego's father's younger sister","",,"endelc2015",""
+"mMeB","pope","pope","male ego's mother's older brother","",,"endelc2015","Mother's side people are not relatives. We marry mother's side people."
+"mMyB","pope","pope","male ego's mother's younger brother","",,"endelc2015","Mother's side people are not relatives. We marry mother's side people."
+"mMeZ","mällpa yai","məɽpa jai","male ego's mother's older sister","",,"endelc2015",""
+"mMyZ","mällpa","məɽpa","male ego's mother's younger sister","",,"endelc2015",""
+"fFeB","mädaulle","mədauɽe","female ego's father's older brother","",,"endelc2015",""
+"fFyB","meyang","mejaŋ","female ego's father's younger brother","",,"endelc2015",""
+"fFeZ","mädaulle","mədauɽe","female ego's father's older sister","",,"endelc2015",""
+"fFyZ","nane","nəni","female ego's father's younger sister","",,"endelc2015",""
+"fMeB","pope","pope","female ego's mother's older brother","",,"endelc2015",""
+"fMyB","pope","pope","female ego's mother's younger brother","",,"endelc2015",""
+"fMeZ","mällpa yai","məɽpa jai","female ego's mother's older sister","",,"endelc2015",""
+"fMyZ","mädaulle","mədauɽe","female ego's mother's younger sister","",,"endelc2015",""
+"mW","mälla","məɽa","male ego's wife","",,"endelc2015",""
+"fH","gullbe","guɽbe","female ego‘s husband","",,"endelc2015",""
+"mDH","mänang","mənaŋ","male ego's daughter's husband","",,"endelc2015",""
+"fDH","mänang","mənaŋ","female ego's daughter's husband","",,"endelc2015",""
+"mSW","kok","kok","male ego's son's wife","kak",,"endelc2015",""
+"fSW","kok","kok","female ego's son's wife","kak",,"endelc2015",""
+"mWF","mänang","mənaŋ","male ego's wife's father","",,"endelc2015",""
+"mWM","mänang","mənaŋ","male ego's wife's mother","",,"endelc2015",""
+"mWB","päzɨg","pəzɪg","male ego's wife's brother","",,"endelc2015",""
+"mWZ","päzɨg","pəzɪg","male ego's wife's sister","",,"endelc2015",""
+"fHF","masar","masar","female ego's husband's father","",,"endelc2015",""
+"fHM","kak","kak","female ego's husband's mother","",,"endelc2015",""
+"fHB","mädaulle, meyang","mədauɽe, mejaŋ","female ego's husband's brother","",,"endelc2015","mädaulle = mWeB, meyang = mWyB"
+"fHZ","mädaulle, inbo","mədauɽe, inbo","female ego's husband's sister","",,"endelc2015","mädaulle = fHeZ, inbo = fHyZ"
+"mBW","mädaolle","mədaoɽe","male ego's brother's wife","",,"endelc2015","double check if ego creates distinction"
+"fBW","mädaolle","mədaoɽe","female ego's brother's wife","",,"endelc2015","double check if ego creates distinction"
+"mZH","päzɨg","pəzɪg","male ego's sister's husband","",,"endelc2015","double check if ego creates distinction"
+"fZH","päzɨg","pəzɪg","female ego's sister's husband","",,"endelc2015","double check if ego creates distinction"
+"mFBS","yäkäl","yəkəl","male ego's father's brother's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mFZS","yäkäl","yəkəl","male ego's father's sister's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mMBS","yäkäl","yəkəl","male ego's mother's brother's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mMZS","yäkäl","yəkəl","male ego's mother's sister's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mFBD","yäkäl","yəkəl","male ego's father's brother's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mFZD","yäkäl","yəkəl","male ego's father's sister's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mMBD","yäkäl","yəkəl","male ego's mother's brother's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mMZD","yäkäl","yəkəl","male ego's mother's sister's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fFBS","yäkäl","yəkəl","female ego's father's brother's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fFZS","yäkäl","yəkəl","female ego's father's sister's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fMBS","yäkäl","yəkəl","female ego's mother's brother's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fMZS","yäkäl","yəkəl","female ego's mother's sister's son","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fFBD","yäkäl","yəkəl","female ego's father's brother's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fFZD","yäkäl","yəkəl","female ego's father's sister's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fMBD","yäkäl","yəkəl","female ego's mother's brother's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"fMZD","yäkäl","yəkəl","female ego's mother's sister's daughter","",,"endelc2015","Needs double checking to see if there are different forms for age or gender."
+"mWZH","kobeyam","kobɛjam","male ego's wife's sister's husband","",,"endelc2015","I added this relationship"
+"fHBW","izig","izig","female ego's husband's brother's wife","",,"endelc2015","I added this relationship"
+"fHW","izig","izig","female ego's husband's wife","",,"endelc2015","I added this relationship"
+"mexchangeZ","erang","ɛraŋ","male ego's exchange sister","",,"endelc2015","I added this relationship"
+"mexchangeZH","erang","ɛraŋ","male ego's exchange sister's husband","",,"endelc2015","I added this relationship"
+"fexchangeB","erang","ɛraŋ","female ego's exchange brother","",,"endelc2015","I added this relationship"
+"fexchangeBW","erang","ɛraŋ","female ego's exchange brother's wife","",,"endelc2015","I added this relationship"
+"mFexchangeZ","erngazmäg","ɛrŋazməg","male ego's father's exchange sister","",,"endelc2015","I added this relationship"
+"mMexchangeB","erngazenda","ɛrŋazɛnda","male ego's mother's exchange brother","",,"endelc2015","I added this relationship"
+"fFexchangeZ","erngazmäg","ɛrŋazməg","female ego's father's exchange sister","",,"endelc2015","I added this relationship"
+"fMexchangeB","erngazenda","ɛrŋazɛnda","female ego's mother's exchange brother","",,"endelc2015","I added this relationship"
+"mFexchangeZS","erngazeg","ɛrŋazɛg","male ego's father's exchange sister's son","",,"endelc2015","I added this relationship"
+"mFexchangeZD","erngazeg","ɛrŋazɛg","male ego's father's exchange sister's daughter","",,"endelc2015","I added this relationship"
+"fFexchangeZS","erngazeg","ɛrŋazɛg","female ego's father's exchange sister's son","",,"endelc2015","I added this relationship"
+"fFexchangeZD","erngazeg","ɛrŋazɛg","female ego's father's exchange sister's daughter","",,"endelc2015","I added this relationship"
+"mFeBW","mäg ulle","məg uɽe","male ego's father's older brother's wife","",,"endelc2015","I added this relationship"
+"fFeBW","mäg ulle","məg uɽe","female ego's father's older brother's wife","",,"endelc2015","I added this relationship"
+"mFeBS","yäkäl","yəkəl","male ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFyBS","yäkäl","yəkəl","male ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFeZS","yäkäl","yəkəl","male ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFyZS","yäkäl","yəkəl","male ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFeBD","yäkäl","yəkəl","male ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFyBD","yäkäl","yəkəl","male ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFeZD","yäkäl","yəkəl","male ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFyZD","yäkäl","yəkəl","male ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMeBS","yäkäl","yəkəl","male ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMyBS","yäkäl","yəkəl","male ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMeZS","yäkäl","yəkəl","male ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMyZS","yäkäl","yəkəl","male ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMeBD","yäkäl","yəkəl","male ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMyBD","yäkäl","yəkəl","male ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMeZD","yäkäl","yəkəl","male ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMyZD","yäkäl","yəkəl","male ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFBeS","yäkäl","yəkəl","male ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFByS","yäkäl","yəkəl","male ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFZeS","yäkäl","yəkəl","male ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFZyS","yäkäl","yəkəl","male ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFBeD","yäkäl","yəkəl","male ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFByD","yäkäl","yəkəl","male ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFZeD","yäkäl","yəkəl","male ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mFZyD","yäkäl","yəkəl","male ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMBeS","yäkäl","yəkəl","male ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMByS","yäkäl","yəkəl","male ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMZeS","yäkäl","yəkəl","male ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMZyS","yäkäl","yəkəl","male ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMBeD","yäkäl","yəkəl","male ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMByD","yäkäl","yəkəl","male ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMZeD","yäkäl","yəkəl","male ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"mMZyD","yäkäl","yəkəl","male ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFeBS","yäkäl","yəkəl","female ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFyBS","yäkäl","yəkəl","female ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFeZS","yäkäl","yəkəl","female ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFyZS","yäkäl","yəkəl","female ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFeBD","yäkäl","yəkəl","female ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFyBD","yäkäl","yəkəl","female ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFeZD","yäkäl","yəkəl","female ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFyZD","yäkäl","yəkəl","female ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMeBS","yäkäl","yəkəl","female ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMyBS","yäkäl","yəkəl","female ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMeZS","yäkäl","yəkəl","female ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMyZS","yäkäl","yəkəl","female ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMeBD","yäkäl","yəkəl","female ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMyBD","yäkäl","yəkəl","female ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMeZD","yäkäl","yəkəl","female ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMyZD","yäkäl","yəkəl","female ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFBeS","yäkäl","yəkəl","female ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFByS","yäkäl","yəkəl","female ego's father's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFZeS","yäkäl","yəkəl","female ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFZyS","yäkäl","yəkəl","female ego's father's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFBeD","yäkäl","yəkəl","female ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFByD","yäkäl","yəkəl","female ego's father's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFZeD","yäkäl","yəkəl","female ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fFZyD","yäkäl","yəkəl","female ego's father's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMBeS","yäkäl","yəkəl","female ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMByS","yäkäl","yəkəl","female ego's mother's brother's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMZeS","yäkäl","yəkəl","female ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMZyS","yäkäl","yəkəl","female ego's mother's sister's son","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMBeD","yäkäl","yəkəl","female ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMByD","yäkäl","yəkəl","female ego's mother's brother's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMZeD","yäkäl","yəkəl","female ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."
+"fMZyD","yäkäl","yəkəl","female ego's mother's sister's daughter","",,"endelc2015","Inferred; Needs double checking to see if there are different forms for age or gender."

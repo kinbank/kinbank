@@ -1,153 +1,153 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"ciè, pwi ciè",,male speaker's older brother,,,leblic2004a,
-myB,"aajii, pwi jii",,male speaker's younger brother,,,leblic2004a,
-feB,"ciè, pwi ciè, bèrè",,female speaker's older brother,,,leblic2004a,
-fyB,"aajii, pwi jii, bèrè",,female speaker's younger brother,,,leblic2004a,
-meZ,"ciè, tôô ciè, näigé",,male speaker's older sister,,,leblic2004a,
-myZ,"aajii, tôô jii, näigé",,male speaker's younger sister,,,leblic2004a,
-feZ,"ciè, tôô ciè",,female speaker's older sister,,,leblic2004a,
-fyZ,"aajii, tôô jii",,female speaker's younger sister,,,leblic2004a,
-mF,caa,,male speaker's father,,,leblic2004a,
-mM,nyââ,,male speaker's mother,,,leblic2004a,
-fF,caa,,female speaker's father,,,leblic2004a,
-fM,nyââ,,female speaker's mother,,,leblic2004a,
-mS,"näi, pwi näi",,male speaker's son,,,leblic2004a,
-fS,"näi, pwi näi",,female speaker's son,,,leblic2004a,
-mD,"näi, tôô näi",,male speaker's daughter,,,leblic2004a,
-fD,"näi, tôô näi",,female speaker's daughter,,,leblic2004a,
-mSS,"èru, pwi èru",,male speaker's son's son,,,leblic2004a,
-mSD,"èru, tôô èru",,male speaker's son's daughter,,,leblic2004a,
-mDS,"èru, pwi èru",,male speaker's daughter's son,,,leblic2004a,
-mDD,"èru, tôô èru",,male speaker's daughter's daughter,,,leblic2004a,
-fSS,"èru, pwi èru",,female speaker's son's son,,,leblic2004a,
-fSD,"èru, tôô èru",,female speaker's son's daughter,,,leblic2004a,
-fDS,"èru, pwi èru",,female speaker's daughter's son,,,leblic2004a,
-fDD,"èru, tôô èru",,female speaker's daugher's daughter,,,leblic2004a,
-mFF,ao,,male speaker's father‘s father,,,leblic2004a,
-mFM,gèè,,male speaker's father's mother,,,leblic2004a,
-mMF,ao,,male speaker's mother's father,,,leblic2004a,
-mMM,gèè,,male speaker's mother's mother,,,leblic2004a,
-fFF,ao,,female speaker's father's father,,,leblic2004a,
-fFM,gèè,,female speaker's father's mother,,,leblic2004a,
-fMF,ao,,female speaker's mother's father,,,leblic2004a,
-fMM,gèè,,female speaker's mother's mother,,,leblic2004a,
-meBS,"näi, pwi näi",,male speaker's older brother's son,,,leblic2004a,
-myBS,"näi, pwi näi",,male speaker's younger brother's son,,,leblic2004a,
-meZS,"nîaa, pwi nîaa",,male speaker's older sister's son,,,leblic2004a,
-myZS,"nîaa, pwi nîaa",,male speaker's younger sister's son,,,leblic2004a,
-meBD,"näi, tôô näi",,male speaker's older brother's daughter,,,leblic2004a,
-myBD,"näi, tôô näi",,male speaker's younger brother's daughter,,,leblic2004a,
-meZD,"nîaa, tôô nîaa",,male speaker's older sister's daughter,,,leblic2004a,
-myZD,"nîaa, tôô nîaa",,male speaker's younger sister's daughter,,,leblic2004a,
-feBS,"nôôra, pwi nôôra",,female speaker's older brother's son,,,leblic2004a,
-fyBS,"nôôra, pwi nôôra",,female speaker's younger brother's son,,,leblic2004a,
-feZS,"näi, pwi näi",,female speaker's older sister's son,,,leblic2004a,
-fyZS,"näi, pwi näi",,female speaker's younger sister's son,,,leblic2004a,
-feBD,"nôôra, tôô nôôra",,female speaker's older brother's daughter,,,leblic2004a,
-fyBD,"nôôra, tôô nôôra",,female speaker's younger brother's daughter,,,leblic2004a,
-feZD,"näi, tôô näi",,female speaker's older sister's daughter,,,leblic2004a,
-fyZD,"näi, tôô näi",,female speaker's younger sister's daughter,,,leblic2004a,
-mFeB,caa,,male speaker's father's older brother,,,leblic2004a,
-mFyB,caa,,male speaker's father's younger brother,,,leblic2004a,
-mFeZ,"pankaa, köaa",,male speaker's father's older sister,,,leblic2004a,
-mFyZ,"pankaa, köaa",,male speaker's father's younger sister,,,leblic2004a,
-mMeB,"aunîa, aunéaa",,male speaker's mother's older brother,,,leblic2004a,
-mMyB,"aunîa, aunéaa",,male speaker's mother's younger brother,,,leblic2004a,
-mMeZ,nyââ,,male speaker's mother's older sister,,,leblic2004a,
-mMyZ,nyââ,,male speaker's mother's younger sister,,,leblic2004a,
-fFeB,caa,,female speaker's father's older brother,,,leblic2004a,
-fFyB,caa,,female speaker's father's younger brother,,,leblic2004a,
-fFeZ,"pankaa, köaa",,female speaker's father's older sister,,,leblic2004a,
-fFyZ,"pankaa, köaa",,female speaker's father's younger sister,,,leblic2004a,
-fMeB,"aunîa, aunéaa",,female speaker's mother's older brother,,,leblic2004a,
-fMyB,"aunîa, aunéaa",,female speaker's mother's younger brother,,,leblic2004a,
-fMeZ,nyââ,,female speaker's mother's older sister,,,leblic2004a,
-fMyZ,nyââ,,female speaker's mother's younger sister,,,leblic2004a,
-fDH,pwi tää,,female speaker's daughter's husband,,,leblic2004a,"For parent-in-law/child-in-law terms, the source just"
-mDH,pwi tää,,male speaker's daughter's husband,,,leblic2004a,
-fSW,âboro tää-ô,,female speaker's son's wife,,,leblic2004a,
-mSW,âboro tää-ô,,male speaker's son's wife,,,leblic2004a,
-fHM,tôô tää-ê,,female speaker's husband's mother,,,leblic2004a,
-mWM,tôô tää-ê,,male speaker's wife's mother,,,leblic2004a,
-fHF,pwi tää-ê,,female speaker's husband's father,,,leblic2004a,
-mWF,pwi tää-ê,,male speaker's wife's father,,,leblic2004a,
-mFBS,ciè,,male speaker's father's brother's son,,,leblic2004a,
-mFZS,böru,,male speaker's father's sister's son,,,leblic2004a,
-mMBS,böru,,male speaker's mother's brother's son,,,leblic2004a,
-mMZS,aajii,,male speaker's mother's sister's son,,,leblic2004a,
-mFBD,ciè,,male speaker's father's brother's daughter,,,leblic2004a,
-mFZD,böru,,male speaker's father's sister's daughter,,,leblic2004a,
-mMBD,böru,,male speaker's mother's brother's daughter,,,leblic2004a,
-mMZD,aajii,,male speaker's mother's sister's daughter,,,leblic2004a,
-fFBS,ciè,,female speaker's father's brother's son,,,leblic2004a,
-fFZS,böru,,female speaker's father's sister's son,,,leblic2004a,
-fMBS,böru,,female speaker's mother's brother's son,,,leblic2004a,
-fMZS,aajii,,female speaker's mother's sister's son,,,leblic2004a,
-fFBD,ciè,,female speaker's father's brother's daughter,,,leblic2004a,
-fFZD,böru,,female speaker's father's sister's daughter,,,leblic2004a,
-fMBD,böru,,female speaker's mother's brother's daughter,,,leblic2004a,
-fMZD,aajii,,female speaker's mother's sister's daughter,,,leblic2004a,
-mFeBS,ciè,,male speaker's father's brother's son,,,leblic2004a,Inferred; 
-mFyBS,ciè,,male speaker's father's brother's son,,,leblic2004a,Inferred; 
-mFeZS,böru,,male speaker's father's sister's son,,,leblic2004a,Inferred; 
-mFyZS,böru,,male speaker's father's sister's son,,,leblic2004a,Inferred; 
-mFeBD,ciè,,male speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-mFyBD,ciè,,male speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-mFeZD,böru,,male speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-mFyZD,böru,,male speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-mMeBS,böru,,male speaker's mother's brother's son,,,leblic2004a,Inferred; 
-mMyBS,böru,,male speaker's mother's brother's son,,,leblic2004a,Inferred; 
-mMeZS,aajii,,male speaker's mother's sister's son,,,leblic2004a,Inferred; 
-mMyZS,aajii,,male speaker's mother's sister's son,,,leblic2004a,Inferred; 
-mMeBD,böru,,male speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-mMyBD,böru,,male speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-mMeZD,aajii,,male speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-mMyZD,aajii,,male speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-mFBeS,ciè,,male speaker's father's brother's son,,,leblic2004a,Inferred; 
-mFByS,ciè,,male speaker's father's brother's son,,,leblic2004a,Inferred; 
-mFZeS,böru,,male speaker's father's sister's son,,,leblic2004a,Inferred; 
-mFZyS,böru,,male speaker's father's sister's son,,,leblic2004a,Inferred; 
-mFBeD,ciè,,male speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-mFByD,ciè,,male speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-mFZeD,böru,,male speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-mFZyD,böru,,male speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-mMBeS,böru,,male speaker's mother's brother's son,,,leblic2004a,Inferred; 
-mMByS,böru,,male speaker's mother's brother's son,,,leblic2004a,Inferred; 
-mMZeS,aajii,,male speaker's mother's sister's son,,,leblic2004a,Inferred; 
-mMZyS,aajii,,male speaker's mother's sister's son,,,leblic2004a,Inferred; 
-mMBeD,böru,,male speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-mMByD,böru,,male speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-mMZeD,aajii,,male speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-mMZyD,aajii,,male speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-fFeBS,ciè,,female speaker's father's brother's son,,,leblic2004a,Inferred; 
-fFyBS,ciè,,female speaker's father's brother's son,,,leblic2004a,Inferred; 
-fFeZS,böru,,female speaker's father's sister's son,,,leblic2004a,Inferred; 
-fFyZS,böru,,female speaker's father's sister's son,,,leblic2004a,Inferred; 
-fFeBD,ciè,,female speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-fFyBD,ciè,,female speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-fFeZD,böru,,female speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-fFyZD,böru,,female speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-fMeBS,böru,,female speaker's mother's brother's son,,,leblic2004a,Inferred; 
-fMyBS,böru,,female speaker's mother's brother's son,,,leblic2004a,Inferred; 
-fMeZS,aajii,,female speaker's mother's sister's son,,,leblic2004a,Inferred; 
-fMyZS,aajii,,female speaker's mother's sister's son,,,leblic2004a,Inferred; 
-fMeBD,böru,,female speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-fMyBD,böru,,female speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-fMeZD,aajii,,female speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-fMyZD,aajii,,female speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-fFBeS,ciè,,female speaker's father's brother's son,,,leblic2004a,Inferred; 
-fFByS,ciè,,female speaker's father's brother's son,,,leblic2004a,Inferred; 
-fFZeS,böru,,female speaker's father's sister's son,,,leblic2004a,Inferred; 
-fFZyS,böru,,female speaker's father's sister's son,,,leblic2004a,Inferred; 
-fFBeD,ciè,,female speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-fFByD,ciè,,female speaker's father's brother's daughter,,,leblic2004a,Inferred; 
-fFZeD,böru,,female speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-fFZyD,böru,,female speaker's father's sister's daughter,,,leblic2004a,Inferred; 
-fMBeS,böru,,female speaker's mother's brother's son,,,leblic2004a,Inferred; 
-fMByS,böru,,female speaker's mother's brother's son,,,leblic2004a,Inferred; 
-fMZeS,aajii,,female speaker's mother's sister's son,,,leblic2004a,Inferred; 
-fMZyS,aajii,,female speaker's mother's sister's son,,,leblic2004a,Inferred; 
-fMBeD,böru,,female speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-fMByD,böru,,female speaker's mother's brother's daughter,,,leblic2004a,Inferred; 
-fMZeD,aajii,,female speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
-fMZyD,aajii,,female speaker's mother's sister's daughter,,,leblic2004a,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ciè, pwi ciè",,"male speaker's older brother",,,"leblic2004a",""
+"myB","aajii, pwi jii",,"male speaker's younger brother",,,"leblic2004a",""
+"feB","ciè, pwi ciè, bèrè",,"female speaker's older brother",,,"leblic2004a",""
+"fyB","aajii, pwi jii, bèrè",,"female speaker's younger brother",,,"leblic2004a",""
+"meZ","ciè, tôô ciè, näigé",,"male speaker's older sister",,,"leblic2004a",""
+"myZ","aajii, tôô jii, näigé",,"male speaker's younger sister",,,"leblic2004a",""
+"feZ","ciè, tôô ciè",,"female speaker's older sister",,,"leblic2004a",""
+"fyZ","aajii, tôô jii",,"female speaker's younger sister",,,"leblic2004a",""
+"mF","caa",,"male speaker's father",,,"leblic2004a",""
+"mM","nyââ",,"male speaker's mother",,,"leblic2004a",""
+"fF","caa",,"female speaker's father",,,"leblic2004a",""
+"fM","nyââ",,"female speaker's mother",,,"leblic2004a",""
+"mS","näi, pwi näi",,"male speaker's son",,,"leblic2004a",""
+"fS","näi, pwi näi",,"female speaker's son",,,"leblic2004a",""
+"mD","näi, tôô näi",,"male speaker's daughter",,,"leblic2004a",""
+"fD","näi, tôô näi",,"female speaker's daughter",,,"leblic2004a",""
+"mSS","èru, pwi èru",,"male speaker's son's son",,,"leblic2004a",""
+"mSD","èru, tôô èru",,"male speaker's son's daughter",,,"leblic2004a",""
+"mDS","èru, pwi èru",,"male speaker's daughter's son",,,"leblic2004a",""
+"mDD","èru, tôô èru",,"male speaker's daughter's daughter",,,"leblic2004a",""
+"fSS","èru, pwi èru",,"female speaker's son's son",,,"leblic2004a",""
+"fSD","èru, tôô èru",,"female speaker's son's daughter",,,"leblic2004a",""
+"fDS","èru, pwi èru",,"female speaker's daughter's son",,,"leblic2004a",""
+"fDD","èru, tôô èru",,"female speaker's daugher's daughter",,,"leblic2004a",""
+"mFF","ao",,"male speaker's father‘s father",,,"leblic2004a",""
+"mFM","gèè",,"male speaker's father's mother",,,"leblic2004a",""
+"mMF","ao",,"male speaker's mother's father",,,"leblic2004a",""
+"mMM","gèè",,"male speaker's mother's mother",,,"leblic2004a",""
+"fFF","ao",,"female speaker's father's father",,,"leblic2004a",""
+"fFM","gèè",,"female speaker's father's mother",,,"leblic2004a",""
+"fMF","ao",,"female speaker's mother's father",,,"leblic2004a",""
+"fMM","gèè",,"female speaker's mother's mother",,,"leblic2004a",""
+"meBS","näi, pwi näi",,"male speaker's older brother's son",,,"leblic2004a",""
+"myBS","näi, pwi näi",,"male speaker's younger brother's son",,,"leblic2004a",""
+"meZS","nîaa, pwi nîaa",,"male speaker's older sister's son",,,"leblic2004a",""
+"myZS","nîaa, pwi nîaa",,"male speaker's younger sister's son",,,"leblic2004a",""
+"meBD","näi, tôô näi",,"male speaker's older brother's daughter",,,"leblic2004a",""
+"myBD","näi, tôô näi",,"male speaker's younger brother's daughter",,,"leblic2004a",""
+"meZD","nîaa, tôô nîaa",,"male speaker's older sister's daughter",,,"leblic2004a",""
+"myZD","nîaa, tôô nîaa",,"male speaker's younger sister's daughter",,,"leblic2004a",""
+"feBS","nôôra, pwi nôôra",,"female speaker's older brother's son",,,"leblic2004a",""
+"fyBS","nôôra, pwi nôôra",,"female speaker's younger brother's son",,,"leblic2004a",""
+"feZS","näi, pwi näi",,"female speaker's older sister's son",,,"leblic2004a",""
+"fyZS","näi, pwi näi",,"female speaker's younger sister's son",,,"leblic2004a",""
+"feBD","nôôra, tôô nôôra",,"female speaker's older brother's daughter",,,"leblic2004a",""
+"fyBD","nôôra, tôô nôôra",,"female speaker's younger brother's daughter",,,"leblic2004a",""
+"feZD","näi, tôô näi",,"female speaker's older sister's daughter",,,"leblic2004a",""
+"fyZD","näi, tôô näi",,"female speaker's younger sister's daughter",,,"leblic2004a",""
+"mFeB","caa",,"male speaker's father's older brother",,,"leblic2004a",""
+"mFyB","caa",,"male speaker's father's younger brother",,,"leblic2004a",""
+"mFeZ","pankaa, köaa",,"male speaker's father's older sister",,,"leblic2004a",""
+"mFyZ","pankaa, köaa",,"male speaker's father's younger sister",,,"leblic2004a",""
+"mMeB","aunîa, aunéaa",,"male speaker's mother's older brother",,,"leblic2004a",""
+"mMyB","aunîa, aunéaa",,"male speaker's mother's younger brother",,,"leblic2004a",""
+"mMeZ","nyââ",,"male speaker's mother's older sister",,,"leblic2004a",""
+"mMyZ","nyââ",,"male speaker's mother's younger sister",,,"leblic2004a",""
+"fFeB","caa",,"female speaker's father's older brother",,,"leblic2004a",""
+"fFyB","caa",,"female speaker's father's younger brother",,,"leblic2004a",""
+"fFeZ","pankaa, köaa",,"female speaker's father's older sister",,,"leblic2004a",""
+"fFyZ","pankaa, köaa",,"female speaker's father's younger sister",,,"leblic2004a",""
+"fMeB","aunîa, aunéaa",,"female speaker's mother's older brother",,,"leblic2004a",""
+"fMyB","aunîa, aunéaa",,"female speaker's mother's younger brother",,,"leblic2004a",""
+"fMeZ","nyââ",,"female speaker's mother's older sister",,,"leblic2004a",""
+"fMyZ","nyââ",,"female speaker's mother's younger sister",,,"leblic2004a",""
+"fDH","pwi tää",,"female speaker's daughter's husband",,,"leblic2004a","For parent-in-law/child-in-law terms, the source just"
+"mDH","pwi tää",,"male speaker's daughter's husband",,,"leblic2004a",""
+"fSW","âboro tää-ô",,"female speaker's son's wife",,,"leblic2004a",""
+"mSW","âboro tää-ô",,"male speaker's son's wife",,,"leblic2004a",""
+"fHM","tôô tää-ê",,"female speaker's husband's mother",,,"leblic2004a",""
+"mWM","tôô tää-ê",,"male speaker's wife's mother",,,"leblic2004a",""
+"fHF","pwi tää-ê",,"female speaker's husband's father",,,"leblic2004a",""
+"mWF","pwi tää-ê",,"male speaker's wife's father",,,"leblic2004a",""
+"mFBS","ciè",,"male speaker's father's brother's son",,,"leblic2004a",""
+"mFZS","böru",,"male speaker's father's sister's son",,,"leblic2004a",""
+"mMBS","böru",,"male speaker's mother's brother's son",,,"leblic2004a",""
+"mMZS","aajii",,"male speaker's mother's sister's son",,,"leblic2004a",""
+"mFBD","ciè",,"male speaker's father's brother's daughter",,,"leblic2004a",""
+"mFZD","böru",,"male speaker's father's sister's daughter",,,"leblic2004a",""
+"mMBD","böru",,"male speaker's mother's brother's daughter",,,"leblic2004a",""
+"mMZD","aajii",,"male speaker's mother's sister's daughter",,,"leblic2004a",""
+"fFBS","ciè",,"female speaker's father's brother's son",,,"leblic2004a",""
+"fFZS","böru",,"female speaker's father's sister's son",,,"leblic2004a",""
+"fMBS","böru",,"female speaker's mother's brother's son",,,"leblic2004a",""
+"fMZS","aajii",,"female speaker's mother's sister's son",,,"leblic2004a",""
+"fFBD","ciè",,"female speaker's father's brother's daughter",,,"leblic2004a",""
+"fFZD","böru",,"female speaker's father's sister's daughter",,,"leblic2004a",""
+"fMBD","böru",,"female speaker's mother's brother's daughter",,,"leblic2004a",""
+"fMZD","aajii",,"female speaker's mother's sister's daughter",,,"leblic2004a",""
+"mFeBS","ciè",,"male speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"mFyBS","ciè",,"male speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"mFeZS","böru",,"male speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"mFyZS","böru",,"male speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"mFeBD","ciè",,"male speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"mFyBD","ciè",,"male speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"mFeZD","böru",,"male speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"mFyZD","böru",,"male speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"mMeBS","böru",,"male speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"mMyBS","böru",,"male speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"mMeZS","aajii",,"male speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"mMyZS","aajii",,"male speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"mMeBD","böru",,"male speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"mMyBD","böru",,"male speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"mMeZD","aajii",,"male speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"mMyZD","aajii",,"male speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"mFBeS","ciè",,"male speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"mFByS","ciè",,"male speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"mFZeS","böru",,"male speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"mFZyS","böru",,"male speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"mFBeD","ciè",,"male speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"mFByD","ciè",,"male speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"mFZeD","böru",,"male speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"mFZyD","böru",,"male speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"mMBeS","böru",,"male speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"mMByS","böru",,"male speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"mMZeS","aajii",,"male speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"mMZyS","aajii",,"male speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"mMBeD","böru",,"male speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"mMByD","böru",,"male speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"mMZeD","aajii",,"male speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"mMZyD","aajii",,"male speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"fFeBS","ciè",,"female speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"fFyBS","ciè",,"female speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"fFeZS","böru",,"female speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"fFyZS","böru",,"female speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"fFeBD","ciè",,"female speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"fFyBD","ciè",,"female speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"fFeZD","böru",,"female speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"fFyZD","böru",,"female speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"fMeBS","böru",,"female speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"fMyBS","böru",,"female speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"fMeZS","aajii",,"female speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"fMyZS","aajii",,"female speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"fMeBD","böru",,"female speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"fMyBD","böru",,"female speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"fMeZD","aajii",,"female speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"fMyZD","aajii",,"female speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"fFBeS","ciè",,"female speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"fFByS","ciè",,"female speaker's father's brother's son",,,"leblic2004a","Inferred; "
+"fFZeS","böru",,"female speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"fFZyS","böru",,"female speaker's father's sister's son",,,"leblic2004a","Inferred; "
+"fFBeD","ciè",,"female speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"fFByD","ciè",,"female speaker's father's brother's daughter",,,"leblic2004a","Inferred; "
+"fFZeD","böru",,"female speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"fFZyD","böru",,"female speaker's father's sister's daughter",,,"leblic2004a","Inferred; "
+"fMBeS","böru",,"female speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"fMByS","böru",,"female speaker's mother's brother's son",,,"leblic2004a","Inferred; "
+"fMZeS","aajii",,"female speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"fMZyS","aajii",,"female speaker's mother's sister's son",,,"leblic2004a","Inferred; "
+"fMBeD","böru",,"female speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"fMByD","böru",,"female speaker's mother's brother's daughter",,,"leblic2004a","Inferred; "
+"fMZeD","aajii",,"female speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "
+"fMZyD","aajii",,"female speaker's mother's sister's daughter",,,"leblic2004a","Inferred; "

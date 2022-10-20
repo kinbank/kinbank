@@ -1,155 +1,155 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kaka' tuama,,male ego's older brother,,,tonseawebsite,
-myB,tuari tuama,,male ego's younger brother,,,tonseawebsite,
-feB,kaka' tuama,,female ego's older brother,,,tonseawebsite,
-fyB,tuari tuama,,female ego's younger brother,,,tonseawebsite,
-meZ,kakak wewene,,male ego's older sister,,,tonseawebsite,
-myZ,tuari wewene,,male ego's younger sister,,,tonseawebsite,
-feZ,kakak wewene,,female ego's older sister,,,tonseawebsite,
-fyZ,tuari wewene,,female ego's younger sister,,,tonseawebsite,
-mF,"ama', bu'",,male ego's father,,,tonseawebsite,
-mM,"ina', ci'",,male ego's mother,,,tonseawebsite,
-fF,"ama', bu'",,female ego's father,,,tonseawebsite,
-fM,"ina', ci'",,female ego's mother,,,tonseawebsite,
-mS,rinté,,male ego's son,,,tonseawebsite,
-fS,rinté,,female ego's son,,,tonseawebsite,
-mD,rinté,,male ego's daughter,,,tonseawebsite,
-fD,rinté,,female ego's daughter,,,tonseawebsite,
-mFF,tété,,male ego's father‘s father,,,tonseawebsite,
-mFM,néné,,male ego's father's mother,,,tonseawebsite,
-mMF,tété,,male ego's mother's father,,,tonseawebsite,
-mMM,néné,,male ego's mother's mother,,,tonseawebsite,
-fFF,tété,,female ego's father's father,,,tonseawebsite,
-fFM,néné,,female ego's father's mother,,,tonseawebsite,
-fMF,tété,,female ego's mother's father,,,tonseawebsite,
-fMM,néné,,female ego's mother's mother,,,tonseawebsite,
-meBS,paanaken tuama,,male ego's older brother's son,,,tonseawebsite,
-myBS,paanaken tuama,,male ego's younger brother's son,,,tonseawebsite,
-meZS,paanaken tuama,,male ego's older sister's son,,,tonseawebsite,
-myZS,paanaken tuama,,male ego's younger sister's son,,,tonseawebsite,
-meBD,paanaken wewéné,,male ego's older brother's daughter,,,tonseawebsite,
-myBD,paanaken wewéné,,male ego's younger brother's daughter,,,tonseawebsite,
-meZD,paanaken wewéné,,male ego's older sister's daughter,,,tonseawebsite,
-myZD,paanaken wewéné,,male ego's younger sister's daughter,,,tonseawebsite,
-feBS,paanaken tuama,,female ego's older brother's son,,,tonseawebsite,
-fyBS,paanaken tuama,,female ego's younger brother's son,,,tonseawebsite,
-feZS,paanaken tuama,,female ego's older sister's son,,,tonseawebsite,
-fyZS,paanaken tuama,,female ego's younger sister's son,,,tonseawebsite,
-feBD,paanaken wewéné,,female ego's older brother's daughter,,,tonseawebsite,
-fyBD,paanaken wewéné,,female ego's younger brother's daughter,,,tonseawebsite,
-feZD,paanaken wewéné,,female ego's older sister's daughter,,,tonseawebsite,
-fyZD,paanaken wewéné,,female ego's younger sister's daughter,,,tonseawebsite,
-mFeB,ito,,male ego's father's older brother,,,tonseawebsite,
-mFyB,ito,,male ego's father's younger brother,,,tonseawebsite,
-mFeZ,mui,,male ego's father's older sister,,,tonseawebsite,
-mFyZ,mui,,male ego's father's younger sister,,,tonseawebsite,
-mMeB,ito,,male ego's mother's older brother,,,tonseawebsite,
-mMyB,ito,,male ego's mother's younger brother,,,tonseawebsite,
-mMeZ,mui,,male ego's mother's older sister,,,tonseawebsite,
-mMyZ,mui,,male ego's mother's younger sister,,,tonseawebsite,
-fFeB,ito,,female ego's father's older brother,,,tonseawebsite,
-fFyB,ito,,female ego's father's younger brother,,,tonseawebsite,
-fFeZ,mui,,female ego's father's older sister,,,tonseawebsite,
-fFyZ,mui,,female ego's father's younger sister,,,tonseawebsite,
-fMeB,ito,,female ego's mother's older brother,,,tonseawebsite,
-fMyB,ito,,female ego's mother's younger brother,,,tonseawebsite,
-fMeZ,mui,,female ego's mother's older sister,,,tonseawebsite,
-fMyZ,mui,,female ego's mother's younger sister,,,tonseawebsite,
-mW,"ka'awu, karia, katendé",,male ego's wife,,,tonseawebsite,
-fH,ka'awu,,female ego‘s husband,,,tonseawebsite,
-mDH,memosan tuama,,male ego's daughter's husband,,,tonseawebsite,
-fDH,memosan tuama,,female ego's daughter's husband,,,tonseawebsite,
-mSW,memosan wewéné,,male ego's son's wife,,,tonseawebsite,
-fSW,memosan wewéné,,female ego's son's wife,,,tonseawebsite,
-mWF,pemosanan tuama,,male ego's wife's father,,,tonseawebsite,
-mWM,pemosanan wewéné,,male ego's wife's mother,,,tonseawebsite,
-mWB,koséng,,male ego's wife's brother,,,tonseawebsite,
-mWZ,ipau,,male ego's wife's sister,,,tonseawebsite,
-fHF,pemosanan tuama,,female ego's husband's father,,,tonseawebsite,
-fHM,pemosanan wewéné,,female ego's husband's mother,,,tonseawebsite,
-fHB,koséng,,female ego's husband's brother,,,tonseawebsite,
-fHZ,ipau,,female ego's husband's sister,,,tonseawebsite,
-mBW,ipau,,male ego's brother's wife,,,tonseawebsite,
-fBW,ipau,,female ego's brother's wife,,,tonseawebsite,
-mZH,koséng,,male ego's sister's husband,,,tonseawebsite,
-fZH,koséng,,female ego's sister's husband,,,tonseawebsite,
-mFBS,kasudu,,male ego's father's brother's son,,,tonseawebsite,
-mFZS,kasudu,,male ego's father's sister's son,,,tonseawebsite,
-mMBS,kasudu,,male ego's mother's brother's son,,,tonseawebsite,
-mMZS,kasudu,,male ego's mother's sister's son,,,tonseawebsite,
-mFBD,kasudu,,male ego's father's brother's daughter,,,tonseawebsite,
-mFZD,kasudu,,male ego's father's sister's daughter,,,tonseawebsite,
-mMBD,kasudu,,male ego's mother's brother's daughter,,,tonseawebsite,
-mMZD,kasudu,,male ego's mother's sister's daughter,,,tonseawebsite,
-fFBS,kasudu,,female ego's father's brother's son,,,tonseawebsite,
-fFZS,kasudu,,female ego's father's sister's son,,,tonseawebsite,
-fMBS,kasudu,,female ego's mother's brother's son,,,tonseawebsite,
-fMZS,kasudu,,female ego's mother's sister's son,,,tonseawebsite,
-fFBD,kasudu,,female ego's father's brother's daughter,,,tonseawebsite,
-fFZD,kasudu,,female ego's father's sister's daughter,,,tonseawebsite,
-fMBD,kasudu,,female ego's mother's brother's daughter,,,tonseawebsite,
-fMZD,kasudu,,female ego's mother's sister's daughter,,,tonseawebsite,
-mFeBS,kasudu,,male ego's father's brother's son,,,tonseawebsite,Inferred; NA
-mFyBS,kasudu,,male ego's father's brother's son,,,tonseawebsite,Inferred; NA
-mFeZS,kasudu,,male ego's father's sister's son,,,tonseawebsite,Inferred; NA
-mFyZS,kasudu,,male ego's father's sister's son,,,tonseawebsite,Inferred; NA
-mFeBD,kasudu,,male ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-mFyBD,kasudu,,male ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-mFeZD,kasudu,,male ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-mFyZD,kasudu,,male ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-mMeBS,kasudu,,male ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-mMyBS,kasudu,,male ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-mMeZS,kasudu,,male ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-mMyZS,kasudu,,male ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-mMeBD,kasudu,,male ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-mMyBD,kasudu,,male ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-mMeZD,kasudu,,male ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-mMyZD,kasudu,,male ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-mFBeS,kasudu,,male ego's father's brother's son,,,tonseawebsite,Inferred; NA
-mFByS,kasudu,,male ego's father's brother's son,,,tonseawebsite,Inferred; NA
-mFZeS,kasudu,,male ego's father's sister's son,,,tonseawebsite,Inferred; NA
-mFZyS,kasudu,,male ego's father's sister's son,,,tonseawebsite,Inferred; NA
-mFBeD,kasudu,,male ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-mFByD,kasudu,,male ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-mFZeD,kasudu,,male ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-mFZyD,kasudu,,male ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-mMBeS,kasudu,,male ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-mMByS,kasudu,,male ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-mMZeS,kasudu,,male ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-mMZyS,kasudu,,male ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-mMBeD,kasudu,,male ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-mMByD,kasudu,,male ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-mMZeD,kasudu,,male ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-mMZyD,kasudu,,male ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-fFeBS,kasudu,,female ego's father's brother's son,,,tonseawebsite,Inferred; NA
-fFyBS,kasudu,,female ego's father's brother's son,,,tonseawebsite,Inferred; NA
-fFeZS,kasudu,,female ego's father's sister's son,,,tonseawebsite,Inferred; NA
-fFyZS,kasudu,,female ego's father's sister's son,,,tonseawebsite,Inferred; NA
-fFeBD,kasudu,,female ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-fFyBD,kasudu,,female ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-fFeZD,kasudu,,female ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-fFyZD,kasudu,,female ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-fMeBS,kasudu,,female ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-fMyBS,kasudu,,female ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-fMeZS,kasudu,,female ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-fMyZS,kasudu,,female ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-fMeBD,kasudu,,female ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-fMyBD,kasudu,,female ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-fMeZD,kasudu,,female ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-fMyZD,kasudu,,female ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-fFBeS,kasudu,,female ego's father's brother's son,,,tonseawebsite,Inferred; NA
-fFByS,kasudu,,female ego's father's brother's son,,,tonseawebsite,Inferred; NA
-fFZeS,kasudu,,female ego's father's sister's son,,,tonseawebsite,Inferred; NA
-fFZyS,kasudu,,female ego's father's sister's son,,,tonseawebsite,Inferred; NA
-fFBeD,kasudu,,female ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-fFByD,kasudu,,female ego's father's brother's daughter,,,tonseawebsite,Inferred; NA
-fFZeD,kasudu,,female ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-fFZyD,kasudu,,female ego's father's sister's daughter,,,tonseawebsite,Inferred; NA
-fMBeS,kasudu,,female ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-fMByS,kasudu,,female ego's mother's brother's son,,,tonseawebsite,Inferred; NA
-fMZeS,kasudu,,female ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-fMZyS,kasudu,,female ego's mother's sister's son,,,tonseawebsite,Inferred; NA
-fMBeD,kasudu,,female ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-fMByD,kasudu,,female ego's mother's brother's daughter,,,tonseawebsite,Inferred; NA
-fMZeD,kasudu,,female ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
-fMZyD,kasudu,,female ego's mother's sister's daughter,,,tonseawebsite,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kaka' tuama",,"male ego's older brother",,,"tonseawebsite",""
+"myB","tuari tuama",,"male ego's younger brother",,,"tonseawebsite",""
+"feB","kaka' tuama",,"female ego's older brother",,,"tonseawebsite",""
+"fyB","tuari tuama",,"female ego's younger brother",,,"tonseawebsite",""
+"meZ","kakak wewene",,"male ego's older sister",,,"tonseawebsite",""
+"myZ","tuari wewene",,"male ego's younger sister",,,"tonseawebsite",""
+"feZ","kakak wewene",,"female ego's older sister",,,"tonseawebsite",""
+"fyZ","tuari wewene",,"female ego's younger sister",,,"tonseawebsite",""
+"mF","ama', bu'",,"male ego's father",,,"tonseawebsite",""
+"mM","ina', ci'",,"male ego's mother",,,"tonseawebsite",""
+"fF","ama', bu'",,"female ego's father",,,"tonseawebsite",""
+"fM","ina', ci'",,"female ego's mother",,,"tonseawebsite",""
+"mS","rinté",,"male ego's son",,,"tonseawebsite",""
+"fS","rinté",,"female ego's son",,,"tonseawebsite",""
+"mD","rinté",,"male ego's daughter",,,"tonseawebsite",""
+"fD","rinté",,"female ego's daughter",,,"tonseawebsite",""
+"mFF","tété",,"male ego's father‘s father",,,"tonseawebsite",""
+"mFM","néné",,"male ego's father's mother",,,"tonseawebsite",""
+"mMF","tété",,"male ego's mother's father",,,"tonseawebsite",""
+"mMM","néné",,"male ego's mother's mother",,,"tonseawebsite",""
+"fFF","tété",,"female ego's father's father",,,"tonseawebsite",""
+"fFM","néné",,"female ego's father's mother",,,"tonseawebsite",""
+"fMF","tété",,"female ego's mother's father",,,"tonseawebsite",""
+"fMM","néné",,"female ego's mother's mother",,,"tonseawebsite",""
+"meBS","paanaken tuama",,"male ego's older brother's son",,,"tonseawebsite",""
+"myBS","paanaken tuama",,"male ego's younger brother's son",,,"tonseawebsite",""
+"meZS","paanaken tuama",,"male ego's older sister's son",,,"tonseawebsite",""
+"myZS","paanaken tuama",,"male ego's younger sister's son",,,"tonseawebsite",""
+"meBD","paanaken wewéné",,"male ego's older brother's daughter",,,"tonseawebsite",""
+"myBD","paanaken wewéné",,"male ego's younger brother's daughter",,,"tonseawebsite",""
+"meZD","paanaken wewéné",,"male ego's older sister's daughter",,,"tonseawebsite",""
+"myZD","paanaken wewéné",,"male ego's younger sister's daughter",,,"tonseawebsite",""
+"feBS","paanaken tuama",,"female ego's older brother's son",,,"tonseawebsite",""
+"fyBS","paanaken tuama",,"female ego's younger brother's son",,,"tonseawebsite",""
+"feZS","paanaken tuama",,"female ego's older sister's son",,,"tonseawebsite",""
+"fyZS","paanaken tuama",,"female ego's younger sister's son",,,"tonseawebsite",""
+"feBD","paanaken wewéné",,"female ego's older brother's daughter",,,"tonseawebsite",""
+"fyBD","paanaken wewéné",,"female ego's younger brother's daughter",,,"tonseawebsite",""
+"feZD","paanaken wewéné",,"female ego's older sister's daughter",,,"tonseawebsite",""
+"fyZD","paanaken wewéné",,"female ego's younger sister's daughter",,,"tonseawebsite",""
+"mFeB","ito",,"male ego's father's older brother",,,"tonseawebsite",""
+"mFyB","ito",,"male ego's father's younger brother",,,"tonseawebsite",""
+"mFeZ","mui",,"male ego's father's older sister",,,"tonseawebsite",""
+"mFyZ","mui",,"male ego's father's younger sister",,,"tonseawebsite",""
+"mMeB","ito",,"male ego's mother's older brother",,,"tonseawebsite",""
+"mMyB","ito",,"male ego's mother's younger brother",,,"tonseawebsite",""
+"mMeZ","mui",,"male ego's mother's older sister",,,"tonseawebsite",""
+"mMyZ","mui",,"male ego's mother's younger sister",,,"tonseawebsite",""
+"fFeB","ito",,"female ego's father's older brother",,,"tonseawebsite",""
+"fFyB","ito",,"female ego's father's younger brother",,,"tonseawebsite",""
+"fFeZ","mui",,"female ego's father's older sister",,,"tonseawebsite",""
+"fFyZ","mui",,"female ego's father's younger sister",,,"tonseawebsite",""
+"fMeB","ito",,"female ego's mother's older brother",,,"tonseawebsite",""
+"fMyB","ito",,"female ego's mother's younger brother",,,"tonseawebsite",""
+"fMeZ","mui",,"female ego's mother's older sister",,,"tonseawebsite",""
+"fMyZ","mui",,"female ego's mother's younger sister",,,"tonseawebsite",""
+"mW","ka'awu, karia, katendé",,"male ego's wife",,,"tonseawebsite",""
+"fH","ka'awu",,"female ego‘s husband",,,"tonseawebsite",""
+"mDH","memosan tuama",,"male ego's daughter's husband",,,"tonseawebsite",""
+"fDH","memosan tuama",,"female ego's daughter's husband",,,"tonseawebsite",""
+"mSW","memosan wewéné",,"male ego's son's wife",,,"tonseawebsite",""
+"fSW","memosan wewéné",,"female ego's son's wife",,,"tonseawebsite",""
+"mWF","pemosanan tuama",,"male ego's wife's father",,,"tonseawebsite",""
+"mWM","pemosanan wewéné",,"male ego's wife's mother",,,"tonseawebsite",""
+"mWB","koséng",,"male ego's wife's brother",,,"tonseawebsite",""
+"mWZ","ipau",,"male ego's wife's sister",,,"tonseawebsite",""
+"fHF","pemosanan tuama",,"female ego's husband's father",,,"tonseawebsite",""
+"fHM","pemosanan wewéné",,"female ego's husband's mother",,,"tonseawebsite",""
+"fHB","koséng",,"female ego's husband's brother",,,"tonseawebsite",""
+"fHZ","ipau",,"female ego's husband's sister",,,"tonseawebsite",""
+"mBW","ipau",,"male ego's brother's wife",,,"tonseawebsite",""
+"fBW","ipau",,"female ego's brother's wife",,,"tonseawebsite",""
+"mZH","koséng",,"male ego's sister's husband",,,"tonseawebsite",""
+"fZH","koséng",,"female ego's sister's husband",,,"tonseawebsite",""
+"mFBS","kasudu",,"male ego's father's brother's son",,,"tonseawebsite",""
+"mFZS","kasudu",,"male ego's father's sister's son",,,"tonseawebsite",""
+"mMBS","kasudu",,"male ego's mother's brother's son",,,"tonseawebsite",""
+"mMZS","kasudu",,"male ego's mother's sister's son",,,"tonseawebsite",""
+"mFBD","kasudu",,"male ego's father's brother's daughter",,,"tonseawebsite",""
+"mFZD","kasudu",,"male ego's father's sister's daughter",,,"tonseawebsite",""
+"mMBD","kasudu",,"male ego's mother's brother's daughter",,,"tonseawebsite",""
+"mMZD","kasudu",,"male ego's mother's sister's daughter",,,"tonseawebsite",""
+"fFBS","kasudu",,"female ego's father's brother's son",,,"tonseawebsite",""
+"fFZS","kasudu",,"female ego's father's sister's son",,,"tonseawebsite",""
+"fMBS","kasudu",,"female ego's mother's brother's son",,,"tonseawebsite",""
+"fMZS","kasudu",,"female ego's mother's sister's son",,,"tonseawebsite",""
+"fFBD","kasudu",,"female ego's father's brother's daughter",,,"tonseawebsite",""
+"fFZD","kasudu",,"female ego's father's sister's daughter",,,"tonseawebsite",""
+"fMBD","kasudu",,"female ego's mother's brother's daughter",,,"tonseawebsite",""
+"fMZD","kasudu",,"female ego's mother's sister's daughter",,,"tonseawebsite",""
+"mFeBS","kasudu",,"male ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"mFyBS","kasudu",,"male ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"mFeZS","kasudu",,"male ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"mFyZS","kasudu",,"male ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"mFeBD","kasudu",,"male ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mFyBD","kasudu",,"male ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mFeZD","kasudu",,"male ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mFyZD","kasudu",,"male ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mMeBS","kasudu",,"male ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"mMyBS","kasudu",,"male ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"mMeZS","kasudu",,"male ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"mMyZS","kasudu",,"male ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"mMeBD","kasudu",,"male ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mMyBD","kasudu",,"male ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mMeZD","kasudu",,"male ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mMyZD","kasudu",,"male ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mFBeS","kasudu",,"male ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"mFByS","kasudu",,"male ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"mFZeS","kasudu",,"male ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"mFZyS","kasudu",,"male ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"mFBeD","kasudu",,"male ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mFByD","kasudu",,"male ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mFZeD","kasudu",,"male ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mFZyD","kasudu",,"male ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mMBeS","kasudu",,"male ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"mMByS","kasudu",,"male ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"mMZeS","kasudu",,"male ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"mMZyS","kasudu",,"male ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"mMBeD","kasudu",,"male ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mMByD","kasudu",,"male ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"mMZeD","kasudu",,"male ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"mMZyD","kasudu",,"male ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fFeBS","kasudu",,"female ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"fFyBS","kasudu",,"female ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"fFeZS","kasudu",,"female ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"fFyZS","kasudu",,"female ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"fFeBD","kasudu",,"female ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fFyBD","kasudu",,"female ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fFeZD","kasudu",,"female ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fFyZD","kasudu",,"female ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fMeBS","kasudu",,"female ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"fMyBS","kasudu",,"female ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"fMeZS","kasudu",,"female ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"fMyZS","kasudu",,"female ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"fMeBD","kasudu",,"female ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fMyBD","kasudu",,"female ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fMeZD","kasudu",,"female ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fMyZD","kasudu",,"female ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fFBeS","kasudu",,"female ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"fFByS","kasudu",,"female ego's father's brother's son",,,"tonseawebsite","Inferred; NA"
+"fFZeS","kasudu",,"female ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"fFZyS","kasudu",,"female ego's father's sister's son",,,"tonseawebsite","Inferred; NA"
+"fFBeD","kasudu",,"female ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fFByD","kasudu",,"female ego's father's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fFZeD","kasudu",,"female ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fFZyD","kasudu",,"female ego's father's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fMBeS","kasudu",,"female ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"fMByS","kasudu",,"female ego's mother's brother's son",,,"tonseawebsite","Inferred; NA"
+"fMZeS","kasudu",,"female ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"fMZyS","kasudu",,"female ego's mother's sister's son",,,"tonseawebsite","Inferred; NA"
+"fMBeD","kasudu",,"female ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fMByD","kasudu",,"female ego's mother's brother's daughter",,,"tonseawebsite","Inferred; NA"
+"fMZeD","kasudu",,"female ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"
+"fMZyD","kasudu",,"female ego's mother's sister's daughter",,,"tonseawebsite","Inferred; NA"

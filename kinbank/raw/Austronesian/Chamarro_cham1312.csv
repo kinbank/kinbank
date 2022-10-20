@@ -1,159 +1,159 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,chêlo,,male ego's older brother,,,Preissig1918,
-myB,chêlo,,male ego's younger brother,,,Preissig1918,
-feB,chêlo,,female ego's older brother,,,Preissig1918,
-fyB,chêlo,,female ego's younger brother,,,Preissig1918,
-meZ,chêla,,male ego's older sister,,,Preissig1918,
-myZ,chêla,,male ego's younger sister,,,Preissig1918,
-feZ,chêla,,female ego's older sister,,,Preissig1918,
-fyZ,chêla,,female ego's younger sister,,,Preissig1918,
-mF,tata,,male ego's father,,,Preissig1918,
-mM,"-nana, madre",,male ego's mother,,,Preissig1918,
-fF,tata,,female ego's father,,,Preissig1918,
-fM,"-nana, madre",,female ego's mother,,,Preissig1918,
-mS,laje na patgon,,male ego's son,,,Preissig1918,
-fS,laje na patgon,,female ego's son,,,Preissig1918,
-mD,"-ija, jaga",,male ego's daughter,,,Preissig1918,
-fD,"-ija, jaga",,female ego's daughter,,,Preissig1918,
-mSS,nieto,,male ego's son's son,,,Preissig1918,
-mSD,nieta,,male ego's son's daughter,,,Preissig1918,
-mDS,nieto,,male ego's daughter's son,,,Preissig1918,
-mDD,nieta,,male ego's daughter's daughter,,,Preissig1918,
-fSS,nieto,,female ego's son's son,,,Preissig1918,
-fSD,nieta,,female ego's son's daughter,,,Preissig1918,
-fDS,nieto,,female ego's daughter's son,,,Preissig1918,
-fDD,nieta,,female ego's daugher's daughter,,,Preissig1918,
-mFF,guelo,,male ego's father‘s father,,,Preissig1918,
-mFM,guela,,male ego's father's mother,,,Preissig1918,
-mMF,guelo,,male ego's mother's father,,,Preissig1918,
-mMM,guela,,male ego's mother's mother,,,Preissig1918,
-fFF,guelo,,female ego's father's father,,,Preissig1918,
-fFM,guela,,female ego's father's mother,,,Preissig1918,
-fMF,guelo,,female ego's mother's father,,,Preissig1918,
-fMM,guela,,female ego's mother's mother,,,Preissig1918,
-meBS,sobrino,,male ego's older brother's son,,,Preissig1918,
-myBS,sobrino,,male ego's younger brother's son,,,Preissig1918,
-meZS,sobrino,,male ego's older sister's son,,,Preissig1918,
-myZS,sobrino,,male ego's younger sister's son,,,Preissig1918,
-meBD,sobrina,,male ego's older brother's daughter,,,Preissig1918,
-myBD,sobrina,,male ego's younger brother's daughter,,,Preissig1918,
-meZD,sobrina,,male ego's older sister's daughter,,,Preissig1918,
-myZD,sobrina,,male ego's younger sister's daughter,,,Preissig1918,
-feBS,sobrino,,female ego's older brother's son,,,Preissig1918,
-fyBS,sobrino,,female ego's younger brother's son,,,Preissig1918,
-feZS,sobrino,,female ego's older sister's son,,,Preissig1918,
-fyZS,sobrino,,female ego's younger sister's son,,,Preissig1918,
-feBD,sobrina,,female ego's older brother's daughter,,,Preissig1918,
-fyBD,sobrina,,female ego's younger brother's daughter,,,Preissig1918,
-feZD,sobrina,,female ego's older sister's daughter,,,Preissig1918,
-fyZD,sobrina,,female ego's younger sister's daughter,,,Preissig1918,
-mFeB,tio,,male ego's father's older brother,,,Preissig1918,
-mFyB,tio,,male ego's father's younger brother,,,Preissig1918,
-mFeZ,tía,,male ego's father's older sister,,,Preissig1918,
-mFyZ,tía,,male ego's father's younger sister,,,Preissig1918,
-mMeB,tio,,male ego's mother's older brother,,,Preissig1918,
-mMyB,tio,,male ego's mother's younger brother,,,Preissig1918,
-mMeZ,tía,,male ego's mother's older sister,,,Preissig1918,
-mMyZ,tía,,male ego's mother's younger sister,,,Preissig1918,
-fFeB,tio,,female ego's father's older brother,,,Preissig1918,
-fFyB,tio,,female ego's father's younger brother,,,Preissig1918,
-fFeZ,tía,,female ego's father's older sister,,,Preissig1918,
-fFyZ,tía,,female ego's father's younger sister,,,Preissig1918,
-fMeB,tio,,female ego's mother's older brother,,,Preissig1918,
-fMyB,tio,,female ego's mother's younger brother,,,Preissig1918,
-fMeZ,tía,,female ego's mother's older sister,,,Preissig1918,
-fMyZ,tía,,female ego's mother's younger sister,,,Preissig1918,
-mW,aságua,,male ego's wife,,,Preissig1918,
-fH,esposa,,female ego‘s husband,,,Preissig1918,
-mWF,suegro,,male ego's wife's father,,,Preissig1918,
-mWM,suegra,,male ego's wife's mother,,,Preissig1918,
-mWB,cuñado,,male ego's wife's brother,,,Preissig1918,
-mWZ,cuñada,,male ego's wife's sister,,,Preissig1918,
-fHF,suegro,,female ego's husband's father,,,Preissig1918,
-fHM,suegra,,female ego's husband's mother,,,Preissig1918,
-fHB,cuñado,,female ego's husband's brother,,,Preissig1918,
-fHZ,cuñada,,female ego's husband's sister,,,Preissig1918,
-mBW,cuñada,,male ego's brother's wife,,,Preissig1918,
-fBW,cuñada,,female ego's brother's wife,,,Preissig1918,
-mZH,cuñado,,male ego's sister's husband,,,Preissig1918,
-fZH,cuñado,,female ego's sister's husband,,,Preissig1918,
-mFBS,primo,,male ego's father's brother's son,,,Preissig1918,
-mFZS,primo,,male ego's father's sister's son,,,Preissig1918,
-mMBS,primo,,male ego's mother's brother's son,,,Preissig1918,
-mMZS,primo,,male ego's mother's sister's son,,,Preissig1918,
-mFBD,prima,,male ego's father's brother's daughter,,,Preissig1918,
-mFZD,prima,,male ego's father's sister's daughter,,,Preissig1918,
-mMBD,prima,,male ego's mother's brother's daughter,,,Preissig1918,
-mMZD,prima,,male ego's mother's sister's daughter,,,Preissig1918,
-fFBS,primo,,female ego's father's brother's son,,,Preissig1918,
-fFZS,primo,,female ego's father's sister's son,,,Preissig1918,
-fMBS,primo,,female ego's mother's brother's son,,,Preissig1918,
-fMZS,primo,,female ego's mother's sister's son,,,Preissig1918,
-fFBD,prima,,female ego's father's brother's daughter,,,Preissig1918,
-fFZD,prima,,female ego's father's sister's daughter,,,Preissig1918,
-fMBD,prima,,female ego's mother's brother's daughter,,,Preissig1918,
-fMZD,prima,,female ego's mother's sister's daughter,,,Preissig1918,
-mFeBS,primo,,male ego's father's brother's son,,,Preissig1918,Inferred; NA
-mFyBS,primo,,male ego's father's brother's son,,,Preissig1918,Inferred; NA
-mFeZS,primo,,male ego's father's sister's son,,,Preissig1918,Inferred; NA
-mFyZS,primo,,male ego's father's sister's son,,,Preissig1918,Inferred; NA
-mFeBD,prima,,male ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-mFyBD,prima,,male ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-mFeZD,prima,,male ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-mFyZD,prima,,male ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-mMeBS,primo,,male ego's mother's brother's son,,,Preissig1918,Inferred; NA
-mMyBS,primo,,male ego's mother's brother's son,,,Preissig1918,Inferred; NA
-mMeZS,primo,,male ego's mother's sister's son,,,Preissig1918,Inferred; NA
-mMyZS,primo,,male ego's mother's sister's son,,,Preissig1918,Inferred; NA
-mMeBD,prima,,male ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-mMyBD,prima,,male ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-mMeZD,prima,,male ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-mMyZD,prima,,male ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-mFBeS,primo,,male ego's father's brother's son,,,Preissig1918,Inferred; NA
-mFByS,primo,,male ego's father's brother's son,,,Preissig1918,Inferred; NA
-mFZeS,primo,,male ego's father's sister's son,,,Preissig1918,Inferred; NA
-mFZyS,primo,,male ego's father's sister's son,,,Preissig1918,Inferred; NA
-mFBeD,prima,,male ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-mFByD,prima,,male ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-mFZeD,prima,,male ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-mFZyD,prima,,male ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-mMBeS,primo,,male ego's mother's brother's son,,,Preissig1918,Inferred; NA
-mMByS,primo,,male ego's mother's brother's son,,,Preissig1918,Inferred; NA
-mMZeS,primo,,male ego's mother's sister's son,,,Preissig1918,Inferred; NA
-mMZyS,primo,,male ego's mother's sister's son,,,Preissig1918,Inferred; NA
-mMBeD,prima,,male ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-mMByD,prima,,male ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-mMZeD,prima,,male ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-mMZyD,prima,,male ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-fFeBS,primo,,female ego's father's brother's son,,,Preissig1918,Inferred; NA
-fFyBS,primo,,female ego's father's brother's son,,,Preissig1918,Inferred; NA
-fFeZS,primo,,female ego's father's sister's son,,,Preissig1918,Inferred; NA
-fFyZS,primo,,female ego's father's sister's son,,,Preissig1918,Inferred; NA
-fFeBD,prima,,female ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-fFyBD,prima,,female ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-fFeZD,prima,,female ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-fFyZD,prima,,female ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-fMeBS,primo,,female ego's mother's brother's son,,,Preissig1918,Inferred; NA
-fMyBS,primo,,female ego's mother's brother's son,,,Preissig1918,Inferred; NA
-fMeZS,primo,,female ego's mother's sister's son,,,Preissig1918,Inferred; NA
-fMyZS,primo,,female ego's mother's sister's son,,,Preissig1918,Inferred; NA
-fMeBD,prima,,female ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-fMyBD,prima,,female ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-fMeZD,prima,,female ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-fMyZD,prima,,female ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-fFBeS,primo,,female ego's father's brother's son,,,Preissig1918,Inferred; NA
-fFByS,primo,,female ego's father's brother's son,,,Preissig1918,Inferred; NA
-fFZeS,primo,,female ego's father's sister's son,,,Preissig1918,Inferred; NA
-fFZyS,primo,,female ego's father's sister's son,,,Preissig1918,Inferred; NA
-fFBeD,prima,,female ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-fFByD,prima,,female ego's father's brother's daughter,,,Preissig1918,Inferred; NA
-fFZeD,prima,,female ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-fFZyD,prima,,female ego's father's sister's daughter,,,Preissig1918,Inferred; NA
-fMBeS,primo,,female ego's mother's brother's son,,,Preissig1918,Inferred; NA
-fMByS,primo,,female ego's mother's brother's son,,,Preissig1918,Inferred; NA
-fMZeS,primo,,female ego's mother's sister's son,,,Preissig1918,Inferred; NA
-fMZyS,primo,,female ego's mother's sister's son,,,Preissig1918,Inferred; NA
-fMBeD,prima,,female ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-fMByD,prima,,female ego's mother's brother's daughter,,,Preissig1918,Inferred; NA
-fMZeD,prima,,female ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
-fMZyD,prima,,female ego's mother's sister's daughter,,,Preissig1918,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","chêlo",,"male ego's older brother",,,"Preissig1918",""
+"myB","chêlo",,"male ego's younger brother",,,"Preissig1918",""
+"feB","chêlo",,"female ego's older brother",,,"Preissig1918",""
+"fyB","chêlo",,"female ego's younger brother",,,"Preissig1918",""
+"meZ","chêla",,"male ego's older sister",,,"Preissig1918",""
+"myZ","chêla",,"male ego's younger sister",,,"Preissig1918",""
+"feZ","chêla",,"female ego's older sister",,,"Preissig1918",""
+"fyZ","chêla",,"female ego's younger sister",,,"Preissig1918",""
+"mF","tata",,"male ego's father",,,"Preissig1918",""
+"mM","-nana, madre",,"male ego's mother",,,"Preissig1918",""
+"fF","tata",,"female ego's father",,,"Preissig1918",""
+"fM","-nana, madre",,"female ego's mother",,,"Preissig1918",""
+"mS","laje na patgon",,"male ego's son",,,"Preissig1918",""
+"fS","laje na patgon",,"female ego's son",,,"Preissig1918",""
+"mD","-ija, jaga",,"male ego's daughter",,,"Preissig1918",""
+"fD","-ija, jaga",,"female ego's daughter",,,"Preissig1918",""
+"mSS","nieto",,"male ego's son's son",,,"Preissig1918",""
+"mSD","nieta",,"male ego's son's daughter",,,"Preissig1918",""
+"mDS","nieto",,"male ego's daughter's son",,,"Preissig1918",""
+"mDD","nieta",,"male ego's daughter's daughter",,,"Preissig1918",""
+"fSS","nieto",,"female ego's son's son",,,"Preissig1918",""
+"fSD","nieta",,"female ego's son's daughter",,,"Preissig1918",""
+"fDS","nieto",,"female ego's daughter's son",,,"Preissig1918",""
+"fDD","nieta",,"female ego's daugher's daughter",,,"Preissig1918",""
+"mFF","guelo",,"male ego's father‘s father",,,"Preissig1918",""
+"mFM","guela",,"male ego's father's mother",,,"Preissig1918",""
+"mMF","guelo",,"male ego's mother's father",,,"Preissig1918",""
+"mMM","guela",,"male ego's mother's mother",,,"Preissig1918",""
+"fFF","guelo",,"female ego's father's father",,,"Preissig1918",""
+"fFM","guela",,"female ego's father's mother",,,"Preissig1918",""
+"fMF","guelo",,"female ego's mother's father",,,"Preissig1918",""
+"fMM","guela",,"female ego's mother's mother",,,"Preissig1918",""
+"meBS","sobrino",,"male ego's older brother's son",,,"Preissig1918",""
+"myBS","sobrino",,"male ego's younger brother's son",,,"Preissig1918",""
+"meZS","sobrino",,"male ego's older sister's son",,,"Preissig1918",""
+"myZS","sobrino",,"male ego's younger sister's son",,,"Preissig1918",""
+"meBD","sobrina",,"male ego's older brother's daughter",,,"Preissig1918",""
+"myBD","sobrina",,"male ego's younger brother's daughter",,,"Preissig1918",""
+"meZD","sobrina",,"male ego's older sister's daughter",,,"Preissig1918",""
+"myZD","sobrina",,"male ego's younger sister's daughter",,,"Preissig1918",""
+"feBS","sobrino",,"female ego's older brother's son",,,"Preissig1918",""
+"fyBS","sobrino",,"female ego's younger brother's son",,,"Preissig1918",""
+"feZS","sobrino",,"female ego's older sister's son",,,"Preissig1918",""
+"fyZS","sobrino",,"female ego's younger sister's son",,,"Preissig1918",""
+"feBD","sobrina",,"female ego's older brother's daughter",,,"Preissig1918",""
+"fyBD","sobrina",,"female ego's younger brother's daughter",,,"Preissig1918",""
+"feZD","sobrina",,"female ego's older sister's daughter",,,"Preissig1918",""
+"fyZD","sobrina",,"female ego's younger sister's daughter",,,"Preissig1918",""
+"mFeB","tio",,"male ego's father's older brother",,,"Preissig1918",""
+"mFyB","tio",,"male ego's father's younger brother",,,"Preissig1918",""
+"mFeZ","tía",,"male ego's father's older sister",,,"Preissig1918",""
+"mFyZ","tía",,"male ego's father's younger sister",,,"Preissig1918",""
+"mMeB","tio",,"male ego's mother's older brother",,,"Preissig1918",""
+"mMyB","tio",,"male ego's mother's younger brother",,,"Preissig1918",""
+"mMeZ","tía",,"male ego's mother's older sister",,,"Preissig1918",""
+"mMyZ","tía",,"male ego's mother's younger sister",,,"Preissig1918",""
+"fFeB","tio",,"female ego's father's older brother",,,"Preissig1918",""
+"fFyB","tio",,"female ego's father's younger brother",,,"Preissig1918",""
+"fFeZ","tía",,"female ego's father's older sister",,,"Preissig1918",""
+"fFyZ","tía",,"female ego's father's younger sister",,,"Preissig1918",""
+"fMeB","tio",,"female ego's mother's older brother",,,"Preissig1918",""
+"fMyB","tio",,"female ego's mother's younger brother",,,"Preissig1918",""
+"fMeZ","tía",,"female ego's mother's older sister",,,"Preissig1918",""
+"fMyZ","tía",,"female ego's mother's younger sister",,,"Preissig1918",""
+"mW","aságua",,"male ego's wife",,,"Preissig1918",""
+"fH","esposa",,"female ego‘s husband",,,"Preissig1918",""
+"mWF","suegro",,"male ego's wife's father",,,"Preissig1918",""
+"mWM","suegra",,"male ego's wife's mother",,,"Preissig1918",""
+"mWB","cuñado",,"male ego's wife's brother",,,"Preissig1918",""
+"mWZ","cuñada",,"male ego's wife's sister",,,"Preissig1918",""
+"fHF","suegro",,"female ego's husband's father",,,"Preissig1918",""
+"fHM","suegra",,"female ego's husband's mother",,,"Preissig1918",""
+"fHB","cuñado",,"female ego's husband's brother",,,"Preissig1918",""
+"fHZ","cuñada",,"female ego's husband's sister",,,"Preissig1918",""
+"mBW","cuñada",,"male ego's brother's wife",,,"Preissig1918",""
+"fBW","cuñada",,"female ego's brother's wife",,,"Preissig1918",""
+"mZH","cuñado",,"male ego's sister's husband",,,"Preissig1918",""
+"fZH","cuñado",,"female ego's sister's husband",,,"Preissig1918",""
+"mFBS","primo",,"male ego's father's brother's son",,,"Preissig1918",""
+"mFZS","primo",,"male ego's father's sister's son",,,"Preissig1918",""
+"mMBS","primo",,"male ego's mother's brother's son",,,"Preissig1918",""
+"mMZS","primo",,"male ego's mother's sister's son",,,"Preissig1918",""
+"mFBD","prima",,"male ego's father's brother's daughter",,,"Preissig1918",""
+"mFZD","prima",,"male ego's father's sister's daughter",,,"Preissig1918",""
+"mMBD","prima",,"male ego's mother's brother's daughter",,,"Preissig1918",""
+"mMZD","prima",,"male ego's mother's sister's daughter",,,"Preissig1918",""
+"fFBS","primo",,"female ego's father's brother's son",,,"Preissig1918",""
+"fFZS","primo",,"female ego's father's sister's son",,,"Preissig1918",""
+"fMBS","primo",,"female ego's mother's brother's son",,,"Preissig1918",""
+"fMZS","primo",,"female ego's mother's sister's son",,,"Preissig1918",""
+"fFBD","prima",,"female ego's father's brother's daughter",,,"Preissig1918",""
+"fFZD","prima",,"female ego's father's sister's daughter",,,"Preissig1918",""
+"fMBD","prima",,"female ego's mother's brother's daughter",,,"Preissig1918",""
+"fMZD","prima",,"female ego's mother's sister's daughter",,,"Preissig1918",""
+"mFeBS","primo",,"male ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"mFyBS","primo",,"male ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"mFeZS","primo",,"male ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"mFyZS","primo",,"male ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"mFeBD","prima",,"male ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mFyBD","prima",,"male ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mFeZD","prima",,"male ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mFyZD","prima",,"male ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mMeBS","primo",,"male ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"mMyBS","primo",,"male ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"mMeZS","primo",,"male ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"mMyZS","primo",,"male ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"mMeBD","prima",,"male ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mMyBD","prima",,"male ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mMeZD","prima",,"male ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mMyZD","prima",,"male ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mFBeS","primo",,"male ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"mFByS","primo",,"male ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"mFZeS","primo",,"male ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"mFZyS","primo",,"male ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"mFBeD","prima",,"male ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mFByD","prima",,"male ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mFZeD","prima",,"male ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mFZyD","prima",,"male ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mMBeS","primo",,"male ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"mMByS","primo",,"male ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"mMZeS","primo",,"male ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"mMZyS","primo",,"male ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"mMBeD","prima",,"male ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mMByD","prima",,"male ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"mMZeD","prima",,"male ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"mMZyD","prima",,"male ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fFeBS","primo",,"female ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"fFyBS","primo",,"female ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"fFeZS","primo",,"female ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"fFyZS","primo",,"female ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"fFeBD","prima",,"female ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fFyBD","prima",,"female ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fFeZD","prima",,"female ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fFyZD","prima",,"female ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fMeBS","primo",,"female ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"fMyBS","primo",,"female ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"fMeZS","primo",,"female ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"fMyZS","primo",,"female ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"fMeBD","prima",,"female ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fMyBD","prima",,"female ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fMeZD","prima",,"female ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fMyZD","prima",,"female ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fFBeS","primo",,"female ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"fFByS","primo",,"female ego's father's brother's son",,,"Preissig1918","Inferred; NA"
+"fFZeS","primo",,"female ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"fFZyS","primo",,"female ego's father's sister's son",,,"Preissig1918","Inferred; NA"
+"fFBeD","prima",,"female ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fFByD","prima",,"female ego's father's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fFZeD","prima",,"female ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fFZyD","prima",,"female ego's father's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fMBeS","primo",,"female ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"fMByS","primo",,"female ego's mother's brother's son",,,"Preissig1918","Inferred; NA"
+"fMZeS","primo",,"female ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"fMZyS","primo",,"female ego's mother's sister's son",,,"Preissig1918","Inferred; NA"
+"fMBeD","prima",,"female ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fMByD","prima",,"female ego's mother's brother's daughter",,,"Preissig1918","Inferred; NA"
+"fMZeD","prima",,"female ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"
+"fMZyD","prima",,"female ego's mother's sister's daughter",,,"Preissig1918","Inferred; NA"

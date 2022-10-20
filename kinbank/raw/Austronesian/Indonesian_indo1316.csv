@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kakak,,male ego's older brother,,,ShioharaPC,
-myB,adik,,male ego's younger brother,,,ShioharaPC,
-feB,kakak,,female ego's older brother,,,ShioharaPC,
-fyB,adik,,female ego's younger brother,,,ShioharaPC,
-meZ,kakak,,male ego's older sister,,,ShioharaPC,
-myZ,adik,,male ego's younger sister,,,ShioharaPC,
-feZ,kakak,,female ego's older sister,,,ShioharaPC,
-fyZ,adik,,female ego's younger sister,,,ShioharaPC,
-mF,babak,,male ego's father,,,ShioharaPC,
-mM,ibu,,male ego's mother,,,ShioharaPC,
-fF,babak,,female ego's father,,,ShioharaPC,
-fM,ibu,,female ego's mother,,,ShioharaPC,
-mS,anak,,male ego's son,,,ShioharaPC,
-fS,anak,,female ego's son,,,ShioharaPC,
-mD,anak,,male ego's daughter,,,ShioharaPC,
-fD,anak,,female ego's daughter,,,ShioharaPC,
-mSS,tjutju,,male ego's son's son,,,ShioharaPC,
-mSD,tjutju,,male ego's son's daughter,,,ShioharaPC,
-mDS,tjutju,,male ego's daughter's son,,,ShioharaPC,
-mDD,tjutju,,male ego's daughter's daughter,,,ShioharaPC,
-fSS,tjutju,,female ego's son's son,,,ShioharaPC,
-fSD,tjutju,,female ego's son's daughter,,,ShioharaPC,
-fDS,tjutju,,female ego's daughter's son,,,ShioharaPC,
-fDD,tjutju,,female ego's daugher's daughter,,,ShioharaPC,
-mFF,nénék,,male ego's father‘s father,,,ShioharaPC,
-mFM,nénék,,male ego's father's mother,,,ShioharaPC,
-mMF,nénék,,male ego's mother's father,,,ShioharaPC,
-mMM,nénék,,male ego's mother's mother,,,ShioharaPC,
-fFF,nénék,,female ego's father's father,,,ShioharaPC,
-fFM,nénék,,female ego's father's mother,,,ShioharaPC,
-fMF,nénék,,female ego's mother's father,,,ShioharaPC,
-fMM,nénék,,female ego's mother's mother,,,ShioharaPC,
-meBS,kemanakan,,male ego's older brother's son,,,ShioharaPC,
-myBS,kemanakan,,male ego's younger brother's son,,,ShioharaPC,
-meZS,kemanakan,,male ego's older sister's son,,,ShioharaPC,
-myZS,kemanakan,,male ego's younger sister's son,,,ShioharaPC,
-meBD,kemanakan,,male ego's older brother's daughter,,,ShioharaPC,
-myBD,kemanakan,,male ego's younger brother's daughter,,,ShioharaPC,
-meZD,kemanakan,,male ego's older sister's daughter,,,ShioharaPC,
-myZD,kemanakan,,male ego's younger sister's daughter,,,ShioharaPC,
-feBS,kemanakan,,female ego's older brother's son,,,ShioharaPC,
-fyBS,kemanakan,,female ego's younger brother's son,,,ShioharaPC,
-feZS,kemanakan,,female ego's older sister's son,,,ShioharaPC,
-fyZS,kemanakan,,female ego's younger sister's son,,,ShioharaPC,
-feBD,kemanakan,,female ego's older brother's daughter,,,ShioharaPC,
-fyBD,kemanakan,,female ego's younger brother's daughter,,,ShioharaPC,
-feZD,kemanakan,,female ego's older sister's daughter,,,ShioharaPC,
-fyZD,kemanakan,,female ego's younger sister's daughter,,,ShioharaPC,
-mFeB,paman,,male ego's father's older brother,,,ShioharaPC,
-mFyB,paman,,male ego's father's younger brother,,,ShioharaPC,
-mFeZ,bibi,,male ego's father's older sister,,,ShioharaPC,
-mFyZ,bibi,,male ego's father's younger sister,,,ShioharaPC,
-mMeB,paman,,male ego's mother's older brother,,,ShioharaPC,
-mMyB,paman,,male ego's mother's younger brother,,,ShioharaPC,
-mMeZ,bibi,,male ego's mother's older sister,,,ShioharaPC,
-mMyZ,bibi,,male ego's mother's younger sister,,,ShioharaPC,
-fFeB,paman,,female ego's father's older brother,,,ShioharaPC,
-fFyB,paman,,female ego's father's younger brother,,,ShioharaPC,
-fFeZ,bibi,,female ego's father's older sister,,,ShioharaPC,
-fFyZ,bibi,,female ego's father's younger sister,,,ShioharaPC,
-fMeB,paman,,female ego's mother's older brother,,,ShioharaPC,
-fMyB,paman,,female ego's mother's younger brother,,,ShioharaPC,
-fMeZ,bibi,,female ego's mother's older sister,,,ShioharaPC,
-fMyZ,bibi,,female ego's mother's younger sister,,,ShioharaPC,
-mW,isteri,,male ego's wife,,,ShioharaPC,
-fH,suami,,female ego‘s husband,,,ShioharaPC,
-mDH,menantu,,male ego's daughter's husband,,,ShioharaPC,
-fDH,menantu,,female ego's daughter's husband,,,ShioharaPC,
-mSW,menantu,,male ego's son's wife,,,ShioharaPC,
-fSW,menantu,,female ego's son's wife,,,ShioharaPC,
-mWF,mertua,,male ego's wife's father,,,ShioharaPC,
-mWM,mertua,,male ego's wife's mother,,,ShioharaPC,
-mWB,ipar,,male ego's wife's brother,,,ShioharaPC,
-mWZ,ipar,,male ego's wife's sister,,,ShioharaPC,
-fHF,mertua,,female ego's husband's father,,,ShioharaPC,
-fHM,mertua,,female ego's husband's mother,,,ShioharaPC,
-fHB,ipar,,female ego's husband's brother,,,ShioharaPC,
-fHZ,ipar,,female ego's husband's sister,,,ShioharaPC,
-mBW,ipar,,male ego's brother's wife,,,ShioharaPC,
-fBW,ipar,,female ego's brother's wife,,,ShioharaPC,
-mZH,ipar,,male ego's sister's husband,,,ShioharaPC,
-fZH,ipar,,female ego's sister's husband,,,ShioharaPC,
-mFBS,sepupu,,male ego's father's brother's son,,,ShioharaPC,
-mFZS,sepupu,,male ego's father's sister's son,,,ShioharaPC,
-mMBS,sepupu,,male ego's mother's brother's son,,,ShioharaPC,
-mMZS,sepupu,,male ego's mother's sister's son,,,ShioharaPC,
-mFBD,sepupu,,male ego's father's brother's daughter,,,ShioharaPC,
-mFZD,sepupu,,male ego's father's sister's daughter,,,ShioharaPC,
-mMBD,sepupu,,male ego's mother's brother's daughter,,,ShioharaPC,
-mMZD,sepupu,,male ego's mother's sister's daughter,,,ShioharaPC,
-fFBS,sepupu,,female ego's father's brother's son,,,ShioharaPC,
-fFZS,sepupu,,female ego's father's sister's son,,,ShioharaPC,
-fMBS,sepupu,,female ego's mother's brother's son,,,ShioharaPC,
-fMZS,sepupu,,female ego's mother's sister's son,,,ShioharaPC,
-fFBD,sepupu,,female ego's father's brother's daughter,,,ShioharaPC,
-fFZD,sepupu,,female ego's father's sister's daughter,,,ShioharaPC,
-fMBD,sepupu,,female ego's mother's brother's daughter,,,ShioharaPC,
-fMZD,sepupu,,female ego's mother's sister's daughter,,,ShioharaPC,
-mFeBS,sepupu,,male ego's father's brother's son,,,ShioharaPC,Inferred; NA
-mFyBS,sepupu,,male ego's father's brother's son,,,ShioharaPC,Inferred; NA
-mFeZS,sepupu,,male ego's father's sister's son,,,ShioharaPC,Inferred; NA
-mFyZS,sepupu,,male ego's father's sister's son,,,ShioharaPC,Inferred; NA
-mFeBD,sepupu,,male ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-mFyBD,sepupu,,male ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-mFeZD,sepupu,,male ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-mFyZD,sepupu,,male ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-mMeBS,sepupu,,male ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-mMyBS,sepupu,,male ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-mMeZS,sepupu,,male ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-mMyZS,sepupu,,male ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-mMeBD,sepupu,,male ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-mMyBD,sepupu,,male ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-mMeZD,sepupu,,male ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-mMyZD,sepupu,,male ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-mFBeS,sepupu,,male ego's father's brother's son,,,ShioharaPC,Inferred; NA
-mFByS,sepupu,,male ego's father's brother's son,,,ShioharaPC,Inferred; NA
-mFZeS,sepupu,,male ego's father's sister's son,,,ShioharaPC,Inferred; NA
-mFZyS,sepupu,,male ego's father's sister's son,,,ShioharaPC,Inferred; NA
-mFBeD,sepupu,,male ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-mFByD,sepupu,,male ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-mFZeD,sepupu,,male ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-mFZyD,sepupu,,male ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-mMBeS,sepupu,,male ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-mMByS,sepupu,,male ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-mMZeS,sepupu,,male ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-mMZyS,sepupu,,male ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-mMBeD,sepupu,,male ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-mMByD,sepupu,,male ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-mMZeD,sepupu,,male ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-mMZyD,sepupu,,male ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-fFeBS,sepupu,,female ego's father's brother's son,,,ShioharaPC,Inferred; NA
-fFyBS,sepupu,,female ego's father's brother's son,,,ShioharaPC,Inferred; NA
-fFeZS,sepupu,,female ego's father's sister's son,,,ShioharaPC,Inferred; NA
-fFyZS,sepupu,,female ego's father's sister's son,,,ShioharaPC,Inferred; NA
-fFeBD,sepupu,,female ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-fFyBD,sepupu,,female ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-fFeZD,sepupu,,female ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-fFyZD,sepupu,,female ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-fMeBS,sepupu,,female ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-fMyBS,sepupu,,female ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-fMeZS,sepupu,,female ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-fMyZS,sepupu,,female ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-fMeBD,sepupu,,female ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-fMyBD,sepupu,,female ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-fMeZD,sepupu,,female ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-fMyZD,sepupu,,female ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-fFBeS,sepupu,,female ego's father's brother's son,,,ShioharaPC,Inferred; NA
-fFByS,sepupu,,female ego's father's brother's son,,,ShioharaPC,Inferred; NA
-fFZeS,sepupu,,female ego's father's sister's son,,,ShioharaPC,Inferred; NA
-fFZyS,sepupu,,female ego's father's sister's son,,,ShioharaPC,Inferred; NA
-fFBeD,sepupu,,female ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-fFByD,sepupu,,female ego's father's brother's daughter,,,ShioharaPC,Inferred; NA
-fFZeD,sepupu,,female ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-fFZyD,sepupu,,female ego's father's sister's daughter,,,ShioharaPC,Inferred; NA
-fMBeS,sepupu,,female ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-fMByS,sepupu,,female ego's mother's brother's son,,,ShioharaPC,Inferred; NA
-fMZeS,sepupu,,female ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-fMZyS,sepupu,,female ego's mother's sister's son,,,ShioharaPC,Inferred; NA
-fMBeD,sepupu,,female ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-fMByD,sepupu,,female ego's mother's brother's daughter,,,ShioharaPC,Inferred; NA
-fMZeD,sepupu,,female ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
-fMZyD,sepupu,,female ego's mother's sister's daughter,,,ShioharaPC,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kakak",,"male ego's older brother",,,"ShioharaPC",""
+"myB","adik",,"male ego's younger brother",,,"ShioharaPC",""
+"feB","kakak",,"female ego's older brother",,,"ShioharaPC",""
+"fyB","adik",,"female ego's younger brother",,,"ShioharaPC",""
+"meZ","kakak",,"male ego's older sister",,,"ShioharaPC",""
+"myZ","adik",,"male ego's younger sister",,,"ShioharaPC",""
+"feZ","kakak",,"female ego's older sister",,,"ShioharaPC",""
+"fyZ","adik",,"female ego's younger sister",,,"ShioharaPC",""
+"mF","babak",,"male ego's father",,,"ShioharaPC",""
+"mM","ibu",,"male ego's mother",,,"ShioharaPC",""
+"fF","babak",,"female ego's father",,,"ShioharaPC",""
+"fM","ibu",,"female ego's mother",,,"ShioharaPC",""
+"mS","anak",,"male ego's son",,,"ShioharaPC",""
+"fS","anak",,"female ego's son",,,"ShioharaPC",""
+"mD","anak",,"male ego's daughter",,,"ShioharaPC",""
+"fD","anak",,"female ego's daughter",,,"ShioharaPC",""
+"mSS","tjutju",,"male ego's son's son",,,"ShioharaPC",""
+"mSD","tjutju",,"male ego's son's daughter",,,"ShioharaPC",""
+"mDS","tjutju",,"male ego's daughter's son",,,"ShioharaPC",""
+"mDD","tjutju",,"male ego's daughter's daughter",,,"ShioharaPC",""
+"fSS","tjutju",,"female ego's son's son",,,"ShioharaPC",""
+"fSD","tjutju",,"female ego's son's daughter",,,"ShioharaPC",""
+"fDS","tjutju",,"female ego's daughter's son",,,"ShioharaPC",""
+"fDD","tjutju",,"female ego's daugher's daughter",,,"ShioharaPC",""
+"mFF","nénék",,"male ego's father‘s father",,,"ShioharaPC",""
+"mFM","nénék",,"male ego's father's mother",,,"ShioharaPC",""
+"mMF","nénék",,"male ego's mother's father",,,"ShioharaPC",""
+"mMM","nénék",,"male ego's mother's mother",,,"ShioharaPC",""
+"fFF","nénék",,"female ego's father's father",,,"ShioharaPC",""
+"fFM","nénék",,"female ego's father's mother",,,"ShioharaPC",""
+"fMF","nénék",,"female ego's mother's father",,,"ShioharaPC",""
+"fMM","nénék",,"female ego's mother's mother",,,"ShioharaPC",""
+"meBS","kemanakan",,"male ego's older brother's son",,,"ShioharaPC",""
+"myBS","kemanakan",,"male ego's younger brother's son",,,"ShioharaPC",""
+"meZS","kemanakan",,"male ego's older sister's son",,,"ShioharaPC",""
+"myZS","kemanakan",,"male ego's younger sister's son",,,"ShioharaPC",""
+"meBD","kemanakan",,"male ego's older brother's daughter",,,"ShioharaPC",""
+"myBD","kemanakan",,"male ego's younger brother's daughter",,,"ShioharaPC",""
+"meZD","kemanakan",,"male ego's older sister's daughter",,,"ShioharaPC",""
+"myZD","kemanakan",,"male ego's younger sister's daughter",,,"ShioharaPC",""
+"feBS","kemanakan",,"female ego's older brother's son",,,"ShioharaPC",""
+"fyBS","kemanakan",,"female ego's younger brother's son",,,"ShioharaPC",""
+"feZS","kemanakan",,"female ego's older sister's son",,,"ShioharaPC",""
+"fyZS","kemanakan",,"female ego's younger sister's son",,,"ShioharaPC",""
+"feBD","kemanakan",,"female ego's older brother's daughter",,,"ShioharaPC",""
+"fyBD","kemanakan",,"female ego's younger brother's daughter",,,"ShioharaPC",""
+"feZD","kemanakan",,"female ego's older sister's daughter",,,"ShioharaPC",""
+"fyZD","kemanakan",,"female ego's younger sister's daughter",,,"ShioharaPC",""
+"mFeB","paman",,"male ego's father's older brother",,,"ShioharaPC",""
+"mFyB","paman",,"male ego's father's younger brother",,,"ShioharaPC",""
+"mFeZ","bibi",,"male ego's father's older sister",,,"ShioharaPC",""
+"mFyZ","bibi",,"male ego's father's younger sister",,,"ShioharaPC",""
+"mMeB","paman",,"male ego's mother's older brother",,,"ShioharaPC",""
+"mMyB","paman",,"male ego's mother's younger brother",,,"ShioharaPC",""
+"mMeZ","bibi",,"male ego's mother's older sister",,,"ShioharaPC",""
+"mMyZ","bibi",,"male ego's mother's younger sister",,,"ShioharaPC",""
+"fFeB","paman",,"female ego's father's older brother",,,"ShioharaPC",""
+"fFyB","paman",,"female ego's father's younger brother",,,"ShioharaPC",""
+"fFeZ","bibi",,"female ego's father's older sister",,,"ShioharaPC",""
+"fFyZ","bibi",,"female ego's father's younger sister",,,"ShioharaPC",""
+"fMeB","paman",,"female ego's mother's older brother",,,"ShioharaPC",""
+"fMyB","paman",,"female ego's mother's younger brother",,,"ShioharaPC",""
+"fMeZ","bibi",,"female ego's mother's older sister",,,"ShioharaPC",""
+"fMyZ","bibi",,"female ego's mother's younger sister",,,"ShioharaPC",""
+"mW","isteri",,"male ego's wife",,,"ShioharaPC",""
+"fH","suami",,"female ego‘s husband",,,"ShioharaPC",""
+"mDH","menantu",,"male ego's daughter's husband",,,"ShioharaPC",""
+"fDH","menantu",,"female ego's daughter's husband",,,"ShioharaPC",""
+"mSW","menantu",,"male ego's son's wife",,,"ShioharaPC",""
+"fSW","menantu",,"female ego's son's wife",,,"ShioharaPC",""
+"mWF","mertua",,"male ego's wife's father",,,"ShioharaPC",""
+"mWM","mertua",,"male ego's wife's mother",,,"ShioharaPC",""
+"mWB","ipar",,"male ego's wife's brother",,,"ShioharaPC",""
+"mWZ","ipar",,"male ego's wife's sister",,,"ShioharaPC",""
+"fHF","mertua",,"female ego's husband's father",,,"ShioharaPC",""
+"fHM","mertua",,"female ego's husband's mother",,,"ShioharaPC",""
+"fHB","ipar",,"female ego's husband's brother",,,"ShioharaPC",""
+"fHZ","ipar",,"female ego's husband's sister",,,"ShioharaPC",""
+"mBW","ipar",,"male ego's brother's wife",,,"ShioharaPC",""
+"fBW","ipar",,"female ego's brother's wife",,,"ShioharaPC",""
+"mZH","ipar",,"male ego's sister's husband",,,"ShioharaPC",""
+"fZH","ipar",,"female ego's sister's husband",,,"ShioharaPC",""
+"mFBS","sepupu",,"male ego's father's brother's son",,,"ShioharaPC",""
+"mFZS","sepupu",,"male ego's father's sister's son",,,"ShioharaPC",""
+"mMBS","sepupu",,"male ego's mother's brother's son",,,"ShioharaPC",""
+"mMZS","sepupu",,"male ego's mother's sister's son",,,"ShioharaPC",""
+"mFBD","sepupu",,"male ego's father's brother's daughter",,,"ShioharaPC",""
+"mFZD","sepupu",,"male ego's father's sister's daughter",,,"ShioharaPC",""
+"mMBD","sepupu",,"male ego's mother's brother's daughter",,,"ShioharaPC",""
+"mMZD","sepupu",,"male ego's mother's sister's daughter",,,"ShioharaPC",""
+"fFBS","sepupu",,"female ego's father's brother's son",,,"ShioharaPC",""
+"fFZS","sepupu",,"female ego's father's sister's son",,,"ShioharaPC",""
+"fMBS","sepupu",,"female ego's mother's brother's son",,,"ShioharaPC",""
+"fMZS","sepupu",,"female ego's mother's sister's son",,,"ShioharaPC",""
+"fFBD","sepupu",,"female ego's father's brother's daughter",,,"ShioharaPC",""
+"fFZD","sepupu",,"female ego's father's sister's daughter",,,"ShioharaPC",""
+"fMBD","sepupu",,"female ego's mother's brother's daughter",,,"ShioharaPC",""
+"fMZD","sepupu",,"female ego's mother's sister's daughter",,,"ShioharaPC",""
+"mFeBS","sepupu",,"male ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"mFyBS","sepupu",,"male ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"mFeZS","sepupu",,"male ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"mFyZS","sepupu",,"male ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"mFeBD","sepupu",,"male ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mFyBD","sepupu",,"male ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mFeZD","sepupu",,"male ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mFyZD","sepupu",,"male ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mMeBS","sepupu",,"male ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"mMyBS","sepupu",,"male ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"mMeZS","sepupu",,"male ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"mMyZS","sepupu",,"male ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"mMeBD","sepupu",,"male ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mMyBD","sepupu",,"male ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mMeZD","sepupu",,"male ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mMyZD","sepupu",,"male ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mFBeS","sepupu",,"male ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"mFByS","sepupu",,"male ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"mFZeS","sepupu",,"male ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"mFZyS","sepupu",,"male ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"mFBeD","sepupu",,"male ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mFByD","sepupu",,"male ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mFZeD","sepupu",,"male ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mFZyD","sepupu",,"male ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mMBeS","sepupu",,"male ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"mMByS","sepupu",,"male ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"mMZeS","sepupu",,"male ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"mMZyS","sepupu",,"male ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"mMBeD","sepupu",,"male ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mMByD","sepupu",,"male ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"mMZeD","sepupu",,"male ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"mMZyD","sepupu",,"male ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fFeBS","sepupu",,"female ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"fFyBS","sepupu",,"female ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"fFeZS","sepupu",,"female ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"fFyZS","sepupu",,"female ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"fFeBD","sepupu",,"female ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fFyBD","sepupu",,"female ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fFeZD","sepupu",,"female ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fFyZD","sepupu",,"female ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fMeBS","sepupu",,"female ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"fMyBS","sepupu",,"female ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"fMeZS","sepupu",,"female ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"fMyZS","sepupu",,"female ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"fMeBD","sepupu",,"female ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fMyBD","sepupu",,"female ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fMeZD","sepupu",,"female ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fMyZD","sepupu",,"female ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fFBeS","sepupu",,"female ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"fFByS","sepupu",,"female ego's father's brother's son",,,"ShioharaPC","Inferred; NA"
+"fFZeS","sepupu",,"female ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"fFZyS","sepupu",,"female ego's father's sister's son",,,"ShioharaPC","Inferred; NA"
+"fFBeD","sepupu",,"female ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fFByD","sepupu",,"female ego's father's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fFZeD","sepupu",,"female ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fFZyD","sepupu",,"female ego's father's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fMBeS","sepupu",,"female ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"fMByS","sepupu",,"female ego's mother's brother's son",,,"ShioharaPC","Inferred; NA"
+"fMZeS","sepupu",,"female ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"fMZyS","sepupu",,"female ego's mother's sister's son",,,"ShioharaPC","Inferred; NA"
+"fMBeD","sepupu",,"female ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fMByD","sepupu",,"female ego's mother's brother's daughter",,,"ShioharaPC","Inferred; NA"
+"fMZeD","sepupu",,"female ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"
+"fMZyD","sepupu",,"female ego's mother's sister's daughter",,,"ShioharaPC","Inferred; NA"

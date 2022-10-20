@@ -1,177 +1,177 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,abi,,male speaker's older brother,,,dursun2020,kardeš can also be used as the most generic word for siblings of either sex or seniority
-meB,ağabey,,male speaker's older brother,,,dursun2020,
-myB,kardeš,,male speaker's younger brother,,,dursun2020,kardeš can also be used as the most generic word for siblings of either sex or seniority
-feB,abi,,female speaker's older brother,,,dursun2020,"to specify gender, kız or erkek can be added for f or m"
-feB,ağabey,,female speaker's older brother,,,dursun2020,
-fyB,kardeš,,female speaker's younger brother,,,dursun2020,"to specify gender, kız or erkek can be added for f or m"
-meZ,abla,,male speaker's older sister,,,dursun2020,
-myZ,kardeš,,male speaker's younger sister,,,dursun2020,
-feZ,abla,,female speaker's older sister,,,dursun2020,
-fyZ,kardeš,,female speaker's younger sister,,,dursun2020,
-mF,baba,,male speaker's father,,,dursun2020,
-mM,anne,,male speaker's mother,,,dursun2020,
-fF,baba,,female speaker's father,,,dursun2020,
-fM,anne,,female speaker's mother,,,dursun2020,
-mS,oğul,,male speaker's son,,,dursun2020,
-fS,oğul,,female speaker's son,,,dursun2020,
-mD,kız,,male speaker's daughter,,,dursun2020,
-fD,kız,,female speaker's daughter,,,dursun2020,
-mSS,torun,,male speaker's son's son,,,dursun2020,
-mSD,torun,,male speaker's son's daughter,,,dursun2020,
-mDS,torun,,male speaker's daughter's son,,,dursun2020,
-mDD,torun,,male speaker's daughter's daughter,,,dursun2020,
-fSS,torun,,female speaker's son's son,,,dursun2020,
-fSD,torun,,female speaker's son's daughter,,,dursun2020,
-fDS,torun,,female speaker's daughter's son,,,dursun2020,
-fDD,torun,,female speaker's daugher's daughter,,,dursun2020,
-mFF,dede,,male speaker's father‘s father,,,dursun2020,
-mFF,büyük baba,,male speaker's father‘s father,,,dursun2020,
-mFM,nine,,male speaker's father's mother,,,dursun2020,
-mFM,nene,,male speaker's father's mother,,,dursun2020,
-mFM,babaanne,,male speaker's father's mother,,,dursun2020,
-mMF,dede,,male speaker's mother's father,,,dursun2020,
-mMM,"nine, nene, anneanne",,male speaker's mother's mother,,,dursun2020,
-mMM,nene,,male speaker's mother's mother,,,dursun2020,
-mMM,babaanne,,male speaker's mother's mother,,,dursun2020,
-fFF,dede,,female speaker's father's father,,,dursun2020,
-fFF,büyük baba,,female speaker's father's father,,,dursun2020,
-fFM,nine,,female speaker's father's mother,,,dursun2020,
-fFM,nene,,female speaker's father's mother,,,dursun2020,
-fFM,babaanne,,female speaker's father's mother,,,dursun2020,
-fMF,dede,,female speaker's mother's father,,,dursun2020,
-fMM,nine,,female speaker's mother's mother,,,dursun2020,
-fMM,nene,,female speaker's mother's mother,,,dursun2020,
-fMM,anneanne,,female speaker's mother's mother,,,dursun2020,
-meBS,yeğen,,male speaker's older brother's son,,,dursun2020,
-myBS,yeğen,,male speaker's younger brother's son,,,dursun2020,
-meZS,yeğen,,male speaker's older sister's son,,,dursun2020,
-myZS,yeğen,,male speaker's younger sister's son,,,dursun2020,
-meBD,yeğen,,male speaker's older brother's daughter,,,dursun2020,
-myBD,yeğen,,male speaker's younger brother's daughter,,,dursun2020,
-meZD,yeğen,,male speaker's older sister's daughter,,,dursun2020,
-myZD,yeğen,,male speaker's younger sister's daughter,,,dursun2020,
-feBS,yeğen,,female speaker's older brother's son,,,dursun2020,
-fyBS,yeğen,,female speaker's younger brother's son,,,dursun2020,
-feZS,yeğen,,female speaker's older sister's son,,,dursun2020,
-fyZS,yeğen,,female speaker's younger sister's son,,,dursun2020,
-feBD,yeğen,,female speaker's older brother's daughter,,,dursun2020,
-fyBD,yeğen,,female speaker's younger brother's daughter,,,dursun2020,
-feZD,yeğen,,female speaker's older sister's daughter,,,dursun2020,
-fyZD,yeğen,,female speaker's younger sister's daughter,,,dursun2020,
-mFeB,amca,,male speaker's father's older brother,,,dursun2020,"Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term warrawarrayarrba can be used for the father's oldest brother"
-mFyB,amca,,male speaker's father's younger brother,,,dursun2020,"Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term kunyaa kanthathu can be used for FyB"
-mFeZ,hala,,male speaker's father's older sister,,,dursun2020,
-mFyZ,hala,,male speaker's father's younger sister,,,dursun2020,
-mMeB,dayı,,male speaker's mother's older brother,,,dursun2020,
-mMyB,dayı,,male speaker's mother's younger brother,,,dursun2020,
-mMeZ,teyze,,male speaker's mother's older sister,,,dursun2020,
-mMyZ,teyze,,male speaker's mother's younger sister,,,dursun2020,"Normally, the basic 'mother' term ngamathu is used for M and MyZ. However, if more precision is required, the term kabiriju can be used for the 'last mother', who is in fact the mother's youngest co-wife (and not necessarily the mother's biological sister"
-fFeB,amca,,female speaker's father's older brother,,,dursun2020,
-fFyB,amca,,female speaker's father's younger brother,,,dursun2020,
-fFeZ,hala,,female speaker's father's older sister,,,dursun2020,
-fFyZ,hala,,female speaker's father's younger sister,,,dursun2020,
-fMeB,dayı,,female speaker's mother's older brother,,,dursun2020,
-fMyB,dayı,,female speaker's mother's younger brother,,,dursun2020,
-fMeZ,teyze,,female speaker's mother's older sister,,,dursun2020,
-fMyZ,teyze,,female speaker's mother's younger sister,,,dursun2020,
-mW,karı,,male speaker's wife,,,dursun2020,
-fH,koca,,female speaker‘s husband,,,dursun2020,
-fDH,damat,,female speaker's daughter's husband,,,dursun2020,
-mDH,damat,,male speaker's daughter's husband,,,dursun2020,
-fSW,gelin,,female speaker's son's wife,,,dursun2020,
-mSW,gelin,,male speaker's son's wife,,,dursun2020,
-fHM,kaynana,,female speaker's husband's mother,,,dursun2020,
-fHM,kayınvalide,,female speaker's husband's mother,,,dursun2020,
-mWM,kaynana,,male speaker's wife's mother,,,dursun2020,
-mWM,kayınvalide,,male speaker's wife's mother,,,dursun2020,
-fHF,kayınbaba,,female speaker's husband's father,,,dursun2020,
-fHF,kayınpeder,,female speaker's husband's father,,,dursun2020,
-mWF,kayınbaba,,male speaker's wife's father,,,dursun2020,
-mWF,kayınpeder,,male speaker's wife's father,,,dursun2020,
-mFBS,kuzen,,male speaker's father's brother's son,,,dursun2020,"choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
-mFZS,kuzen,,male speaker's father's sister's son,,,dursun2020,
-mMBS,kuzen,,male speaker's mother's brother's son,,,dursun2020,
-mMZS,kuzen,,male speaker's mother's sister's son,,,dursun2020,"choice between thabuju and duujind depends on relative age, as with sib terms"
-mFBD,kuzen,,male speaker's father's brother's daughter,,,dursun2020,
-mFZD,kuzen,,male speaker's father's sister's daughter,,,dursun2020,
-mMBD,kuzen,,male speaker's mother's brother's daughter,,,dursun2020,"ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
-mMZD,kuzen,,male speaker's mother's sister's daughter,,,dursun2020,
-fFBS,kuzen,,female speaker's father's brother's son,,,dursun2020,
-fFZS,kuzen,,female speaker's father's sister's son,,,dursun2020,
-fMBS,kuzen,,female speaker's mother's brother's son,,,dursun2020,
-fMZS,kuzen,,female speaker's mother's sister's son,,,dursun2020,
-fFBD,kuzen,,female speaker's father's brother's daughter,,,dursun2020,choice between yakukathu and duujind depends on relative ag
-fFZD,kuzen,,female speaker's father's sister's daughter,,,dursun2020,
-fMBD,kuzen,,female speaker's mother's brother's daughter,,,dursun2020,
-fMZD,kuzen,,female speaker's mother's sister's daughter,,,dursun2020,"choice between yakukathu and duujind depends on relative age, as with sib terms"
-mWZ,baldız,,male speaker's wife's sister,,,dursun2020,
-mWB,kayınbirader,,male speaker's wife's brother,,,dursun2020,
-mWZH,bacanak,,male speaker's wife's sister's husband,,,dursun2020,
-fHZ,görümce,,female speaker's husband's sister,,,dursun2020,
-fHB,kayınbirader,,female speaker's husband's brother,,,dursun2020,
-fBW,elti,,female speaker's husband's brother's wife,,,dursun2020,
-mFeBS,kuzen,,male speaker's father's brother's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
-mFyBS,kuzen,,male speaker's father's brother's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
-mFeZS,kuzen,,male speaker's father's sister's son,,,dursun2020,Inferred; 
-mFyZS,kuzen,,male speaker's father's sister's son,,,dursun2020,Inferred; 
-mFeBD,kuzen,,male speaker's father's brother's daughter,,,dursun2020,Inferred; 
-mFyBD,kuzen,,male speaker's father's brother's daughter,,,dursun2020,Inferred; 
-mFeZD,kuzen,,male speaker's father's sister's daughter,,,dursun2020,Inferred; 
-mFyZD,kuzen,,male speaker's father's sister's daughter,,,dursun2020,Inferred; 
-mMeBS,kuzen,,male speaker's mother's brother's son,,,dursun2020,Inferred; 
-mMyBS,kuzen,,male speaker's mother's brother's son,,,dursun2020,Inferred; 
-mMeZS,kuzen,,male speaker's mother's sister's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
-mMyZS,kuzen,,male speaker's mother's sister's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
-mMeBD,kuzen,,male speaker's mother's brother's daughter,,,dursun2020,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
-mMyBD,kuzen,,male speaker's mother's brother's daughter,,,dursun2020,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
-mMeZD,kuzen,,male speaker's mother's sister's daughter,,,dursun2020,Inferred; 
-mMyZD,kuzen,,male speaker's mother's sister's daughter,,,dursun2020,Inferred; 
-mFBeS,kuzen,,male speaker's father's brother's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
-mFByS,kuzen,,male speaker's father's brother's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
-mFZeS,kuzen,,male speaker's father's sister's son,,,dursun2020,Inferred; 
-mFZyS,kuzen,,male speaker's father's sister's son,,,dursun2020,Inferred; 
-mFBeD,kuzen,,male speaker's father's brother's daughter,,,dursun2020,Inferred; 
-mFByD,kuzen,,male speaker's father's brother's daughter,,,dursun2020,Inferred; 
-mFZeD,kuzen,,male speaker's father's sister's daughter,,,dursun2020,Inferred; 
-mFZyD,kuzen,,male speaker's father's sister's daughter,,,dursun2020,Inferred; 
-mMBeS,kuzen,,male speaker's mother's brother's son,,,dursun2020,Inferred; 
-mMByS,kuzen,,male speaker's mother's brother's son,,,dursun2020,Inferred; 
-mMZeS,kuzen,,male speaker's mother's sister's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
-mMZyS,kuzen,,male speaker's mother's sister's son,,,dursun2020,"Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
-mMBeD,kuzen,,male speaker's mother's brother's daughter,,,dursun2020,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
-mMByD,kuzen,,male speaker's mother's brother's daughter,,,dursun2020,"Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
-mMZeD,kuzen,,male speaker's mother's sister's daughter,,,dursun2020,Inferred; 
-mMZyD,kuzen,,male speaker's mother's sister's daughter,,,dursun2020,Inferred; 
-fFeBS,kuzen,,female speaker's father's brother's son,,,dursun2020,Inferred; 
-fFyBS,kuzen,,female speaker's father's brother's son,,,dursun2020,Inferred; 
-fFeZS,kuzen,,female speaker's father's sister's son,,,dursun2020,Inferred; 
-fFyZS,kuzen,,female speaker's father's sister's son,,,dursun2020,Inferred; 
-fFeBD,kuzen,,female speaker's father's brother's daughter,,,dursun2020,Inferred; choice between yakukathu and duujind depends on relative ag
-fFyBD,kuzen,,female speaker's father's brother's daughter,,,dursun2020,Inferred; choice between yakukathu and duujind depends on relative ag
-fFeZD,kuzen,,female speaker's father's sister's daughter,,,dursun2020,Inferred; 
-fFyZD,kuzen,,female speaker's father's sister's daughter,,,dursun2020,Inferred; 
-fMeBS,kuzen,,female speaker's mother's brother's son,,,dursun2020,Inferred; 
-fMyBS,kuzen,,female speaker's mother's brother's son,,,dursun2020,Inferred; 
-fMeZS,kuzen,,female speaker's mother's sister's son,,,dursun2020,Inferred; 
-fMyZS,kuzen,,female speaker's mother's sister's son,,,dursun2020,Inferred; 
-fMeBD,kuzen,,female speaker's mother's brother's daughter,,,dursun2020,Inferred; 
-fMyBD,kuzen,,female speaker's mother's brother's daughter,,,dursun2020,Inferred; 
-fMeZD,kuzen,,female speaker's mother's sister's daughter,,,dursun2020,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
-fMyZD,kuzen,,female speaker's mother's sister's daughter,,,dursun2020,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
-fFBeS,kuzen,,female speaker's father's brother's son,,,dursun2020,Inferred; 
-fFByS,kuzen,,female speaker's father's brother's son,,,dursun2020,Inferred; 
-fFZeS,kuzen,,female speaker's father's sister's son,,,dursun2020,Inferred; 
-fFZyS,kuzen,,female speaker's father's sister's son,,,dursun2020,Inferred; 
-fFBeD,kuzen,,female speaker's father's brother's daughter,,,dursun2020,Inferred; choice between yakukathu and duujind depends on relative ag
-fFByD,kuzen,,female speaker's father's brother's daughter,,,dursun2020,Inferred; choice between yakukathu and duujind depends on relative ag
-fFZeD,kuzen,,female speaker's father's sister's daughter,,,dursun2020,Inferred; 
-fFZyD,kuzen,,female speaker's father's sister's daughter,,,dursun2020,Inferred; 
-fMBeS,kuzen,,female speaker's mother's brother's son,,,dursun2020,Inferred; 
-fMByS,kuzen,,female speaker's mother's brother's son,,,dursun2020,Inferred; 
-fMZeS,kuzen,,female speaker's mother's sister's son,,,dursun2020,Inferred; 
-fMZyS,kuzen,,female speaker's mother's sister's son,,,dursun2020,Inferred; 
-fMBeD,kuzen,,female speaker's mother's brother's daughter,,,dursun2020,Inferred; 
-fMByD,kuzen,,female speaker's mother's brother's daughter,,,dursun2020,Inferred; 
-fMZeD,kuzen,,female speaker's mother's sister's daughter,,,dursun2020,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
-fMZyD,kuzen,,female speaker's mother's sister's daughter,,,dursun2020,"Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","abi",,"male speaker's older brother",,,"dursun2020","kardeš can also be used as the most generic word for siblings of either sex or seniority"
+"meB","ağabey",,"male speaker's older brother",,,"dursun2020",""
+"myB","kardeš",,"male speaker's younger brother",,,"dursun2020","kardeš can also be used as the most generic word for siblings of either sex or seniority"
+"feB","abi",,"female speaker's older brother",,,"dursun2020","to specify gender, kız or erkek can be added for f or m"
+"feB","ağabey",,"female speaker's older brother",,,"dursun2020",""
+"fyB","kardeš",,"female speaker's younger brother",,,"dursun2020","to specify gender, kız or erkek can be added for f or m"
+"meZ","abla",,"male speaker's older sister",,,"dursun2020",""
+"myZ","kardeš",,"male speaker's younger sister",,,"dursun2020",""
+"feZ","abla",,"female speaker's older sister",,,"dursun2020",""
+"fyZ","kardeš",,"female speaker's younger sister",,,"dursun2020",""
+"mF","baba",,"male speaker's father",,,"dursun2020",""
+"mM","anne",,"male speaker's mother",,,"dursun2020",""
+"fF","baba",,"female speaker's father",,,"dursun2020",""
+"fM","anne",,"female speaker's mother",,,"dursun2020",""
+"mS","oğul",,"male speaker's son",,,"dursun2020",""
+"fS","oğul",,"female speaker's son",,,"dursun2020",""
+"mD","kız",,"male speaker's daughter",,,"dursun2020",""
+"fD","kız",,"female speaker's daughter",,,"dursun2020",""
+"mSS","torun",,"male speaker's son's son",,,"dursun2020",""
+"mSD","torun",,"male speaker's son's daughter",,,"dursun2020",""
+"mDS","torun",,"male speaker's daughter's son",,,"dursun2020",""
+"mDD","torun",,"male speaker's daughter's daughter",,,"dursun2020",""
+"fSS","torun",,"female speaker's son's son",,,"dursun2020",""
+"fSD","torun",,"female speaker's son's daughter",,,"dursun2020",""
+"fDS","torun",,"female speaker's daughter's son",,,"dursun2020",""
+"fDD","torun",,"female speaker's daugher's daughter",,,"dursun2020",""
+"mFF","dede",,"male speaker's father‘s father",,,"dursun2020",""
+"mFF","büyük baba",,"male speaker's father‘s father",,,"dursun2020",""
+"mFM","nine",,"male speaker's father's mother",,,"dursun2020",""
+"mFM","nene",,"male speaker's father's mother",,,"dursun2020",""
+"mFM","babaanne",,"male speaker's father's mother",,,"dursun2020",""
+"mMF","dede",,"male speaker's mother's father",,,"dursun2020",""
+"mMM","nine, nene, anneanne",,"male speaker's mother's mother",,,"dursun2020",""
+"mMM","nene",,"male speaker's mother's mother",,,"dursun2020",""
+"mMM","babaanne",,"male speaker's mother's mother",,,"dursun2020",""
+"fFF","dede",,"female speaker's father's father",,,"dursun2020",""
+"fFF","büyük baba",,"female speaker's father's father",,,"dursun2020",""
+"fFM","nine",,"female speaker's father's mother",,,"dursun2020",""
+"fFM","nene",,"female speaker's father's mother",,,"dursun2020",""
+"fFM","babaanne",,"female speaker's father's mother",,,"dursun2020",""
+"fMF","dede",,"female speaker's mother's father",,,"dursun2020",""
+"fMM","nine",,"female speaker's mother's mother",,,"dursun2020",""
+"fMM","nene",,"female speaker's mother's mother",,,"dursun2020",""
+"fMM","anneanne",,"female speaker's mother's mother",,,"dursun2020",""
+"meBS","yeğen",,"male speaker's older brother's son",,,"dursun2020",""
+"myBS","yeğen",,"male speaker's younger brother's son",,,"dursun2020",""
+"meZS","yeğen",,"male speaker's older sister's son",,,"dursun2020",""
+"myZS","yeğen",,"male speaker's younger sister's son",,,"dursun2020",""
+"meBD","yeğen",,"male speaker's older brother's daughter",,,"dursun2020",""
+"myBD","yeğen",,"male speaker's younger brother's daughter",,,"dursun2020",""
+"meZD","yeğen",,"male speaker's older sister's daughter",,,"dursun2020",""
+"myZD","yeğen",,"male speaker's younger sister's daughter",,,"dursun2020",""
+"feBS","yeğen",,"female speaker's older brother's son",,,"dursun2020",""
+"fyBS","yeğen",,"female speaker's younger brother's son",,,"dursun2020",""
+"feZS","yeğen",,"female speaker's older sister's son",,,"dursun2020",""
+"fyZS","yeğen",,"female speaker's younger sister's son",,,"dursun2020",""
+"feBD","yeğen",,"female speaker's older brother's daughter",,,"dursun2020",""
+"fyBD","yeğen",,"female speaker's younger brother's daughter",,,"dursun2020",""
+"feZD","yeğen",,"female speaker's older sister's daughter",,,"dursun2020",""
+"fyZD","yeğen",,"female speaker's younger sister's daughter",,,"dursun2020",""
+"mFeB","amca",,"male speaker's father's older brother",,,"dursun2020","Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term warrawarrayarrba can be used for the father's oldest brother"
+"mFyB","amca",,"male speaker's father's younger brother",,,"dursun2020","Normally, the basic 'father' term kanthathu is used for FeB and FyB. However, if more precision is required, the term kunyaa kanthathu can be used for FyB"
+"mFeZ","hala",,"male speaker's father's older sister",,,"dursun2020",""
+"mFyZ","hala",,"male speaker's father's younger sister",,,"dursun2020",""
+"mMeB","dayı",,"male speaker's mother's older brother",,,"dursun2020",""
+"mMyB","dayı",,"male speaker's mother's younger brother",,,"dursun2020",""
+"mMeZ","teyze",,"male speaker's mother's older sister",,,"dursun2020",""
+"mMyZ","teyze",,"male speaker's mother's younger sister",,,"dursun2020","Normally, the basic 'mother' term ngamathu is used for M and MyZ. However, if more precision is required, the term kabiriju can be used for the 'last mother', who is in fact the mother's youngest co-wife (and not necessarily the mother's biological sister"
+"fFeB","amca",,"female speaker's father's older brother",,,"dursun2020",""
+"fFyB","amca",,"female speaker's father's younger brother",,,"dursun2020",""
+"fFeZ","hala",,"female speaker's father's older sister",,,"dursun2020",""
+"fFyZ","hala",,"female speaker's father's younger sister",,,"dursun2020",""
+"fMeB","dayı",,"female speaker's mother's older brother",,,"dursun2020",""
+"fMyB","dayı",,"female speaker's mother's younger brother",,,"dursun2020",""
+"fMeZ","teyze",,"female speaker's mother's older sister",,,"dursun2020",""
+"fMyZ","teyze",,"female speaker's mother's younger sister",,,"dursun2020",""
+"mW","karı",,"male speaker's wife",,,"dursun2020",""
+"fH","koca",,"female speaker‘s husband",,,"dursun2020",""
+"fDH","damat",,"female speaker's daughter's husband",,,"dursun2020",""
+"mDH","damat",,"male speaker's daughter's husband",,,"dursun2020",""
+"fSW","gelin",,"female speaker's son's wife",,,"dursun2020",""
+"mSW","gelin",,"male speaker's son's wife",,,"dursun2020",""
+"fHM","kaynana",,"female speaker's husband's mother",,,"dursun2020",""
+"fHM","kayınvalide",,"female speaker's husband's mother",,,"dursun2020",""
+"mWM","kaynana",,"male speaker's wife's mother",,,"dursun2020",""
+"mWM","kayınvalide",,"male speaker's wife's mother",,,"dursun2020",""
+"fHF","kayınbaba",,"female speaker's husband's father",,,"dursun2020",""
+"fHF","kayınpeder",,"female speaker's husband's father",,,"dursun2020",""
+"mWF","kayınbaba",,"male speaker's wife's father",,,"dursun2020",""
+"mWF","kayınpeder",,"male speaker's wife's father",,,"dursun2020",""
+"mFBS","kuzen",,"male speaker's father's brother's son",,,"dursun2020","choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFZS","kuzen",,"male speaker's father's sister's son",,,"dursun2020",""
+"mMBS","kuzen",,"male speaker's mother's brother's son",,,"dursun2020",""
+"mMZS","kuzen",,"male speaker's mother's sister's son",,,"dursun2020","choice between thabuju and duujind depends on relative age, as with sib terms"
+"mFBD","kuzen",,"male speaker's father's brother's daughter",,,"dursun2020",""
+"mFZD","kuzen",,"male speaker's father's sister's daughter",,,"dursun2020",""
+"mMBD","kuzen",,"male speaker's mother's brother's daughter",,,"dursun2020","ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMZD","kuzen",,"male speaker's mother's sister's daughter",,,"dursun2020",""
+"fFBS","kuzen",,"female speaker's father's brother's son",,,"dursun2020",""
+"fFZS","kuzen",,"female speaker's father's sister's son",,,"dursun2020",""
+"fMBS","kuzen",,"female speaker's mother's brother's son",,,"dursun2020",""
+"fMZS","kuzen",,"female speaker's mother's sister's son",,,"dursun2020",""
+"fFBD","kuzen",,"female speaker's father's brother's daughter",,,"dursun2020","choice between yakukathu and duujind depends on relative ag"
+"fFZD","kuzen",,"female speaker's father's sister's daughter",,,"dursun2020",""
+"fMBD","kuzen",,"female speaker's mother's brother's daughter",,,"dursun2020",""
+"fMZD","kuzen",,"female speaker's mother's sister's daughter",,,"dursun2020","choice between yakukathu and duujind depends on relative age, as with sib terms"
+"mWZ","baldız",,"male speaker's wife's sister",,,"dursun2020",""
+"mWB","kayınbirader",,"male speaker's wife's brother",,,"dursun2020",""
+"mWZH","bacanak",,"male speaker's wife's sister's husband",,,"dursun2020",""
+"fHZ","görümce",,"female speaker's husband's sister",,,"dursun2020",""
+"fHB","kayınbirader",,"female speaker's husband's brother",,,"dursun2020",""
+"fBW","elti",,"female speaker's husband's brother's wife",,,"dursun2020",""
+"mFeBS","kuzen",,"male speaker's father's brother's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFyBS","kuzen",,"male speaker's father's brother's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFeZS","kuzen",,"male speaker's father's sister's son",,,"dursun2020","Inferred; "
+"mFyZS","kuzen",,"male speaker's father's sister's son",,,"dursun2020","Inferred; "
+"mFeBD","kuzen",,"male speaker's father's brother's daughter",,,"dursun2020","Inferred; "
+"mFyBD","kuzen",,"male speaker's father's brother's daughter",,,"dursun2020","Inferred; "
+"mFeZD","kuzen",,"male speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"mFyZD","kuzen",,"male speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"mMeBS","kuzen",,"male speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"mMyBS","kuzen",,"male speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"mMeZS","kuzen",,"male speaker's mother's sister's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMyZS","kuzen",,"male speaker's mother's sister's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMeBD","kuzen",,"male speaker's mother's brother's daughter",,,"dursun2020","Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMyBD","kuzen",,"male speaker's mother's brother's daughter",,,"dursun2020","Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMeZD","kuzen",,"male speaker's mother's sister's daughter",,,"dursun2020","Inferred; "
+"mMyZD","kuzen",,"male speaker's mother's sister's daughter",,,"dursun2020","Inferred; "
+"mFBeS","kuzen",,"male speaker's father's brother's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFByS","kuzen",,"male speaker's father's brother's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sibling terms, thabuju being for older cousins in this category, duujind for younger. Same applies to all other cells for which thabuju and duujind are listed as alternatives"
+"mFZeS","kuzen",,"male speaker's father's sister's son",,,"dursun2020","Inferred; "
+"mFZyS","kuzen",,"male speaker's father's sister's son",,,"dursun2020","Inferred; "
+"mFBeD","kuzen",,"male speaker's father's brother's daughter",,,"dursun2020","Inferred; "
+"mFByD","kuzen",,"male speaker's father's brother's daughter",,,"dursun2020","Inferred; "
+"mFZeD","kuzen",,"male speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"mFZyD","kuzen",,"male speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"mMBeS","kuzen",,"male speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"mMByS","kuzen",,"male speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"mMZeS","kuzen",,"male speaker's mother's sister's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMZyS","kuzen",,"male speaker's mother's sister's son",,,"dursun2020","Inferred; choice between thabuju and duujind depends on relative age, as with sib terms"
+"mMBeD","kuzen",,"male speaker's mother's brother's daughter",,,"dursun2020","Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMByD","kuzen",,"male speaker's mother's brother's daughter",,,"dursun2020","Inferred; ngayarndathu is a 'skewed term', explained as being like a 'little mother', and resulting from the upward skewing by one generation of this cousin type to stress non-marriageabilityy. The term kunyaa ngamathu, lit. 'little mother', makes this more explici"
+"mMZeD","kuzen",,"male speaker's mother's sister's daughter",,,"dursun2020","Inferred; "
+"mMZyD","kuzen",,"male speaker's mother's sister's daughter",,,"dursun2020","Inferred; "
+"fFeBS","kuzen",,"female speaker's father's brother's son",,,"dursun2020","Inferred; "
+"fFyBS","kuzen",,"female speaker's father's brother's son",,,"dursun2020","Inferred; "
+"fFeZS","kuzen",,"female speaker's father's sister's son",,,"dursun2020","Inferred; "
+"fFyZS","kuzen",,"female speaker's father's sister's son",,,"dursun2020","Inferred; "
+"fFeBD","kuzen",,"female speaker's father's brother's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFyBD","kuzen",,"female speaker's father's brother's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFeZD","kuzen",,"female speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"fFyZD","kuzen",,"female speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"fMeBS","kuzen",,"female speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"fMyBS","kuzen",,"female speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"fMeZS","kuzen",,"female speaker's mother's sister's son",,,"dursun2020","Inferred; "
+"fMyZS","kuzen",,"female speaker's mother's sister's son",,,"dursun2020","Inferred; "
+"fMeBD","kuzen",,"female speaker's mother's brother's daughter",,,"dursun2020","Inferred; "
+"fMyBD","kuzen",,"female speaker's mother's brother's daughter",,,"dursun2020","Inferred; "
+"fMeZD","kuzen",,"female speaker's mother's sister's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"fMyZD","kuzen",,"female speaker's mother's sister's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"fFBeS","kuzen",,"female speaker's father's brother's son",,,"dursun2020","Inferred; "
+"fFByS","kuzen",,"female speaker's father's brother's son",,,"dursun2020","Inferred; "
+"fFZeS","kuzen",,"female speaker's father's sister's son",,,"dursun2020","Inferred; "
+"fFZyS","kuzen",,"female speaker's father's sister's son",,,"dursun2020","Inferred; "
+"fFBeD","kuzen",,"female speaker's father's brother's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFByD","kuzen",,"female speaker's father's brother's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative ag"
+"fFZeD","kuzen",,"female speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"fFZyD","kuzen",,"female speaker's father's sister's daughter",,,"dursun2020","Inferred; "
+"fMBeS","kuzen",,"female speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"fMByS","kuzen",,"female speaker's mother's brother's son",,,"dursun2020","Inferred; "
+"fMZeS","kuzen",,"female speaker's mother's sister's son",,,"dursun2020","Inferred; "
+"fMZyS","kuzen",,"female speaker's mother's sister's son",,,"dursun2020","Inferred; "
+"fMBeD","kuzen",,"female speaker's mother's brother's daughter",,,"dursun2020","Inferred; "
+"fMByD","kuzen",,"female speaker's mother's brother's daughter",,,"dursun2020","Inferred; "
+"fMZeD","kuzen",,"female speaker's mother's sister's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"
+"fMZyD","kuzen",,"female speaker's mother's sister's daughter",,,"dursun2020","Inferred; choice between yakukathu and duujind depends on relative age, as with sib terms"

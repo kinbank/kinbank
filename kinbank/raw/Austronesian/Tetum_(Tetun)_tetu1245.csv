@@ -1,91 +1,91 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,maun,,male ego's older brother,,,Morris1984,
-myB,"alin, alik, ali, kau",,male ego's younger brother,,,Morris1984,
-feB,"maun, naan",,female ego's older brother,,,Morris1984,
-fyB,"alin, alik, ali, kau, naan",,female ego's younger brother,,,Morris1984,
-meZ,abi,,male ego's older sister,,,Morris1984,
-myZ,"alin, alik, ali",,male ego's younger sister,,,Morris1984,
-feZ,abi,,female ego's older sister,,,Morris1984,
-fyZ,"alin, alik, ali",,female ego's younger sister,,,Morris1984,
-mF,pai,,male ego's father,,,Morris1984,
-mM,"inan, ina, mai",,male ego's mother,,,Morris1984,
-fF,pai,,female ego's father,,,Morris1984,
-fM,"inan, ina, mai",,female ego's mother,,,Morris1984,
-mS,oan,,male ego's son,,,Morris1984,
-fS,oan,,female ego's son,,,Morris1984,
-mD,anauk,,male ego's daughter,,,Morris1984,
-fD,anauk,,female ego's daughter,,,Morris1984,
-mFF,"abo, am'bei, am'tuak",,male ego's father‘s father,,,Morris1984,
-mFM,"abo, in'bei",,male ego's father's mother,,,Morris1984,
-mMF,"abo, am'bei, am'tuak",,male ego's mother's father,,,Morris1984,
-mMM,"abo, in'bei",,male ego's mother's mother,,,Morris1984,
-fFF,"abo, am'bei, am'tuak",,female ego's father's father,,,Morris1984,
-fFM,"abo, in'bei",,female ego's father's mother,,,Morris1984,
-fMF,"abo, am'bei, am'tuak",,female ego's mother's father,,,Morris1984,
-fMM,"abo, in'bei",,female ego's mother's mother,,,Morris1984,
-meBS,"foun, maluk, malun",,male ego's older brother's son,,,Morris1984,
-myBS,"foun, maluk, malun",,male ego's younger brother's son,,,Morris1984,
-meZS,"foun, maluk, malun",,male ego's older sister's son,,,Morris1984,
-myZS,"foun, maluk, malun",,male ego's younger sister's son,,,Morris1984,
-meBD,feton,,male ego's older brother's daughter,,,Morris1984,
-myBD,feton,,male ego's younger brother's daughter,,,Morris1984,
-meZD,feton,,male ego's older sister's daughter,,,Morris1984,
-myZD,feton,,male ego's younger sister's daughter,,,Morris1984,
-feBS,"foun, maluk, malun",,female ego's older brother's son,,,Morris1984,
-fyBS,"foun, maluk, malun",,female ego's younger brother's son,,,Morris1984,
-feZS,"foun, maluk, malun",,female ego's older sister's son,,,Morris1984,
-fyZS,"foun, maluk, malun",,female ego's younger sister's son,,,Morris1984,
-feBD,feton,,female ego's older brother's daughter,,,Morris1984,
-fyBD,feton,,female ego's younger brother's daughter,,,Morris1984,
-feZD,feton,,female ego's older sister's daughter,,,Morris1984,
-fyZD,feton,,female ego's younger sister's daughter,,,Morris1984,
-mFeB,"aman, aman ua'i",,male ego's father's older brother,,,Morris1984,
-mFyB,"aman, aman ikus, am'iku",,male ego's father's younger brother,,,Morris1984,
-mMeB,tio,,male ego's mother's older brother,,,Morris1984,
-mMyB,tio,,male ego's mother's younger brother,,,Morris1984,
-mMeZ,"inan, ki'in, ki'i, inan kauaik",,male ego's mother's older sister,,,Morris1984,
-mMyZ,"inan, ki'in, ki'i, inan klaran",,male ego's mother's younger sister,,,Morris1984,
-fFeB,"aman, aman ua'i",,female ego's father's older brother,,,Morris1984,
-fFyB,"aman, aman ikus, am'iku",,female ego's father's younger brother,,,Morris1984,
-fMeB,tio,,female ego's mother's older brother,,,Morris1984,
-fMyB,tio,,female ego's mother's younger brother,,,Morris1984,
-fMeZ,"inan, ki'in, ki'i, inan kauaik",,female ego's mother's older sister,,,Morris1984,
-fMyZ,"inan, ki'in, ki'i, inan klaran",,female ego's mother's younger sister,,,Morris1984,
-mW,kaben,,male ego's wife,,,Morris1984,
-fH,kaben,,female ego‘s husband,,,Morris1984,
-mDH,foun,,male ego's daughter's husband,,,Morris1984,
-fDH,foun,,female ego's daughter's husband,,,Morris1984,
-mSW,"feton, feto",,male ego's son's wife,,,Morris1984,
-fSW,"feton, feto",,female ego's son's wife,,,Morris1984,
-mWF,banin,,male ego's wife's father,,,Morris1984,
-mWM,banin,,male ego's wife's mother,,,Morris1984,
-mWB,"ria, rian",,male ego's wife's brother,,,Morris1984,
-mWZ,"foen, ria, rian",,male ego's wife's sister,,,Morris1984,
-fHF,banin,,female ego's husband's father,,,Morris1984,
-fHM,banin,,female ego's husband's mother,,,Morris1984,
-fHB,"ria, rian",,female ego's husband's brother,,,Morris1984,
-fHZ,"foen, ria, rian",,female ego's husband's sister,,,Morris1984,
-mBW,"foen, ria, rian",,male ego's brother's wife,,,Morris1984,
-fBW,"foen, ria, rian",,female ego's brother's wife,,,Morris1984,
-mZH,"ria, rian",,male ego's sister's husband,,,Morris1984,
-fZH,"ria, rian",,female ego's sister's husband,,,Morris1984,
-fFBS,naan,,female ego's father's brother's son,,,Morris1984,
-fFZS,naan,,female ego's father's sister's son,,,Morris1984,
-fMBS,naan,,female ego's mother's brother's son,,,Morris1984,
-fMZS,naan,,female ego's mother's sister's son,,,Morris1984,
-fFeBS,naan,,female ego's father's brother's son,,,Morris1984,Inferred; NA
-fFyBS,naan,,female ego's father's brother's son,,,Morris1984,Inferred; NA
-fFeZS,naan,,female ego's father's sister's son,,,Morris1984,Inferred; NA
-fFyZS,naan,,female ego's father's sister's son,,,Morris1984,Inferred; NA
-fMeBS,naan,,female ego's mother's brother's son,,,Morris1984,Inferred; NA
-fMyBS,naan,,female ego's mother's brother's son,,,Morris1984,Inferred; NA
-fMeZS,naan,,female ego's mother's sister's son,,,Morris1984,Inferred; NA
-fMyZS,naan,,female ego's mother's sister's son,,,Morris1984,Inferred; NA
-fFBeS,naan,,female ego's father's brother's son,,,Morris1984,Inferred; NA
-fFByS,naan,,female ego's father's brother's son,,,Morris1984,Inferred; NA
-fFZeS,naan,,female ego's father's sister's son,,,Morris1984,Inferred; NA
-fFZyS,naan,,female ego's father's sister's son,,,Morris1984,Inferred; NA
-fMBeS,naan,,female ego's mother's brother's son,,,Morris1984,Inferred; NA
-fMByS,naan,,female ego's mother's brother's son,,,Morris1984,Inferred; NA
-fMZeS,naan,,female ego's mother's sister's son,,,Morris1984,Inferred; NA
-fMZyS,naan,,female ego's mother's sister's son,,,Morris1984,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","maun",,"male ego's older brother",,,"Morris1984",""
+"myB","alin, alik, ali, kau",,"male ego's younger brother",,,"Morris1984",""
+"feB","maun, naan",,"female ego's older brother",,,"Morris1984",""
+"fyB","alin, alik, ali, kau, naan",,"female ego's younger brother",,,"Morris1984",""
+"meZ","abi",,"male ego's older sister",,,"Morris1984",""
+"myZ","alin, alik, ali",,"male ego's younger sister",,,"Morris1984",""
+"feZ","abi",,"female ego's older sister",,,"Morris1984",""
+"fyZ","alin, alik, ali",,"female ego's younger sister",,,"Morris1984",""
+"mF","pai",,"male ego's father",,,"Morris1984",""
+"mM","inan, ina, mai",,"male ego's mother",,,"Morris1984",""
+"fF","pai",,"female ego's father",,,"Morris1984",""
+"fM","inan, ina, mai",,"female ego's mother",,,"Morris1984",""
+"mS","oan",,"male ego's son",,,"Morris1984",""
+"fS","oan",,"female ego's son",,,"Morris1984",""
+"mD","anauk",,"male ego's daughter",,,"Morris1984",""
+"fD","anauk",,"female ego's daughter",,,"Morris1984",""
+"mFF","abo, am'bei, am'tuak",,"male ego's father‘s father",,,"Morris1984",""
+"mFM","abo, in'bei",,"male ego's father's mother",,,"Morris1984",""
+"mMF","abo, am'bei, am'tuak",,"male ego's mother's father",,,"Morris1984",""
+"mMM","abo, in'bei",,"male ego's mother's mother",,,"Morris1984",""
+"fFF","abo, am'bei, am'tuak",,"female ego's father's father",,,"Morris1984",""
+"fFM","abo, in'bei",,"female ego's father's mother",,,"Morris1984",""
+"fMF","abo, am'bei, am'tuak",,"female ego's mother's father",,,"Morris1984",""
+"fMM","abo, in'bei",,"female ego's mother's mother",,,"Morris1984",""
+"meBS","foun, maluk, malun",,"male ego's older brother's son",,,"Morris1984",""
+"myBS","foun, maluk, malun",,"male ego's younger brother's son",,,"Morris1984",""
+"meZS","foun, maluk, malun",,"male ego's older sister's son",,,"Morris1984",""
+"myZS","foun, maluk, malun",,"male ego's younger sister's son",,,"Morris1984",""
+"meBD","feton",,"male ego's older brother's daughter",,,"Morris1984",""
+"myBD","feton",,"male ego's younger brother's daughter",,,"Morris1984",""
+"meZD","feton",,"male ego's older sister's daughter",,,"Morris1984",""
+"myZD","feton",,"male ego's younger sister's daughter",,,"Morris1984",""
+"feBS","foun, maluk, malun",,"female ego's older brother's son",,,"Morris1984",""
+"fyBS","foun, maluk, malun",,"female ego's younger brother's son",,,"Morris1984",""
+"feZS","foun, maluk, malun",,"female ego's older sister's son",,,"Morris1984",""
+"fyZS","foun, maluk, malun",,"female ego's younger sister's son",,,"Morris1984",""
+"feBD","feton",,"female ego's older brother's daughter",,,"Morris1984",""
+"fyBD","feton",,"female ego's younger brother's daughter",,,"Morris1984",""
+"feZD","feton",,"female ego's older sister's daughter",,,"Morris1984",""
+"fyZD","feton",,"female ego's younger sister's daughter",,,"Morris1984",""
+"mFeB","aman, aman ua'i",,"male ego's father's older brother",,,"Morris1984",""
+"mFyB","aman, aman ikus, am'iku",,"male ego's father's younger brother",,,"Morris1984",""
+"mMeB","tio",,"male ego's mother's older brother",,,"Morris1984",""
+"mMyB","tio",,"male ego's mother's younger brother",,,"Morris1984",""
+"mMeZ","inan, ki'in, ki'i, inan kauaik",,"male ego's mother's older sister",,,"Morris1984",""
+"mMyZ","inan, ki'in, ki'i, inan klaran",,"male ego's mother's younger sister",,,"Morris1984",""
+"fFeB","aman, aman ua'i",,"female ego's father's older brother",,,"Morris1984",""
+"fFyB","aman, aman ikus, am'iku",,"female ego's father's younger brother",,,"Morris1984",""
+"fMeB","tio",,"female ego's mother's older brother",,,"Morris1984",""
+"fMyB","tio",,"female ego's mother's younger brother",,,"Morris1984",""
+"fMeZ","inan, ki'in, ki'i, inan kauaik",,"female ego's mother's older sister",,,"Morris1984",""
+"fMyZ","inan, ki'in, ki'i, inan klaran",,"female ego's mother's younger sister",,,"Morris1984",""
+"mW","kaben",,"male ego's wife",,,"Morris1984",""
+"fH","kaben",,"female ego‘s husband",,,"Morris1984",""
+"mDH","foun",,"male ego's daughter's husband",,,"Morris1984",""
+"fDH","foun",,"female ego's daughter's husband",,,"Morris1984",""
+"mSW","feton, feto",,"male ego's son's wife",,,"Morris1984",""
+"fSW","feton, feto",,"female ego's son's wife",,,"Morris1984",""
+"mWF","banin",,"male ego's wife's father",,,"Morris1984",""
+"mWM","banin",,"male ego's wife's mother",,,"Morris1984",""
+"mWB","ria, rian",,"male ego's wife's brother",,,"Morris1984",""
+"mWZ","foen, ria, rian",,"male ego's wife's sister",,,"Morris1984",""
+"fHF","banin",,"female ego's husband's father",,,"Morris1984",""
+"fHM","banin",,"female ego's husband's mother",,,"Morris1984",""
+"fHB","ria, rian",,"female ego's husband's brother",,,"Morris1984",""
+"fHZ","foen, ria, rian",,"female ego's husband's sister",,,"Morris1984",""
+"mBW","foen, ria, rian",,"male ego's brother's wife",,,"Morris1984",""
+"fBW","foen, ria, rian",,"female ego's brother's wife",,,"Morris1984",""
+"mZH","ria, rian",,"male ego's sister's husband",,,"Morris1984",""
+"fZH","ria, rian",,"female ego's sister's husband",,,"Morris1984",""
+"fFBS","naan",,"female ego's father's brother's son",,,"Morris1984",""
+"fFZS","naan",,"female ego's father's sister's son",,,"Morris1984",""
+"fMBS","naan",,"female ego's mother's brother's son",,,"Morris1984",""
+"fMZS","naan",,"female ego's mother's sister's son",,,"Morris1984",""
+"fFeBS","naan",,"female ego's father's brother's son",,,"Morris1984","Inferred; NA"
+"fFyBS","naan",,"female ego's father's brother's son",,,"Morris1984","Inferred; NA"
+"fFeZS","naan",,"female ego's father's sister's son",,,"Morris1984","Inferred; NA"
+"fFyZS","naan",,"female ego's father's sister's son",,,"Morris1984","Inferred; NA"
+"fMeBS","naan",,"female ego's mother's brother's son",,,"Morris1984","Inferred; NA"
+"fMyBS","naan",,"female ego's mother's brother's son",,,"Morris1984","Inferred; NA"
+"fMeZS","naan",,"female ego's mother's sister's son",,,"Morris1984","Inferred; NA"
+"fMyZS","naan",,"female ego's mother's sister's son",,,"Morris1984","Inferred; NA"
+"fFBeS","naan",,"female ego's father's brother's son",,,"Morris1984","Inferred; NA"
+"fFByS","naan",,"female ego's father's brother's son",,,"Morris1984","Inferred; NA"
+"fFZeS","naan",,"female ego's father's sister's son",,,"Morris1984","Inferred; NA"
+"fFZyS","naan",,"female ego's father's sister's son",,,"Morris1984","Inferred; NA"
+"fMBeS","naan",,"female ego's mother's brother's son",,,"Morris1984","Inferred; NA"
+"fMByS","naan",,"female ego's mother's brother's son",,,"Morris1984","Inferred; NA"
+"fMZeS","naan",,"female ego's mother's sister's son",,,"Morris1984","Inferred; NA"
+"fMZyS","naan",,"female ego's mother's sister's son",,,"Morris1984","Inferred; NA"

@@ -1,91 +1,91 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tang,,male ego's older brother,,,Chinnery1930,
-myB,tang,,male ego's younger brother,,,Chinnery1930,
-feB,ninugu,,female ego's older brother,,,Chinnery1930,
-fyB,ninugu,,female ego's younger brother,,,Chinnery1930,
-meZ,ninugu,,male ego's older sister,,,Chinnery1930,
-myZ,ninugu,,male ego's younger sister,,,Chinnery1930,
-feZ,tang,,female ego's older sister,,,Chinnery1930,
-fyZ,tang,,female ego's younger sister,,,Chinnery1930,
-mF,tamang,,male ego's father,,,Chinnery1930,
-mM,nanga,,male ego's mother,,,Chinnery1930,
-fF,tamang,,female ego's father,,,Chinnery1930,
-fM,nanga,,female ego's mother,,,Chinnery1930,
-mS,nangu sigik,,male ego's son,,,Chinnery1930,
-fS,nangu sigik,,female ego's son,,,Chinnery1930,
-mD,nangu inek,,male ego's daughter,,,Chinnery1930,
-fD,nangu inek,,female ego's daughter,,,Chinnery1930,
-mSS,tambugu,,male ego's son's son,,,Chinnery1930,
-fSS,tambugu,,female ego's son's son,,,Chinnery1930,
-mFF,tambugu,,male ego's father‘s father,,,Chinnery1930,
-mFM,tambugu,,male ego's father's mother,,,Chinnery1930,
-mMF,tambugu,,male ego's mother's father,,,Chinnery1930,
-mMM,tambugu,,male ego's mother's mother,,,Chinnery1930,
-fFF,tambugu,,female ego's father's father,,,Chinnery1930,
-fFM,tambugu,,female ego's father's mother,,,Chinnery1930,
-fMF,tambugu,,female ego's mother's father,,,Chinnery1930,
-fMM,tambugu,,female ego's mother's mother,,,Chinnery1930,
-meZS,noiang,,male ego's older sister's son,,,Chinnery1930,
-myZS,noiang,,male ego's younger sister's son,,,Chinnery1930,
-meZD,noiang,,male ego's older sister's daughter,,,Chinnery1930,
-myZD,noiang,,male ego's younger sister's daughter,,,Chinnery1930,
-feZS,noiang,,female ego's older sister's son,,,Chinnery1930,
-fyZS,noiang,,female ego's younger sister's son,,,Chinnery1930,
-feZD,noiang,,female ego's older sister's daughter,,,Chinnery1930,
-fyZD,noiang,,female ego's younger sister's daughter,,,Chinnery1930,
-mFeB,tamang,,male ego's father's older brother,,,Chinnery1930,
-mFyB,tamang,,male ego's father's younger brother,,,Chinnery1930,
-mFeZ,nimugu,,male ego's father's older sister,,,Chinnery1930,
-mFyZ,nimugu,,male ego's father's younger sister,,,Chinnery1930,
-mMeB,nambangil,,male ego's mother's older brother,,,Chinnery1930,
-mMyB,nambangil,,male ego's mother's younger brother,,,Chinnery1930,
-fFeB,tamang,,female ego's father's older brother,,,Chinnery1930,
-fFyB,tamang,,female ego's father's younger brother,,,Chinnery1930,
-fMeB,nambangil,,female ego's mother's older brother,,,Chinnery1930,
-fMyB,nambangil,,female ego's mother's younger brother,,,Chinnery1930,
-mW,nungu rumbu,,male ego's wife,,,Chinnery1930,
-fH,nunguru mosik,,female ego‘s husband,,,Chinnery1930,
-mDH,namugu,,male ego's daughter's husband,,,Chinnery1930,
-fDH,"nungu waru, nungu goko, evaru",,female ego's daughter's husband,,,Chinnery1930,
-mSW,nenang,,male ego's son's wife,,,Chinnery1930,
-mWF,namugu,,male ego's wife's father,,,Chinnery1930,
-mWM,"nungu waru, nungu goko, evaru",,male ego's wife's mother,,,Chinnery1930,
-mWB,tagik,,male ego's wife's brother,,,Chinnery1930,
-mWZ,tang,,male ego's wife's sister,,,Chinnery1930,
-fHF,nenang,,female ego's husband's father,,,Chinnery1930,
-fHM,nenang,,female ego's husband's mother,,,Chinnery1930,
-fHZ,nangena,,female ego's husband's sister,,,Chinnery1930,
-mBW,tang,,male ego's brother's wife,,,Chinnery1930,
-fBW,"tang, nangena",,female ego's brother's wife,,,Chinnery1930,
-mZH,tagik,,male ego's sister's husband,,,Chinnery1930,
-fZH,tagik,,female ego's sister's husband,,,Chinnery1930,
-mFZS,kogup,,male ego's father's sister's son,,,Chinnery1930,
-mMBS,kogup,,male ego's mother's brother's son,,,Chinnery1930,
-mFZD,"nungu waru, nungu goko, evaru",,male ego's father's sister's daughter,,,Chinnery1930,
-mMBD,"nungu waru, nungu goko, evaru",,male ego's mother's brother's daughter,,,Chinnery1930,
-fFZS,"kogup, nungu waru, nungu goko, evaru",,female ego's father's sister's son,,,Chinnery1930,
-fMBS,"kogup, nungu waru, nungu goko, evaru, navaru",,female ego's mother's brother's son,,,Chinnery1930,
-mFeZS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFyZS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFeZD,"nungu waru, nungu goko, evaru",,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mFyZD,"nungu waru, nungu goko, evaru",,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mMeBS,kogup,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMyBS,kogup,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMeBD,"nungu waru, nungu goko, evaru",,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-mMyBD,"nungu waru, nungu goko, evaru",,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-mFZeS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFZyS,kogup,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFZeD,"nungu waru, nungu goko, evaru",,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mFZyD,"nungu waru, nungu goko, evaru",,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mMBeS,kogup,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMByS,kogup,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMBeD,"nungu waru, nungu goko, evaru",,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-mMByD,"nungu waru, nungu goko, evaru",,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-fFeZS,"kogup, nungu waru, nungu goko, evaru",,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fFyZS,"kogup, nungu waru, nungu goko, evaru",,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fMeBS,"kogup, nungu waru, nungu goko, evaru, navaru",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fMyBS,"kogup, nungu waru, nungu goko, evaru, navaru",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fFZeS,"kogup, nungu waru, nungu goko, evaru",,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fFZyS,"kogup, nungu waru, nungu goko, evaru",,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fMBeS,"kogup, nungu waru, nungu goko, evaru, navaru",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fMByS,"kogup, nungu waru, nungu goko, evaru, navaru",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tang",,"male ego's older brother",,,"Chinnery1930",""
+"myB","tang",,"male ego's younger brother",,,"Chinnery1930",""
+"feB","ninugu",,"female ego's older brother",,,"Chinnery1930",""
+"fyB","ninugu",,"female ego's younger brother",,,"Chinnery1930",""
+"meZ","ninugu",,"male ego's older sister",,,"Chinnery1930",""
+"myZ","ninugu",,"male ego's younger sister",,,"Chinnery1930",""
+"feZ","tang",,"female ego's older sister",,,"Chinnery1930",""
+"fyZ","tang",,"female ego's younger sister",,,"Chinnery1930",""
+"mF","tamang",,"male ego's father",,,"Chinnery1930",""
+"mM","nanga",,"male ego's mother",,,"Chinnery1930",""
+"fF","tamang",,"female ego's father",,,"Chinnery1930",""
+"fM","nanga",,"female ego's mother",,,"Chinnery1930",""
+"mS","nangu sigik",,"male ego's son",,,"Chinnery1930",""
+"fS","nangu sigik",,"female ego's son",,,"Chinnery1930",""
+"mD","nangu inek",,"male ego's daughter",,,"Chinnery1930",""
+"fD","nangu inek",,"female ego's daughter",,,"Chinnery1930",""
+"mSS","tambugu",,"male ego's son's son",,,"Chinnery1930",""
+"fSS","tambugu",,"female ego's son's son",,,"Chinnery1930",""
+"mFF","tambugu",,"male ego's father‘s father",,,"Chinnery1930",""
+"mFM","tambugu",,"male ego's father's mother",,,"Chinnery1930",""
+"mMF","tambugu",,"male ego's mother's father",,,"Chinnery1930",""
+"mMM","tambugu",,"male ego's mother's mother",,,"Chinnery1930",""
+"fFF","tambugu",,"female ego's father's father",,,"Chinnery1930",""
+"fFM","tambugu",,"female ego's father's mother",,,"Chinnery1930",""
+"fMF","tambugu",,"female ego's mother's father",,,"Chinnery1930",""
+"fMM","tambugu",,"female ego's mother's mother",,,"Chinnery1930",""
+"meZS","noiang",,"male ego's older sister's son",,,"Chinnery1930",""
+"myZS","noiang",,"male ego's younger sister's son",,,"Chinnery1930",""
+"meZD","noiang",,"male ego's older sister's daughter",,,"Chinnery1930",""
+"myZD","noiang",,"male ego's younger sister's daughter",,,"Chinnery1930",""
+"feZS","noiang",,"female ego's older sister's son",,,"Chinnery1930",""
+"fyZS","noiang",,"female ego's younger sister's son",,,"Chinnery1930",""
+"feZD","noiang",,"female ego's older sister's daughter",,,"Chinnery1930",""
+"fyZD","noiang",,"female ego's younger sister's daughter",,,"Chinnery1930",""
+"mFeB","tamang",,"male ego's father's older brother",,,"Chinnery1930",""
+"mFyB","tamang",,"male ego's father's younger brother",,,"Chinnery1930",""
+"mFeZ","nimugu",,"male ego's father's older sister",,,"Chinnery1930",""
+"mFyZ","nimugu",,"male ego's father's younger sister",,,"Chinnery1930",""
+"mMeB","nambangil",,"male ego's mother's older brother",,,"Chinnery1930",""
+"mMyB","nambangil",,"male ego's mother's younger brother",,,"Chinnery1930",""
+"fFeB","tamang",,"female ego's father's older brother",,,"Chinnery1930",""
+"fFyB","tamang",,"female ego's father's younger brother",,,"Chinnery1930",""
+"fMeB","nambangil",,"female ego's mother's older brother",,,"Chinnery1930",""
+"fMyB","nambangil",,"female ego's mother's younger brother",,,"Chinnery1930",""
+"mW","nungu rumbu",,"male ego's wife",,,"Chinnery1930",""
+"fH","nunguru mosik",,"female ego‘s husband",,,"Chinnery1930",""
+"mDH","namugu",,"male ego's daughter's husband",,,"Chinnery1930",""
+"fDH","nungu waru, nungu goko, evaru",,"female ego's daughter's husband",,,"Chinnery1930",""
+"mSW","nenang",,"male ego's son's wife",,,"Chinnery1930",""
+"mWF","namugu",,"male ego's wife's father",,,"Chinnery1930",""
+"mWM","nungu waru, nungu goko, evaru",,"male ego's wife's mother",,,"Chinnery1930",""
+"mWB","tagik",,"male ego's wife's brother",,,"Chinnery1930",""
+"mWZ","tang",,"male ego's wife's sister",,,"Chinnery1930",""
+"fHF","nenang",,"female ego's husband's father",,,"Chinnery1930",""
+"fHM","nenang",,"female ego's husband's mother",,,"Chinnery1930",""
+"fHZ","nangena",,"female ego's husband's sister",,,"Chinnery1930",""
+"mBW","tang",,"male ego's brother's wife",,,"Chinnery1930",""
+"fBW","tang, nangena",,"female ego's brother's wife",,,"Chinnery1930",""
+"mZH","tagik",,"male ego's sister's husband",,,"Chinnery1930",""
+"fZH","tagik",,"female ego's sister's husband",,,"Chinnery1930",""
+"mFZS","kogup",,"male ego's father's sister's son",,,"Chinnery1930",""
+"mMBS","kogup",,"male ego's mother's brother's son",,,"Chinnery1930",""
+"mFZD","nungu waru, nungu goko, evaru",,"male ego's father's sister's daughter",,,"Chinnery1930",""
+"mMBD","nungu waru, nungu goko, evaru",,"male ego's mother's brother's daughter",,,"Chinnery1930",""
+"fFZS","kogup, nungu waru, nungu goko, evaru",,"female ego's father's sister's son",,,"Chinnery1930",""
+"fMBS","kogup, nungu waru, nungu goko, evaru, navaru",,"female ego's mother's brother's son",,,"Chinnery1930",""
+"mFeZS","kogup",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFyZS","kogup",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFeZD","nungu waru, nungu goko, evaru",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mFyZD","nungu waru, nungu goko, evaru",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mMeBS","kogup",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMyBS","kogup",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMeBD","nungu waru, nungu goko, evaru",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"mMyBD","nungu waru, nungu goko, evaru",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"mFZeS","kogup",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFZyS","kogup",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFZeD","nungu waru, nungu goko, evaru",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mFZyD","nungu waru, nungu goko, evaru",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mMBeS","kogup",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMByS","kogup",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMBeD","nungu waru, nungu goko, evaru",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"mMByD","nungu waru, nungu goko, evaru",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"fFeZS","kogup, nungu waru, nungu goko, evaru",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fFyZS","kogup, nungu waru, nungu goko, evaru",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fMeBS","kogup, nungu waru, nungu goko, evaru, navaru",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fMyBS","kogup, nungu waru, nungu goko, evaru, navaru",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fFZeS","kogup, nungu waru, nungu goko, evaru",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fFZyS","kogup, nungu waru, nungu goko, evaru",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fMBeS","kogup, nungu waru, nungu goko, evaru, navaru",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fMByS","kogup, nungu waru, nungu goko, evaru, navaru",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"

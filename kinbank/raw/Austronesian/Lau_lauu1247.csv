@@ -1,97 +1,97 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,dōra,,male ego's older brother,,,Fox1974,
-myB,sāsi,,male ego's younger brother,,,Fox1974,
-feB,"'auā, waena",,female ego's older brother,,,Fox1974,
-fyB,waena,,female ego's younger brother,,,Fox1974,
-meZ,"'auā, waena",,male ego's older sister,,,Fox1974,
-myZ,waena,,male ego's younger sister,,,Fox1974,
-feZ,dōra,,female ego's older sister,,,Fox1974,
-fyZ,sāsi,,female ego's younger sister,,,Fox1974,
-mF,"ama, maka, sāma",,male ego's father,,,Fox1974,
-mM,tē,,male ego's mother,,,Fox1974,
-fF,"ama, maka, sāma",,female ego's father,,,Fox1974,
-fM,tē,,female ego's mother,,,Fox1974,
-mS,wela,,male ego's son,sūburi,,Fox1974,sūburi = youngest son
-fS,wela,,female ego's son,,,Fox1974,sūburi = youngest son
-mD,wela geni,,male ego's daughter,sarī,,Fox1974,sarī = unmarried
-fD,wela geni,,female ego's daughter,,,Fox1974,sarī = unmarried
-mSS,kō,,male ego's son's son,,,Fox1974,
-mSD,kō,,male ego's son's daughter,,,Fox1974,
-mDS,kō,,male ego's daughter's son,,,Fox1974,
-mDD,kō,,male ego's daughter's daughter,,,Fox1974,
-fSS,kō,,female ego's son's son,,,Fox1974,
-fSD,kō,,female ego's son's daughter,,,Fox1974,
-fDS,kō,,female ego's daughter's son,,,Fox1974,
-fDD,kō,,female ego's daugher's daughter,,,Fox1974,
-mFF,kō,,male ego's father‘s father,,,Fox1974,
-mFM,kō,,male ego's father's mother,,,Fox1974,
-mMF,kō,,male ego's mother's father,,,Fox1974,
-mMM,kō,,male ego's mother's mother,,,Fox1974,
-fFF,kō,,female ego's father's father,,,Fox1974,
-fFM,kō,,female ego's father's mother,,,Fox1974,
-fMF,kō,,female ego's mother's father,,,Fox1974,
-fMM,kō,,female ego's mother's mother,,,Fox1974,
-meBS,aia,,male ego's older brother's son,,,Fox1974,
-myBS,aia,,male ego's younger brother's son,,,Fox1974,
-meZS,kō,,male ego's older sister's son,,,Fox1974,
-myZS,kō,,male ego's younger sister's son,,,Fox1974,
-meBD,aia,,male ego's older brother's daughter,,,Fox1974,
-myBD,aia,,male ego's younger brother's daughter,,,Fox1974,
-meZD,aia,,male ego's older sister's daughter,,,Fox1974,
-myZD,aia,,male ego's younger sister's daughter,,,Fox1974,
-feBS,aia,,female ego's older brother's son,,,Fox1974,
-fyBS,aia,,female ego's younger brother's son,,,Fox1974,
-feZS,kō,,female ego's older sister's son,,,Fox1974,
-fyZS,kō,,female ego's younger sister's son,,,Fox1974,
-feBD,aia,,female ego's older brother's daughter,,,Fox1974,
-fyBD,aia,,female ego's younger brother's daughter,,,Fox1974,
-feZD,aia,,female ego's older sister's daughter,,,Fox1974,
-fyZD,aia,,female ego's younger sister's daughter,,,Fox1974,
-mFeZ,aia,,male ego's father's older sister,,,Fox1974,
-mFyZ,aia,,male ego's father's younger sister,,,Fox1974,
-mMeB,kō,,male ego's mother's older brother,,,Fox1974,
-mMyB,kō,,male ego's mother's younger brother,,,Fox1974,
-mMeZ,aia,,male ego's mother's older sister,,,Fox1974,
-mMyZ,aia,,male ego's mother's younger sister,,,Fox1974,
-fFeZ,aia,,female ego's father's older sister,,,Fox1974,
-fFyZ,aia,,female ego's father's younger sister,,,Fox1974,
-fMeB,kō,,female ego's mother's older brother,,,Fox1974,
-fMyB,kō,,female ego's mother's younger brother,,,Fox1974,
-fMeZ,aia,,female ego's mother's older sister,,,Fox1974,
-fMyZ,aia,,female ego's mother's younger sister,,,Fox1974,
-mW,'afe,,male ego's wife,,,Fox1974,
-fH,saifa,,female ego‘s husband,,,Fox1974,
-mDH,fungo,,male ego's daughter's husband,,,Fox1974,
-fDH,fungo,,female ego's daughter's husband,,,Fox1974,
-mSW,fungo,,male ego's son's wife,,,Fox1974,
-fSW,fungo,,female ego's son's wife,,,Fox1974,
-mWF,fungo,,male ego's wife's father,,,Fox1974,
-mWM,fungo,,male ego's wife's mother,,,Fox1974,
-mWB,barā,,male ego's wife's brother,,,Fox1974,
-mWZ,barā,,male ego's wife's sister,,,Fox1974,
-fHF,fungo,,female ego's husband's father,,,Fox1974,
-fHM,fungo,,female ego's husband's mother,,,Fox1974,
-fHB,barā,,female ego's husband's brother,,,Fox1974,
-fHZ,barā,,female ego's husband's sister,,,Fox1974,
-mBW,barā,,male ego's brother's wife,,,Fox1974,
-fZH,barā,,female ego's sister's husband,,,Fox1974,
-mFBeS,dōra,,male ego‘s father‘s brother‘s older son,,,Fox1974,
-mFBeD,dōra,,male ego‘s father‘s brother‘s older daughter,,,Fox1974,
-mFZeS,dī,,male ego‘s father‘s sisters‘s older son,,,Fox1974,
-mFZyS,dī,,male ego‘s father‘s sisters‘s younger son,,,Fox1974,
-mFZeD,dī,,male ego‘s father‘s sisters‘s older daughter,,,Fox1974,
-mFZyD,dī,,male ego‘s father‘s sisters‘s younger daughter,,,Fox1974,
-mMBeS,dī,,male ego‘s mother‘s brother‘s older son,,,Fox1974,
-mMByS,dī,,male ego‘s mother‘s brother‘s younger son,,,Fox1974,
-mMBeD,dī,,male ego‘s mother‘s brother‘s older daughter,,,Fox1974,
-mMByD,dī,,male ego‘s mother‘s brother‘s younger daughter,,,Fox1974,
-fFBeS,dōra,,female ego‘s father‘s brother‘s older son,,,Fox1974,
-fFBeD,dōra,,female ego‘s father‘s brother‘s older daughter,,,Fox1974,
-fFZeS,dī,,female ego‘s father‘s sisters‘s older son,,,Fox1974,
-fFZyS,dī,,female ego‘s father‘s sisters‘s younger son,,,Fox1974,
-fFZeD,dī,,female ego‘s father‘s sisters‘s older daughter,,,Fox1974,
-fFZyD,dī,,female ego‘s father‘s sisters‘s younger daughter,,,Fox1974,
-fMBeS,dī,,female ego‘s mother‘s brother‘s older son,,,Fox1974,
-fMByS,dī,,female ego‘s mother‘s brother‘s younger son,,,Fox1974,
-fMBeD,dī,,female ego‘s mother‘s brother‘s older daughter,,,Fox1974,
-fMByD,dī,,female ego‘s mother‘s brother‘s younger daughter,,,Fox1974,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","dōra",,"male ego's older brother","",,"Fox1974",""
+"myB","sāsi",,"male ego's younger brother","",,"Fox1974",""
+"feB","'auā, waena",,"female ego's older brother","",,"Fox1974",""
+"fyB","waena",,"female ego's younger brother","",,"Fox1974",""
+"meZ","'auā, waena",,"male ego's older sister","",,"Fox1974",""
+"myZ","waena",,"male ego's younger sister","",,"Fox1974",""
+"feZ","dōra",,"female ego's older sister","",,"Fox1974",""
+"fyZ","sāsi",,"female ego's younger sister","",,"Fox1974",""
+"mF","ama, maka, sāma",,"male ego's father","",,"Fox1974",""
+"mM","tē",,"male ego's mother","",,"Fox1974",""
+"fF","ama, maka, sāma",,"female ego's father","",,"Fox1974",""
+"fM","tē",,"female ego's mother","",,"Fox1974",""
+"mS","wela",,"male ego's son","sūburi",,"Fox1974","sūburi = youngest son"
+"fS","wela",,"female ego's son","",,"Fox1974","sūburi = youngest son"
+"mD","wela geni",,"male ego's daughter","sarī",,"Fox1974","sarī = unmarried"
+"fD","wela geni",,"female ego's daughter","",,"Fox1974","sarī = unmarried"
+"mSS","kō",,"male ego's son's son","",,"Fox1974",""
+"mSD","kō",,"male ego's son's daughter","",,"Fox1974",""
+"mDS","kō",,"male ego's daughter's son","",,"Fox1974",""
+"mDD","kō",,"male ego's daughter's daughter","",,"Fox1974",""
+"fSS","kō",,"female ego's son's son","",,"Fox1974",""
+"fSD","kō",,"female ego's son's daughter","",,"Fox1974",""
+"fDS","kō",,"female ego's daughter's son","",,"Fox1974",""
+"fDD","kō",,"female ego's daugher's daughter","",,"Fox1974",""
+"mFF","kō",,"male ego's father‘s father","",,"Fox1974",""
+"mFM","kō",,"male ego's father's mother","",,"Fox1974",""
+"mMF","kō",,"male ego's mother's father","",,"Fox1974",""
+"mMM","kō",,"male ego's mother's mother","",,"Fox1974",""
+"fFF","kō",,"female ego's father's father","",,"Fox1974",""
+"fFM","kō",,"female ego's father's mother","",,"Fox1974",""
+"fMF","kō",,"female ego's mother's father","",,"Fox1974",""
+"fMM","kō",,"female ego's mother's mother","",,"Fox1974",""
+"meBS","aia",,"male ego's older brother's son","",,"Fox1974",""
+"myBS","aia",,"male ego's younger brother's son","",,"Fox1974",""
+"meZS","kō",,"male ego's older sister's son","",,"Fox1974",""
+"myZS","kō",,"male ego's younger sister's son","",,"Fox1974",""
+"meBD","aia",,"male ego's older brother's daughter","",,"Fox1974",""
+"myBD","aia",,"male ego's younger brother's daughter","",,"Fox1974",""
+"meZD","aia",,"male ego's older sister's daughter","",,"Fox1974",""
+"myZD","aia",,"male ego's younger sister's daughter","",,"Fox1974",""
+"feBS","aia",,"female ego's older brother's son","",,"Fox1974",""
+"fyBS","aia",,"female ego's younger brother's son","",,"Fox1974",""
+"feZS","kō",,"female ego's older sister's son","",,"Fox1974",""
+"fyZS","kō",,"female ego's younger sister's son","",,"Fox1974",""
+"feBD","aia",,"female ego's older brother's daughter","",,"Fox1974",""
+"fyBD","aia",,"female ego's younger brother's daughter","",,"Fox1974",""
+"feZD","aia",,"female ego's older sister's daughter","",,"Fox1974",""
+"fyZD","aia",,"female ego's younger sister's daughter","",,"Fox1974",""
+"mFeZ","aia",,"male ego's father's older sister","",,"Fox1974",""
+"mFyZ","aia",,"male ego's father's younger sister","",,"Fox1974",""
+"mMeB","kō",,"male ego's mother's older brother","",,"Fox1974",""
+"mMyB","kō",,"male ego's mother's younger brother","",,"Fox1974",""
+"mMeZ","aia",,"male ego's mother's older sister","",,"Fox1974",""
+"mMyZ","aia",,"male ego's mother's younger sister","",,"Fox1974",""
+"fFeZ","aia",,"female ego's father's older sister","",,"Fox1974",""
+"fFyZ","aia",,"female ego's father's younger sister","",,"Fox1974",""
+"fMeB","kō",,"female ego's mother's older brother","",,"Fox1974",""
+"fMyB","kō",,"female ego's mother's younger brother","",,"Fox1974",""
+"fMeZ","aia",,"female ego's mother's older sister","",,"Fox1974",""
+"fMyZ","aia",,"female ego's mother's younger sister","",,"Fox1974",""
+"mW","'afe",,"male ego's wife","",,"Fox1974",""
+"fH","saifa",,"female ego‘s husband","",,"Fox1974",""
+"mDH","fungo",,"male ego's daughter's husband","",,"Fox1974",""
+"fDH","fungo",,"female ego's daughter's husband","",,"Fox1974",""
+"mSW","fungo",,"male ego's son's wife","",,"Fox1974",""
+"fSW","fungo",,"female ego's son's wife","",,"Fox1974",""
+"mWF","fungo",,"male ego's wife's father","",,"Fox1974",""
+"mWM","fungo",,"male ego's wife's mother","",,"Fox1974",""
+"mWB","barā",,"male ego's wife's brother","",,"Fox1974",""
+"mWZ","barā",,"male ego's wife's sister","",,"Fox1974",""
+"fHF","fungo",,"female ego's husband's father","",,"Fox1974",""
+"fHM","fungo",,"female ego's husband's mother","",,"Fox1974",""
+"fHB","barā",,"female ego's husband's brother","",,"Fox1974",""
+"fHZ","barā",,"female ego's husband's sister","",,"Fox1974",""
+"mBW","barā",,"male ego's brother's wife","",,"Fox1974",""
+"fZH","barā",,"female ego's sister's husband","",,"Fox1974",""
+"mFBeS","dōra",,"male ego‘s father‘s brother‘s older son","",,"Fox1974",""
+"mFBeD","dōra",,"male ego‘s father‘s brother‘s older daughter","",,"Fox1974",""
+"mFZeS","dī",,"male ego‘s father‘s sisters‘s older son","",,"Fox1974",""
+"mFZyS","dī",,"male ego‘s father‘s sisters‘s younger son","",,"Fox1974",""
+"mFZeD","dī",,"male ego‘s father‘s sisters‘s older daughter","",,"Fox1974",""
+"mFZyD","dī",,"male ego‘s father‘s sisters‘s younger daughter","",,"Fox1974",""
+"mMBeS","dī",,"male ego‘s mother‘s brother‘s older son","",,"Fox1974",""
+"mMByS","dī",,"male ego‘s mother‘s brother‘s younger son","",,"Fox1974",""
+"mMBeD","dī",,"male ego‘s mother‘s brother‘s older daughter","",,"Fox1974",""
+"mMByD","dī",,"male ego‘s mother‘s brother‘s younger daughter","",,"Fox1974",""
+"fFBeS","dōra",,"female ego‘s father‘s brother‘s older son","",,"Fox1974",""
+"fFBeD","dōra",,"female ego‘s father‘s brother‘s older daughter","",,"Fox1974",""
+"fFZeS","dī",,"female ego‘s father‘s sisters‘s older son","",,"Fox1974",""
+"fFZyS","dī",,"female ego‘s father‘s sisters‘s younger son","",,"Fox1974",""
+"fFZeD","dī",,"female ego‘s father‘s sisters‘s older daughter","",,"Fox1974",""
+"fFZyD","dī",,"female ego‘s father‘s sisters‘s younger daughter","",,"Fox1974",""
+"fMBeS","dī",,"female ego‘s mother‘s brother‘s older son","",,"Fox1974",""
+"fMByS","dī",,"female ego‘s mother‘s brother‘s younger son","",,"Fox1974",""
+"fMBeD","dī",,"female ego‘s mother‘s brother‘s older daughter","",,"Fox1974",""
+"fMByD","dī",,"female ego‘s mother‘s brother‘s younger daughter","",,"Fox1974",""

@@ -1,155 +1,155 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-feB,brother,ˈbɹʌðə(ɹ),female speaker's older brother,,,BarthW2017,
-fyB,brother,ˈbɹʌðə(ɹ),female speaker's younger brother,,,BarthW2017,
-meB,brother,ˈbɹʌðə(ɹ),male speaker's older brother,,,BarthW2017,
-myB,brother,ˈbɹʌðə(ɹ),male speaker's younger brother,,,BarthW2017,
-fFBS,cousin,ˈkʌz(ə)n,female speaker's father's brother's son,,,BarthW2017,
-fFZS,cousin,ˈkʌz(ə)n,female speaker's father's sister's son,,,BarthW2017,
-fMBS,cousin,ˈkʌz(ə)n,female speaker's mother's brother's son,,,BarthW2017,
-fMZS,cousin,ˈkʌz(ə)n,female speaker's mother's sister's son,,,BarthW2017,
-mFBS,cousin,ˈkʌz(ə)n,male speaker's father's brother's son,,,BarthW2017,
-mFZS,cousin,ˈkʌz(ə)n,male speaker's father's sister's son,,,BarthW2017,
-mMBS,cousin,ˈkʌz(ə)n,male speaker's mother's brother's son,,,BarthW2017,
-fFBD,cousin,ˈkʌz(ə)n,female speaker's father's brother's daughter,,,BarthW2017,
-fFZD,cousin,ˈkʌz(ə)n,female speaker's father's sister's daughter,,,BarthW2017,
-fMBD,cousin,ˈkʌz(ə)n,female speaker's mother's brother's daughter,,,BarthW2017,
-fMZD,cousin,ˈkʌz(ə)n,female speaker's mother's sister's daughter,,,BarthW2017,
-mFBD,cousin,ˈkʌz(ə)n,male speaker's father's brother's daughter,,,BarthW2017,
-mFZD,cousin,ˈkʌz(ə)n,male speaker's father's sister's daughter,,,BarthW2017,
-mMBD,cousin,ˈkʌz(ə)n,male speaker's mother's brother's daughter,,,BarthW2017,
-mMZS,cousin,ˈkʌz(ə)n,male speaker's mother's sister's son,,,BarthW2017,
-mMZD,cousin,ˈkʌz(ə)n,male speaker's mother's sister's daughter,,,BarthW2017,
-mW,wife,waɪf,speaker's wife,,,BarthW2017,
-fH,husband,ˈhʌzbənd,speaker‘s husband,,,BarthW2017,
-fDS,grandson,ˈɡɹæn(d)sʌn,female speaker's daughter's son,,,BarthW2017,
-fSS,grandson,ˈɡɹæn(d)sʌn,female speaker's son's son,,,BarthW2017,
-mDS,grandson,ˈɡɹæn(d)sʌn,male speaker's daughter's son,,,BarthW2017,
-mSS,grandson,ˈɡɹæn(d)sʌn,male speaker's son's son,,,BarthW2017,
-fDD,granddaughter,ˈɡɹæn(d)dɔːtə®,female speaker's daugher's daughter,,,BarthW2017,
-fSD,granddaughter,ˈɡɹæn(d)dɔːtə®,female speaker's son's daughter,,,BarthW2017,
-mDD,granddaughter,ˈɡɹæn(d)dɔːtə®,male speaker's daughter's daughter,,,BarthW2017,
-mSD,granddaughter,ˈɡɹæn(d)dɔːtə®,male speaker's son's daughter,,,BarthW2017,
-fFM,grandmother,ˈɡɹæn(d)mʌðə(ɹ),female speaker's father's mother,,,BarthW2017,
-fMM,grandmother,ˈɡɹæn(d)mʌðə(ɹ),female speaker's mother's mother,,,BarthW2017,
-mFM,grandmother,ˈɡɹæn(d)mʌðə(ɹ),male speaker's father's mother,,,BarthW2017,
-mMF,grandfather,ˈɡɹæn(d)fɑː.ðə(ɹ),male speaker's mother's father,,,BarthW2017,
-fFF,grandfather,ˈɡɹæn(d)fɑː.ðə(ɹ),female speaker's father's father,,,BarthW2017,
-fMF,grandfather,ˈɡɹæn(d)fɑː.ðə(ɹ),female speaker's mother's father,,,BarthW2017,
-mFF,grandfather,ˈɡɹæn(d)fɑː.ðə(ɹ),male speaker's father‘s father,,,BarthW2017,
-mMM,grandmother,ˈɡɹæn(d)mʌðə(ɹ),male speaker's mother's mother,,,BarthW2017,
-fM,mother,ˈmʌðə(ɹ),female speaker's mother,,,BarthW2017,
-mM,mother,ˈmʌðə(ɹ),male speaker's mother,,,BarthW2017,
-feBS,nephew,ˈnɛv.ju,female speaker's older brother's son,,,BarthW2017,
-feZS,nephew,ˈnɛv.ju,female speaker's older sister's son,,,BarthW2017,
-fyBS,nephew,ˈnɛv.ju,female speaker's younger brother's son,,,BarthW2017,
-fyZS,nephew,ˈnɛv.ju,female speaker's younger sister's son,,,BarthW2017,
-meBS,nephew,ˈnɛv.ju,male speaker's older brother's son,,,BarthW2017,
-meZS,nephew,ˈnɛv.ju,male speaker's older sister's son,,,BarthW2017,
-myBS,nephew,ˈnɛv.ju,male speaker's younger brother's son,,,BarthW2017,
-myZS,nephew,ˈnɛv.ju,male speaker's younger sister's son,,,BarthW2017,
-feBD,niece,niːs,female speaker's older brother's daughter,,,BarthW2017,
-feZD,niece,niːs,female speaker's older sister's daughter,,,BarthW2017,
-fyBD,niece,niːs,female speaker's younger brother's daughter,,,BarthW2017,
-fyZD,niece,niːs,female speaker's younger sister's daughter,,,BarthW2017,
-meBD,niece,niːs,male speaker's older brother's daughter,,,BarthW2017,
-meZD,niece,niːs,male speaker's older sister's daughter,,,BarthW2017,
-myBD,niece,niːs,male speaker's younger brother's daughter,,,BarthW2017,
-myZD,niece,niːs,male speaker's younger sister's daughter,,,BarthW2017,
-fFeB,uncle,ŭngʹkəl,female speaker's father's older brother,,,BarthW2017,
-fFyB,uncle,ŭngʹkəl,female speaker's father's younger brother,,,BarthW2017,
-fMeB,uncle,ŭngʹkəl,female speaker's mother's older brother,,,BarthW2017,
-fMyB,uncle,ŭngʹkəl,female speaker's mother's younger brother,,,BarthW2017,
-mFeB,uncle,ŭngʹkəl,male speaker's father's older brother,,,BarthW2017,
-mFyB,uncle,ŭngʹkəl,male speaker's father's younger brother,,,BarthW2017,
-mMeB,uncle,ŭngʹkəl,male speaker's mother's older brother,,,BarthW2017,
-mMyB,uncle,ŭngʹkəl,male speaker's mother's younger brother,,,BarthW2017,
-feZ,sister,sĭs'tər,female speaker's older sister,,,BarthW2017,
-fyZ,sister,sĭs'tər,female speaker's younger sister,,,BarthW2017,
-meZ,sister,sĭs'tər,male speaker's older sister,,,BarthW2017,
-myZ,sister,sĭs'tər,male speaker's younger sister,,,BarthW2017,
-fHM,mother-in-law,ˈmʌðə(ɹ) ɪn ˌlɔ,speaker's husband's mother,,,BarthW2017,
-mWM,mother-in-law,ˈmʌðə(ɹ) ɪn ˌlɔ,speaker's wife's mother,,,BarthW2017,
-fDH,son-in-law,sʌn ɪn ˌlɔ,female speaker's daughter's husband,,,BarthW2017,
-mDH,son-in-law,sʌn ɪn ˌlɔ,male speaker's daughter's husband,,,BarthW2017,
-fSW,daughter-in-law,ˈdɔːtə(r) ɪn ˌlɔ,female speaker's son's wife,,,BarthW2017,
-mSW,daughter-in-law,ˈdɔːtə(r) ɪn ˌlɔ,male speaker's son's wife,,,BarthW2017,
-fHF,father-in-law,ˈfɑː.ðə(ɹ) ɪn ˌlɔ,speaker's husband's father,,,BarthW2017,
-mWF,father-in-law,ˈfɑː.ðə(ɹ) ɪn ˌlɔ,speaker's wife's father,,,BarthW2017,
-fS,son,sʌn,female speaker's son,,,BarthW2017,
-mS,son,sʌn,male speaker's son,,,BarthW2017,
-fFeZ,aunt,ɑːnt,female speaker's father's older sister,,,BarthW2017,
-fFyZ,aunt,ɑːnt,female speaker's father's younger sister,,,BarthW2017,
-fMeZ,aunt,ɑːnt,female speaker's mother's older sister,,,BarthW2017,
-fMyZ,aunt,ɑːnt,female speaker's mother's younger sister,,,BarthW2017,
-mFeZ,aunt,ɑːnt,male speaker's father's older sister,,,BarthW2017,
-mFyZ,aunt,ɑːnt,male speaker's father's younger sister,,,BarthW2017,
-mMeZ,aunt,ɑːnt,male speaker's mother's older sister,,,BarthW2017,
-mMyZ,aunt,ɑːnt,male speaker's mother's younger sister,,,BarthW2017,
-fD,daughter,ˈdɔːtə(r),female speaker's daughter,,,BarthW2017,
-mD,daughter,ˈdɔːtə(r),male speaker's daughter,,,BarthW2017,
-fF,father,ˈfɑː.ðə(ɹ),female speaker's father,,,BarthW2017,
-mF,father,ˈfɑː.ðə(ɹ),male speaker's father,,,BarthW2017,
-mFeBS,cousin,ˈkʌz(ə)n,male speaker's father's brother's son,,,BarthW2017,Inferred; NA
-mFyBS,cousin,ˈkʌz(ə)n,male speaker's father's brother's son,,,BarthW2017,Inferred; NA
-mFeZS,cousin,ˈkʌz(ə)n,male speaker's father's sister's son,,,BarthW2017,Inferred; NA
-mFyZS,cousin,ˈkʌz(ə)n,male speaker's father's sister's son,,,BarthW2017,Inferred; NA
-mFeBD,cousin,ˈkʌz(ə)n,male speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-mFyBD,cousin,ˈkʌz(ə)n,male speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-mFeZD,cousin,ˈkʌz(ə)n,male speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-mFyZD,cousin,ˈkʌz(ə)n,male speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-mMeBS,cousin,ˈkʌz(ə)n,male speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-mMyBS,cousin,ˈkʌz(ə)n,male speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-mMeZS,cousin,ˈkʌz(ə)n,male speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-mMyZS,cousin,ˈkʌz(ə)n,male speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-mMeBD,cousin,ˈkʌz(ə)n,male speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-mMyBD,cousin,ˈkʌz(ə)n,male speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-mMeZD,cousin,ˈkʌz(ə)n,male speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-mMyZD,cousin,ˈkʌz(ə)n,male speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-mFBeS,cousin,ˈkʌz(ə)n,male speaker's father's brother's son,,,BarthW2017,Inferred; NA
-mFByS,cousin,ˈkʌz(ə)n,male speaker's father's brother's son,,,BarthW2017,Inferred; NA
-mFZeS,cousin,ˈkʌz(ə)n,male speaker's father's sister's son,,,BarthW2017,Inferred; NA
-mFZyS,cousin,ˈkʌz(ə)n,male speaker's father's sister's son,,,BarthW2017,Inferred; NA
-mFBeD,cousin,ˈkʌz(ə)n,male speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-mFByD,cousin,ˈkʌz(ə)n,male speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-mFZeD,cousin,ˈkʌz(ə)n,male speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-mFZyD,cousin,ˈkʌz(ə)n,male speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-mMBeS,cousin,ˈkʌz(ə)n,male speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-mMByS,cousin,ˈkʌz(ə)n,male speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-mMZeS,cousin,ˈkʌz(ə)n,male speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-mMZyS,cousin,ˈkʌz(ə)n,male speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-mMBeD,cousin,ˈkʌz(ə)n,male speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-mMByD,cousin,ˈkʌz(ə)n,male speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-mMZeD,cousin,ˈkʌz(ə)n,male speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-mMZyD,cousin,ˈkʌz(ə)n,male speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-fFeBS,cousin,ˈkʌz(ə)n,female speaker's father's brother's son,,,BarthW2017,Inferred; NA
-fFyBS,cousin,ˈkʌz(ə)n,female speaker's father's brother's son,,,BarthW2017,Inferred; NA
-fFeZS,cousin,ˈkʌz(ə)n,female speaker's father's sister's son,,,BarthW2017,Inferred; NA
-fFyZS,cousin,ˈkʌz(ə)n,female speaker's father's sister's son,,,BarthW2017,Inferred; NA
-fFeBD,cousin,ˈkʌz(ə)n,female speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-fFyBD,cousin,ˈkʌz(ə)n,female speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-fFeZD,cousin,ˈkʌz(ə)n,female speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-fFyZD,cousin,ˈkʌz(ə)n,female speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-fMeBS,cousin,ˈkʌz(ə)n,female speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-fMyBS,cousin,ˈkʌz(ə)n,female speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-fMeZS,cousin,ˈkʌz(ə)n,female speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-fMyZS,cousin,ˈkʌz(ə)n,female speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-fMeBD,cousin,ˈkʌz(ə)n,female speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-fMyBD,cousin,ˈkʌz(ə)n,female speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-fMeZD,cousin,ˈkʌz(ə)n,female speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-fMyZD,cousin,ˈkʌz(ə)n,female speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-fFBeS,cousin,ˈkʌz(ə)n,female speaker's father's brother's son,,,BarthW2017,Inferred; NA
-fFByS,cousin,ˈkʌz(ə)n,female speaker's father's brother's son,,,BarthW2017,Inferred; NA
-fFZeS,cousin,ˈkʌz(ə)n,female speaker's father's sister's son,,,BarthW2017,Inferred; NA
-fFZyS,cousin,ˈkʌz(ə)n,female speaker's father's sister's son,,,BarthW2017,Inferred; NA
-fFBeD,cousin,ˈkʌz(ə)n,female speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-fFByD,cousin,ˈkʌz(ə)n,female speaker's father's brother's daughter,,,BarthW2017,Inferred; NA
-fFZeD,cousin,ˈkʌz(ə)n,female speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-fFZyD,cousin,ˈkʌz(ə)n,female speaker's father's sister's daughter,,,BarthW2017,Inferred; NA
-fMBeS,cousin,ˈkʌz(ə)n,female speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-fMByS,cousin,ˈkʌz(ə)n,female speaker's mother's brother's son,,,BarthW2017,Inferred; NA
-fMZeS,cousin,ˈkʌz(ə)n,female speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-fMZyS,cousin,ˈkʌz(ə)n,female speaker's mother's sister's son,,,BarthW2017,Inferred; NA
-fMBeD,cousin,ˈkʌz(ə)n,female speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-fMByD,cousin,ˈkʌz(ə)n,female speaker's mother's brother's daughter,,,BarthW2017,Inferred; NA
-fMZeD,cousin,ˈkʌz(ə)n,female speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
-fMZyD,cousin,ˈkʌz(ə)n,female speaker's mother's sister's daughter,,,BarthW2017,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"feB","brother","ˈbɹʌðə(ɹ)","female speaker's older brother",,,"BarthW2017",""
+"fyB","brother","ˈbɹʌðə(ɹ)","female speaker's younger brother",,,"BarthW2017",""
+"meB","brother","ˈbɹʌðə(ɹ)","male speaker's older brother",,,"BarthW2017",""
+"myB","brother","ˈbɹʌðə(ɹ)","male speaker's younger brother",,,"BarthW2017",""
+"fFBS","cousin","ˈkʌz(ə)n","female speaker's father's brother's son",,,"BarthW2017",""
+"fFZS","cousin","ˈkʌz(ə)n","female speaker's father's sister's son",,,"BarthW2017",""
+"fMBS","cousin","ˈkʌz(ə)n","female speaker's mother's brother's son",,,"BarthW2017",""
+"fMZS","cousin","ˈkʌz(ə)n","female speaker's mother's sister's son",,,"BarthW2017",""
+"mFBS","cousin","ˈkʌz(ə)n","male speaker's father's brother's son",,,"BarthW2017",""
+"mFZS","cousin","ˈkʌz(ə)n","male speaker's father's sister's son",,,"BarthW2017",""
+"mMBS","cousin","ˈkʌz(ə)n","male speaker's mother's brother's son",,,"BarthW2017",""
+"fFBD","cousin","ˈkʌz(ə)n","female speaker's father's brother's daughter",,,"BarthW2017",""
+"fFZD","cousin","ˈkʌz(ə)n","female speaker's father's sister's daughter",,,"BarthW2017",""
+"fMBD","cousin","ˈkʌz(ə)n","female speaker's mother's brother's daughter",,,"BarthW2017",""
+"fMZD","cousin","ˈkʌz(ə)n","female speaker's mother's sister's daughter",,,"BarthW2017",""
+"mFBD","cousin","ˈkʌz(ə)n","male speaker's father's brother's daughter",,,"BarthW2017",""
+"mFZD","cousin","ˈkʌz(ə)n","male speaker's father's sister's daughter",,,"BarthW2017",""
+"mMBD","cousin","ˈkʌz(ə)n","male speaker's mother's brother's daughter",,,"BarthW2017",""
+"mMZS","cousin","ˈkʌz(ə)n","male speaker's mother's sister's son",,,"BarthW2017",""
+"mMZD","cousin","ˈkʌz(ə)n","male speaker's mother's sister's daughter",,,"BarthW2017",""
+"mW","wife","waɪf","speaker's wife",,,"BarthW2017",""
+"fH","husband","ˈhʌzbənd","speaker‘s husband",,,"BarthW2017",""
+"fDS","grandson","ˈɡɹæn(d)sʌn","female speaker's daughter's son",,,"BarthW2017",""
+"fSS","grandson","ˈɡɹæn(d)sʌn","female speaker's son's son",,,"BarthW2017",""
+"mDS","grandson","ˈɡɹæn(d)sʌn","male speaker's daughter's son",,,"BarthW2017",""
+"mSS","grandson","ˈɡɹæn(d)sʌn","male speaker's son's son",,,"BarthW2017",""
+"fDD","granddaughter","ˈɡɹæn(d)dɔːtə®","female speaker's daugher's daughter",,,"BarthW2017",""
+"fSD","granddaughter","ˈɡɹæn(d)dɔːtə®","female speaker's son's daughter",,,"BarthW2017",""
+"mDD","granddaughter","ˈɡɹæn(d)dɔːtə®","male speaker's daughter's daughter",,,"BarthW2017",""
+"mSD","granddaughter","ˈɡɹæn(d)dɔːtə®","male speaker's son's daughter",,,"BarthW2017",""
+"fFM","grandmother","ˈɡɹæn(d)mʌðə(ɹ)","female speaker's father's mother",,,"BarthW2017",""
+"fMM","grandmother","ˈɡɹæn(d)mʌðə(ɹ)","female speaker's mother's mother",,,"BarthW2017",""
+"mFM","grandmother","ˈɡɹæn(d)mʌðə(ɹ)","male speaker's father's mother",,,"BarthW2017",""
+"mMF","grandfather","ˈɡɹæn(d)fɑː.ðə(ɹ)","male speaker's mother's father",,,"BarthW2017",""
+"fFF","grandfather","ˈɡɹæn(d)fɑː.ðə(ɹ)","female speaker's father's father",,,"BarthW2017",""
+"fMF","grandfather","ˈɡɹæn(d)fɑː.ðə(ɹ)","female speaker's mother's father",,,"BarthW2017",""
+"mFF","grandfather","ˈɡɹæn(d)fɑː.ðə(ɹ)","male speaker's father‘s father",,,"BarthW2017",""
+"mMM","grandmother","ˈɡɹæn(d)mʌðə(ɹ)","male speaker's mother's mother",,,"BarthW2017",""
+"fM","mother","ˈmʌðə(ɹ)","female speaker's mother",,,"BarthW2017",""
+"mM","mother","ˈmʌðə(ɹ)","male speaker's mother",,,"BarthW2017",""
+"feBS","nephew","ˈnɛv.ju","female speaker's older brother's son",,,"BarthW2017",""
+"feZS","nephew","ˈnɛv.ju","female speaker's older sister's son",,,"BarthW2017",""
+"fyBS","nephew","ˈnɛv.ju","female speaker's younger brother's son",,,"BarthW2017",""
+"fyZS","nephew","ˈnɛv.ju","female speaker's younger sister's son",,,"BarthW2017",""
+"meBS","nephew","ˈnɛv.ju","male speaker's older brother's son",,,"BarthW2017",""
+"meZS","nephew","ˈnɛv.ju","male speaker's older sister's son",,,"BarthW2017",""
+"myBS","nephew","ˈnɛv.ju","male speaker's younger brother's son",,,"BarthW2017",""
+"myZS","nephew","ˈnɛv.ju","male speaker's younger sister's son",,,"BarthW2017",""
+"feBD","niece","niːs","female speaker's older brother's daughter",,,"BarthW2017",""
+"feZD","niece","niːs","female speaker's older sister's daughter",,,"BarthW2017",""
+"fyBD","niece","niːs","female speaker's younger brother's daughter",,,"BarthW2017",""
+"fyZD","niece","niːs","female speaker's younger sister's daughter",,,"BarthW2017",""
+"meBD","niece","niːs","male speaker's older brother's daughter",,,"BarthW2017",""
+"meZD","niece","niːs","male speaker's older sister's daughter",,,"BarthW2017",""
+"myBD","niece","niːs","male speaker's younger brother's daughter",,,"BarthW2017",""
+"myZD","niece","niːs","male speaker's younger sister's daughter",,,"BarthW2017",""
+"fFeB","uncle","ŭngʹkəl","female speaker's father's older brother",,,"BarthW2017",""
+"fFyB","uncle","ŭngʹkəl","female speaker's father's younger brother",,,"BarthW2017",""
+"fMeB","uncle","ŭngʹkəl","female speaker's mother's older brother",,,"BarthW2017",""
+"fMyB","uncle","ŭngʹkəl","female speaker's mother's younger brother",,,"BarthW2017",""
+"mFeB","uncle","ŭngʹkəl","male speaker's father's older brother",,,"BarthW2017",""
+"mFyB","uncle","ŭngʹkəl","male speaker's father's younger brother",,,"BarthW2017",""
+"mMeB","uncle","ŭngʹkəl","male speaker's mother's older brother",,,"BarthW2017",""
+"mMyB","uncle","ŭngʹkəl","male speaker's mother's younger brother",,,"BarthW2017",""
+"feZ","sister","sĭs'tər","female speaker's older sister",,,"BarthW2017",""
+"fyZ","sister","sĭs'tər","female speaker's younger sister",,,"BarthW2017",""
+"meZ","sister","sĭs'tər","male speaker's older sister",,,"BarthW2017",""
+"myZ","sister","sĭs'tər","male speaker's younger sister",,,"BarthW2017",""
+"fHM","mother-in-law","ˈmʌðə(ɹ) ɪn ˌlɔ","speaker's husband's mother",,,"BarthW2017",""
+"mWM","mother-in-law","ˈmʌðə(ɹ) ɪn ˌlɔ","speaker's wife's mother",,,"BarthW2017",""
+"fDH","son-in-law","sʌn ɪn ˌlɔ","female speaker's daughter's husband",,,"BarthW2017",""
+"mDH","son-in-law","sʌn ɪn ˌlɔ","male speaker's daughter's husband",,,"BarthW2017",""
+"fSW","daughter-in-law","ˈdɔːtə(r) ɪn ˌlɔ","female speaker's son's wife",,,"BarthW2017",""
+"mSW","daughter-in-law","ˈdɔːtə(r) ɪn ˌlɔ","male speaker's son's wife",,,"BarthW2017",""
+"fHF","father-in-law","ˈfɑː.ðə(ɹ) ɪn ˌlɔ","speaker's husband's father",,,"BarthW2017",""
+"mWF","father-in-law","ˈfɑː.ðə(ɹ) ɪn ˌlɔ","speaker's wife's father",,,"BarthW2017",""
+"fS","son","sʌn","female speaker's son",,,"BarthW2017",""
+"mS","son","sʌn","male speaker's son",,,"BarthW2017",""
+"fFeZ","aunt","ɑːnt","female speaker's father's older sister",,,"BarthW2017",""
+"fFyZ","aunt","ɑːnt","female speaker's father's younger sister",,,"BarthW2017",""
+"fMeZ","aunt","ɑːnt","female speaker's mother's older sister",,,"BarthW2017",""
+"fMyZ","aunt","ɑːnt","female speaker's mother's younger sister",,,"BarthW2017",""
+"mFeZ","aunt","ɑːnt","male speaker's father's older sister",,,"BarthW2017",""
+"mFyZ","aunt","ɑːnt","male speaker's father's younger sister",,,"BarthW2017",""
+"mMeZ","aunt","ɑːnt","male speaker's mother's older sister",,,"BarthW2017",""
+"mMyZ","aunt","ɑːnt","male speaker's mother's younger sister",,,"BarthW2017",""
+"fD","daughter","ˈdɔːtə(r)","female speaker's daughter",,,"BarthW2017",""
+"mD","daughter","ˈdɔːtə(r)","male speaker's daughter",,,"BarthW2017",""
+"fF","father","ˈfɑː.ðə(ɹ)","female speaker's father",,,"BarthW2017",""
+"mF","father","ˈfɑː.ðə(ɹ)","male speaker's father",,,"BarthW2017",""
+"mFeBS","cousin","ˈkʌz(ə)n","male speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"mFyBS","cousin","ˈkʌz(ə)n","male speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"mFeZS","cousin","ˈkʌz(ə)n","male speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"mFyZS","cousin","ˈkʌz(ə)n","male speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"mFeBD","cousin","ˈkʌz(ə)n","male speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mFyBD","cousin","ˈkʌz(ə)n","male speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mFeZD","cousin","ˈkʌz(ə)n","male speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mFyZD","cousin","ˈkʌz(ə)n","male speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mMeBS","cousin","ˈkʌz(ə)n","male speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"mMyBS","cousin","ˈkʌz(ə)n","male speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"mMeZS","cousin","ˈkʌz(ə)n","male speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"mMyZS","cousin","ˈkʌz(ə)n","male speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"mMeBD","cousin","ˈkʌz(ə)n","male speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mMyBD","cousin","ˈkʌz(ə)n","male speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mMeZD","cousin","ˈkʌz(ə)n","male speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mMyZD","cousin","ˈkʌz(ə)n","male speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mFBeS","cousin","ˈkʌz(ə)n","male speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"mFByS","cousin","ˈkʌz(ə)n","male speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"mFZeS","cousin","ˈkʌz(ə)n","male speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"mFZyS","cousin","ˈkʌz(ə)n","male speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"mFBeD","cousin","ˈkʌz(ə)n","male speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mFByD","cousin","ˈkʌz(ə)n","male speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mFZeD","cousin","ˈkʌz(ə)n","male speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mFZyD","cousin","ˈkʌz(ə)n","male speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mMBeS","cousin","ˈkʌz(ə)n","male speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"mMByS","cousin","ˈkʌz(ə)n","male speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"mMZeS","cousin","ˈkʌz(ə)n","male speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"mMZyS","cousin","ˈkʌz(ə)n","male speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"mMBeD","cousin","ˈkʌz(ə)n","male speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mMByD","cousin","ˈkʌz(ə)n","male speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"mMZeD","cousin","ˈkʌz(ə)n","male speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"mMZyD","cousin","ˈkʌz(ə)n","male speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fFeBS","cousin","ˈkʌz(ə)n","female speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"fFyBS","cousin","ˈkʌz(ə)n","female speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"fFeZS","cousin","ˈkʌz(ə)n","female speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"fFyZS","cousin","ˈkʌz(ə)n","female speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"fFeBD","cousin","ˈkʌz(ə)n","female speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fFyBD","cousin","ˈkʌz(ə)n","female speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fFeZD","cousin","ˈkʌz(ə)n","female speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fFyZD","cousin","ˈkʌz(ə)n","female speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fMeBS","cousin","ˈkʌz(ə)n","female speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"fMyBS","cousin","ˈkʌz(ə)n","female speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"fMeZS","cousin","ˈkʌz(ə)n","female speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"fMyZS","cousin","ˈkʌz(ə)n","female speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"fMeBD","cousin","ˈkʌz(ə)n","female speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fMyBD","cousin","ˈkʌz(ə)n","female speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fMeZD","cousin","ˈkʌz(ə)n","female speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fMyZD","cousin","ˈkʌz(ə)n","female speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fFBeS","cousin","ˈkʌz(ə)n","female speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"fFByS","cousin","ˈkʌz(ə)n","female speaker's father's brother's son",,,"BarthW2017","Inferred; NA"
+"fFZeS","cousin","ˈkʌz(ə)n","female speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"fFZyS","cousin","ˈkʌz(ə)n","female speaker's father's sister's son",,,"BarthW2017","Inferred; NA"
+"fFBeD","cousin","ˈkʌz(ə)n","female speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fFByD","cousin","ˈkʌz(ə)n","female speaker's father's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fFZeD","cousin","ˈkʌz(ə)n","female speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fFZyD","cousin","ˈkʌz(ə)n","female speaker's father's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fMBeS","cousin","ˈkʌz(ə)n","female speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"fMByS","cousin","ˈkʌz(ə)n","female speaker's mother's brother's son",,,"BarthW2017","Inferred; NA"
+"fMZeS","cousin","ˈkʌz(ə)n","female speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"fMZyS","cousin","ˈkʌz(ə)n","female speaker's mother's sister's son",,,"BarthW2017","Inferred; NA"
+"fMBeD","cousin","ˈkʌz(ə)n","female speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fMByD","cousin","ˈkʌz(ə)n","female speaker's mother's brother's daughter",,,"BarthW2017","Inferred; NA"
+"fMZeD","cousin","ˈkʌz(ə)n","female speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"
+"fMZyD","cousin","ˈkʌz(ə)n","female speaker's mother's sister's daughter",,,"BarthW2017","Inferred; NA"

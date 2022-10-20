@@ -1,115 +1,115 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tou,,male ego's older brother,,,Schokkin2014,Schokkin and Otto 2014
-myB,"nae, sanei",,male ego's younger brother,,,Schokkin2014,
-feB,mwane,,female ego's older brother,,,Schokkin2014,
-fyB,mwane,,female ego's younger brother,,,Schokkin2014,
-meZ,patne,,male ego's older sister,,,Schokkin2014,
-myZ,patne,,male ego's younger sister,,,Schokkin2014,
-feZ,tou,,female ego's older sister,,,Schokkin2014,
-fyZ,"nae, sanei",,female ego's younger sister,,,Schokkin2014,
-mF,tama,,male ego's father,,,Schokkin2014,
-mM,tina,,male ego's mother,,,Schokkin2014,
-fF,tama,,female ego's father,,,Schokkin2014,
-fM,tina,,female ego's mother,,,Schokkin2014,
-mS,naru,,male ego's son,,,Schokkin2014,
-fS,naru,,female ego's son,,,Schokkin2014,
-mD,pên ta,,male ego's daughter,,,Schokkin2014,
-fD,pên ta,,female ego's daughter,,,Schokkin2014,
-mSS,maêwe,,male ego's son's son,,,Schokkin2014,
-mSD,maêwe,,male ego's son's daughter,,,Schokkin2014,
-mDS,maêwe,,male ego's daughter's son,,,Schokkin2014,
-mDD,maêwe,,male ego's daughter's daughter,,,Schokkin2014,
-fSS,maêwe,,female ego's son's son,,,Schokkin2014,
-fSD,maêwe,,female ego's son's daughter,,,Schokkin2014,
-fDS,maêwe,,female ego's daughter's son,,,Schokkin2014,
-fDD,maêwe,,female ego's daugher's daughter,,,Schokkin2014,
-mFF,tupu,,male ego's father‘s father,,,Schokkin2014,
-mFM,tupu,,male ego's father's mother,,,Schokkin2014,
-mMF,tupu,,male ego's mother's father,,,Schokkin2014,
-mMM,tupu,,male ego's mother's mother,,,Schokkin2014,
-fFF,tupu,,female ego's father's father,,,Schokkin2014,
-fFM,tupu,,female ego's father's mother,,,Schokkin2014,
-fMF,tupu,,female ego's mother's father,,,Schokkin2014,
-fMM,tupu,,female ego's mother's mother,,,Schokkin2014,
-meBS,naru,,male ego's older brother's son,,,Schokkin2014,
-myBS,naru,,male ego's younger brother's son,,,Schokkin2014,
-meZS,wolia,,male ego's older sister's son,,,Schokkin2014,
-myZS,wolia,,male ego's younger sister's son,,,Schokkin2014,
-meBD,pên ta,,male ego's older brother's daughter,,,Schokkin2014,
-myBD,pên ta,,male ego's younger brother's daughter,,,Schokkin2014,
-meZD,wolia,,male ego's older sister's daughter,,,Schokkin2014,
-myZD,wolia,,male ego's younger sister's daughter,,,Schokkin2014,
-feBS,wolia,,female ego's older brother's son,,,Schokkin2014,
-fyBS,wolia,,female ego's younger brother's son,,,Schokkin2014,
-feZS,naru,,female ego's older sister's son,,,Schokkin2014,
-fyZS,naru,,female ego's younger sister's son,,,Schokkin2014,
-feBD,wolia,,female ego's older brother's daughter,,,Schokkin2014,
-fyBD,wolia,,female ego's younger brother's daughter,,,Schokkin2014,
-feZD,pên ta,,female ego's older sister's daughter,,,Schokkin2014,
-fyZD,pên ta,,female ego's younger sister's daughter,,,Schokkin2014,
-mFeB,tama,,male ego's father's older brother,,,Schokkin2014,
-mFyB,tama,,male ego's father's younger brother,,,Schokkin2014,
-mFeZ,sae,,male ego's father's older sister,,,Schokkin2014,
-mFyZ,sae,,male ego's father's younger sister,,,Schokkin2014,
-mMeB,nukna,,male ego's mother's older brother,,,Schokkin2014,
-mMyB,nukna,,male ego's mother's younger brother,,,Schokkin2014,
-mMeZ,tina,,male ego's mother's older sister,,,Schokkin2014,
-mMyZ,tina,,male ego's mother's younger sister,,,Schokkin2014,
-fFeB,tama,,female ego's father's older brother,,,Schokkin2014,
-fFyB,tama,,female ego's father's younger brother,,,Schokkin2014,
-fFeZ,sae,,female ego's father's older sister,,,Schokkin2014,
-fFyZ,sae,,female ego's father's younger sister,,,Schokkin2014,
-fMeB,nukna,,female ego's mother's older brother,,,Schokkin2014,
-fMyB,nukna,,female ego's mother's younger brother,,,Schokkin2014,
-fMeZ,tina,,female ego's mother's older sister,,,Schokkin2014,
-fMyZ,tina,,female ego's mother's younger sister,,,Schokkin2014,
-mW,paria,,male ego's wife,,,Schokkin2014,
-fH,asoa,,female ego‘s husband,,,Schokkin2014,
-mDH,nope,,male ego's daughter's husband,,,Schokkin2014,
-fDH,nope,,female ego's daughter's husband,,,Schokkin2014,
-mSW,"nope, kat naru",,male ego's son's wife,,,Schokkin2014,
-fSW,"nope, kat naru",,female ego's son's wife,,,Schokkin2014,
-mWF,"nope, nana",,male ego's wife's father,,,Schokkin2014,
-mWM,"nope, nana",,male ego's wife's mother,,,Schokkin2014,
-mWB,"nope, polam",,male ego's wife's brother,,,Schokkin2014,
-mWZ,"nope, polam",,male ego's wife's sister,,,Schokkin2014,
-fHF,"nope, nana",,female ego's husband's father,,,Schokkin2014,
-fHM,"nope, nana",,female ego's husband's mother,,,Schokkin2014,
-fHB,"nope, polam",,female ego's husband's brother,,,Schokkin2014,
-fHZ,"nope, ipa, polam",,female ego's husband's sister,,,Schokkin2014,
-mBW,"nope, polam",,male ego's brother's wife,,,Schokkin2014,
-fBW,"nope, ipa, polam",,female ego's brother's wife,,,Schokkin2014,
-mZH,"nope, polam",,male ego's sister's husband,,,Schokkin2014,
-fZH,"nope, polam",,female ego's sister's husband,,,Schokkin2014,
-mFeBS,tou,,male ego's father‘s older brother‘s son,,,Schokkin2014,
-mFyBS,"nae, sanei",,male ego‘s father‘s younger brother‘s son,,,Schokkin2014,
-mFeZS,pwai,,male ego's father‘s older sister‘s son,,,Schokkin2014,
-mFyZS,pwai,,male ego‘s father‘s younger sister‘s son,,,Schokkin2014,
-mFeBD,patne,,male ego's father‘s older brother‘s daughter,,,Schokkin2014,
-mFyBD,patne,,male ego‘s father‘s younger brother‘s daughter,,,Schokkin2014,
-mFeZD,pwai,,male ego's father‘s older sister‘s daughter,,,Schokkin2014,
-mFyZD,pwai,,male ego‘s father‘s younger sister‘s daughter,,,Schokkin2014,
-mMeBS,pwai,,male ego's mother‘s older brother‘s son,,,Schokkin2014,
-mMyBS,pwai,,male ego‘s mother‘s younger brother‘s son,,,Schokkin2014,
-mMeZS,tou,,male ego's mother‘s older sister‘s son,,,Schokkin2014,
-mMyZS,"nae, sanei",,male ego‘s mother‘s younger sister‘s son,,,Schokkin2014,
-mMeBD,pwai,,male ego's mother‘s older brother‘s daughter,,,Schokkin2014,
-mMyBD,pwai,,male ego‘s mother‘s younger brother‘s daughter,,,Schokkin2014,
-mMeZD,patne,,male ego's mother‘s older sister‘s daughter,,,Schokkin2014,
-mMyZD,patne,,male ego‘s mother‘s younger sister‘s daughter,,,Schokkin2014,
-fFeBS,mwane,,female ego's father‘s older brother‘s son,,,Schokkin2014,
-fFyBS,mwane,,female ego‘s father‘s younger brother‘s son,,,Schokkin2014,
-fFeZS,pwai,,female ego's father‘s older sister‘s son,,,Schokkin2014,
-fFyZS,pwai,,female ego‘s father‘s younger sister‘s son,,,Schokkin2014,
-fFeBD,tou,,female ego's father‘s older brother‘s daughter,,,Schokkin2014,
-fFyBD,"nae, sanei",,female ego‘s father‘s younger brother‘s daughter,,,Schokkin2014,
-fFeZD,pwai,,female ego's father‘s older sister‘s daughter,,,Schokkin2014,
-fFyZD,pwai,,female ego‘s father‘s younger sister‘s daughter,,,Schokkin2014,
-fMeBS,pwai,,female ego's mother‘s older brother‘s son,,,Schokkin2014,
-fMyBS,pwai,,female ego‘s mother‘s younger brother‘s son,,,Schokkin2014,
-fMeZS,mwane,,female ego's mother‘s older sister‘s son,,,Schokkin2014,
-fMyZS,mwane,,female ego‘s mother‘s younger sister‘s son,,,Schokkin2014,
-fMeBD,pwai,,female ego's mother‘s older brother‘s daughter,,,Schokkin2014,
-fMyBD,pwai,,female ego‘s mother‘s younger brother‘s daughter,,,Schokkin2014,
-fMeZD,tou,,female ego's mother‘s older sister‘s daughter,,,Schokkin2014,
-fMyZD,"nae, sanei",,female ego‘s mother‘s younger sister‘s daughter,,,Schokkin2014,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tou",,"male ego's older brother",,,"Schokkin2014","Schokkin and Otto 2014"
+"myB","nae, sanei",,"male ego's younger brother",,,"Schokkin2014",""
+"feB","mwane",,"female ego's older brother",,,"Schokkin2014",""
+"fyB","mwane",,"female ego's younger brother",,,"Schokkin2014",""
+"meZ","patne",,"male ego's older sister",,,"Schokkin2014",""
+"myZ","patne",,"male ego's younger sister",,,"Schokkin2014",""
+"feZ","tou",,"female ego's older sister",,,"Schokkin2014",""
+"fyZ","nae, sanei",,"female ego's younger sister",,,"Schokkin2014",""
+"mF","tama",,"male ego's father",,,"Schokkin2014",""
+"mM","tina",,"male ego's mother",,,"Schokkin2014",""
+"fF","tama",,"female ego's father",,,"Schokkin2014",""
+"fM","tina",,"female ego's mother",,,"Schokkin2014",""
+"mS","naru",,"male ego's son",,,"Schokkin2014",""
+"fS","naru",,"female ego's son",,,"Schokkin2014",""
+"mD","pên ta",,"male ego's daughter",,,"Schokkin2014",""
+"fD","pên ta",,"female ego's daughter",,,"Schokkin2014",""
+"mSS","maêwe",,"male ego's son's son",,,"Schokkin2014",""
+"mSD","maêwe",,"male ego's son's daughter",,,"Schokkin2014",""
+"mDS","maêwe",,"male ego's daughter's son",,,"Schokkin2014",""
+"mDD","maêwe",,"male ego's daughter's daughter",,,"Schokkin2014",""
+"fSS","maêwe",,"female ego's son's son",,,"Schokkin2014",""
+"fSD","maêwe",,"female ego's son's daughter",,,"Schokkin2014",""
+"fDS","maêwe",,"female ego's daughter's son",,,"Schokkin2014",""
+"fDD","maêwe",,"female ego's daugher's daughter",,,"Schokkin2014",""
+"mFF","tupu",,"male ego's father‘s father",,,"Schokkin2014",""
+"mFM","tupu",,"male ego's father's mother",,,"Schokkin2014",""
+"mMF","tupu",,"male ego's mother's father",,,"Schokkin2014",""
+"mMM","tupu",,"male ego's mother's mother",,,"Schokkin2014",""
+"fFF","tupu",,"female ego's father's father",,,"Schokkin2014",""
+"fFM","tupu",,"female ego's father's mother",,,"Schokkin2014",""
+"fMF","tupu",,"female ego's mother's father",,,"Schokkin2014",""
+"fMM","tupu",,"female ego's mother's mother",,,"Schokkin2014",""
+"meBS","naru",,"male ego's older brother's son",,,"Schokkin2014",""
+"myBS","naru",,"male ego's younger brother's son",,,"Schokkin2014",""
+"meZS","wolia",,"male ego's older sister's son",,,"Schokkin2014",""
+"myZS","wolia",,"male ego's younger sister's son",,,"Schokkin2014",""
+"meBD","pên ta",,"male ego's older brother's daughter",,,"Schokkin2014",""
+"myBD","pên ta",,"male ego's younger brother's daughter",,,"Schokkin2014",""
+"meZD","wolia",,"male ego's older sister's daughter",,,"Schokkin2014",""
+"myZD","wolia",,"male ego's younger sister's daughter",,,"Schokkin2014",""
+"feBS","wolia",,"female ego's older brother's son",,,"Schokkin2014",""
+"fyBS","wolia",,"female ego's younger brother's son",,,"Schokkin2014",""
+"feZS","naru",,"female ego's older sister's son",,,"Schokkin2014",""
+"fyZS","naru",,"female ego's younger sister's son",,,"Schokkin2014",""
+"feBD","wolia",,"female ego's older brother's daughter",,,"Schokkin2014",""
+"fyBD","wolia",,"female ego's younger brother's daughter",,,"Schokkin2014",""
+"feZD","pên ta",,"female ego's older sister's daughter",,,"Schokkin2014",""
+"fyZD","pên ta",,"female ego's younger sister's daughter",,,"Schokkin2014",""
+"mFeB","tama",,"male ego's father's older brother",,,"Schokkin2014",""
+"mFyB","tama",,"male ego's father's younger brother",,,"Schokkin2014",""
+"mFeZ","sae",,"male ego's father's older sister",,,"Schokkin2014",""
+"mFyZ","sae",,"male ego's father's younger sister",,,"Schokkin2014",""
+"mMeB","nukna",,"male ego's mother's older brother",,,"Schokkin2014",""
+"mMyB","nukna",,"male ego's mother's younger brother",,,"Schokkin2014",""
+"mMeZ","tina",,"male ego's mother's older sister",,,"Schokkin2014",""
+"mMyZ","tina",,"male ego's mother's younger sister",,,"Schokkin2014",""
+"fFeB","tama",,"female ego's father's older brother",,,"Schokkin2014",""
+"fFyB","tama",,"female ego's father's younger brother",,,"Schokkin2014",""
+"fFeZ","sae",,"female ego's father's older sister",,,"Schokkin2014",""
+"fFyZ","sae",,"female ego's father's younger sister",,,"Schokkin2014",""
+"fMeB","nukna",,"female ego's mother's older brother",,,"Schokkin2014",""
+"fMyB","nukna",,"female ego's mother's younger brother",,,"Schokkin2014",""
+"fMeZ","tina",,"female ego's mother's older sister",,,"Schokkin2014",""
+"fMyZ","tina",,"female ego's mother's younger sister",,,"Schokkin2014",""
+"mW","paria",,"male ego's wife",,,"Schokkin2014",""
+"fH","asoa",,"female ego‘s husband",,,"Schokkin2014",""
+"mDH","nope",,"male ego's daughter's husband",,,"Schokkin2014",""
+"fDH","nope",,"female ego's daughter's husband",,,"Schokkin2014",""
+"mSW","nope, kat naru",,"male ego's son's wife",,,"Schokkin2014",""
+"fSW","nope, kat naru",,"female ego's son's wife",,,"Schokkin2014",""
+"mWF","nope, nana",,"male ego's wife's father",,,"Schokkin2014",""
+"mWM","nope, nana",,"male ego's wife's mother",,,"Schokkin2014",""
+"mWB","nope, polam",,"male ego's wife's brother",,,"Schokkin2014",""
+"mWZ","nope, polam",,"male ego's wife's sister",,,"Schokkin2014",""
+"fHF","nope, nana",,"female ego's husband's father",,,"Schokkin2014",""
+"fHM","nope, nana",,"female ego's husband's mother",,,"Schokkin2014",""
+"fHB","nope, polam",,"female ego's husband's brother",,,"Schokkin2014",""
+"fHZ","nope, ipa, polam",,"female ego's husband's sister",,,"Schokkin2014",""
+"mBW","nope, polam",,"male ego's brother's wife",,,"Schokkin2014",""
+"fBW","nope, ipa, polam",,"female ego's brother's wife",,,"Schokkin2014",""
+"mZH","nope, polam",,"male ego's sister's husband",,,"Schokkin2014",""
+"fZH","nope, polam",,"female ego's sister's husband",,,"Schokkin2014",""
+"mFeBS","tou",,"male ego's father‘s older brother‘s son",,,"Schokkin2014",""
+"mFyBS","nae, sanei",,"male ego‘s father‘s younger brother‘s son",,,"Schokkin2014",""
+"mFeZS","pwai",,"male ego's father‘s older sister‘s son",,,"Schokkin2014",""
+"mFyZS","pwai",,"male ego‘s father‘s younger sister‘s son",,,"Schokkin2014",""
+"mFeBD","patne",,"male ego's father‘s older brother‘s daughter",,,"Schokkin2014",""
+"mFyBD","patne",,"male ego‘s father‘s younger brother‘s daughter",,,"Schokkin2014",""
+"mFeZD","pwai",,"male ego's father‘s older sister‘s daughter",,,"Schokkin2014",""
+"mFyZD","pwai",,"male ego‘s father‘s younger sister‘s daughter",,,"Schokkin2014",""
+"mMeBS","pwai",,"male ego's mother‘s older brother‘s son",,,"Schokkin2014",""
+"mMyBS","pwai",,"male ego‘s mother‘s younger brother‘s son",,,"Schokkin2014",""
+"mMeZS","tou",,"male ego's mother‘s older sister‘s son",,,"Schokkin2014",""
+"mMyZS","nae, sanei",,"male ego‘s mother‘s younger sister‘s son",,,"Schokkin2014",""
+"mMeBD","pwai",,"male ego's mother‘s older brother‘s daughter",,,"Schokkin2014",""
+"mMyBD","pwai",,"male ego‘s mother‘s younger brother‘s daughter",,,"Schokkin2014",""
+"mMeZD","patne",,"male ego's mother‘s older sister‘s daughter",,,"Schokkin2014",""
+"mMyZD","patne",,"male ego‘s mother‘s younger sister‘s daughter",,,"Schokkin2014",""
+"fFeBS","mwane",,"female ego's father‘s older brother‘s son",,,"Schokkin2014",""
+"fFyBS","mwane",,"female ego‘s father‘s younger brother‘s son",,,"Schokkin2014",""
+"fFeZS","pwai",,"female ego's father‘s older sister‘s son",,,"Schokkin2014",""
+"fFyZS","pwai",,"female ego‘s father‘s younger sister‘s son",,,"Schokkin2014",""
+"fFeBD","tou",,"female ego's father‘s older brother‘s daughter",,,"Schokkin2014",""
+"fFyBD","nae, sanei",,"female ego‘s father‘s younger brother‘s daughter",,,"Schokkin2014",""
+"fFeZD","pwai",,"female ego's father‘s older sister‘s daughter",,,"Schokkin2014",""
+"fFyZD","pwai",,"female ego‘s father‘s younger sister‘s daughter",,,"Schokkin2014",""
+"fMeBS","pwai",,"female ego's mother‘s older brother‘s son",,,"Schokkin2014",""
+"fMyBS","pwai",,"female ego‘s mother‘s younger brother‘s son",,,"Schokkin2014",""
+"fMeZS","mwane",,"female ego's mother‘s older sister‘s son",,,"Schokkin2014",""
+"fMyZS","mwane",,"female ego‘s mother‘s younger sister‘s son",,,"Schokkin2014",""
+"fMeBD","pwai",,"female ego's mother‘s older brother‘s daughter",,,"Schokkin2014",""
+"fMyBD","pwai",,"female ego‘s mother‘s younger brother‘s daughter",,,"Schokkin2014",""
+"fMeZD","tou",,"female ego's mother‘s older sister‘s daughter",,,"Schokkin2014",""
+"fMyZD","nae, sanei",,"female ego‘s mother‘s younger sister‘s daughter",,,"Schokkin2014",""

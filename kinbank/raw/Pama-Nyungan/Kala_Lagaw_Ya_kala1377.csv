@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tukoiab,,male ego's older brother,,,Haddon1907,
-myB,tukoiab,,male ego's younger brother,,,Haddon1907,
-feB,babat,,female ego's older brother,,,Haddon1907,
-fyB,babat,,female ego's younger brother,,,Haddon1907,
-meZ,babat,,male ego's older sister,,,Haddon1907,
-myZ,babat,,male ego's younger sister,,,Haddon1907,
-feZ,tukoiab,,female ego's older sister,,,Haddon1907,
-fyZ,tukoiab,,female ego's younger sister,,,Haddon1907,
-mF,tati,,male ego's father,,,Haddon1907,
-mM,apu,,male ego's mother,,,Haddon1907,
-fF,tati,,female ego's father,,,Haddon1907,
-fM,apu,,female ego's mother,,,Haddon1907,
-mS,kazi,,male ego's son,,,Haddon1907,
-fS,kazi,,female ego's son,,,Haddon1907,
-mD,kazi,,male ego's daughter,,,Haddon1907,
-fD,kazi,,female ego's daughter,,,Haddon1907,
-mSS,ngep,,male ego's son's son,,,Haddon1907,
-mSD,ngep,,male ego's son's daughter,,,Haddon1907,
-mDS,ngep,,male ego's daughter's son,,,Haddon1907,
-mDD,ngep,,male ego's daughter's daughter,,,Haddon1907,
-fSS,ngep,,female ego's son's son,,,Haddon1907,
-fSD,ngep,,female ego's son's daughter,,,Haddon1907,
-fDS,ngep,,female ego's daughter's son,,,Haddon1907,
-fDD,ngep,,female ego's daugher's daughter,,,Haddon1907,
-mFF,"atei, bǔbát",,male ego's father‘s father,,,Haddon1907,
-mFM,"kaiad, aka",,male ego's father's mother,,,Haddon1907,
-mMF,"atei, bǔbát",,male ego's mother's father,,,Haddon1907,
-mMM,"kaiad, aka",,male ego's mother's mother,,,Haddon1907,
-fFF,"atei, bǔbát",,female ego's father's father,,,Haddon1907,
-fFM,"kaiad, aka",,female ego's father's mother,,,Haddon1907,
-fMF,"atei, bǔbát",,female ego's mother's father,,,Haddon1907,
-fMM,"kaiad, aka",,female ego's mother's mother,,,Haddon1907,
-meBS,"ngaibat, kutapu",,male ego's older brother's son,,,Haddon1907,
-myBS,"ngaibat, kutapu",,male ego's younger brother's son,,,Haddon1907,
-meZS,wadwam,,male ego's older sister's son,,,Haddon1907,
-myZS,wadwam,,male ego's younger sister's son,,,Haddon1907,
-meBD,"ngaibat, kutapu",,male ego's older brother's daughter,,,Haddon1907,
-myBD,"ngaibat, kutapu",,male ego's younger brother's daughter,,,Haddon1907,
-meZD,wadwam,,male ego's older sister's daughter,,,Haddon1907,
-myZD,wadwam,,male ego's younger sister's daughter,,,Haddon1907,
-feBS,"ngaibat, kutapu",,female ego's older brother's son,,,Haddon1907,
-fyBS,"ngaibat, kutapu",,female ego's younger brother's son,,,Haddon1907,
-feZS,wadwam,,female ego's older sister's son,,,Haddon1907,
-fyZS,wadwam,,female ego's younger sister's son,,,Haddon1907,
-feBD,"ngaibat, kutapu",,female ego's older brother's daughter,,,Haddon1907,
-fyBD,"ngaibat, kutapu",,female ego's younger brother's daughter,,,Haddon1907,
-feZD,wadwam,,female ego's older sister's daughter,,,Haddon1907,
-fyZD,wadwam,,female ego's younger sister's daughter,,,Haddon1907,
-mFeB,tati,,male ego's father's older brother,,,Haddon1907,
-mFyB,tati,,male ego's father's younger brother,,,Haddon1907,
-mFeZ,"ngaibat, kutapu",,male ego's father's older sister,,,Haddon1907,
-mFyZ,"ngaibat, kutapu",,male ego's father's younger sister,,,Haddon1907,
-mMeB,wadwam,,male ego's mother's older brother,,,Haddon1907,
-mMyB,wadwam,,male ego's mother's younger brother,,,Haddon1907,
-mMeZ,apu,,male ego's mother's older sister,,,Haddon1907,
-mMyZ,apu,,male ego's mother's younger sister,,,Haddon1907,
-fFeB,tati,,female ego's father's older brother,,,Haddon1907,
-fFyB,tati,,female ego's father's younger brother,,,Haddon1907,
-fFeZ,"ngaibat, kutapu",,female ego's father's older sister,,,Haddon1907,
-fFyZ,"ngaibat, kutapu",,female ego's father's younger sister,,,Haddon1907,
-fMeB,wadwam,,female ego's mother's older brother,,,Haddon1907,
-fMyB,wadwam,,female ego's mother's younger brother,,,Haddon1907,
-fMeZ,apu,,female ego's mother's older sister,,,Haddon1907,
-fMyZ,apu,,female ego's mother's younger sister,,,Haddon1907,
-mW,ipi,,male ego's wife,,,Haddon1907,
-fH,alai,,female ego‘s husband,,,Haddon1907,
-mDH,ira,,male ego's daughter's husband,,,Haddon1907,
-fDH,ira,,female ego's daughter's husband,,,Haddon1907,
-mSW,ira,,male ego's son's wife,,,Haddon1907,
-fSW,ira,,female ego's son's wife,,,Haddon1907,
-mWF,ira,,male ego's wife's father,,,Haddon1907,
-mWM,ira,,male ego's wife's mother,,,Haddon1907,
-mWB,imi,,male ego's wife's brother,,,Haddon1907,
-mWZ,ngaubat,,male ego's wife's sister,,,Haddon1907,
-fHF,ira,,female ego's husband's father,,,Haddon1907,
-fHM,ira,,female ego's husband's mother,,,Haddon1907,
-fHB,ngaubat,,female ego's husband's brother,,,Haddon1907,
-fHZ,imi,,female ego's husband's sister,,,Haddon1907,
-mBW,ngaubat,,male ego's brother's wife,,,Haddon1907,
-fBW,imi,,female ego's brother's wife,,,Haddon1907,
-mZH,imi,,male ego's sister's husband,,,Haddon1907,
-fZH,ngaubat,,female ego's sister's husband,,,Haddon1907,
-mFBS,tukoiab,,male ego's father's brother's son,,,Haddon1907,
-mFZS,tukoiab,,male ego's father's sister's son,,,Haddon1907,
-mMBS,tukoiab,,male ego's mother's brother's son,,,Haddon1907,
-mMZS,tukoiab,,male ego's mother's sister's son,,,Haddon1907,
-mFBD,babat,,male ego's father's brother's daughter,,,Haddon1907,
-mFZD,babat,,male ego's father's sister's daughter,,,Haddon1907,
-mMBD,babat,,male ego's mother's brother's daughter,,,Haddon1907,
-mMZD,babat,,male ego's mother's sister's daughter,,,Haddon1907,
-fFBS,babat,,female ego's father's brother's son,,,Haddon1907,
-fFZS,babat,,female ego's father's sister's son,,,Haddon1907,
-fMBS,babat,,female ego's mother's brother's son,,,Haddon1907,
-fMZS,babat,,female ego's mother's sister's son,,,Haddon1907,
-fFBD,tukoiab,,female ego's father's brother's daughter,,,Haddon1907,
-fFZD,tukoiab,,female ego's father's sister's daughter,,,Haddon1907,
-fMBD,tukoiab,,female ego's mother's brother's daughter,,,Haddon1907,
-fMZD,tukoiab,,female ego's mother's sister's daughter,,,Haddon1907,
-mFeBS,tukoiab,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
-mFyBS,tukoiab,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
-mFeZS,tukoiab,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
-mFyZS,tukoiab,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
-mFeBD,babat,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-mFyBD,babat,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-mFeZD,babat,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-mFyZD,babat,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-mMeBS,tukoiab,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
-mMyBS,tukoiab,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
-mMeZS,tukoiab,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
-mMyZS,tukoiab,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
-mMeBD,babat,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-mMyBD,babat,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-mMeZD,babat,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-mMyZD,babat,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-mFBeS,tukoiab,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
-mFByS,tukoiab,,male ego's father's brother's son,,,Haddon1907,Inferred; NA
-mFZeS,tukoiab,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
-mFZyS,tukoiab,,male ego's father's sister's son,,,Haddon1907,Inferred; NA
-mFBeD,babat,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-mFByD,babat,,male ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-mFZeD,babat,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-mFZyD,babat,,male ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-mMBeS,tukoiab,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
-mMByS,tukoiab,,male ego's mother's brother's son,,,Haddon1907,Inferred; NA
-mMZeS,tukoiab,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
-mMZyS,tukoiab,,male ego's mother's sister's son,,,Haddon1907,Inferred; NA
-mMBeD,babat,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-mMByD,babat,,male ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-mMZeD,babat,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-mMZyD,babat,,male ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-fFeBS,babat,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
-fFyBS,babat,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
-fFeZS,babat,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
-fFyZS,babat,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
-fFeBD,tukoiab,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-fFyBD,tukoiab,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-fFeZD,tukoiab,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-fFyZD,tukoiab,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-fMeBS,babat,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
-fMyBS,babat,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
-fMeZS,babat,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
-fMyZS,babat,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
-fMeBD,tukoiab,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-fMyBD,tukoiab,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-fMeZD,tukoiab,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-fMyZD,tukoiab,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-fFBeS,babat,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
-fFByS,babat,,female ego's father's brother's son,,,Haddon1907,Inferred; NA
-fFZeS,babat,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
-fFZyS,babat,,female ego's father's sister's son,,,Haddon1907,Inferred; NA
-fFBeD,tukoiab,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-fFByD,tukoiab,,female ego's father's brother's daughter,,,Haddon1907,Inferred; NA
-fFZeD,tukoiab,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-fFZyD,tukoiab,,female ego's father's sister's daughter,,,Haddon1907,Inferred; NA
-fMBeS,babat,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
-fMByS,babat,,female ego's mother's brother's son,,,Haddon1907,Inferred; NA
-fMZeS,babat,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
-fMZyS,babat,,female ego's mother's sister's son,,,Haddon1907,Inferred; NA
-fMBeD,tukoiab,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-fMByD,tukoiab,,female ego's mother's brother's daughter,,,Haddon1907,Inferred; NA
-fMZeD,tukoiab,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
-fMZyD,tukoiab,,female ego's mother's sister's daughter,,,Haddon1907,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tukoiab",,"male ego's older brother",,,"Haddon1907",""
+"myB","tukoiab",,"male ego's younger brother",,,"Haddon1907",""
+"feB","babat",,"female ego's older brother",,,"Haddon1907",""
+"fyB","babat",,"female ego's younger brother",,,"Haddon1907",""
+"meZ","babat",,"male ego's older sister",,,"Haddon1907",""
+"myZ","babat",,"male ego's younger sister",,,"Haddon1907",""
+"feZ","tukoiab",,"female ego's older sister",,,"Haddon1907",""
+"fyZ","tukoiab",,"female ego's younger sister",,,"Haddon1907",""
+"mF","tati",,"male ego's father",,,"Haddon1907",""
+"mM","apu",,"male ego's mother",,,"Haddon1907",""
+"fF","tati",,"female ego's father",,,"Haddon1907",""
+"fM","apu",,"female ego's mother",,,"Haddon1907",""
+"mS","kazi",,"male ego's son",,,"Haddon1907",""
+"fS","kazi",,"female ego's son",,,"Haddon1907",""
+"mD","kazi",,"male ego's daughter",,,"Haddon1907",""
+"fD","kazi",,"female ego's daughter",,,"Haddon1907",""
+"mSS","ngep",,"male ego's son's son",,,"Haddon1907",""
+"mSD","ngep",,"male ego's son's daughter",,,"Haddon1907",""
+"mDS","ngep",,"male ego's daughter's son",,,"Haddon1907",""
+"mDD","ngep",,"male ego's daughter's daughter",,,"Haddon1907",""
+"fSS","ngep",,"female ego's son's son",,,"Haddon1907",""
+"fSD","ngep",,"female ego's son's daughter",,,"Haddon1907",""
+"fDS","ngep",,"female ego's daughter's son",,,"Haddon1907",""
+"fDD","ngep",,"female ego's daugher's daughter",,,"Haddon1907",""
+"mFF","atei, bǔbát",,"male ego's father‘s father",,,"Haddon1907",""
+"mFM","kaiad, aka",,"male ego's father's mother",,,"Haddon1907",""
+"mMF","atei, bǔbát",,"male ego's mother's father",,,"Haddon1907",""
+"mMM","kaiad, aka",,"male ego's mother's mother",,,"Haddon1907",""
+"fFF","atei, bǔbát",,"female ego's father's father",,,"Haddon1907",""
+"fFM","kaiad, aka",,"female ego's father's mother",,,"Haddon1907",""
+"fMF","atei, bǔbát",,"female ego's mother's father",,,"Haddon1907",""
+"fMM","kaiad, aka",,"female ego's mother's mother",,,"Haddon1907",""
+"meBS","ngaibat, kutapu",,"male ego's older brother's son",,,"Haddon1907",""
+"myBS","ngaibat, kutapu",,"male ego's younger brother's son",,,"Haddon1907",""
+"meZS","wadwam",,"male ego's older sister's son",,,"Haddon1907",""
+"myZS","wadwam",,"male ego's younger sister's son",,,"Haddon1907",""
+"meBD","ngaibat, kutapu",,"male ego's older brother's daughter",,,"Haddon1907",""
+"myBD","ngaibat, kutapu",,"male ego's younger brother's daughter",,,"Haddon1907",""
+"meZD","wadwam",,"male ego's older sister's daughter",,,"Haddon1907",""
+"myZD","wadwam",,"male ego's younger sister's daughter",,,"Haddon1907",""
+"feBS","ngaibat, kutapu",,"female ego's older brother's son",,,"Haddon1907",""
+"fyBS","ngaibat, kutapu",,"female ego's younger brother's son",,,"Haddon1907",""
+"feZS","wadwam",,"female ego's older sister's son",,,"Haddon1907",""
+"fyZS","wadwam",,"female ego's younger sister's son",,,"Haddon1907",""
+"feBD","ngaibat, kutapu",,"female ego's older brother's daughter",,,"Haddon1907",""
+"fyBD","ngaibat, kutapu",,"female ego's younger brother's daughter",,,"Haddon1907",""
+"feZD","wadwam",,"female ego's older sister's daughter",,,"Haddon1907",""
+"fyZD","wadwam",,"female ego's younger sister's daughter",,,"Haddon1907",""
+"mFeB","tati",,"male ego's father's older brother",,,"Haddon1907",""
+"mFyB","tati",,"male ego's father's younger brother",,,"Haddon1907",""
+"mFeZ","ngaibat, kutapu",,"male ego's father's older sister",,,"Haddon1907",""
+"mFyZ","ngaibat, kutapu",,"male ego's father's younger sister",,,"Haddon1907",""
+"mMeB","wadwam",,"male ego's mother's older brother",,,"Haddon1907",""
+"mMyB","wadwam",,"male ego's mother's younger brother",,,"Haddon1907",""
+"mMeZ","apu",,"male ego's mother's older sister",,,"Haddon1907",""
+"mMyZ","apu",,"male ego's mother's younger sister",,,"Haddon1907",""
+"fFeB","tati",,"female ego's father's older brother",,,"Haddon1907",""
+"fFyB","tati",,"female ego's father's younger brother",,,"Haddon1907",""
+"fFeZ","ngaibat, kutapu",,"female ego's father's older sister",,,"Haddon1907",""
+"fFyZ","ngaibat, kutapu",,"female ego's father's younger sister",,,"Haddon1907",""
+"fMeB","wadwam",,"female ego's mother's older brother",,,"Haddon1907",""
+"fMyB","wadwam",,"female ego's mother's younger brother",,,"Haddon1907",""
+"fMeZ","apu",,"female ego's mother's older sister",,,"Haddon1907",""
+"fMyZ","apu",,"female ego's mother's younger sister",,,"Haddon1907",""
+"mW","ipi",,"male ego's wife",,,"Haddon1907",""
+"fH","alai",,"female ego‘s husband",,,"Haddon1907",""
+"mDH","ira",,"male ego's daughter's husband",,,"Haddon1907",""
+"fDH","ira",,"female ego's daughter's husband",,,"Haddon1907",""
+"mSW","ira",,"male ego's son's wife",,,"Haddon1907",""
+"fSW","ira",,"female ego's son's wife",,,"Haddon1907",""
+"mWF","ira",,"male ego's wife's father",,,"Haddon1907",""
+"mWM","ira",,"male ego's wife's mother",,,"Haddon1907",""
+"mWB","imi",,"male ego's wife's brother",,,"Haddon1907",""
+"mWZ","ngaubat",,"male ego's wife's sister",,,"Haddon1907",""
+"fHF","ira",,"female ego's husband's father",,,"Haddon1907",""
+"fHM","ira",,"female ego's husband's mother",,,"Haddon1907",""
+"fHB","ngaubat",,"female ego's husband's brother",,,"Haddon1907",""
+"fHZ","imi",,"female ego's husband's sister",,,"Haddon1907",""
+"mBW","ngaubat",,"male ego's brother's wife",,,"Haddon1907",""
+"fBW","imi",,"female ego's brother's wife",,,"Haddon1907",""
+"mZH","imi",,"male ego's sister's husband",,,"Haddon1907",""
+"fZH","ngaubat",,"female ego's sister's husband",,,"Haddon1907",""
+"mFBS","tukoiab",,"male ego's father's brother's son",,,"Haddon1907",""
+"mFZS","tukoiab",,"male ego's father's sister's son",,,"Haddon1907",""
+"mMBS","tukoiab",,"male ego's mother's brother's son",,,"Haddon1907",""
+"mMZS","tukoiab",,"male ego's mother's sister's son",,,"Haddon1907",""
+"mFBD","babat",,"male ego's father's brother's daughter",,,"Haddon1907",""
+"mFZD","babat",,"male ego's father's sister's daughter",,,"Haddon1907",""
+"mMBD","babat",,"male ego's mother's brother's daughter",,,"Haddon1907",""
+"mMZD","babat",,"male ego's mother's sister's daughter",,,"Haddon1907",""
+"fFBS","babat",,"female ego's father's brother's son",,,"Haddon1907",""
+"fFZS","babat",,"female ego's father's sister's son",,,"Haddon1907",""
+"fMBS","babat",,"female ego's mother's brother's son",,,"Haddon1907",""
+"fMZS","babat",,"female ego's mother's sister's son",,,"Haddon1907",""
+"fFBD","tukoiab",,"female ego's father's brother's daughter",,,"Haddon1907",""
+"fFZD","tukoiab",,"female ego's father's sister's daughter",,,"Haddon1907",""
+"fMBD","tukoiab",,"female ego's mother's brother's daughter",,,"Haddon1907",""
+"fMZD","tukoiab",,"female ego's mother's sister's daughter",,,"Haddon1907",""
+"mFeBS","tukoiab",,"male ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"mFyBS","tukoiab",,"male ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"mFeZS","tukoiab",,"male ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"mFyZS","tukoiab",,"male ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"mFeBD","babat",,"male ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mFyBD","babat",,"male ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mFeZD","babat",,"male ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mFyZD","babat",,"male ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mMeBS","tukoiab",,"male ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"mMyBS","tukoiab",,"male ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"mMeZS","tukoiab",,"male ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"mMyZS","tukoiab",,"male ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"mMeBD","babat",,"male ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mMyBD","babat",,"male ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mMeZD","babat",,"male ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mMyZD","babat",,"male ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mFBeS","tukoiab",,"male ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"mFByS","tukoiab",,"male ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"mFZeS","tukoiab",,"male ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"mFZyS","tukoiab",,"male ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"mFBeD","babat",,"male ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mFByD","babat",,"male ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mFZeD","babat",,"male ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mFZyD","babat",,"male ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mMBeS","tukoiab",,"male ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"mMByS","tukoiab",,"male ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"mMZeS","tukoiab",,"male ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"mMZyS","tukoiab",,"male ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"mMBeD","babat",,"male ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mMByD","babat",,"male ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"mMZeD","babat",,"male ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"mMZyD","babat",,"male ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fFeBS","babat",,"female ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"fFyBS","babat",,"female ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"fFeZS","babat",,"female ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"fFyZS","babat",,"female ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"fFeBD","tukoiab",,"female ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fFyBD","tukoiab",,"female ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fFeZD","tukoiab",,"female ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fFyZD","tukoiab",,"female ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fMeBS","babat",,"female ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"fMyBS","babat",,"female ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"fMeZS","babat",,"female ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"fMyZS","babat",,"female ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"fMeBD","tukoiab",,"female ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fMyBD","tukoiab",,"female ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fMeZD","tukoiab",,"female ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fMyZD","tukoiab",,"female ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fFBeS","babat",,"female ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"fFByS","babat",,"female ego's father's brother's son",,,"Haddon1907","Inferred; NA"
+"fFZeS","babat",,"female ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"fFZyS","babat",,"female ego's father's sister's son",,,"Haddon1907","Inferred; NA"
+"fFBeD","tukoiab",,"female ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fFByD","tukoiab",,"female ego's father's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fFZeD","tukoiab",,"female ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fFZyD","tukoiab",,"female ego's father's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fMBeS","babat",,"female ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"fMByS","babat",,"female ego's mother's brother's son",,,"Haddon1907","Inferred; NA"
+"fMZeS","babat",,"female ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"fMZyS","babat",,"female ego's mother's sister's son",,,"Haddon1907","Inferred; NA"
+"fMBeD","tukoiab",,"female ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fMByD","tukoiab",,"female ego's mother's brother's daughter",,,"Haddon1907","Inferred; NA"
+"fMZeD","tukoiab",,"female ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"
+"fMZyD","tukoiab",,"female ego's mother's sister's daughter",,,"Haddon1907","Inferred; NA"

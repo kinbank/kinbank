@@ -1,133 +1,133 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tataf,,male ego's older brother,,,Schulte1981,
-myB,olif,,male ego's younger brother,,,Schulte1981,
-feB,nauf,,female ego's older brother,,,Schulte1981,
-fyB,nauf,,female ego's younger brother,,,Schulte1981,
-meZ,fetof,,male ego's older sister,,,Schulte1981,
-myZ,fetof,,male ego's younger sister,,,Schulte1981,
-feZ,tataf,,female ego's older sister,,,Schulte1981,
-fyZ,olif,,female ego's younger sister,,,Schulte1981,
-mF,amaf,,male ego's father,,,Schulte1981,
-mM,ainaf,,male ego's mother,,,Schulte1981,
-fF,amaf,,female ego's father,,,Schulte1981,
-fM,ainaf,,female ego's mother,,,Schulte1981,
-mS,an mone,,male ego's son,,,Schulte1981,
-fS,an mone,,female ego's son,,,Schulte1981,
-mD,an feto,,male ego's daughter,,,Schulte1981,
-fD,an feto,,female ego's daughter,,,Schulte1981,
-mSS,upu,,male ego's son's son,,,Schulte1981,
-mSD,upu,,male ego's son's daughter,,,Schulte1981,
-mDS,upu,,male ego's daughter's son,,,Schulte1981,
-mDD,upu,,male ego's daughter's daughter,,,Schulte1981,
-fSS,upu,,female ego's son's son,,,Schulte1981,
-fSD,upu,,female ego's son's daughter,,,Schulte1981,
-fDS,upu,,female ego's daughter's son,,,Schulte1981,
-fDD,upu,,female ego's daugher's daughter,,,Schulte1981,
-mFF,na'if,,male ego's father‘s father,,,Schulte1981,
-mFM,be'if,,male ego's father's mother,,,Schulte1981,
-mMF,am baba,,male ego's mother's father,,,Schulte1981,
-mMM,ain baba,,male ego's mother's mother,,,Schulte1981,
-fFF,na'if,,female ego's father's father,,,Schulte1981,
-fFM,be'if,,female ego's father's mother,,,Schulte1981,
-fMF,am baba,,female ego's mother's father,,,Schulte1981,
-fMM,ain baba,,female ego's mother's mother,,,Schulte1981,
-meBS,anah,,male ego's older brother's son,,,Schulte1981,
-myBS,anah,,male ego's younger brother's son,,,Schulte1981,
-meZS,anah,,male ego's older sister's son,,,Schulte1981,
-myZS,anah,,male ego's younger sister's son,,,Schulte1981,
-meBD,anah,,male ego's older brother's daughter,,,Schulte1981,
-myBD,anah,,male ego's younger brother's daughter,,,Schulte1981,
-meZD,anah,,male ego's older sister's daughter,,,Schulte1981,
-myZD,anah,,male ego's younger sister's daughter,,,Schulte1981,
-feBS,anah,,female ego's older brother's son,,,Schulte1981,
-fyBS,anah,,female ego's younger brother's son,,,Schulte1981,
-feZS,anah,,female ego's older sister's son,,,Schulte1981,
-fyZS,anah,,female ego's younger sister's son,,,Schulte1981,
-feBD,anah,,female ego's older brother's daughter,,,Schulte1981,
-fyBD,anah,,female ego's younger brother's daughter,,,Schulte1981,
-feZD,anah,,female ego's older sister's daughter,,,Schulte1981,
-fyZD,anah,,female ego's younger sister's daughter,,,Schulte1981,
-mFeB,amaf,,male ego's father's older brother,,,Schulte1981,
-mFyB,amaf,,male ego's father's younger brother,,,Schulte1981,
-mFeZ,babaf,,male ego's father's older sister,,,Schulte1981,
-mFyZ,babaf,,male ego's father's younger sister,,,Schulte1981,
-mMeB,"atoni amaf, babaf",,male ego's mother's older brother,,,Schulte1981,
-mMyB,babaf,,male ego's mother's younger brother,,,Schulte1981,
-mMeZ,ainaf,,male ego's mother's older sister,,,Schulte1981,
-mMyZ,ainaf,,male ego's mother's younger sister,,,Schulte1981,
-fFeB,amaf,,female ego's father's older brother,,,Schulte1981,
-fFyB,amaf,,female ego's father's younger brother,,,Schulte1981,
-fFeZ,babaf,,female ego's father's older sister,,,Schulte1981,
-fFyZ,babaf,,female ego's father's younger sister,,,Schulte1981,
-fMeB,"atoni amaf, babaf",,female ego's mother's older brother,,,Schulte1981,
-fMyB,babaf,,female ego's mother's younger brother,,,Schulte1981,
-fMeZ,ainaf,,female ego's mother's older sister,,,Schulte1981,
-fMyZ,ainaf,,female ego's mother's younger sister,,,Schulte1981,
-mW,fe,,male ego's wife,,,Schulte1981,
-fH,mone,,female ego‘s husband,,,Schulte1981,
-mDH,mone fe'u,,male ego's daughter's husband,,,Schulte1981,
-fDH,mone fe'u,,female ego's daughter's husband,,,Schulte1981,
-mSW,nanef,,male ego's son's wife,,,Schulte1981,
-fSW,nanef,,female ego's son's wife,,,Schulte1981,
-mWF,am baba,,male ego's wife's father,,,Schulte1981,
-mWM,ain baba,,male ego's wife's mother,,,Schulte1981,
-mWB,ba'ef,,male ego's wife's brother,,,Schulte1981,
-mWZ,ba'ef,,male ego's wife's sister,,,Schulte1981,
-fHF,am baba,,female ego's husband's father,,,Schulte1981,
-fHM,ain baba,,female ego's husband's mother,,,Schulte1981,
-fHB,ba'ef,,female ego's husband's brother,,,Schulte1981,
-fHZ,ba'ef,,female ego's husband's sister,,,Schulte1981,
-mBW,ba'ef,,male ego's brother's wife,,,Schulte1981,
-fBW,ba'ef,,female ego's brother's wife,,,Schulte1981,
-mZH,ba'ef,,male ego's sister's husband,,,Schulte1981,
-fZH,ba'ef,,female ego's sister's husband,,,Schulte1981,
-mFBS,tataf,,male ego's father's brother's son,,,Schulte1981,
-mFZS,mone lalan,,male ego's father's sister's son,,,Schulte1981,
-mFZD,ba'ef,,male ego's father's sister's daughter,,,Schulte1981,
-mMBD,"fe lalan, ba'ef",,male ego's mother's brother's daughter,,,Schulte1981,
-mMZD,ba'ef,,male ego's mother's sister's daughter,,,Schulte1981,
-fFBS,tataf,,female ego's father's brother's son,,,Schulte1981,
-fFZS,mone lalan,,female ego's father's sister's son,,,Schulte1981,
-fFZD,ba'ef,,female ego's father's sister's daughter,,,Schulte1981,
-fMBD,"fe lalan, ba'ef",,female ego's mother's brother's daughter,,,Schulte1981,
-fMZD,ba'ef,,female ego's mother's sister's daughter,,,Schulte1981,
-mFeBS,tataf,,male ego's father's brother's son,,,Schulte1981,Inferred; NA
-mFyBS,tataf,,male ego's father's brother's son,,,Schulte1981,Inferred; NA
-mFeZS,mone lalan,,male ego's father's sister's son,,,Schulte1981,Inferred; NA
-mFyZS,mone lalan,,male ego's father's sister's son,,,Schulte1981,Inferred; NA
-mFeZD,ba'ef,,male ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-mFyZD,ba'ef,,male ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-mMeBD,"fe lalan, ba'ef",,male ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-mMyBD,"fe lalan, ba'ef",,male ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-mMeZD,ba'ef,,male ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-mMyZD,ba'ef,,male ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-mFBeS,tataf,,male ego's father's brother's son,,,Schulte1981,Inferred; NA
-mFByS,tataf,,male ego's father's brother's son,,,Schulte1981,Inferred; NA
-mFZeS,mone lalan,,male ego's father's sister's son,,,Schulte1981,Inferred; NA
-mFZyS,mone lalan,,male ego's father's sister's son,,,Schulte1981,Inferred; NA
-mFZeD,ba'ef,,male ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-mFZyD,ba'ef,,male ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-mMBeD,"fe lalan, ba'ef",,male ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-mMByD,"fe lalan, ba'ef",,male ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-mMZeD,ba'ef,,male ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-mMZyD,ba'ef,,male ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-fFeBS,tataf,,female ego's father's brother's son,,,Schulte1981,Inferred; NA
-fFyBS,tataf,,female ego's father's brother's son,,,Schulte1981,Inferred; NA
-fFeZS,mone lalan,,female ego's father's sister's son,,,Schulte1981,Inferred; NA
-fFyZS,mone lalan,,female ego's father's sister's son,,,Schulte1981,Inferred; NA
-fFeZD,ba'ef,,female ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-fFyZD,ba'ef,,female ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-fMeBD,"fe lalan, ba'ef",,female ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-fMyBD,"fe lalan, ba'ef",,female ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-fMeZD,ba'ef,,female ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-fMyZD,ba'ef,,female ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-fFBeS,tataf,,female ego's father's brother's son,,,Schulte1981,Inferred; NA
-fFByS,tataf,,female ego's father's brother's son,,,Schulte1981,Inferred; NA
-fFZeS,mone lalan,,female ego's father's sister's son,,,Schulte1981,Inferred; NA
-fFZyS,mone lalan,,female ego's father's sister's son,,,Schulte1981,Inferred; NA
-fFZeD,ba'ef,,female ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-fFZyD,ba'ef,,female ego's father's sister's daughter,,,Schulte1981,Inferred; NA
-fMBeD,"fe lalan, ba'ef",,female ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-fMByD,"fe lalan, ba'ef",,female ego's mother's brother's daughter,,,Schulte1981,Inferred; NA
-fMZeD,ba'ef,,female ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
-fMZyD,ba'ef,,female ego's mother's sister's daughter,,,Schulte1981,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tataf",,"male ego's older brother",,,"Schulte1981",""
+"myB","olif",,"male ego's younger brother",,,"Schulte1981",""
+"feB","nauf",,"female ego's older brother",,,"Schulte1981",""
+"fyB","nauf",,"female ego's younger brother",,,"Schulte1981",""
+"meZ","fetof",,"male ego's older sister",,,"Schulte1981",""
+"myZ","fetof",,"male ego's younger sister",,,"Schulte1981",""
+"feZ","tataf",,"female ego's older sister",,,"Schulte1981",""
+"fyZ","olif",,"female ego's younger sister",,,"Schulte1981",""
+"mF","amaf",,"male ego's father",,,"Schulte1981",""
+"mM","ainaf",,"male ego's mother",,,"Schulte1981",""
+"fF","amaf",,"female ego's father",,,"Schulte1981",""
+"fM","ainaf",,"female ego's mother",,,"Schulte1981",""
+"mS","an mone",,"male ego's son",,,"Schulte1981",""
+"fS","an mone",,"female ego's son",,,"Schulte1981",""
+"mD","an feto",,"male ego's daughter",,,"Schulte1981",""
+"fD","an feto",,"female ego's daughter",,,"Schulte1981",""
+"mSS","upu",,"male ego's son's son",,,"Schulte1981",""
+"mSD","upu",,"male ego's son's daughter",,,"Schulte1981",""
+"mDS","upu",,"male ego's daughter's son",,,"Schulte1981",""
+"mDD","upu",,"male ego's daughter's daughter",,,"Schulte1981",""
+"fSS","upu",,"female ego's son's son",,,"Schulte1981",""
+"fSD","upu",,"female ego's son's daughter",,,"Schulte1981",""
+"fDS","upu",,"female ego's daughter's son",,,"Schulte1981",""
+"fDD","upu",,"female ego's daugher's daughter",,,"Schulte1981",""
+"mFF","na'if",,"male ego's father‘s father",,,"Schulte1981",""
+"mFM","be'if",,"male ego's father's mother",,,"Schulte1981",""
+"mMF","am baba",,"male ego's mother's father",,,"Schulte1981",""
+"mMM","ain baba",,"male ego's mother's mother",,,"Schulte1981",""
+"fFF","na'if",,"female ego's father's father",,,"Schulte1981",""
+"fFM","be'if",,"female ego's father's mother",,,"Schulte1981",""
+"fMF","am baba",,"female ego's mother's father",,,"Schulte1981",""
+"fMM","ain baba",,"female ego's mother's mother",,,"Schulte1981",""
+"meBS","anah",,"male ego's older brother's son",,,"Schulte1981",""
+"myBS","anah",,"male ego's younger brother's son",,,"Schulte1981",""
+"meZS","anah",,"male ego's older sister's son",,,"Schulte1981",""
+"myZS","anah",,"male ego's younger sister's son",,,"Schulte1981",""
+"meBD","anah",,"male ego's older brother's daughter",,,"Schulte1981",""
+"myBD","anah",,"male ego's younger brother's daughter",,,"Schulte1981",""
+"meZD","anah",,"male ego's older sister's daughter",,,"Schulte1981",""
+"myZD","anah",,"male ego's younger sister's daughter",,,"Schulte1981",""
+"feBS","anah",,"female ego's older brother's son",,,"Schulte1981",""
+"fyBS","anah",,"female ego's younger brother's son",,,"Schulte1981",""
+"feZS","anah",,"female ego's older sister's son",,,"Schulte1981",""
+"fyZS","anah",,"female ego's younger sister's son",,,"Schulte1981",""
+"feBD","anah",,"female ego's older brother's daughter",,,"Schulte1981",""
+"fyBD","anah",,"female ego's younger brother's daughter",,,"Schulte1981",""
+"feZD","anah",,"female ego's older sister's daughter",,,"Schulte1981",""
+"fyZD","anah",,"female ego's younger sister's daughter",,,"Schulte1981",""
+"mFeB","amaf",,"male ego's father's older brother",,,"Schulte1981",""
+"mFyB","amaf",,"male ego's father's younger brother",,,"Schulte1981",""
+"mFeZ","babaf",,"male ego's father's older sister",,,"Schulte1981",""
+"mFyZ","babaf",,"male ego's father's younger sister",,,"Schulte1981",""
+"mMeB","atoni amaf, babaf",,"male ego's mother's older brother",,,"Schulte1981",""
+"mMyB","babaf",,"male ego's mother's younger brother",,,"Schulte1981",""
+"mMeZ","ainaf",,"male ego's mother's older sister",,,"Schulte1981",""
+"mMyZ","ainaf",,"male ego's mother's younger sister",,,"Schulte1981",""
+"fFeB","amaf",,"female ego's father's older brother",,,"Schulte1981",""
+"fFyB","amaf",,"female ego's father's younger brother",,,"Schulte1981",""
+"fFeZ","babaf",,"female ego's father's older sister",,,"Schulte1981",""
+"fFyZ","babaf",,"female ego's father's younger sister",,,"Schulte1981",""
+"fMeB","atoni amaf, babaf",,"female ego's mother's older brother",,,"Schulte1981",""
+"fMyB","babaf",,"female ego's mother's younger brother",,,"Schulte1981",""
+"fMeZ","ainaf",,"female ego's mother's older sister",,,"Schulte1981",""
+"fMyZ","ainaf",,"female ego's mother's younger sister",,,"Schulte1981",""
+"mW","fe",,"male ego's wife",,,"Schulte1981",""
+"fH","mone",,"female ego‘s husband",,,"Schulte1981",""
+"mDH","mone fe'u",,"male ego's daughter's husband",,,"Schulte1981",""
+"fDH","mone fe'u",,"female ego's daughter's husband",,,"Schulte1981",""
+"mSW","nanef",,"male ego's son's wife",,,"Schulte1981",""
+"fSW","nanef",,"female ego's son's wife",,,"Schulte1981",""
+"mWF","am baba",,"male ego's wife's father",,,"Schulte1981",""
+"mWM","ain baba",,"male ego's wife's mother",,,"Schulte1981",""
+"mWB","ba'ef",,"male ego's wife's brother",,,"Schulte1981",""
+"mWZ","ba'ef",,"male ego's wife's sister",,,"Schulte1981",""
+"fHF","am baba",,"female ego's husband's father",,,"Schulte1981",""
+"fHM","ain baba",,"female ego's husband's mother",,,"Schulte1981",""
+"fHB","ba'ef",,"female ego's husband's brother",,,"Schulte1981",""
+"fHZ","ba'ef",,"female ego's husband's sister",,,"Schulte1981",""
+"mBW","ba'ef",,"male ego's brother's wife",,,"Schulte1981",""
+"fBW","ba'ef",,"female ego's brother's wife",,,"Schulte1981",""
+"mZH","ba'ef",,"male ego's sister's husband",,,"Schulte1981",""
+"fZH","ba'ef",,"female ego's sister's husband",,,"Schulte1981",""
+"mFBS","tataf",,"male ego's father's brother's son",,,"Schulte1981",""
+"mFZS","mone lalan",,"male ego's father's sister's son",,,"Schulte1981",""
+"mFZD","ba'ef",,"male ego's father's sister's daughter",,,"Schulte1981",""
+"mMBD","fe lalan, ba'ef",,"male ego's mother's brother's daughter",,,"Schulte1981",""
+"mMZD","ba'ef",,"male ego's mother's sister's daughter",,,"Schulte1981",""
+"fFBS","tataf",,"female ego's father's brother's son",,,"Schulte1981",""
+"fFZS","mone lalan",,"female ego's father's sister's son",,,"Schulte1981",""
+"fFZD","ba'ef",,"female ego's father's sister's daughter",,,"Schulte1981",""
+"fMBD","fe lalan, ba'ef",,"female ego's mother's brother's daughter",,,"Schulte1981",""
+"fMZD","ba'ef",,"female ego's mother's sister's daughter",,,"Schulte1981",""
+"mFeBS","tataf",,"male ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"mFyBS","tataf",,"male ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"mFeZS","mone lalan",,"male ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"mFyZS","mone lalan",,"male ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"mFeZD","ba'ef",,"male ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mFyZD","ba'ef",,"male ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mMeBD","fe lalan, ba'ef",,"male ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"mMyBD","fe lalan, ba'ef",,"male ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"mMeZD","ba'ef",,"male ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mMyZD","ba'ef",,"male ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mFBeS","tataf",,"male ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"mFByS","tataf",,"male ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"mFZeS","mone lalan",,"male ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"mFZyS","mone lalan",,"male ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"mFZeD","ba'ef",,"male ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mFZyD","ba'ef",,"male ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mMBeD","fe lalan, ba'ef",,"male ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"mMByD","fe lalan, ba'ef",,"male ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"mMZeD","ba'ef",,"male ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"mMZyD","ba'ef",,"male ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fFeBS","tataf",,"female ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"fFyBS","tataf",,"female ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"fFeZS","mone lalan",,"female ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"fFyZS","mone lalan",,"female ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"fFeZD","ba'ef",,"female ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fFyZD","ba'ef",,"female ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fMeBD","fe lalan, ba'ef",,"female ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"fMyBD","fe lalan, ba'ef",,"female ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"fMeZD","ba'ef",,"female ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fMyZD","ba'ef",,"female ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fFBeS","tataf",,"female ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"fFByS","tataf",,"female ego's father's brother's son",,,"Schulte1981","Inferred; NA"
+"fFZeS","mone lalan",,"female ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"fFZyS","mone lalan",,"female ego's father's sister's son",,,"Schulte1981","Inferred; NA"
+"fFZeD","ba'ef",,"female ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fFZyD","ba'ef",,"female ego's father's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fMBeD","fe lalan, ba'ef",,"female ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"fMByD","fe lalan, ba'ef",,"female ego's mother's brother's daughter",,,"Schulte1981","Inferred; NA"
+"fMZeD","ba'ef",,"female ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"
+"fMZyD","ba'ef",,"female ego's mother's sister's daughter",,,"Schulte1981","Inferred; NA"

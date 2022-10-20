@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,araoko,,male ego's older brother,,,FirchowFirchow2008,
-myB,araoko,,male ego's younger brother,,,FirchowFirchow2008,
-feB,taataato,,female ego's older brother,,,FirchowFirchow2008,
-fyB,taataato,,female ego's younger brother,,,FirchowFirchow2008,
-meZ,taataava,,male ego's older sister,,,FirchowFirchow2008,
-myZ,taataava,,male ego's younger sister,,,FirchowFirchow2008,
-feZ,taeva,,female ego's older sister,,,FirchowFirchow2008,
-fyZ,taeva,,female ego's younger sister,,,FirchowFirchow2008,
-mF,aite,,male ego's father,,,FirchowFirchow2008,
-mM,aako,,male ego's mother,,,FirchowFirchow2008,
-fF,aite,,female ego's father,,,FirchowFirchow2008,
-fM,aako,,female ego's mother,,,FirchowFirchow2008,
-mS,oviito,,male ego's son,,,FirchowFirchow2008,
-fS,oviito,,female ego's son,,,FirchowFirchow2008,
-mD,oviita,,male ego's daughter,,,FirchowFirchow2008,
-fD,oviita,,female ego's daughter,,,FirchowFirchow2008,
-mSS,aaoto,,male ego's son's son,,,FirchowFirchow2008,
-mSD,aaova,,male ego's son's daughter,,,FirchowFirchow2008,
-mDS,aavuto,,male ego's daughter's son,,,FirchowFirchow2008,
-mDD,aavuva,,male ego's daughter's daughter,,,FirchowFirchow2008,
-fSS,aaoto,,female ego's son's son,,,FirchowFirchow2008,
-fSD,aaova,,female ego's son's daughter,,,FirchowFirchow2008,
-fDS,aavuto,,female ego's daughter's son,,,FirchowFirchow2008,
-fDD,aavuva,,female ego's daugher's daughter,,,FirchowFirchow2008,
-mFF,aaoto,,male ego's father‘s father,,,FirchowFirchow2008,
-mFM,aavuva,,male ego's father's mother,,,FirchowFirchow2008,
-mMF,aavuto,,male ego's mother's father,,,FirchowFirchow2008,
-mMM,taataiva,,male ego's mother's mother,,,FirchowFirchow2008,
-fFF,aaoto,,female ego's father's father,,,FirchowFirchow2008,
-fFM,aavuva,,female ego's father's mother,,,FirchowFirchow2008,
-fMF,aavuto,,female ego's mother's father,,,FirchowFirchow2008,
-fMM,taataiva,,female ego's mother's mother,,,FirchowFirchow2008,
-meBS,paparito,,male ego's older brother's son,,,FirchowFirchow2008,
-myBS,paparito,,male ego's younger brother's son,,,FirchowFirchow2008,
-meZS,paparito,,male ego's older sister's son,,,FirchowFirchow2008,
-myZS,paparito,,male ego's younger sister's son,,,FirchowFirchow2008,
-meBD,papariva,,male ego's older brother's daughter,,,FirchowFirchow2008,
-myBD,papariva,,male ego's younger brother's daughter,,,FirchowFirchow2008,
-meZD,papariva,,male ego's older sister's daughter,,,FirchowFirchow2008,
-myZD,papariva,,male ego's younger sister's daughter,,,FirchowFirchow2008,
-feBS,paparito,,female ego's older brother's son,,,FirchowFirchow2008,
-fyBS,paparito,,female ego's younger brother's son,,,FirchowFirchow2008,
-feZS,paparito,,female ego's older sister's son,,,FirchowFirchow2008,
-fyZS,paparito,,female ego's younger sister's son,,,FirchowFirchow2008,
-feBD,papariva,,female ego's older brother's daughter,,,FirchowFirchow2008,
-fyBD,papariva,,female ego's younger brother's daughter,,,FirchowFirchow2008,
-feZD,papariva,,female ego's older sister's daughter,,,FirchowFirchow2008,
-fyZD,papariva,,female ego's younger sister's daughter,,,FirchowFirchow2008,
-mFeB,aite,,male ego's father's older brother,,,FirchowFirchow2008,
-mFyB,aite,,male ego's father's younger brother,,,FirchowFirchow2008,
-mFeZ,kauo,,male ego's father's older sister,,,FirchowFirchow2008,
-mFyZ,kauo,,male ego's father's younger sister,,,FirchowFirchow2008,
-mMeB,papa,,male ego's mother's older brother,,,FirchowFirchow2008,
-mMyB,papa,,male ego's mother's younger brother,,,FirchowFirchow2008,
-mMeZ,aako,,male ego's mother's older sister,,,FirchowFirchow2008,
-mMyZ,aako,,male ego's mother's younger sister,,,FirchowFirchow2008,
-fFeB,aite,,female ego's father's older brother,,,FirchowFirchow2008,
-fFyB,aite,,female ego's father's younger brother,,,FirchowFirchow2008,
-fFeZ,kauo,,female ego's father's older sister,,,FirchowFirchow2008,
-fFyZ,kauo,,female ego's father's younger sister,,,FirchowFirchow2008,
-fMeB,papa,,female ego's mother's older brother,,,FirchowFirchow2008,
-fMyB,papa,,female ego's mother's younger brother,,,FirchowFirchow2008,
-fMeZ,aako,,female ego's mother's older sister,,,FirchowFirchow2008,
-fMyZ,aako,,female ego's mother's younger sister,,,FirchowFirchow2008,
-mW,riakova,,male ego's wife,,,FirchowFirchow2008,
-fH,vatuato,,female ego‘s husband,,,FirchowFirchow2008,
-mDH,aigeipato,,male ego's daughter's husband,,,FirchowFirchow2008,
-fDH,aige,,female ego's daughter's husband,,,FirchowFirchow2008,
-mSW,taatova,,male ego's son's wife,,,FirchowFirchow2008,
-fSW,taatova,,female ego's son's wife,,,FirchowFirchow2008,
-mWF,aigeto,,male ego's wife's father,,,FirchowFirchow2008,
-mWM,aigeva,,male ego's wife's mother,,,FirchowFirchow2008,
-mWB,avue,,male ego's wife's brother,,,FirchowFirchow2008,
-mWZ,avue (aige),,male ego's wife's sister,,,FirchowFirchow2008,
-fHF,taatoto,,female ego's husband's father,,,FirchowFirchow2008,
-fHM,taatova,,female ego's husband's mother,,,FirchowFirchow2008,
-fHB,avue,,female ego's husband's brother,,,FirchowFirchow2008,
-fHZ,avue,,female ego's husband's sister,,,FirchowFirchow2008,
-mBW,avue (oaviri),,male ego's brother's wife,,,FirchowFirchow2008,
-fBW,avueva,,female ego's brother's wife,,,FirchowFirchow2008,
-mZH,avue,,male ego's sister's husband,,,FirchowFirchow2008,
-fZH,avue,,female ego's sister's husband,,,FirchowFirchow2008,
-mFBS,araoko,,male ego's father's brother's son,,,FirchowFirchow2008,
-mFZS,raovuto,,male ego's father's sister's son,,,FirchowFirchow2008,
-mMBS,raovuto,,male ego's mother's brother's son,,,FirchowFirchow2008,
-mMZS,araoko,,male ego's mother's sister's son,,,FirchowFirchow2008,
-mFBD,taataava,,male ego's father's brother's daughter,,,FirchowFirchow2008,
-mFZD,raovuva,,male ego's father's sister's daughter,,,FirchowFirchow2008,
-mMBD,raovuva,,male ego's mother's brother's daughter,,,FirchowFirchow2008,
-mMZD,taataava,,male ego's mother's sister's daughter,,,FirchowFirchow2008,
-fFBS,taataato,,female ego's father's brother's son,,,FirchowFirchow2008,
-fFZS,raovuto,,female ego's father's sister's son,,,FirchowFirchow2008,
-fMBS,raovuto,,female ego's mother's brother's son,,,FirchowFirchow2008,
-fMZS,taataato,,female ego's mother's sister's son,,,FirchowFirchow2008,
-fFBD,taeva,,female ego's father's brother's daughter,,,FirchowFirchow2008,
-fFZD,raovuva,,female ego's father's sister's daughter,,,FirchowFirchow2008,
-fMBD,raovuva,,female ego's mother's brother's daughter,,,FirchowFirchow2008,
-fMZD,taeva,,female ego's mother's sister's daughter,,,FirchowFirchow2008,
-mFeBS,araoko,,male ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-mFyBS,araoko,,male ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-mFeZS,raovuto,,male ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-mFyZS,raovuto,,male ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-mFeBD,taataava,,male ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mFyBD,taataava,,male ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mFeZD,raovuva,,male ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mFyZD,raovuva,,male ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mMeBS,raovuto,,male ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-mMyBS,raovuto,,male ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-mMeZS,araoko,,male ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-mMyZS,araoko,,male ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-mMeBD,raovuva,,male ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mMyBD,raovuva,,male ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mMeZD,taataava,,male ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mMyZD,taataava,,male ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mFBeS,araoko,,male ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-mFByS,araoko,,male ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-mFZeS,raovuto,,male ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-mFZyS,raovuto,,male ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-mFBeD,taataava,,male ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mFByD,taataava,,male ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mFZeD,raovuva,,male ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mFZyD,raovuva,,male ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mMBeS,raovuto,,male ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-mMByS,raovuto,,male ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-mMZeS,araoko,,male ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-mMZyS,araoko,,male ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-mMBeD,raovuva,,male ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mMByD,raovuva,,male ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-mMZeD,taataava,,male ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-mMZyD,taataava,,male ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fFeBS,taataato,,female ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-fFyBS,taataato,,female ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-fFeZS,raovuto,,female ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-fFyZS,raovuto,,female ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-fFeBD,taeva,,female ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fFyBD,taeva,,female ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fFeZD,raovuva,,female ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fFyZD,raovuva,,female ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fMeBS,raovuto,,female ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-fMyBS,raovuto,,female ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-fMeZS,taataato,,female ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-fMyZS,taataato,,female ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-fMeBD,raovuva,,female ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fMyBD,raovuva,,female ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fMeZD,taeva,,female ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fMyZD,taeva,,female ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fFBeS,taataato,,female ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-fFByS,taataato,,female ego's father's brother's son,,,FirchowFirchow2008,Inferred; NA
-fFZeS,raovuto,,female ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-fFZyS,raovuto,,female ego's father's sister's son,,,FirchowFirchow2008,Inferred; NA
-fFBeD,taeva,,female ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fFByD,taeva,,female ego's father's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fFZeD,raovuva,,female ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fFZyD,raovuva,,female ego's father's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fMBeS,raovuto,,female ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-fMByS,raovuto,,female ego's mother's brother's son,,,FirchowFirchow2008,Inferred; NA
-fMZeS,taataato,,female ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-fMZyS,taataato,,female ego's mother's sister's son,,,FirchowFirchow2008,Inferred; NA
-fMBeD,raovuva,,female ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fMByD,raovuva,,female ego's mother's brother's daughter,,,FirchowFirchow2008,Inferred; NA
-fMZeD,taeva,,female ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
-fMZyD,taeva,,female ego's mother's sister's daughter,,,FirchowFirchow2008,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","araoko",,"male ego's older brother",,,"FirchowFirchow2008",""
+"myB","araoko",,"male ego's younger brother",,,"FirchowFirchow2008",""
+"feB","taataato",,"female ego's older brother",,,"FirchowFirchow2008",""
+"fyB","taataato",,"female ego's younger brother",,,"FirchowFirchow2008",""
+"meZ","taataava",,"male ego's older sister",,,"FirchowFirchow2008",""
+"myZ","taataava",,"male ego's younger sister",,,"FirchowFirchow2008",""
+"feZ","taeva",,"female ego's older sister",,,"FirchowFirchow2008",""
+"fyZ","taeva",,"female ego's younger sister",,,"FirchowFirchow2008",""
+"mF","aite",,"male ego's father",,,"FirchowFirchow2008",""
+"mM","aako",,"male ego's mother",,,"FirchowFirchow2008",""
+"fF","aite",,"female ego's father",,,"FirchowFirchow2008",""
+"fM","aako",,"female ego's mother",,,"FirchowFirchow2008",""
+"mS","oviito",,"male ego's son",,,"FirchowFirchow2008",""
+"fS","oviito",,"female ego's son",,,"FirchowFirchow2008",""
+"mD","oviita",,"male ego's daughter",,,"FirchowFirchow2008",""
+"fD","oviita",,"female ego's daughter",,,"FirchowFirchow2008",""
+"mSS","aaoto",,"male ego's son's son",,,"FirchowFirchow2008",""
+"mSD","aaova",,"male ego's son's daughter",,,"FirchowFirchow2008",""
+"mDS","aavuto",,"male ego's daughter's son",,,"FirchowFirchow2008",""
+"mDD","aavuva",,"male ego's daughter's daughter",,,"FirchowFirchow2008",""
+"fSS","aaoto",,"female ego's son's son",,,"FirchowFirchow2008",""
+"fSD","aaova",,"female ego's son's daughter",,,"FirchowFirchow2008",""
+"fDS","aavuto",,"female ego's daughter's son",,,"FirchowFirchow2008",""
+"fDD","aavuva",,"female ego's daugher's daughter",,,"FirchowFirchow2008",""
+"mFF","aaoto",,"male ego's father‘s father",,,"FirchowFirchow2008",""
+"mFM","aavuva",,"male ego's father's mother",,,"FirchowFirchow2008",""
+"mMF","aavuto",,"male ego's mother's father",,,"FirchowFirchow2008",""
+"mMM","taataiva",,"male ego's mother's mother",,,"FirchowFirchow2008",""
+"fFF","aaoto",,"female ego's father's father",,,"FirchowFirchow2008",""
+"fFM","aavuva",,"female ego's father's mother",,,"FirchowFirchow2008",""
+"fMF","aavuto",,"female ego's mother's father",,,"FirchowFirchow2008",""
+"fMM","taataiva",,"female ego's mother's mother",,,"FirchowFirchow2008",""
+"meBS","paparito",,"male ego's older brother's son",,,"FirchowFirchow2008",""
+"myBS","paparito",,"male ego's younger brother's son",,,"FirchowFirchow2008",""
+"meZS","paparito",,"male ego's older sister's son",,,"FirchowFirchow2008",""
+"myZS","paparito",,"male ego's younger sister's son",,,"FirchowFirchow2008",""
+"meBD","papariva",,"male ego's older brother's daughter",,,"FirchowFirchow2008",""
+"myBD","papariva",,"male ego's younger brother's daughter",,,"FirchowFirchow2008",""
+"meZD","papariva",,"male ego's older sister's daughter",,,"FirchowFirchow2008",""
+"myZD","papariva",,"male ego's younger sister's daughter",,,"FirchowFirchow2008",""
+"feBS","paparito",,"female ego's older brother's son",,,"FirchowFirchow2008",""
+"fyBS","paparito",,"female ego's younger brother's son",,,"FirchowFirchow2008",""
+"feZS","paparito",,"female ego's older sister's son",,,"FirchowFirchow2008",""
+"fyZS","paparito",,"female ego's younger sister's son",,,"FirchowFirchow2008",""
+"feBD","papariva",,"female ego's older brother's daughter",,,"FirchowFirchow2008",""
+"fyBD","papariva",,"female ego's younger brother's daughter",,,"FirchowFirchow2008",""
+"feZD","papariva",,"female ego's older sister's daughter",,,"FirchowFirchow2008",""
+"fyZD","papariva",,"female ego's younger sister's daughter",,,"FirchowFirchow2008",""
+"mFeB","aite",,"male ego's father's older brother",,,"FirchowFirchow2008",""
+"mFyB","aite",,"male ego's father's younger brother",,,"FirchowFirchow2008",""
+"mFeZ","kauo",,"male ego's father's older sister",,,"FirchowFirchow2008",""
+"mFyZ","kauo",,"male ego's father's younger sister",,,"FirchowFirchow2008",""
+"mMeB","papa",,"male ego's mother's older brother",,,"FirchowFirchow2008",""
+"mMyB","papa",,"male ego's mother's younger brother",,,"FirchowFirchow2008",""
+"mMeZ","aako",,"male ego's mother's older sister",,,"FirchowFirchow2008",""
+"mMyZ","aako",,"male ego's mother's younger sister",,,"FirchowFirchow2008",""
+"fFeB","aite",,"female ego's father's older brother",,,"FirchowFirchow2008",""
+"fFyB","aite",,"female ego's father's younger brother",,,"FirchowFirchow2008",""
+"fFeZ","kauo",,"female ego's father's older sister",,,"FirchowFirchow2008",""
+"fFyZ","kauo",,"female ego's father's younger sister",,,"FirchowFirchow2008",""
+"fMeB","papa",,"female ego's mother's older brother",,,"FirchowFirchow2008",""
+"fMyB","papa",,"female ego's mother's younger brother",,,"FirchowFirchow2008",""
+"fMeZ","aako",,"female ego's mother's older sister",,,"FirchowFirchow2008",""
+"fMyZ","aako",,"female ego's mother's younger sister",,,"FirchowFirchow2008",""
+"mW","riakova",,"male ego's wife",,,"FirchowFirchow2008",""
+"fH","vatuato",,"female ego‘s husband",,,"FirchowFirchow2008",""
+"mDH","aigeipato",,"male ego's daughter's husband",,,"FirchowFirchow2008",""
+"fDH","aige",,"female ego's daughter's husband",,,"FirchowFirchow2008",""
+"mSW","taatova",,"male ego's son's wife",,,"FirchowFirchow2008",""
+"fSW","taatova",,"female ego's son's wife",,,"FirchowFirchow2008",""
+"mWF","aigeto",,"male ego's wife's father",,,"FirchowFirchow2008",""
+"mWM","aigeva",,"male ego's wife's mother",,,"FirchowFirchow2008",""
+"mWB","avue",,"male ego's wife's brother",,,"FirchowFirchow2008",""
+"mWZ","avue (aige)",,"male ego's wife's sister",,,"FirchowFirchow2008",""
+"fHF","taatoto",,"female ego's husband's father",,,"FirchowFirchow2008",""
+"fHM","taatova",,"female ego's husband's mother",,,"FirchowFirchow2008",""
+"fHB","avue",,"female ego's husband's brother",,,"FirchowFirchow2008",""
+"fHZ","avue",,"female ego's husband's sister",,,"FirchowFirchow2008",""
+"mBW","avue (oaviri)",,"male ego's brother's wife",,,"FirchowFirchow2008",""
+"fBW","avueva",,"female ego's brother's wife",,,"FirchowFirchow2008",""
+"mZH","avue",,"male ego's sister's husband",,,"FirchowFirchow2008",""
+"fZH","avue",,"female ego's sister's husband",,,"FirchowFirchow2008",""
+"mFBS","araoko",,"male ego's father's brother's son",,,"FirchowFirchow2008",""
+"mFZS","raovuto",,"male ego's father's sister's son",,,"FirchowFirchow2008",""
+"mMBS","raovuto",,"male ego's mother's brother's son",,,"FirchowFirchow2008",""
+"mMZS","araoko",,"male ego's mother's sister's son",,,"FirchowFirchow2008",""
+"mFBD","taataava",,"male ego's father's brother's daughter",,,"FirchowFirchow2008",""
+"mFZD","raovuva",,"male ego's father's sister's daughter",,,"FirchowFirchow2008",""
+"mMBD","raovuva",,"male ego's mother's brother's daughter",,,"FirchowFirchow2008",""
+"mMZD","taataava",,"male ego's mother's sister's daughter",,,"FirchowFirchow2008",""
+"fFBS","taataato",,"female ego's father's brother's son",,,"FirchowFirchow2008",""
+"fFZS","raovuto",,"female ego's father's sister's son",,,"FirchowFirchow2008",""
+"fMBS","raovuto",,"female ego's mother's brother's son",,,"FirchowFirchow2008",""
+"fMZS","taataato",,"female ego's mother's sister's son",,,"FirchowFirchow2008",""
+"fFBD","taeva",,"female ego's father's brother's daughter",,,"FirchowFirchow2008",""
+"fFZD","raovuva",,"female ego's father's sister's daughter",,,"FirchowFirchow2008",""
+"fMBD","raovuva",,"female ego's mother's brother's daughter",,,"FirchowFirchow2008",""
+"fMZD","taeva",,"female ego's mother's sister's daughter",,,"FirchowFirchow2008",""
+"mFeBS","araoko",,"male ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFyBS","araoko",,"male ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFeZS","raovuto",,"male ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFyZS","raovuto",,"male ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFeBD","taataava",,"male ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFyBD","taataava",,"male ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFeZD","raovuva",,"male ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFyZD","raovuva",,"male ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMeBS","raovuto",,"male ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMyBS","raovuto",,"male ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMeZS","araoko",,"male ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMyZS","araoko",,"male ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMeBD","raovuva",,"male ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMyBD","raovuva",,"male ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMeZD","taataava",,"male ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMyZD","taataava",,"male ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFBeS","araoko",,"male ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFByS","araoko",,"male ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFZeS","raovuto",,"male ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFZyS","raovuto",,"male ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mFBeD","taataava",,"male ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFByD","taataava",,"male ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFZeD","raovuva",,"male ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mFZyD","raovuva",,"male ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMBeS","raovuto",,"male ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMByS","raovuto",,"male ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMZeS","araoko",,"male ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMZyS","araoko",,"male ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"mMBeD","raovuva",,"male ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMByD","raovuva",,"male ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMZeD","taataava",,"male ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"mMZyD","taataava",,"male ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFeBS","taataato",,"female ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFyBS","taataato",,"female ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFeZS","raovuto",,"female ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFyZS","raovuto",,"female ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFeBD","taeva",,"female ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFyBD","taeva",,"female ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFeZD","raovuva",,"female ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFyZD","raovuva",,"female ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMeBS","raovuto",,"female ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMyBS","raovuto",,"female ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMeZS","taataato",,"female ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMyZS","taataato",,"female ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMeBD","raovuva",,"female ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMyBD","raovuva",,"female ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMeZD","taeva",,"female ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMyZD","taeva",,"female ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFBeS","taataato",,"female ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFByS","taataato",,"female ego's father's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFZeS","raovuto",,"female ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFZyS","raovuto",,"female ego's father's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fFBeD","taeva",,"female ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFByD","taeva",,"female ego's father's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFZeD","raovuva",,"female ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fFZyD","raovuva",,"female ego's father's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMBeS","raovuto",,"female ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMByS","raovuto",,"female ego's mother's brother's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMZeS","taataato",,"female ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMZyS","taataato",,"female ego's mother's sister's son",,,"FirchowFirchow2008","Inferred; NA"
+"fMBeD","raovuva",,"female ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMByD","raovuva",,"female ego's mother's brother's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMZeD","taeva",,"female ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"
+"fMZyD","taeva",,"female ego's mother's sister's daughter",,,"FirchowFirchow2008","Inferred; NA"

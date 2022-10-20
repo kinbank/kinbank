@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,menyadi,,male ego's older brother,,,harding1970cultures,
-myB,menyadi,,male ego's younger brother,,,harding1970cultures,
-feB,menyadi,,female ego's older brother,,,harding1970cultures,
-fyB,menyadi,,female ego's younger brother,,,harding1970cultures,
-meZ,menyadi,,male ego's older sister,,,harding1970cultures,
-myZ,menyadi,,male ego's younger sister,,,harding1970cultures,
-feZ,menyadi,,female ego's older sister,,,harding1970cultures,
-fyZ,menyadi,,female ego's younger sister,,,harding1970cultures,
-mF,apai,,male ego's father,,,harding1970cultures,
-mM,indai,,male ego's mother,,,harding1970cultures,
-fF,apai,,female ego's father,,,harding1970cultures,
-fM,indai,,female ego's mother,,,harding1970cultures,
-mS,anak,,male ego's son,,,harding1970cultures,
-fS,anak,,female ego's son,,,harding1970cultures,
-mD,anak,,male ego's daughter,,,harding1970cultures,
-fD,anak,,female ego's daughter,,,harding1970cultures,
-mSS,ucho,,male ego's son's son,,,harding1970cultures,
-mSD,ucho,,male ego's son's daughter,,,harding1970cultures,
-mDS,ucho,,male ego's daughter's son,,,harding1970cultures,
-mDD,ucho,,male ego's daughter's daughter,,,harding1970cultures,
-fSS,ucho,,female ego's son's son,,,harding1970cultures,
-fSD,ucho,,female ego's son's daughter,,,harding1970cultures,
-fDS,ucho,,female ego's daughter's son,,,harding1970cultures,
-fDD,ucho,,female ego's daugher's daughter,,,harding1970cultures,
-mFF,aki,,male ego's father‘s father,,,harding1970cultures,
-mFM,ini,,male ego's father's mother,,,harding1970cultures,
-mMF,aki,,male ego's mother's father,,,harding1970cultures,
-mMM,ini,,male ego's mother's mother,,,harding1970cultures,
-fFF,aki,,female ego's father's father,,,harding1970cultures,
-fFM,ini,,female ego's father's mother,,,harding1970cultures,
-fMF,aki,,female ego's mother's father,,,harding1970cultures,
-fMM,ini,,female ego's mother's mother,,,harding1970cultures,
-meBS,akan,,male ego's older brother's son,,,harding1970cultures,
-myBS,akan,,male ego's younger brother's son,,,harding1970cultures,
-meZS,akan,,male ego's older sister's son,,,harding1970cultures,
-myZS,akan,,male ego's younger sister's son,,,harding1970cultures,
-meBD,endo,,male ego's older brother's daughter,,,harding1970cultures,
-myBD,endo,,male ego's younger brother's daughter,,,harding1970cultures,
-meZD,endo,,male ego's older sister's daughter,,,harding1970cultures,
-myZD,endo,,male ego's younger sister's daughter,,,harding1970cultures,
-feBS,akan,,female ego's older brother's son,,,harding1970cultures,
-fyBS,akan,,female ego's younger brother's son,,,harding1970cultures,
-feZS,akan,,female ego's older sister's son,,,harding1970cultures,
-fyZS,akan,,female ego's younger sister's son,,,harding1970cultures,
-feBD,endo,,female ego's older brother's daughter,,,harding1970cultures,
-fyBD,endo,,female ego's younger brother's daughter,,,harding1970cultures,
-feZD,endo,,female ego's older sister's daughter,,,harding1970cultures,
-fyZD,endo,,female ego's younger sister's daughter,,,harding1970cultures,
-mFeB,aya,,male ego's father's older brother,,,harding1970cultures,
-mFyB,aya,,male ego's father's younger brother,,,harding1970cultures,
-mFeZ,ibo,,male ego's father's older sister,,,harding1970cultures,
-mFyZ,ibo,,male ego's father's younger sister,,,harding1970cultures,
-mMeB,aya,,male ego's mother's older brother,,,harding1970cultures,
-mMyB,aya,,male ego's mother's younger brother,,,harding1970cultures,
-mMeZ,ibo,,male ego's mother's older sister,,,harding1970cultures,
-mMyZ,ibo,,male ego's mother's younger sister,,,harding1970cultures,
-fFeB,aya,,female ego's father's older brother,,,harding1970cultures,
-fFyB,aya,,female ego's father's younger brother,,,harding1970cultures,
-fFeZ,ibo,,female ego's father's older sister,,,harding1970cultures,
-fFyZ,ibo,,female ego's father's younger sister,,,harding1970cultures,
-fMeB,aya,,female ego's mother's older brother,,,harding1970cultures,
-fMyB,aya,,female ego's mother's younger brother,,,harding1970cultures,
-fMeZ,ibo,,female ego's mother's older sister,,,harding1970cultures,
-fMyZ,ibo,,female ego's mother's younger sister,,,harding1970cultures,
-mW,bini,,male ego's wife,,,harding1970cultures,
-fH,laki,,female ego‘s husband,,,harding1970cultures,
-mDH,menantu,,male ego's daughter's husband,,,harding1970cultures,
-fDH,menantu,,female ego's daughter's husband,,,harding1970cultures,
-mSW,menantu,,male ego's son's wife,,,harding1970cultures,
-fSW,menantu,,female ego's son's wife,,,harding1970cultures,
-mWF,entua,,male ego's wife's father,,,harding1970cultures,
-mWM,entua,,male ego's wife's mother,,,harding1970cultures,
-mWB,ipar,,male ego's wife's brother,,,harding1970cultures,
-mWZ,ipar,,male ego's wife's sister,,,harding1970cultures,
-fHF,entua,,female ego's husband's father,,,harding1970cultures,
-fHM,entua,,female ego's husband's mother,,,harding1970cultures,
-fHB,ipar,,female ego's husband's brother,,,harding1970cultures,
-fHZ,ipar,,female ego's husband's sister,,,harding1970cultures,
-mBW,duai,,male ego's brother's wife,,,harding1970cultures,
-fBW,duai,,female ego's brother's wife,,,harding1970cultures,
-mZH,duai,,male ego's sister's husband,,,harding1970cultures,
-fZH,duai,,female ego's sister's husband,,,harding1970cultures,
-mFBS,petunggal,,male ego's father's brother's son,,,harding1970cultures,
-mFZS,petunggal,,male ego's father's sister's son,,,harding1970cultures,
-mMBS,petunggal,,male ego's mother's brother's son,,,harding1970cultures,
-mMZS,petunggal,,male ego's mother's sister's son,,,harding1970cultures,
-mFBD,petunggal,,male ego's father's brother's daughter,,,harding1970cultures,
-mFZD,petunggal,,male ego's father's sister's daughter,,,harding1970cultures,
-mMBD,petunggal,,male ego's mother's brother's daughter,,,harding1970cultures,
-mMZD,petunggal,,male ego's mother's sister's daughter,,,harding1970cultures,
-fFBS,petunggal,,female ego's father's brother's son,,,harding1970cultures,
-fFZS,petunggal,,female ego's father's sister's son,,,harding1970cultures,
-fMBS,petunggal,,female ego's mother's brother's son,,,harding1970cultures,
-fMZS,petunggal,,female ego's mother's sister's son,,,harding1970cultures,
-fFBD,petunggal,,female ego's father's brother's daughter,,,harding1970cultures,
-fFZD,petunggal,,female ego's father's sister's daughter,,,harding1970cultures,
-fMBD,petunggal,,female ego's mother's brother's daughter,,,harding1970cultures,
-fMZD,petunggal,,female ego's mother's sister's daughter,,,harding1970cultures,
-mFeBS,petunggal,,male ego's father's brother's son,,,harding1970cultures,Inferred; NA
-mFyBS,petunggal,,male ego's father's brother's son,,,harding1970cultures,Inferred; NA
-mFeZS,petunggal,,male ego's father's sister's son,,,harding1970cultures,Inferred; NA
-mFyZS,petunggal,,male ego's father's sister's son,,,harding1970cultures,Inferred; NA
-mFeBD,petunggal,,male ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-mFyBD,petunggal,,male ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-mFeZD,petunggal,,male ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-mFyZD,petunggal,,male ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-mMeBS,petunggal,,male ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-mMyBS,petunggal,,male ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-mMeZS,petunggal,,male ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-mMyZS,petunggal,,male ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-mMeBD,petunggal,,male ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-mMyBD,petunggal,,male ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-mMeZD,petunggal,,male ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-mMyZD,petunggal,,male ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-mFBeS,petunggal,,male ego's father's brother's son,,,harding1970cultures,Inferred; NA
-mFByS,petunggal,,male ego's father's brother's son,,,harding1970cultures,Inferred; NA
-mFZeS,petunggal,,male ego's father's sister's son,,,harding1970cultures,Inferred; NA
-mFZyS,petunggal,,male ego's father's sister's son,,,harding1970cultures,Inferred; NA
-mFBeD,petunggal,,male ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-mFByD,petunggal,,male ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-mFZeD,petunggal,,male ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-mFZyD,petunggal,,male ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-mMBeS,petunggal,,male ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-mMByS,petunggal,,male ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-mMZeS,petunggal,,male ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-mMZyS,petunggal,,male ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-mMBeD,petunggal,,male ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-mMByD,petunggal,,male ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-mMZeD,petunggal,,male ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-mMZyD,petunggal,,male ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-fFeBS,petunggal,,female ego's father's brother's son,,,harding1970cultures,Inferred; NA
-fFyBS,petunggal,,female ego's father's brother's son,,,harding1970cultures,Inferred; NA
-fFeZS,petunggal,,female ego's father's sister's son,,,harding1970cultures,Inferred; NA
-fFyZS,petunggal,,female ego's father's sister's son,,,harding1970cultures,Inferred; NA
-fFeBD,petunggal,,female ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-fFyBD,petunggal,,female ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-fFeZD,petunggal,,female ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-fFyZD,petunggal,,female ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-fMeBS,petunggal,,female ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-fMyBS,petunggal,,female ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-fMeZS,petunggal,,female ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-fMyZS,petunggal,,female ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-fMeBD,petunggal,,female ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-fMyBD,petunggal,,female ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-fMeZD,petunggal,,female ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-fMyZD,petunggal,,female ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-fFBeS,petunggal,,female ego's father's brother's son,,,harding1970cultures,Inferred; NA
-fFByS,petunggal,,female ego's father's brother's son,,,harding1970cultures,Inferred; NA
-fFZeS,petunggal,,female ego's father's sister's son,,,harding1970cultures,Inferred; NA
-fFZyS,petunggal,,female ego's father's sister's son,,,harding1970cultures,Inferred; NA
-fFBeD,petunggal,,female ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-fFByD,petunggal,,female ego's father's brother's daughter,,,harding1970cultures,Inferred; NA
-fFZeD,petunggal,,female ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-fFZyD,petunggal,,female ego's father's sister's daughter,,,harding1970cultures,Inferred; NA
-fMBeS,petunggal,,female ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-fMByS,petunggal,,female ego's mother's brother's son,,,harding1970cultures,Inferred; NA
-fMZeS,petunggal,,female ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-fMZyS,petunggal,,female ego's mother's sister's son,,,harding1970cultures,Inferred; NA
-fMBeD,petunggal,,female ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-fMByD,petunggal,,female ego's mother's brother's daughter,,,harding1970cultures,Inferred; NA
-fMZeD,petunggal,,female ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
-fMZyD,petunggal,,female ego's mother's sister's daughter,,,harding1970cultures,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","menyadi",,"male ego's older brother",,,"harding1970cultures",""
+"myB","menyadi",,"male ego's younger brother",,,"harding1970cultures",""
+"feB","menyadi",,"female ego's older brother",,,"harding1970cultures",""
+"fyB","menyadi",,"female ego's younger brother",,,"harding1970cultures",""
+"meZ","menyadi",,"male ego's older sister",,,"harding1970cultures",""
+"myZ","menyadi",,"male ego's younger sister",,,"harding1970cultures",""
+"feZ","menyadi",,"female ego's older sister",,,"harding1970cultures",""
+"fyZ","menyadi",,"female ego's younger sister",,,"harding1970cultures",""
+"mF","apai",,"male ego's father",,,"harding1970cultures",""
+"mM","indai",,"male ego's mother",,,"harding1970cultures",""
+"fF","apai",,"female ego's father",,,"harding1970cultures",""
+"fM","indai",,"female ego's mother",,,"harding1970cultures",""
+"mS","anak",,"male ego's son",,,"harding1970cultures",""
+"fS","anak",,"female ego's son",,,"harding1970cultures",""
+"mD","anak",,"male ego's daughter",,,"harding1970cultures",""
+"fD","anak",,"female ego's daughter",,,"harding1970cultures",""
+"mSS","ucho",,"male ego's son's son",,,"harding1970cultures",""
+"mSD","ucho",,"male ego's son's daughter",,,"harding1970cultures",""
+"mDS","ucho",,"male ego's daughter's son",,,"harding1970cultures",""
+"mDD","ucho",,"male ego's daughter's daughter",,,"harding1970cultures",""
+"fSS","ucho",,"female ego's son's son",,,"harding1970cultures",""
+"fSD","ucho",,"female ego's son's daughter",,,"harding1970cultures",""
+"fDS","ucho",,"female ego's daughter's son",,,"harding1970cultures",""
+"fDD","ucho",,"female ego's daugher's daughter",,,"harding1970cultures",""
+"mFF","aki",,"male ego's father‘s father",,,"harding1970cultures",""
+"mFM","ini",,"male ego's father's mother",,,"harding1970cultures",""
+"mMF","aki",,"male ego's mother's father",,,"harding1970cultures",""
+"mMM","ini",,"male ego's mother's mother",,,"harding1970cultures",""
+"fFF","aki",,"female ego's father's father",,,"harding1970cultures",""
+"fFM","ini",,"female ego's father's mother",,,"harding1970cultures",""
+"fMF","aki",,"female ego's mother's father",,,"harding1970cultures",""
+"fMM","ini",,"female ego's mother's mother",,,"harding1970cultures",""
+"meBS","akan",,"male ego's older brother's son",,,"harding1970cultures",""
+"myBS","akan",,"male ego's younger brother's son",,,"harding1970cultures",""
+"meZS","akan",,"male ego's older sister's son",,,"harding1970cultures",""
+"myZS","akan",,"male ego's younger sister's son",,,"harding1970cultures",""
+"meBD","endo",,"male ego's older brother's daughter",,,"harding1970cultures",""
+"myBD","endo",,"male ego's younger brother's daughter",,,"harding1970cultures",""
+"meZD","endo",,"male ego's older sister's daughter",,,"harding1970cultures",""
+"myZD","endo",,"male ego's younger sister's daughter",,,"harding1970cultures",""
+"feBS","akan",,"female ego's older brother's son",,,"harding1970cultures",""
+"fyBS","akan",,"female ego's younger brother's son",,,"harding1970cultures",""
+"feZS","akan",,"female ego's older sister's son",,,"harding1970cultures",""
+"fyZS","akan",,"female ego's younger sister's son",,,"harding1970cultures",""
+"feBD","endo",,"female ego's older brother's daughter",,,"harding1970cultures",""
+"fyBD","endo",,"female ego's younger brother's daughter",,,"harding1970cultures",""
+"feZD","endo",,"female ego's older sister's daughter",,,"harding1970cultures",""
+"fyZD","endo",,"female ego's younger sister's daughter",,,"harding1970cultures",""
+"mFeB","aya",,"male ego's father's older brother",,,"harding1970cultures",""
+"mFyB","aya",,"male ego's father's younger brother",,,"harding1970cultures",""
+"mFeZ","ibo",,"male ego's father's older sister",,,"harding1970cultures",""
+"mFyZ","ibo",,"male ego's father's younger sister",,,"harding1970cultures",""
+"mMeB","aya",,"male ego's mother's older brother",,,"harding1970cultures",""
+"mMyB","aya",,"male ego's mother's younger brother",,,"harding1970cultures",""
+"mMeZ","ibo",,"male ego's mother's older sister",,,"harding1970cultures",""
+"mMyZ","ibo",,"male ego's mother's younger sister",,,"harding1970cultures",""
+"fFeB","aya",,"female ego's father's older brother",,,"harding1970cultures",""
+"fFyB","aya",,"female ego's father's younger brother",,,"harding1970cultures",""
+"fFeZ","ibo",,"female ego's father's older sister",,,"harding1970cultures",""
+"fFyZ","ibo",,"female ego's father's younger sister",,,"harding1970cultures",""
+"fMeB","aya",,"female ego's mother's older brother",,,"harding1970cultures",""
+"fMyB","aya",,"female ego's mother's younger brother",,,"harding1970cultures",""
+"fMeZ","ibo",,"female ego's mother's older sister",,,"harding1970cultures",""
+"fMyZ","ibo",,"female ego's mother's younger sister",,,"harding1970cultures",""
+"mW","bini",,"male ego's wife",,,"harding1970cultures",""
+"fH","laki",,"female ego‘s husband",,,"harding1970cultures",""
+"mDH","menantu",,"male ego's daughter's husband",,,"harding1970cultures",""
+"fDH","menantu",,"female ego's daughter's husband",,,"harding1970cultures",""
+"mSW","menantu",,"male ego's son's wife",,,"harding1970cultures",""
+"fSW","menantu",,"female ego's son's wife",,,"harding1970cultures",""
+"mWF","entua",,"male ego's wife's father",,,"harding1970cultures",""
+"mWM","entua",,"male ego's wife's mother",,,"harding1970cultures",""
+"mWB","ipar",,"male ego's wife's brother",,,"harding1970cultures",""
+"mWZ","ipar",,"male ego's wife's sister",,,"harding1970cultures",""
+"fHF","entua",,"female ego's husband's father",,,"harding1970cultures",""
+"fHM","entua",,"female ego's husband's mother",,,"harding1970cultures",""
+"fHB","ipar",,"female ego's husband's brother",,,"harding1970cultures",""
+"fHZ","ipar",,"female ego's husband's sister",,,"harding1970cultures",""
+"mBW","duai",,"male ego's brother's wife",,,"harding1970cultures",""
+"fBW","duai",,"female ego's brother's wife",,,"harding1970cultures",""
+"mZH","duai",,"male ego's sister's husband",,,"harding1970cultures",""
+"fZH","duai",,"female ego's sister's husband",,,"harding1970cultures",""
+"mFBS","petunggal",,"male ego's father's brother's son",,,"harding1970cultures",""
+"mFZS","petunggal",,"male ego's father's sister's son",,,"harding1970cultures",""
+"mMBS","petunggal",,"male ego's mother's brother's son",,,"harding1970cultures",""
+"mMZS","petunggal",,"male ego's mother's sister's son",,,"harding1970cultures",""
+"mFBD","petunggal",,"male ego's father's brother's daughter",,,"harding1970cultures",""
+"mFZD","petunggal",,"male ego's father's sister's daughter",,,"harding1970cultures",""
+"mMBD","petunggal",,"male ego's mother's brother's daughter",,,"harding1970cultures",""
+"mMZD","petunggal",,"male ego's mother's sister's daughter",,,"harding1970cultures",""
+"fFBS","petunggal",,"female ego's father's brother's son",,,"harding1970cultures",""
+"fFZS","petunggal",,"female ego's father's sister's son",,,"harding1970cultures",""
+"fMBS","petunggal",,"female ego's mother's brother's son",,,"harding1970cultures",""
+"fMZS","petunggal",,"female ego's mother's sister's son",,,"harding1970cultures",""
+"fFBD","petunggal",,"female ego's father's brother's daughter",,,"harding1970cultures",""
+"fFZD","petunggal",,"female ego's father's sister's daughter",,,"harding1970cultures",""
+"fMBD","petunggal",,"female ego's mother's brother's daughter",,,"harding1970cultures",""
+"fMZD","petunggal",,"female ego's mother's sister's daughter",,,"harding1970cultures",""
+"mFeBS","petunggal",,"male ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"mFyBS","petunggal",,"male ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"mFeZS","petunggal",,"male ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"mFyZS","petunggal",,"male ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"mFeBD","petunggal",,"male ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mFyBD","petunggal",,"male ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mFeZD","petunggal",,"male ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mFyZD","petunggal",,"male ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mMeBS","petunggal",,"male ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"mMyBS","petunggal",,"male ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"mMeZS","petunggal",,"male ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"mMyZS","petunggal",,"male ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"mMeBD","petunggal",,"male ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mMyBD","petunggal",,"male ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mMeZD","petunggal",,"male ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mMyZD","petunggal",,"male ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mFBeS","petunggal",,"male ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"mFByS","petunggal",,"male ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"mFZeS","petunggal",,"male ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"mFZyS","petunggal",,"male ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"mFBeD","petunggal",,"male ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mFByD","petunggal",,"male ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mFZeD","petunggal",,"male ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mFZyD","petunggal",,"male ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mMBeS","petunggal",,"male ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"mMByS","petunggal",,"male ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"mMZeS","petunggal",,"male ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"mMZyS","petunggal",,"male ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"mMBeD","petunggal",,"male ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mMByD","petunggal",,"male ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"mMZeD","petunggal",,"male ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"mMZyD","petunggal",,"male ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fFeBS","petunggal",,"female ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"fFyBS","petunggal",,"female ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"fFeZS","petunggal",,"female ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"fFyZS","petunggal",,"female ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"fFeBD","petunggal",,"female ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fFyBD","petunggal",,"female ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fFeZD","petunggal",,"female ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fFyZD","petunggal",,"female ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fMeBS","petunggal",,"female ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"fMyBS","petunggal",,"female ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"fMeZS","petunggal",,"female ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"fMyZS","petunggal",,"female ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"fMeBD","petunggal",,"female ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fMyBD","petunggal",,"female ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fMeZD","petunggal",,"female ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fMyZD","petunggal",,"female ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fFBeS","petunggal",,"female ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"fFByS","petunggal",,"female ego's father's brother's son",,,"harding1970cultures","Inferred; NA"
+"fFZeS","petunggal",,"female ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"fFZyS","petunggal",,"female ego's father's sister's son",,,"harding1970cultures","Inferred; NA"
+"fFBeD","petunggal",,"female ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fFByD","petunggal",,"female ego's father's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fFZeD","petunggal",,"female ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fFZyD","petunggal",,"female ego's father's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fMBeS","petunggal",,"female ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"fMByS","petunggal",,"female ego's mother's brother's son",,,"harding1970cultures","Inferred; NA"
+"fMZeS","petunggal",,"female ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"fMZyS","petunggal",,"female ego's mother's sister's son",,,"harding1970cultures","Inferred; NA"
+"fMBeD","petunggal",,"female ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fMByD","petunggal",,"female ego's mother's brother's daughter",,,"harding1970cultures","Inferred; NA"
+"fMZeD","petunggal",,"female ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"
+"fMZyD","petunggal",,"female ego's mother's sister's daughter",,,"harding1970cultures","Inferred; NA"

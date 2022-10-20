@@ -10,15 +10,15 @@ GOELDI_REPO=https://github.com/kinbank/goeldi
 
 .PHONY: help clean update test
 
-clean:
-	rm -rf raw/ env/
-
 help:
 	@echo "1. Run 'make install' to install the python requirements"
 	@echo "2. Run 'make update' to update to latest versions of Glottolog, Concepticon, and CLDF libraries."
 	@echo "3. Run 'make merge' to download the separate kinbank datasets and merge them into one."
 	@echo "4. Run 'make cldf' to generate a CLDF dataset"
 
+
+clean:
+	rm -rf raw/ env/
 # install python venv and install python libraries
 env:
 	python3 -m venv env
@@ -45,9 +45,6 @@ merge: env
 	cd collections/ && git clone $(GOELDI_REPO)
 	./env/bin/python merge_collections.py
 	rm -rf collections
-	# cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
-	# cp ./kinbank/etc/languages.csv ./kinbank/cldf/languages.csv
-	# cp ./kinbank/etc/sources.bib ./kinbank/cldf/sources.bib
 
 # generate CLDF
 cldf: env ./kinbank/raw/

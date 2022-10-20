@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tata',,male ego's older brother,,,Hudson1967,
-myB,"ani', andi'",,male ego's younger brother,,,Hudson1967,
-feB,tata',,female ego's older brother,,,Hudson1967,
-fyB,"ani', andi'",,female ego's younger brother,,,Hudson1967,
-meZ,tata',,male ego's older sister,,,Hudson1967,
-myZ,"ani', andi'",,male ego's younger sister,,,Hudson1967,
-feZ,tata',,female ego's older sister,,,Hudson1967,
-fyZ,"ani', andi'",,female ego's younger sister,,,Hudson1967,
-mF,"amah, ambah",,male ego's father,,,Hudson1967,
-mM,ineh,,male ego's mother,,,Hudson1967,
-fF,"amah, ambah",,female ego's father,,,Hudson1967,
-fM,ineh,,female ego's mother,,,Hudson1967,
-mS,ia' upu,,male ego's son,,,Hudson1967,
-fS,ia' upu,,female ego's son,,,Hudson1967,
-mD,ia' wawei,,male ego's daughter,,,Hudson1967,
-fD,ia' wawei,,female ego's daughter,,,Hudson1967,
-mSS,umpu,,male ego's son's son,,,Hudson1967,
-mSD,umpu,,male ego's son's daughter,,,Hudson1967,
-mDS,umpu,,male ego's daughter's son,,,Hudson1967,
-mDD,umpu,,male ego's daughter's daughter,,,Hudson1967,
-fSS,umpu,,female ego's son's son,,,Hudson1967,
-fSD,umpu,,female ego's son's daughter,,,Hudson1967,
-fDS,umpu,,female ego's daughter's son,,,Hudson1967,
-fDD,umpu,,female ego's daugher's daughter,,,Hudson1967,
-mFF,kakah,,male ego's father‘s father,,,Hudson1967,
-mFM,kakah,,male ego's father's mother,,,Hudson1967,
-mMF,kakah,,male ego's mother's father,,,Hudson1967,
-mMM,kakah,,male ego's mother's mother,,,Hudson1967,
-fFF,kakah,,female ego's father's father,,,Hudson1967,
-fFM,kakah,,female ego's father's mother,,,Hudson1967,
-fMF,kakah,,female ego's mother's father,,,Hudson1967,
-fMM,kakah,,female ego's mother's mother,,,Hudson1967,
-meBS,aken,,male ego's older brother's son,,,Hudson1967,
-myBS,aken,,male ego's younger brother's son,,,Hudson1967,
-meZS,aken,,male ego's older sister's son,,,Hudson1967,
-myZS,aken,,male ego's younger sister's son,,,Hudson1967,
-meBD,aken,,male ego's older brother's daughter,,,Hudson1967,
-myBD,aken,,male ego's younger brother's daughter,,,Hudson1967,
-meZD,aken,,male ego's older sister's daughter,,,Hudson1967,
-myZD,aken,,male ego's younger sister's daughter,,,Hudson1967,
-feBS,aken,,female ego's older brother's son,,,Hudson1967,
-fyBS,aken,,female ego's younger brother's son,,,Hudson1967,
-feZS,aken,,female ego's older sister's son,,,Hudson1967,
-fyZS,aken,,female ego's younger sister's son,,,Hudson1967,
-feBD,aken,,female ego's older brother's daughter,,,Hudson1967,
-fyBD,aken,,female ego's younger brother's daughter,,,Hudson1967,
-feZD,aken,,female ego's older sister's daughter,,,Hudson1967,
-fyZD,aken,,female ego's younger sister's daughter,,,Hudson1967,
-mFeB,mama',,male ego's father's older brother,,,Hudson1967,
-mFyB,mama',,male ego's father's younger brother,,,Hudson1967,
-mFeZ,tutu',,male ego's father's older sister,,,Hudson1967,
-mFyZ,tutu',,male ego's father's younger sister,,,Hudson1967,
-mMeB,mama',,male ego's mother's older brother,,,Hudson1967,
-mMyB,mama',,male ego's mother's younger brother,,,Hudson1967,
-mMeZ,tutu',,male ego's mother's older sister,,,Hudson1967,
-mMyZ,tutu',,male ego's mother's younger sister,,,Hudson1967,
-fFeB,mama',,female ego's father's older brother,,,Hudson1967,
-fFyB,mama',,female ego's father's younger brother,,,Hudson1967,
-fFeZ,tutu',,female ego's father's older sister,,,Hudson1967,
-fFyZ,tutu',,female ego's father's younger sister,,,Hudson1967,
-fMeB,mama',,female ego's mother's older brother,,,Hudson1967,
-fMyB,mama',,female ego's mother's younger brother,,,Hudson1967,
-fMeZ,tutu',,female ego's mother's older sister,,,Hudson1967,
-fMyZ,tutu',,female ego's mother's younger sister,,,Hudson1967,
-mW,matue wawei,,male ego's wife,,,Hudson1967,
-fH,matue upu,,female ego‘s husband,,,Hudson1967,
-mDH,nantu,,male ego's daughter's husband,,,Hudson1967,
-fDH,nantu,,female ego's daughter's husband,,,Hudson1967,
-mSW,nantu,,male ego's son's wife,,,Hudson1967,
-fSW,nantu,,female ego's son's wife,,,Hudson1967,
-mWF,kasian upu,,male ego's wife's father,,,Hudson1967,
-mWM,kasian wawei,,male ego's wife's mother,,,Hudson1967,
-mWB,iwan,,male ego's wife's brother,,,Hudson1967,
-mWZ,iwan,,male ego's wife's sister,,,Hudson1967,
-fHF,kasian upu,,female ego's husband's father,,,Hudson1967,
-fHM,kasian wawei,,female ego's husband's mother,,,Hudson1967,
-fHB,iwan,,female ego's husband's brother,,,Hudson1967,
-fHZ,iwan,,female ego's husband's sister,,,Hudson1967,
-mBW,iwan,,male ego's brother's wife,,,Hudson1967,
-fBW,iwan,,female ego's brother's wife,,,Hudson1967,
-mZH,iwan,,male ego's sister's husband,,,Hudson1967,
-fZH,iwan,,female ego's sister's husband,,,Hudson1967,
-mFBS,tuwari,,male ego's father's brother's son,,,Hudson1967,
-mFZS,tuwari,,male ego's father's sister's son,,,Hudson1967,
-mMBS,tuwari,,male ego's mother's brother's son,,,Hudson1967,
-mMZS,tuwari,,male ego's mother's sister's son,,,Hudson1967,
-mFBD,tuwari,,male ego's father's brother's daughter,,,Hudson1967,
-mFZD,tuwari,,male ego's father's sister's daughter,,,Hudson1967,
-mMBD,tuwari,,male ego's mother's brother's daughter,,,Hudson1967,
-mMZD,tuwari,,male ego's mother's sister's daughter,,,Hudson1967,
-fFBS,tuwari,,female ego's father's brother's son,,,Hudson1967,
-fFZS,tuwari,,female ego's father's sister's son,,,Hudson1967,
-fMBS,tuwari,,female ego's mother's brother's son,,,Hudson1967,
-fMZS,tuwari,,female ego's mother's sister's son,,,Hudson1967,
-fFBD,tuwari,,female ego's father's brother's daughter,,,Hudson1967,
-fFZD,tuwari,,female ego's father's sister's daughter,,,Hudson1967,
-fMBD,tuwari,,female ego's mother's brother's daughter,,,Hudson1967,
-fMZD,tuwari,,female ego's mother's sister's daughter,,,Hudson1967,
-mFeBS,tuwari,,male ego's father's brother's son,,,Hudson1967,Inferred; NA
-mFyBS,tuwari,,male ego's father's brother's son,,,Hudson1967,Inferred; NA
-mFeZS,tuwari,,male ego's father's sister's son,,,Hudson1967,Inferred; NA
-mFyZS,tuwari,,male ego's father's sister's son,,,Hudson1967,Inferred; NA
-mFeBD,tuwari,,male ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-mFyBD,tuwari,,male ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-mFeZD,tuwari,,male ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-mFyZD,tuwari,,male ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-mMeBS,tuwari,,male ego's mother's brother's son,,,Hudson1967,Inferred; NA
-mMyBS,tuwari,,male ego's mother's brother's son,,,Hudson1967,Inferred; NA
-mMeZS,tuwari,,male ego's mother's sister's son,,,Hudson1967,Inferred; NA
-mMyZS,tuwari,,male ego's mother's sister's son,,,Hudson1967,Inferred; NA
-mMeBD,tuwari,,male ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-mMyBD,tuwari,,male ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-mMeZD,tuwari,,male ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-mMyZD,tuwari,,male ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-mFBeS,tuwari,,male ego's father's brother's son,,,Hudson1967,Inferred; NA
-mFByS,tuwari,,male ego's father's brother's son,,,Hudson1967,Inferred; NA
-mFZeS,tuwari,,male ego's father's sister's son,,,Hudson1967,Inferred; NA
-mFZyS,tuwari,,male ego's father's sister's son,,,Hudson1967,Inferred; NA
-mFBeD,tuwari,,male ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-mFByD,tuwari,,male ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-mFZeD,tuwari,,male ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-mFZyD,tuwari,,male ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-mMBeS,tuwari,,male ego's mother's brother's son,,,Hudson1967,Inferred; NA
-mMByS,tuwari,,male ego's mother's brother's son,,,Hudson1967,Inferred; NA
-mMZeS,tuwari,,male ego's mother's sister's son,,,Hudson1967,Inferred; NA
-mMZyS,tuwari,,male ego's mother's sister's son,,,Hudson1967,Inferred; NA
-mMBeD,tuwari,,male ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-mMByD,tuwari,,male ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-mMZeD,tuwari,,male ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-mMZyD,tuwari,,male ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-fFeBS,tuwari,,female ego's father's brother's son,,,Hudson1967,Inferred; NA
-fFyBS,tuwari,,female ego's father's brother's son,,,Hudson1967,Inferred; NA
-fFeZS,tuwari,,female ego's father's sister's son,,,Hudson1967,Inferred; NA
-fFyZS,tuwari,,female ego's father's sister's son,,,Hudson1967,Inferred; NA
-fFeBD,tuwari,,female ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-fFyBD,tuwari,,female ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-fFeZD,tuwari,,female ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-fFyZD,tuwari,,female ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-fMeBS,tuwari,,female ego's mother's brother's son,,,Hudson1967,Inferred; NA
-fMyBS,tuwari,,female ego's mother's brother's son,,,Hudson1967,Inferred; NA
-fMeZS,tuwari,,female ego's mother's sister's son,,,Hudson1967,Inferred; NA
-fMyZS,tuwari,,female ego's mother's sister's son,,,Hudson1967,Inferred; NA
-fMeBD,tuwari,,female ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-fMyBD,tuwari,,female ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-fMeZD,tuwari,,female ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-fMyZD,tuwari,,female ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-fFBeS,tuwari,,female ego's father's brother's son,,,Hudson1967,Inferred; NA
-fFByS,tuwari,,female ego's father's brother's son,,,Hudson1967,Inferred; NA
-fFZeS,tuwari,,female ego's father's sister's son,,,Hudson1967,Inferred; NA
-fFZyS,tuwari,,female ego's father's sister's son,,,Hudson1967,Inferred; NA
-fFBeD,tuwari,,female ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-fFByD,tuwari,,female ego's father's brother's daughter,,,Hudson1967,Inferred; NA
-fFZeD,tuwari,,female ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-fFZyD,tuwari,,female ego's father's sister's daughter,,,Hudson1967,Inferred; NA
-fMBeS,tuwari,,female ego's mother's brother's son,,,Hudson1967,Inferred; NA
-fMByS,tuwari,,female ego's mother's brother's son,,,Hudson1967,Inferred; NA
-fMZeS,tuwari,,female ego's mother's sister's son,,,Hudson1967,Inferred; NA
-fMZyS,tuwari,,female ego's mother's sister's son,,,Hudson1967,Inferred; NA
-fMBeD,tuwari,,female ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-fMByD,tuwari,,female ego's mother's brother's daughter,,,Hudson1967,Inferred; NA
-fMZeD,tuwari,,female ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
-fMZyD,tuwari,,female ego's mother's sister's daughter,,,Hudson1967,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tata'",,"male ego's older brother",,,"Hudson1967",""
+"myB","ani', andi'",,"male ego's younger brother",,,"Hudson1967",""
+"feB","tata'",,"female ego's older brother",,,"Hudson1967",""
+"fyB","ani', andi'",,"female ego's younger brother",,,"Hudson1967",""
+"meZ","tata'",,"male ego's older sister",,,"Hudson1967",""
+"myZ","ani', andi'",,"male ego's younger sister",,,"Hudson1967",""
+"feZ","tata'",,"female ego's older sister",,,"Hudson1967",""
+"fyZ","ani', andi'",,"female ego's younger sister",,,"Hudson1967",""
+"mF","amah, ambah",,"male ego's father",,,"Hudson1967",""
+"mM","ineh",,"male ego's mother",,,"Hudson1967",""
+"fF","amah, ambah",,"female ego's father",,,"Hudson1967",""
+"fM","ineh",,"female ego's mother",,,"Hudson1967",""
+"mS","ia' upu",,"male ego's son",,,"Hudson1967",""
+"fS","ia' upu",,"female ego's son",,,"Hudson1967",""
+"mD","ia' wawei",,"male ego's daughter",,,"Hudson1967",""
+"fD","ia' wawei",,"female ego's daughter",,,"Hudson1967",""
+"mSS","umpu",,"male ego's son's son",,,"Hudson1967",""
+"mSD","umpu",,"male ego's son's daughter",,,"Hudson1967",""
+"mDS","umpu",,"male ego's daughter's son",,,"Hudson1967",""
+"mDD","umpu",,"male ego's daughter's daughter",,,"Hudson1967",""
+"fSS","umpu",,"female ego's son's son",,,"Hudson1967",""
+"fSD","umpu",,"female ego's son's daughter",,,"Hudson1967",""
+"fDS","umpu",,"female ego's daughter's son",,,"Hudson1967",""
+"fDD","umpu",,"female ego's daugher's daughter",,,"Hudson1967",""
+"mFF","kakah",,"male ego's father‘s father",,,"Hudson1967",""
+"mFM","kakah",,"male ego's father's mother",,,"Hudson1967",""
+"mMF","kakah",,"male ego's mother's father",,,"Hudson1967",""
+"mMM","kakah",,"male ego's mother's mother",,,"Hudson1967",""
+"fFF","kakah",,"female ego's father's father",,,"Hudson1967",""
+"fFM","kakah",,"female ego's father's mother",,,"Hudson1967",""
+"fMF","kakah",,"female ego's mother's father",,,"Hudson1967",""
+"fMM","kakah",,"female ego's mother's mother",,,"Hudson1967",""
+"meBS","aken",,"male ego's older brother's son",,,"Hudson1967",""
+"myBS","aken",,"male ego's younger brother's son",,,"Hudson1967",""
+"meZS","aken",,"male ego's older sister's son",,,"Hudson1967",""
+"myZS","aken",,"male ego's younger sister's son",,,"Hudson1967",""
+"meBD","aken",,"male ego's older brother's daughter",,,"Hudson1967",""
+"myBD","aken",,"male ego's younger brother's daughter",,,"Hudson1967",""
+"meZD","aken",,"male ego's older sister's daughter",,,"Hudson1967",""
+"myZD","aken",,"male ego's younger sister's daughter",,,"Hudson1967",""
+"feBS","aken",,"female ego's older brother's son",,,"Hudson1967",""
+"fyBS","aken",,"female ego's younger brother's son",,,"Hudson1967",""
+"feZS","aken",,"female ego's older sister's son",,,"Hudson1967",""
+"fyZS","aken",,"female ego's younger sister's son",,,"Hudson1967",""
+"feBD","aken",,"female ego's older brother's daughter",,,"Hudson1967",""
+"fyBD","aken",,"female ego's younger brother's daughter",,,"Hudson1967",""
+"feZD","aken",,"female ego's older sister's daughter",,,"Hudson1967",""
+"fyZD","aken",,"female ego's younger sister's daughter",,,"Hudson1967",""
+"mFeB","mama'",,"male ego's father's older brother",,,"Hudson1967",""
+"mFyB","mama'",,"male ego's father's younger brother",,,"Hudson1967",""
+"mFeZ","tutu'",,"male ego's father's older sister",,,"Hudson1967",""
+"mFyZ","tutu'",,"male ego's father's younger sister",,,"Hudson1967",""
+"mMeB","mama'",,"male ego's mother's older brother",,,"Hudson1967",""
+"mMyB","mama'",,"male ego's mother's younger brother",,,"Hudson1967",""
+"mMeZ","tutu'",,"male ego's mother's older sister",,,"Hudson1967",""
+"mMyZ","tutu'",,"male ego's mother's younger sister",,,"Hudson1967",""
+"fFeB","mama'",,"female ego's father's older brother",,,"Hudson1967",""
+"fFyB","mama'",,"female ego's father's younger brother",,,"Hudson1967",""
+"fFeZ","tutu'",,"female ego's father's older sister",,,"Hudson1967",""
+"fFyZ","tutu'",,"female ego's father's younger sister",,,"Hudson1967",""
+"fMeB","mama'",,"female ego's mother's older brother",,,"Hudson1967",""
+"fMyB","mama'",,"female ego's mother's younger brother",,,"Hudson1967",""
+"fMeZ","tutu'",,"female ego's mother's older sister",,,"Hudson1967",""
+"fMyZ","tutu'",,"female ego's mother's younger sister",,,"Hudson1967",""
+"mW","matue wawei",,"male ego's wife",,,"Hudson1967",""
+"fH","matue upu",,"female ego‘s husband",,,"Hudson1967",""
+"mDH","nantu",,"male ego's daughter's husband",,,"Hudson1967",""
+"fDH","nantu",,"female ego's daughter's husband",,,"Hudson1967",""
+"mSW","nantu",,"male ego's son's wife",,,"Hudson1967",""
+"fSW","nantu",,"female ego's son's wife",,,"Hudson1967",""
+"mWF","kasian upu",,"male ego's wife's father",,,"Hudson1967",""
+"mWM","kasian wawei",,"male ego's wife's mother",,,"Hudson1967",""
+"mWB","iwan",,"male ego's wife's brother",,,"Hudson1967",""
+"mWZ","iwan",,"male ego's wife's sister",,,"Hudson1967",""
+"fHF","kasian upu",,"female ego's husband's father",,,"Hudson1967",""
+"fHM","kasian wawei",,"female ego's husband's mother",,,"Hudson1967",""
+"fHB","iwan",,"female ego's husband's brother",,,"Hudson1967",""
+"fHZ","iwan",,"female ego's husband's sister",,,"Hudson1967",""
+"mBW","iwan",,"male ego's brother's wife",,,"Hudson1967",""
+"fBW","iwan",,"female ego's brother's wife",,,"Hudson1967",""
+"mZH","iwan",,"male ego's sister's husband",,,"Hudson1967",""
+"fZH","iwan",,"female ego's sister's husband",,,"Hudson1967",""
+"mFBS","tuwari",,"male ego's father's brother's son",,,"Hudson1967",""
+"mFZS","tuwari",,"male ego's father's sister's son",,,"Hudson1967",""
+"mMBS","tuwari",,"male ego's mother's brother's son",,,"Hudson1967",""
+"mMZS","tuwari",,"male ego's mother's sister's son",,,"Hudson1967",""
+"mFBD","tuwari",,"male ego's father's brother's daughter",,,"Hudson1967",""
+"mFZD","tuwari",,"male ego's father's sister's daughter",,,"Hudson1967",""
+"mMBD","tuwari",,"male ego's mother's brother's daughter",,,"Hudson1967",""
+"mMZD","tuwari",,"male ego's mother's sister's daughter",,,"Hudson1967",""
+"fFBS","tuwari",,"female ego's father's brother's son",,,"Hudson1967",""
+"fFZS","tuwari",,"female ego's father's sister's son",,,"Hudson1967",""
+"fMBS","tuwari",,"female ego's mother's brother's son",,,"Hudson1967",""
+"fMZS","tuwari",,"female ego's mother's sister's son",,,"Hudson1967",""
+"fFBD","tuwari",,"female ego's father's brother's daughter",,,"Hudson1967",""
+"fFZD","tuwari",,"female ego's father's sister's daughter",,,"Hudson1967",""
+"fMBD","tuwari",,"female ego's mother's brother's daughter",,,"Hudson1967",""
+"fMZD","tuwari",,"female ego's mother's sister's daughter",,,"Hudson1967",""
+"mFeBS","tuwari",,"male ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"mFyBS","tuwari",,"male ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"mFeZS","tuwari",,"male ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"mFyZS","tuwari",,"male ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"mFeBD","tuwari",,"male ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mFyBD","tuwari",,"male ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mFeZD","tuwari",,"male ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mFyZD","tuwari",,"male ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mMeBS","tuwari",,"male ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"mMyBS","tuwari",,"male ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"mMeZS","tuwari",,"male ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"mMyZS","tuwari",,"male ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"mMeBD","tuwari",,"male ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mMyBD","tuwari",,"male ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mMeZD","tuwari",,"male ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mMyZD","tuwari",,"male ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mFBeS","tuwari",,"male ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"mFByS","tuwari",,"male ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"mFZeS","tuwari",,"male ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"mFZyS","tuwari",,"male ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"mFBeD","tuwari",,"male ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mFByD","tuwari",,"male ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mFZeD","tuwari",,"male ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mFZyD","tuwari",,"male ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mMBeS","tuwari",,"male ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"mMByS","tuwari",,"male ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"mMZeS","tuwari",,"male ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"mMZyS","tuwari",,"male ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"mMBeD","tuwari",,"male ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mMByD","tuwari",,"male ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"mMZeD","tuwari",,"male ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"mMZyD","tuwari",,"male ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fFeBS","tuwari",,"female ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"fFyBS","tuwari",,"female ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"fFeZS","tuwari",,"female ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"fFyZS","tuwari",,"female ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"fFeBD","tuwari",,"female ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fFyBD","tuwari",,"female ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fFeZD","tuwari",,"female ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fFyZD","tuwari",,"female ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fMeBS","tuwari",,"female ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"fMyBS","tuwari",,"female ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"fMeZS","tuwari",,"female ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"fMyZS","tuwari",,"female ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"fMeBD","tuwari",,"female ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fMyBD","tuwari",,"female ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fMeZD","tuwari",,"female ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fMyZD","tuwari",,"female ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fFBeS","tuwari",,"female ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"fFByS","tuwari",,"female ego's father's brother's son",,,"Hudson1967","Inferred; NA"
+"fFZeS","tuwari",,"female ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"fFZyS","tuwari",,"female ego's father's sister's son",,,"Hudson1967","Inferred; NA"
+"fFBeD","tuwari",,"female ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fFByD","tuwari",,"female ego's father's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fFZeD","tuwari",,"female ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fFZyD","tuwari",,"female ego's father's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fMBeS","tuwari",,"female ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"fMByS","tuwari",,"female ego's mother's brother's son",,,"Hudson1967","Inferred; NA"
+"fMZeS","tuwari",,"female ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"fMZyS","tuwari",,"female ego's mother's sister's son",,,"Hudson1967","Inferred; NA"
+"fMBeD","tuwari",,"female ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fMByD","tuwari",,"female ego's mother's brother's daughter",,,"Hudson1967","Inferred; NA"
+"fMZeD","tuwari",,"female ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
+"fMZyD","tuwari",,"female ego's mother's sister's daughter",,,"Hudson1967","Inferred; NA"
