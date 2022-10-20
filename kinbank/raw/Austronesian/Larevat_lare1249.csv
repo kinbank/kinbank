@@ -1,91 +1,91 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,mame,,male ego's older brother,,,Deacon1934,
-myB,havungk,,male ego's younger brother,,,Deacon1934,
-feB,manungk,,female ego's older brother,,,Deacon1934,
-fyB,manungk,,female ego's younger brother,,,Deacon1934,
-meZ,vövönungk,,male ego's older sister,,,Deacon1934,
-myZ,vövönungk,,male ego's younger sister,,,Deacon1934,
-feZ,tugangk,,female ego's older sister,,,Deacon1934,
-fyZ,naaruongk,,female ego's younger sister,,,Deacon1934,
-mF,tate,,male ego's father,,,Deacon1934,
-mM,nane,,male ego's mother,,,Deacon1934,
-fF,tate,,female ego's father,,,Deacon1934,
-fM,nane,,female ego's mother,,,Deacon1934,
-mS,netungk,,male ego's son,,,Deacon1934,
-fS,netungk,,female ego's son,,,Deacon1934,
-mD,netungk ivungk,,male ego's daughter,,,Deacon1934,
-fD,netungk ivungk,,female ego's daughter,,,Deacon1934,
-mSS,naambungk,,male ego's son's son,,,Deacon1934,
-mSD,naambungk,,male ego's son's daughter,,,Deacon1934,
-mDS,naambungk,,male ego's daughter's son,,,Deacon1934,
-mDD,naambungk,,male ego's daughter's daughter,,,Deacon1934,
-fSS,naambungk,,female ego's son's son,,,Deacon1934,
-fSD,naambungk,,female ego's son's daughter,,,Deacon1934,
-fDS,naambungk,,female ego's daughter's son,,,Deacon1934,
-fDD,naambungk,,female ego's daugher's daughter,,,Deacon1934,
-mFF,bumbu,,male ego's father‘s father,,,Deacon1934,
-mFM,bumbu tevet,,male ego's father's mother,,,Deacon1934,
-mMF,bumbu,,male ego's mother's father,,,Deacon1934,
-mMM,bumbu tevet,,male ego's mother's mother,,,Deacon1934,
-fFF,bumbu,,female ego's father's father,,,Deacon1934,
-fFM,bumbu tevet,,female ego's father's mother,,,Deacon1934,
-fMF,bumbu,,female ego's mother's father,,,Deacon1934,
-fMM,bumbu tevet,,female ego's mother's mother,,,Deacon1934,
-meZS,metelo,,male ego's older sister's son,,,Deacon1934,
-myZS,metelo,,male ego's younger sister's son,,,Deacon1934,
-meZD,metelo,,male ego's older sister's daughter,,,Deacon1934,
-myZD,metelo,,male ego's younger sister's daughter,,,Deacon1934,
-feBS,netungk,,female ego's older brother's son,,,Deacon1934,
-fyBS,netungk,,female ego's younger brother's son,,,Deacon1934,
-feBD,netungk,,female ego's older brother's daughter,,,Deacon1934,
-fyBD,netungk,,female ego's younger brother's daughter,,,Deacon1934,
-mFeZ,vave,,male ego's father's older sister,,,Deacon1934,
-mFyZ,vave,,male ego's father's younger sister,,,Deacon1934,
-mMeB,bimbi,,male ego's mother's older brother,,,Deacon1934,
-mMyB,bimbi,,male ego's mother's younger brother,,,Deacon1934,
-fFeZ,vave,,female ego's father's older sister,,,Deacon1934,
-fFyZ,vave,,female ego's father's younger sister,,,Deacon1934,
-fMeB,bimbi,,female ego's mother's older brother,,,Deacon1934,
-fMyB,bimbi,,female ego's mother's younger brother,,,Deacon1934,
-mW,tenivungk,,male ego's wife,,,Deacon1934,
-fH,min sug sungk,,female ego‘s husband,,,Deacon1934,
-mDH,neligh,,male ego's daughter's husband,,,Deacon1934,
-fDH,neligh,,female ego's daughter's husband,,,Deacon1934,
-mSW,lembörens,,male ego's son's wife,,,Deacon1934,
-fSW,lembörens,,female ego's son's wife,,,Deacon1934,
-mWF,balghongk,,male ego's wife's father,,,Deacon1934,
-mWM,balghongk tevet,,male ego's wife's mother,,,Deacon1934,
-mWB,mur lag sungk,,male ego's wife's brother,,,Deacon1934,
-mWZ,tenivungk,,male ego's wife's sister,,,Deacon1934,
-fHF,balghongk,,female ego's husband's father,,,Deacon1934,
-fHM,balghongk tevet,,female ego's husband's mother,,,Deacon1934,
-fHB,"tugangk, min sug sungk",,female ego's husband's brother,,,Deacon1934,"tugangk = husband's elder brother, min sug sungk = husband's elder brother"
-fHZ,"vave, nevin lel sungk",,female ego's husband's sister,,,Deacon1934,
-mBW,"tenivungk, lembörens",,male ego's brother's wife,,,Deacon1934,"tenivungk = elder brother's wife, lembörens = younger brother's wife"
-fBW,lembörens,,female ego's brother's wife,,,Deacon1934,
-mZH,neligh,,male ego's sister's husband,,,Deacon1934,
-fZH,min sug sungk,,female ego's sister's husband,,,Deacon1934,
-mFeBS,mame,,male ego's father‘s older brother‘s son,,,Deacon1934,
-mFyBS,havungk,,male ego‘s father‘s younger brother‘s son,,,Deacon1934,
-mFeZS,tat uve,,male ego's father‘s older sister‘s son,,,Deacon1934,
-mFyZS,tat uve,,male ego‘s father‘s younger sister‘s son,,,Deacon1934,
-mFeBD,vövönungk,,male ego's father‘s older brother‘s daughter,,,Deacon1934,
-mFyBD,vövönungk,,male ego‘s father‘s younger brother‘s daughter,,,Deacon1934,
-mFeZD,vave,,male ego's father‘s older sister‘s daughter,,,Deacon1934,
-mFyZD,vave,,male ego‘s father‘s younger sister‘s daughter,,,Deacon1934,
-mMeBS,netungk,,male ego's mother‘s older brother‘s son,,,Deacon1934,
-mMyBS,netungk,,male ego‘s mother‘s younger brother‘s son,,,Deacon1934,
-mMeBD,netungk,,male ego's mother‘s older brother‘s daughter,,,Deacon1934,
-mMyBD,netungk,,male ego‘s mother‘s younger brother‘s daughter,,,Deacon1934,
-fFeBS,manungk,,female ego's father‘s older brother‘s son,,,Deacon1934,
-fFyBS,manungk,,female ego‘s father‘s younger brother‘s son,,,Deacon1934,
-fFeZS,tat uve,,female ego's father‘s older sister‘s son,,,Deacon1934,
-fFyZS,tat uve,,female ego‘s father‘s younger sister‘s son,,,Deacon1934,
-fFeBD,tugangk,,female ego's father‘s older brother‘s daughter,,,Deacon1934,
-fFyBD,naaruongk,,female ego‘s father‘s younger brother‘s daughter,,,Deacon1934,
-fFeZD,vave,,female ego's father‘s older sister‘s daughter,,,Deacon1934,
-fFyZD,vave,,female ego‘s father‘s younger sister‘s daughter,,,Deacon1934,
-fMeBS,netungk,,female ego's mother‘s older brother‘s son,,,Deacon1934,
-fMyBS,netungk,,female ego‘s mother‘s younger brother‘s son,,,Deacon1934,
-fMeBD,netungk,,female ego's mother‘s older brother‘s daughter,,,Deacon1934,
-fMyBD,netungk,,female ego‘s mother‘s younger brother‘s daughter,,,Deacon1934,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","mame",,"male ego's older brother",,,"Deacon1934",""
+"myB","havungk",,"male ego's younger brother",,,"Deacon1934",""
+"feB","manungk",,"female ego's older brother",,,"Deacon1934",""
+"fyB","manungk",,"female ego's younger brother",,,"Deacon1934",""
+"meZ","vövönungk",,"male ego's older sister",,,"Deacon1934",""
+"myZ","vövönungk",,"male ego's younger sister",,,"Deacon1934",""
+"feZ","tugangk",,"female ego's older sister",,,"Deacon1934",""
+"fyZ","naaruongk",,"female ego's younger sister",,,"Deacon1934",""
+"mF","tate",,"male ego's father",,,"Deacon1934",""
+"mM","nane",,"male ego's mother",,,"Deacon1934",""
+"fF","tate",,"female ego's father",,,"Deacon1934",""
+"fM","nane",,"female ego's mother",,,"Deacon1934",""
+"mS","netungk",,"male ego's son",,,"Deacon1934",""
+"fS","netungk",,"female ego's son",,,"Deacon1934",""
+"mD","netungk ivungk",,"male ego's daughter",,,"Deacon1934",""
+"fD","netungk ivungk",,"female ego's daughter",,,"Deacon1934",""
+"mSS","naambungk",,"male ego's son's son",,,"Deacon1934",""
+"mSD","naambungk",,"male ego's son's daughter",,,"Deacon1934",""
+"mDS","naambungk",,"male ego's daughter's son",,,"Deacon1934",""
+"mDD","naambungk",,"male ego's daughter's daughter",,,"Deacon1934",""
+"fSS","naambungk",,"female ego's son's son",,,"Deacon1934",""
+"fSD","naambungk",,"female ego's son's daughter",,,"Deacon1934",""
+"fDS","naambungk",,"female ego's daughter's son",,,"Deacon1934",""
+"fDD","naambungk",,"female ego's daugher's daughter",,,"Deacon1934",""
+"mFF","bumbu",,"male ego's father‘s father",,,"Deacon1934",""
+"mFM","bumbu tevet",,"male ego's father's mother",,,"Deacon1934",""
+"mMF","bumbu",,"male ego's mother's father",,,"Deacon1934",""
+"mMM","bumbu tevet",,"male ego's mother's mother",,,"Deacon1934",""
+"fFF","bumbu",,"female ego's father's father",,,"Deacon1934",""
+"fFM","bumbu tevet",,"female ego's father's mother",,,"Deacon1934",""
+"fMF","bumbu",,"female ego's mother's father",,,"Deacon1934",""
+"fMM","bumbu tevet",,"female ego's mother's mother",,,"Deacon1934",""
+"meZS","metelo",,"male ego's older sister's son",,,"Deacon1934",""
+"myZS","metelo",,"male ego's younger sister's son",,,"Deacon1934",""
+"meZD","metelo",,"male ego's older sister's daughter",,,"Deacon1934",""
+"myZD","metelo",,"male ego's younger sister's daughter",,,"Deacon1934",""
+"feBS","netungk",,"female ego's older brother's son",,,"Deacon1934",""
+"fyBS","netungk",,"female ego's younger brother's son",,,"Deacon1934",""
+"feBD","netungk",,"female ego's older brother's daughter",,,"Deacon1934",""
+"fyBD","netungk",,"female ego's younger brother's daughter",,,"Deacon1934",""
+"mFeZ","vave",,"male ego's father's older sister",,,"Deacon1934",""
+"mFyZ","vave",,"male ego's father's younger sister",,,"Deacon1934",""
+"mMeB","bimbi",,"male ego's mother's older brother",,,"Deacon1934",""
+"mMyB","bimbi",,"male ego's mother's younger brother",,,"Deacon1934",""
+"fFeZ","vave",,"female ego's father's older sister",,,"Deacon1934",""
+"fFyZ","vave",,"female ego's father's younger sister",,,"Deacon1934",""
+"fMeB","bimbi",,"female ego's mother's older brother",,,"Deacon1934",""
+"fMyB","bimbi",,"female ego's mother's younger brother",,,"Deacon1934",""
+"mW","tenivungk",,"male ego's wife",,,"Deacon1934",""
+"fH","min sug sungk",,"female ego‘s husband",,,"Deacon1934",""
+"mDH","neligh",,"male ego's daughter's husband",,,"Deacon1934",""
+"fDH","neligh",,"female ego's daughter's husband",,,"Deacon1934",""
+"mSW","lembörens",,"male ego's son's wife",,,"Deacon1934",""
+"fSW","lembörens",,"female ego's son's wife",,,"Deacon1934",""
+"mWF","balghongk",,"male ego's wife's father",,,"Deacon1934",""
+"mWM","balghongk tevet",,"male ego's wife's mother",,,"Deacon1934",""
+"mWB","mur lag sungk",,"male ego's wife's brother",,,"Deacon1934",""
+"mWZ","tenivungk",,"male ego's wife's sister",,,"Deacon1934",""
+"fHF","balghongk",,"female ego's husband's father",,,"Deacon1934",""
+"fHM","balghongk tevet",,"female ego's husband's mother",,,"Deacon1934",""
+"fHB","tugangk, min sug sungk",,"female ego's husband's brother",,,"Deacon1934","tugangk = husband's elder brother, min sug sungk = husband's elder brother"
+"fHZ","vave, nevin lel sungk",,"female ego's husband's sister",,,"Deacon1934",""
+"mBW","tenivungk, lembörens",,"male ego's brother's wife",,,"Deacon1934","tenivungk = elder brother's wife, lembörens = younger brother's wife"
+"fBW","lembörens",,"female ego's brother's wife",,,"Deacon1934",""
+"mZH","neligh",,"male ego's sister's husband",,,"Deacon1934",""
+"fZH","min sug sungk",,"female ego's sister's husband",,,"Deacon1934",""
+"mFeBS","mame",,"male ego's father‘s older brother‘s son",,,"Deacon1934",""
+"mFyBS","havungk",,"male ego‘s father‘s younger brother‘s son",,,"Deacon1934",""
+"mFeZS","tat uve",,"male ego's father‘s older sister‘s son",,,"Deacon1934",""
+"mFyZS","tat uve",,"male ego‘s father‘s younger sister‘s son",,,"Deacon1934",""
+"mFeBD","vövönungk",,"male ego's father‘s older brother‘s daughter",,,"Deacon1934",""
+"mFyBD","vövönungk",,"male ego‘s father‘s younger brother‘s daughter",,,"Deacon1934",""
+"mFeZD","vave",,"male ego's father‘s older sister‘s daughter",,,"Deacon1934",""
+"mFyZD","vave",,"male ego‘s father‘s younger sister‘s daughter",,,"Deacon1934",""
+"mMeBS","netungk",,"male ego's mother‘s older brother‘s son",,,"Deacon1934",""
+"mMyBS","netungk",,"male ego‘s mother‘s younger brother‘s son",,,"Deacon1934",""
+"mMeBD","netungk",,"male ego's mother‘s older brother‘s daughter",,,"Deacon1934",""
+"mMyBD","netungk",,"male ego‘s mother‘s younger brother‘s daughter",,,"Deacon1934",""
+"fFeBS","manungk",,"female ego's father‘s older brother‘s son",,,"Deacon1934",""
+"fFyBS","manungk",,"female ego‘s father‘s younger brother‘s son",,,"Deacon1934",""
+"fFeZS","tat uve",,"female ego's father‘s older sister‘s son",,,"Deacon1934",""
+"fFyZS","tat uve",,"female ego‘s father‘s younger sister‘s son",,,"Deacon1934",""
+"fFeBD","tugangk",,"female ego's father‘s older brother‘s daughter",,,"Deacon1934",""
+"fFyBD","naaruongk",,"female ego‘s father‘s younger brother‘s daughter",,,"Deacon1934",""
+"fFeZD","vave",,"female ego's father‘s older sister‘s daughter",,,"Deacon1934",""
+"fFyZD","vave",,"female ego‘s father‘s younger sister‘s daughter",,,"Deacon1934",""
+"fMeBS","netungk",,"female ego's mother‘s older brother‘s son",,,"Deacon1934",""
+"fMyBS","netungk",,"female ego‘s mother‘s younger brother‘s son",,,"Deacon1934",""
+"fMeBD","netungk",,"female ego's mother‘s older brother‘s daughter",,,"Deacon1934",""
+"fMyBD","netungk",,"female ego‘s mother‘s younger brother‘s daughter",,,"Deacon1934",""

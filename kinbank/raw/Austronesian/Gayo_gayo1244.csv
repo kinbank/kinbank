@@ -1,79 +1,79 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"peserinen, abang",,male ego's older brother,,,Eades2005,
-myB,"peserinen, engfli",,male ego's younger brother,,,Eades2005,
-feB,"dengan, abang",,female ego's older brother,,,Eades2005,
-fyB,"dengan, engfli",,female ego's younger brother,,,Eades2005,
-meZ,"dengan, aka",,male ego's older sister,,,Eades2005,
-myZ,"dengan, engfli",,male ego's younger sister,,,Eades2005,
-feZ,"peserinen, aka",,female ego's older sister,,,Eades2005,
-fyZ,"peserinen, engfli",,female ego's younger sister,,,Eades2005,
-mF,ama,,male ego's father,,,Eades2005,
-mM,ine,,male ego's mother,,,Eades2005,
-fF,ama,,female ego's father,,,Eades2005,
-fM,ine,,female ego's mother,,,Eades2005,
-mS,"(si) ulu bëre/sulu bëre, bensu",,male ego's son,,,Eades2005,
-fS,"(si) ulu bëre/sulu bëre, bensu",,female ego's son,,,Eades2005,
-mD,"(si) ulu bëre/sulu bëre, bensu",,male ego's daughter,,,Eades2005,
-fD,"(si) ulu bëre/sulu bëre, bensu",,female ego's daughter,,,Eades2005,
-mSS,kumpu,,male ego's son's son,,,Eades2005,
-mSD,kumpu,,male ego's son's daughter,,,Eades2005,
-mDS,kumpu,,male ego's daughter's son,,,Eades2005,
-mDD,kumpu,,male ego's daughter's daughter,,,Eades2005,
-fSS,kumpu,,female ego's son's son,,,Eades2005,
-fSD,kumpu,,female ego's son's daughter,,,Eades2005,
-fDS,kumpu,,female ego's daughter's son,,,Eades2005,
-fDD,kumpu,,female ego's daugher's daughter,,,Eades2005,
-mFF,awan pedih,,male ego's father‘s father,,,Eades2005,
-mFM,anan pedih,,male ego's father's mother,,,Eades2005,
-mMF,awan alik,,male ego's mother's father,,,Eades2005,
-mMM,anan alik,,male ego's mother's mother,,,Eades2005,
-fFF,awan pedih,,female ego's father's father,,,Eades2005,
-fFM,anan pedih,,female ego's father's mother,,,Eades2005,
-fMF,awan alik,,female ego's mother's father,,,Eades2005,
-fMM,anan alik,,female ego's mother's mother,,,Eades2005,
-meBS,until,,male ego's older brother's son,,,Eades2005,
-myBS,until,,male ego's younger brother's son,,,Eades2005,
-meZS,until,,male ego's older sister's son,,,Eades2005,
-myZS,until,,male ego's younger sister's son,,,Eades2005,
-meBD,until,,male ego's older brother's daughter,,,Eades2005,
-myBD,until,,male ego's younger brother's daughter,,,Eades2005,
-meZD,until,,male ego's older sister's daughter,,,Eades2005,
-myZD,until,,male ego's younger sister's daughter,,,Eades2005,
-feBS,until,,female ego's older brother's son,,,Eades2005,
-fyBS,until,,female ego's younger brother's son,,,Eades2005,
-feZS,until,,female ego's older sister's son,,,Eades2005,
-fyZS,until,,female ego's younger sister's son,,,Eades2005,
-feBD,until,,female ego's older brother's daughter,,,Eades2005,
-fyBD,until,,female ego's younger brother's daughter,,,Eades2005,
-feZD,until,,female ego's older sister's daughter,,,Eades2005,
-fyZD,until,,female ego's younger sister's daughter,,,Eades2005,
-mFeB,ama,,male ego's father's older brother,,,Eades2005,
-mFyB,ama,,male ego's father's younger brother,,,Eades2005,
-mFeZ,ine,,male ego's father's older sister,,,Eades2005,
-mFyZ,ine,,male ego's father's younger sister,,,Eades2005,
-mMeB,pôn,,male ego's mother's older brother,,,Eades2005,
-mMyB,pôn,,male ego's mother's younger brother,,,Eades2005,
-mMeZ,"ibi, ue",,male ego's mother's older sister,,,Eades2005,
-mMyZ,"ibi, ue",,male ego's mother's younger sister,,,Eades2005,
-fFeB,ama,,female ego's father's older brother,,,Eades2005,
-fFyB,ama,,female ego's father's younger brother,,,Eades2005,
-fFeZ,ine,,female ego's father's older sister,,,Eades2005,
-fFyZ,ine,,female ego's father's younger sister,,,Eades2005,
-fMeB,pôn,,female ego's mother's older brother,,,Eades2005,
-fMyB,pôn,,female ego's mother's younger brother,,,Eades2005,
-fMeZ,"ibi, ue",,female ego's mother's older sister,,,Eades2005,
-fMyZ,"ibi, ue",,female ego's mother's younger sister,,,Eades2005,
-fH,rawan,,female ego‘s husband,,,Eades2005,
-mDH,kile,,male ego's daughter's husband,,,Eades2005,
-fDH,kile,,female ego's daughter's husband,,,Eades2005,
-mSW,pemèn,,male ego's son's wife,,,Eades2005,
-fSW,pemèn,,female ego's son's wife,,,Eades2005,
-mWF,tuen,,male ego's wife's father,,,Eades2005,
-mWM,inen tue,,male ego's wife's mother,,,Eades2005,
-mWZ,kawé,,male ego's wife's sister,,,Eades2005,
-fHF,tuen,,female ego's husband's father,,,Eades2005,
-fHM,inen tue,,female ego's husband's mother,,,Eades2005,
-fHB,"temude, tuen èra",,female ego's husband's brother,,,Eades2005,"temude = husband's older brother, tuen èra = husband's younger brother"
-fHZ,kawé,,female ego's husband's sister,,,Eades2005,
-mBW,kawé,,male ego's brother's wife,,,Eades2005,
-fBW,kawé,,female ego's brother's wife,,,Eades2005,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","peserinen, abang",,"male ego's older brother",,,"Eades2005",""
+"myB","peserinen, engfli",,"male ego's younger brother",,,"Eades2005",""
+"feB","dengan, abang",,"female ego's older brother",,,"Eades2005",""
+"fyB","dengan, engfli",,"female ego's younger brother",,,"Eades2005",""
+"meZ","dengan, aka",,"male ego's older sister",,,"Eades2005",""
+"myZ","dengan, engfli",,"male ego's younger sister",,,"Eades2005",""
+"feZ","peserinen, aka",,"female ego's older sister",,,"Eades2005",""
+"fyZ","peserinen, engfli",,"female ego's younger sister",,,"Eades2005",""
+"mF","ama",,"male ego's father",,,"Eades2005",""
+"mM","ine",,"male ego's mother",,,"Eades2005",""
+"fF","ama",,"female ego's father",,,"Eades2005",""
+"fM","ine",,"female ego's mother",,,"Eades2005",""
+"mS","(si) ulu bëre/sulu bëre, bensu",,"male ego's son",,,"Eades2005",""
+"fS","(si) ulu bëre/sulu bëre, bensu",,"female ego's son",,,"Eades2005",""
+"mD","(si) ulu bëre/sulu bëre, bensu",,"male ego's daughter",,,"Eades2005",""
+"fD","(si) ulu bëre/sulu bëre, bensu",,"female ego's daughter",,,"Eades2005",""
+"mSS","kumpu",,"male ego's son's son",,,"Eades2005",""
+"mSD","kumpu",,"male ego's son's daughter",,,"Eades2005",""
+"mDS","kumpu",,"male ego's daughter's son",,,"Eades2005",""
+"mDD","kumpu",,"male ego's daughter's daughter",,,"Eades2005",""
+"fSS","kumpu",,"female ego's son's son",,,"Eades2005",""
+"fSD","kumpu",,"female ego's son's daughter",,,"Eades2005",""
+"fDS","kumpu",,"female ego's daughter's son",,,"Eades2005",""
+"fDD","kumpu",,"female ego's daugher's daughter",,,"Eades2005",""
+"mFF","awan pedih",,"male ego's father‘s father",,,"Eades2005",""
+"mFM","anan pedih",,"male ego's father's mother",,,"Eades2005",""
+"mMF","awan alik",,"male ego's mother's father",,,"Eades2005",""
+"mMM","anan alik",,"male ego's mother's mother",,,"Eades2005",""
+"fFF","awan pedih",,"female ego's father's father",,,"Eades2005",""
+"fFM","anan pedih",,"female ego's father's mother",,,"Eades2005",""
+"fMF","awan alik",,"female ego's mother's father",,,"Eades2005",""
+"fMM","anan alik",,"female ego's mother's mother",,,"Eades2005",""
+"meBS","until",,"male ego's older brother's son",,,"Eades2005",""
+"myBS","until",,"male ego's younger brother's son",,,"Eades2005",""
+"meZS","until",,"male ego's older sister's son",,,"Eades2005",""
+"myZS","until",,"male ego's younger sister's son",,,"Eades2005",""
+"meBD","until",,"male ego's older brother's daughter",,,"Eades2005",""
+"myBD","until",,"male ego's younger brother's daughter",,,"Eades2005",""
+"meZD","until",,"male ego's older sister's daughter",,,"Eades2005",""
+"myZD","until",,"male ego's younger sister's daughter",,,"Eades2005",""
+"feBS","until",,"female ego's older brother's son",,,"Eades2005",""
+"fyBS","until",,"female ego's younger brother's son",,,"Eades2005",""
+"feZS","until",,"female ego's older sister's son",,,"Eades2005",""
+"fyZS","until",,"female ego's younger sister's son",,,"Eades2005",""
+"feBD","until",,"female ego's older brother's daughter",,,"Eades2005",""
+"fyBD","until",,"female ego's younger brother's daughter",,,"Eades2005",""
+"feZD","until",,"female ego's older sister's daughter",,,"Eades2005",""
+"fyZD","until",,"female ego's younger sister's daughter",,,"Eades2005",""
+"mFeB","ama",,"male ego's father's older brother",,,"Eades2005",""
+"mFyB","ama",,"male ego's father's younger brother",,,"Eades2005",""
+"mFeZ","ine",,"male ego's father's older sister",,,"Eades2005",""
+"mFyZ","ine",,"male ego's father's younger sister",,,"Eades2005",""
+"mMeB","pôn",,"male ego's mother's older brother",,,"Eades2005",""
+"mMyB","pôn",,"male ego's mother's younger brother",,,"Eades2005",""
+"mMeZ","ibi, ue",,"male ego's mother's older sister",,,"Eades2005",""
+"mMyZ","ibi, ue",,"male ego's mother's younger sister",,,"Eades2005",""
+"fFeB","ama",,"female ego's father's older brother",,,"Eades2005",""
+"fFyB","ama",,"female ego's father's younger brother",,,"Eades2005",""
+"fFeZ","ine",,"female ego's father's older sister",,,"Eades2005",""
+"fFyZ","ine",,"female ego's father's younger sister",,,"Eades2005",""
+"fMeB","pôn",,"female ego's mother's older brother",,,"Eades2005",""
+"fMyB","pôn",,"female ego's mother's younger brother",,,"Eades2005",""
+"fMeZ","ibi, ue",,"female ego's mother's older sister",,,"Eades2005",""
+"fMyZ","ibi, ue",,"female ego's mother's younger sister",,,"Eades2005",""
+"fH","rawan",,"female ego‘s husband",,,"Eades2005",""
+"mDH","kile",,"male ego's daughter's husband",,,"Eades2005",""
+"fDH","kile",,"female ego's daughter's husband",,,"Eades2005",""
+"mSW","pemèn",,"male ego's son's wife",,,"Eades2005",""
+"fSW","pemèn",,"female ego's son's wife",,,"Eades2005",""
+"mWF","tuen",,"male ego's wife's father",,,"Eades2005",""
+"mWM","inen tue",,"male ego's wife's mother",,,"Eades2005",""
+"mWZ","kawé",,"male ego's wife's sister",,,"Eades2005",""
+"fHF","tuen",,"female ego's husband's father",,,"Eades2005",""
+"fHM","inen tue",,"female ego's husband's mother",,,"Eades2005",""
+"fHB","temude, tuen èra",,"female ego's husband's brother",,,"Eades2005","temude = husband's older brother, tuen èra = husband's younger brother"
+"fHZ","kawé",,"female ego's husband's sister",,,"Eades2005",""
+"mBW","kawé",,"male ego's brother's wife",,,"Eades2005",""
+"fBW","kawé",,"female ego's brother's wife",,,"Eades2005",""

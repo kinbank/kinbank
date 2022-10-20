@@ -1,139 +1,139 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tau-kete,,male ego's older brother,,,Marck1996,
-myB,taina,,male ego's younger brother,,,Marck1996,
-feB,tua-nga'ane,,female ego's older brother,,,Marck1996,
-fyB,tua-nga'ane,,female ego's younger brother,,,Marck1996,
-meZ,tua-hine,,male ego's older sister,,,Marck1996,
-myZ,tua-hine,,male ego's younger sister,,,Marck1996,
-feZ,tau-kete,,female ego's older sister,,,Marck1996,
-fyZ,taina,,female ego's younger sister,,,Marck1996,
-mF,tamana,,male ego's father,,,Marck1996,
-mM,tinana,,male ego's mother,,,Marck1996,
-fF,tamana,,female ego's father,,,Marck1996,
-fM,tinana,,female ego's mother,,,Marck1996,
-mS,hosa,,male ego's son,,,Marck1996,
-fS,hosa,,female ego's son,,,Marck1996,
-mD,tama-'ahini,,male ego's daughter,,,Marck1996,
-fD,tama-'ahini,,female ego's daughter,,,Marck1996,
-mSS,makapuna,,male ego's son's son,,,Marck1996,
-mSD,makapuna,,male ego's son's daughter,,,Marck1996,
-mDS,makapuna,,male ego's daughter's son,,,Marck1996,
-mDD,makapuna,,male ego's daughter's daughter,,,Marck1996,
-fSS,makapuna,,female ego's son's son,,,Marck1996,
-fSD,makapuna,,female ego's son's daughter,,,Marck1996,
-fDS,makapuna,,female ego's daughter's son,,,Marck1996,
-fDD,makapuna,,female ego's daugher's daughter,,,Marck1996,
-mFF,tupuna,,male ego's father‘s father,,,Marck1996,
-mFM,tupuna,,male ego's father's mother,,,Marck1996,
-mMF,tupuna,,male ego's mother's father,,,Marck1996,
-mMM,tupuna,,male ego's mother's mother,,,Marck1996,
-fFF,tupuna,,female ego's father's father,,,Marck1996,
-fFM,tupuna,,female ego's father's mother,,,Marck1996,
-fMF,tupuna,,female ego's mother's father,,,Marck1996,
-fMM,tupuna,,female ego's mother's mother,,,Marck1996,
-meZS,inggamutu,,male ego's older sister's son,,,Marck1996,
-myZS,inggamutu,,male ego's younger sister's son,,,Marck1996,
-meZD,inggamutu,,male ego's older sister's daughter,,,Marck1996,
-myZD,inggamutu,,male ego's younger sister's daughter,,,Marck1996,
-mFeZ,tinau,,male ego's father's older sister,,,Marck1996,
-mFyZ,tinau,,male ego's father's younger sister,,,Marck1996,
-mMeB,"tua-tina, tau tu'aatina",,male ego's mother's older brother,,,Marck1996,
-mMyB,"tua-tina, tau tu'aatina",,male ego's mother's younger brother,,,Marck1996,
-fFeZ,tinau,,female ego's father's older sister,,,Marck1996,
-fFyZ,tinau,,female ego's father's younger sister,,,Marck1996,
-fMeB,"tua-tina, tau tu'aatina",,female ego's mother's older brother,,,Marck1996,
-fMyB,"tua-tina, tau tu'aatina",,female ego's mother's younger brother,,,Marck1996,
-mW,nggunggu,,male ego's wife,,,Marck1996,
-fH,matua,,female ego‘s husband,,,Marck1996,
-mDH,hosa,,male ego's daughter's husband,,,Marck1996,
-fDH,hosa,,female ego's daughter's husband,,,Marck1996,
-mSW,tama-'ahini,,male ego's son's wife,,,Marck1996,
-fSW,tama-'ahini,,female ego's son's wife,,,Marck1996,
-mWF,tamana,,male ego's wife's father,,,Marck1996,
-mWB,"hanau, ma",,male ego's wife's brother,,,Marck1996,
-mWZ,hanau,,male ego's wife's sister,,,Marck1996,
-fHF,tamana,,female ego's husband's father,,,Marck1996,
-fHZ,ma,,female ego's husband's sister,,,Marck1996,
-mBW,hanau,,male ego's brother's wife,,,Marck1996,
-fBW,ma,,female ego's brother's wife,,,Marck1996,
-mZH,ma,,male ego's sister's husband,,,Marck1996,
-mFBS,haihanau,,male ego's father's brother's son,,,Marck1996,
-mFZS,ha'anga,,male ego's father's sister's son,,,Marck1996,
-mMBS,ha'anga,,male ego's mother's brother's son,,,Marck1996,
-mMZS,haihanau,,male ego's mother's sister's son,,,Marck1996,
-mFBD,"haihanau, tau-tua-hini, tua-hine",,male ego's father's brother's daughter,,,Marck1996,
-mFZD,ha'anga,,male ego's father's sister's daughter,,,Marck1996,
-mMBD,ha'anga,,male ego's mother's brother's daughter,,,Marck1996,
-mMZD,"haihanau, tau-tua-hini, tua-hine",,male ego's mother's sister's daughter,,,Marck1996,
-fFBS,"haihanau, tua-nga'an",,female ego's father's brother's son,,,Marck1996,
-fFZS,ha'anga,,female ego's father's sister's son,,,Marck1996,
-fMBS,"ha'anga, tua-nga'ane",,female ego's mother's brother's son,,,Marck1996,
-fMZS,haihanau,,female ego's mother's sister's son,,,Marck1996,
-fFBD,haihanau,,female ego's father's brother's daughter,,,Marck1996,
-fFZD,ha'anga,,female ego's father's sister's daughter,,,Marck1996,
-fMBD,ha'anga,,female ego's mother's brother's daughter,,,Marck1996,
-fMZD,haihanau,,female ego's mother's sister's daughter,,,Marck1996,
-mFeBS,haihanau,,male ego's father's brother's son,,,Marck1996,Inferred; NA
-mFyBS,haihanau,,male ego's father's brother's son,,,Marck1996,Inferred; NA
-mFeZS,ha'anga,,male ego's father's sister's son,,,Marck1996,Inferred; NA
-mFyZS,ha'anga,,male ego's father's sister's son,,,Marck1996,Inferred; NA
-mFeBD,"haihanau, tau-tua-hini, tua-hine",,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
-mFyBD,"haihanau, tau-tua-hini, tua-hine",,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
-mFeZD,ha'anga,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
-mFyZD,ha'anga,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
-mMeBS,ha'anga,,male ego's mother's brother's son,,,Marck1996,Inferred; NA
-mMyBS,ha'anga,,male ego's mother's brother's son,,,Marck1996,Inferred; NA
-mMeZS,haihanau,,male ego's mother's sister's son,,,Marck1996,Inferred; NA
-mMyZS,haihanau,,male ego's mother's sister's son,,,Marck1996,Inferred; NA
-mMeBD,ha'anga,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-mMyBD,ha'anga,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-mMeZD,"haihanau, tau-tua-hini, tua-hine",,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-mMyZD,"haihanau, tau-tua-hini, tua-hine",,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-mFBeS,haihanau,,male ego's father's brother's son,,,Marck1996,Inferred; NA
-mFByS,haihanau,,male ego's father's brother's son,,,Marck1996,Inferred; NA
-mFZeS,ha'anga,,male ego's father's sister's son,,,Marck1996,Inferred; NA
-mFZyS,ha'anga,,male ego's father's sister's son,,,Marck1996,Inferred; NA
-mFBeD,"haihanau, tau-tua-hini, tua-hine",,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
-mFByD,"haihanau, tau-tua-hini, tua-hine",,male ego's father's brother's daughter,,,Marck1996,Inferred; NA
-mFZeD,ha'anga,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
-mFZyD,ha'anga,,male ego's father's sister's daughter,,,Marck1996,Inferred; NA
-mMBeS,ha'anga,,male ego's mother's brother's son,,,Marck1996,Inferred; NA
-mMByS,ha'anga,,male ego's mother's brother's son,,,Marck1996,Inferred; NA
-mMZeS,haihanau,,male ego's mother's sister's son,,,Marck1996,Inferred; NA
-mMZyS,haihanau,,male ego's mother's sister's son,,,Marck1996,Inferred; NA
-mMBeD,ha'anga,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-mMByD,ha'anga,,male ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-mMZeD,"haihanau, tau-tua-hini, tua-hine",,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-mMZyD,"haihanau, tau-tua-hini, tua-hine",,male ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-fFeBS,"haihanau, tua-nga'an",,female ego's father's brother's son,,,Marck1996,Inferred; NA
-fFyBS,"haihanau, tua-nga'an",,female ego's father's brother's son,,,Marck1996,Inferred; NA
-fFeZS,ha'anga,,female ego's father's sister's son,,,Marck1996,Inferred; NA
-fFyZS,ha'anga,,female ego's father's sister's son,,,Marck1996,Inferred; NA
-fFeBD,haihanau,,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
-fFyBD,haihanau,,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
-fFeZD,ha'anga,,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
-fFyZD,ha'anga,,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
-fMeBS,"ha'anga, tua-nga'ane",,female ego's mother's brother's son,,,Marck1996,Inferred; NA
-fMyBS,"ha'anga, tua-nga'ane",,female ego's mother's brother's son,,,Marck1996,Inferred; NA
-fMeZS,haihanau,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
-fMyZS,haihanau,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
-fMeBD,ha'anga,,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-fMyBD,ha'anga,,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-fMeZD,haihanau,,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-fMyZD,haihanau,,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-fFBeS,"haihanau, tua-nga'an",,female ego's father's brother's son,,,Marck1996,Inferred; NA
-fFByS,"haihanau, tua-nga'an",,female ego's father's brother's son,,,Marck1996,Inferred; NA
-fFZeS,ha'anga,,female ego's father's sister's son,,,Marck1996,Inferred; NA
-fFZyS,ha'anga,,female ego's father's sister's son,,,Marck1996,Inferred; NA
-fFBeD,haihanau,,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
-fFByD,haihanau,,female ego's father's brother's daughter,,,Marck1996,Inferred; NA
-fFZeD,ha'anga,,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
-fFZyD,ha'anga,,female ego's father's sister's daughter,,,Marck1996,Inferred; NA
-fMBeS,"ha'anga, tua-nga'ane",,female ego's mother's brother's son,,,Marck1996,Inferred; NA
-fMByS,"ha'anga, tua-nga'ane",,female ego's mother's brother's son,,,Marck1996,Inferred; NA
-fMZeS,haihanau,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
-fMZyS,haihanau,,female ego's mother's sister's son,,,Marck1996,Inferred; NA
-fMBeD,ha'anga,,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-fMByD,ha'anga,,female ego's mother's brother's daughter,,,Marck1996,Inferred; NA
-fMZeD,haihanau,,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
-fMZyD,haihanau,,female ego's mother's sister's daughter,,,Marck1996,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tau-kete",,"male ego's older brother",,,"Marck1996",""
+"myB","taina",,"male ego's younger brother",,,"Marck1996",""
+"feB","tua-nga'ane",,"female ego's older brother",,,"Marck1996",""
+"fyB","tua-nga'ane",,"female ego's younger brother",,,"Marck1996",""
+"meZ","tua-hine",,"male ego's older sister",,,"Marck1996",""
+"myZ","tua-hine",,"male ego's younger sister",,,"Marck1996",""
+"feZ","tau-kete",,"female ego's older sister",,,"Marck1996",""
+"fyZ","taina",,"female ego's younger sister",,,"Marck1996",""
+"mF","tamana",,"male ego's father",,,"Marck1996",""
+"mM","tinana",,"male ego's mother",,,"Marck1996",""
+"fF","tamana",,"female ego's father",,,"Marck1996",""
+"fM","tinana",,"female ego's mother",,,"Marck1996",""
+"mS","hosa",,"male ego's son",,,"Marck1996",""
+"fS","hosa",,"female ego's son",,,"Marck1996",""
+"mD","tama-'ahini",,"male ego's daughter",,,"Marck1996",""
+"fD","tama-'ahini",,"female ego's daughter",,,"Marck1996",""
+"mSS","makapuna",,"male ego's son's son",,,"Marck1996",""
+"mSD","makapuna",,"male ego's son's daughter",,,"Marck1996",""
+"mDS","makapuna",,"male ego's daughter's son",,,"Marck1996",""
+"mDD","makapuna",,"male ego's daughter's daughter",,,"Marck1996",""
+"fSS","makapuna",,"female ego's son's son",,,"Marck1996",""
+"fSD","makapuna",,"female ego's son's daughter",,,"Marck1996",""
+"fDS","makapuna",,"female ego's daughter's son",,,"Marck1996",""
+"fDD","makapuna",,"female ego's daugher's daughter",,,"Marck1996",""
+"mFF","tupuna",,"male ego's father‘s father",,,"Marck1996",""
+"mFM","tupuna",,"male ego's father's mother",,,"Marck1996",""
+"mMF","tupuna",,"male ego's mother's father",,,"Marck1996",""
+"mMM","tupuna",,"male ego's mother's mother",,,"Marck1996",""
+"fFF","tupuna",,"female ego's father's father",,,"Marck1996",""
+"fFM","tupuna",,"female ego's father's mother",,,"Marck1996",""
+"fMF","tupuna",,"female ego's mother's father",,,"Marck1996",""
+"fMM","tupuna",,"female ego's mother's mother",,,"Marck1996",""
+"meZS","inggamutu",,"male ego's older sister's son",,,"Marck1996",""
+"myZS","inggamutu",,"male ego's younger sister's son",,,"Marck1996",""
+"meZD","inggamutu",,"male ego's older sister's daughter",,,"Marck1996",""
+"myZD","inggamutu",,"male ego's younger sister's daughter",,,"Marck1996",""
+"mFeZ","tinau",,"male ego's father's older sister",,,"Marck1996",""
+"mFyZ","tinau",,"male ego's father's younger sister",,,"Marck1996",""
+"mMeB","tua-tina, tau tu'aatina",,"male ego's mother's older brother",,,"Marck1996",""
+"mMyB","tua-tina, tau tu'aatina",,"male ego's mother's younger brother",,,"Marck1996",""
+"fFeZ","tinau",,"female ego's father's older sister",,,"Marck1996",""
+"fFyZ","tinau",,"female ego's father's younger sister",,,"Marck1996",""
+"fMeB","tua-tina, tau tu'aatina",,"female ego's mother's older brother",,,"Marck1996",""
+"fMyB","tua-tina, tau tu'aatina",,"female ego's mother's younger brother",,,"Marck1996",""
+"mW","nggunggu",,"male ego's wife",,,"Marck1996",""
+"fH","matua",,"female ego‘s husband",,,"Marck1996",""
+"mDH","hosa",,"male ego's daughter's husband",,,"Marck1996",""
+"fDH","hosa",,"female ego's daughter's husband",,,"Marck1996",""
+"mSW","tama-'ahini",,"male ego's son's wife",,,"Marck1996",""
+"fSW","tama-'ahini",,"female ego's son's wife",,,"Marck1996",""
+"mWF","tamana",,"male ego's wife's father",,,"Marck1996",""
+"mWB","hanau, ma",,"male ego's wife's brother",,,"Marck1996",""
+"mWZ","hanau",,"male ego's wife's sister",,,"Marck1996",""
+"fHF","tamana",,"female ego's husband's father",,,"Marck1996",""
+"fHZ","ma",,"female ego's husband's sister",,,"Marck1996",""
+"mBW","hanau",,"male ego's brother's wife",,,"Marck1996",""
+"fBW","ma",,"female ego's brother's wife",,,"Marck1996",""
+"mZH","ma",,"male ego's sister's husband",,,"Marck1996",""
+"mFBS","haihanau",,"male ego's father's brother's son",,,"Marck1996",""
+"mFZS","ha'anga",,"male ego's father's sister's son",,,"Marck1996",""
+"mMBS","ha'anga",,"male ego's mother's brother's son",,,"Marck1996",""
+"mMZS","haihanau",,"male ego's mother's sister's son",,,"Marck1996",""
+"mFBD","haihanau, tau-tua-hini, tua-hine",,"male ego's father's brother's daughter",,,"Marck1996",""
+"mFZD","ha'anga",,"male ego's father's sister's daughter",,,"Marck1996",""
+"mMBD","ha'anga",,"male ego's mother's brother's daughter",,,"Marck1996",""
+"mMZD","haihanau, tau-tua-hini, tua-hine",,"male ego's mother's sister's daughter",,,"Marck1996",""
+"fFBS","haihanau, tua-nga'an",,"female ego's father's brother's son",,,"Marck1996",""
+"fFZS","ha'anga",,"female ego's father's sister's son",,,"Marck1996",""
+"fMBS","ha'anga, tua-nga'ane",,"female ego's mother's brother's son",,,"Marck1996",""
+"fMZS","haihanau",,"female ego's mother's sister's son",,,"Marck1996",""
+"fFBD","haihanau",,"female ego's father's brother's daughter",,,"Marck1996",""
+"fFZD","ha'anga",,"female ego's father's sister's daughter",,,"Marck1996",""
+"fMBD","ha'anga",,"female ego's mother's brother's daughter",,,"Marck1996",""
+"fMZD","haihanau",,"female ego's mother's sister's daughter",,,"Marck1996",""
+"mFeBS","haihanau",,"male ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"mFyBS","haihanau",,"male ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"mFeZS","ha'anga",,"male ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"mFyZS","ha'anga",,"male ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"mFeBD","haihanau, tau-tua-hini, tua-hine",,"male ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"mFyBD","haihanau, tau-tua-hini, tua-hine",,"male ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"mFeZD","ha'anga",,"male ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"mFyZD","ha'anga",,"male ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"mMeBS","ha'anga",,"male ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"mMyBS","ha'anga",,"male ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"mMeZS","haihanau",,"male ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"mMyZS","haihanau",,"male ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"mMeBD","ha'anga",,"male ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"mMyBD","ha'anga",,"male ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"mMeZD","haihanau, tau-tua-hini, tua-hine",,"male ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"mMyZD","haihanau, tau-tua-hini, tua-hine",,"male ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"mFBeS","haihanau",,"male ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"mFByS","haihanau",,"male ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"mFZeS","ha'anga",,"male ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"mFZyS","ha'anga",,"male ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"mFBeD","haihanau, tau-tua-hini, tua-hine",,"male ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"mFByD","haihanau, tau-tua-hini, tua-hine",,"male ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"mFZeD","ha'anga",,"male ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"mFZyD","ha'anga",,"male ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"mMBeS","ha'anga",,"male ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"mMByS","ha'anga",,"male ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"mMZeS","haihanau",,"male ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"mMZyS","haihanau",,"male ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"mMBeD","ha'anga",,"male ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"mMByD","ha'anga",,"male ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"mMZeD","haihanau, tau-tua-hini, tua-hine",,"male ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"mMZyD","haihanau, tau-tua-hini, tua-hine",,"male ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"fFeBS","haihanau, tua-nga'an",,"female ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"fFyBS","haihanau, tua-nga'an",,"female ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"fFeZS","ha'anga",,"female ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"fFyZS","ha'anga",,"female ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"fFeBD","haihanau",,"female ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"fFyBD","haihanau",,"female ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"fFeZD","ha'anga",,"female ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"fFyZD","ha'anga",,"female ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"fMeBS","ha'anga, tua-nga'ane",,"female ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"fMyBS","ha'anga, tua-nga'ane",,"female ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"fMeZS","haihanau",,"female ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"fMyZS","haihanau",,"female ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"fMeBD","ha'anga",,"female ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"fMyBD","ha'anga",,"female ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"fMeZD","haihanau",,"female ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"fMyZD","haihanau",,"female ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"fFBeS","haihanau, tua-nga'an",,"female ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"fFByS","haihanau, tua-nga'an",,"female ego's father's brother's son",,,"Marck1996","Inferred; NA"
+"fFZeS","ha'anga",,"female ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"fFZyS","ha'anga",,"female ego's father's sister's son",,,"Marck1996","Inferred; NA"
+"fFBeD","haihanau",,"female ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"fFByD","haihanau",,"female ego's father's brother's daughter",,,"Marck1996","Inferred; NA"
+"fFZeD","ha'anga",,"female ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"fFZyD","ha'anga",,"female ego's father's sister's daughter",,,"Marck1996","Inferred; NA"
+"fMBeS","ha'anga, tua-nga'ane",,"female ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"fMByS","ha'anga, tua-nga'ane",,"female ego's mother's brother's son",,,"Marck1996","Inferred; NA"
+"fMZeS","haihanau",,"female ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"fMZyS","haihanau",,"female ego's mother's sister's son",,,"Marck1996","Inferred; NA"
+"fMBeD","ha'anga",,"female ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"fMByD","ha'anga",,"female ego's mother's brother's daughter",,,"Marck1996","Inferred; NA"
+"fMZeD","haihanau",,"female ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"
+"fMZyD","haihanau",,"female ego's mother's sister's daughter",,,"Marck1996","Inferred; NA"

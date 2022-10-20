@@ -1,159 +1,159 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kakal,,male ego's older brother,,,Mead1999,
-feB,kakal,,female ego's older brother,,,Mead1999,
-meZ,kaka,,male ego's older sister,,,Mead1999,
-myZ,ali,,male ego's younger sister,,,Mead1999,
-feZ,kaka,,female ego's older sister,,,Mead1999,
-fyZ,ali,,female ego's younger sister,,,Mead1999,
-mF,"ama, bapa",,male ego's father,,,Mead1999,
-mM,ina,,male ego's mother,,,Mead1999,
-fF,"ama, bapa",,female ego's father,,,Mead1999,
-fM,ina,,female ego's mother,,,Mead1999,
-mS,wata,,male ego's son,,,Mead1999,
-fS,wata,,female ego's son,,,Mead1999,
-mD,wata,,male ego's daughter,,,Mead1999,
-fD,wata,,female ego's daughter,,,Mead1999,
-mSS,apu,,male ego's son's son,,,Mead1999,
-mSD,apu,,male ego's son's daughter,,,Mead1999,
-mDS,apu,,male ego's daughter's son,,,Mead1999,
-mDD,apu,,male ego's daughter's daughter,,,Mead1999,
-fSS,apu,,female ego's son's son,,,Mead1999,
-fSD,apu,,female ego's son's daughter,,,Mead1999,
-fDS,apu,,female ego's daughter's son,,,Mead1999,
-fDD,apu,,female ego's daugher's daughter,,,Mead1999,
-mFF,apu,,male ego's father‘s father,,,Mead1999,
-mFM,apu,,male ego's father's mother,,,Mead1999,
-mMF,apu,,male ego's mother's father,,,Mead1999,
-mMM,apu,,male ego's mother's mother,,,Mead1999,
-fFF,apu,,female ego's father's father,,,Mead1999,
-fFM,apu,,female ego's father's mother,,,Mead1999,
-fMF,apu,,female ego's mother's father,,,Mead1999,
-fMM,apu,,female ego's mother's mother,,,Mead1999,
-meBS,pagi-wata-n,,male ego's older brother's son,,,Mead1999,
-myBS,pagi-wata-n,,male ego's younger brother's son,,,Mead1999,
-meZS,pagi-wata-n,,male ego's older sister's son,,,Mead1999,
-myZS,pagi-wata-n,,male ego's younger sister's son,,,Mead1999,
-meBD,pagi-wata-n,,male ego's older brother's daughter,,,Mead1999,
-myBD,pagi-wata-n,,male ego's younger brother's daughter,,,Mead1999,
-meZD,pagi-wata-n,,male ego's older sister's daughter,,,Mead1999,
-myZD,pagi-wata-n,,male ego's younger sister's daughter,,,Mead1999,
-feBS,pagi-wata-n,,female ego's older brother's son,,,Mead1999,
-fyBS,pagi-wata-n,,female ego's younger brother's son,,,Mead1999,
-feZS,pagi-wata-n,,female ego's older sister's son,,,Mead1999,
-fyZS,pagi-wata-n,,female ego's younger sister's son,,,Mead1999,
-feBD,pagi-wata-n,,female ego's older brother's daughter,,,Mead1999,
-fyBD,pagi-wata-n,,female ego's younger brother's daughter,,,Mead1999,
-feZD,pagi-wata-n,,female ego's older sister's daughter,,,Mead1999,
-fyZD,pagi-wata-n,,female ego's younger sister's daughter,,,Mead1999,
-mFeB,bapa,,male ego's father's older brother,,,Mead1999,
-mFyB,bapa,,male ego's father's younger brother,,,Mead1999,
-mFeZ,babu,,male ego's father's older sister,,,Mead1999,
-mFyZ,babu,,male ego's father's younger sister,,,Mead1999,
-mMeB,bapa,,male ego's mother's older brother,,,Mead1999,
-mMyB,bapa,,male ego's mother's younger brother,,,Mead1999,
-mMeZ,babu,,male ego's mother's older sister,,,Mead1999,
-mMyZ,babu,,male ego's mother's younger sister,,,Mead1999,
-fFeB,bapa,,female ego's father's older brother,,,Mead1999,
-fFyB,bapa,,female ego's father's younger brother,,,Mead1999,
-fFeZ,babu,,female ego's father's older sister,,,Mead1999,
-fFyZ,babu,,female ego's father's younger sister,,,Mead1999,
-fMeB,bapa,,female ego's mother's older brother,,,Mead1999,
-fMyB,bapa,,female ego's mother's younger brother,,,Mead1999,
-fMeZ,babu,,female ego's mother's older sister,,,Mead1999,
-fMyZ,babu,,female ego's mother's younger sister,,,Mead1999,
-mDH,paki-wata-n,,male ego's daughter's husband,,,Mead1999,
-fDH,paki-wata-n,,female ego's daughter's husband,,,Mead1999,
-mSW,paki-wata-n,,male ego's son's wife,,,Mead1999,
-fSW,paki-wata-n,,female ego's son's wife,,,Mead1999,
-mWF,bapa,,male ego's wife's father,,,Mead1999,
-mWM,bapa,,male ego's wife's mother,,,Mead1999,
-mWB,bati,,male ego's wife's brother,,,Mead1999,
-mWZ,bati,,male ego's wife's sister,,,Mead1999,
-fHF,bapa,,female ego's husband's father,,,Mead1999,
-fHM,bapa,,female ego's husband's mother,,,Mead1999,
-fHB,bati,,female ego's husband's brother,,,Mead1999,
-fHZ,bati,,female ego's husband's sister,,,Mead1999,
-mBW,bati,,male ego's brother's wife,,,Mead1999,
-fBW,bati,,female ego's brother's wife,,,Mead1999,
-mZH,bati,,male ego's sister's husband,,,Mead1999,
-fZH,bati,,female ego's sister's husband,,,Mead1999,
-mFBS,"tüngud, tǔngǔd, tungut",,male ego's father's brother's son,,,Mead1999,
-mFZS,"tüngud, tǔngǔd, tungut",,male ego's father's sister's son,,,Mead1999,
-mMBS,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's son,,,Mead1999,
-mMZS,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's son,,,Mead1999,
-mFBD,"tüngud, tǔngǔd, tungut",,male ego's father's brother's daughter,,,Mead1999,
-mFZD,"tüngud, tǔngǔd, tungut",,male ego's father's sister's daughter,,,Mead1999,
-mMBD,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's daughter,,,Mead1999,
-mMZD,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's daughter,,,Mead1999,
-fFBS,"tüngud, tǔngǔd, tungut",,female ego's father's brother's son,,,Mead1999,
-fFZS,"tüngud, tǔngǔd, tungut",,female ego's father's sister's son,,,Mead1999,
-fMBS,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's son,,,Mead1999,
-fMZS,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's son,,,Mead1999,
-fFBD,"tüngud, tǔngǔd, tungut",,female ego's father's brother's daughter,,,Mead1999,
-fFZD,"tüngud, tǔngǔd, tungut",,female ego's father's sister's daughter,,,Mead1999,
-fMBD,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's daughter,,,Mead1999,
-fMZD,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's daughter,,,Mead1999,
-mFeBS,"tüngud, tǔngǔd, tungut",,male ego's father's brother's son,,,Mead1999,Inferred; NA
-mFyBS,"tüngud, tǔngǔd, tungut",,male ego's father's brother's son,,,Mead1999,Inferred; NA
-mFeZS,"tüngud, tǔngǔd, tungut",,male ego's father's sister's son,,,Mead1999,Inferred; NA
-mFyZS,"tüngud, tǔngǔd, tungut",,male ego's father's sister's son,,,Mead1999,Inferred; NA
-mFeBD,"tüngud, tǔngǔd, tungut",,male ego's father's brother's daughter,,,Mead1999,Inferred; NA
-mFyBD,"tüngud, tǔngǔd, tungut",,male ego's father's brother's daughter,,,Mead1999,Inferred; NA
-mFeZD,"tüngud, tǔngǔd, tungut",,male ego's father's sister's daughter,,,Mead1999,Inferred; NA
-mFyZD,"tüngud, tǔngǔd, tungut",,male ego's father's sister's daughter,,,Mead1999,Inferred; NA
-mMeBS,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's son,,,Mead1999,Inferred; NA
-mMyBS,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's son,,,Mead1999,Inferred; NA
-mMeZS,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's son,,,Mead1999,Inferred; NA
-mMyZS,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's son,,,Mead1999,Inferred; NA
-mMeBD,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-mMyBD,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-mMeZD,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-mMyZD,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-mFBeS,"tüngud, tǔngǔd, tungut",,male ego's father's brother's son,,,Mead1999,Inferred; NA
-mFByS,"tüngud, tǔngǔd, tungut",,male ego's father's brother's son,,,Mead1999,Inferred; NA
-mFZeS,"tüngud, tǔngǔd, tungut",,male ego's father's sister's son,,,Mead1999,Inferred; NA
-mFZyS,"tüngud, tǔngǔd, tungut",,male ego's father's sister's son,,,Mead1999,Inferred; NA
-mFBeD,"tüngud, tǔngǔd, tungut",,male ego's father's brother's daughter,,,Mead1999,Inferred; NA
-mFByD,"tüngud, tǔngǔd, tungut",,male ego's father's brother's daughter,,,Mead1999,Inferred; NA
-mFZeD,"tüngud, tǔngǔd, tungut",,male ego's father's sister's daughter,,,Mead1999,Inferred; NA
-mFZyD,"tüngud, tǔngǔd, tungut",,male ego's father's sister's daughter,,,Mead1999,Inferred; NA
-mMBeS,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's son,,,Mead1999,Inferred; NA
-mMByS,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's son,,,Mead1999,Inferred; NA
-mMZeS,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's son,,,Mead1999,Inferred; NA
-mMZyS,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's son,,,Mead1999,Inferred; NA
-mMBeD,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-mMByD,"tüngud, tǔngǔd, tungut",,male ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-mMZeD,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-mMZyD,"tüngud, tǔngǔd, tungut",,male ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-fFeBS,"tüngud, tǔngǔd, tungut",,female ego's father's brother's son,,,Mead1999,Inferred; NA
-fFyBS,"tüngud, tǔngǔd, tungut",,female ego's father's brother's son,,,Mead1999,Inferred; NA
-fFeZS,"tüngud, tǔngǔd, tungut",,female ego's father's sister's son,,,Mead1999,Inferred; NA
-fFyZS,"tüngud, tǔngǔd, tungut",,female ego's father's sister's son,,,Mead1999,Inferred; NA
-fFeBD,"tüngud, tǔngǔd, tungut",,female ego's father's brother's daughter,,,Mead1999,Inferred; NA
-fFyBD,"tüngud, tǔngǔd, tungut",,female ego's father's brother's daughter,,,Mead1999,Inferred; NA
-fFeZD,"tüngud, tǔngǔd, tungut",,female ego's father's sister's daughter,,,Mead1999,Inferred; NA
-fFyZD,"tüngud, tǔngǔd, tungut",,female ego's father's sister's daughter,,,Mead1999,Inferred; NA
-fMeBS,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's son,,,Mead1999,Inferred; NA
-fMyBS,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's son,,,Mead1999,Inferred; NA
-fMeZS,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's son,,,Mead1999,Inferred; NA
-fMyZS,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's son,,,Mead1999,Inferred; NA
-fMeBD,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-fMyBD,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-fMeZD,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-fMyZD,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-fFBeS,"tüngud, tǔngǔd, tungut",,female ego's father's brother's son,,,Mead1999,Inferred; NA
-fFByS,"tüngud, tǔngǔd, tungut",,female ego's father's brother's son,,,Mead1999,Inferred; NA
-fFZeS,"tüngud, tǔngǔd, tungut",,female ego's father's sister's son,,,Mead1999,Inferred; NA
-fFZyS,"tüngud, tǔngǔd, tungut",,female ego's father's sister's son,,,Mead1999,Inferred; NA
-fFBeD,"tüngud, tǔngǔd, tungut",,female ego's father's brother's daughter,,,Mead1999,Inferred; NA
-fFByD,"tüngud, tǔngǔd, tungut",,female ego's father's brother's daughter,,,Mead1999,Inferred; NA
-fFZeD,"tüngud, tǔngǔd, tungut",,female ego's father's sister's daughter,,,Mead1999,Inferred; NA
-fFZyD,"tüngud, tǔngǔd, tungut",,female ego's father's sister's daughter,,,Mead1999,Inferred; NA
-fMBeS,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's son,,,Mead1999,Inferred; NA
-fMByS,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's son,,,Mead1999,Inferred; NA
-fMZeS,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's son,,,Mead1999,Inferred; NA
-fMZyS,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's son,,,Mead1999,Inferred; NA
-fMBeD,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-fMByD,"tüngud, tǔngǔd, tungut",,female ego's mother's brother's daughter,,,Mead1999,Inferred; NA
-fMZeD,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's daughter,,,Mead1999,Inferred; NA
-fMZyD,"tüngud, tǔngǔd, tungut",,female ego's mother's sister's daughter,,,Mead1999,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kakal",,"male ego's older brother",,,"Mead1999",""
+"feB","kakal",,"female ego's older brother",,,"Mead1999",""
+"meZ","kaka",,"male ego's older sister",,,"Mead1999",""
+"myZ","ali",,"male ego's younger sister",,,"Mead1999",""
+"feZ","kaka",,"female ego's older sister",,,"Mead1999",""
+"fyZ","ali",,"female ego's younger sister",,,"Mead1999",""
+"mF","ama, bapa",,"male ego's father",,,"Mead1999",""
+"mM","ina",,"male ego's mother",,,"Mead1999",""
+"fF","ama, bapa",,"female ego's father",,,"Mead1999",""
+"fM","ina",,"female ego's mother",,,"Mead1999",""
+"mS","wata",,"male ego's son",,,"Mead1999",""
+"fS","wata",,"female ego's son",,,"Mead1999",""
+"mD","wata",,"male ego's daughter",,,"Mead1999",""
+"fD","wata",,"female ego's daughter",,,"Mead1999",""
+"mSS","apu",,"male ego's son's son",,,"Mead1999",""
+"mSD","apu",,"male ego's son's daughter",,,"Mead1999",""
+"mDS","apu",,"male ego's daughter's son",,,"Mead1999",""
+"mDD","apu",,"male ego's daughter's daughter",,,"Mead1999",""
+"fSS","apu",,"female ego's son's son",,,"Mead1999",""
+"fSD","apu",,"female ego's son's daughter",,,"Mead1999",""
+"fDS","apu",,"female ego's daughter's son",,,"Mead1999",""
+"fDD","apu",,"female ego's daugher's daughter",,,"Mead1999",""
+"mFF","apu",,"male ego's father‘s father",,,"Mead1999",""
+"mFM","apu",,"male ego's father's mother",,,"Mead1999",""
+"mMF","apu",,"male ego's mother's father",,,"Mead1999",""
+"mMM","apu",,"male ego's mother's mother",,,"Mead1999",""
+"fFF","apu",,"female ego's father's father",,,"Mead1999",""
+"fFM","apu",,"female ego's father's mother",,,"Mead1999",""
+"fMF","apu",,"female ego's mother's father",,,"Mead1999",""
+"fMM","apu",,"female ego's mother's mother",,,"Mead1999",""
+"meBS","pagi-wata-n",,"male ego's older brother's son",,,"Mead1999",""
+"myBS","pagi-wata-n",,"male ego's younger brother's son",,,"Mead1999",""
+"meZS","pagi-wata-n",,"male ego's older sister's son",,,"Mead1999",""
+"myZS","pagi-wata-n",,"male ego's younger sister's son",,,"Mead1999",""
+"meBD","pagi-wata-n",,"male ego's older brother's daughter",,,"Mead1999",""
+"myBD","pagi-wata-n",,"male ego's younger brother's daughter",,,"Mead1999",""
+"meZD","pagi-wata-n",,"male ego's older sister's daughter",,,"Mead1999",""
+"myZD","pagi-wata-n",,"male ego's younger sister's daughter",,,"Mead1999",""
+"feBS","pagi-wata-n",,"female ego's older brother's son",,,"Mead1999",""
+"fyBS","pagi-wata-n",,"female ego's younger brother's son",,,"Mead1999",""
+"feZS","pagi-wata-n",,"female ego's older sister's son",,,"Mead1999",""
+"fyZS","pagi-wata-n",,"female ego's younger sister's son",,,"Mead1999",""
+"feBD","pagi-wata-n",,"female ego's older brother's daughter",,,"Mead1999",""
+"fyBD","pagi-wata-n",,"female ego's younger brother's daughter",,,"Mead1999",""
+"feZD","pagi-wata-n",,"female ego's older sister's daughter",,,"Mead1999",""
+"fyZD","pagi-wata-n",,"female ego's younger sister's daughter",,,"Mead1999",""
+"mFeB","bapa",,"male ego's father's older brother",,,"Mead1999",""
+"mFyB","bapa",,"male ego's father's younger brother",,,"Mead1999",""
+"mFeZ","babu",,"male ego's father's older sister",,,"Mead1999",""
+"mFyZ","babu",,"male ego's father's younger sister",,,"Mead1999",""
+"mMeB","bapa",,"male ego's mother's older brother",,,"Mead1999",""
+"mMyB","bapa",,"male ego's mother's younger brother",,,"Mead1999",""
+"mMeZ","babu",,"male ego's mother's older sister",,,"Mead1999",""
+"mMyZ","babu",,"male ego's mother's younger sister",,,"Mead1999",""
+"fFeB","bapa",,"female ego's father's older brother",,,"Mead1999",""
+"fFyB","bapa",,"female ego's father's younger brother",,,"Mead1999",""
+"fFeZ","babu",,"female ego's father's older sister",,,"Mead1999",""
+"fFyZ","babu",,"female ego's father's younger sister",,,"Mead1999",""
+"fMeB","bapa",,"female ego's mother's older brother",,,"Mead1999",""
+"fMyB","bapa",,"female ego's mother's younger brother",,,"Mead1999",""
+"fMeZ","babu",,"female ego's mother's older sister",,,"Mead1999",""
+"fMyZ","babu",,"female ego's mother's younger sister",,,"Mead1999",""
+"mDH","paki-wata-n",,"male ego's daughter's husband",,,"Mead1999",""
+"fDH","paki-wata-n",,"female ego's daughter's husband",,,"Mead1999",""
+"mSW","paki-wata-n",,"male ego's son's wife",,,"Mead1999",""
+"fSW","paki-wata-n",,"female ego's son's wife",,,"Mead1999",""
+"mWF","bapa",,"male ego's wife's father",,,"Mead1999",""
+"mWM","bapa",,"male ego's wife's mother",,,"Mead1999",""
+"mWB","bati",,"male ego's wife's brother",,,"Mead1999",""
+"mWZ","bati",,"male ego's wife's sister",,,"Mead1999",""
+"fHF","bapa",,"female ego's husband's father",,,"Mead1999",""
+"fHM","bapa",,"female ego's husband's mother",,,"Mead1999",""
+"fHB","bati",,"female ego's husband's brother",,,"Mead1999",""
+"fHZ","bati",,"female ego's husband's sister",,,"Mead1999",""
+"mBW","bati",,"male ego's brother's wife",,,"Mead1999",""
+"fBW","bati",,"female ego's brother's wife",,,"Mead1999",""
+"mZH","bati",,"male ego's sister's husband",,,"Mead1999",""
+"fZH","bati",,"female ego's sister's husband",,,"Mead1999",""
+"mFBS","tüngud, tǔngǔd, tungut",,"male ego's father's brother's son",,,"Mead1999",""
+"mFZS","tüngud, tǔngǔd, tungut",,"male ego's father's sister's son",,,"Mead1999",""
+"mMBS","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's son",,,"Mead1999",""
+"mMZS","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's son",,,"Mead1999",""
+"mFBD","tüngud, tǔngǔd, tungut",,"male ego's father's brother's daughter",,,"Mead1999",""
+"mFZD","tüngud, tǔngǔd, tungut",,"male ego's father's sister's daughter",,,"Mead1999",""
+"mMBD","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's daughter",,,"Mead1999",""
+"mMZD","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's daughter",,,"Mead1999",""
+"fFBS","tüngud, tǔngǔd, tungut",,"female ego's father's brother's son",,,"Mead1999",""
+"fFZS","tüngud, tǔngǔd, tungut",,"female ego's father's sister's son",,,"Mead1999",""
+"fMBS","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's son",,,"Mead1999",""
+"fMZS","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's son",,,"Mead1999",""
+"fFBD","tüngud, tǔngǔd, tungut",,"female ego's father's brother's daughter",,,"Mead1999",""
+"fFZD","tüngud, tǔngǔd, tungut",,"female ego's father's sister's daughter",,,"Mead1999",""
+"fMBD","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's daughter",,,"Mead1999",""
+"fMZD","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's daughter",,,"Mead1999",""
+"mFeBS","tüngud, tǔngǔd, tungut",,"male ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"mFyBS","tüngud, tǔngǔd, tungut",,"male ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"mFeZS","tüngud, tǔngǔd, tungut",,"male ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"mFyZS","tüngud, tǔngǔd, tungut",,"male ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"mFeBD","tüngud, tǔngǔd, tungut",,"male ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"mFyBD","tüngud, tǔngǔd, tungut",,"male ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"mFeZD","tüngud, tǔngǔd, tungut",,"male ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"mFyZD","tüngud, tǔngǔd, tungut",,"male ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"mMeBS","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"mMyBS","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"mMeZS","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"mMyZS","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"mMeBD","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"mMyBD","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"mMeZD","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"mMyZD","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"mFBeS","tüngud, tǔngǔd, tungut",,"male ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"mFByS","tüngud, tǔngǔd, tungut",,"male ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"mFZeS","tüngud, tǔngǔd, tungut",,"male ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"mFZyS","tüngud, tǔngǔd, tungut",,"male ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"mFBeD","tüngud, tǔngǔd, tungut",,"male ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"mFByD","tüngud, tǔngǔd, tungut",,"male ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"mFZeD","tüngud, tǔngǔd, tungut",,"male ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"mFZyD","tüngud, tǔngǔd, tungut",,"male ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"mMBeS","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"mMByS","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"mMZeS","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"mMZyS","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"mMBeD","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"mMByD","tüngud, tǔngǔd, tungut",,"male ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"mMZeD","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"mMZyD","tüngud, tǔngǔd, tungut",,"male ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"fFeBS","tüngud, tǔngǔd, tungut",,"female ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"fFyBS","tüngud, tǔngǔd, tungut",,"female ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"fFeZS","tüngud, tǔngǔd, tungut",,"female ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"fFyZS","tüngud, tǔngǔd, tungut",,"female ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"fFeBD","tüngud, tǔngǔd, tungut",,"female ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"fFyBD","tüngud, tǔngǔd, tungut",,"female ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"fFeZD","tüngud, tǔngǔd, tungut",,"female ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"fFyZD","tüngud, tǔngǔd, tungut",,"female ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"fMeBS","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"fMyBS","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"fMeZS","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"fMyZS","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"fMeBD","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"fMyBD","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"fMeZD","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"fMyZD","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"fFBeS","tüngud, tǔngǔd, tungut",,"female ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"fFByS","tüngud, tǔngǔd, tungut",,"female ego's father's brother's son",,,"Mead1999","Inferred; NA"
+"fFZeS","tüngud, tǔngǔd, tungut",,"female ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"fFZyS","tüngud, tǔngǔd, tungut",,"female ego's father's sister's son",,,"Mead1999","Inferred; NA"
+"fFBeD","tüngud, tǔngǔd, tungut",,"female ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"fFByD","tüngud, tǔngǔd, tungut",,"female ego's father's brother's daughter",,,"Mead1999","Inferred; NA"
+"fFZeD","tüngud, tǔngǔd, tungut",,"female ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"fFZyD","tüngud, tǔngǔd, tungut",,"female ego's father's sister's daughter",,,"Mead1999","Inferred; NA"
+"fMBeS","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"fMByS","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's son",,,"Mead1999","Inferred; NA"
+"fMZeS","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"fMZyS","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's son",,,"Mead1999","Inferred; NA"
+"fMBeD","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"fMByD","tüngud, tǔngǔd, tungut",,"female ego's mother's brother's daughter",,,"Mead1999","Inferred; NA"
+"fMZeD","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"
+"fMZyD","tüngud, tǔngǔd, tungut",,"female ego's mother's sister's daughter",,,"Mead1999","Inferred; NA"

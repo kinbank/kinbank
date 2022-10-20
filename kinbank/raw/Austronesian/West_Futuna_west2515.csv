@@ -1,159 +1,159 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,soa,,male ego's older brother,,,Marck1996,
-myB,soa,,male ego's younger brother,,,Marck1996,
-feB,kave,,female ego's older brother,,,Marck1996,
-fyB,kave,,female ego's younger brother,,,Marck1996,
-meZ,kave,,male ego's older sister,,,Marck1996,
-myZ,kave,,male ego's younger sister,,,Marck1996,
-feZ,soa,,female ego's older sister,,,Marck1996,
-fyZ,soa,,female ego's younger sister,,,Marck1996,
-mF,"tamana, tata",,male ego's father,,,Marck1996,
-mM,"jinana, muma, nana",,male ego's mother,,,Marck1996,
-fF,"tamana, tata",,female ego's father,,,Marck1996,
-fM,"jinana, muma, nana",,female ego's mother,,,Marck1996,
-mS,tama,,male ego's son,,,Marck1996,
-fS,tama,,female ego's son,,,Marck1996,
-mD,tama,,male ego's daughter,,,Marck1996,
-fD,tama,,female ego's daughter,,,Marck1996,
-mSS,tamupuna,,male ego's son's son,,,Marck1996,
-mSD,tamupuna,,male ego's son's daughter,,,Marck1996,
-mDS,tamupuna,,male ego's daughter's son,,,Marck1996,
-mDD,tamupuna,,male ego's daughter's daughter,,,Marck1996,
-fSS,tamupuna,,female ego's son's son,,,Marck1996,
-fSD,tamupuna,,female ego's son's daughter,,,Marck1996,
-fDS,tamupuna,,female ego's daughter's son,,,Marck1996,
-fDD,tamupuna,,female ego's daugher's daughter,,,Marck1996,
-mFF,"tupuna, pua",,male ego's father‘s father,,,Marck1996,
-mFM,"tupuna, pua",,male ego's father's mother,,,Marck1996,
-mMF,"tupuna, pua",,male ego's mother's father,,,Marck1996,
-mMM,"tupuna, pua",,male ego's mother's mother,,,Marck1996,
-fFF,"tupuna, pua",,female ego's father's father,,,Marck1996,
-fFM,"tupuna, pua",,female ego's father's mother,,,Marck1996,
-fMF,"tupuna, pua",,female ego's mother's father,,,Marck1996,
-fMM,"tupuna, pua",,female ego's mother's mother,,,Marck1996,
-meBS,"raimutu, tama",,male ego's older brother's son,tua-jina,,Marck1996,"tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
-myBS,"raimutu, tama",,male ego's younger brother's son,tua-jina,,Marck1996,"tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
-meZS,raimutu,,male ego's older sister's son,,,Marck1996,"anomaly from the Polynesian standpoint, where tua-tina is usually the mother’s"
-myZS,raimutu,,male ego's younger sister's son,,,Marck1996,brother’
-meBD,"raimutu, tama",,male ego's older brother's daughter,,,Marck1996,
-myBD,"raimutu, tama",,male ego's younger brother's daughter,,,Marck1996,
-meZD,raimutu,,male ego's older sister's daughter,,,Marck1996,
-myZD,raimutu,,male ego's younger sister's daughter,,,Marck1996,
-feBS,fugona,,female ego's older brother's son,tua-jina,,Marck1996,"tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
-fyBS,fugona,,female ego's younger brother's son,tua-jina,,Marck1996,"tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
-feZS,"fugona, tama",,female ego's older sister's son,,,Marck1996,brother’
-fyZS,"fugona, tama",,female ego's younger sister's son,,,Marck1996,brother’
-feBD,fugona,,female ego's older brother's daughter,,,Marck1996,
-fyBD,fugona,,female ego's younger brother's daughter,,,Marck1996,
-feZD,"fugona, tama",,female ego's older sister's daughter,,,Marck1996,
-fyZD,"fugona, tama",,female ego's younger sister's daughter,,,Marck1996,
-mFeB,tamana,,male ego's father's older brother,,,Marck1996,
-mFyB,tamana,,male ego's father's younger brother,,,Marck1996,
-mFeZ,"jina-ha-vae, maha-vae",,male ego's father's older sister,,,Marck1996,
-mFyZ,jina-ha-vae. maha-vae,,male ego's father's younger sister,,,Marck1996,
-mMeB,tojinana,,male ego's mother's older brother,,,Marck1996,
-mMyB,tojinana,,male ego's mother's younger brother,,,Marck1996,
-mMeZ,"jinana, muma, nana",,male ego's mother's older sister,,,Marck1996,
-mMyZ,"jinana, muma, nana",,male ego's mother's younger sister,,,Marck1996,
-fFeB,tamana,,female ego's father's older brother,,,Marck1996,
-fFyB,tamana,,female ego's father's younger brother,,,Marck1996,
-fFeZ,"jina-ha-vae, maha-vae",,female ego's father's older sister,,,Marck1996,
-fFyZ,"jina-ha-vae, maha-vae",,female ego's father's younger sister,,,Marck1996,
-fMeB,tojinana,,female ego's mother's older brother,,,Marck1996,
-fMyB,tojinana,,female ego's mother's younger brother,,,Marck1996,
-fMeZ,"jinana, muma, nana",,female ego's mother's older sister,,,Marck1996,
-fMyZ,"jinana, muma, nana",,female ego's mother's younger sister,,,Marck1996,
-mW,"fine, nofune",,male ego's wife,,,Marck1996,
-fH,"nuane, tagata",,female ego‘s husband,,,Marck1996,
-mDH,raimutu,,male ego's daughter's husband,,,Marck1996,
-fDH,fugona,,female ego's daughter's husband,,,Marck1996,
-mSW,raimutu,,male ego's son's wife,,,Marck1996,
-fSW,fugona,,female ego's son's wife,,,Marck1996,
-mWM,jina-ha-vae,,male ego's wife's mother,,,Marck1996,
-mWB,safe,,male ego's wife's brother,,,Marck1996,
-fHM,jina-ha-vae,,female ego's husband's mother,,,Marck1996,
-fHB,nuane,,female ego's husband's brother,,,Marck1996,
-fHZ,maa,,female ego's husband's sister,,,Marck1996,
-mBW,nofune,,male ego's brother's wife,,,Marck1996,
-fBW,maa,,female ego's brother's wife,,,Marck1996,
-mZH,safe,,male ego's sister's husband,,,Marck1996,
-mFBS,soa,,male ego's father's brother's son,,,Marck1996,
-mFZS,safe,,male ego's father's sister's son,,,Marck1996,
-mMBS,safe,,male ego's mother's brother's son,,,Marck1996,
-mMZS,soa,,male ego's mother's sister's son,,,Marck1996,
-mFBD,kave,,male ego's father's brother's daughter,,,Marck1996,
-mFZD,fakau magaro,,male ego's father's sister's daughter,,,Marck1996,
-mMBD,fakau magaro,,male ego's mother's brother's daughter,,,Marck1996,
-mMZD,kave,,male ego's mother's sister's daughter,,,Marck1996,
-fFBS,kave,,female ego's father's brother's son,,,Marck1996,
-fFZS,fakau magaro,,female ego's father's sister's son,,,Marck1996,
-fMBS,fakau magaro,,female ego's mother's brother's son,,,Marck1996,
-fMZS,kave,,female ego's mother's sister's son,,,Marck1996,
-fFBD,soa,,female ego's father's brother's daughter,,,Marck1996,
-fFZD,maa,,female ego's father's sister's daughter,,,Marck1996,
-fMBD,maa,,female ego's mother's brother's daughter,,,Marck1996,
-fMZD,soa,,female ego's mother's sister's daughter,,,Marck1996,
-mFeBS,soa,,male ego's father's brother's son,,,Marck1996,Inferred; 
-mFyBS,soa,,male ego's father's brother's son,,,Marck1996,Inferred; 
-mFeZS,safe,,male ego's father's sister's son,,,Marck1996,Inferred; 
-mFyZS,safe,,male ego's father's sister's son,,,Marck1996,Inferred; 
-mFeBD,kave,,male ego's father's brother's daughter,,,Marck1996,Inferred; 
-mFyBD,kave,,male ego's father's brother's daughter,,,Marck1996,Inferred; 
-mFeZD,fakau magaro,,male ego's father's sister's daughter,,,Marck1996,Inferred; 
-mFyZD,fakau magaro,,male ego's father's sister's daughter,,,Marck1996,Inferred; 
-mMeBS,safe,,male ego's mother's brother's son,,,Marck1996,Inferred; 
-mMyBS,safe,,male ego's mother's brother's son,,,Marck1996,Inferred; 
-mMeZS,soa,,male ego's mother's sister's son,,,Marck1996,Inferred; 
-mMyZS,soa,,male ego's mother's sister's son,,,Marck1996,Inferred; 
-mMeBD,fakau magaro,,male ego's mother's brother's daughter,,,Marck1996,Inferred; 
-mMyBD,fakau magaro,,male ego's mother's brother's daughter,,,Marck1996,Inferred; 
-mMeZD,kave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; 
-mMyZD,kave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; 
-mFBeS,soa,,male ego's father's brother's son,,,Marck1996,Inferred; 
-mFByS,soa,,male ego's father's brother's son,,,Marck1996,Inferred; 
-mFZeS,safe,,male ego's father's sister's son,,,Marck1996,Inferred; 
-mFZyS,safe,,male ego's father's sister's son,,,Marck1996,Inferred; 
-mFBeD,kave,,male ego's father's brother's daughter,,,Marck1996,Inferred; 
-mFByD,kave,,male ego's father's brother's daughter,,,Marck1996,Inferred; 
-mFZeD,fakau magaro,,male ego's father's sister's daughter,,,Marck1996,Inferred; 
-mFZyD,fakau magaro,,male ego's father's sister's daughter,,,Marck1996,Inferred; 
-mMBeS,safe,,male ego's mother's brother's son,,,Marck1996,Inferred; 
-mMByS,safe,,male ego's mother's brother's son,,,Marck1996,Inferred; 
-mMZeS,soa,,male ego's mother's sister's son,,,Marck1996,Inferred; 
-mMZyS,soa,,male ego's mother's sister's son,,,Marck1996,Inferred; 
-mMBeD,fakau magaro,,male ego's mother's brother's daughter,,,Marck1996,Inferred; 
-mMByD,fakau magaro,,male ego's mother's brother's daughter,,,Marck1996,Inferred; 
-mMZeD,kave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; 
-mMZyD,kave,,male ego's mother's sister's daughter,,,Marck1996,Inferred; 
-fFeBS,kave,,female ego's father's brother's son,,,Marck1996,Inferred; 
-fFyBS,kave,,female ego's father's brother's son,,,Marck1996,Inferred; 
-fFeZS,fakau magaro,,female ego's father's sister's son,,,Marck1996,Inferred; 
-fFyZS,fakau magaro,,female ego's father's sister's son,,,Marck1996,Inferred; 
-fFeBD,soa,,female ego's father's brother's daughter,,,Marck1996,Inferred; 
-fFyBD,soa,,female ego's father's brother's daughter,,,Marck1996,Inferred; 
-fFeZD,maa,,female ego's father's sister's daughter,,,Marck1996,Inferred; 
-fFyZD,maa,,female ego's father's sister's daughter,,,Marck1996,Inferred; 
-fMeBS,fakau magaro,,female ego's mother's brother's son,,,Marck1996,Inferred; 
-fMyBS,fakau magaro,,female ego's mother's brother's son,,,Marck1996,Inferred; 
-fMeZS,kave,,female ego's mother's sister's son,,,Marck1996,Inferred; 
-fMyZS,kave,,female ego's mother's sister's son,,,Marck1996,Inferred; 
-fMeBD,maa,,female ego's mother's brother's daughter,,,Marck1996,Inferred; 
-fMyBD,maa,,female ego's mother's brother's daughter,,,Marck1996,Inferred; 
-fMeZD,soa,,female ego's mother's sister's daughter,,,Marck1996,Inferred; 
-fMyZD,soa,,female ego's mother's sister's daughter,,,Marck1996,Inferred; 
-fFBeS,kave,,female ego's father's brother's son,,,Marck1996,Inferred; 
-fFByS,kave,,female ego's father's brother's son,,,Marck1996,Inferred; 
-fFZeS,fakau magaro,,female ego's father's sister's son,,,Marck1996,Inferred; 
-fFZyS,fakau magaro,,female ego's father's sister's son,,,Marck1996,Inferred; 
-fFBeD,soa,,female ego's father's brother's daughter,,,Marck1996,Inferred; 
-fFByD,soa,,female ego's father's brother's daughter,,,Marck1996,Inferred; 
-fFZeD,maa,,female ego's father's sister's daughter,,,Marck1996,Inferred; 
-fFZyD,maa,,female ego's father's sister's daughter,,,Marck1996,Inferred; 
-fMBeS,fakau magaro,,female ego's mother's brother's son,,,Marck1996,Inferred; 
-fMByS,fakau magaro,,female ego's mother's brother's son,,,Marck1996,Inferred; 
-fMZeS,kave,,female ego's mother's sister's son,,,Marck1996,Inferred; 
-fMZyS,kave,,female ego's mother's sister's son,,,Marck1996,Inferred; 
-fMBeD,maa,,female ego's mother's brother's daughter,,,Marck1996,Inferred; 
-fMByD,maa,,female ego's mother's brother's daughter,,,Marck1996,Inferred; 
-fMZeD,soa,,female ego's mother's sister's daughter,,,Marck1996,Inferred; 
-fMZyD,soa,,female ego's mother's sister's daughter,,,Marck1996,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","soa",,"male ego's older brother","",,"Marck1996",""
+"myB","soa",,"male ego's younger brother","",,"Marck1996",""
+"feB","kave",,"female ego's older brother","",,"Marck1996",""
+"fyB","kave",,"female ego's younger brother","",,"Marck1996",""
+"meZ","kave",,"male ego's older sister","",,"Marck1996",""
+"myZ","kave",,"male ego's younger sister","",,"Marck1996",""
+"feZ","soa",,"female ego's older sister","",,"Marck1996",""
+"fyZ","soa",,"female ego's younger sister","",,"Marck1996",""
+"mF","tamana, tata",,"male ego's father","",,"Marck1996",""
+"mM","jinana, muma, nana",,"male ego's mother","",,"Marck1996",""
+"fF","tamana, tata",,"female ego's father","",,"Marck1996",""
+"fM","jinana, muma, nana",,"female ego's mother","",,"Marck1996",""
+"mS","tama",,"male ego's son","",,"Marck1996",""
+"fS","tama",,"female ego's son","",,"Marck1996",""
+"mD","tama",,"male ego's daughter","",,"Marck1996",""
+"fD","tama",,"female ego's daughter","",,"Marck1996",""
+"mSS","tamupuna",,"male ego's son's son","",,"Marck1996",""
+"mSD","tamupuna",,"male ego's son's daughter","",,"Marck1996",""
+"mDS","tamupuna",,"male ego's daughter's son","",,"Marck1996",""
+"mDD","tamupuna",,"male ego's daughter's daughter","",,"Marck1996",""
+"fSS","tamupuna",,"female ego's son's son","",,"Marck1996",""
+"fSD","tamupuna",,"female ego's son's daughter","",,"Marck1996",""
+"fDS","tamupuna",,"female ego's daughter's son","",,"Marck1996",""
+"fDD","tamupuna",,"female ego's daugher's daughter","",,"Marck1996",""
+"mFF","tupuna, pua",,"male ego's father‘s father","",,"Marck1996",""
+"mFM","tupuna, pua",,"male ego's father's mother","",,"Marck1996",""
+"mMF","tupuna, pua",,"male ego's mother's father","",,"Marck1996",""
+"mMM","tupuna, pua",,"male ego's mother's mother","",,"Marck1996",""
+"fFF","tupuna, pua",,"female ego's father's father","",,"Marck1996",""
+"fFM","tupuna, pua",,"female ego's father's mother","",,"Marck1996",""
+"fMF","tupuna, pua",,"female ego's mother's father","",,"Marck1996",""
+"fMM","tupuna, pua",,"female ego's mother's mother","",,"Marck1996",""
+"meBS","raimutu, tama",,"male ego's older brother's son","tua-jina",,"Marck1996","tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
+"myBS","raimutu, tama",,"male ego's younger brother's son","tua-jina",,"Marck1996","tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
+"meZS","raimutu",,"male ego's older sister's son","",,"Marck1996","anomaly from the Polynesian standpoint, where tua-tina is usually the mother’s"
+"myZS","raimutu",,"male ego's younger sister's son","",,"Marck1996","brother’"
+"meBD","raimutu, tama",,"male ego's older brother's daughter","",,"Marck1996",""
+"myBD","raimutu, tama",,"male ego's younger brother's daughter","",,"Marck1996",""
+"meZD","raimutu",,"male ego's older sister's daughter","",,"Marck1996",""
+"myZD","raimutu",,"male ego's younger sister's daughter","",,"Marck1996",""
+"feBS","fugona",,"female ego's older brother's son","tua-jina",,"Marck1996","tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
+"fyBS","fugona",,"female ego's younger brother's son","tua-jina",,"Marck1996","tua-jina  = brother’s son (w.s.), but apparently only in Futuna, and then the term is an"
+"feZS","fugona, tama",,"female ego's older sister's son","",,"Marck1996","brother’"
+"fyZS","fugona, tama",,"female ego's younger sister's son","",,"Marck1996","brother’"
+"feBD","fugona",,"female ego's older brother's daughter","",,"Marck1996",""
+"fyBD","fugona",,"female ego's younger brother's daughter","",,"Marck1996",""
+"feZD","fugona, tama",,"female ego's older sister's daughter","",,"Marck1996",""
+"fyZD","fugona, tama",,"female ego's younger sister's daughter","",,"Marck1996",""
+"mFeB","tamana",,"male ego's father's older brother","",,"Marck1996",""
+"mFyB","tamana",,"male ego's father's younger brother","",,"Marck1996",""
+"mFeZ","jina-ha-vae, maha-vae",,"male ego's father's older sister","",,"Marck1996",""
+"mFyZ","jina-ha-vae. maha-vae",,"male ego's father's younger sister","",,"Marck1996",""
+"mMeB","tojinana",,"male ego's mother's older brother","",,"Marck1996",""
+"mMyB","tojinana",,"male ego's mother's younger brother","",,"Marck1996",""
+"mMeZ","jinana, muma, nana",,"male ego's mother's older sister","",,"Marck1996",""
+"mMyZ","jinana, muma, nana",,"male ego's mother's younger sister","",,"Marck1996",""
+"fFeB","tamana",,"female ego's father's older brother","",,"Marck1996",""
+"fFyB","tamana",,"female ego's father's younger brother","",,"Marck1996",""
+"fFeZ","jina-ha-vae, maha-vae",,"female ego's father's older sister","",,"Marck1996",""
+"fFyZ","jina-ha-vae, maha-vae",,"female ego's father's younger sister","",,"Marck1996",""
+"fMeB","tojinana",,"female ego's mother's older brother","",,"Marck1996",""
+"fMyB","tojinana",,"female ego's mother's younger brother","",,"Marck1996",""
+"fMeZ","jinana, muma, nana",,"female ego's mother's older sister","",,"Marck1996",""
+"fMyZ","jinana, muma, nana",,"female ego's mother's younger sister","",,"Marck1996",""
+"mW","fine, nofune",,"male ego's wife","",,"Marck1996",""
+"fH","nuane, tagata",,"female ego‘s husband","",,"Marck1996",""
+"mDH","raimutu",,"male ego's daughter's husband","",,"Marck1996",""
+"fDH","fugona",,"female ego's daughter's husband","",,"Marck1996",""
+"mSW","raimutu",,"male ego's son's wife","",,"Marck1996",""
+"fSW","fugona",,"female ego's son's wife","",,"Marck1996",""
+"mWM","jina-ha-vae",,"male ego's wife's mother","",,"Marck1996",""
+"mWB","safe",,"male ego's wife's brother","",,"Marck1996",""
+"fHM","jina-ha-vae",,"female ego's husband's mother","",,"Marck1996",""
+"fHB","nuane",,"female ego's husband's brother","",,"Marck1996",""
+"fHZ","maa",,"female ego's husband's sister","",,"Marck1996",""
+"mBW","nofune",,"male ego's brother's wife","",,"Marck1996",""
+"fBW","maa",,"female ego's brother's wife","",,"Marck1996",""
+"mZH","safe",,"male ego's sister's husband","",,"Marck1996",""
+"mFBS","soa",,"male ego's father's brother's son","",,"Marck1996",""
+"mFZS","safe",,"male ego's father's sister's son","",,"Marck1996",""
+"mMBS","safe",,"male ego's mother's brother's son","",,"Marck1996",""
+"mMZS","soa",,"male ego's mother's sister's son","",,"Marck1996",""
+"mFBD","kave",,"male ego's father's brother's daughter","",,"Marck1996",""
+"mFZD","fakau magaro",,"male ego's father's sister's daughter","",,"Marck1996",""
+"mMBD","fakau magaro",,"male ego's mother's brother's daughter","",,"Marck1996",""
+"mMZD","kave",,"male ego's mother's sister's daughter","",,"Marck1996",""
+"fFBS","kave",,"female ego's father's brother's son","",,"Marck1996",""
+"fFZS","fakau magaro",,"female ego's father's sister's son","",,"Marck1996",""
+"fMBS","fakau magaro",,"female ego's mother's brother's son","",,"Marck1996",""
+"fMZS","kave",,"female ego's mother's sister's son","",,"Marck1996",""
+"fFBD","soa",,"female ego's father's brother's daughter","",,"Marck1996",""
+"fFZD","maa",,"female ego's father's sister's daughter","",,"Marck1996",""
+"fMBD","maa",,"female ego's mother's brother's daughter","",,"Marck1996",""
+"fMZD","soa",,"female ego's mother's sister's daughter","",,"Marck1996",""
+"mFeBS","soa",,"male ego's father's brother's son","",,"Marck1996","Inferred; "
+"mFyBS","soa",,"male ego's father's brother's son","",,"Marck1996","Inferred; "
+"mFeZS","safe",,"male ego's father's sister's son","",,"Marck1996","Inferred; "
+"mFyZS","safe",,"male ego's father's sister's son","",,"Marck1996","Inferred; "
+"mFeBD","kave",,"male ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"mFyBD","kave",,"male ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"mFeZD","fakau magaro",,"male ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"mFyZD","fakau magaro",,"male ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"mMeBS","safe",,"male ego's mother's brother's son","",,"Marck1996","Inferred; "
+"mMyBS","safe",,"male ego's mother's brother's son","",,"Marck1996","Inferred; "
+"mMeZS","soa",,"male ego's mother's sister's son","",,"Marck1996","Inferred; "
+"mMyZS","soa",,"male ego's mother's sister's son","",,"Marck1996","Inferred; "
+"mMeBD","fakau magaro",,"male ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"mMyBD","fakau magaro",,"male ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"mMeZD","kave",,"male ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"mMyZD","kave",,"male ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"mFBeS","soa",,"male ego's father's brother's son","",,"Marck1996","Inferred; "
+"mFByS","soa",,"male ego's father's brother's son","",,"Marck1996","Inferred; "
+"mFZeS","safe",,"male ego's father's sister's son","",,"Marck1996","Inferred; "
+"mFZyS","safe",,"male ego's father's sister's son","",,"Marck1996","Inferred; "
+"mFBeD","kave",,"male ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"mFByD","kave",,"male ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"mFZeD","fakau magaro",,"male ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"mFZyD","fakau magaro",,"male ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"mMBeS","safe",,"male ego's mother's brother's son","",,"Marck1996","Inferred; "
+"mMByS","safe",,"male ego's mother's brother's son","",,"Marck1996","Inferred; "
+"mMZeS","soa",,"male ego's mother's sister's son","",,"Marck1996","Inferred; "
+"mMZyS","soa",,"male ego's mother's sister's son","",,"Marck1996","Inferred; "
+"mMBeD","fakau magaro",,"male ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"mMByD","fakau magaro",,"male ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"mMZeD","kave",,"male ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"mMZyD","kave",,"male ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"fFeBS","kave",,"female ego's father's brother's son","",,"Marck1996","Inferred; "
+"fFyBS","kave",,"female ego's father's brother's son","",,"Marck1996","Inferred; "
+"fFeZS","fakau magaro",,"female ego's father's sister's son","",,"Marck1996","Inferred; "
+"fFyZS","fakau magaro",,"female ego's father's sister's son","",,"Marck1996","Inferred; "
+"fFeBD","soa",,"female ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"fFyBD","soa",,"female ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"fFeZD","maa",,"female ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"fFyZD","maa",,"female ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"fMeBS","fakau magaro",,"female ego's mother's brother's son","",,"Marck1996","Inferred; "
+"fMyBS","fakau magaro",,"female ego's mother's brother's son","",,"Marck1996","Inferred; "
+"fMeZS","kave",,"female ego's mother's sister's son","",,"Marck1996","Inferred; "
+"fMyZS","kave",,"female ego's mother's sister's son","",,"Marck1996","Inferred; "
+"fMeBD","maa",,"female ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"fMyBD","maa",,"female ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"fMeZD","soa",,"female ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"fMyZD","soa",,"female ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"fFBeS","kave",,"female ego's father's brother's son","",,"Marck1996","Inferred; "
+"fFByS","kave",,"female ego's father's brother's son","",,"Marck1996","Inferred; "
+"fFZeS","fakau magaro",,"female ego's father's sister's son","",,"Marck1996","Inferred; "
+"fFZyS","fakau magaro",,"female ego's father's sister's son","",,"Marck1996","Inferred; "
+"fFBeD","soa",,"female ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"fFByD","soa",,"female ego's father's brother's daughter","",,"Marck1996","Inferred; "
+"fFZeD","maa",,"female ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"fFZyD","maa",,"female ego's father's sister's daughter","",,"Marck1996","Inferred; "
+"fMBeS","fakau magaro",,"female ego's mother's brother's son","",,"Marck1996","Inferred; "
+"fMByS","fakau magaro",,"female ego's mother's brother's son","",,"Marck1996","Inferred; "
+"fMZeS","kave",,"female ego's mother's sister's son","",,"Marck1996","Inferred; "
+"fMZyS","kave",,"female ego's mother's sister's son","",,"Marck1996","Inferred; "
+"fMBeD","maa",,"female ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"fMByD","maa",,"female ego's mother's brother's daughter","",,"Marck1996","Inferred; "
+"fMZeD","soa",,"female ego's mother's sister's daughter","",,"Marck1996","Inferred; "
+"fMZyD","soa",,"female ego's mother's sister's daughter","",,"Marck1996","Inferred; "

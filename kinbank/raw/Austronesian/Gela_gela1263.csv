@@ -1,115 +1,115 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tuga,,male ego's older brother,,,miller1975a,
-myB,tahi,,male ego's younger brother,,,miller1975a,
-feB,hogo,,female ego's older brother,,,miller1975a,
-fyB,hogo,,female ego's younger brother,,,miller1975a,
-meZ,hogo,,male ego's older sister,,,miller1975a,
-myZ,hogo,,male ego's younger sister,,,miller1975a,
-feZ,tuga,,female ego's older sister,,,miller1975a,
-fyZ,tahi,,female ego's younger sister,,,miller1975a,
-mF,tama,,male ego's father,,,miller1975a,
-mM,tina,,male ego's mother,,,miller1975a,
-fF,tama,,female ego's father,,,miller1975a,
-fM,tina,,female ego's mother,,,miller1975a,
-mS,dale,,male ego's son,,,miller1975a,
-fS,dale,,female ego's son,,,miller1975a,
-mD,dale,,male ego's daughter,,,miller1975a,
-fD,dale,,female ego's daughter,,,miller1975a,
-mFF,kukua,,male ego's father‘s father,,,miller1975a,
-mFM,kukua,,male ego's father's mother,,,miller1975a,
-mMF,kukua,,male ego's mother's father,,,miller1975a,
-mMM,kukua,,male ego's mother's mother,,,miller1975a,
-fFF,kukua,,female ego's father's father,,,miller1975a,
-fFM,kukua,,female ego's father's mother,,,miller1975a,
-fMF,kukua,,female ego's mother's father,,,miller1975a,
-fMM,kukua,,female ego's mother's mother,,,miller1975a,
-mFeB,tubu,,male ego's father's older brother,,,miller1975a,
-mFyB,tubu,,male ego's father's younger brother,,,miller1975a,
-mMeB,tubu,,male ego's mother's older brother,,,miller1975a,
-mMyB,tubu,,male ego's mother's younger brother,,,miller1975a,
-fFeB,tubu,,female ego's father's older brother,,,miller1975a,
-fFyB,tubu,,female ego's father's younger brother,,,miller1975a,
-fMeB,tubu,,female ego's mother's older brother,,,miller1975a,
-fMyB,tubu,,female ego's mother's younger brother,,,miller1975a,
-mW,tau,,male ego's wife,,,miller1975a,
-fH,tau,,female ego‘s husband,,,miller1975a,
-mFBS,hogo,,male ego's father's brother's son,,,miller1975a,
-mFZS,hogo,,male ego's father's sister's son,,,miller1975a,
-mMBS,hogo,,male ego's mother's brother's son,,,miller1975a,
-mMZS,hogo,,male ego's mother's sister's son,,,miller1975a,
-mFBD,hogo,,male ego's father's brother's daughter,,,miller1975a,
-mFZD,hogo,,male ego's father's sister's daughter,,,miller1975a,
-mMBD,hogo,,male ego's mother's brother's daughter,,,miller1975a,
-mMZD,hogo,,male ego's mother's sister's daughter,,,miller1975a,
-fFBS,hogo,,female ego's father's brother's son,,,miller1975a,
-fFZS,hogo,,female ego's father's sister's son,,,miller1975a,
-fMBS,hogo,,female ego's mother's brother's son,,,miller1975a,
-fMZS,hogo,,female ego's mother's sister's son,,,miller1975a,
-fFBD,hogo,,female ego's father's brother's daughter,,,miller1975a,
-fFZD,hogo,,female ego's father's sister's daughter,,,miller1975a,
-fMBD,hogo,,female ego's mother's brother's daughter,,,miller1975a,
-fMZD,hogo,,female ego's mother's sister's daughter,,,miller1975a,
-mFeBS,hogo,,male ego's father's brother's son,,,miller1975a,Inferred; NA
-mFyBS,hogo,,male ego's father's brother's son,,,miller1975a,Inferred; NA
-mFeZS,hogo,,male ego's father's sister's son,,,miller1975a,Inferred; NA
-mFyZS,hogo,,male ego's father's sister's son,,,miller1975a,Inferred; NA
-mFeBD,hogo,,male ego's father's brother's daughter,,,miller1975a,Inferred; NA
-mFyBD,hogo,,male ego's father's brother's daughter,,,miller1975a,Inferred; NA
-mFeZD,hogo,,male ego's father's sister's daughter,,,miller1975a,Inferred; NA
-mFyZD,hogo,,male ego's father's sister's daughter,,,miller1975a,Inferred; NA
-mMeBS,hogo,,male ego's mother's brother's son,,,miller1975a,Inferred; NA
-mMyBS,hogo,,male ego's mother's brother's son,,,miller1975a,Inferred; NA
-mMeZS,hogo,,male ego's mother's sister's son,,,miller1975a,Inferred; NA
-mMyZS,hogo,,male ego's mother's sister's son,,,miller1975a,Inferred; NA
-mMeBD,hogo,,male ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-mMyBD,hogo,,male ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-mMeZD,hogo,,male ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-mMyZD,hogo,,male ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-mFBeS,hogo,,male ego's father's brother's son,,,miller1975a,Inferred; NA
-mFByS,hogo,,male ego's father's brother's son,,,miller1975a,Inferred; NA
-mFZeS,hogo,,male ego's father's sister's son,,,miller1975a,Inferred; NA
-mFZyS,hogo,,male ego's father's sister's son,,,miller1975a,Inferred; NA
-mFBeD,hogo,,male ego's father's brother's daughter,,,miller1975a,Inferred; NA
-mFByD,hogo,,male ego's father's brother's daughter,,,miller1975a,Inferred; NA
-mFZeD,hogo,,male ego's father's sister's daughter,,,miller1975a,Inferred; NA
-mFZyD,hogo,,male ego's father's sister's daughter,,,miller1975a,Inferred; NA
-mMBeS,hogo,,male ego's mother's brother's son,,,miller1975a,Inferred; NA
-mMByS,hogo,,male ego's mother's brother's son,,,miller1975a,Inferred; NA
-mMZeS,hogo,,male ego's mother's sister's son,,,miller1975a,Inferred; NA
-mMZyS,hogo,,male ego's mother's sister's son,,,miller1975a,Inferred; NA
-mMBeD,hogo,,male ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-mMByD,hogo,,male ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-mMZeD,hogo,,male ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-mMZyD,hogo,,male ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-fFeBS,hogo,,female ego's father's brother's son,,,miller1975a,Inferred; NA
-fFyBS,hogo,,female ego's father's brother's son,,,miller1975a,Inferred; NA
-fFeZS,hogo,,female ego's father's sister's son,,,miller1975a,Inferred; NA
-fFyZS,hogo,,female ego's father's sister's son,,,miller1975a,Inferred; NA
-fFeBD,hogo,,female ego's father's brother's daughter,,,miller1975a,Inferred; NA
-fFyBD,hogo,,female ego's father's brother's daughter,,,miller1975a,Inferred; NA
-fFeZD,hogo,,female ego's father's sister's daughter,,,miller1975a,Inferred; NA
-fFyZD,hogo,,female ego's father's sister's daughter,,,miller1975a,Inferred; NA
-fMeBS,hogo,,female ego's mother's brother's son,,,miller1975a,Inferred; NA
-fMyBS,hogo,,female ego's mother's brother's son,,,miller1975a,Inferred; NA
-fMeZS,hogo,,female ego's mother's sister's son,,,miller1975a,Inferred; NA
-fMyZS,hogo,,female ego's mother's sister's son,,,miller1975a,Inferred; NA
-fMeBD,hogo,,female ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-fMyBD,hogo,,female ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-fMeZD,hogo,,female ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-fMyZD,hogo,,female ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-fFBeS,hogo,,female ego's father's brother's son,,,miller1975a,Inferred; NA
-fFByS,hogo,,female ego's father's brother's son,,,miller1975a,Inferred; NA
-fFZeS,hogo,,female ego's father's sister's son,,,miller1975a,Inferred; NA
-fFZyS,hogo,,female ego's father's sister's son,,,miller1975a,Inferred; NA
-fFBeD,hogo,,female ego's father's brother's daughter,,,miller1975a,Inferred; NA
-fFByD,hogo,,female ego's father's brother's daughter,,,miller1975a,Inferred; NA
-fFZeD,hogo,,female ego's father's sister's daughter,,,miller1975a,Inferred; NA
-fFZyD,hogo,,female ego's father's sister's daughter,,,miller1975a,Inferred; NA
-fMBeS,hogo,,female ego's mother's brother's son,,,miller1975a,Inferred; NA
-fMByS,hogo,,female ego's mother's brother's son,,,miller1975a,Inferred; NA
-fMZeS,hogo,,female ego's mother's sister's son,,,miller1975a,Inferred; NA
-fMZyS,hogo,,female ego's mother's sister's son,,,miller1975a,Inferred; NA
-fMBeD,hogo,,female ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-fMByD,hogo,,female ego's mother's brother's daughter,,,miller1975a,Inferred; NA
-fMZeD,hogo,,female ego's mother's sister's daughter,,,miller1975a,Inferred; NA
-fMZyD,hogo,,female ego's mother's sister's daughter,,,miller1975a,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tuga",,"male ego's older brother",,,"miller1975a",""
+"myB","tahi",,"male ego's younger brother",,,"miller1975a",""
+"feB","hogo",,"female ego's older brother",,,"miller1975a",""
+"fyB","hogo",,"female ego's younger brother",,,"miller1975a",""
+"meZ","hogo",,"male ego's older sister",,,"miller1975a",""
+"myZ","hogo",,"male ego's younger sister",,,"miller1975a",""
+"feZ","tuga",,"female ego's older sister",,,"miller1975a",""
+"fyZ","tahi",,"female ego's younger sister",,,"miller1975a",""
+"mF","tama",,"male ego's father",,,"miller1975a",""
+"mM","tina",,"male ego's mother",,,"miller1975a",""
+"fF","tama",,"female ego's father",,,"miller1975a",""
+"fM","tina",,"female ego's mother",,,"miller1975a",""
+"mS","dale",,"male ego's son",,,"miller1975a",""
+"fS","dale",,"female ego's son",,,"miller1975a",""
+"mD","dale",,"male ego's daughter",,,"miller1975a",""
+"fD","dale",,"female ego's daughter",,,"miller1975a",""
+"mFF","kukua",,"male ego's father‘s father",,,"miller1975a",""
+"mFM","kukua",,"male ego's father's mother",,,"miller1975a",""
+"mMF","kukua",,"male ego's mother's father",,,"miller1975a",""
+"mMM","kukua",,"male ego's mother's mother",,,"miller1975a",""
+"fFF","kukua",,"female ego's father's father",,,"miller1975a",""
+"fFM","kukua",,"female ego's father's mother",,,"miller1975a",""
+"fMF","kukua",,"female ego's mother's father",,,"miller1975a",""
+"fMM","kukua",,"female ego's mother's mother",,,"miller1975a",""
+"mFeB","tubu",,"male ego's father's older brother",,,"miller1975a",""
+"mFyB","tubu",,"male ego's father's younger brother",,,"miller1975a",""
+"mMeB","tubu",,"male ego's mother's older brother",,,"miller1975a",""
+"mMyB","tubu",,"male ego's mother's younger brother",,,"miller1975a",""
+"fFeB","tubu",,"female ego's father's older brother",,,"miller1975a",""
+"fFyB","tubu",,"female ego's father's younger brother",,,"miller1975a",""
+"fMeB","tubu",,"female ego's mother's older brother",,,"miller1975a",""
+"fMyB","tubu",,"female ego's mother's younger brother",,,"miller1975a",""
+"mW","tau",,"male ego's wife",,,"miller1975a",""
+"fH","tau",,"female ego‘s husband",,,"miller1975a",""
+"mFBS","hogo",,"male ego's father's brother's son",,,"miller1975a",""
+"mFZS","hogo",,"male ego's father's sister's son",,,"miller1975a",""
+"mMBS","hogo",,"male ego's mother's brother's son",,,"miller1975a",""
+"mMZS","hogo",,"male ego's mother's sister's son",,,"miller1975a",""
+"mFBD","hogo",,"male ego's father's brother's daughter",,,"miller1975a",""
+"mFZD","hogo",,"male ego's father's sister's daughter",,,"miller1975a",""
+"mMBD","hogo",,"male ego's mother's brother's daughter",,,"miller1975a",""
+"mMZD","hogo",,"male ego's mother's sister's daughter",,,"miller1975a",""
+"fFBS","hogo",,"female ego's father's brother's son",,,"miller1975a",""
+"fFZS","hogo",,"female ego's father's sister's son",,,"miller1975a",""
+"fMBS","hogo",,"female ego's mother's brother's son",,,"miller1975a",""
+"fMZS","hogo",,"female ego's mother's sister's son",,,"miller1975a",""
+"fFBD","hogo",,"female ego's father's brother's daughter",,,"miller1975a",""
+"fFZD","hogo",,"female ego's father's sister's daughter",,,"miller1975a",""
+"fMBD","hogo",,"female ego's mother's brother's daughter",,,"miller1975a",""
+"fMZD","hogo",,"female ego's mother's sister's daughter",,,"miller1975a",""
+"mFeBS","hogo",,"male ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"mFyBS","hogo",,"male ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"mFeZS","hogo",,"male ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"mFyZS","hogo",,"male ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"mFeBD","hogo",,"male ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"mFyBD","hogo",,"male ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"mFeZD","hogo",,"male ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"mFyZD","hogo",,"male ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"mMeBS","hogo",,"male ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"mMyBS","hogo",,"male ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"mMeZS","hogo",,"male ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"mMyZS","hogo",,"male ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"mMeBD","hogo",,"male ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"mMyBD","hogo",,"male ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"mMeZD","hogo",,"male ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"mMyZD","hogo",,"male ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"mFBeS","hogo",,"male ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"mFByS","hogo",,"male ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"mFZeS","hogo",,"male ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"mFZyS","hogo",,"male ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"mFBeD","hogo",,"male ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"mFByD","hogo",,"male ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"mFZeD","hogo",,"male ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"mFZyD","hogo",,"male ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"mMBeS","hogo",,"male ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"mMByS","hogo",,"male ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"mMZeS","hogo",,"male ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"mMZyS","hogo",,"male ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"mMBeD","hogo",,"male ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"mMByD","hogo",,"male ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"mMZeD","hogo",,"male ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"mMZyD","hogo",,"male ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"fFeBS","hogo",,"female ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"fFyBS","hogo",,"female ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"fFeZS","hogo",,"female ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"fFyZS","hogo",,"female ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"fFeBD","hogo",,"female ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"fFyBD","hogo",,"female ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"fFeZD","hogo",,"female ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"fFyZD","hogo",,"female ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"fMeBS","hogo",,"female ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"fMyBS","hogo",,"female ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"fMeZS","hogo",,"female ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"fMyZS","hogo",,"female ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"fMeBD","hogo",,"female ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"fMyBD","hogo",,"female ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"fMeZD","hogo",,"female ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"fMyZD","hogo",,"female ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"fFBeS","hogo",,"female ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"fFByS","hogo",,"female ego's father's brother's son",,,"miller1975a","Inferred; NA"
+"fFZeS","hogo",,"female ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"fFZyS","hogo",,"female ego's father's sister's son",,,"miller1975a","Inferred; NA"
+"fFBeD","hogo",,"female ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"fFByD","hogo",,"female ego's father's brother's daughter",,,"miller1975a","Inferred; NA"
+"fFZeD","hogo",,"female ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"fFZyD","hogo",,"female ego's father's sister's daughter",,,"miller1975a","Inferred; NA"
+"fMBeS","hogo",,"female ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"fMByS","hogo",,"female ego's mother's brother's son",,,"miller1975a","Inferred; NA"
+"fMZeS","hogo",,"female ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"fMZyS","hogo",,"female ego's mother's sister's son",,,"miller1975a","Inferred; NA"
+"fMBeD","hogo",,"female ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"fMByD","hogo",,"female ego's mother's brother's daughter",,,"miller1975a","Inferred; NA"
+"fMZeD","hogo",,"female ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"
+"fMZyD","hogo",,"female ego's mother's sister's daughter",,,"miller1975a","Inferred; NA"

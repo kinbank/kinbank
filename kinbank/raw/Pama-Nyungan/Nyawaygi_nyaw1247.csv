@@ -1,41 +1,41 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,murgin,,male ego's older brother,,,Dixon1983,oldest brother
-myB,ɠanɖiliɲ,,male ego's younger brother,,,Dixon1983,
-feB,murgin,,female ego's older brother,,,Dixon1983,oldest brother
-fyB,ɠanɖiliɲ,,female ego's younger brother,,,Dixon1983,
-meZ,murgingan,,male ego's older sister,,,Dixon1983,oldest sister
-myZ,ɠanɖiyan,,male ego's younger sister,,,Dixon1983,
-feZ,murgingan,,female ego's older sister,,,Dixon1983,oldest sister
-fyZ,ɠanɖiyan,,female ego's younger sister,,,Dixon1983,
-mM,gura,,male ego's mother,,,Dixon1983,
-fM,gura,,female ego's mother,,,Dixon1983,
-mFF,gumbu,,male ego's father‘s father,,,Dixon1983,
-mFM,gumbu,,male ego's father's mother,,,Dixon1983,
-mMF,gumbu,,male ego's mother's father,,,Dixon1983,
-mMM,gumbu,,male ego's mother's mother,,,Dixon1983,
-fFF,gumbu,,female ego's father's father,,,Dixon1983,
-fFM,gumbu,,female ego's father's mother,,,Dixon1983,
-fMF,gumbu,,female ego's mother's father,,,Dixon1983,
-fMM,gumbu,,female ego's mother's mother,,,Dixon1983,
-meBD,ga:bagan,,male ego's older brother's daughter,,,Dixon1983,
-myBD,ga:bagan,,male ego's younger brother's daughter,,,Dixon1983,
-meZD,ga:bagan,,male ego's older sister's daughter,,,Dixon1983,
-myZD,ga:bagan,,male ego's younger sister's daughter,,,Dixon1983,
-feBD,ga:bagan,,female ego's older brother's daughter,,,Dixon1983,
-fyBD,ga:bagan,,female ego's younger brother's daughter,,,Dixon1983,
-feZD,ga:bagan,,female ego's older sister's daughter,,,Dixon1983,
-fyZD,ga:bagan,,female ego's younger sister's daughter,,,Dixon1983,
-mFeB,bimu,,male ego's father's older brother,,,Dixon1983,
-mFeZ,bimu,,male ego's father's older sister,,,Dixon1983,
-mFyZ,bimu,,male ego's father's younger sister,,,Dixon1983,
-mMeZ,bimu,,male ego's mother's older sister,,,Dixon1983,
-mMyZ,bimu,,male ego's mother's younger sister,,,Dixon1983,
-fFeB,bimu,,female ego's father's older brother,,,Dixon1983,
-fFeZ,bimu,,female ego's father's older sister,,,Dixon1983,
-fFyZ,bimu,,female ego's father's younger sister,,,Dixon1983,
-fMeZ,bimu,,female ego's mother's older sister,,,Dixon1983,
-fMyZ,bimu,,female ego's mother's younger sister,,,Dixon1983,
-mWB,balɠin,,male ego's wife's brother,,,Dixon1983,
-fHZ,babi,,female ego's husband's sister,,,Dixon1983,
-fBW,babi,,female ego's brother's wife,,,Dixon1983,
-mZH,balɠin,,male ego's sister's husband,,,Dixon1983,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","murgin",,"male ego's older brother",,,"Dixon1983","oldest brother"
+"myB","ɠanɖiliɲ",,"male ego's younger brother",,,"Dixon1983",""
+"feB","murgin",,"female ego's older brother",,,"Dixon1983","oldest brother"
+"fyB","ɠanɖiliɲ",,"female ego's younger brother",,,"Dixon1983",""
+"meZ","murgingan",,"male ego's older sister",,,"Dixon1983","oldest sister"
+"myZ","ɠanɖiyan",,"male ego's younger sister",,,"Dixon1983",""
+"feZ","murgingan",,"female ego's older sister",,,"Dixon1983","oldest sister"
+"fyZ","ɠanɖiyan",,"female ego's younger sister",,,"Dixon1983",""
+"mM","gura",,"male ego's mother",,,"Dixon1983",""
+"fM","gura",,"female ego's mother",,,"Dixon1983",""
+"mFF","gumbu",,"male ego's father‘s father",,,"Dixon1983",""
+"mFM","gumbu",,"male ego's father's mother",,,"Dixon1983",""
+"mMF","gumbu",,"male ego's mother's father",,,"Dixon1983",""
+"mMM","gumbu",,"male ego's mother's mother",,,"Dixon1983",""
+"fFF","gumbu",,"female ego's father's father",,,"Dixon1983",""
+"fFM","gumbu",,"female ego's father's mother",,,"Dixon1983",""
+"fMF","gumbu",,"female ego's mother's father",,,"Dixon1983",""
+"fMM","gumbu",,"female ego's mother's mother",,,"Dixon1983",""
+"meBD","ga:bagan",,"male ego's older brother's daughter",,,"Dixon1983",""
+"myBD","ga:bagan",,"male ego's younger brother's daughter",,,"Dixon1983",""
+"meZD","ga:bagan",,"male ego's older sister's daughter",,,"Dixon1983",""
+"myZD","ga:bagan",,"male ego's younger sister's daughter",,,"Dixon1983",""
+"feBD","ga:bagan",,"female ego's older brother's daughter",,,"Dixon1983",""
+"fyBD","ga:bagan",,"female ego's younger brother's daughter",,,"Dixon1983",""
+"feZD","ga:bagan",,"female ego's older sister's daughter",,,"Dixon1983",""
+"fyZD","ga:bagan",,"female ego's younger sister's daughter",,,"Dixon1983",""
+"mFeB","bimu",,"male ego's father's older brother",,,"Dixon1983",""
+"mFeZ","bimu",,"male ego's father's older sister",,,"Dixon1983",""
+"mFyZ","bimu",,"male ego's father's younger sister",,,"Dixon1983",""
+"mMeZ","bimu",,"male ego's mother's older sister",,,"Dixon1983",""
+"mMyZ","bimu",,"male ego's mother's younger sister",,,"Dixon1983",""
+"fFeB","bimu",,"female ego's father's older brother",,,"Dixon1983",""
+"fFeZ","bimu",,"female ego's father's older sister",,,"Dixon1983",""
+"fFyZ","bimu",,"female ego's father's younger sister",,,"Dixon1983",""
+"fMeZ","bimu",,"female ego's mother's older sister",,,"Dixon1983",""
+"fMyZ","bimu",,"female ego's mother's younger sister",,,"Dixon1983",""
+"mWB","balɠin",,"male ego's wife's brother",,,"Dixon1983",""
+"fHZ","babi",,"female ego's husband's sister",,,"Dixon1983",""
+"fBW","babi",,"female ego's brother's wife",,,"Dixon1983",""
+"mZH","balɠin",,"male ego's sister's husband",,,"Dixon1983",""

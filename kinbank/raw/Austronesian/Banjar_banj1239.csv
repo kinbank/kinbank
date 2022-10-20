@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,kaka,ading,male ego's older brother,,,Palmer2000,
-myB,ading,kaka,male ego's younger brother,,,Palmer2000,
-feB,kaka,ading,female ego's older brother,,,Palmer2000,
-fyB,ading,kaka,female ego's younger brother,,,Palmer2000,
-meZ,kaka,ading,male ego's older sister,,,Palmer2000,
-myZ,ading,kaka,male ego's younger sister,,,Palmer2000,
-feZ,kaka,ading,female ego's older sister,,,Palmer2000,
-fyZ,ading,kaka,female ego's younger sister,,,Palmer2000,
-mF,abah,,male ego's father,,,Palmer2000,
-mM,uma,,male ego's mother,,,Palmer2000,
-fF,abah,,female ego's father,,,Palmer2000,
-fM,uma,,female ego's mother,,,Palmer2000,
-mS,anak,,male ego's son,,,Palmer2000,
-fS,anak,,female ego's son,,,Palmer2000,
-mD,anak,,male ego's daughter,,,Palmer2000,
-fD,anak,,female ego's daughter,,,Palmer2000,
-mSS,cucu,,male ego's son's son,,,Palmer2000,
-mSD,cucu,,male ego's son's daughter,,,Palmer2000,
-mDS,cucu,,male ego's daughter's son,,,Palmer2000,
-mDD,cucu,,male ego's daughter's daughter,,,Palmer2000,
-fSS,cucu,,female ego's son's son,,,Palmer2000,
-fSD,cucu,,female ego's son's daughter,,,Palmer2000,
-fDS,cucu,,female ego's daughter's son,,,Palmer2000,
-fDD,cucu,,female ego's daugher's daughter,,,Palmer2000,
-mFF,ka'i,,male ego's father‘s father,,,Palmer2000,
-mFM,nini,,male ego's father's mother,,,Palmer2000,
-mMF,ka'i,,male ego's mother's father,,,Palmer2000,
-mMM,nini,,male ego's mother's mother,,,Palmer2000,
-fFF,ka'i,,female ego's father's father,,,Palmer2000,
-fFM,nini,,female ego's father's mother,,,Palmer2000,
-fMF,ka'i,,female ego's mother's father,,,Palmer2000,
-fMM,nini,,female ego's mother's mother,,,Palmer2000,
-meBS,kemanakan,,male ego's older brother's son,,,Palmer2000,
-myBS,kemanakan,,male ego's younger brother's son,,,Palmer2000,
-meZS,kemanakan,,male ego's older sister's son,,,Palmer2000,
-myZS,kemanakan,,male ego's younger sister's son,,,Palmer2000,
-meBD,kemanakan,,male ego's older brother's daughter,,,Palmer2000,
-myBD,kemanakan,,male ego's younger brother's daughter,,,Palmer2000,
-meZD,kemanakan,,male ego's older sister's daughter,,,Palmer2000,
-myZD,kemanakan,,male ego's younger sister's daughter,,,Palmer2000,
-feBS,kemanakan,,female ego's older brother's son,,,Palmer2000,
-fyBS,kemanakan,,female ego's younger brother's son,,,Palmer2000,
-feZS,kemanakan,,female ego's older sister's son,,,Palmer2000,
-fyZS,kemanakan,,female ego's younger sister's son,,,Palmer2000,
-feBD,kemanakan,,female ego's older brother's daughter,,,Palmer2000,
-fyBD,kemanakan,,female ego's younger brother's daughter,,,Palmer2000,
-feZD,kemanakan,,female ego's older sister's daughter,,,Palmer2000,
-fyZD,kemanakan,,female ego's younger sister's daughter,,,Palmer2000,
-mFeB,dangsanak abah,,male ego's father's older brother,,,Palmer2000,
-mFyB,dangsanak abah,,male ego's father's younger brother,,,Palmer2000,
-mFeZ,dangsanak abah,,male ego's father's older sister,,,Palmer2000,
-mFyZ,dangsanak abah,,male ego's father's younger sister,,,Palmer2000,
-mMeB,dangsanak uma,,male ego's mother's older brother,,,Palmer2000,
-mMyB,dangsanak uma,,male ego's mother's younger brother,,,Palmer2000,
-mMeZ,dangsanak uma,,male ego's mother's older sister,,,Palmer2000,
-mMyZ,dangsanak uma,,male ego's mother's younger sister,,,Palmer2000,
-fFeB,dangsanak abah,,female ego's father's older brother,,,Palmer2000,
-fFyB,dangsanak abah,,female ego's father's younger brother,,,Palmer2000,
-fFeZ,dangsanak abah,,female ego's father's older sister,,,Palmer2000,
-fFyZ,dangsanak abah,,female ego's father's younger sister,,,Palmer2000,
-fMeB,dangsanak uma,,female ego's mother's older brother,,,Palmer2000,
-fMyB,dangsanak uma,,female ego's mother's younger brother,,,Palmer2000,
-fMeZ,dangsanak uma,,female ego's mother's older sister,,,Palmer2000,
-fMyZ,dangsanak uma,,female ego's mother's younger sister,,,Palmer2000,
-mW,bini,,male ego's wife,,,Palmer2000,
-fH,laki,,female ego‘s husband,,,Palmer2000,
-mDH,minantu,,male ego's daughter's husband,,,Palmer2000,
-fDH,minantu,,female ego's daughter's husband,,,Palmer2000,
-mSW,minantu,,male ego's son's wife,,,Palmer2000,
-fSW,minantu,,female ego's son's wife,,,Palmer2000,
-mWF,mintuha lalakian,,male ego's wife's father,,,Palmer2000,
-mWM,mintuha lalakian,,male ego's wife's mother,,,Palmer2000,
-mWB,"kaka ipar, ading ipar",,male ego's wife's brother,,,Palmer2000,
-mWZ,"kaka ipar, ading ipar",,male ego's wife's sister,,,Palmer2000,
-fHF,mintuha bibinian,,female ego's husband's father,,,Palmer2000,
-fHM,mintuha bibinian,,female ego's husband's mother,,,Palmer2000,
-fHB,"kaka ipar, ading ipar",,female ego's husband's brother,,,Palmer2000,
-fHZ,"kaka ipar, ading ipar",,female ego's husband's sister,,,Palmer2000,
-mBW,"kaka ipar, ading ipar",,male ego's brother's wife,,,Palmer2000,
-fBW,"kaka ipar, ading ipar",,female ego's brother's wife,,,Palmer2000,
-mZH,"kaka ipar, ading ipar",,male ego's sister's husband,,,Palmer2000,
-fZH,"kaka ipar, ading ipar",,female ego's sister's husband,,,Palmer2000,
-mFBS,"sapupu sekali, mamarina",,male ego's father's brother's son,,,Palmer2000,
-mFZS,"sapupu sekali, mamarina",,male ego's father's sister's son,,,Palmer2000,
-mMBS,"sapupu sekali, mamarina",,male ego's mother's brother's son,,,Palmer2000,
-mMZS,"sapupu sekali, mamarina",,male ego's mother's sister's son,,,Palmer2000,
-mFBD,"sapupu sekali, mamarina",,male ego's father's brother's daughter,,,Palmer2000,
-mFZD,"sapupu sekali, mamarina",,male ego's father's sister's daughter,,,Palmer2000,
-mMBD,"sapupu sekali, mamarina",,male ego's mother's brother's daughter,,,Palmer2000,
-mMZD,"sapupu sekali, mamarina",,male ego's mother's sister's daughter,,,Palmer2000,
-fFBS,"sapupu sekali, mamarina",,female ego's father's brother's son,,,Palmer2000,
-fFZS,"sapupu sekali, mamarina",,female ego's father's sister's son,,,Palmer2000,
-fMBS,"sapupu sekali, mamarina",,female ego's mother's brother's son,,,Palmer2000,
-fMZS,"sapupu sekali, mamarina",,female ego's mother's sister's son,,,Palmer2000,
-fFBD,"sapupu sekali, mamarina",,female ego's father's brother's daughter,,,Palmer2000,
-fFZD,"sapupu sekali, mamarina",,female ego's father's sister's daughter,,,Palmer2000,
-fMBD,"sapupu sekali, mamarina",,female ego's mother's brother's daughter,,,Palmer2000,
-fMZD,"sapupu sekali, mamarina",,female ego's mother's sister's daughter,,,Palmer2000,
-mFeBS,"sapupu sekali, mamarina",,male ego's father's brother's son,,,Palmer2000,Inferred; NA
-mFyBS,"sapupu sekali, mamarina",,male ego's father's brother's son,,,Palmer2000,Inferred; NA
-mFeZS,"sapupu sekali, mamarina",,male ego's father's sister's son,,,Palmer2000,Inferred; NA
-mFyZS,"sapupu sekali, mamarina",,male ego's father's sister's son,,,Palmer2000,Inferred; NA
-mFeBD,"sapupu sekali, mamarina",,male ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-mFyBD,"sapupu sekali, mamarina",,male ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-mFeZD,"sapupu sekali, mamarina",,male ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-mFyZD,"sapupu sekali, mamarina",,male ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-mMeBS,"sapupu sekali, mamarina",,male ego's mother's brother's son,,,Palmer2000,Inferred; NA
-mMyBS,"sapupu sekali, mamarina",,male ego's mother's brother's son,,,Palmer2000,Inferred; NA
-mMeZS,"sapupu sekali, mamarina",,male ego's mother's sister's son,,,Palmer2000,Inferred; NA
-mMyZS,"sapupu sekali, mamarina",,male ego's mother's sister's son,,,Palmer2000,Inferred; NA
-mMeBD,"sapupu sekali, mamarina",,male ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-mMyBD,"sapupu sekali, mamarina",,male ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-mMeZD,"sapupu sekali, mamarina",,male ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-mMyZD,"sapupu sekali, mamarina",,male ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-mFBeS,"sapupu sekali, mamarina",,male ego's father's brother's son,,,Palmer2000,Inferred; NA
-mFByS,"sapupu sekali, mamarina",,male ego's father's brother's son,,,Palmer2000,Inferred; NA
-mFZeS,"sapupu sekali, mamarina",,male ego's father's sister's son,,,Palmer2000,Inferred; NA
-mFZyS,"sapupu sekali, mamarina",,male ego's father's sister's son,,,Palmer2000,Inferred; NA
-mFBeD,"sapupu sekali, mamarina",,male ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-mFByD,"sapupu sekali, mamarina",,male ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-mFZeD,"sapupu sekali, mamarina",,male ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-mFZyD,"sapupu sekali, mamarina",,male ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-mMBeS,"sapupu sekali, mamarina",,male ego's mother's brother's son,,,Palmer2000,Inferred; NA
-mMByS,"sapupu sekali, mamarina",,male ego's mother's brother's son,,,Palmer2000,Inferred; NA
-mMZeS,"sapupu sekali, mamarina",,male ego's mother's sister's son,,,Palmer2000,Inferred; NA
-mMZyS,"sapupu sekali, mamarina",,male ego's mother's sister's son,,,Palmer2000,Inferred; NA
-mMBeD,"sapupu sekali, mamarina",,male ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-mMByD,"sapupu sekali, mamarina",,male ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-mMZeD,"sapupu sekali, mamarina",,male ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-mMZyD,"sapupu sekali, mamarina",,male ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-fFeBS,"sapupu sekali, mamarina",,female ego's father's brother's son,,,Palmer2000,Inferred; NA
-fFyBS,"sapupu sekali, mamarina",,female ego's father's brother's son,,,Palmer2000,Inferred; NA
-fFeZS,"sapupu sekali, mamarina",,female ego's father's sister's son,,,Palmer2000,Inferred; NA
-fFyZS,"sapupu sekali, mamarina",,female ego's father's sister's son,,,Palmer2000,Inferred; NA
-fFeBD,"sapupu sekali, mamarina",,female ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-fFyBD,"sapupu sekali, mamarina",,female ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-fFeZD,"sapupu sekali, mamarina",,female ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-fFyZD,"sapupu sekali, mamarina",,female ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-fMeBS,"sapupu sekali, mamarina",,female ego's mother's brother's son,,,Palmer2000,Inferred; NA
-fMyBS,"sapupu sekali, mamarina",,female ego's mother's brother's son,,,Palmer2000,Inferred; NA
-fMeZS,"sapupu sekali, mamarina",,female ego's mother's sister's son,,,Palmer2000,Inferred; NA
-fMyZS,"sapupu sekali, mamarina",,female ego's mother's sister's son,,,Palmer2000,Inferred; NA
-fMeBD,"sapupu sekali, mamarina",,female ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-fMyBD,"sapupu sekali, mamarina",,female ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-fMeZD,"sapupu sekali, mamarina",,female ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-fMyZD,"sapupu sekali, mamarina",,female ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-fFBeS,"sapupu sekali, mamarina",,female ego's father's brother's son,,,Palmer2000,Inferred; NA
-fFByS,"sapupu sekali, mamarina",,female ego's father's brother's son,,,Palmer2000,Inferred; NA
-fFZeS,"sapupu sekali, mamarina",,female ego's father's sister's son,,,Palmer2000,Inferred; NA
-fFZyS,"sapupu sekali, mamarina",,female ego's father's sister's son,,,Palmer2000,Inferred; NA
-fFBeD,"sapupu sekali, mamarina",,female ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-fFByD,"sapupu sekali, mamarina",,female ego's father's brother's daughter,,,Palmer2000,Inferred; NA
-fFZeD,"sapupu sekali, mamarina",,female ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-fFZyD,"sapupu sekali, mamarina",,female ego's father's sister's daughter,,,Palmer2000,Inferred; NA
-fMBeS,"sapupu sekali, mamarina",,female ego's mother's brother's son,,,Palmer2000,Inferred; NA
-fMByS,"sapupu sekali, mamarina",,female ego's mother's brother's son,,,Palmer2000,Inferred; NA
-fMZeS,"sapupu sekali, mamarina",,female ego's mother's sister's son,,,Palmer2000,Inferred; NA
-fMZyS,"sapupu sekali, mamarina",,female ego's mother's sister's son,,,Palmer2000,Inferred; NA
-fMBeD,"sapupu sekali, mamarina",,female ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-fMByD,"sapupu sekali, mamarina",,female ego's mother's brother's daughter,,,Palmer2000,Inferred; NA
-fMZeD,"sapupu sekali, mamarina",,female ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
-fMZyD,"sapupu sekali, mamarina",,female ego's mother's sister's daughter,,,Palmer2000,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kaka","ading","male ego's older brother",,,"Palmer2000",""
+"myB","ading","kaka","male ego's younger brother",,,"Palmer2000",""
+"feB","kaka","ading","female ego's older brother",,,"Palmer2000",""
+"fyB","ading","kaka","female ego's younger brother",,,"Palmer2000",""
+"meZ","kaka","ading","male ego's older sister",,,"Palmer2000",""
+"myZ","ading","kaka","male ego's younger sister",,,"Palmer2000",""
+"feZ","kaka","ading","female ego's older sister",,,"Palmer2000",""
+"fyZ","ading","kaka","female ego's younger sister",,,"Palmer2000",""
+"mF","abah","","male ego's father",,,"Palmer2000",""
+"mM","uma","","male ego's mother",,,"Palmer2000",""
+"fF","abah","","female ego's father",,,"Palmer2000",""
+"fM","uma","","female ego's mother",,,"Palmer2000",""
+"mS","anak","","male ego's son",,,"Palmer2000",""
+"fS","anak","","female ego's son",,,"Palmer2000",""
+"mD","anak","","male ego's daughter",,,"Palmer2000",""
+"fD","anak","","female ego's daughter",,,"Palmer2000",""
+"mSS","cucu","","male ego's son's son",,,"Palmer2000",""
+"mSD","cucu","","male ego's son's daughter",,,"Palmer2000",""
+"mDS","cucu","","male ego's daughter's son",,,"Palmer2000",""
+"mDD","cucu","","male ego's daughter's daughter",,,"Palmer2000",""
+"fSS","cucu","","female ego's son's son",,,"Palmer2000",""
+"fSD","cucu","","female ego's son's daughter",,,"Palmer2000",""
+"fDS","cucu","","female ego's daughter's son",,,"Palmer2000",""
+"fDD","cucu","","female ego's daugher's daughter",,,"Palmer2000",""
+"mFF","ka'i","","male ego's father‘s father",,,"Palmer2000",""
+"mFM","nini","","male ego's father's mother",,,"Palmer2000",""
+"mMF","ka'i","","male ego's mother's father",,,"Palmer2000",""
+"mMM","nini","","male ego's mother's mother",,,"Palmer2000",""
+"fFF","ka'i","","female ego's father's father",,,"Palmer2000",""
+"fFM","nini","","female ego's father's mother",,,"Palmer2000",""
+"fMF","ka'i","","female ego's mother's father",,,"Palmer2000",""
+"fMM","nini","","female ego's mother's mother",,,"Palmer2000",""
+"meBS","kemanakan","","male ego's older brother's son",,,"Palmer2000",""
+"myBS","kemanakan","","male ego's younger brother's son",,,"Palmer2000",""
+"meZS","kemanakan","","male ego's older sister's son",,,"Palmer2000",""
+"myZS","kemanakan","","male ego's younger sister's son",,,"Palmer2000",""
+"meBD","kemanakan","","male ego's older brother's daughter",,,"Palmer2000",""
+"myBD","kemanakan","","male ego's younger brother's daughter",,,"Palmer2000",""
+"meZD","kemanakan","","male ego's older sister's daughter",,,"Palmer2000",""
+"myZD","kemanakan","","male ego's younger sister's daughter",,,"Palmer2000",""
+"feBS","kemanakan","","female ego's older brother's son",,,"Palmer2000",""
+"fyBS","kemanakan","","female ego's younger brother's son",,,"Palmer2000",""
+"feZS","kemanakan","","female ego's older sister's son",,,"Palmer2000",""
+"fyZS","kemanakan","","female ego's younger sister's son",,,"Palmer2000",""
+"feBD","kemanakan","","female ego's older brother's daughter",,,"Palmer2000",""
+"fyBD","kemanakan","","female ego's younger brother's daughter",,,"Palmer2000",""
+"feZD","kemanakan","","female ego's older sister's daughter",,,"Palmer2000",""
+"fyZD","kemanakan","","female ego's younger sister's daughter",,,"Palmer2000",""
+"mFeB","dangsanak abah","","male ego's father's older brother",,,"Palmer2000",""
+"mFyB","dangsanak abah","","male ego's father's younger brother",,,"Palmer2000",""
+"mFeZ","dangsanak abah","","male ego's father's older sister",,,"Palmer2000",""
+"mFyZ","dangsanak abah","","male ego's father's younger sister",,,"Palmer2000",""
+"mMeB","dangsanak uma","","male ego's mother's older brother",,,"Palmer2000",""
+"mMyB","dangsanak uma","","male ego's mother's younger brother",,,"Palmer2000",""
+"mMeZ","dangsanak uma","","male ego's mother's older sister",,,"Palmer2000",""
+"mMyZ","dangsanak uma","","male ego's mother's younger sister",,,"Palmer2000",""
+"fFeB","dangsanak abah","","female ego's father's older brother",,,"Palmer2000",""
+"fFyB","dangsanak abah","","female ego's father's younger brother",,,"Palmer2000",""
+"fFeZ","dangsanak abah","","female ego's father's older sister",,,"Palmer2000",""
+"fFyZ","dangsanak abah","","female ego's father's younger sister",,,"Palmer2000",""
+"fMeB","dangsanak uma","","female ego's mother's older brother",,,"Palmer2000",""
+"fMyB","dangsanak uma","","female ego's mother's younger brother",,,"Palmer2000",""
+"fMeZ","dangsanak uma","","female ego's mother's older sister",,,"Palmer2000",""
+"fMyZ","dangsanak uma","","female ego's mother's younger sister",,,"Palmer2000",""
+"mW","bini","","male ego's wife",,,"Palmer2000",""
+"fH","laki","","female ego‘s husband",,,"Palmer2000",""
+"mDH","minantu","","male ego's daughter's husband",,,"Palmer2000",""
+"fDH","minantu","","female ego's daughter's husband",,,"Palmer2000",""
+"mSW","minantu","","male ego's son's wife",,,"Palmer2000",""
+"fSW","minantu","","female ego's son's wife",,,"Palmer2000",""
+"mWF","mintuha lalakian","","male ego's wife's father",,,"Palmer2000",""
+"mWM","mintuha lalakian","","male ego's wife's mother",,,"Palmer2000",""
+"mWB","kaka ipar, ading ipar","","male ego's wife's brother",,,"Palmer2000",""
+"mWZ","kaka ipar, ading ipar","","male ego's wife's sister",,,"Palmer2000",""
+"fHF","mintuha bibinian","","female ego's husband's father",,,"Palmer2000",""
+"fHM","mintuha bibinian","","female ego's husband's mother",,,"Palmer2000",""
+"fHB","kaka ipar, ading ipar","","female ego's husband's brother",,,"Palmer2000",""
+"fHZ","kaka ipar, ading ipar","","female ego's husband's sister",,,"Palmer2000",""
+"mBW","kaka ipar, ading ipar","","male ego's brother's wife",,,"Palmer2000",""
+"fBW","kaka ipar, ading ipar","","female ego's brother's wife",,,"Palmer2000",""
+"mZH","kaka ipar, ading ipar","","male ego's sister's husband",,,"Palmer2000",""
+"fZH","kaka ipar, ading ipar","","female ego's sister's husband",,,"Palmer2000",""
+"mFBS","sapupu sekali, mamarina","","male ego's father's brother's son",,,"Palmer2000",""
+"mFZS","sapupu sekali, mamarina","","male ego's father's sister's son",,,"Palmer2000",""
+"mMBS","sapupu sekali, mamarina","","male ego's mother's brother's son",,,"Palmer2000",""
+"mMZS","sapupu sekali, mamarina","","male ego's mother's sister's son",,,"Palmer2000",""
+"mFBD","sapupu sekali, mamarina","","male ego's father's brother's daughter",,,"Palmer2000",""
+"mFZD","sapupu sekali, mamarina","","male ego's father's sister's daughter",,,"Palmer2000",""
+"mMBD","sapupu sekali, mamarina","","male ego's mother's brother's daughter",,,"Palmer2000",""
+"mMZD","sapupu sekali, mamarina","","male ego's mother's sister's daughter",,,"Palmer2000",""
+"fFBS","sapupu sekali, mamarina","","female ego's father's brother's son",,,"Palmer2000",""
+"fFZS","sapupu sekali, mamarina","","female ego's father's sister's son",,,"Palmer2000",""
+"fMBS","sapupu sekali, mamarina","","female ego's mother's brother's son",,,"Palmer2000",""
+"fMZS","sapupu sekali, mamarina","","female ego's mother's sister's son",,,"Palmer2000",""
+"fFBD","sapupu sekali, mamarina","","female ego's father's brother's daughter",,,"Palmer2000",""
+"fFZD","sapupu sekali, mamarina","","female ego's father's sister's daughter",,,"Palmer2000",""
+"fMBD","sapupu sekali, mamarina","","female ego's mother's brother's daughter",,,"Palmer2000",""
+"fMZD","sapupu sekali, mamarina","","female ego's mother's sister's daughter",,,"Palmer2000",""
+"mFeBS","sapupu sekali, mamarina","","male ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"mFyBS","sapupu sekali, mamarina","","male ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"mFeZS","sapupu sekali, mamarina","","male ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"mFyZS","sapupu sekali, mamarina","","male ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"mFeBD","sapupu sekali, mamarina","","male ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mFyBD","sapupu sekali, mamarina","","male ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mFeZD","sapupu sekali, mamarina","","male ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mFyZD","sapupu sekali, mamarina","","male ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mMeBS","sapupu sekali, mamarina","","male ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"mMyBS","sapupu sekali, mamarina","","male ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"mMeZS","sapupu sekali, mamarina","","male ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"mMyZS","sapupu sekali, mamarina","","male ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"mMeBD","sapupu sekali, mamarina","","male ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mMyBD","sapupu sekali, mamarina","","male ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mMeZD","sapupu sekali, mamarina","","male ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mMyZD","sapupu sekali, mamarina","","male ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mFBeS","sapupu sekali, mamarina","","male ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"mFByS","sapupu sekali, mamarina","","male ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"mFZeS","sapupu sekali, mamarina","","male ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"mFZyS","sapupu sekali, mamarina","","male ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"mFBeD","sapupu sekali, mamarina","","male ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mFByD","sapupu sekali, mamarina","","male ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mFZeD","sapupu sekali, mamarina","","male ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mFZyD","sapupu sekali, mamarina","","male ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mMBeS","sapupu sekali, mamarina","","male ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"mMByS","sapupu sekali, mamarina","","male ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"mMZeS","sapupu sekali, mamarina","","male ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"mMZyS","sapupu sekali, mamarina","","male ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"mMBeD","sapupu sekali, mamarina","","male ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mMByD","sapupu sekali, mamarina","","male ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"mMZeD","sapupu sekali, mamarina","","male ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"mMZyD","sapupu sekali, mamarina","","male ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fFeBS","sapupu sekali, mamarina","","female ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"fFyBS","sapupu sekali, mamarina","","female ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"fFeZS","sapupu sekali, mamarina","","female ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"fFyZS","sapupu sekali, mamarina","","female ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"fFeBD","sapupu sekali, mamarina","","female ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fFyBD","sapupu sekali, mamarina","","female ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fFeZD","sapupu sekali, mamarina","","female ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fFyZD","sapupu sekali, mamarina","","female ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fMeBS","sapupu sekali, mamarina","","female ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"fMyBS","sapupu sekali, mamarina","","female ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"fMeZS","sapupu sekali, mamarina","","female ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"fMyZS","sapupu sekali, mamarina","","female ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"fMeBD","sapupu sekali, mamarina","","female ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fMyBD","sapupu sekali, mamarina","","female ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fMeZD","sapupu sekali, mamarina","","female ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fMyZD","sapupu sekali, mamarina","","female ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fFBeS","sapupu sekali, mamarina","","female ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"fFByS","sapupu sekali, mamarina","","female ego's father's brother's son",,,"Palmer2000","Inferred; NA"
+"fFZeS","sapupu sekali, mamarina","","female ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"fFZyS","sapupu sekali, mamarina","","female ego's father's sister's son",,,"Palmer2000","Inferred; NA"
+"fFBeD","sapupu sekali, mamarina","","female ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fFByD","sapupu sekali, mamarina","","female ego's father's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fFZeD","sapupu sekali, mamarina","","female ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fFZyD","sapupu sekali, mamarina","","female ego's father's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fMBeS","sapupu sekali, mamarina","","female ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"fMByS","sapupu sekali, mamarina","","female ego's mother's brother's son",,,"Palmer2000","Inferred; NA"
+"fMZeS","sapupu sekali, mamarina","","female ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"fMZyS","sapupu sekali, mamarina","","female ego's mother's sister's son",,,"Palmer2000","Inferred; NA"
+"fMBeD","sapupu sekali, mamarina","","female ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fMByD","sapupu sekali, mamarina","","female ego's mother's brother's daughter",,,"Palmer2000","Inferred; NA"
+"fMZeD","sapupu sekali, mamarina","","female ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"
+"fMZyD","sapupu sekali, mamarina","","female ego's mother's sister's daughter",,,"Palmer2000","Inferred; NA"

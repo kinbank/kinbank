@@ -1,161 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,io',,male ego's older brother,,,Goudswaard2005,
-myB,ai',,male ego's younger brother,,,Goudswaard2005,
-feB,io',,female ego's older brother,,,Goudswaard2005,
-fyB,ai',,female ego's younger brother,,,Goudswaard2005,
-meZ,io',,male ego's older sister,,,Goudswaard2005,
-myZ,ai',,male ego's younger sister,,,Goudswaard2005,
-feZ,io',,female ego's older sister,,,Goudswaard2005,
-fyZ,ai',,female ego's younger sister,,,Goudswaard2005,
-mF,ama',,male ego's father,,,Goudswaard2005,
-mM,ina',,male ego's mother,,,Goudswaard2005,
-fF,ama',,female ego's father,,,Goudswaard2005,
-fM,ina',,female ego's mother,,,Goudswaard2005,
-mS,anak,,male ego's son,,,Goudswaard2005,
-fS,anak,,female ego's son,,,Goudswaard2005,
-mD,anak,,male ego's daughter,,,Goudswaard2005,
-fD,anak,,female ego's daughter,,,Goudswaard2005,
-mSS,anak-anak,,male ego's son's son,,,Goudswaard2005,
-mSD,anak-anak,,male ego's son's daughter,,,Goudswaard2005,
-mDS,anak-anak,,male ego's daughter's son,,,Goudswaard2005,
-mDD,anak-anak,,male ego's daughter's daughter,,,Goudswaard2005,
-fSS,anak-anak,,female ego's son's son,,,Goudswaard2005,
-fSD,anak-anak,,female ego's son's daughter,,,Goudswaard2005,
-fDS,anak-anak,,female ego's daughter's son,,,Goudswaard2005,
-fDD,anak-anak,,female ego's daugher's daughter,,,Goudswaard2005,
-mFF,inni',,male ego's father‘s father,,,Goudswaard2005,
-mFM,inni',,male ego's father's mother,,,Goudswaard2005,
-mMF,inni',,male ego's mother's father,,,Goudswaard2005,
-mMM,inni',,male ego's mother's mother,,,Goudswaard2005,
-fFF,inni',,female ego's father's father,,,Goudswaard2005,
-fFM,inni',,female ego's father's mother,,,Goudswaard2005,
-fMF,inni',,female ego's mother's father,,,Goudswaard2005,
-fMM,inni',,female ego's mother's mother,,,Goudswaard2005,
-meBS,anak,,male ego's older brother's son,,,Goudswaard2005,
-myBS,anak,,male ego's younger brother's son,,,Goudswaard2005,
-meZS,anak,,male ego's older sister's son,,,Goudswaard2005,
-myZS,anak,,male ego's younger sister's son,,,Goudswaard2005,
-meBD,anak,,male ego's older brother's daughter,,,Goudswaard2005,
-myBD,anak,,male ego's younger brother's daughter,,,Goudswaard2005,
-meZD,anak,,male ego's older sister's daughter,,,Goudswaard2005,
-myZD,anak,,male ego's younger sister's daughter,,,Goudswaard2005,
-feBS,anak,,female ego's older brother's son,,,Goudswaard2005,
-fyBS,anak,,female ego's younger brother's son,,,Goudswaard2005,
-feZS,anak,,female ego's older sister's son,,,Goudswaard2005,
-fyZS,anak,,female ego's younger sister's son,,,Goudswaard2005,
-feBD,anak,,female ego's older brother's daughter,,,Goudswaard2005,
-fyBD,anak,,female ego's younger brother's daughter,,,Goudswaard2005,
-feZD,anak,,female ego's older sister's daughter,,,Goudswaard2005,
-fyZD,anak,,female ego's younger sister's daughter,,,Goudswaard2005,
-mFeB,kamman,,male ego's father's older brother,,,Goudswaard2005,
-mFyB,kamman,,male ego's father's younger brother,,,Goudswaard2005,
-mFeZ,minan,,male ego's father's older sister,,,Goudswaard2005,
-mFyZ,minan,,male ego's father's younger sister,,,Goudswaard2005,
-mMeB,kamman,,male ego's mother's older brother,,,Goudswaard2005,
-mMyB,kamman,,male ego's mother's younger brother,,,Goudswaard2005,
-mMeZ,minan,,male ego's mother's older sister,,,Goudswaard2005,
-mMyZ,minan,,male ego's mother's younger sister,,,Goudswaard2005,
-fFeB,kamman,,female ego's father's older brother,,,Goudswaard2005,
-fFyB,kamman,,female ego's father's younger brother,,,Goudswaard2005,
-fFeZ,minan,,female ego's father's older sister,,,Goudswaard2005,
-fFyZ,minan,,female ego's father's younger sister,,,Goudswaard2005,
-fMeB,kamman,,female ego's mother's older brother,,,Goudswaard2005,
-fMyB,kamman,,female ego's mother's younger brother,,,Goudswaard2005,
-fMeZ,minan,,female ego's mother's older sister,,,Goudswaard2005,
-fMyZ,minan,,female ego's mother's younger sister,,,Goudswaard2005,
-mDH,tamong,,male ego's daughter's husband,,,Goudswaard2005,
-fDH,tamong,,female ego's daughter's husband,,,Goudswaard2005,
-mSW,tamong,,male ego's son's wife,,,Goudswaard2005,
-fSW,tamong,,female ego's son's wife,,,Goudswaard2005,
-mWF,tamong,,male ego's wife's father,,,Goudswaard2005,
-mWM,tamong,,male ego's wife's mother,,,Goudswaard2005,
-mWB,langu,,male ego's wife's brother,,,Goudswaard2005,
-mWZ,langu,,male ego's wife's sister,,,Goudswaard2005,
-fHF,tamong,,female ego's husband's father,,,Goudswaard2005,
-fHM,tamong,,female ego's husband's mother,,,Goudswaard2005,
-fHB,langu,,female ego's husband's brother,,,Goudswaard2005,
-fHZ,langu,,female ego's husband's sister,,,Goudswaard2005,
-mBW,langu,,male ego's brother's wife,,,Goudswaard2005,
-fBW,langu,,female ego's brother's wife,,,Goudswaard2005,
-mZH,langu,,male ego's sister's husband,,,Goudswaard2005,
-fZH,langu,,female ego's sister's husband,,,Goudswaard2005,
-mFBS,ganak,,male ego's father's brother's son,,,Goudswaard2005,
-mFZS,ganak,,male ego's father's sister's son,,,Goudswaard2005,
-mMBS,ganak,,male ego's mother's brother's son,,,Goudswaard2005,
-mMZS,ganak,,male ego's mother's sister's son,,,Goudswaard2005,
-mFBD,ganak,,male ego's father's brother's daughter,,,Goudswaard2005,
-mFZD,ganak,,male ego's father's sister's daughter,,,Goudswaard2005,
-mMBD,ganak,,male ego's mother's brother's daughter,,,Goudswaard2005,
-mMZD,ganak,,male ego's mother's sister's daughter,,,Goudswaard2005,
-fFBS,ganak,,female ego's father's brother's son,,,Goudswaard2005,
-fFZS,ganak,,female ego's father's sister's son,,,Goudswaard2005,
-fMBS,ganak,,female ego's mother's brother's son,,,Goudswaard2005,
-fMZS,ganak,,female ego's mother's sister's son,,,Goudswaard2005,
-fFBD,ganak,,female ego's father's brother's daughter,,,Goudswaard2005,
-fFZD,ganak,,female ego's father's sister's daughter,,,Goudswaard2005,
-fMBD,ganak,,female ego's mother's brother's daughter,,,Goudswaard2005,
-fMZD,ganak,,female ego's mother's sister's daughter,,,Goudswaard2005,
-mFeBS,ganak,,male ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-mFyBS,ganak,,male ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-mFeZS,ganak,,male ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-mFyZS,ganak,,male ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-mFeBD,ganak,,male ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-mFyBD,ganak,,male ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-mFeZD,ganak,,male ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-mFyZD,ganak,,male ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-mMeBS,ganak,,male ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-mMyBS,ganak,,male ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-mMeZS,ganak,,male ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-mMyZS,ganak,,male ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-mMeBD,ganak,,male ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-mMyBD,ganak,,male ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-mMeZD,ganak,,male ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-mMyZD,ganak,,male ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-mFBeS,ganak,,male ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-mFByS,ganak,,male ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-mFZeS,ganak,,male ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-mFZyS,ganak,,male ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-mFBeD,ganak,,male ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-mFByD,ganak,,male ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-mFZeD,ganak,,male ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-mFZyD,ganak,,male ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-mMBeS,ganak,,male ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-mMByS,ganak,,male ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-mMZeS,ganak,,male ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-mMZyS,ganak,,male ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-mMBeD,ganak,,male ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-mMByD,ganak,,male ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-mMZeD,ganak,,male ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-mMZyD,ganak,,male ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-fFeBS,ganak,,female ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-fFyBS,ganak,,female ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-fFeZS,ganak,,female ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-fFyZS,ganak,,female ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-fFeBD,ganak,,female ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-fFyBD,ganak,,female ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-fFeZD,ganak,,female ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-fFyZD,ganak,,female ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-fMeBS,ganak,,female ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-fMyBS,ganak,,female ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-fMeZS,ganak,,female ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-fMyZS,ganak,,female ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-fMeBD,ganak,,female ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-fMyBD,ganak,,female ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-fMeZD,ganak,,female ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-fMyZD,ganak,,female ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-fFBeS,ganak,,female ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-fFByS,ganak,,female ego's father's brother's son,,,Goudswaard2005,Inferred; NA
-fFZeS,ganak,,female ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-fFZyS,ganak,,female ego's father's sister's son,,,Goudswaard2005,Inferred; NA
-fFBeD,ganak,,female ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-fFByD,ganak,,female ego's father's brother's daughter,,,Goudswaard2005,Inferred; NA
-fFZeD,ganak,,female ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-fFZyD,ganak,,female ego's father's sister's daughter,,,Goudswaard2005,Inferred; NA
-fMBeS,ganak,,female ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-fMByS,ganak,,female ego's mother's brother's son,,,Goudswaard2005,Inferred; NA
-fMZeS,ganak,,female ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-fMZyS,ganak,,female ego's mother's sister's son,,,Goudswaard2005,Inferred; NA
-fMBeD,ganak,,female ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-fMByD,ganak,,female ego's mother's brother's daughter,,,Goudswaard2005,Inferred; NA
-fMZeD,ganak,,female ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
-fMZyD,ganak,,female ego's mother's sister's daughter,,,Goudswaard2005,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","io'",,"male ego's older brother",,,"Goudswaard2005",""
+"myB","ai'",,"male ego's younger brother",,,"Goudswaard2005",""
+"feB","io'",,"female ego's older brother",,,"Goudswaard2005",""
+"fyB","ai'",,"female ego's younger brother",,,"Goudswaard2005",""
+"meZ","io'",,"male ego's older sister",,,"Goudswaard2005",""
+"myZ","ai'",,"male ego's younger sister",,,"Goudswaard2005",""
+"feZ","io'",,"female ego's older sister",,,"Goudswaard2005",""
+"fyZ","ai'",,"female ego's younger sister",,,"Goudswaard2005",""
+"mF","ama'",,"male ego's father",,,"Goudswaard2005",""
+"mM","ina'",,"male ego's mother",,,"Goudswaard2005",""
+"fF","ama'",,"female ego's father",,,"Goudswaard2005",""
+"fM","ina'",,"female ego's mother",,,"Goudswaard2005",""
+"mS","anak",,"male ego's son",,,"Goudswaard2005",""
+"fS","anak",,"female ego's son",,,"Goudswaard2005",""
+"mD","anak",,"male ego's daughter",,,"Goudswaard2005",""
+"fD","anak",,"female ego's daughter",,,"Goudswaard2005",""
+"mSS","anak-anak",,"male ego's son's son",,,"Goudswaard2005",""
+"mSD","anak-anak",,"male ego's son's daughter",,,"Goudswaard2005",""
+"mDS","anak-anak",,"male ego's daughter's son",,,"Goudswaard2005",""
+"mDD","anak-anak",,"male ego's daughter's daughter",,,"Goudswaard2005",""
+"fSS","anak-anak",,"female ego's son's son",,,"Goudswaard2005",""
+"fSD","anak-anak",,"female ego's son's daughter",,,"Goudswaard2005",""
+"fDS","anak-anak",,"female ego's daughter's son",,,"Goudswaard2005",""
+"fDD","anak-anak",,"female ego's daugher's daughter",,,"Goudswaard2005",""
+"mFF","inni'",,"male ego's father‘s father",,,"Goudswaard2005",""
+"mFM","inni'",,"male ego's father's mother",,,"Goudswaard2005",""
+"mMF","inni'",,"male ego's mother's father",,,"Goudswaard2005",""
+"mMM","inni'",,"male ego's mother's mother",,,"Goudswaard2005",""
+"fFF","inni'",,"female ego's father's father",,,"Goudswaard2005",""
+"fFM","inni'",,"female ego's father's mother",,,"Goudswaard2005",""
+"fMF","inni'",,"female ego's mother's father",,,"Goudswaard2005",""
+"fMM","inni'",,"female ego's mother's mother",,,"Goudswaard2005",""
+"meBS","anak",,"male ego's older brother's son",,,"Goudswaard2005",""
+"myBS","anak",,"male ego's younger brother's son",,,"Goudswaard2005",""
+"meZS","anak",,"male ego's older sister's son",,,"Goudswaard2005",""
+"myZS","anak",,"male ego's younger sister's son",,,"Goudswaard2005",""
+"meBD","anak",,"male ego's older brother's daughter",,,"Goudswaard2005",""
+"myBD","anak",,"male ego's younger brother's daughter",,,"Goudswaard2005",""
+"meZD","anak",,"male ego's older sister's daughter",,,"Goudswaard2005",""
+"myZD","anak",,"male ego's younger sister's daughter",,,"Goudswaard2005",""
+"feBS","anak",,"female ego's older brother's son",,,"Goudswaard2005",""
+"fyBS","anak",,"female ego's younger brother's son",,,"Goudswaard2005",""
+"feZS","anak",,"female ego's older sister's son",,,"Goudswaard2005",""
+"fyZS","anak",,"female ego's younger sister's son",,,"Goudswaard2005",""
+"feBD","anak",,"female ego's older brother's daughter",,,"Goudswaard2005",""
+"fyBD","anak",,"female ego's younger brother's daughter",,,"Goudswaard2005",""
+"feZD","anak",,"female ego's older sister's daughter",,,"Goudswaard2005",""
+"fyZD","anak",,"female ego's younger sister's daughter",,,"Goudswaard2005",""
+"mFeB","kamman",,"male ego's father's older brother",,,"Goudswaard2005",""
+"mFyB","kamman",,"male ego's father's younger brother",,,"Goudswaard2005",""
+"mFeZ","minan",,"male ego's father's older sister",,,"Goudswaard2005",""
+"mFyZ","minan",,"male ego's father's younger sister",,,"Goudswaard2005",""
+"mMeB","kamman",,"male ego's mother's older brother",,,"Goudswaard2005",""
+"mMyB","kamman",,"male ego's mother's younger brother",,,"Goudswaard2005",""
+"mMeZ","minan",,"male ego's mother's older sister",,,"Goudswaard2005",""
+"mMyZ","minan",,"male ego's mother's younger sister",,,"Goudswaard2005",""
+"fFeB","kamman",,"female ego's father's older brother",,,"Goudswaard2005",""
+"fFyB","kamman",,"female ego's father's younger brother",,,"Goudswaard2005",""
+"fFeZ","minan",,"female ego's father's older sister",,,"Goudswaard2005",""
+"fFyZ","minan",,"female ego's father's younger sister",,,"Goudswaard2005",""
+"fMeB","kamman",,"female ego's mother's older brother",,,"Goudswaard2005",""
+"fMyB","kamman",,"female ego's mother's younger brother",,,"Goudswaard2005",""
+"fMeZ","minan",,"female ego's mother's older sister",,,"Goudswaard2005",""
+"fMyZ","minan",,"female ego's mother's younger sister",,,"Goudswaard2005",""
+"mDH","tamong",,"male ego's daughter's husband",,,"Goudswaard2005",""
+"fDH","tamong",,"female ego's daughter's husband",,,"Goudswaard2005",""
+"mSW","tamong",,"male ego's son's wife",,,"Goudswaard2005",""
+"fSW","tamong",,"female ego's son's wife",,,"Goudswaard2005",""
+"mWF","tamong",,"male ego's wife's father",,,"Goudswaard2005",""
+"mWM","tamong",,"male ego's wife's mother",,,"Goudswaard2005",""
+"mWB","langu",,"male ego's wife's brother",,,"Goudswaard2005",""
+"mWZ","langu",,"male ego's wife's sister",,,"Goudswaard2005",""
+"fHF","tamong",,"female ego's husband's father",,,"Goudswaard2005",""
+"fHM","tamong",,"female ego's husband's mother",,,"Goudswaard2005",""
+"fHB","langu",,"female ego's husband's brother",,,"Goudswaard2005",""
+"fHZ","langu",,"female ego's husband's sister",,,"Goudswaard2005",""
+"mBW","langu",,"male ego's brother's wife",,,"Goudswaard2005",""
+"fBW","langu",,"female ego's brother's wife",,,"Goudswaard2005",""
+"mZH","langu",,"male ego's sister's husband",,,"Goudswaard2005",""
+"fZH","langu",,"female ego's sister's husband",,,"Goudswaard2005",""
+"mFBS","ganak",,"male ego's father's brother's son",,,"Goudswaard2005",""
+"mFZS","ganak",,"male ego's father's sister's son",,,"Goudswaard2005",""
+"mMBS","ganak",,"male ego's mother's brother's son",,,"Goudswaard2005",""
+"mMZS","ganak",,"male ego's mother's sister's son",,,"Goudswaard2005",""
+"mFBD","ganak",,"male ego's father's brother's daughter",,,"Goudswaard2005",""
+"mFZD","ganak",,"male ego's father's sister's daughter",,,"Goudswaard2005",""
+"mMBD","ganak",,"male ego's mother's brother's daughter",,,"Goudswaard2005",""
+"mMZD","ganak",,"male ego's mother's sister's daughter",,,"Goudswaard2005",""
+"fFBS","ganak",,"female ego's father's brother's son",,,"Goudswaard2005",""
+"fFZS","ganak",,"female ego's father's sister's son",,,"Goudswaard2005",""
+"fMBS","ganak",,"female ego's mother's brother's son",,,"Goudswaard2005",""
+"fMZS","ganak",,"female ego's mother's sister's son",,,"Goudswaard2005",""
+"fFBD","ganak",,"female ego's father's brother's daughter",,,"Goudswaard2005",""
+"fFZD","ganak",,"female ego's father's sister's daughter",,,"Goudswaard2005",""
+"fMBD","ganak",,"female ego's mother's brother's daughter",,,"Goudswaard2005",""
+"fMZD","ganak",,"female ego's mother's sister's daughter",,,"Goudswaard2005",""
+"mFeBS","ganak",,"male ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mFyBS","ganak",,"male ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mFeZS","ganak",,"male ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mFyZS","ganak",,"male ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mFeBD","ganak",,"male ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFyBD","ganak",,"male ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFeZD","ganak",,"male ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFyZD","ganak",,"male ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMeBS","ganak",,"male ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mMyBS","ganak",,"male ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mMeZS","ganak",,"male ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mMyZS","ganak",,"male ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mMeBD","ganak",,"male ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMyBD","ganak",,"male ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMeZD","ganak",,"male ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMyZD","ganak",,"male ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFBeS","ganak",,"male ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mFByS","ganak",,"male ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mFZeS","ganak",,"male ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mFZyS","ganak",,"male ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mFBeD","ganak",,"male ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFByD","ganak",,"male ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFZeD","ganak",,"male ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mFZyD","ganak",,"male ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMBeS","ganak",,"male ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mMByS","ganak",,"male ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"mMZeS","ganak",,"male ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mMZyS","ganak",,"male ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"mMBeD","ganak",,"male ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMByD","ganak",,"male ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMZeD","ganak",,"male ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"mMZyD","ganak",,"male ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFeBS","ganak",,"female ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fFyBS","ganak",,"female ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fFeZS","ganak",,"female ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fFyZS","ganak",,"female ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fFeBD","ganak",,"female ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFyBD","ganak",,"female ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFeZD","ganak",,"female ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFyZD","ganak",,"female ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMeBS","ganak",,"female ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fMyBS","ganak",,"female ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fMeZS","ganak",,"female ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fMyZS","ganak",,"female ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fMeBD","ganak",,"female ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMyBD","ganak",,"female ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMeZD","ganak",,"female ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMyZD","ganak",,"female ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFBeS","ganak",,"female ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fFByS","ganak",,"female ego's father's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fFZeS","ganak",,"female ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fFZyS","ganak",,"female ego's father's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fFBeD","ganak",,"female ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFByD","ganak",,"female ego's father's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFZeD","ganak",,"female ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fFZyD","ganak",,"female ego's father's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMBeS","ganak",,"female ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fMByS","ganak",,"female ego's mother's brother's son",,,"Goudswaard2005","Inferred; NA"
+"fMZeS","ganak",,"female ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fMZyS","ganak",,"female ego's mother's sister's son",,,"Goudswaard2005","Inferred; NA"
+"fMBeD","ganak",,"female ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMByD","ganak",,"female ego's mother's brother's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMZeD","ganak",,"female ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"
+"fMZyD","ganak",,"female ego's mother's sister's daughter",,,"Goudswaard2005","Inferred; NA"

@@ -1,97 +1,97 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,aphu,,male ego's older brother,,,morey2010a,
-myB,anau,,male ego's younger brother,,,morey2010a,
-feB,aphu,,female ego's older brother,,,morey2010a,
-fyB,anau,,female ego's younger brother,,,morey2010a,
-meZ,api,,male ego's older sister,,,morey2010a,
-myZ,anau jan,,male ego's younger sister,,,morey2010a,
-feZ,api,,female ego's older sister,,,morey2010a,
-fyZ,anau jan,,female ego's younger sister,,,morey2010a,
-mF,awa,,male ego's father,,,morey2010a,
-mM,anu,,male ego's mother,ame,,morey2010a,"anu (Singpho term), ame (Tai)"
-fF,awa,,female ego's father,,,morey2010a,
-fM,anu,,female ego's mother,,,morey2010a,
-mS,lasa maang,,male ego's son,,,morey2010a,
-fS,lasa maang,,female ego's son,,,morey2010a,
-mD,numsa maang,,male ego's daughter,,,morey2010a,
-fD,numsa maang,,female ego's daughter,,,morey2010a,
-mSS,ksu,,male ego's son's son,,,morey2010a,
-mSD,ksu,,male ego's son's daughter,,,morey2010a,
-mDS,ksu,,male ego's daughter's son,,,morey2010a,
-mDD,ksu,,male ego's daughter's daughter,,,morey2010a,
-fSS,ksu,,female ego's son's son,,,morey2010a,
-fSD,ksu,,female ego's son's daughter,,,morey2010a,
-fDS,ksu,,female ego's daughter's son,,,morey2010a,
-fDD,ksu,,female ego's daugher's daughter,,,morey2010a,
-mFF,apu,,male ego's father‘s father,,,morey2010a,
-mFM,aya,,male ego's father's mother,,,morey2010a,
-mMF,apu nai,,male ego's mother's father,,,morey2010a,
-mMM,anai,,male ego's mother's mother,,,morey2010a,
-fFF,apu,,female ego's father's father,,,morey2010a,
-fFM,aya,,female ego's father's mother,,,morey2010a,
-fMF,apu nai,,female ego's mother's father,,,morey2010a,
-fMM,anai,,female ego's mother's mother,,,morey2010a,
-meBS,ksa,,male ego's older brother's son,,,morey2010a,
-myBS,ksa,,male ego's younger brother's son,,,morey2010a,
-meZS,kkhri,,male ego's older sister's son,,,morey2010a,
-myZS,kkhri,,male ego's younger sister's son,,,morey2010a,
-meBD,ksa,,male ego's older brother's daughter,,,morey2010a,
-myBD,ksa,,male ego's younger brother's daughter,,,morey2010a,
-meZD,kkhri,,male ego's older sister's daughter,,,morey2010a,
-myZD,kkhri,,male ego's younger sister's daughter,,,morey2010a,
-feBS,ksa,,female ego's older brother's son,,,morey2010a,
-fyBS,ksa,,female ego's younger brother's son,,,morey2010a,
-feZS,kkhri,,female ego's older sister's son,,,morey2010a,
-fyZS,kkhri,,female ego's younger sister's son,,,morey2010a,
-feBD,ksa,,female ego's older brother's daughter,,,morey2010a,
-fyBD,ksa,,female ego's younger brother's daughter,,,morey2010a,
-feZD,kkhri,,female ego's older sister's daughter,,,morey2010a,
-fyZD,kkhri,,female ego's younger sister's daughter,,,morey2010a,
-mFeB,awa di,,male ego's father's older brother,,,morey2010a,
-mFyB,adai,,male ego's father's younger brother,,,morey2010a,
-mFeZ,apa,,male ego's father's older sister,,,morey2010a,
-mFyZ,amoi,,male ego's father's younger sister,,,morey2010a,
-mMeB,acha,,male ego's mother's older brother,,,morey2010a,
-mMyB,acha,,male ego's mother's younger brother,,,morey2010a,
-mMeZ,atung,,male ego's mother's older sister,,,morey2010a,
-mMyZ,achi,,male ego's mother's younger sister,,,morey2010a,
-fFeB,awa di,,female ego's father's older brother,,,morey2010a,
-fFyB,adai,,female ego's father's younger brother,,,morey2010a,
-fFeZ,apa,,female ego's father's older sister,,,morey2010a,
-fFyZ,amoi,,female ego's father's younger sister,,,morey2010a,
-fMeB,acha,,female ego's mother's older brother,,,morey2010a,
-fMyB,acha,,female ego's mother's younger brother,,,morey2010a,
-fMeZ,atung,,female ego's mother's older sister,,,morey2010a,
-fMyZ,achi,,female ego's mother's younger sister,,,morey2010a,
-mFBeS,aphu,,male ego‘s father‘s brother‘s older son,,,morey2010a,
-mFByS,aphu,,male ego‘s father‘s brother‘s younger son,,,morey2010a,
-mFBeD,api,,male ego‘s father‘s brother‘s older daughter,,,morey2010a,
-mFByD,api,,male ego‘s father‘s brother‘s younger daughter,,,morey2010a,
-mFZeS,akhau,,male ego‘s father‘s sisters‘s older son,,,morey2010a,
-mFZyS,akhau,,male ego‘s father‘s sisters‘s younger son,,,morey2010a,
-mFZeD,akhri,,male ego‘s father‘s sisters‘s older daughter,,,morey2010a,
-mFZyD,akhri,,male ego‘s father‘s sisters‘s younger daughter,,,morey2010a,
-mMBeS,akhau,,male ego‘s mother‘s brother‘s older son,,,morey2010a,
-mMByS,akhau,,male ego‘s mother‘s brother‘s younger son,,,morey2010a,
-mMBeD,arat,,male ego‘s mother‘s brother‘s older daughter,,,morey2010a,
-mMByD,arat,,male ego‘s mother‘s brother‘s younger daughter,,,morey2010a,
-mMZeS,aphu,,male ego‘s mother‘s sisters‘s older son,,,morey2010a,
-mMZyS,aphu,,male ego‘s mother‘s sisters‘s younger son,,,morey2010a,
-mMZeD,api,,male ego‘s mother‘s sisters‘s older daughter,,,morey2010a,
-mMZyD,api,,male ego‘s mother‘s sisters‘s younger daughter,,,morey2010a,
-fFBeS,aphu,,female ego‘s father‘s brother‘s older son,,,morey2010a,
-fFByS,aphu,,female ego‘s father‘s brother‘s younger son,,,morey2010a,
-fFBeD,api,,female ego‘s father‘s brother‘s older daughter,,,morey2010a,
-fFByD,api,,female ego‘s father‘s brother‘s younger daughter,,,morey2010a,
-fFZeS,arat,,female ego‘s father‘s sisters‘s older son,,,morey2010a,
-fFZyS,arat,,female ego‘s father‘s sisters‘s younger son,,,morey2010a,
-fFZeD,aming,,female ego‘s father‘s sisters‘s older daughter,,,morey2010a,
-fFZyD,ana,,female ego‘s father‘s sisters‘s younger daughter,,,morey2010a,
-fMBeS,caa,,female ego‘s mother‘s brother‘s older son,,,morey2010a,
-fMByS,caa,,female ego‘s mother‘s brother‘s younger son,,,morey2010a,
-fMBeD,aning,,female ego‘s mother‘s brother‘s older daughter,,,morey2010a,
-fMByD,ana,,female ego‘s mother‘s brother‘s younger daughter,,,morey2010a,
-fMZeS,aphu,,female ego‘s mother‘s sisters‘s older son,,,morey2010a,
-fMZyS,aphu,,female ego‘s mother‘s sisters‘s younger son,,,morey2010a,
-fMZeD,api,,female ego‘s mother‘s sisters‘s older daughter,,,morey2010a,
-fMZyD,api,,female ego‘s mother‘s sisters‘s younger daughter,,,morey2010a,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","aphu",,"male ego's older brother","",,"morey2010a",""
+"myB","anau",,"male ego's younger brother","",,"morey2010a",""
+"feB","aphu",,"female ego's older brother","",,"morey2010a",""
+"fyB","anau",,"female ego's younger brother","",,"morey2010a",""
+"meZ","api",,"male ego's older sister","",,"morey2010a",""
+"myZ","anau jan",,"male ego's younger sister","",,"morey2010a",""
+"feZ","api",,"female ego's older sister","",,"morey2010a",""
+"fyZ","anau jan",,"female ego's younger sister","",,"morey2010a",""
+"mF","awa",,"male ego's father","",,"morey2010a",""
+"mM","anu",,"male ego's mother","ame",,"morey2010a","anu (Singpho term), ame (Tai)"
+"fF","awa",,"female ego's father","",,"morey2010a",""
+"fM","anu",,"female ego's mother","",,"morey2010a",""
+"mS","lasa maang",,"male ego's son","",,"morey2010a",""
+"fS","lasa maang",,"female ego's son","",,"morey2010a",""
+"mD","numsa maang",,"male ego's daughter","",,"morey2010a",""
+"fD","numsa maang",,"female ego's daughter","",,"morey2010a",""
+"mSS","ksu",,"male ego's son's son","",,"morey2010a",""
+"mSD","ksu",,"male ego's son's daughter","",,"morey2010a",""
+"mDS","ksu",,"male ego's daughter's son","",,"morey2010a",""
+"mDD","ksu",,"male ego's daughter's daughter","",,"morey2010a",""
+"fSS","ksu",,"female ego's son's son","",,"morey2010a",""
+"fSD","ksu",,"female ego's son's daughter","",,"morey2010a",""
+"fDS","ksu",,"female ego's daughter's son","",,"morey2010a",""
+"fDD","ksu",,"female ego's daugher's daughter","",,"morey2010a",""
+"mFF","apu",,"male ego's father‘s father","",,"morey2010a",""
+"mFM","aya",,"male ego's father's mother","",,"morey2010a",""
+"mMF","apu nai",,"male ego's mother's father","",,"morey2010a",""
+"mMM","anai",,"male ego's mother's mother","",,"morey2010a",""
+"fFF","apu",,"female ego's father's father","",,"morey2010a",""
+"fFM","aya",,"female ego's father's mother","",,"morey2010a",""
+"fMF","apu nai",,"female ego's mother's father","",,"morey2010a",""
+"fMM","anai",,"female ego's mother's mother","",,"morey2010a",""
+"meBS","ksa",,"male ego's older brother's son","",,"morey2010a",""
+"myBS","ksa",,"male ego's younger brother's son","",,"morey2010a",""
+"meZS","kkhri",,"male ego's older sister's son","",,"morey2010a",""
+"myZS","kkhri",,"male ego's younger sister's son","",,"morey2010a",""
+"meBD","ksa",,"male ego's older brother's daughter","",,"morey2010a",""
+"myBD","ksa",,"male ego's younger brother's daughter","",,"morey2010a",""
+"meZD","kkhri",,"male ego's older sister's daughter","",,"morey2010a",""
+"myZD","kkhri",,"male ego's younger sister's daughter","",,"morey2010a",""
+"feBS","ksa",,"female ego's older brother's son","",,"morey2010a",""
+"fyBS","ksa",,"female ego's younger brother's son","",,"morey2010a",""
+"feZS","kkhri",,"female ego's older sister's son","",,"morey2010a",""
+"fyZS","kkhri",,"female ego's younger sister's son","",,"morey2010a",""
+"feBD","ksa",,"female ego's older brother's daughter","",,"morey2010a",""
+"fyBD","ksa",,"female ego's younger brother's daughter","",,"morey2010a",""
+"feZD","kkhri",,"female ego's older sister's daughter","",,"morey2010a",""
+"fyZD","kkhri",,"female ego's younger sister's daughter","",,"morey2010a",""
+"mFeB","awa di",,"male ego's father's older brother","",,"morey2010a",""
+"mFyB","adai",,"male ego's father's younger brother","",,"morey2010a",""
+"mFeZ","apa",,"male ego's father's older sister","",,"morey2010a",""
+"mFyZ","amoi",,"male ego's father's younger sister","",,"morey2010a",""
+"mMeB","acha",,"male ego's mother's older brother","",,"morey2010a",""
+"mMyB","acha",,"male ego's mother's younger brother","",,"morey2010a",""
+"mMeZ","atung",,"male ego's mother's older sister","",,"morey2010a",""
+"mMyZ","achi",,"male ego's mother's younger sister","",,"morey2010a",""
+"fFeB","awa di",,"female ego's father's older brother","",,"morey2010a",""
+"fFyB","adai",,"female ego's father's younger brother","",,"morey2010a",""
+"fFeZ","apa",,"female ego's father's older sister","",,"morey2010a",""
+"fFyZ","amoi",,"female ego's father's younger sister","",,"morey2010a",""
+"fMeB","acha",,"female ego's mother's older brother","",,"morey2010a",""
+"fMyB","acha",,"female ego's mother's younger brother","",,"morey2010a",""
+"fMeZ","atung",,"female ego's mother's older sister","",,"morey2010a",""
+"fMyZ","achi",,"female ego's mother's younger sister","",,"morey2010a",""
+"mFBeS","aphu",,"male ego‘s father‘s brother‘s older son","",,"morey2010a",""
+"mFByS","aphu",,"male ego‘s father‘s brother‘s younger son","",,"morey2010a",""
+"mFBeD","api",,"male ego‘s father‘s brother‘s older daughter","",,"morey2010a",""
+"mFByD","api",,"male ego‘s father‘s brother‘s younger daughter","",,"morey2010a",""
+"mFZeS","akhau",,"male ego‘s father‘s sisters‘s older son","",,"morey2010a",""
+"mFZyS","akhau",,"male ego‘s father‘s sisters‘s younger son","",,"morey2010a",""
+"mFZeD","akhri",,"male ego‘s father‘s sisters‘s older daughter","",,"morey2010a",""
+"mFZyD","akhri",,"male ego‘s father‘s sisters‘s younger daughter","",,"morey2010a",""
+"mMBeS","akhau",,"male ego‘s mother‘s brother‘s older son","",,"morey2010a",""
+"mMByS","akhau",,"male ego‘s mother‘s brother‘s younger son","",,"morey2010a",""
+"mMBeD","arat",,"male ego‘s mother‘s brother‘s older daughter","",,"morey2010a",""
+"mMByD","arat",,"male ego‘s mother‘s brother‘s younger daughter","",,"morey2010a",""
+"mMZeS","aphu",,"male ego‘s mother‘s sisters‘s older son","",,"morey2010a",""
+"mMZyS","aphu",,"male ego‘s mother‘s sisters‘s younger son","",,"morey2010a",""
+"mMZeD","api",,"male ego‘s mother‘s sisters‘s older daughter","",,"morey2010a",""
+"mMZyD","api",,"male ego‘s mother‘s sisters‘s younger daughter","",,"morey2010a",""
+"fFBeS","aphu",,"female ego‘s father‘s brother‘s older son","",,"morey2010a",""
+"fFByS","aphu",,"female ego‘s father‘s brother‘s younger son","",,"morey2010a",""
+"fFBeD","api",,"female ego‘s father‘s brother‘s older daughter","",,"morey2010a",""
+"fFByD","api",,"female ego‘s father‘s brother‘s younger daughter","",,"morey2010a",""
+"fFZeS","arat",,"female ego‘s father‘s sisters‘s older son","",,"morey2010a",""
+"fFZyS","arat",,"female ego‘s father‘s sisters‘s younger son","",,"morey2010a",""
+"fFZeD","aming",,"female ego‘s father‘s sisters‘s older daughter","",,"morey2010a",""
+"fFZyD","ana",,"female ego‘s father‘s sisters‘s younger daughter","",,"morey2010a",""
+"fMBeS","caa",,"female ego‘s mother‘s brother‘s older son","",,"morey2010a",""
+"fMByS","caa",,"female ego‘s mother‘s brother‘s younger son","",,"morey2010a",""
+"fMBeD","aning",,"female ego‘s mother‘s brother‘s older daughter","",,"morey2010a",""
+"fMByD","ana",,"female ego‘s mother‘s brother‘s younger daughter","",,"morey2010a",""
+"fMZeS","aphu",,"female ego‘s mother‘s sisters‘s older son","",,"morey2010a",""
+"fMZyS","aphu",,"female ego‘s mother‘s sisters‘s younger son","",,"morey2010a",""
+"fMZeD","api",,"female ego‘s mother‘s sisters‘s older daughter","",,"morey2010a",""
+"fMZyD","api",,"female ego‘s mother‘s sisters‘s younger daughter","",,"morey2010a",""

@@ -1,161 +1,161 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,maɣay-anem,,male ego's older brother,,,olssonMarind,
-myB,es-anem,,male ego's younger brother,,,olssonMarind,
-feB,maɣay-anem,,female ego's older brother,,,olssonMarind,
-fyB,es-anem,,female ego's younger brother,,,olssonMarind,
-meZ,maɣay-anum,,male ego's older sister,,,olssonMarind,
-myZ,es-anum,,male ego's younger sister,,,olssonMarind,
-feZ,maɣay-anum,,female ego's older sister,,,olssonMarind,
-fyZ,es-anum,,female ego's younger sister,,,olssonMarind,
-mF,ehway,,male ego's father,,,olssonMarind,
-mM,wah,,male ego's mother,,,olssonMarind,
-fF,ehway,,female ego's father,,,olssonMarind,
-fM,wah,,female ego's mother,,,olssonMarind,
-mS,wananggib,,male ego's son,,,olssonMarind,
-fS,wananggib,,female ego's son,,,olssonMarind,
-mD,wananggub,,male ego's daughter,,,olssonMarind,
-fD,wananggub,,female ego's daughter,,,olssonMarind,
-mSS,iheb,,male ego's son's son,,,olssonMarind,
-mSD,iheb,,male ego's son's daughter,,,olssonMarind,
-mDS,iheb,,male ego's daughter's son,,,olssonMarind,
-mDD,iheb,,male ego's daughter's daughter,,,olssonMarind,
-fSS,iheb,,female ego's son's son,,,olssonMarind,
-fSD,iheb,,female ego's son's daughter,,,olssonMarind,
-fDS,iheb,,female ego's daughter's son,,,olssonMarind,
-fDD,iheb,,female ego's daugher's daughter,,,olssonMarind,
-mFF,iham,,male ego's father‘s father,,,olssonMarind,
-mFM,iham,,male ego's father's mother,,,olssonMarind,
-mMF,iham,,male ego's mother's father,,,olssonMarind,
-mMM,iham,,male ego's mother's mother,,,olssonMarind,
-fFF,iham,,female ego's father's father,,,olssonMarind,
-fFM,iham,,female ego's father's mother,,,olssonMarind,
-fMF,iham,,female ego's mother's father,,,olssonMarind,
-fMM,iham,,female ego's mother's mother,,,olssonMarind,
-meBS,wananggib,,male ego's older brother's son,,,olssonMarind,
-myBS,wananggib,,male ego's younger brother's son,,,olssonMarind,
-meZS,oha-anem,,male ego's older sister's son,,,olssonMarind,
-myZS,oha-anem,,male ego's younger sister's son,,,olssonMarind,
-meBD,wananggub,,male ego's older brother's daughter,,,olssonMarind,
-myBD,wananggub,,male ego's younger brother's daughter,,,olssonMarind,
-meZD,uho,,male ego's older sister's daughter,,,olssonMarind,
-myZD,uho,,male ego's younger sister's daughter,,,olssonMarind,
-feBS,ihibi,,female ego's older brother's son,,,olssonMarind,
-fyBS,ihibi,,female ego's younger brother's son,,,olssonMarind,
-feBD,ihibi,,female ego's older brother's daughter,,,olssonMarind,
-fyBD,ihibi,,female ego's younger brother's daughter,,,olssonMarind,
-feZD,uho,,female ego's older sister's daughter,,,olssonMarind,
-fyZD,uho,,female ego's younger sister's daughter,,,olssonMarind,
-mFeB,ehway,,male ego's father's older brother,,,olssonMarind,
-mFyB,ehway,,male ego's father's younger brother,,,olssonMarind,
-mFeZ,ehwyak,,male ego's father's older sister,,,olssonMarind,
-mFyZ,ehwyak,,male ego's father's younger sister,,,olssonMarind,
-mMeB,wahok,,male ego's mother's older brother,,,olssonMarind,
-mMyB,wahok,,male ego's mother's younger brother,,,olssonMarind,
-mMeZ,wah,,male ego's mother's older sister,,,olssonMarind,
-mMyZ,wah,,male ego's mother's younger sister,,,olssonMarind,
-fFeB,ehway,,female ego's father's older brother,,,olssonMarind,
-fFyB,ehway,,female ego's father's younger brother,,,olssonMarind,
-fFeZ,ehwyak,,female ego's father's older sister,,,olssonMarind,
-fFyZ,ehwyak,,female ego's father's younger sister,,,olssonMarind,
-fMeB,wahok,,female ego's mother's older brother,,,olssonMarind,
-fMyB,wahok,,female ego's mother's younger brother,,,olssonMarind,
-fMeZ,wah,,female ego's mother's older sister,,,olssonMarind,
-fMyZ,wah,,female ego's mother's younger sister,,,olssonMarind,
-mW,uhyum,,male ego's wife,,,olssonMarind,
-fH,eham,,female ego‘s husband,,,olssonMarind,
-mDH,hinabaɣ,,male ego's daughter's husband,,,olssonMarind,
-fDH,hinabaɣ,,female ego's daughter's husband,,,olssonMarind,
-mSW,ihikna,,male ego's son's wife,,,olssonMarind,
-fSW,ihikna,,female ego's son's wife,,,olssonMarind,
-mWF,hinabaɣ,,male ego's wife's father,,,olssonMarind,
-mWM,hinabaɣ,,male ego's wife's mother,,,olssonMarind,
-mWB,"ihamok, himandaɣ",,male ego's wife's brother,,,olssonMarind,"wife's younger brother, wife's elder brother"
-mWZ,"ihamok, hinabaɣ",,male ego's wife's sister,,,olssonMarind,"wife's younger sister, wife's elder sister"
-fHF,ehakna,,female ego's husband's father,,,olssonMarind,
-fHM,ihikna,,female ego's husband's mother,,,olssonMarind,
-fHB,"es-lek, ehakna",,female ego's husband's brother,,,olssonMarind,"husband's younger brother, husband's elder brother"
-fHZ,"es-luk, isane",,female ego's husband's sister,,,olssonMarind,"husband's younger sister, husband's elder sister"
-mBW,"uha-anum, ne",,male ego's brother's wife,,,olssonMarind,"male ego's younger brother's wife, elder brother's wife"
-fBW,"ihikna, ne",,female ego's brother's wife,,,olssonMarind,"female ego's younger brother's wife, elder brother's wife"
-mZH,"himandaɣ, ihambit-ehway",,male ego's sister's husband,,,olssonMarind,"younger sister's husband, elder sister's husband"
-fZH,"himandaɣ, ihambit-ehway",,female ego's sister's husband,,,olssonMarind,"younger sister's husband, elder sister's husband"
-mFBS,namek,,male ego's father's brother's son,,,olssonMarind,
-mFZS,ihanos,,male ego's father's sister's son,,,olssonMarind,
-mMBS,ihanos,,male ego's mother's brother's son,,,olssonMarind,
-mMZS,ihanos,,male ego's mother's sister's son,,,olssonMarind,
-mFBD,namuk,,male ego's father's brother's daughter,,,olssonMarind,
-mFZD,ihanos,,male ego's father's sister's daughter,,,olssonMarind,
-mMBD,ihanos,,male ego's mother's brother's daughter,,,olssonMarind,
-mMZD,ihanos,,male ego's mother's sister's daughter,,,olssonMarind,
-fFBS,namek,,female ego's father's brother's son,,,olssonMarind,
-fFZS,ihanos,,female ego's father's sister's son,,,olssonMarind,
-fMBS,ihanos,,female ego's mother's brother's son,,,olssonMarind,
-fMZS,ihanos,,female ego's mother's sister's son,,,olssonMarind,
-fFBD,namuk,,female ego's father's brother's daughter,,,olssonMarind,
-fFZD,ihanos,,female ego's father's sister's daughter,,,olssonMarind,
-fMBD,ihanos,,female ego's mother's brother's daughter,,,olssonMarind,
-fMZD,ihanos,,female ego's mother's sister's daughter,,,olssonMarind,
-mFeBS,namek,,male ego's father's brother's son,,,olssonMarind,Inferred; 
-mFyBS,namek,,male ego's father's brother's son,,,olssonMarind,Inferred; 
-mFeZS,ihanos,,male ego's father's sister's son,,,olssonMarind,Inferred; 
-mFyZS,ihanos,,male ego's father's sister's son,,,olssonMarind,Inferred; 
-mFeBD,namuk,,male ego's father's brother's daughter,,,olssonMarind,Inferred; 
-mFyBD,namuk,,male ego's father's brother's daughter,,,olssonMarind,Inferred; 
-mFeZD,ihanos,,male ego's father's sister's daughter,,,olssonMarind,Inferred; 
-mFyZD,ihanos,,male ego's father's sister's daughter,,,olssonMarind,Inferred; 
-mMeBS,ihanos,,male ego's mother's brother's son,,,olssonMarind,Inferred; 
-mMyBS,ihanos,,male ego's mother's brother's son,,,olssonMarind,Inferred; 
-mMeZS,ihanos,,male ego's mother's sister's son,,,olssonMarind,Inferred; 
-mMyZS,ihanos,,male ego's mother's sister's son,,,olssonMarind,Inferred; 
-mMeBD,ihanos,,male ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-mMyBD,ihanos,,male ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-mMeZD,ihanos,,male ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-mMyZD,ihanos,,male ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-mFBeS,namek,,male ego's father's brother's son,,,olssonMarind,Inferred; 
-mFByS,namek,,male ego's father's brother's son,,,olssonMarind,Inferred; 
-mFZeS,ihanos,,male ego's father's sister's son,,,olssonMarind,Inferred; 
-mFZyS,ihanos,,male ego's father's sister's son,,,olssonMarind,Inferred; 
-mFBeD,namuk,,male ego's father's brother's daughter,,,olssonMarind,Inferred; 
-mFByD,namuk,,male ego's father's brother's daughter,,,olssonMarind,Inferred; 
-mFZeD,ihanos,,male ego's father's sister's daughter,,,olssonMarind,Inferred; 
-mFZyD,ihanos,,male ego's father's sister's daughter,,,olssonMarind,Inferred; 
-mMBeS,ihanos,,male ego's mother's brother's son,,,olssonMarind,Inferred; 
-mMByS,ihanos,,male ego's mother's brother's son,,,olssonMarind,Inferred; 
-mMZeS,ihanos,,male ego's mother's sister's son,,,olssonMarind,Inferred; 
-mMZyS,ihanos,,male ego's mother's sister's son,,,olssonMarind,Inferred; 
-mMBeD,ihanos,,male ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-mMByD,ihanos,,male ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-mMZeD,ihanos,,male ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-mMZyD,ihanos,,male ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-fFeBS,namek,,female ego's father's brother's son,,,olssonMarind,Inferred; 
-fFyBS,namek,,female ego's father's brother's son,,,olssonMarind,Inferred; 
-fFeZS,ihanos,,female ego's father's sister's son,,,olssonMarind,Inferred; 
-fFyZS,ihanos,,female ego's father's sister's son,,,olssonMarind,Inferred; 
-fFeBD,namuk,,female ego's father's brother's daughter,,,olssonMarind,Inferred; 
-fFyBD,namuk,,female ego's father's brother's daughter,,,olssonMarind,Inferred; 
-fFeZD,ihanos,,female ego's father's sister's daughter,,,olssonMarind,Inferred; 
-fFyZD,ihanos,,female ego's father's sister's daughter,,,olssonMarind,Inferred; 
-fMeBS,ihanos,,female ego's mother's brother's son,,,olssonMarind,Inferred; 
-fMyBS,ihanos,,female ego's mother's brother's son,,,olssonMarind,Inferred; 
-fMeZS,ihanos,,female ego's mother's sister's son,,,olssonMarind,Inferred; 
-fMyZS,ihanos,,female ego's mother's sister's son,,,olssonMarind,Inferred; 
-fMeBD,ihanos,,female ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-fMyBD,ihanos,,female ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-fMeZD,ihanos,,female ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-fMyZD,ihanos,,female ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-fFBeS,namek,,female ego's father's brother's son,,,olssonMarind,Inferred; 
-fFByS,namek,,female ego's father's brother's son,,,olssonMarind,Inferred; 
-fFZeS,ihanos,,female ego's father's sister's son,,,olssonMarind,Inferred; 
-fFZyS,ihanos,,female ego's father's sister's son,,,olssonMarind,Inferred; 
-fFBeD,namuk,,female ego's father's brother's daughter,,,olssonMarind,Inferred; 
-fFByD,namuk,,female ego's father's brother's daughter,,,olssonMarind,Inferred; 
-fFZeD,ihanos,,female ego's father's sister's daughter,,,olssonMarind,Inferred; 
-fFZyD,ihanos,,female ego's father's sister's daughter,,,olssonMarind,Inferred; 
-fMBeS,ihanos,,female ego's mother's brother's son,,,olssonMarind,Inferred; 
-fMByS,ihanos,,female ego's mother's brother's son,,,olssonMarind,Inferred; 
-fMZeS,ihanos,,female ego's mother's sister's son,,,olssonMarind,Inferred; 
-fMZyS,ihanos,,female ego's mother's sister's son,,,olssonMarind,Inferred; 
-fMBeD,ihanos,,female ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-fMByD,ihanos,,female ego's mother's brother's daughter,,,olssonMarind,Inferred; 
-fMZeD,ihanos,,female ego's mother's sister's daughter,,,olssonMarind,Inferred; 
-fMZyD,ihanos,,female ego's mother's sister's daughter,,,olssonMarind,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","maɣay-anem",,"male ego's older brother",,,"olssonMarind",""
+"myB","es-anem",,"male ego's younger brother",,,"olssonMarind",""
+"feB","maɣay-anem",,"female ego's older brother",,,"olssonMarind",""
+"fyB","es-anem",,"female ego's younger brother",,,"olssonMarind",""
+"meZ","maɣay-anum",,"male ego's older sister",,,"olssonMarind",""
+"myZ","es-anum",,"male ego's younger sister",,,"olssonMarind",""
+"feZ","maɣay-anum",,"female ego's older sister",,,"olssonMarind",""
+"fyZ","es-anum",,"female ego's younger sister",,,"olssonMarind",""
+"mF","ehway",,"male ego's father",,,"olssonMarind",""
+"mM","wah",,"male ego's mother",,,"olssonMarind",""
+"fF","ehway",,"female ego's father",,,"olssonMarind",""
+"fM","wah",,"female ego's mother",,,"olssonMarind",""
+"mS","wananggib",,"male ego's son",,,"olssonMarind",""
+"fS","wananggib",,"female ego's son",,,"olssonMarind",""
+"mD","wananggub",,"male ego's daughter",,,"olssonMarind",""
+"fD","wananggub",,"female ego's daughter",,,"olssonMarind",""
+"mSS","iheb",,"male ego's son's son",,,"olssonMarind",""
+"mSD","iheb",,"male ego's son's daughter",,,"olssonMarind",""
+"mDS","iheb",,"male ego's daughter's son",,,"olssonMarind",""
+"mDD","iheb",,"male ego's daughter's daughter",,,"olssonMarind",""
+"fSS","iheb",,"female ego's son's son",,,"olssonMarind",""
+"fSD","iheb",,"female ego's son's daughter",,,"olssonMarind",""
+"fDS","iheb",,"female ego's daughter's son",,,"olssonMarind",""
+"fDD","iheb",,"female ego's daugher's daughter",,,"olssonMarind",""
+"mFF","iham",,"male ego's father‘s father",,,"olssonMarind",""
+"mFM","iham",,"male ego's father's mother",,,"olssonMarind",""
+"mMF","iham",,"male ego's mother's father",,,"olssonMarind",""
+"mMM","iham",,"male ego's mother's mother",,,"olssonMarind",""
+"fFF","iham",,"female ego's father's father",,,"olssonMarind",""
+"fFM","iham",,"female ego's father's mother",,,"olssonMarind",""
+"fMF","iham",,"female ego's mother's father",,,"olssonMarind",""
+"fMM","iham",,"female ego's mother's mother",,,"olssonMarind",""
+"meBS","wananggib",,"male ego's older brother's son",,,"olssonMarind",""
+"myBS","wananggib",,"male ego's younger brother's son",,,"olssonMarind",""
+"meZS","oha-anem",,"male ego's older sister's son",,,"olssonMarind",""
+"myZS","oha-anem",,"male ego's younger sister's son",,,"olssonMarind",""
+"meBD","wananggub",,"male ego's older brother's daughter",,,"olssonMarind",""
+"myBD","wananggub",,"male ego's younger brother's daughter",,,"olssonMarind",""
+"meZD","uho",,"male ego's older sister's daughter",,,"olssonMarind",""
+"myZD","uho",,"male ego's younger sister's daughter",,,"olssonMarind",""
+"feBS","ihibi",,"female ego's older brother's son",,,"olssonMarind",""
+"fyBS","ihibi",,"female ego's younger brother's son",,,"olssonMarind",""
+"feBD","ihibi",,"female ego's older brother's daughter",,,"olssonMarind",""
+"fyBD","ihibi",,"female ego's younger brother's daughter",,,"olssonMarind",""
+"feZD","uho",,"female ego's older sister's daughter",,,"olssonMarind",""
+"fyZD","uho",,"female ego's younger sister's daughter",,,"olssonMarind",""
+"mFeB","ehway",,"male ego's father's older brother",,,"olssonMarind",""
+"mFyB","ehway",,"male ego's father's younger brother",,,"olssonMarind",""
+"mFeZ","ehwyak",,"male ego's father's older sister",,,"olssonMarind",""
+"mFyZ","ehwyak",,"male ego's father's younger sister",,,"olssonMarind",""
+"mMeB","wahok",,"male ego's mother's older brother",,,"olssonMarind",""
+"mMyB","wahok",,"male ego's mother's younger brother",,,"olssonMarind",""
+"mMeZ","wah",,"male ego's mother's older sister",,,"olssonMarind",""
+"mMyZ","wah",,"male ego's mother's younger sister",,,"olssonMarind",""
+"fFeB","ehway",,"female ego's father's older brother",,,"olssonMarind",""
+"fFyB","ehway",,"female ego's father's younger brother",,,"olssonMarind",""
+"fFeZ","ehwyak",,"female ego's father's older sister",,,"olssonMarind",""
+"fFyZ","ehwyak",,"female ego's father's younger sister",,,"olssonMarind",""
+"fMeB","wahok",,"female ego's mother's older brother",,,"olssonMarind",""
+"fMyB","wahok",,"female ego's mother's younger brother",,,"olssonMarind",""
+"fMeZ","wah",,"female ego's mother's older sister",,,"olssonMarind",""
+"fMyZ","wah",,"female ego's mother's younger sister",,,"olssonMarind",""
+"mW","uhyum",,"male ego's wife",,,"olssonMarind",""
+"fH","eham",,"female ego‘s husband",,,"olssonMarind",""
+"mDH","hinabaɣ",,"male ego's daughter's husband",,,"olssonMarind",""
+"fDH","hinabaɣ",,"female ego's daughter's husband",,,"olssonMarind",""
+"mSW","ihikna",,"male ego's son's wife",,,"olssonMarind",""
+"fSW","ihikna",,"female ego's son's wife",,,"olssonMarind",""
+"mWF","hinabaɣ",,"male ego's wife's father",,,"olssonMarind",""
+"mWM","hinabaɣ",,"male ego's wife's mother",,,"olssonMarind",""
+"mWB","ihamok, himandaɣ",,"male ego's wife's brother",,,"olssonMarind","wife's younger brother, wife's elder brother"
+"mWZ","ihamok, hinabaɣ",,"male ego's wife's sister",,,"olssonMarind","wife's younger sister, wife's elder sister"
+"fHF","ehakna",,"female ego's husband's father",,,"olssonMarind",""
+"fHM","ihikna",,"female ego's husband's mother",,,"olssonMarind",""
+"fHB","es-lek, ehakna",,"female ego's husband's brother",,,"olssonMarind","husband's younger brother, husband's elder brother"
+"fHZ","es-luk, isane",,"female ego's husband's sister",,,"olssonMarind","husband's younger sister, husband's elder sister"
+"mBW","uha-anum, ne",,"male ego's brother's wife",,,"olssonMarind","male ego's younger brother's wife, elder brother's wife"
+"fBW","ihikna, ne",,"female ego's brother's wife",,,"olssonMarind","female ego's younger brother's wife, elder brother's wife"
+"mZH","himandaɣ, ihambit-ehway",,"male ego's sister's husband",,,"olssonMarind","younger sister's husband, elder sister's husband"
+"fZH","himandaɣ, ihambit-ehway",,"female ego's sister's husband",,,"olssonMarind","younger sister's husband, elder sister's husband"
+"mFBS","namek",,"male ego's father's brother's son",,,"olssonMarind",""
+"mFZS","ihanos",,"male ego's father's sister's son",,,"olssonMarind",""
+"mMBS","ihanos",,"male ego's mother's brother's son",,,"olssonMarind",""
+"mMZS","ihanos",,"male ego's mother's sister's son",,,"olssonMarind",""
+"mFBD","namuk",,"male ego's father's brother's daughter",,,"olssonMarind",""
+"mFZD","ihanos",,"male ego's father's sister's daughter",,,"olssonMarind",""
+"mMBD","ihanos",,"male ego's mother's brother's daughter",,,"olssonMarind",""
+"mMZD","ihanos",,"male ego's mother's sister's daughter",,,"olssonMarind",""
+"fFBS","namek",,"female ego's father's brother's son",,,"olssonMarind",""
+"fFZS","ihanos",,"female ego's father's sister's son",,,"olssonMarind",""
+"fMBS","ihanos",,"female ego's mother's brother's son",,,"olssonMarind",""
+"fMZS","ihanos",,"female ego's mother's sister's son",,,"olssonMarind",""
+"fFBD","namuk",,"female ego's father's brother's daughter",,,"olssonMarind",""
+"fFZD","ihanos",,"female ego's father's sister's daughter",,,"olssonMarind",""
+"fMBD","ihanos",,"female ego's mother's brother's daughter",,,"olssonMarind",""
+"fMZD","ihanos",,"female ego's mother's sister's daughter",,,"olssonMarind",""
+"mFeBS","namek",,"male ego's father's brother's son",,,"olssonMarind","Inferred; "
+"mFyBS","namek",,"male ego's father's brother's son",,,"olssonMarind","Inferred; "
+"mFeZS","ihanos",,"male ego's father's sister's son",,,"olssonMarind","Inferred; "
+"mFyZS","ihanos",,"male ego's father's sister's son",,,"olssonMarind","Inferred; "
+"mFeBD","namuk",,"male ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"mFyBD","namuk",,"male ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"mFeZD","ihanos",,"male ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"mFyZD","ihanos",,"male ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"mMeBS","ihanos",,"male ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"mMyBS","ihanos",,"male ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"mMeZS","ihanos",,"male ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"mMyZS","ihanos",,"male ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"mMeBD","ihanos",,"male ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"mMyBD","ihanos",,"male ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"mMeZD","ihanos",,"male ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"mMyZD","ihanos",,"male ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"mFBeS","namek",,"male ego's father's brother's son",,,"olssonMarind","Inferred; "
+"mFByS","namek",,"male ego's father's brother's son",,,"olssonMarind","Inferred; "
+"mFZeS","ihanos",,"male ego's father's sister's son",,,"olssonMarind","Inferred; "
+"mFZyS","ihanos",,"male ego's father's sister's son",,,"olssonMarind","Inferred; "
+"mFBeD","namuk",,"male ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"mFByD","namuk",,"male ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"mFZeD","ihanos",,"male ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"mFZyD","ihanos",,"male ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"mMBeS","ihanos",,"male ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"mMByS","ihanos",,"male ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"mMZeS","ihanos",,"male ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"mMZyS","ihanos",,"male ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"mMBeD","ihanos",,"male ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"mMByD","ihanos",,"male ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"mMZeD","ihanos",,"male ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"mMZyD","ihanos",,"male ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"fFeBS","namek",,"female ego's father's brother's son",,,"olssonMarind","Inferred; "
+"fFyBS","namek",,"female ego's father's brother's son",,,"olssonMarind","Inferred; "
+"fFeZS","ihanos",,"female ego's father's sister's son",,,"olssonMarind","Inferred; "
+"fFyZS","ihanos",,"female ego's father's sister's son",,,"olssonMarind","Inferred; "
+"fFeBD","namuk",,"female ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"fFyBD","namuk",,"female ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"fFeZD","ihanos",,"female ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"fFyZD","ihanos",,"female ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"fMeBS","ihanos",,"female ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"fMyBS","ihanos",,"female ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"fMeZS","ihanos",,"female ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"fMyZS","ihanos",,"female ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"fMeBD","ihanos",,"female ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"fMyBD","ihanos",,"female ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"fMeZD","ihanos",,"female ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"fMyZD","ihanos",,"female ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"fFBeS","namek",,"female ego's father's brother's son",,,"olssonMarind","Inferred; "
+"fFByS","namek",,"female ego's father's brother's son",,,"olssonMarind","Inferred; "
+"fFZeS","ihanos",,"female ego's father's sister's son",,,"olssonMarind","Inferred; "
+"fFZyS","ihanos",,"female ego's father's sister's son",,,"olssonMarind","Inferred; "
+"fFBeD","namuk",,"female ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"fFByD","namuk",,"female ego's father's brother's daughter",,,"olssonMarind","Inferred; "
+"fFZeD","ihanos",,"female ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"fFZyD","ihanos",,"female ego's father's sister's daughter",,,"olssonMarind","Inferred; "
+"fMBeS","ihanos",,"female ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"fMByS","ihanos",,"female ego's mother's brother's son",,,"olssonMarind","Inferred; "
+"fMZeS","ihanos",,"female ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"fMZyS","ihanos",,"female ego's mother's sister's son",,,"olssonMarind","Inferred; "
+"fMBeD","ihanos",,"female ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"fMByD","ihanos",,"female ego's mother's brother's daughter",,,"olssonMarind","Inferred; "
+"fMZeD","ihanos",,"female ego's mother's sister's daughter",,,"olssonMarind","Inferred; "
+"fMZyD","ihanos",,"female ego's mother's sister's daughter",,,"olssonMarind","Inferred; "

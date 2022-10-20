@@ -1,132 +1,132 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,-kaku,,male ego's older brother,,,Holton2017,
-myB,-kaku,,male ego's younger brother,,,Holton2017,
-feB,-edi,,female ego's older brother,,,Holton2017,
-fyB,-edi,,female ego's younger brother,,,Holton2017,
-meZ,-edi,,male ego's older sister,,,Holton2017,
-myZ,-edi,,male ego's younger sister,,,Holton2017,
-feZ,-kaku,,female ego's older sister,,,Holton2017,
-fyZ,-kaku,,female ego's younger sister,,,Holton2017,
-mF,-imang,,male ego's father,,,Holton2017,
-mM,-iva,,male ego's mother,,,Holton2017,
-fF,-imang,,female ego's father,,,Holton2017,
-fM,-iva,,female ego's mother,,,Holton2017,
-mS,-oqal,,male ego's son,,,Holton2017,
-fS,-oqal,,female ego's son,,,Holton2017,
-mD,-oqal,,male ego's daughter,,,Holton2017,
-fD,-oqal,,female ego's daughter,,,Holton2017,
-meBS,-opal,,male ego's older brother's son,,,Holton2017,
-myBS,-opal,,male ego's younger brother's son,,,Holton2017,
-meBD,-opal,,male ego's older brother's daughter,,,Holton2017,
-myBD,-opal,,male ego's younger brother's daughter,,,Holton2017,
-feZS,-opal,,female ego's older sister's son,,,Holton2017,
-fyZS,-opal,,female ego's younger sister's son,,,Holton2017,
-feZD,-opal,,female ego's older sister's daughter,,,Holton2017,
-fyZD,-opal,,female ego's younger sister's daughter,,,Holton2017,
-mFeB,-imang,,male ego's father's older brother,,,Holton2017,
-mFyB,-imang,,male ego's father's younger brother,,,Holton2017,
-mMeB,-imang era,,male ego's mother's older brother,,,Holton2017,
-mMyB,-imang era,,male ego's mother's younger brother,,,Holton2017,
-mMeZ,-iva,,male ego's mother's older sister,,,Holton2017,
-mMyZ,-iva,,male ego's mother's younger sister,,,Holton2017,
-fFeB,-imang,,female ego's father's older brother,,,Holton2017,
-fFyB,-imang,,female ego's father's younger brother,,,Holton2017,
-fMeB,-imang era,,female ego's mother's older brother,,,Holton2017,
-fMyB,-imang era,,female ego's mother's younger brother,,,Holton2017,
-fMeZ,-iva,,female ego's mother's older sister,,,Holton2017,
-fMyZ,-iva,,female ego's mother's younger sister,,,Holton2017,
-mW,-zangu,,male ego's wife,,,Holton2017,
-fH,-mehal,,female ego‘s husband,,,Holton2017,
-mDH,-idat,,male ego's daughter's husband,,,Holton2017,
-fDH,-idat,,female ego's daughter's husband,,,Holton2017,
-mSW,-idat,,male ego's son's wife,,,Holton2017,
-fSW,-idat,,female ego's son's wife,,,Holton2017,
-mWF,-idat,,male ego's wife's father,,,Holton2017,
-mWM,-idat,,male ego's wife's mother,,,Holton2017,
-mWB,-des,,male ego's wife's brother,,,Holton2017,
-fHF,-idat,,female ego's husband's father,,,Holton2017,
-fHM,-idat,,female ego's husband's mother,,,Holton2017,
-fHZ,-des,,female ego's husband's sister,,,Holton2017,
-mBW,-des,,male ego's brother's wife,,,Holton2017,
-fBW,-des,,female ego's brother's wife,,,Holton2017,
-mZH,-des,,male ego's sister's husband,,,Holton2017,
-mFBS,-kaku,,male ego's father's brother's son,,,Holton2017,
-mFZS,-ebheang,,male ego's father's sister's son,,,Holton2017,
-mMBS,-ebheang,,male ego's mother's brother's son,,,Holton2017,
-mMZS,-kaku,,male ego's mother's sister's son,,,Holton2017,
-mFBD,-edi,,male ego's father's brother's daughter,,,Holton2017,
-mFZD,"-ebheang, boromung",,male ego's father's sister's daughter,,,Holton2017,
-mMBD,"-ebheang, boromung",,male ego's mother's brother's daughter,,,Holton2017,
-mMZD,-edi,,male ego's mother's sister's daughter,,,Holton2017,
-fFBS,-edi,,female ego's father's brother's son,,,Holton2017,
-fFZS,"-ebheang, boromung",,female ego's father's sister's son,,,Holton2017,
-fMBS,"-ebheang, boromung",,female ego's mother's brother's son,,,Holton2017,
-fMZS,-edi,,female ego's mother's sister's son,,,Holton2017,
-fFBD,-kaku,,female ego's father's brother's daughter,,,Holton2017,
-fFZD,-ebheang,,female ego's father's sister's daughter,,,Holton2017,
-fMBD,-ebheang,,female ego's mother's brother's daughter,,,Holton2017,
-fMZD,-kaku,,female ego's mother's sister's daughter,,,Holton2017,
-mFeBS,-kaku,,male ego's father's brother's son,,,Holton2017,Inferred; NA
-mFyBS,-kaku,,male ego's father's brother's son,,,Holton2017,Inferred; NA
-mFeZS,-ebheang,,male ego's father's sister's son,,,Holton2017,Inferred; NA
-mFyZS,-ebheang,,male ego's father's sister's son,,,Holton2017,Inferred; NA
-mFeBD,-edi,,male ego's father's brother's daughter,,,Holton2017,Inferred; NA
-mFyBD,-edi,,male ego's father's brother's daughter,,,Holton2017,Inferred; NA
-mFeZD,"-ebheang, boromung",,male ego's father's sister's daughter,,,Holton2017,Inferred; NA
-mFyZD,"-ebheang, boromung",,male ego's father's sister's daughter,,,Holton2017,Inferred; NA
-mMeBS,-ebheang,,male ego's mother's brother's son,,,Holton2017,Inferred; NA
-mMyBS,-ebheang,,male ego's mother's brother's son,,,Holton2017,Inferred; NA
-mMeZS,-kaku,,male ego's mother's sister's son,,,Holton2017,Inferred; NA
-mMyZS,-kaku,,male ego's mother's sister's son,,,Holton2017,Inferred; NA
-mMeBD,"-ebheang, boromung",,male ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-mMyBD,"-ebheang, boromung",,male ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-mMeZD,-edi,,male ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-mMyZD,-edi,,male ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-mFBeS,-kaku,,male ego's father's brother's son,,,Holton2017,Inferred; NA
-mFByS,-kaku,,male ego's father's brother's son,,,Holton2017,Inferred; NA
-mFZeS,-ebheang,,male ego's father's sister's son,,,Holton2017,Inferred; NA
-mFZyS,-ebheang,,male ego's father's sister's son,,,Holton2017,Inferred; NA
-mFBeD,-edi,,male ego's father's brother's daughter,,,Holton2017,Inferred; NA
-mFByD,-edi,,male ego's father's brother's daughter,,,Holton2017,Inferred; NA
-mFZeD,"-ebheang, boromung",,male ego's father's sister's daughter,,,Holton2017,Inferred; NA
-mFZyD,"-ebheang, boromung",,male ego's father's sister's daughter,,,Holton2017,Inferred; NA
-mMBeS,-ebheang,,male ego's mother's brother's son,,,Holton2017,Inferred; NA
-mMByS,-ebheang,,male ego's mother's brother's son,,,Holton2017,Inferred; NA
-mMZeS,-kaku,,male ego's mother's sister's son,,,Holton2017,Inferred; NA
-mMZyS,-kaku,,male ego's mother's sister's son,,,Holton2017,Inferred; NA
-mMBeD,"-ebheang, boromung",,male ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-mMByD,"-ebheang, boromung",,male ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-mMZeD,-edi,,male ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-mMZyD,-edi,,male ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-fFeBS,-edi,,female ego's father's brother's son,,,Holton2017,Inferred; NA
-fFyBS,-edi,,female ego's father's brother's son,,,Holton2017,Inferred; NA
-fFeZS,"-ebheang, boromung",,female ego's father's sister's son,,,Holton2017,Inferred; NA
-fFyZS,"-ebheang, boromung",,female ego's father's sister's son,,,Holton2017,Inferred; NA
-fFeBD,-kaku,,female ego's father's brother's daughter,,,Holton2017,Inferred; NA
-fFyBD,-kaku,,female ego's father's brother's daughter,,,Holton2017,Inferred; NA
-fFeZD,-ebheang,,female ego's father's sister's daughter,,,Holton2017,Inferred; NA
-fFyZD,-ebheang,,female ego's father's sister's daughter,,,Holton2017,Inferred; NA
-fMeBS,"-ebheang, boromung",,female ego's mother's brother's son,,,Holton2017,Inferred; NA
-fMyBS,"-ebheang, boromung",,female ego's mother's brother's son,,,Holton2017,Inferred; NA
-fMeZS,-edi,,female ego's mother's sister's son,,,Holton2017,Inferred; NA
-fMyZS,-edi,,female ego's mother's sister's son,,,Holton2017,Inferred; NA
-fMeBD,-ebheang,,female ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-fMyBD,-ebheang,,female ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-fMeZD,-kaku,,female ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-fMyZD,-kaku,,female ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-fFBeS,-edi,,female ego's father's brother's son,,,Holton2017,Inferred; NA
-fFByS,-edi,,female ego's father's brother's son,,,Holton2017,Inferred; NA
-fFZeS,"-ebheang, boromung",,female ego's father's sister's son,,,Holton2017,Inferred; NA
-fFZyS,"-ebheang, boromung",,female ego's father's sister's son,,,Holton2017,Inferred; NA
-fFBeD,-kaku,,female ego's father's brother's daughter,,,Holton2017,Inferred; NA
-fFByD,-kaku,,female ego's father's brother's daughter,,,Holton2017,Inferred; NA
-fFZeD,-ebheang,,female ego's father's sister's daughter,,,Holton2017,Inferred; NA
-fFZyD,-ebheang,,female ego's father's sister's daughter,,,Holton2017,Inferred; NA
-fMBeS,"-ebheang, boromung",,female ego's mother's brother's son,,,Holton2017,Inferred; NA
-fMByS,"-ebheang, boromung",,female ego's mother's brother's son,,,Holton2017,Inferred; NA
-fMZeS,-edi,,female ego's mother's sister's son,,,Holton2017,Inferred; NA
-fMZyS,-edi,,female ego's mother's sister's son,,,Holton2017,Inferred; NA
-fMBeD,-ebheang,,female ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-fMByD,-ebheang,,female ego's mother's brother's daughter,,,Holton2017,Inferred; NA
-fMZeD,-kaku,,female ego's mother's sister's daughter,,,Holton2017,Inferred; NA
-fMZyD,-kaku,,female ego's mother's sister's daughter,,,Holton2017,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","-kaku",,"male ego's older brother",,,"Holton2017",""
+"myB","-kaku",,"male ego's younger brother",,,"Holton2017",""
+"feB","-edi",,"female ego's older brother",,,"Holton2017",""
+"fyB","-edi",,"female ego's younger brother",,,"Holton2017",""
+"meZ","-edi",,"male ego's older sister",,,"Holton2017",""
+"myZ","-edi",,"male ego's younger sister",,,"Holton2017",""
+"feZ","-kaku",,"female ego's older sister",,,"Holton2017",""
+"fyZ","-kaku",,"female ego's younger sister",,,"Holton2017",""
+"mF","-imang",,"male ego's father",,,"Holton2017",""
+"mM","-iva",,"male ego's mother",,,"Holton2017",""
+"fF","-imang",,"female ego's father",,,"Holton2017",""
+"fM","-iva",,"female ego's mother",,,"Holton2017",""
+"mS","-oqal",,"male ego's son",,,"Holton2017",""
+"fS","-oqal",,"female ego's son",,,"Holton2017",""
+"mD","-oqal",,"male ego's daughter",,,"Holton2017",""
+"fD","-oqal",,"female ego's daughter",,,"Holton2017",""
+"meBS","-opal",,"male ego's older brother's son",,,"Holton2017",""
+"myBS","-opal",,"male ego's younger brother's son",,,"Holton2017",""
+"meBD","-opal",,"male ego's older brother's daughter",,,"Holton2017",""
+"myBD","-opal",,"male ego's younger brother's daughter",,,"Holton2017",""
+"feZS","-opal",,"female ego's older sister's son",,,"Holton2017",""
+"fyZS","-opal",,"female ego's younger sister's son",,,"Holton2017",""
+"feZD","-opal",,"female ego's older sister's daughter",,,"Holton2017",""
+"fyZD","-opal",,"female ego's younger sister's daughter",,,"Holton2017",""
+"mFeB","-imang",,"male ego's father's older brother",,,"Holton2017",""
+"mFyB","-imang",,"male ego's father's younger brother",,,"Holton2017",""
+"mMeB","-imang era",,"male ego's mother's older brother",,,"Holton2017",""
+"mMyB","-imang era",,"male ego's mother's younger brother",,,"Holton2017",""
+"mMeZ","-iva",,"male ego's mother's older sister",,,"Holton2017",""
+"mMyZ","-iva",,"male ego's mother's younger sister",,,"Holton2017",""
+"fFeB","-imang",,"female ego's father's older brother",,,"Holton2017",""
+"fFyB","-imang",,"female ego's father's younger brother",,,"Holton2017",""
+"fMeB","-imang era",,"female ego's mother's older brother",,,"Holton2017",""
+"fMyB","-imang era",,"female ego's mother's younger brother",,,"Holton2017",""
+"fMeZ","-iva",,"female ego's mother's older sister",,,"Holton2017",""
+"fMyZ","-iva",,"female ego's mother's younger sister",,,"Holton2017",""
+"mW","-zangu",,"male ego's wife",,,"Holton2017",""
+"fH","-mehal",,"female ego‘s husband",,,"Holton2017",""
+"mDH","-idat",,"male ego's daughter's husband",,,"Holton2017",""
+"fDH","-idat",,"female ego's daughter's husband",,,"Holton2017",""
+"mSW","-idat",,"male ego's son's wife",,,"Holton2017",""
+"fSW","-idat",,"female ego's son's wife",,,"Holton2017",""
+"mWF","-idat",,"male ego's wife's father",,,"Holton2017",""
+"mWM","-idat",,"male ego's wife's mother",,,"Holton2017",""
+"mWB","-des",,"male ego's wife's brother",,,"Holton2017",""
+"fHF","-idat",,"female ego's husband's father",,,"Holton2017",""
+"fHM","-idat",,"female ego's husband's mother",,,"Holton2017",""
+"fHZ","-des",,"female ego's husband's sister",,,"Holton2017",""
+"mBW","-des",,"male ego's brother's wife",,,"Holton2017",""
+"fBW","-des",,"female ego's brother's wife",,,"Holton2017",""
+"mZH","-des",,"male ego's sister's husband",,,"Holton2017",""
+"mFBS","-kaku",,"male ego's father's brother's son",,,"Holton2017",""
+"mFZS","-ebheang",,"male ego's father's sister's son",,,"Holton2017",""
+"mMBS","-ebheang",,"male ego's mother's brother's son",,,"Holton2017",""
+"mMZS","-kaku",,"male ego's mother's sister's son",,,"Holton2017",""
+"mFBD","-edi",,"male ego's father's brother's daughter",,,"Holton2017",""
+"mFZD","-ebheang, boromung",,"male ego's father's sister's daughter",,,"Holton2017",""
+"mMBD","-ebheang, boromung",,"male ego's mother's brother's daughter",,,"Holton2017",""
+"mMZD","-edi",,"male ego's mother's sister's daughter",,,"Holton2017",""
+"fFBS","-edi",,"female ego's father's brother's son",,,"Holton2017",""
+"fFZS","-ebheang, boromung",,"female ego's father's sister's son",,,"Holton2017",""
+"fMBS","-ebheang, boromung",,"female ego's mother's brother's son",,,"Holton2017",""
+"fMZS","-edi",,"female ego's mother's sister's son",,,"Holton2017",""
+"fFBD","-kaku",,"female ego's father's brother's daughter",,,"Holton2017",""
+"fFZD","-ebheang",,"female ego's father's sister's daughter",,,"Holton2017",""
+"fMBD","-ebheang",,"female ego's mother's brother's daughter",,,"Holton2017",""
+"fMZD","-kaku",,"female ego's mother's sister's daughter",,,"Holton2017",""
+"mFeBS","-kaku",,"male ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"mFyBS","-kaku",,"male ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"mFeZS","-ebheang",,"male ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"mFyZS","-ebheang",,"male ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"mFeBD","-edi",,"male ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"mFyBD","-edi",,"male ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"mFeZD","-ebheang, boromung",,"male ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"mFyZD","-ebheang, boromung",,"male ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"mMeBS","-ebheang",,"male ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"mMyBS","-ebheang",,"male ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"mMeZS","-kaku",,"male ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"mMyZS","-kaku",,"male ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"mMeBD","-ebheang, boromung",,"male ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"mMyBD","-ebheang, boromung",,"male ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"mMeZD","-edi",,"male ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"mMyZD","-edi",,"male ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"mFBeS","-kaku",,"male ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"mFByS","-kaku",,"male ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"mFZeS","-ebheang",,"male ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"mFZyS","-ebheang",,"male ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"mFBeD","-edi",,"male ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"mFByD","-edi",,"male ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"mFZeD","-ebheang, boromung",,"male ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"mFZyD","-ebheang, boromung",,"male ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"mMBeS","-ebheang",,"male ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"mMByS","-ebheang",,"male ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"mMZeS","-kaku",,"male ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"mMZyS","-kaku",,"male ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"mMBeD","-ebheang, boromung",,"male ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"mMByD","-ebheang, boromung",,"male ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"mMZeD","-edi",,"male ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"mMZyD","-edi",,"male ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"fFeBS","-edi",,"female ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"fFyBS","-edi",,"female ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"fFeZS","-ebheang, boromung",,"female ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"fFyZS","-ebheang, boromung",,"female ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"fFeBD","-kaku",,"female ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"fFyBD","-kaku",,"female ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"fFeZD","-ebheang",,"female ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"fFyZD","-ebheang",,"female ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"fMeBS","-ebheang, boromung",,"female ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"fMyBS","-ebheang, boromung",,"female ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"fMeZS","-edi",,"female ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"fMyZS","-edi",,"female ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"fMeBD","-ebheang",,"female ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"fMyBD","-ebheang",,"female ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"fMeZD","-kaku",,"female ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"fMyZD","-kaku",,"female ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"fFBeS","-edi",,"female ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"fFByS","-edi",,"female ego's father's brother's son",,,"Holton2017","Inferred; NA"
+"fFZeS","-ebheang, boromung",,"female ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"fFZyS","-ebheang, boromung",,"female ego's father's sister's son",,,"Holton2017","Inferred; NA"
+"fFBeD","-kaku",,"female ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"fFByD","-kaku",,"female ego's father's brother's daughter",,,"Holton2017","Inferred; NA"
+"fFZeD","-ebheang",,"female ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"fFZyD","-ebheang",,"female ego's father's sister's daughter",,,"Holton2017","Inferred; NA"
+"fMBeS","-ebheang, boromung",,"female ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"fMByS","-ebheang, boromung",,"female ego's mother's brother's son",,,"Holton2017","Inferred; NA"
+"fMZeS","-edi",,"female ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"fMZyS","-edi",,"female ego's mother's sister's son",,,"Holton2017","Inferred; NA"
+"fMBeD","-ebheang",,"female ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"fMByD","-ebheang",,"female ego's mother's brother's daughter",,,"Holton2017","Inferred; NA"
+"fMZeD","-kaku",,"female ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"
+"fMZyD","-kaku",,"female ego's mother's sister's daughter",,,"Holton2017","Inferred; NA"

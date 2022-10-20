@@ -1,153 +1,153 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,yaba,,male ego's older brother,,,Patz2002,
-myB,yabaju,,male ego's younger brother,,,Patz2002,
-feB,yaba,,female ego's older brother,,,Patz2002,
-fyB,yabaju,,female ego's younger brother,,,Patz2002,
-meZ,babarr,,male ego's older sister,,,Patz2002,
-myZ,jinkurr,,male ego's younger sister,,,Patz2002,
-feZ,babarr,,female ego's older sister,,,Patz2002,
-fyZ,jinkurr,,female ego's younger sister,,,Patz2002,
-mF,nganjan,,male ego's father,,,Patz2002,
-mM,ngamu,,male ego's mother,,,Patz2002,
-fF,nganjan,,female ego's father,,,Patz2002,
-fM,ngamu,,female ego's mother,,,Patz2002,
-mS,kangkal,,male ego's son,,,Patz2002,
-fS,kangkal,,female ego's son,,,Patz2002,
-mD,kangkal,,male ego's daughter,,,Patz2002,
-fD,kangkal,,female ego's daughter,,,Patz2002,
-mSS,jija,,male ego's son's son,,,Patz2002,
-mSD,jija,,male ego's son's daughter,,,Patz2002,
-mDS,kaminjarr,,male ego's daughter's son,,,Patz2002,
-mDD,kaminjarr,,male ego's daughter's daughter,,,Patz2002,
-fSS,jija,,female ego's son's son,,,Patz2002,
-fSD,jija,,female ego's son's daughter,,,Patz2002,
-fDS,kaminjarr,,female ego's daughter's son,,,Patz2002,
-fDD,kaminjarr,,female ego's daugher's daughter,,,Patz2002,
-mFF,kami,,male ego's father‘s father,,,Patz2002,
-mFM,babi,,male ego's father's mother,,,Patz2002,
-mMF,ngaji,,male ego's mother's father,,,Patz2002,
-mMM,kami,,male ego's mother's mother,,,Patz2002,
-fFF,kami,,female ego's father's father,,,Patz2002,
-fFM,babi,,female ego's father's mother,,,Patz2002,
-fMF,ngaji,,female ego's mother's father,,,Patz2002,
-fMM,kami,,female ego's mother's mother,,,Patz2002,
-meBS,"manda, juway",,male ego's older brother's son,,,Patz2002,
-myBS,"manda, juway",,male ego's younger brother's son,,,Patz2002,
-meZS,"manda, juway",,male ego's older sister's son,,,Patz2002,
-myZS,"manda, juway",,male ego's younger sister's son,,,Patz2002,
-meBD,"manda, ngujurr",,male ego's older brother's daughter,,,Patz2002,
-myBD,"manda, ngujurr",,male ego's younger brother's daughter,,,Patz2002,
-meZD,"manda, ngujurr",,male ego's older sister's daughter,,,Patz2002,
-myZD,"manda, ngujurr",,male ego's younger sister's daughter,,,Patz2002,
-feBS,"manda, juway",,female ego's older brother's son,,,Patz2002,
-fyBS,"manda, juway",,female ego's younger brother's son,,,Patz2002,
-feZS,"manda, juway",,female ego's older sister's son,,,Patz2002,
-fyZS,"manda, juway",,female ego's younger sister's son,,,Patz2002,
-feBD,"manda, ngujurr",,female ego's older brother's daughter,,,Patz2002,
-fyBD,"manda, ngujurr",,female ego's younger brother's daughter,,,Patz2002,
-feZD,"manda, ngujurr",,female ego's older sister's daughter,,,Patz2002,
-fyZD,"manda, ngujurr",,female ego's younger sister's daughter,,,Patz2002,
-mFeB,nganjan,,male ego's father's older brother,,,Patz2002,
-mFyB,nganjan,,male ego's father's younger brother,,,Patz2002,
-mFeZ,"bimakay, bimay, mukay",,male ego's father's older sister,,,Patz2002,
-mFyZ,"bimakay, bimay, mukay",,male ego's father's younger sister,,,Patz2002,
-mMeB,kalnga,,male ego's mother's older brother,,,Patz2002,
-mMyB,kalnga,,male ego's mother's younger brother,,,Patz2002,
-mMeZ,"bimakay, bimay, mukay, ngamu",,male ego's mother's older sister,,,Patz2002,
-mMyZ,"bimakay, bimay, mukay, ngamu",,male ego's mother's younger sister,,,Patz2002,
-fFeB,nganjan,,female ego's father's older brother,,,Patz2002,
-fFyB,nganjan,,female ego's father's younger brother,,,Patz2002,
-fFeZ,"bimakay, bimay, mukay",,female ego's father's older sister,,,Patz2002,
-fFyZ,"bimakay, bimay, mukay",,female ego's father's younger sister,,,Patz2002,
-fMeB,kalnga,,female ego's mother's older brother,,,Patz2002,
-fMyB,kalnga,,female ego's mother's younger brother,,,Patz2002,
-fMeZ,"bimakay, bimay, mukay, ngamu",,female ego's mother's older sister,,,Patz2002,
-fMyZ,"bimakay, bimay, mukay, ngamu",,female ego's mother's younger sister,,,Patz2002,
-mW,"manyarr, biwar, kuban",,male ego's wife,,,Patz2002,
-fH,dunyu,,female ego‘s husband,,,Patz2002,
-mSW,"kujiway, buykuji",,male ego's son's wife,,,Patz2002,
-fSW,"kujiway, buykuji",,female ego's son's wife,,,Patz2002,
-mWF,ngalayin,,male ego's wife's father,,,Patz2002,
-mWM,biwul,,male ego's wife's mother,,,Patz2002,
-fHF,ngalayin,,female ego's husband's father,,,Patz2002,
-fHM,biwul,,female ego's husband's mother,,,Patz2002,
-mFBS,bangunji,,male ego's father's brother's son,,,Patz2002,
-mFZS,kambanmu,,male ego's father's sister's son,,,Patz2002,
-mMBS,kambanmu,,male ego's mother's brother's son,,,Patz2002,
-mMZS,bangunji,,male ego's mother's sister's son,,,Patz2002,
-mFBD,bangunji,,male ego's father's brother's daughter,,,Patz2002,
-mFZD,kambanmu,,male ego's father's sister's daughter,,,Patz2002,
-mMBD,kambanmu,,male ego's mother's brother's daughter,,,Patz2002,
-mMZD,bangunji,,male ego's mother's sister's daughter,,,Patz2002,
-fFBS,bangunji,,female ego's father's brother's son,,,Patz2002,
-fFZS,kambanmu,,female ego's father's sister's son,,,Patz2002,
-fMBS,kambanmu,,female ego's mother's brother's son,,,Patz2002,
-fMZS,bangunji,,female ego's mother's sister's son,,,Patz2002,
-fFBD,bangunji,,female ego's father's brother's daughter,,,Patz2002,
-fFZD,kambanmu,,female ego's father's sister's daughter,,,Patz2002,
-fMBD,kambanmu,,female ego's mother's brother's daughter,,,Patz2002,
-fMZD,bangunji,,female ego's mother's sister's daughter,,,Patz2002,
-mFeBS,bangunji,,male ego's father's brother's son,,,Patz2002,Inferred; NA
-mFyBS,bangunji,,male ego's father's brother's son,,,Patz2002,Inferred; NA
-mFeZS,kambanmu,,male ego's father's sister's son,,,Patz2002,Inferred; NA
-mFyZS,kambanmu,,male ego's father's sister's son,,,Patz2002,Inferred; NA
-mFeBD,bangunji,,male ego's father's brother's daughter,,,Patz2002,Inferred; NA
-mFyBD,bangunji,,male ego's father's brother's daughter,,,Patz2002,Inferred; NA
-mFeZD,kambanmu,,male ego's father's sister's daughter,,,Patz2002,Inferred; NA
-mFyZD,kambanmu,,male ego's father's sister's daughter,,,Patz2002,Inferred; NA
-mMeBS,kambanmu,,male ego's mother's brother's son,,,Patz2002,Inferred; NA
-mMyBS,kambanmu,,male ego's mother's brother's son,,,Patz2002,Inferred; NA
-mMeZS,bangunji,,male ego's mother's sister's son,,,Patz2002,Inferred; NA
-mMyZS,bangunji,,male ego's mother's sister's son,,,Patz2002,Inferred; NA
-mMeBD,kambanmu,,male ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-mMyBD,kambanmu,,male ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-mMeZD,bangunji,,male ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-mMyZD,bangunji,,male ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-mFBeS,bangunji,,male ego's father's brother's son,,,Patz2002,Inferred; NA
-mFByS,bangunji,,male ego's father's brother's son,,,Patz2002,Inferred; NA
-mFZeS,kambanmu,,male ego's father's sister's son,,,Patz2002,Inferred; NA
-mFZyS,kambanmu,,male ego's father's sister's son,,,Patz2002,Inferred; NA
-mFBeD,bangunji,,male ego's father's brother's daughter,,,Patz2002,Inferred; NA
-mFByD,bangunji,,male ego's father's brother's daughter,,,Patz2002,Inferred; NA
-mFZeD,kambanmu,,male ego's father's sister's daughter,,,Patz2002,Inferred; NA
-mFZyD,kambanmu,,male ego's father's sister's daughter,,,Patz2002,Inferred; NA
-mMBeS,kambanmu,,male ego's mother's brother's son,,,Patz2002,Inferred; NA
-mMByS,kambanmu,,male ego's mother's brother's son,,,Patz2002,Inferred; NA
-mMZeS,bangunji,,male ego's mother's sister's son,,,Patz2002,Inferred; NA
-mMZyS,bangunji,,male ego's mother's sister's son,,,Patz2002,Inferred; NA
-mMBeD,kambanmu,,male ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-mMByD,kambanmu,,male ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-mMZeD,bangunji,,male ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-mMZyD,bangunji,,male ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-fFeBS,bangunji,,female ego's father's brother's son,,,Patz2002,Inferred; NA
-fFyBS,bangunji,,female ego's father's brother's son,,,Patz2002,Inferred; NA
-fFeZS,kambanmu,,female ego's father's sister's son,,,Patz2002,Inferred; NA
-fFyZS,kambanmu,,female ego's father's sister's son,,,Patz2002,Inferred; NA
-fFeBD,bangunji,,female ego's father's brother's daughter,,,Patz2002,Inferred; NA
-fFyBD,bangunji,,female ego's father's brother's daughter,,,Patz2002,Inferred; NA
-fFeZD,kambanmu,,female ego's father's sister's daughter,,,Patz2002,Inferred; NA
-fFyZD,kambanmu,,female ego's father's sister's daughter,,,Patz2002,Inferred; NA
-fMeBS,kambanmu,,female ego's mother's brother's son,,,Patz2002,Inferred; NA
-fMyBS,kambanmu,,female ego's mother's brother's son,,,Patz2002,Inferred; NA
-fMeZS,bangunji,,female ego's mother's sister's son,,,Patz2002,Inferred; NA
-fMyZS,bangunji,,female ego's mother's sister's son,,,Patz2002,Inferred; NA
-fMeBD,kambanmu,,female ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-fMyBD,kambanmu,,female ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-fMeZD,bangunji,,female ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-fMyZD,bangunji,,female ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-fFBeS,bangunji,,female ego's father's brother's son,,,Patz2002,Inferred; NA
-fFByS,bangunji,,female ego's father's brother's son,,,Patz2002,Inferred; NA
-fFZeS,kambanmu,,female ego's father's sister's son,,,Patz2002,Inferred; NA
-fFZyS,kambanmu,,female ego's father's sister's son,,,Patz2002,Inferred; NA
-fFBeD,bangunji,,female ego's father's brother's daughter,,,Patz2002,Inferred; NA
-fFByD,bangunji,,female ego's father's brother's daughter,,,Patz2002,Inferred; NA
-fFZeD,kambanmu,,female ego's father's sister's daughter,,,Patz2002,Inferred; NA
-fFZyD,kambanmu,,female ego's father's sister's daughter,,,Patz2002,Inferred; NA
-fMBeS,kambanmu,,female ego's mother's brother's son,,,Patz2002,Inferred; NA
-fMByS,kambanmu,,female ego's mother's brother's son,,,Patz2002,Inferred; NA
-fMZeS,bangunji,,female ego's mother's sister's son,,,Patz2002,Inferred; NA
-fMZyS,bangunji,,female ego's mother's sister's son,,,Patz2002,Inferred; NA
-fMBeD,kambanmu,,female ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-fMByD,kambanmu,,female ego's mother's brother's daughter,,,Patz2002,Inferred; NA
-fMZeD,bangunji,,female ego's mother's sister's daughter,,,Patz2002,Inferred; NA
-fMZyD,bangunji,,female ego's mother's sister's daughter,,,Patz2002,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","yaba",,"male ego's older brother",,,"Patz2002",""
+"myB","yabaju",,"male ego's younger brother",,,"Patz2002",""
+"feB","yaba",,"female ego's older brother",,,"Patz2002",""
+"fyB","yabaju",,"female ego's younger brother",,,"Patz2002",""
+"meZ","babarr",,"male ego's older sister",,,"Patz2002",""
+"myZ","jinkurr",,"male ego's younger sister",,,"Patz2002",""
+"feZ","babarr",,"female ego's older sister",,,"Patz2002",""
+"fyZ","jinkurr",,"female ego's younger sister",,,"Patz2002",""
+"mF","nganjan",,"male ego's father",,,"Patz2002",""
+"mM","ngamu",,"male ego's mother",,,"Patz2002",""
+"fF","nganjan",,"female ego's father",,,"Patz2002",""
+"fM","ngamu",,"female ego's mother",,,"Patz2002",""
+"mS","kangkal",,"male ego's son",,,"Patz2002",""
+"fS","kangkal",,"female ego's son",,,"Patz2002",""
+"mD","kangkal",,"male ego's daughter",,,"Patz2002",""
+"fD","kangkal",,"female ego's daughter",,,"Patz2002",""
+"mSS","jija",,"male ego's son's son",,,"Patz2002",""
+"mSD","jija",,"male ego's son's daughter",,,"Patz2002",""
+"mDS","kaminjarr",,"male ego's daughter's son",,,"Patz2002",""
+"mDD","kaminjarr",,"male ego's daughter's daughter",,,"Patz2002",""
+"fSS","jija",,"female ego's son's son",,,"Patz2002",""
+"fSD","jija",,"female ego's son's daughter",,,"Patz2002",""
+"fDS","kaminjarr",,"female ego's daughter's son",,,"Patz2002",""
+"fDD","kaminjarr",,"female ego's daugher's daughter",,,"Patz2002",""
+"mFF","kami",,"male ego's father‘s father",,,"Patz2002",""
+"mFM","babi",,"male ego's father's mother",,,"Patz2002",""
+"mMF","ngaji",,"male ego's mother's father",,,"Patz2002",""
+"mMM","kami",,"male ego's mother's mother",,,"Patz2002",""
+"fFF","kami",,"female ego's father's father",,,"Patz2002",""
+"fFM","babi",,"female ego's father's mother",,,"Patz2002",""
+"fMF","ngaji",,"female ego's mother's father",,,"Patz2002",""
+"fMM","kami",,"female ego's mother's mother",,,"Patz2002",""
+"meBS","manda, juway",,"male ego's older brother's son",,,"Patz2002",""
+"myBS","manda, juway",,"male ego's younger brother's son",,,"Patz2002",""
+"meZS","manda, juway",,"male ego's older sister's son",,,"Patz2002",""
+"myZS","manda, juway",,"male ego's younger sister's son",,,"Patz2002",""
+"meBD","manda, ngujurr",,"male ego's older brother's daughter",,,"Patz2002",""
+"myBD","manda, ngujurr",,"male ego's younger brother's daughter",,,"Patz2002",""
+"meZD","manda, ngujurr",,"male ego's older sister's daughter",,,"Patz2002",""
+"myZD","manda, ngujurr",,"male ego's younger sister's daughter",,,"Patz2002",""
+"feBS","manda, juway",,"female ego's older brother's son",,,"Patz2002",""
+"fyBS","manda, juway",,"female ego's younger brother's son",,,"Patz2002",""
+"feZS","manda, juway",,"female ego's older sister's son",,,"Patz2002",""
+"fyZS","manda, juway",,"female ego's younger sister's son",,,"Patz2002",""
+"feBD","manda, ngujurr",,"female ego's older brother's daughter",,,"Patz2002",""
+"fyBD","manda, ngujurr",,"female ego's younger brother's daughter",,,"Patz2002",""
+"feZD","manda, ngujurr",,"female ego's older sister's daughter",,,"Patz2002",""
+"fyZD","manda, ngujurr",,"female ego's younger sister's daughter",,,"Patz2002",""
+"mFeB","nganjan",,"male ego's father's older brother",,,"Patz2002",""
+"mFyB","nganjan",,"male ego's father's younger brother",,,"Patz2002",""
+"mFeZ","bimakay, bimay, mukay",,"male ego's father's older sister",,,"Patz2002",""
+"mFyZ","bimakay, bimay, mukay",,"male ego's father's younger sister",,,"Patz2002",""
+"mMeB","kalnga",,"male ego's mother's older brother",,,"Patz2002",""
+"mMyB","kalnga",,"male ego's mother's younger brother",,,"Patz2002",""
+"mMeZ","bimakay, bimay, mukay, ngamu",,"male ego's mother's older sister",,,"Patz2002",""
+"mMyZ","bimakay, bimay, mukay, ngamu",,"male ego's mother's younger sister",,,"Patz2002",""
+"fFeB","nganjan",,"female ego's father's older brother",,,"Patz2002",""
+"fFyB","nganjan",,"female ego's father's younger brother",,,"Patz2002",""
+"fFeZ","bimakay, bimay, mukay",,"female ego's father's older sister",,,"Patz2002",""
+"fFyZ","bimakay, bimay, mukay",,"female ego's father's younger sister",,,"Patz2002",""
+"fMeB","kalnga",,"female ego's mother's older brother",,,"Patz2002",""
+"fMyB","kalnga",,"female ego's mother's younger brother",,,"Patz2002",""
+"fMeZ","bimakay, bimay, mukay, ngamu",,"female ego's mother's older sister",,,"Patz2002",""
+"fMyZ","bimakay, bimay, mukay, ngamu",,"female ego's mother's younger sister",,,"Patz2002",""
+"mW","manyarr, biwar, kuban",,"male ego's wife",,,"Patz2002",""
+"fH","dunyu",,"female ego‘s husband",,,"Patz2002",""
+"mSW","kujiway, buykuji",,"male ego's son's wife",,,"Patz2002",""
+"fSW","kujiway, buykuji",,"female ego's son's wife",,,"Patz2002",""
+"mWF","ngalayin",,"male ego's wife's father",,,"Patz2002",""
+"mWM","biwul",,"male ego's wife's mother",,,"Patz2002",""
+"fHF","ngalayin",,"female ego's husband's father",,,"Patz2002",""
+"fHM","biwul",,"female ego's husband's mother",,,"Patz2002",""
+"mFBS","bangunji",,"male ego's father's brother's son",,,"Patz2002",""
+"mFZS","kambanmu",,"male ego's father's sister's son",,,"Patz2002",""
+"mMBS","kambanmu",,"male ego's mother's brother's son",,,"Patz2002",""
+"mMZS","bangunji",,"male ego's mother's sister's son",,,"Patz2002",""
+"mFBD","bangunji",,"male ego's father's brother's daughter",,,"Patz2002",""
+"mFZD","kambanmu",,"male ego's father's sister's daughter",,,"Patz2002",""
+"mMBD","kambanmu",,"male ego's mother's brother's daughter",,,"Patz2002",""
+"mMZD","bangunji",,"male ego's mother's sister's daughter",,,"Patz2002",""
+"fFBS","bangunji",,"female ego's father's brother's son",,,"Patz2002",""
+"fFZS","kambanmu",,"female ego's father's sister's son",,,"Patz2002",""
+"fMBS","kambanmu",,"female ego's mother's brother's son",,,"Patz2002",""
+"fMZS","bangunji",,"female ego's mother's sister's son",,,"Patz2002",""
+"fFBD","bangunji",,"female ego's father's brother's daughter",,,"Patz2002",""
+"fFZD","kambanmu",,"female ego's father's sister's daughter",,,"Patz2002",""
+"fMBD","kambanmu",,"female ego's mother's brother's daughter",,,"Patz2002",""
+"fMZD","bangunji",,"female ego's mother's sister's daughter",,,"Patz2002",""
+"mFeBS","bangunji",,"male ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"mFyBS","bangunji",,"male ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"mFeZS","kambanmu",,"male ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"mFyZS","kambanmu",,"male ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"mFeBD","bangunji",,"male ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"mFyBD","bangunji",,"male ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"mFeZD","kambanmu",,"male ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"mFyZD","kambanmu",,"male ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"mMeBS","kambanmu",,"male ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"mMyBS","kambanmu",,"male ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"mMeZS","bangunji",,"male ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"mMyZS","bangunji",,"male ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"mMeBD","kambanmu",,"male ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"mMyBD","kambanmu",,"male ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"mMeZD","bangunji",,"male ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"mMyZD","bangunji",,"male ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"mFBeS","bangunji",,"male ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"mFByS","bangunji",,"male ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"mFZeS","kambanmu",,"male ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"mFZyS","kambanmu",,"male ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"mFBeD","bangunji",,"male ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"mFByD","bangunji",,"male ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"mFZeD","kambanmu",,"male ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"mFZyD","kambanmu",,"male ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"mMBeS","kambanmu",,"male ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"mMByS","kambanmu",,"male ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"mMZeS","bangunji",,"male ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"mMZyS","bangunji",,"male ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"mMBeD","kambanmu",,"male ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"mMByD","kambanmu",,"male ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"mMZeD","bangunji",,"male ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"mMZyD","bangunji",,"male ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"fFeBS","bangunji",,"female ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"fFyBS","bangunji",,"female ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"fFeZS","kambanmu",,"female ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"fFyZS","kambanmu",,"female ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"fFeBD","bangunji",,"female ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"fFyBD","bangunji",,"female ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"fFeZD","kambanmu",,"female ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"fFyZD","kambanmu",,"female ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"fMeBS","kambanmu",,"female ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"fMyBS","kambanmu",,"female ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"fMeZS","bangunji",,"female ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"fMyZS","bangunji",,"female ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"fMeBD","kambanmu",,"female ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"fMyBD","kambanmu",,"female ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"fMeZD","bangunji",,"female ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"fMyZD","bangunji",,"female ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"fFBeS","bangunji",,"female ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"fFByS","bangunji",,"female ego's father's brother's son",,,"Patz2002","Inferred; NA"
+"fFZeS","kambanmu",,"female ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"fFZyS","kambanmu",,"female ego's father's sister's son",,,"Patz2002","Inferred; NA"
+"fFBeD","bangunji",,"female ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"fFByD","bangunji",,"female ego's father's brother's daughter",,,"Patz2002","Inferred; NA"
+"fFZeD","kambanmu",,"female ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"fFZyD","kambanmu",,"female ego's father's sister's daughter",,,"Patz2002","Inferred; NA"
+"fMBeS","kambanmu",,"female ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"fMByS","kambanmu",,"female ego's mother's brother's son",,,"Patz2002","Inferred; NA"
+"fMZeS","bangunji",,"female ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"fMZyS","bangunji",,"female ego's mother's sister's son",,,"Patz2002","Inferred; NA"
+"fMBeD","kambanmu",,"female ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"fMByD","kambanmu",,"female ego's mother's brother's daughter",,,"Patz2002","Inferred; NA"
+"fMZeD","bangunji",,"female ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"
+"fMZyD","bangunji",,"female ego's mother's sister's daughter",,,"Patz2002","Inferred; NA"

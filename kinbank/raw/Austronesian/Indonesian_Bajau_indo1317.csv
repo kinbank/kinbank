@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ekka,,male ego's older brother,,,Verheijen1986,
-myB,endi,,male ego's younger brother,,,Verheijen1986,
-feB,ekka,,female ego's older brother,,,Verheijen1986,
-fyB,endi,,female ego's younger brother,,,Verheijen1986,
-meZ,ekka,,male ego's older sister,,,Verheijen1986,
-myZ,endi,,male ego's younger sister,,,Verheijen1986,
-feZ,ekka,,female ego's older sister,,,Verheijen1986,
-fyZ,endi,,female ego's younger sister,,,Verheijen1986,
-mF,"lolo, ua",,male ego's father,,,Verheijen1986,
-mM,emma,,male ego's mother,,,Verheijen1986,
-fF,"lolo, ua",,female ego's father,,,Verheijen1986,
-fM,emma,,female ego's mother,,,Verheijen1986,
-mS,anaq dinda,,male ego's son,,,Verheijen1986,
-fS,anaq dinda,,female ego's son,,,Verheijen1986,
-mD,anaq lilla,,male ego's daughter,,,Verheijen1986,
-fD,anaq lilla,,female ego's daughter,,,Verheijen1986,
-mSS,umpu,,male ego's son's son,,,Verheijen1986,
-mSD,umpu,,male ego's son's daughter,,,Verheijen1986,
-mDS,umpu,,male ego's daughter's son,,,Verheijen1986,
-mDD,umpu,,male ego's daughter's daughter,,,Verheijen1986,
-fSS,umpu,,female ego's son's son,,,Verheijen1986,
-fSD,umpu,,female ego's son's daughter,,,Verheijen1986,
-fDS,umpu,,female ego's daughter's son,,,Verheijen1986,
-fDD,umpu,,female ego's daugher's daughter,,,Verheijen1986,
-mFF,embo lilla,,male ego's father‘s father,,,Verheijen1986,
-mFM,embo dinda,,male ego's father's mother,,,Verheijen1986,
-mMF,embo lilla,,male ego's mother's father,,,Verheijen1986,
-mMM,embo dinda,,male ego's mother's mother,,,Verheijen1986,
-fFF,embo lilla,,female ego's father's father,,,Verheijen1986,
-fFM,embo dinda,,female ego's father's mother,,,Verheijen1986,
-fMF,embo lilla,,female ego's mother's father,,,Verheijen1986,
-fMM,embo dinda,,female ego's mother's mother,,,Verheijen1986,
-meBS,kamanakang,,male ego's older brother's son,,,Verheijen1986,
-myBS,kamanakang,,male ego's younger brother's son,,,Verheijen1986,
-meZS,kamanakang,,male ego's older sister's son,,,Verheijen1986,
-myZS,kamanakang,,male ego's younger sister's son,,,Verheijen1986,
-meBD,kamanakang,,male ego's older brother's daughter,,,Verheijen1986,
-myBD,kamanakang,,male ego's younger brother's daughter,,,Verheijen1986,
-meZD,kamanakang,,male ego's older sister's daughter,,,Verheijen1986,
-myZD,kamanakang,,male ego's younger sister's daughter,,,Verheijen1986,
-feBS,kamanakang,,female ego's older brother's son,,,Verheijen1986,
-fyBS,kamanakang,,female ego's younger brother's son,,,Verheijen1986,
-feZS,kamanakang,,female ego's older sister's son,,,Verheijen1986,
-fyZS,kamanakang,,female ego's younger sister's son,,,Verheijen1986,
-feBD,kamanakang,,female ego's older brother's daughter,,,Verheijen1986,
-fyBD,kamanakang,,female ego's younger brother's daughter,,,Verheijen1986,
-feZD,kamanakang,,female ego's older sister's daughter,,,Verheijen1986,
-fyZD,kamanakang,,female ego's younger sister's daughter,,,Verheijen1986,
-mFeB,puah,,male ego's father's older brother,,,Verheijen1986,
-mFyB,"ua diki, ?puto",,male ego's father's younger brother,,,Verheijen1986,
-mFeZ,puah,,male ego's father's older sister,,,Verheijen1986,
-mFyZ,aya,,male ego's father's younger sister,,,Verheijen1986,
-mMeB,puah,,male ego's mother's older brother,,,Verheijen1986,
-mMyB,puto,,male ego's mother's younger brother,,,Verheijen1986,
-mMeZ,"emma basar, pua",,male ego's mother's older sister,,,Verheijen1986,
-mMyZ,"aya, ?emma diki",,male ego's mother's younger sister,,,Verheijen1986,
-fFeB,puah,,female ego's father's older brother,,,Verheijen1986,
-fFyB,"ua diki, ?puto",,female ego's father's younger brother,,,Verheijen1986,
-fFeZ,puah,,female ego's father's older sister,,,Verheijen1986,
-fFyZ,aya,,female ego's father's younger sister,,,Verheijen1986,
-fMeB,puah,,female ego's mother's older brother,,,Verheijen1986,
-fMyB,puto,,female ego's mother's younger brother,,,Verheijen1986,
-fMeZ,"emma basar, pua",,female ego's mother's older sister,,,Verheijen1986,
-fMyZ,"aya, ?emma diki",,female ego's mother's younger sister,,,Verheijen1986,
-mW,enda,,male ego's wife,,,Verheijen1986,
-fH,ella,,female ego‘s husband,,,Verheijen1986,
-mDH,ayuang,,male ego's daughter's husband,,,Verheijen1986,
-fDH,ayuang,,female ego's daughter's husband,,,Verheijen1986,
-mSW,ipar,,male ego's son's wife,,,Verheijen1986,
-fSW,ipar,,female ego's son's wife,,,Verheijen1986,
-mWF,matoa (lilla),,male ego's wife's father,,,Verheijen1986,
-mWM,matoa (dinda),,male ego's wife's mother,,,Verheijen1986,
-mWB,ipar,,male ego's wife's brother,,,Verheijen1986,
-mWZ,ipar,,male ego's wife's sister,,,Verheijen1986,
-fHF,matoa (lilla),,female ego's husband's father,,,Verheijen1986,
-fHM,matoa (dinda),,female ego's husband's mother,,,Verheijen1986,
-fHB,ipar,,female ego's husband's brother,,,Verheijen1986,
-fHZ,ipar,,female ego's husband's sister,,,Verheijen1986,
-mBW,ipar,,male ego's brother's wife,,,Verheijen1986,
-fBW,ipar,,female ego's brother's wife,,,Verheijen1986,
-mZH,ipar,,male ego's sister's husband,,,Verheijen1986,
-fZH,ipar,,female ego's sister's husband,,,Verheijen1986,
-mFBS,kalaki,,male ego's father's brother's son,,,Verheijen1986,
-mFZS,kalaki,,male ego's father's sister's son,,,Verheijen1986,
-mMBS,kalaki,,male ego's mother's brother's son,,,Verheijen1986,
-mMZS,kalaki,,male ego's mother's sister's son,,,Verheijen1986,
-mFBD,kalaki,,male ego's father's brother's daughter,,,Verheijen1986,
-mFZD,kalaki,,male ego's father's sister's daughter,,,Verheijen1986,
-mMBD,kalaki,,male ego's mother's brother's daughter,,,Verheijen1986,
-mMZD,kalaki,,male ego's mother's sister's daughter,,,Verheijen1986,
-fFBS,kalaki,,female ego's father's brother's son,,,Verheijen1986,
-fFZS,kalaki,,female ego's father's sister's son,,,Verheijen1986,
-fMBS,kalaki,,female ego's mother's brother's son,,,Verheijen1986,
-fMZS,kalaki,,female ego's mother's sister's son,,,Verheijen1986,
-fFBD,kalaki,,female ego's father's brother's daughter,,,Verheijen1986,
-fFZD,kalaki,,female ego's father's sister's daughter,,,Verheijen1986,
-fMBD,kalaki,,female ego's mother's brother's daughter,,,Verheijen1986,
-fMZD,kalaki,,female ego's mother's sister's daughter,,,Verheijen1986,
-mFeBS,kalaki,,male ego's father's brother's son,,,Verheijen1986,Inferred; NA
-mFyBS,kalaki,,male ego's father's brother's son,,,Verheijen1986,Inferred; NA
-mFeZS,kalaki,,male ego's father's sister's son,,,Verheijen1986,Inferred; NA
-mFyZS,kalaki,,male ego's father's sister's son,,,Verheijen1986,Inferred; NA
-mFeBD,kalaki,,male ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-mFyBD,kalaki,,male ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-mFeZD,kalaki,,male ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-mFyZD,kalaki,,male ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-mMeBS,kalaki,,male ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-mMyBS,kalaki,,male ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-mMeZS,kalaki,,male ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-mMyZS,kalaki,,male ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-mMeBD,kalaki,,male ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-mMyBD,kalaki,,male ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-mMeZD,kalaki,,male ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-mMyZD,kalaki,,male ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-mFBeS,kalaki,,male ego's father's brother's son,,,Verheijen1986,Inferred; NA
-mFByS,kalaki,,male ego's father's brother's son,,,Verheijen1986,Inferred; NA
-mFZeS,kalaki,,male ego's father's sister's son,,,Verheijen1986,Inferred; NA
-mFZyS,kalaki,,male ego's father's sister's son,,,Verheijen1986,Inferred; NA
-mFBeD,kalaki,,male ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-mFByD,kalaki,,male ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-mFZeD,kalaki,,male ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-mFZyD,kalaki,,male ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-mMBeS,kalaki,,male ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-mMByS,kalaki,,male ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-mMZeS,kalaki,,male ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-mMZyS,kalaki,,male ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-mMBeD,kalaki,,male ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-mMByD,kalaki,,male ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-mMZeD,kalaki,,male ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-mMZyD,kalaki,,male ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-fFeBS,kalaki,,female ego's father's brother's son,,,Verheijen1986,Inferred; NA
-fFyBS,kalaki,,female ego's father's brother's son,,,Verheijen1986,Inferred; NA
-fFeZS,kalaki,,female ego's father's sister's son,,,Verheijen1986,Inferred; NA
-fFyZS,kalaki,,female ego's father's sister's son,,,Verheijen1986,Inferred; NA
-fFeBD,kalaki,,female ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-fFyBD,kalaki,,female ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-fFeZD,kalaki,,female ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-fFyZD,kalaki,,female ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-fMeBS,kalaki,,female ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-fMyBS,kalaki,,female ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-fMeZS,kalaki,,female ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-fMyZS,kalaki,,female ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-fMeBD,kalaki,,female ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-fMyBD,kalaki,,female ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-fMeZD,kalaki,,female ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-fMyZD,kalaki,,female ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-fFBeS,kalaki,,female ego's father's brother's son,,,Verheijen1986,Inferred; NA
-fFByS,kalaki,,female ego's father's brother's son,,,Verheijen1986,Inferred; NA
-fFZeS,kalaki,,female ego's father's sister's son,,,Verheijen1986,Inferred; NA
-fFZyS,kalaki,,female ego's father's sister's son,,,Verheijen1986,Inferred; NA
-fFBeD,kalaki,,female ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-fFByD,kalaki,,female ego's father's brother's daughter,,,Verheijen1986,Inferred; NA
-fFZeD,kalaki,,female ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-fFZyD,kalaki,,female ego's father's sister's daughter,,,Verheijen1986,Inferred; NA
-fMBeS,kalaki,,female ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-fMByS,kalaki,,female ego's mother's brother's son,,,Verheijen1986,Inferred; NA
-fMZeS,kalaki,,female ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-fMZyS,kalaki,,female ego's mother's sister's son,,,Verheijen1986,Inferred; NA
-fMBeD,kalaki,,female ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-fMByD,kalaki,,female ego's mother's brother's daughter,,,Verheijen1986,Inferred; NA
-fMZeD,kalaki,,female ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
-fMZyD,kalaki,,female ego's mother's sister's daughter,,,Verheijen1986,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ekka",,"male ego's older brother",,,"Verheijen1986",""
+"myB","endi",,"male ego's younger brother",,,"Verheijen1986",""
+"feB","ekka",,"female ego's older brother",,,"Verheijen1986",""
+"fyB","endi",,"female ego's younger brother",,,"Verheijen1986",""
+"meZ","ekka",,"male ego's older sister",,,"Verheijen1986",""
+"myZ","endi",,"male ego's younger sister",,,"Verheijen1986",""
+"feZ","ekka",,"female ego's older sister",,,"Verheijen1986",""
+"fyZ","endi",,"female ego's younger sister",,,"Verheijen1986",""
+"mF","lolo, ua",,"male ego's father",,,"Verheijen1986",""
+"mM","emma",,"male ego's mother",,,"Verheijen1986",""
+"fF","lolo, ua",,"female ego's father",,,"Verheijen1986",""
+"fM","emma",,"female ego's mother",,,"Verheijen1986",""
+"mS","anaq dinda",,"male ego's son",,,"Verheijen1986",""
+"fS","anaq dinda",,"female ego's son",,,"Verheijen1986",""
+"mD","anaq lilla",,"male ego's daughter",,,"Verheijen1986",""
+"fD","anaq lilla",,"female ego's daughter",,,"Verheijen1986",""
+"mSS","umpu",,"male ego's son's son",,,"Verheijen1986",""
+"mSD","umpu",,"male ego's son's daughter",,,"Verheijen1986",""
+"mDS","umpu",,"male ego's daughter's son",,,"Verheijen1986",""
+"mDD","umpu",,"male ego's daughter's daughter",,,"Verheijen1986",""
+"fSS","umpu",,"female ego's son's son",,,"Verheijen1986",""
+"fSD","umpu",,"female ego's son's daughter",,,"Verheijen1986",""
+"fDS","umpu",,"female ego's daughter's son",,,"Verheijen1986",""
+"fDD","umpu",,"female ego's daugher's daughter",,,"Verheijen1986",""
+"mFF","embo lilla",,"male ego's father‘s father",,,"Verheijen1986",""
+"mFM","embo dinda",,"male ego's father's mother",,,"Verheijen1986",""
+"mMF","embo lilla",,"male ego's mother's father",,,"Verheijen1986",""
+"mMM","embo dinda",,"male ego's mother's mother",,,"Verheijen1986",""
+"fFF","embo lilla",,"female ego's father's father",,,"Verheijen1986",""
+"fFM","embo dinda",,"female ego's father's mother",,,"Verheijen1986",""
+"fMF","embo lilla",,"female ego's mother's father",,,"Verheijen1986",""
+"fMM","embo dinda",,"female ego's mother's mother",,,"Verheijen1986",""
+"meBS","kamanakang",,"male ego's older brother's son",,,"Verheijen1986",""
+"myBS","kamanakang",,"male ego's younger brother's son",,,"Verheijen1986",""
+"meZS","kamanakang",,"male ego's older sister's son",,,"Verheijen1986",""
+"myZS","kamanakang",,"male ego's younger sister's son",,,"Verheijen1986",""
+"meBD","kamanakang",,"male ego's older brother's daughter",,,"Verheijen1986",""
+"myBD","kamanakang",,"male ego's younger brother's daughter",,,"Verheijen1986",""
+"meZD","kamanakang",,"male ego's older sister's daughter",,,"Verheijen1986",""
+"myZD","kamanakang",,"male ego's younger sister's daughter",,,"Verheijen1986",""
+"feBS","kamanakang",,"female ego's older brother's son",,,"Verheijen1986",""
+"fyBS","kamanakang",,"female ego's younger brother's son",,,"Verheijen1986",""
+"feZS","kamanakang",,"female ego's older sister's son",,,"Verheijen1986",""
+"fyZS","kamanakang",,"female ego's younger sister's son",,,"Verheijen1986",""
+"feBD","kamanakang",,"female ego's older brother's daughter",,,"Verheijen1986",""
+"fyBD","kamanakang",,"female ego's younger brother's daughter",,,"Verheijen1986",""
+"feZD","kamanakang",,"female ego's older sister's daughter",,,"Verheijen1986",""
+"fyZD","kamanakang",,"female ego's younger sister's daughter",,,"Verheijen1986",""
+"mFeB","puah",,"male ego's father's older brother",,,"Verheijen1986",""
+"mFyB","ua diki, ?puto",,"male ego's father's younger brother",,,"Verheijen1986",""
+"mFeZ","puah",,"male ego's father's older sister",,,"Verheijen1986",""
+"mFyZ","aya",,"male ego's father's younger sister",,,"Verheijen1986",""
+"mMeB","puah",,"male ego's mother's older brother",,,"Verheijen1986",""
+"mMyB","puto",,"male ego's mother's younger brother",,,"Verheijen1986",""
+"mMeZ","emma basar, pua",,"male ego's mother's older sister",,,"Verheijen1986",""
+"mMyZ","aya, ?emma diki",,"male ego's mother's younger sister",,,"Verheijen1986",""
+"fFeB","puah",,"female ego's father's older brother",,,"Verheijen1986",""
+"fFyB","ua diki, ?puto",,"female ego's father's younger brother",,,"Verheijen1986",""
+"fFeZ","puah",,"female ego's father's older sister",,,"Verheijen1986",""
+"fFyZ","aya",,"female ego's father's younger sister",,,"Verheijen1986",""
+"fMeB","puah",,"female ego's mother's older brother",,,"Verheijen1986",""
+"fMyB","puto",,"female ego's mother's younger brother",,,"Verheijen1986",""
+"fMeZ","emma basar, pua",,"female ego's mother's older sister",,,"Verheijen1986",""
+"fMyZ","aya, ?emma diki",,"female ego's mother's younger sister",,,"Verheijen1986",""
+"mW","enda",,"male ego's wife",,,"Verheijen1986",""
+"fH","ella",,"female ego‘s husband",,,"Verheijen1986",""
+"mDH","ayuang",,"male ego's daughter's husband",,,"Verheijen1986",""
+"fDH","ayuang",,"female ego's daughter's husband",,,"Verheijen1986",""
+"mSW","ipar",,"male ego's son's wife",,,"Verheijen1986",""
+"fSW","ipar",,"female ego's son's wife",,,"Verheijen1986",""
+"mWF","matoa (lilla)",,"male ego's wife's father",,,"Verheijen1986",""
+"mWM","matoa (dinda)",,"male ego's wife's mother",,,"Verheijen1986",""
+"mWB","ipar",,"male ego's wife's brother",,,"Verheijen1986",""
+"mWZ","ipar",,"male ego's wife's sister",,,"Verheijen1986",""
+"fHF","matoa (lilla)",,"female ego's husband's father",,,"Verheijen1986",""
+"fHM","matoa (dinda)",,"female ego's husband's mother",,,"Verheijen1986",""
+"fHB","ipar",,"female ego's husband's brother",,,"Verheijen1986",""
+"fHZ","ipar",,"female ego's husband's sister",,,"Verheijen1986",""
+"mBW","ipar",,"male ego's brother's wife",,,"Verheijen1986",""
+"fBW","ipar",,"female ego's brother's wife",,,"Verheijen1986",""
+"mZH","ipar",,"male ego's sister's husband",,,"Verheijen1986",""
+"fZH","ipar",,"female ego's sister's husband",,,"Verheijen1986",""
+"mFBS","kalaki",,"male ego's father's brother's son",,,"Verheijen1986",""
+"mFZS","kalaki",,"male ego's father's sister's son",,,"Verheijen1986",""
+"mMBS","kalaki",,"male ego's mother's brother's son",,,"Verheijen1986",""
+"mMZS","kalaki",,"male ego's mother's sister's son",,,"Verheijen1986",""
+"mFBD","kalaki",,"male ego's father's brother's daughter",,,"Verheijen1986",""
+"mFZD","kalaki",,"male ego's father's sister's daughter",,,"Verheijen1986",""
+"mMBD","kalaki",,"male ego's mother's brother's daughter",,,"Verheijen1986",""
+"mMZD","kalaki",,"male ego's mother's sister's daughter",,,"Verheijen1986",""
+"fFBS","kalaki",,"female ego's father's brother's son",,,"Verheijen1986",""
+"fFZS","kalaki",,"female ego's father's sister's son",,,"Verheijen1986",""
+"fMBS","kalaki",,"female ego's mother's brother's son",,,"Verheijen1986",""
+"fMZS","kalaki",,"female ego's mother's sister's son",,,"Verheijen1986",""
+"fFBD","kalaki",,"female ego's father's brother's daughter",,,"Verheijen1986",""
+"fFZD","kalaki",,"female ego's father's sister's daughter",,,"Verheijen1986",""
+"fMBD","kalaki",,"female ego's mother's brother's daughter",,,"Verheijen1986",""
+"fMZD","kalaki",,"female ego's mother's sister's daughter",,,"Verheijen1986",""
+"mFeBS","kalaki",,"male ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"mFyBS","kalaki",,"male ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"mFeZS","kalaki",,"male ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"mFyZS","kalaki",,"male ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"mFeBD","kalaki",,"male ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mFyBD","kalaki",,"male ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mFeZD","kalaki",,"male ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mFyZD","kalaki",,"male ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mMeBS","kalaki",,"male ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"mMyBS","kalaki",,"male ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"mMeZS","kalaki",,"male ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"mMyZS","kalaki",,"male ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"mMeBD","kalaki",,"male ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mMyBD","kalaki",,"male ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mMeZD","kalaki",,"male ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mMyZD","kalaki",,"male ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mFBeS","kalaki",,"male ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"mFByS","kalaki",,"male ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"mFZeS","kalaki",,"male ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"mFZyS","kalaki",,"male ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"mFBeD","kalaki",,"male ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mFByD","kalaki",,"male ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mFZeD","kalaki",,"male ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mFZyD","kalaki",,"male ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mMBeS","kalaki",,"male ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"mMByS","kalaki",,"male ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"mMZeS","kalaki",,"male ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"mMZyS","kalaki",,"male ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"mMBeD","kalaki",,"male ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mMByD","kalaki",,"male ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"mMZeD","kalaki",,"male ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"mMZyD","kalaki",,"male ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fFeBS","kalaki",,"female ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"fFyBS","kalaki",,"female ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"fFeZS","kalaki",,"female ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"fFyZS","kalaki",,"female ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"fFeBD","kalaki",,"female ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fFyBD","kalaki",,"female ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fFeZD","kalaki",,"female ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fFyZD","kalaki",,"female ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fMeBS","kalaki",,"female ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"fMyBS","kalaki",,"female ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"fMeZS","kalaki",,"female ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"fMyZS","kalaki",,"female ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"fMeBD","kalaki",,"female ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fMyBD","kalaki",,"female ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fMeZD","kalaki",,"female ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fMyZD","kalaki",,"female ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fFBeS","kalaki",,"female ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"fFByS","kalaki",,"female ego's father's brother's son",,,"Verheijen1986","Inferred; NA"
+"fFZeS","kalaki",,"female ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"fFZyS","kalaki",,"female ego's father's sister's son",,,"Verheijen1986","Inferred; NA"
+"fFBeD","kalaki",,"female ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fFByD","kalaki",,"female ego's father's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fFZeD","kalaki",,"female ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fFZyD","kalaki",,"female ego's father's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fMBeS","kalaki",,"female ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"fMByS","kalaki",,"female ego's mother's brother's son",,,"Verheijen1986","Inferred; NA"
+"fMZeS","kalaki",,"female ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"fMZyS","kalaki",,"female ego's mother's sister's son",,,"Verheijen1986","Inferred; NA"
+"fMBeD","kalaki",,"female ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fMByD","kalaki",,"female ego's mother's brother's daughter",,,"Verheijen1986","Inferred; NA"
+"fMZeD","kalaki",,"female ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"
+"fMZyD","kalaki",,"female ego's mother's sister's daughter",,,"Verheijen1986","Inferred; NA"

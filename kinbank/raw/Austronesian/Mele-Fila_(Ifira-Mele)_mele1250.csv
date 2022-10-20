@@ -1,147 +1,147 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,taina,,male ego's older brother,,,ElbertND,
-myB,taina,,male ego's younger brother,,,ElbertND,
-feB,kave,,female ego's older brother,,,ElbertND,
-fyB,kave,,female ego's younger brother,,,ElbertND,
-meZ,kave,,male ego's older sister,,,ElbertND,
-myZ,kave,,male ego's younger sister,,,ElbertND,
-feZ,taina,,female ego's older sister,,,ElbertND,
-fyZ,taina,,female ego's younger sister,,,ElbertND,
-mF,"emama, mamau, támana",,male ego's father,,,ElbertND,
-mM,"etata, leita, tinana",,male ego's mother,,,ElbertND,
-fF,"emama, mamau, támana",,female ego's father,,,ElbertND,
-fM,"etata, leita, tinana",,female ego's mother,,,ElbertND,
-mS,tama,,male ego's son,,,ElbertND,
-fS,tama,,female ego's son,,,ElbertND,
-mD,tama,,male ego's daughter,,,ElbertND,
-fD,tama,,female ego's daughter,,,ElbertND,
-mSS,makupuna,,male ego's son's son,,,ElbertND,
-mSD,makupuna,,male ego's son's daughter,,,ElbertND,
-mDS,makupuna,,male ego's daughter's son,,,ElbertND,
-mDD,makupuna,,male ego's daughter's daughter,,,ElbertND,
-fSS,makupuna,,female ego's son's son,,,ElbertND,
-fSD,makupuna,,female ego's son's daughter,,,ElbertND,
-fDS,makupuna,,female ego's daughter's son,,,ElbertND,
-fDD,makupuna,,female ego's daugher's daughter,,,ElbertND,
-mFF,"tupuna, pua, taata",,male ego's father‘s father,,,ElbertND,
-mFM,"tupuna, pua",,male ego's father's mother,,,ElbertND,
-mMF,"tupuna, pua, taata",,male ego's mother's father,,,ElbertND,
-mMM,"tupuna, pua",,male ego's mother's mother,,,ElbertND,
-fFF,"tupuna, pua, taata",,female ego's father's father,,,ElbertND,
-fFM,"tupuna, pua",,female ego's father's mother,,,ElbertND,
-fMF,"tupuna, pua, taata",,female ego's mother's father,,,ElbertND,
-fMM,"tupuna, pua",,female ego's mother's mother,,,ElbertND,
-meBS,"iraamutu, raamutu, eemutu, tama",,male ego's older brother's son,,,ElbertND,
-myBS,"iraamutu, raamutu, eemutu, tama",,male ego's younger brother's son,,,ElbertND,
-meZS,"iraamutu, raamutu, eemutu, tama",,male ego's older sister's son,,,ElbertND,
-myZS,"iraamutu, raamutu, eemutu, tama",,male ego's younger sister's son,,,ElbertND,
-meBD,iraamutu,,male ego's older brother's daughter,,,ElbertND,
-myBD,iraamutu,,male ego's younger brother's daughter,,,ElbertND,
-meZD,iraamutu,,male ego's older sister's daughter,,,ElbertND,
-myZD,iraamutu,,male ego's younger sister's daughter,,,ElbertND,
-feBS,"iraamutu, raamutu, eemutu, tama",,female ego's older brother's son,,,ElbertND,
-fyBS,"iraamutu, raamutu, eemutu, tama",,female ego's younger brother's son,,,ElbertND,
-feZS,"iraamutu, raamutu, eemutu, tama",,female ego's older sister's son,,,ElbertND,
-fyZS,"iraamutu, raamutu, eemutu, tama",,female ego's younger sister's son,,,ElbertND,
-feBD,iraamutu,,female ego's older brother's daughter,,,ElbertND,
-fyBD,iraamutu,,female ego's younger brother's daughter,,,ElbertND,
-feZD,iraamutu,,female ego's older sister's daughter,,,ElbertND,
-fyZD,iraamutu,,female ego's younger sister's daughter,,,ElbertND,
-mFeB,mamau,,male ego's father's older brother,,,ElbertND,
-mFyB,mamau,,male ego's father's younger brother,,,ElbertND,
-mFeZ,mami,,male ego's father's older sister,,,ElbertND,
-mFyZ,mami,,male ego's father's younger sister,,,ElbertND,
-mMeB,aua,,male ego's mother's older brother,,,ElbertND,
-mMyB,aua,,male ego's mother's younger brother,,,ElbertND,
-mMeZ,mami,,male ego's mother's older sister,,,ElbertND,
-mMyZ,mami,,male ego's mother's younger sister,,,ElbertND,
-fFeB,mamau,,female ego's father's older brother,,,ElbertND,
-fFyB,mamau,,female ego's father's younger brother,,,ElbertND,
-fFeZ,mami,,female ego's father's older sister,,,ElbertND,
-fFyZ,mami,,female ego's father's younger sister,,,ElbertND,
-fMeB,aua,,female ego's mother's older brother,,,ElbertND,
-fMyB,aua,,female ego's mother's younger brother,,,ElbertND,
-fMeZ,mami,,female ego's mother's older sister,,,ElbertND,
-fMyZ,mami,,female ego's mother's younger sister,,,ElbertND,
-mW,tefine,,male ego's wife,,,ElbertND,
-fH,tomuano,,female ego‘s husband,,,ElbertND,
-mFBS,kaleka,,male ego's father's brother's son,,,ElbertND,
-mFZS,kaleka,,male ego's father's sister's son,,,ElbertND,
-mMBS,kaleka,,male ego's mother's brother's son,,,ElbertND,
-mMZS,kaleka,,male ego's mother's sister's son,,,ElbertND,
-mFBD,kaleka,,male ego's father's brother's daughter,,,ElbertND,
-mFZD,kaleka,,male ego's father's sister's daughter,,,ElbertND,
-mMBD,kaleka,,male ego's mother's brother's daughter,,,ElbertND,
-mMZD,kaleka,,male ego's mother's sister's daughter,,,ElbertND,
-fFBS,kaleka,,female ego's father's brother's son,,,ElbertND,
-fFZS,kaleka,,female ego's father's sister's son,,,ElbertND,
-fMBS,kaleka,,female ego's mother's brother's son,,,ElbertND,
-fMZS,kaleka,,female ego's mother's sister's son,,,ElbertND,
-fFBD,kaleka,,female ego's father's brother's daughter,,,ElbertND,
-fFZD,kaleka,,female ego's father's sister's daughter,,,ElbertND,
-fMBD,kaleka,,female ego's mother's brother's daughter,,,ElbertND,
-fMZD,kaleka,,female ego's mother's sister's daughter,,,ElbertND,
-mFeBS,kaleka,,male ego's father's brother's son,,,ElbertND,Inferred; NA
-mFyBS,kaleka,,male ego's father's brother's son,,,ElbertND,Inferred; NA
-mFeZS,kaleka,,male ego's father's sister's son,,,ElbertND,Inferred; NA
-mFyZS,kaleka,,male ego's father's sister's son,,,ElbertND,Inferred; NA
-mFeBD,kaleka,,male ego's father's brother's daughter,,,ElbertND,Inferred; NA
-mFyBD,kaleka,,male ego's father's brother's daughter,,,ElbertND,Inferred; NA
-mFeZD,kaleka,,male ego's father's sister's daughter,,,ElbertND,Inferred; NA
-mFyZD,kaleka,,male ego's father's sister's daughter,,,ElbertND,Inferred; NA
-mMeBS,kaleka,,male ego's mother's brother's son,,,ElbertND,Inferred; NA
-mMyBS,kaleka,,male ego's mother's brother's son,,,ElbertND,Inferred; NA
-mMeZS,kaleka,,male ego's mother's sister's son,,,ElbertND,Inferred; NA
-mMyZS,kaleka,,male ego's mother's sister's son,,,ElbertND,Inferred; NA
-mMeBD,kaleka,,male ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-mMyBD,kaleka,,male ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-mMeZD,kaleka,,male ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-mMyZD,kaleka,,male ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-mFBeS,kaleka,,male ego's father's brother's son,,,ElbertND,Inferred; NA
-mFByS,kaleka,,male ego's father's brother's son,,,ElbertND,Inferred; NA
-mFZeS,kaleka,,male ego's father's sister's son,,,ElbertND,Inferred; NA
-mFZyS,kaleka,,male ego's father's sister's son,,,ElbertND,Inferred; NA
-mFBeD,kaleka,,male ego's father's brother's daughter,,,ElbertND,Inferred; NA
-mFByD,kaleka,,male ego's father's brother's daughter,,,ElbertND,Inferred; NA
-mFZeD,kaleka,,male ego's father's sister's daughter,,,ElbertND,Inferred; NA
-mFZyD,kaleka,,male ego's father's sister's daughter,,,ElbertND,Inferred; NA
-mMBeS,kaleka,,male ego's mother's brother's son,,,ElbertND,Inferred; NA
-mMByS,kaleka,,male ego's mother's brother's son,,,ElbertND,Inferred; NA
-mMZeS,kaleka,,male ego's mother's sister's son,,,ElbertND,Inferred; NA
-mMZyS,kaleka,,male ego's mother's sister's son,,,ElbertND,Inferred; NA
-mMBeD,kaleka,,male ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-mMByD,kaleka,,male ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-mMZeD,kaleka,,male ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-mMZyD,kaleka,,male ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-fFeBS,kaleka,,female ego's father's brother's son,,,ElbertND,Inferred; NA
-fFyBS,kaleka,,female ego's father's brother's son,,,ElbertND,Inferred; NA
-fFeZS,kaleka,,female ego's father's sister's son,,,ElbertND,Inferred; NA
-fFyZS,kaleka,,female ego's father's sister's son,,,ElbertND,Inferred; NA
-fFeBD,kaleka,,female ego's father's brother's daughter,,,ElbertND,Inferred; NA
-fFyBD,kaleka,,female ego's father's brother's daughter,,,ElbertND,Inferred; NA
-fFeZD,kaleka,,female ego's father's sister's daughter,,,ElbertND,Inferred; NA
-fFyZD,kaleka,,female ego's father's sister's daughter,,,ElbertND,Inferred; NA
-fMeBS,kaleka,,female ego's mother's brother's son,,,ElbertND,Inferred; NA
-fMyBS,kaleka,,female ego's mother's brother's son,,,ElbertND,Inferred; NA
-fMeZS,kaleka,,female ego's mother's sister's son,,,ElbertND,Inferred; NA
-fMyZS,kaleka,,female ego's mother's sister's son,,,ElbertND,Inferred; NA
-fMeBD,kaleka,,female ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-fMyBD,kaleka,,female ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-fMeZD,kaleka,,female ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-fMyZD,kaleka,,female ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-fFBeS,kaleka,,female ego's father's brother's son,,,ElbertND,Inferred; NA
-fFByS,kaleka,,female ego's father's brother's son,,,ElbertND,Inferred; NA
-fFZeS,kaleka,,female ego's father's sister's son,,,ElbertND,Inferred; NA
-fFZyS,kaleka,,female ego's father's sister's son,,,ElbertND,Inferred; NA
-fFBeD,kaleka,,female ego's father's brother's daughter,,,ElbertND,Inferred; NA
-fFByD,kaleka,,female ego's father's brother's daughter,,,ElbertND,Inferred; NA
-fFZeD,kaleka,,female ego's father's sister's daughter,,,ElbertND,Inferred; NA
-fFZyD,kaleka,,female ego's father's sister's daughter,,,ElbertND,Inferred; NA
-fMBeS,kaleka,,female ego's mother's brother's son,,,ElbertND,Inferred; NA
-fMByS,kaleka,,female ego's mother's brother's son,,,ElbertND,Inferred; NA
-fMZeS,kaleka,,female ego's mother's sister's son,,,ElbertND,Inferred; NA
-fMZyS,kaleka,,female ego's mother's sister's son,,,ElbertND,Inferred; NA
-fMBeD,kaleka,,female ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-fMByD,kaleka,,female ego's mother's brother's daughter,,,ElbertND,Inferred; NA
-fMZeD,kaleka,,female ego's mother's sister's daughter,,,ElbertND,Inferred; NA
-fMZyD,kaleka,,female ego's mother's sister's daughter,,,ElbertND,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","taina",,"male ego's older brother",,,"ElbertND",""
+"myB","taina",,"male ego's younger brother",,,"ElbertND",""
+"feB","kave",,"female ego's older brother",,,"ElbertND",""
+"fyB","kave",,"female ego's younger brother",,,"ElbertND",""
+"meZ","kave",,"male ego's older sister",,,"ElbertND",""
+"myZ","kave",,"male ego's younger sister",,,"ElbertND",""
+"feZ","taina",,"female ego's older sister",,,"ElbertND",""
+"fyZ","taina",,"female ego's younger sister",,,"ElbertND",""
+"mF","emama, mamau, támana",,"male ego's father",,,"ElbertND",""
+"mM","etata, leita, tinana",,"male ego's mother",,,"ElbertND",""
+"fF","emama, mamau, támana",,"female ego's father",,,"ElbertND",""
+"fM","etata, leita, tinana",,"female ego's mother",,,"ElbertND",""
+"mS","tama",,"male ego's son",,,"ElbertND",""
+"fS","tama",,"female ego's son",,,"ElbertND",""
+"mD","tama",,"male ego's daughter",,,"ElbertND",""
+"fD","tama",,"female ego's daughter",,,"ElbertND",""
+"mSS","makupuna",,"male ego's son's son",,,"ElbertND",""
+"mSD","makupuna",,"male ego's son's daughter",,,"ElbertND",""
+"mDS","makupuna",,"male ego's daughter's son",,,"ElbertND",""
+"mDD","makupuna",,"male ego's daughter's daughter",,,"ElbertND",""
+"fSS","makupuna",,"female ego's son's son",,,"ElbertND",""
+"fSD","makupuna",,"female ego's son's daughter",,,"ElbertND",""
+"fDS","makupuna",,"female ego's daughter's son",,,"ElbertND",""
+"fDD","makupuna",,"female ego's daugher's daughter",,,"ElbertND",""
+"mFF","tupuna, pua, taata",,"male ego's father‘s father",,,"ElbertND",""
+"mFM","tupuna, pua",,"male ego's father's mother",,,"ElbertND",""
+"mMF","tupuna, pua, taata",,"male ego's mother's father",,,"ElbertND",""
+"mMM","tupuna, pua",,"male ego's mother's mother",,,"ElbertND",""
+"fFF","tupuna, pua, taata",,"female ego's father's father",,,"ElbertND",""
+"fFM","tupuna, pua",,"female ego's father's mother",,,"ElbertND",""
+"fMF","tupuna, pua, taata",,"female ego's mother's father",,,"ElbertND",""
+"fMM","tupuna, pua",,"female ego's mother's mother",,,"ElbertND",""
+"meBS","iraamutu, raamutu, eemutu, tama",,"male ego's older brother's son",,,"ElbertND",""
+"myBS","iraamutu, raamutu, eemutu, tama",,"male ego's younger brother's son",,,"ElbertND",""
+"meZS","iraamutu, raamutu, eemutu, tama",,"male ego's older sister's son",,,"ElbertND",""
+"myZS","iraamutu, raamutu, eemutu, tama",,"male ego's younger sister's son",,,"ElbertND",""
+"meBD","iraamutu",,"male ego's older brother's daughter",,,"ElbertND",""
+"myBD","iraamutu",,"male ego's younger brother's daughter",,,"ElbertND",""
+"meZD","iraamutu",,"male ego's older sister's daughter",,,"ElbertND",""
+"myZD","iraamutu",,"male ego's younger sister's daughter",,,"ElbertND",""
+"feBS","iraamutu, raamutu, eemutu, tama",,"female ego's older brother's son",,,"ElbertND",""
+"fyBS","iraamutu, raamutu, eemutu, tama",,"female ego's younger brother's son",,,"ElbertND",""
+"feZS","iraamutu, raamutu, eemutu, tama",,"female ego's older sister's son",,,"ElbertND",""
+"fyZS","iraamutu, raamutu, eemutu, tama",,"female ego's younger sister's son",,,"ElbertND",""
+"feBD","iraamutu",,"female ego's older brother's daughter",,,"ElbertND",""
+"fyBD","iraamutu",,"female ego's younger brother's daughter",,,"ElbertND",""
+"feZD","iraamutu",,"female ego's older sister's daughter",,,"ElbertND",""
+"fyZD","iraamutu",,"female ego's younger sister's daughter",,,"ElbertND",""
+"mFeB","mamau",,"male ego's father's older brother",,,"ElbertND",""
+"mFyB","mamau",,"male ego's father's younger brother",,,"ElbertND",""
+"mFeZ","mami",,"male ego's father's older sister",,,"ElbertND",""
+"mFyZ","mami",,"male ego's father's younger sister",,,"ElbertND",""
+"mMeB","aua",,"male ego's mother's older brother",,,"ElbertND",""
+"mMyB","aua",,"male ego's mother's younger brother",,,"ElbertND",""
+"mMeZ","mami",,"male ego's mother's older sister",,,"ElbertND",""
+"mMyZ","mami",,"male ego's mother's younger sister",,,"ElbertND",""
+"fFeB","mamau",,"female ego's father's older brother",,,"ElbertND",""
+"fFyB","mamau",,"female ego's father's younger brother",,,"ElbertND",""
+"fFeZ","mami",,"female ego's father's older sister",,,"ElbertND",""
+"fFyZ","mami",,"female ego's father's younger sister",,,"ElbertND",""
+"fMeB","aua",,"female ego's mother's older brother",,,"ElbertND",""
+"fMyB","aua",,"female ego's mother's younger brother",,,"ElbertND",""
+"fMeZ","mami",,"female ego's mother's older sister",,,"ElbertND",""
+"fMyZ","mami",,"female ego's mother's younger sister",,,"ElbertND",""
+"mW","tefine",,"male ego's wife",,,"ElbertND",""
+"fH","tomuano",,"female ego‘s husband",,,"ElbertND",""
+"mFBS","kaleka",,"male ego's father's brother's son",,,"ElbertND",""
+"mFZS","kaleka",,"male ego's father's sister's son",,,"ElbertND",""
+"mMBS","kaleka",,"male ego's mother's brother's son",,,"ElbertND",""
+"mMZS","kaleka",,"male ego's mother's sister's son",,,"ElbertND",""
+"mFBD","kaleka",,"male ego's father's brother's daughter",,,"ElbertND",""
+"mFZD","kaleka",,"male ego's father's sister's daughter",,,"ElbertND",""
+"mMBD","kaleka",,"male ego's mother's brother's daughter",,,"ElbertND",""
+"mMZD","kaleka",,"male ego's mother's sister's daughter",,,"ElbertND",""
+"fFBS","kaleka",,"female ego's father's brother's son",,,"ElbertND",""
+"fFZS","kaleka",,"female ego's father's sister's son",,,"ElbertND",""
+"fMBS","kaleka",,"female ego's mother's brother's son",,,"ElbertND",""
+"fMZS","kaleka",,"female ego's mother's sister's son",,,"ElbertND",""
+"fFBD","kaleka",,"female ego's father's brother's daughter",,,"ElbertND",""
+"fFZD","kaleka",,"female ego's father's sister's daughter",,,"ElbertND",""
+"fMBD","kaleka",,"female ego's mother's brother's daughter",,,"ElbertND",""
+"fMZD","kaleka",,"female ego's mother's sister's daughter",,,"ElbertND",""
+"mFeBS","kaleka",,"male ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"mFyBS","kaleka",,"male ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"mFeZS","kaleka",,"male ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"mFyZS","kaleka",,"male ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"mFeBD","kaleka",,"male ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"mFyBD","kaleka",,"male ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"mFeZD","kaleka",,"male ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"mFyZD","kaleka",,"male ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"mMeBS","kaleka",,"male ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"mMyBS","kaleka",,"male ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"mMeZS","kaleka",,"male ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"mMyZS","kaleka",,"male ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"mMeBD","kaleka",,"male ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"mMyBD","kaleka",,"male ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"mMeZD","kaleka",,"male ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"mMyZD","kaleka",,"male ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"mFBeS","kaleka",,"male ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"mFByS","kaleka",,"male ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"mFZeS","kaleka",,"male ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"mFZyS","kaleka",,"male ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"mFBeD","kaleka",,"male ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"mFByD","kaleka",,"male ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"mFZeD","kaleka",,"male ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"mFZyD","kaleka",,"male ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"mMBeS","kaleka",,"male ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"mMByS","kaleka",,"male ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"mMZeS","kaleka",,"male ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"mMZyS","kaleka",,"male ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"mMBeD","kaleka",,"male ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"mMByD","kaleka",,"male ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"mMZeD","kaleka",,"male ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"mMZyD","kaleka",,"male ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"fFeBS","kaleka",,"female ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"fFyBS","kaleka",,"female ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"fFeZS","kaleka",,"female ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"fFyZS","kaleka",,"female ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"fFeBD","kaleka",,"female ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"fFyBD","kaleka",,"female ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"fFeZD","kaleka",,"female ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"fFyZD","kaleka",,"female ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"fMeBS","kaleka",,"female ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"fMyBS","kaleka",,"female ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"fMeZS","kaleka",,"female ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"fMyZS","kaleka",,"female ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"fMeBD","kaleka",,"female ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"fMyBD","kaleka",,"female ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"fMeZD","kaleka",,"female ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"fMyZD","kaleka",,"female ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"fFBeS","kaleka",,"female ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"fFByS","kaleka",,"female ego's father's brother's son",,,"ElbertND","Inferred; NA"
+"fFZeS","kaleka",,"female ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"fFZyS","kaleka",,"female ego's father's sister's son",,,"ElbertND","Inferred; NA"
+"fFBeD","kaleka",,"female ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"fFByD","kaleka",,"female ego's father's brother's daughter",,,"ElbertND","Inferred; NA"
+"fFZeD","kaleka",,"female ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"fFZyD","kaleka",,"female ego's father's sister's daughter",,,"ElbertND","Inferred; NA"
+"fMBeS","kaleka",,"female ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"fMByS","kaleka",,"female ego's mother's brother's son",,,"ElbertND","Inferred; NA"
+"fMZeS","kaleka",,"female ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"fMZyS","kaleka",,"female ego's mother's sister's son",,,"ElbertND","Inferred; NA"
+"fMBeD","kaleka",,"female ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"fMByD","kaleka",,"female ego's mother's brother's daughter",,,"ElbertND","Inferred; NA"
+"fMZeD","kaleka",,"female ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"
+"fMZyD","kaleka",,"female ego's mother's sister's daughter",,,"ElbertND","Inferred; NA"

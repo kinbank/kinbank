@@ -1,111 +1,111 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tuakana,,male ego's older brother,,,Bauer1993,
-myB,teina,,male ego's younger brother,,,Bauer1993,
-feB,tungaane,,female ego's older brother,,,Bauer1993,
-fyB,tungaane,,female ego's younger brother,,,Bauer1993,
-meZ,tuahine,,male ego's older sister,,,Bauer1993,
-myZ,tuahine,,male ego's younger sister,,,Bauer1993,
-feZ,tuakana,,female ego's older sister,,,Bauer1993,
-fyZ,teina,,female ego's younger sister,,,Bauer1993,
-mF,matua,,male ego's father,,,Bauer1993,
-mM,"matua wahine, whaea",,male ego's mother,,,Bauer1993,matua wahine is formal
-fF,matua,,female ego's father,,,Bauer1993,
-fM,"matua wahine, whaea",,female ego's mother,,,Bauer1993,matua wahine is formal
-mS,tama,,male ego's son,,,Bauer1993,
-fS,tama,,female ego's son,,,Bauer1993,
-mD,"tamaahine, kootiro",,male ego's daughter,,,Bauer1993,tamaahine is formal
-fD,"tamaahine, kootiro",,female ego's daughter,,,Bauer1993,tamaahine is formal
-mSS,mokopuna,,male ego's son's son,,,Bauer1993,
-mSD,mokopuna,,male ego's son's daughter,,,Bauer1993,
-mDS,mokopuna,,male ego's daughter's son,,,Bauer1993,
-mDD,mokopuna,,male ego's daughter's daughter,,,Bauer1993,
-fSS,mokopuna,,female ego's son's son,,,Bauer1993,
-fSD,mokopuna,,female ego's son's daughter,,,Bauer1993,
-fDS,mokopuna,,female ego's daughter's son,,,Bauer1993,
-fDD,mokopuna,,female ego's daugher's daughter,,,Bauer1993,
-mFF,"tipuna, tupuna matua",,male ego's father‘s father,,,Bauer1993,
-mFM,"tipuna, tupuna matua",,male ego's father's mother,,,Bauer1993,
-mMF,"tipuna, tupuna matua",,male ego's mother's father,,,Bauer1993,
-mMM,"tipuna, tupuna matua",,male ego's mother's mother,,,Bauer1993,
-fFF,"tipuna, tupuna matua",,female ego's father's father,,,Bauer1993,
-fFM,"tipuna, tupuna matua",,female ego's father's mother,,,Bauer1993,
-fMF,"tipuna, tupuna matua",,female ego's mother's father,,,Bauer1993,
-fMM,"tipuna, tupuna matua",,female ego's mother's mother,,,Bauer1993,
-meBS,iraamutu,,male ego's older brother's son,,,Bauer1993,
-myBS,iraamutu,,male ego's younger brother's son,,,Bauer1993,
-meZS,iraamutu,,male ego's older sister's son,,,Bauer1993,
-myZS,iraamutu,,male ego's younger sister's son,,,Bauer1993,
-meBD,iraamutu,,male ego's older brother's daughter,,,Bauer1993,
-myBD,iraamutu,,male ego's younger brother's daughter,,,Bauer1993,
-meZD,iraamutu,,male ego's older sister's daughter,,,Bauer1993,
-myZD,iraamutu,,male ego's younger sister's daughter,,,Bauer1993,
-feBS,iraamutu,,female ego's older brother's son,,,Bauer1993,
-fyBS,iraamutu,,female ego's younger brother's son,,,Bauer1993,
-feZS,iraamutu,,female ego's older sister's son,,,Bauer1993,
-fyZS,iraamutu,,female ego's younger sister's son,,,Bauer1993,
-feBD,iraamutu,,female ego's older brother's daughter,,,Bauer1993,
-fyBD,iraamutu,,female ego's younger brother's daughter,,,Bauer1993,
-feZD,iraamutu,,female ego's older sister's daughter,,,Bauer1993,
-fyZD,iraamutu,,female ego's younger sister's daughter,,,Bauer1993,
-mFeB,"matua, matua keekee, matakeekee",,male ego's father's older brother,,,Bauer1993,"matua keekee, matakeekee"
-mFyB,"matua, matua keekee, matakeekee",,male ego's father's younger brother,,,Bauer1993,
-mFeZ,"whaea, matua keekee, matakeekee",,male ego's father's older sister,,,Bauer1993,
-mFyZ,"whaea, matua keekee, matakeekee",,male ego's father's younger sister,,,Bauer1993,
-mMeB,"matua, matua keekee, matakeekee",,male ego's mother's older brother,,,Bauer1993,
-mMyB,"matua, matua keekee, matakeekee",,male ego's mother's younger brother,,,Bauer1993,
-mMeZ,"whaea, matua keekee, matakeekee",,male ego's mother's older sister,,,Bauer1993,
-mMyZ,"whaea, matua keekee, matakeekee",,male ego's mother's younger sister,,,Bauer1993,
-fFeB,"matua, matua keekee, matakeekee",,female ego's father's older brother,,,Bauer1993,
-fFyB,"matua, matua keekee, matakeekee",,female ego's father's younger brother,,,Bauer1993,
-fFeZ,"whaea, matua keekee, matakeekee",,female ego's father's older sister,,,Bauer1993,
-fFyZ,"whaea, matua keekee, matakeekee",,female ego's father's younger sister,,,Bauer1993,
-fMeB,"matua, matua keekee, matakeekee",,female ego's mother's older brother,,,Bauer1993,
-fMyB,"matua, matua keekee, matakeekee",,female ego's mother's younger brother,,,Bauer1993,
-fMeZ,"whaea, matua keekee, matakeekee",,female ego's mother's older sister,,,Bauer1993,
-fMyZ,"whaea, matua keekee, matakeekee",,female ego's mother's younger sister,,,Bauer1993,
-mW,"wahine, hoa",,male ego's wife,,,Bauer1993,
-fH,"taane, hoa",,female ego‘s husband,,,Bauer1993,
-mWF,hungawai,,male ego's wife's father,,,Bauer1993,
-mWM,hungawai,,male ego's wife's mother,,,Bauer1993,
-mWB,taokete,,male ego's wife's brother,,,Bauer1993,
-mWZ,auwahine,,male ego's wife's sister,,,Bauer1993,
-fHF,hungawai,,female ego's husband's father,,,Bauer1993,
-fHM,hungawai,,female ego's husband's mother,,,Bauer1993,
-fHB,autaane,,female ego's husband's brother,,,Bauer1993,
-fHZ,taokete,,female ego's husband's sister,,,Bauer1993,
-mBW,auwahine,,male ego's brother's wife,,,Bauer1993,
-fBW,taokete,,female ego's brother's wife,,,Bauer1993,
-mZH,taokete,,male ego's sister's husband,,,Bauer1993,
-fZH,autaane,,female ego's sister's husband,,,Bauer1993,
-mFeBS,tuakana,,male ego's father‘s older brother‘s son,,,Bauer1993,"Note: it appears that normally only the relative age of the cousin to ego matters, rather than the raltive age of parents (see Bauer, Parker and Evans 1993:571)"
-mFyBS,teina,,male ego‘s father‘s younger brother‘s son,,,Bauer1993,
-mFeZS,tuakana,,male ego's father‘s older sister‘s son,,,Bauer1993,
-mFyZS,teina,,male ego‘s father‘s younger sister‘s son,,,Bauer1993,
-mFeBD,tuahine,,male ego's father‘s older brother‘s daughter,,,Bauer1993,
-mFyBD,tuahine,,male ego‘s father‘s younger brother‘s daughter,,,Bauer1993,
-mFeZD,tuahine,,male ego's father‘s older sister‘s daughter,,,Bauer1993,
-mFyZD,tuahine,,male ego‘s father‘s younger sister‘s daughter,,,Bauer1993,
-mMeBS,tuakana,,male ego's mother‘s older brother‘s son,,,Bauer1993,
-mMyBS,teina,,male ego‘s mother‘s younger brother‘s son,,,Bauer1993,
-mMeZS,tuakana,,male ego's mother‘s older sister‘s son,,,Bauer1993,
-mMyZS,teina,,male ego‘s mother‘s younger sister‘s son,,,Bauer1993,
-mMeBD,tuahine,,male ego's mother‘s older brother‘s daughter,,,Bauer1993,
-mMyBD,tuahine,,male ego‘s mother‘s younger brother‘s daughter,,,Bauer1993,
-mMeZD,tuahine,,male ego's mother‘s older sister‘s daughter,,,Bauer1993,
-mMyZD,tuahine,,male ego‘s mother‘s younger sister‘s daughter,,,Bauer1993,
-fFeBS,tungaane,,female ego's father‘s older brother‘s son,,,Bauer1993,
-fFyBS,tungaane,,female ego‘s father‘s younger brother‘s son,,,Bauer1993,
-fFeZS,tungaane,,female ego's father‘s older sister‘s son,,,Bauer1993,
-fFyZS,tungaane,,female ego‘s father‘s younger sister‘s son,,,Bauer1993,
-fFeBD,tuakana,,female ego's father‘s older brother‘s daughter,,,Bauer1993,
-fFyBD,teina,,female ego‘s father‘s younger brother‘s daughter,,,Bauer1993,
-fFeZD,tuakana,,female ego's father‘s older sister‘s daughter,,,Bauer1993,
-fFyZD,teina,,female ego‘s father‘s younger sister‘s daughter,,,Bauer1993,
-fMeBS,tungaane,,female ego's mother‘s older brother‘s son,,,Bauer1993,
-fMyBS,tungaane,,female ego‘s mother‘s younger brother‘s son,,,Bauer1993,
-fMeZS,tungaane,,female ego's mother‘s older sister‘s son,,,Bauer1993,
-fMyZS,tungaane,,female ego‘s mother‘s younger sister‘s son,,,Bauer1993,
-fMeBD,tuakana,,female ego's mother‘s older brother‘s daughter,,,Bauer1993,
-fMyBD,teina,,female ego‘s mother‘s younger brother‘s daughter,,,Bauer1993,
-fMeZD,tuakana,,female ego's mother‘s older sister‘s daughter,,,Bauer1993,
-fMyZD,teina,,female ego‘s mother‘s younger sister‘s daughter,,,Bauer1993,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tuakana",,"male ego's older brother",,,"Bauer1993",""
+"myB","teina",,"male ego's younger brother",,,"Bauer1993",""
+"feB","tungaane",,"female ego's older brother",,,"Bauer1993",""
+"fyB","tungaane",,"female ego's younger brother",,,"Bauer1993",""
+"meZ","tuahine",,"male ego's older sister",,,"Bauer1993",""
+"myZ","tuahine",,"male ego's younger sister",,,"Bauer1993",""
+"feZ","tuakana",,"female ego's older sister",,,"Bauer1993",""
+"fyZ","teina",,"female ego's younger sister",,,"Bauer1993",""
+"mF","matua",,"male ego's father",,,"Bauer1993",""
+"mM","matua wahine, whaea",,"male ego's mother",,,"Bauer1993","matua wahine is formal"
+"fF","matua",,"female ego's father",,,"Bauer1993",""
+"fM","matua wahine, whaea",,"female ego's mother",,,"Bauer1993","matua wahine is formal"
+"mS","tama",,"male ego's son",,,"Bauer1993",""
+"fS","tama",,"female ego's son",,,"Bauer1993",""
+"mD","tamaahine, kootiro",,"male ego's daughter",,,"Bauer1993","tamaahine is formal"
+"fD","tamaahine, kootiro",,"female ego's daughter",,,"Bauer1993","tamaahine is formal"
+"mSS","mokopuna",,"male ego's son's son",,,"Bauer1993",""
+"mSD","mokopuna",,"male ego's son's daughter",,,"Bauer1993",""
+"mDS","mokopuna",,"male ego's daughter's son",,,"Bauer1993",""
+"mDD","mokopuna",,"male ego's daughter's daughter",,,"Bauer1993",""
+"fSS","mokopuna",,"female ego's son's son",,,"Bauer1993",""
+"fSD","mokopuna",,"female ego's son's daughter",,,"Bauer1993",""
+"fDS","mokopuna",,"female ego's daughter's son",,,"Bauer1993",""
+"fDD","mokopuna",,"female ego's daugher's daughter",,,"Bauer1993",""
+"mFF","tipuna, tupuna matua",,"male ego's father‘s father",,,"Bauer1993",""
+"mFM","tipuna, tupuna matua",,"male ego's father's mother",,,"Bauer1993",""
+"mMF","tipuna, tupuna matua",,"male ego's mother's father",,,"Bauer1993",""
+"mMM","tipuna, tupuna matua",,"male ego's mother's mother",,,"Bauer1993",""
+"fFF","tipuna, tupuna matua",,"female ego's father's father",,,"Bauer1993",""
+"fFM","tipuna, tupuna matua",,"female ego's father's mother",,,"Bauer1993",""
+"fMF","tipuna, tupuna matua",,"female ego's mother's father",,,"Bauer1993",""
+"fMM","tipuna, tupuna matua",,"female ego's mother's mother",,,"Bauer1993",""
+"meBS","iraamutu",,"male ego's older brother's son",,,"Bauer1993",""
+"myBS","iraamutu",,"male ego's younger brother's son",,,"Bauer1993",""
+"meZS","iraamutu",,"male ego's older sister's son",,,"Bauer1993",""
+"myZS","iraamutu",,"male ego's younger sister's son",,,"Bauer1993",""
+"meBD","iraamutu",,"male ego's older brother's daughter",,,"Bauer1993",""
+"myBD","iraamutu",,"male ego's younger brother's daughter",,,"Bauer1993",""
+"meZD","iraamutu",,"male ego's older sister's daughter",,,"Bauer1993",""
+"myZD","iraamutu",,"male ego's younger sister's daughter",,,"Bauer1993",""
+"feBS","iraamutu",,"female ego's older brother's son",,,"Bauer1993",""
+"fyBS","iraamutu",,"female ego's younger brother's son",,,"Bauer1993",""
+"feZS","iraamutu",,"female ego's older sister's son",,,"Bauer1993",""
+"fyZS","iraamutu",,"female ego's younger sister's son",,,"Bauer1993",""
+"feBD","iraamutu",,"female ego's older brother's daughter",,,"Bauer1993",""
+"fyBD","iraamutu",,"female ego's younger brother's daughter",,,"Bauer1993",""
+"feZD","iraamutu",,"female ego's older sister's daughter",,,"Bauer1993",""
+"fyZD","iraamutu",,"female ego's younger sister's daughter",,,"Bauer1993",""
+"mFeB","matua, matua keekee, matakeekee",,"male ego's father's older brother",,,"Bauer1993","matua keekee, matakeekee"
+"mFyB","matua, matua keekee, matakeekee",,"male ego's father's younger brother",,,"Bauer1993",""
+"mFeZ","whaea, matua keekee, matakeekee",,"male ego's father's older sister",,,"Bauer1993",""
+"mFyZ","whaea, matua keekee, matakeekee",,"male ego's father's younger sister",,,"Bauer1993",""
+"mMeB","matua, matua keekee, matakeekee",,"male ego's mother's older brother",,,"Bauer1993",""
+"mMyB","matua, matua keekee, matakeekee",,"male ego's mother's younger brother",,,"Bauer1993",""
+"mMeZ","whaea, matua keekee, matakeekee",,"male ego's mother's older sister",,,"Bauer1993",""
+"mMyZ","whaea, matua keekee, matakeekee",,"male ego's mother's younger sister",,,"Bauer1993",""
+"fFeB","matua, matua keekee, matakeekee",,"female ego's father's older brother",,,"Bauer1993",""
+"fFyB","matua, matua keekee, matakeekee",,"female ego's father's younger brother",,,"Bauer1993",""
+"fFeZ","whaea, matua keekee, matakeekee",,"female ego's father's older sister",,,"Bauer1993",""
+"fFyZ","whaea, matua keekee, matakeekee",,"female ego's father's younger sister",,,"Bauer1993",""
+"fMeB","matua, matua keekee, matakeekee",,"female ego's mother's older brother",,,"Bauer1993",""
+"fMyB","matua, matua keekee, matakeekee",,"female ego's mother's younger brother",,,"Bauer1993",""
+"fMeZ","whaea, matua keekee, matakeekee",,"female ego's mother's older sister",,,"Bauer1993",""
+"fMyZ","whaea, matua keekee, matakeekee",,"female ego's mother's younger sister",,,"Bauer1993",""
+"mW","wahine, hoa",,"male ego's wife",,,"Bauer1993",""
+"fH","taane, hoa",,"female ego‘s husband",,,"Bauer1993",""
+"mWF","hungawai",,"male ego's wife's father",,,"Bauer1993",""
+"mWM","hungawai",,"male ego's wife's mother",,,"Bauer1993",""
+"mWB","taokete",,"male ego's wife's brother",,,"Bauer1993",""
+"mWZ","auwahine",,"male ego's wife's sister",,,"Bauer1993",""
+"fHF","hungawai",,"female ego's husband's father",,,"Bauer1993",""
+"fHM","hungawai",,"female ego's husband's mother",,,"Bauer1993",""
+"fHB","autaane",,"female ego's husband's brother",,,"Bauer1993",""
+"fHZ","taokete",,"female ego's husband's sister",,,"Bauer1993",""
+"mBW","auwahine",,"male ego's brother's wife",,,"Bauer1993",""
+"fBW","taokete",,"female ego's brother's wife",,,"Bauer1993",""
+"mZH","taokete",,"male ego's sister's husband",,,"Bauer1993",""
+"fZH","autaane",,"female ego's sister's husband",,,"Bauer1993",""
+"mFeBS","tuakana",,"male ego's father‘s older brother‘s son",,,"Bauer1993","Note: it appears that normally only the relative age of the cousin to ego matters, rather than the raltive age of parents (see Bauer, Parker and Evans 1993:571)"
+"mFyBS","teina",,"male ego‘s father‘s younger brother‘s son",,,"Bauer1993",""
+"mFeZS","tuakana",,"male ego's father‘s older sister‘s son",,,"Bauer1993",""
+"mFyZS","teina",,"male ego‘s father‘s younger sister‘s son",,,"Bauer1993",""
+"mFeBD","tuahine",,"male ego's father‘s older brother‘s daughter",,,"Bauer1993",""
+"mFyBD","tuahine",,"male ego‘s father‘s younger brother‘s daughter",,,"Bauer1993",""
+"mFeZD","tuahine",,"male ego's father‘s older sister‘s daughter",,,"Bauer1993",""
+"mFyZD","tuahine",,"male ego‘s father‘s younger sister‘s daughter",,,"Bauer1993",""
+"mMeBS","tuakana",,"male ego's mother‘s older brother‘s son",,,"Bauer1993",""
+"mMyBS","teina",,"male ego‘s mother‘s younger brother‘s son",,,"Bauer1993",""
+"mMeZS","tuakana",,"male ego's mother‘s older sister‘s son",,,"Bauer1993",""
+"mMyZS","teina",,"male ego‘s mother‘s younger sister‘s son",,,"Bauer1993",""
+"mMeBD","tuahine",,"male ego's mother‘s older brother‘s daughter",,,"Bauer1993",""
+"mMyBD","tuahine",,"male ego‘s mother‘s younger brother‘s daughter",,,"Bauer1993",""
+"mMeZD","tuahine",,"male ego's mother‘s older sister‘s daughter",,,"Bauer1993",""
+"mMyZD","tuahine",,"male ego‘s mother‘s younger sister‘s daughter",,,"Bauer1993",""
+"fFeBS","tungaane",,"female ego's father‘s older brother‘s son",,,"Bauer1993",""
+"fFyBS","tungaane",,"female ego‘s father‘s younger brother‘s son",,,"Bauer1993",""
+"fFeZS","tungaane",,"female ego's father‘s older sister‘s son",,,"Bauer1993",""
+"fFyZS","tungaane",,"female ego‘s father‘s younger sister‘s son",,,"Bauer1993",""
+"fFeBD","tuakana",,"female ego's father‘s older brother‘s daughter",,,"Bauer1993",""
+"fFyBD","teina",,"female ego‘s father‘s younger brother‘s daughter",,,"Bauer1993",""
+"fFeZD","tuakana",,"female ego's father‘s older sister‘s daughter",,,"Bauer1993",""
+"fFyZD","teina",,"female ego‘s father‘s younger sister‘s daughter",,,"Bauer1993",""
+"fMeBS","tungaane",,"female ego's mother‘s older brother‘s son",,,"Bauer1993",""
+"fMyBS","tungaane",,"female ego‘s mother‘s younger brother‘s son",,,"Bauer1993",""
+"fMeZS","tungaane",,"female ego's mother‘s older sister‘s son",,,"Bauer1993",""
+"fMyZS","tungaane",,"female ego‘s mother‘s younger sister‘s son",,,"Bauer1993",""
+"fMeBD","tuakana",,"female ego's mother‘s older brother‘s daughter",,,"Bauer1993",""
+"fMyBD","teina",,"female ego‘s mother‘s younger brother‘s daughter",,,"Bauer1993",""
+"fMeZD","tuakana",,"female ego's mother‘s older sister‘s daughter",,,"Bauer1993",""
+"fMyZD","teina",,"female ego‘s mother‘s younger sister‘s daughter",,,"Bauer1993",""

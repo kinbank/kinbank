@@ -1,119 +1,119 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"chudel(ék), chobek(úk)",,male ego's older brother,,,Walleser1913,
-myB,"merreng(ék), chochel(ék)",,male ego's younger brother,,,Walleser1913,
-feB,chochad(ák),,female ego's older brother,,,Walleser1913,
-fyB,chochad(ák),,female ego's younger brother,,,Walleser1913,
-meZ,chochad(ák),,male ego's older sister,,,Walleser1913,
-myZ,chochad(ák),,male ego's younger sister,,,Walleser1913,
-feZ,"chudel(ék), chobek(úk)",,female ego's older sister,,,Walleser1913,
-fyZ,"merreng(ék), chochel(ék)",,female ego's younger sister,,,Walleser1913,
-mF,"chadám, uadám",,male ego's father,,,Walleser1913,
-mM,"chadíl, uadíl",,male ego's mother,,,Walleser1913,
-fF,"chadám, uadám",,female ego's father,,,Walleser1913,
-fM,"chadíl, uadíl",,female ego's mother,,,Walleser1913,
-mS,ngalk el sachál,,male ego's son,,,Walleser1913,
-fS,ngalk el sachál,,female ego's son,,,Walleser1913,
-mD,ngalk el dil,,male ego's daughter,,,Walleser1913,
-fD,ngalk el dil,,female ego's daughter,,,Walleser1913,
-meBS,"desik, kladesióil",,male ego's older brother's son,,,Walleser1913,
-myBS,"desik, kladesióil",,male ego's younger brother's son,,,Walleser1913,
-meZS,"desik, kladesióil",,male ego's older sister's son,,,Walleser1913,
-myZS,"desik, kladesióil",,male ego's younger sister's son,,,Walleser1913,
-feBD,"desik, kladesióil",,female ego's older brother's daughter,,,Walleser1913,
-fyBD,"desik, kladesióil",,female ego's younger brother's daughter,,,Walleser1913,
-feZD,"desik, kladesióil",,female ego's older sister's daughter,,,Walleser1913,
-fyZD,"desik, kladesióil",,female ego's younger sister's daughter,,,Walleser1913,
-mFeB,"desik, kladesióil",,male ego's father's older brother,,,Walleser1913,
-mFyB,"desik, kladesióil",,male ego's father's younger brother,,,Walleser1913,
-mMeB,"desik, kladesióil",,male ego's mother's older brother,,,Walleser1913,
-mMyB,"desik, kladesióil",,male ego's mother's younger brother,,,Walleser1913,
-fFeZ,"desik, kladesióil",,female ego's father's older sister,,,Walleser1913,
-fFyZ,"desik, kladesióil",,female ego's father's younger sister,,,Walleser1913,
-fMeZ,"desik, kladesióil",,female ego's mother's older sister,,,Walleser1913,
-fMyZ,"desik, kladesióil",,female ego's mother's younger sister,,,Walleser1913,
-mW,puch,,male ego's wife,,,Walleser1913,
-fH,puch,,female ego‘s husband,,,Walleser1913,
-mDH,chasmáchel,,male ego's daughter's husband,,,Walleser1913,
-fDH,chasmáchel,,female ego's daughter's husband,,,Walleser1913,
-mSW,puchulsachál,,male ego's son's wife,,,Walleser1913,
-fSW,puchulsachál,,female ego's son's wife,,,Walleser1913,
-mFBS,ngalekodám,,male ego's father's brother's son,,,Walleser1913,
-mFZS,ngelekir a ruchad,,male ego's father's sister's son,,,Walleser1913,
-mMBS,ngelekir a ruchad,,male ego's mother's brother's son,,,Walleser1913,
-mMZS,ngalekdós,,male ego's mother's sister's son,,,Walleser1913,
-mFBD,ngalekodám,,male ego's father's brother's daughter,,,Walleser1913,
-mFZD,ngelekir a ruchad,,male ego's father's sister's daughter,,,Walleser1913,
-mMBD,ngelekir a ruchad,,male ego's mother's brother's daughter,,,Walleser1913,
-mMZD,ngalekdós,,male ego's mother's sister's daughter,,,Walleser1913,
-fFBS,ngalekodám,,female ego's father's brother's son,,,Walleser1913,
-fFZS,ngelekir a ruchad,,female ego's father's sister's son,,,Walleser1913,
-fMBS,ngelekir a ruchad,,female ego's mother's brother's son,,,Walleser1913,
-fMZS,ngalekdós,,female ego's mother's sister's son,,,Walleser1913,
-fFBD,ngalekodám,,female ego's father's brother's daughter,,,Walleser1913,
-fFZD,ngelekir a ruchad,,female ego's father's sister's daughter,,,Walleser1913,
-fMBD,ngelekir a ruchad,,female ego's mother's brother's daughter,,,Walleser1913,
-fMZD,ngalekdós,,female ego's mother's sister's daughter,,,Walleser1913,
-mFeBS,ngalekodám,,male ego's father's brother's son,,,Walleser1913,Inferred; NA
-mFyBS,ngalekodám,,male ego's father's brother's son,,,Walleser1913,Inferred; NA
-mFeZS,ngelekir a ruchad,,male ego's father's sister's son,,,Walleser1913,Inferred; NA
-mFyZS,ngelekir a ruchad,,male ego's father's sister's son,,,Walleser1913,Inferred; NA
-mFeBD,ngalekodám,,male ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-mFyBD,ngalekodám,,male ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-mFeZD,ngelekir a ruchad,,male ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-mFyZD,ngelekir a ruchad,,male ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-mMeBS,ngelekir a ruchad,,male ego's mother's brother's son,,,Walleser1913,Inferred; NA
-mMyBS,ngelekir a ruchad,,male ego's mother's brother's son,,,Walleser1913,Inferred; NA
-mMeZS,ngalekdós,,male ego's mother's sister's son,,,Walleser1913,Inferred; NA
-mMyZS,ngalekdós,,male ego's mother's sister's son,,,Walleser1913,Inferred; NA
-mMeBD,ngelekir a ruchad,,male ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-mMyBD,ngelekir a ruchad,,male ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-mMeZD,ngalekdós,,male ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-mMyZD,ngalekdós,,male ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-mFBeS,ngalekodám,,male ego's father's brother's son,,,Walleser1913,Inferred; NA
-mFByS,ngalekodám,,male ego's father's brother's son,,,Walleser1913,Inferred; NA
-mFZeS,ngelekir a ruchad,,male ego's father's sister's son,,,Walleser1913,Inferred; NA
-mFZyS,ngelekir a ruchad,,male ego's father's sister's son,,,Walleser1913,Inferred; NA
-mFBeD,ngalekodám,,male ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-mFByD,ngalekodám,,male ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-mFZeD,ngelekir a ruchad,,male ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-mFZyD,ngelekir a ruchad,,male ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-mMBeS,ngelekir a ruchad,,male ego's mother's brother's son,,,Walleser1913,Inferred; NA
-mMByS,ngelekir a ruchad,,male ego's mother's brother's son,,,Walleser1913,Inferred; NA
-mMZeS,ngalekdós,,male ego's mother's sister's son,,,Walleser1913,Inferred; NA
-mMZyS,ngalekdós,,male ego's mother's sister's son,,,Walleser1913,Inferred; NA
-mMBeD,ngelekir a ruchad,,male ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-mMByD,ngelekir a ruchad,,male ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-mMZeD,ngalekdós,,male ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-mMZyD,ngalekdós,,male ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-fFeBS,ngalekodám,,female ego's father's brother's son,,,Walleser1913,Inferred; NA
-fFyBS,ngalekodám,,female ego's father's brother's son,,,Walleser1913,Inferred; NA
-fFeZS,ngelekir a ruchad,,female ego's father's sister's son,,,Walleser1913,Inferred; NA
-fFyZS,ngelekir a ruchad,,female ego's father's sister's son,,,Walleser1913,Inferred; NA
-fFeBD,ngalekodám,,female ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-fFyBD,ngalekodám,,female ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-fFeZD,ngelekir a ruchad,,female ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-fFyZD,ngelekir a ruchad,,female ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-fMeBS,ngelekir a ruchad,,female ego's mother's brother's son,,,Walleser1913,Inferred; NA
-fMyBS,ngelekir a ruchad,,female ego's mother's brother's son,,,Walleser1913,Inferred; NA
-fMeZS,ngalekdós,,female ego's mother's sister's son,,,Walleser1913,Inferred; NA
-fMyZS,ngalekdós,,female ego's mother's sister's son,,,Walleser1913,Inferred; NA
-fMeBD,ngelekir a ruchad,,female ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-fMyBD,ngelekir a ruchad,,female ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-fMeZD,ngalekdós,,female ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-fMyZD,ngalekdós,,female ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-fFBeS,ngalekodám,,female ego's father's brother's son,,,Walleser1913,Inferred; NA
-fFByS,ngalekodám,,female ego's father's brother's son,,,Walleser1913,Inferred; NA
-fFZeS,ngelekir a ruchad,,female ego's father's sister's son,,,Walleser1913,Inferred; NA
-fFZyS,ngelekir a ruchad,,female ego's father's sister's son,,,Walleser1913,Inferred; NA
-fFBeD,ngalekodám,,female ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-fFByD,ngalekodám,,female ego's father's brother's daughter,,,Walleser1913,Inferred; NA
-fFZeD,ngelekir a ruchad,,female ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-fFZyD,ngelekir a ruchad,,female ego's father's sister's daughter,,,Walleser1913,Inferred; NA
-fMBeS,ngelekir a ruchad,,female ego's mother's brother's son,,,Walleser1913,Inferred; NA
-fMByS,ngelekir a ruchad,,female ego's mother's brother's son,,,Walleser1913,Inferred; NA
-fMZeS,ngalekdós,,female ego's mother's sister's son,,,Walleser1913,Inferred; NA
-fMZyS,ngalekdós,,female ego's mother's sister's son,,,Walleser1913,Inferred; NA
-fMBeD,ngelekir a ruchad,,female ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-fMByD,ngelekir a ruchad,,female ego's mother's brother's daughter,,,Walleser1913,Inferred; NA
-fMZeD,ngalekdós,,female ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
-fMZyD,ngalekdós,,female ego's mother's sister's daughter,,,Walleser1913,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","chudel(ék), chobek(úk)",,"male ego's older brother",,,"Walleser1913",""
+"myB","merreng(ék), chochel(ék)",,"male ego's younger brother",,,"Walleser1913",""
+"feB","chochad(ák)",,"female ego's older brother",,,"Walleser1913",""
+"fyB","chochad(ák)",,"female ego's younger brother",,,"Walleser1913",""
+"meZ","chochad(ák)",,"male ego's older sister",,,"Walleser1913",""
+"myZ","chochad(ák)",,"male ego's younger sister",,,"Walleser1913",""
+"feZ","chudel(ék), chobek(úk)",,"female ego's older sister",,,"Walleser1913",""
+"fyZ","merreng(ék), chochel(ék)",,"female ego's younger sister",,,"Walleser1913",""
+"mF","chadám, uadám",,"male ego's father",,,"Walleser1913",""
+"mM","chadíl, uadíl",,"male ego's mother",,,"Walleser1913",""
+"fF","chadám, uadám",,"female ego's father",,,"Walleser1913",""
+"fM","chadíl, uadíl",,"female ego's mother",,,"Walleser1913",""
+"mS","ngalk el sachál",,"male ego's son",,,"Walleser1913",""
+"fS","ngalk el sachál",,"female ego's son",,,"Walleser1913",""
+"mD","ngalk el dil",,"male ego's daughter",,,"Walleser1913",""
+"fD","ngalk el dil",,"female ego's daughter",,,"Walleser1913",""
+"meBS","desik, kladesióil",,"male ego's older brother's son",,,"Walleser1913",""
+"myBS","desik, kladesióil",,"male ego's younger brother's son",,,"Walleser1913",""
+"meZS","desik, kladesióil",,"male ego's older sister's son",,,"Walleser1913",""
+"myZS","desik, kladesióil",,"male ego's younger sister's son",,,"Walleser1913",""
+"feBD","desik, kladesióil",,"female ego's older brother's daughter",,,"Walleser1913",""
+"fyBD","desik, kladesióil",,"female ego's younger brother's daughter",,,"Walleser1913",""
+"feZD","desik, kladesióil",,"female ego's older sister's daughter",,,"Walleser1913",""
+"fyZD","desik, kladesióil",,"female ego's younger sister's daughter",,,"Walleser1913",""
+"mFeB","desik, kladesióil",,"male ego's father's older brother",,,"Walleser1913",""
+"mFyB","desik, kladesióil",,"male ego's father's younger brother",,,"Walleser1913",""
+"mMeB","desik, kladesióil",,"male ego's mother's older brother",,,"Walleser1913",""
+"mMyB","desik, kladesióil",,"male ego's mother's younger brother",,,"Walleser1913",""
+"fFeZ","desik, kladesióil",,"female ego's father's older sister",,,"Walleser1913",""
+"fFyZ","desik, kladesióil",,"female ego's father's younger sister",,,"Walleser1913",""
+"fMeZ","desik, kladesióil",,"female ego's mother's older sister",,,"Walleser1913",""
+"fMyZ","desik, kladesióil",,"female ego's mother's younger sister",,,"Walleser1913",""
+"mW","puch",,"male ego's wife",,,"Walleser1913",""
+"fH","puch",,"female ego‘s husband",,,"Walleser1913",""
+"mDH","chasmáchel",,"male ego's daughter's husband",,,"Walleser1913",""
+"fDH","chasmáchel",,"female ego's daughter's husband",,,"Walleser1913",""
+"mSW","puchulsachál",,"male ego's son's wife",,,"Walleser1913",""
+"fSW","puchulsachál",,"female ego's son's wife",,,"Walleser1913",""
+"mFBS","ngalekodám",,"male ego's father's brother's son",,,"Walleser1913",""
+"mFZS","ngelekir a ruchad",,"male ego's father's sister's son",,,"Walleser1913",""
+"mMBS","ngelekir a ruchad",,"male ego's mother's brother's son",,,"Walleser1913",""
+"mMZS","ngalekdós",,"male ego's mother's sister's son",,,"Walleser1913",""
+"mFBD","ngalekodám",,"male ego's father's brother's daughter",,,"Walleser1913",""
+"mFZD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,"Walleser1913",""
+"mMBD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,"Walleser1913",""
+"mMZD","ngalekdós",,"male ego's mother's sister's daughter",,,"Walleser1913",""
+"fFBS","ngalekodám",,"female ego's father's brother's son",,,"Walleser1913",""
+"fFZS","ngelekir a ruchad",,"female ego's father's sister's son",,,"Walleser1913",""
+"fMBS","ngelekir a ruchad",,"female ego's mother's brother's son",,,"Walleser1913",""
+"fMZS","ngalekdós",,"female ego's mother's sister's son",,,"Walleser1913",""
+"fFBD","ngalekodám",,"female ego's father's brother's daughter",,,"Walleser1913",""
+"fFZD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,"Walleser1913",""
+"fMBD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,"Walleser1913",""
+"fMZD","ngalekdós",,"female ego's mother's sister's daughter",,,"Walleser1913",""
+"mFeBS","ngalekodám",,"male ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"mFyBS","ngalekodám",,"male ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"mFeZS","ngelekir a ruchad",,"male ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"mFyZS","ngelekir a ruchad",,"male ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"mFeBD","ngalekodám",,"male ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mFyBD","ngalekodám",,"male ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mFeZD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mFyZD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mMeBS","ngelekir a ruchad",,"male ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"mMyBS","ngelekir a ruchad",,"male ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"mMeZS","ngalekdós",,"male ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"mMyZS","ngalekdós",,"male ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"mMeBD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mMyBD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mMeZD","ngalekdós",,"male ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mMyZD","ngalekdós",,"male ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mFBeS","ngalekodám",,"male ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"mFByS","ngalekodám",,"male ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"mFZeS","ngelekir a ruchad",,"male ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"mFZyS","ngelekir a ruchad",,"male ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"mFBeD","ngalekodám",,"male ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mFByD","ngalekodám",,"male ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mFZeD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mFZyD","ngelekir a ruchad",,"male ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mMBeS","ngelekir a ruchad",,"male ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"mMByS","ngelekir a ruchad",,"male ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"mMZeS","ngalekdós",,"male ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"mMZyS","ngalekdós",,"male ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"mMBeD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mMByD","ngelekir a ruchad",,"male ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"mMZeD","ngalekdós",,"male ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"mMZyD","ngalekdós",,"male ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fFeBS","ngalekodám",,"female ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"fFyBS","ngalekodám",,"female ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"fFeZS","ngelekir a ruchad",,"female ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"fFyZS","ngelekir a ruchad",,"female ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"fFeBD","ngalekodám",,"female ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fFyBD","ngalekodám",,"female ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fFeZD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fFyZD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fMeBS","ngelekir a ruchad",,"female ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"fMyBS","ngelekir a ruchad",,"female ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"fMeZS","ngalekdós",,"female ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"fMyZS","ngalekdós",,"female ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"fMeBD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fMyBD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fMeZD","ngalekdós",,"female ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fMyZD","ngalekdós",,"female ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fFBeS","ngalekodám",,"female ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"fFByS","ngalekodám",,"female ego's father's brother's son",,,"Walleser1913","Inferred; NA"
+"fFZeS","ngelekir a ruchad",,"female ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"fFZyS","ngelekir a ruchad",,"female ego's father's sister's son",,,"Walleser1913","Inferred; NA"
+"fFBeD","ngalekodám",,"female ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fFByD","ngalekodám",,"female ego's father's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fFZeD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fFZyD","ngelekir a ruchad",,"female ego's father's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fMBeS","ngelekir a ruchad",,"female ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"fMByS","ngelekir a ruchad",,"female ego's mother's brother's son",,,"Walleser1913","Inferred; NA"
+"fMZeS","ngalekdós",,"female ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"fMZyS","ngalekdós",,"female ego's mother's sister's son",,,"Walleser1913","Inferred; NA"
+"fMBeD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fMByD","ngelekir a ruchad",,"female ego's mother's brother's daughter",,,"Walleser1913","Inferred; NA"
+"fMZeD","ngalekdós",,"female ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"
+"fMZyD","ngalekdós",,"female ego's mother's sister's daughter",,,"Walleser1913","Inferred; NA"

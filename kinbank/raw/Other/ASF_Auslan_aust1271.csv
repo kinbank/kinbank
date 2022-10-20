@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,http://auslan.org.au/dictionary/words/brother-1.html,,male ego's older brother,BROTHER,,auslan,
-myB,http://auslan.org.au/dictionary/words/brother-1.html,,male ego's younger brother,BROTHER,,auslan,
-feB,http://auslan.org.au/dictionary/words/brother-1.html,,female ego's older brother,BROTHER,,auslan,
-fyB,http://auslan.org.au/dictionary/words/brother-1.html,,female ego's younger brother,BROTHER,,auslan,
-meZ,http://auslan.org.au/dictionary/words/sister-1.html,,male ego's older sister,SISTER,,auslan,
-myZ,http://auslan.org.au/dictionary/words/sister-1.html,,male ego's younger sister,SISTER,,auslan,
-feZ,http://auslan.org.au/dictionary/words/sister-1.html,,female ego's older sister,SISTER,,auslan,
-fyZ,http://auslan.org.au/dictionary/words/sister-1.html,,female ego's younger sister,SISTER,,auslan,
-mF,http://auslan.org.au/dictionary/words/father-1.html,,male ego's father,FATHER,,auslan,Two sign variants used (view 1 and 2 in link)
-mM,http://auslan.org.au/dictionary/words/mother-1.html,,male ego's mother,MOTHER,,auslan,Two sign variants used (view 1 and 2 in link)
-fF,http://auslan.org.au/dictionary/words/father-1.html,,female ego's father,FATHER,,auslan,Two sign variants used (view 1 and 2 in link)
-fM,http://auslan.org.au/dictionary/words/mother-1.html,,female ego's mother,MOTHER,,auslan,Two sign variants used (view 1 and 2 in link)
-mS,http://auslan.org.au/dictionary/words/son-1.html OR http://auslan.org.au/dictionary/words/boy-1.html,,male ego's son,SON,,auslan,Two sign variants of BOY used (two separate links)
-fS,http://auslan.org.au/dictionary/words/son-1.html OR http://auslan.org.au/dictionary/words/boy-1.html,,female ego's son,SON,,auslan,Two sign variants of BOY used (two separate links)
-mD,http://auslan.org.au/dictionary/words/daughter-1.html OR http://auslan.org.au/dictionary/words/girl-1.html,,male ego's daughter,DAUGHTER,,auslan,Two sign variants of GIRL used (two separate links)
-fD,http://auslan.org.au/dictionary/words/daughter-1.html OR http://auslan.org.au/dictionary/words/girl-1.html,,female ego's daughter,DAUGHTER,,auslan,Two sign variants of GIRL used (two separate links)
-mSS,Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html),,male ego's son's son,FS:G-SON,,auslan,
-mSD,Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html),,male ego's son's daughter,FS:G-DAUGHTER,,auslan,
-mDS,Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html),,male ego's daughter's son,FS:G-SON,,auslan,
-mDD,Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html),,male ego's daughter's daughter,FS:G-DAUGHTER,,auslan,
-fSS,Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html),,female ego's son's son,FS:G-SON,,auslan,
-fSD,Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html),,female ego's son's daughter,FS:G-DAUGHTER,,auslan,
-fDS,Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html),,female ego's daughter's son,FS:G-SON,,auslan,
-fDD,Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html),,female ego's daugher's daughter,FS:G-DAUGHTER,,auslan,
-mFF,http://auslan.org.au/dictionary/words/grandfather-1.html,,male ego's father‘s father,GRAND-FATHER,,auslan,Or compound sign of OLD+FATHER
-mFM,http://auslan.org.au/dictionary/words/grandmother-2.html,,male ego's father's mother,GRAND-MOTHER,,auslan,"Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
-mMF,http://auslan.org.au/dictionary/words/grandfather-1.html,,male ego's mother's father,GRAND-FATHER,,auslan,Or compound sign of OLD+FATHER
-mMM,http://auslan.org.au/dictionary/words/grandmother-2.html,,male ego's mother's mother,GRAND-MOTHER,,auslan,"Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
-fFF,http://auslan.org.au/dictionary/words/grandfather-1.html,,female ego's father's father,GRAND-FATHER,,auslan,Or compound sign of OLD+FATHER
-fFM,http://auslan.org.au/dictionary/words/grandmother-2.html,,female ego's father's mother,GRAND-MOTHER,,auslan,"Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
-fMF,http://auslan.org.au/dictionary/words/grandfather-1.html,,female ego's mother's father,GRAND-FATHER,,auslan,Or compound sign of OLD+FATHER
-fMM,http://auslan.org.au/dictionary/words/grandmother-2.html,,female ego's mother's mother,GRAND-MOTHER,,auslan,"Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
-meBS,http://auslan.org.au/dictionary/words/nephew-1.html,,male ego's older brother's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-myBS,http://auslan.org.au/dictionary/words/nephew-1.html,,male ego's younger brother's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-meZS,http://auslan.org.au/dictionary/words/nephew-1.html,,male ego's older sister's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-myZS,http://auslan.org.au/dictionary/words/nephew-1.html,,male ego's younger sister's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-meBD,http://auslan.org.au/dictionary/words/niece-1.html,,male ego's older brother's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-myBD,http://auslan.org.au/dictionary/words/niece-1.html,,male ego's younger brother's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-meZD,http://auslan.org.au/dictionary/words/niece-1.html,,male ego's older sister's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-myZD,http://auslan.org.au/dictionary/words/niece-1.html,,male ego's younger sister's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-feBS,http://auslan.org.au/dictionary/words/nephew-1.html,,female ego's older brother's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-fyBS,http://auslan.org.au/dictionary/words/nephew-1.html,,female ego's younger brother's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-feZS,http://auslan.org.au/dictionary/words/nephew-1.html,,female ego's older sister's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-fyZS,http://auslan.org.au/dictionary/words/nephew-1.html,,female ego's younger sister's son,NEPHEW,,auslan,Two sign variants used (view 1 and 2 in link)
-feBD,http://auslan.org.au/dictionary/words/niece-1.html,,female ego's older brother's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-fyBD,http://auslan.org.au/dictionary/words/niece-1.html,,female ego's younger brother's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-feZD,http://auslan.org.au/dictionary/words/niece-1.html,,female ego's older sister's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-fyZD,http://auslan.org.au/dictionary/words/niece-1.html,,female ego's younger sister's daughter,NIECE,,auslan,Two sign variants used (view 1 and 2 in link)
-mFeB,http://auslan.org.au/dictionary/words/uncle-1.html,,male ego's father's older brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-mFyB,http://auslan.org.au/dictionary/words/uncle-1.html,,male ego's father's younger brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-mFeZ,http://auslan.org.au/dictionary/words/aunt-1.html,,male ego's father's older sister,AUNT,,auslan,
-mFyZ,http://auslan.org.au/dictionary/words/aunt-1.html,,male ego's father's younger sister,AUNT,,auslan,
-mMeB,http://auslan.org.au/dictionary/words/uncle-1.html,,male ego's mother's older brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-mMyB,http://auslan.org.au/dictionary/words/uncle-1.html,,male ego's mother's younger brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-mMeZ,http://auslan.org.au/dictionary/words/aunt-1.html,,male ego's mother's older sister,AUNT,,auslan,
-mMyZ,http://auslan.org.au/dictionary/words/aunt-1.html,,male ego's mother's younger sister,AUNT,,auslan,
-fFeB,http://auslan.org.au/dictionary/words/uncle-1.html,,female ego's father's older brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-fFyB,http://auslan.org.au/dictionary/words/uncle-1.html,,female ego's father's younger brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-fFeZ,http://auslan.org.au/dictionary/words/aunt-1.html,,female ego's father's older sister,AUNT,,auslan,
-fFyZ,http://auslan.org.au/dictionary/words/aunt-1.html,,female ego's father's younger sister,AUNT,,auslan,
-fMeB,http://auslan.org.au/dictionary/words/uncle-1.html,,female ego's mother's older brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-fMyB,http://auslan.org.au/dictionary/words/uncle-1.html,,female ego's mother's younger brother,UNCLE,,auslan,Two sign variants used (view 1 and 2 in link)
-fMeZ,http://auslan.org.au/dictionary/words/aunt-1.html,,female ego's mother's older sister,AUNT,,auslan,
-fMyZ,http://auslan.org.au/dictionary/words/aunt-1.html,,female ego's mother's younger sister,AUNT,,auslan,
-mW,http://auslan.org.au/dictionary/words/wife-1.html,,male ego's wife,SPOUSE,,auslan,"Often with English mouthing ""husband"" to disambiguate"
-fH,http://auslan.org.au/dictionary/words/wife-1.html,,female ego‘s husband,SPOUSE,,auslan,"Often with English mouthing ""wife"" to disambiguate"
-mDH,"One of the SON signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""daughter's husband""",,male ego's daughter's husband,SON-IN-LAW,,auslan,
-fDH,"One of the SON signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""daughter's husband""",,female ego's daughter's husband,SON-IN-LAW,,auslan,
-mSW,"One of the DAUGHTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""son's wife""",,male ego's son's wife,DAUGHTER-IN-LAW,,auslan,
-fSW,"One of the DAUGHTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""son's wife""",,female ego's son's wife,DAUGHTER-IN-LAW,,auslan,
-mWF,"One of the FATHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's father""",,male ego's wife's father,FATHER-IN-LAW,,auslan,
-mWM,"One of the MOTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's mother""",,male ego's wife's mother,MOTHER-IN-LAW,,auslan,
-mWB,"One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,male ego's wife's brother,BROTHER-IN-LAW,,auslan,
-mWZ,"One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,male ego's wife's sister,SISTER-IN-LAW,,auslan,
-fHF,"One of the FATHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's father""",,female ego's husband's father,FATHER-IN-LAW,,auslan,
-fHM,"One of the MOTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's mother""",,female ego's husband's mother,MOTHER-IN-LAW,,auslan,
-fHB,"One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,female ego's husband's brother,BROTHER-IN-LAW,,auslan,
-fHZ,"One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,female ego's husband's sister,SISTER-IN-LAW,,auslan,
-mBW,"One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,male ego's brother's wife,SISTER-IN-LAW,,auslan,
-fBW,"One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,female ego's brother's wife,SISTER-IN-LAW,,auslan,
-mZH,"One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,male ego's sister's husband,BROTHER-IN-LAW,,auslan,
-fZH,"One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,female ego's sister's husband,BROTHER-IN-LAW,,auslan,
-mFBS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's son,COUSIN,,auslan,Only one sign for all these cousin relations
-mFZS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's son,COUSIN,,auslan,
-mMBS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's son,COUSIN,,auslan,
-mMZS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's son,COUSIN,,auslan,
-mFBD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's daughter,COUSIN,,auslan,
-mFZD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's daughter,COUSIN,,auslan,
-mMBD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's daughter,COUSIN,,auslan,
-mMZD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's daughter,COUSIN,,auslan,
-fFBS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's son,COUSIN,,auslan,
-fFZS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's son,COUSIN,,auslan,
-fMBS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's son,COUSIN,,auslan,
-fMZS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's son,COUSIN,,auslan,
-fFBD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's daughter,COUSIN,,auslan,
-fFZD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's daughter,COUSIN,,auslan,
-fMBD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's daughter,COUSIN,,auslan,
-fMZD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's daughter,COUSIN,,auslan,
-mFeBS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's son,COUSIN,,auslan,Inferred; Only one sign for all these cousin relations
-mFyBS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's son,COUSIN,,auslan,Inferred; Only one sign for all these cousin relations
-mFeZS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's son,COUSIN,,auslan,Inferred; 
-mFyZS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's son,COUSIN,,auslan,Inferred; 
-mFeBD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-mFyBD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-mFeZD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-mFyZD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-mMeBS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-mMyBS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-mMeZS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-mMyZS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-mMeBD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-mMyBD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-mMeZD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-mMyZD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-mFBeS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's son,COUSIN,,auslan,Inferred; Only one sign for all these cousin relations
-mFByS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's son,COUSIN,,auslan,Inferred; Only one sign for all these cousin relations
-mFZeS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's son,COUSIN,,auslan,Inferred; 
-mFZyS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's son,COUSIN,,auslan,Inferred; 
-mFBeD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-mFByD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-mFZeD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-mFZyD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-mMBeS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-mMByS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-mMZeS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-mMZyS,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-mMBeD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-mMByD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-mMZeD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-mMZyD,http://auslan.org.au/dictionary/words/cousin-1.html,,male ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-fFeBS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's son,COUSIN,,auslan,Inferred; 
-fFyBS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's son,COUSIN,,auslan,Inferred; 
-fFeZS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's son,COUSIN,,auslan,Inferred; 
-fFyZS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's son,COUSIN,,auslan,Inferred; 
-fFeBD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-fFyBD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-fFeZD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-fFyZD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-fMeBS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-fMyBS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-fMeZS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-fMyZS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-fMeBD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-fMyBD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-fMeZD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-fMyZD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-fFBeS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's son,COUSIN,,auslan,Inferred; 
-fFByS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's son,COUSIN,,auslan,Inferred; 
-fFZeS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's son,COUSIN,,auslan,Inferred; 
-fFZyS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's son,COUSIN,,auslan,Inferred; 
-fFBeD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-fFByD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's brother's daughter,COUSIN,,auslan,Inferred; 
-fFZeD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-fFZyD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's father's sister's daughter,COUSIN,,auslan,Inferred; 
-fMBeS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-fMByS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's son,COUSIN,,auslan,Inferred; 
-fMZeS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-fMZyS,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's son,COUSIN,,auslan,Inferred; 
-fMBeD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-fMByD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's brother's daughter,COUSIN,,auslan,Inferred; 
-fMZeD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
-fMZyD,http://auslan.org.au/dictionary/words/cousin-1.html,,female ego's mother's sister's daughter,COUSIN,,auslan,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","http://auslan.org.au/dictionary/words/brother-1.html",,"male ego's older brother","BROTHER",,"auslan",""
+"myB","http://auslan.org.au/dictionary/words/brother-1.html",,"male ego's younger brother","BROTHER",,"auslan",""
+"feB","http://auslan.org.au/dictionary/words/brother-1.html",,"female ego's older brother","BROTHER",,"auslan",""
+"fyB","http://auslan.org.au/dictionary/words/brother-1.html",,"female ego's younger brother","BROTHER",,"auslan",""
+"meZ","http://auslan.org.au/dictionary/words/sister-1.html",,"male ego's older sister","SISTER",,"auslan",""
+"myZ","http://auslan.org.au/dictionary/words/sister-1.html",,"male ego's younger sister","SISTER",,"auslan",""
+"feZ","http://auslan.org.au/dictionary/words/sister-1.html",,"female ego's older sister","SISTER",,"auslan",""
+"fyZ","http://auslan.org.au/dictionary/words/sister-1.html",,"female ego's younger sister","SISTER",,"auslan",""
+"mF","http://auslan.org.au/dictionary/words/father-1.html",,"male ego's father","FATHER",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mM","http://auslan.org.au/dictionary/words/mother-1.html",,"male ego's mother","MOTHER",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fF","http://auslan.org.au/dictionary/words/father-1.html",,"female ego's father","FATHER",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fM","http://auslan.org.au/dictionary/words/mother-1.html",,"female ego's mother","MOTHER",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mS","http://auslan.org.au/dictionary/words/son-1.html OR http://auslan.org.au/dictionary/words/boy-1.html",,"male ego's son","SON",,"auslan","Two sign variants of BOY used (two separate links)"
+"fS","http://auslan.org.au/dictionary/words/son-1.html OR http://auslan.org.au/dictionary/words/boy-1.html",,"female ego's son","SON",,"auslan","Two sign variants of BOY used (two separate links)"
+"mD","http://auslan.org.au/dictionary/words/daughter-1.html OR http://auslan.org.au/dictionary/words/girl-1.html",,"male ego's daughter","DAUGHTER",,"auslan","Two sign variants of GIRL used (two separate links)"
+"fD","http://auslan.org.au/dictionary/words/daughter-1.html OR http://auslan.org.au/dictionary/words/girl-1.html",,"female ego's daughter","DAUGHTER",,"auslan","Two sign variants of GIRL used (two separate links)"
+"mSS","Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html)",,"male ego's son's son","FS:G-SON",,"auslan",""
+"mSD","Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html)",,"male ego's son's daughter","FS:G-DAUGHTER",,"auslan",""
+"mDS","Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html)",,"male ego's daughter's son","FS:G-SON",,"auslan",""
+"mDD","Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html)",,"male ego's daughter's daughter","FS:G-DAUGHTER",,"auslan",""
+"fSS","Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html)",,"female ego's son's son","FS:G-SON",,"auslan",""
+"fSD","Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html)",,"female ego's son's daughter","FS:G-DAUGHTER",,"auslan",""
+"fDS","Fingerspell G and then sign SON (http://auslan.org.au/dictionary/words/son-1.html)",,"female ego's daughter's son","FS:G-SON",,"auslan",""
+"fDD","Fingerspell G and then sign DAUGHTER (http://auslan.org.au/dictionary/words/daughter-1.html)",,"female ego's daugher's daughter","FS:G-DAUGHTER",,"auslan",""
+"mFF","http://auslan.org.au/dictionary/words/grandfather-1.html",,"male ego's father‘s father","GRAND-FATHER",,"auslan","Or compound sign of OLD+FATHER"
+"mFM","http://auslan.org.au/dictionary/words/grandmother-2.html",,"male ego's father's mother","GRAND-MOTHER",,"auslan","Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
+"mMF","http://auslan.org.au/dictionary/words/grandfather-1.html",,"male ego's mother's father","GRAND-FATHER",,"auslan","Or compound sign of OLD+FATHER"
+"mMM","http://auslan.org.au/dictionary/words/grandmother-2.html",,"male ego's mother's mother","GRAND-MOTHER",,"auslan","Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
+"fFF","http://auslan.org.au/dictionary/words/grandfather-1.html",,"female ego's father's father","GRAND-FATHER",,"auslan","Or compound sign of OLD+FATHER"
+"fFM","http://auslan.org.au/dictionary/words/grandmother-2.html",,"female ego's father's mother","GRAND-MOTHER",,"auslan","Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
+"fMF","http://auslan.org.au/dictionary/words/grandfather-1.html",,"female ego's mother's father","GRAND-FATHER",,"auslan","Or compound sign of OLD+FATHER"
+"fMM","http://auslan.org.au/dictionary/words/grandmother-2.html",,"female ego's mother's mother","GRAND-MOTHER",,"auslan","Or compound sign of OLD+MOTHER, i.e. http://auslan.org.au/dictionary/words/grandmother-1.html OR http://auslan.org.au/dictionary/words/grandmother-3.html"
+"meBS","http://auslan.org.au/dictionary/words/nephew-1.html",,"male ego's older brother's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"myBS","http://auslan.org.au/dictionary/words/nephew-1.html",,"male ego's younger brother's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"meZS","http://auslan.org.au/dictionary/words/nephew-1.html",,"male ego's older sister's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"myZS","http://auslan.org.au/dictionary/words/nephew-1.html",,"male ego's younger sister's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"meBD","http://auslan.org.au/dictionary/words/niece-1.html",,"male ego's older brother's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"myBD","http://auslan.org.au/dictionary/words/niece-1.html",,"male ego's younger brother's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"meZD","http://auslan.org.au/dictionary/words/niece-1.html",,"male ego's older sister's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"myZD","http://auslan.org.au/dictionary/words/niece-1.html",,"male ego's younger sister's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"feBS","http://auslan.org.au/dictionary/words/nephew-1.html",,"female ego's older brother's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fyBS","http://auslan.org.au/dictionary/words/nephew-1.html",,"female ego's younger brother's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"feZS","http://auslan.org.au/dictionary/words/nephew-1.html",,"female ego's older sister's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fyZS","http://auslan.org.au/dictionary/words/nephew-1.html",,"female ego's younger sister's son","NEPHEW",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"feBD","http://auslan.org.au/dictionary/words/niece-1.html",,"female ego's older brother's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fyBD","http://auslan.org.au/dictionary/words/niece-1.html",,"female ego's younger brother's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"feZD","http://auslan.org.au/dictionary/words/niece-1.html",,"female ego's older sister's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fyZD","http://auslan.org.au/dictionary/words/niece-1.html",,"female ego's younger sister's daughter","NIECE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mFeB","http://auslan.org.au/dictionary/words/uncle-1.html",,"male ego's father's older brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mFyB","http://auslan.org.au/dictionary/words/uncle-1.html",,"male ego's father's younger brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mFeZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"male ego's father's older sister","AUNT",,"auslan",""
+"mFyZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"male ego's father's younger sister","AUNT",,"auslan",""
+"mMeB","http://auslan.org.au/dictionary/words/uncle-1.html",,"male ego's mother's older brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mMyB","http://auslan.org.au/dictionary/words/uncle-1.html",,"male ego's mother's younger brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"mMeZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"male ego's mother's older sister","AUNT",,"auslan",""
+"mMyZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"male ego's mother's younger sister","AUNT",,"auslan",""
+"fFeB","http://auslan.org.au/dictionary/words/uncle-1.html",,"female ego's father's older brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fFyB","http://auslan.org.au/dictionary/words/uncle-1.html",,"female ego's father's younger brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fFeZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"female ego's father's older sister","AUNT",,"auslan",""
+"fFyZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"female ego's father's younger sister","AUNT",,"auslan",""
+"fMeB","http://auslan.org.au/dictionary/words/uncle-1.html",,"female ego's mother's older brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fMyB","http://auslan.org.au/dictionary/words/uncle-1.html",,"female ego's mother's younger brother","UNCLE",,"auslan","Two sign variants used (view 1 and 2 in link)"
+"fMeZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"female ego's mother's older sister","AUNT",,"auslan",""
+"fMyZ","http://auslan.org.au/dictionary/words/aunt-1.html",,"female ego's mother's younger sister","AUNT",,"auslan",""
+"mW","http://auslan.org.au/dictionary/words/wife-1.html",,"male ego's wife","SPOUSE",,"auslan","Often with English mouthing ""husband"" to disambiguate"
+"fH","http://auslan.org.au/dictionary/words/wife-1.html",,"female ego‘s husband","SPOUSE",,"auslan","Often with English mouthing ""wife"" to disambiguate"
+"mDH","One of the SON signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""daughter's husband""",,"male ego's daughter's husband","SON-IN-LAW",,"auslan",""
+"fDH","One of the SON signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""daughter's husband""",,"female ego's daughter's husband","SON-IN-LAW",,"auslan",""
+"mSW","One of the DAUGHTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""son's wife""",,"male ego's son's wife","DAUGHTER-IN-LAW",,"auslan",""
+"fSW","One of the DAUGHTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""son's wife""",,"female ego's son's wife","DAUGHTER-IN-LAW",,"auslan",""
+"mWF","One of the FATHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's father""",,"male ego's wife's father","FATHER-IN-LAW",,"auslan",""
+"mWM","One of the MOTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's mother""",,"male ego's wife's mother","MOTHER-IN-LAW",,"auslan",""
+"mWB","One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,"male ego's wife's brother","BROTHER-IN-LAW",,"auslan",""
+"mWZ","One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,"male ego's wife's sister","SISTER-IN-LAW",,"auslan",""
+"fHF","One of the FATHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's father""",,"female ego's husband's father","FATHER-IN-LAW",,"auslan",""
+"fHM","One of the MOTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's mother""",,"female ego's husband's mother","MOTHER-IN-LAW",,"auslan",""
+"fHB","One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,"female ego's husband's brother","BROTHER-IN-LAW",,"auslan",""
+"fHZ","One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,"female ego's husband's sister","SISTER-IN-LAW",,"auslan",""
+"mBW","One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,"male ego's brother's wife","SISTER-IN-LAW",,"auslan",""
+"fBW","One of the SISTER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's sister""",,"female ego's brother's wife","SISTER-IN-LAW",,"auslan",""
+"mZH","One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,"male ego's sister's husband","BROTHER-IN-LAW",,"auslan",""
+"fZH","One of the BROTHER signs listed above plus signing LAW meaning ""in law"", or a phrase such as ""wife's brother""",,"female ego's sister's husband","BROTHER-IN-LAW",,"auslan",""
+"mFBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's son","COUSIN",,"auslan","Only one sign for all these cousin relations"
+"mFZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's son","COUSIN",,"auslan",""
+"mMBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's son","COUSIN",,"auslan",""
+"mMZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's son","COUSIN",,"auslan",""
+"mFBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's daughter","COUSIN",,"auslan",""
+"mFZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's daughter","COUSIN",,"auslan",""
+"mMBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's daughter","COUSIN",,"auslan",""
+"mMZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's daughter","COUSIN",,"auslan",""
+"fFBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's son","COUSIN",,"auslan",""
+"fFZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's son","COUSIN",,"auslan",""
+"fMBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's son","COUSIN",,"auslan",""
+"fMZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's son","COUSIN",,"auslan",""
+"fFBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's daughter","COUSIN",,"auslan",""
+"fFZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's daughter","COUSIN",,"auslan",""
+"fMBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's daughter","COUSIN",,"auslan",""
+"fMZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's daughter","COUSIN",,"auslan",""
+"mFeBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's son","COUSIN",,"auslan","Inferred; Only one sign for all these cousin relations"
+"mFyBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's son","COUSIN",,"auslan","Inferred; Only one sign for all these cousin relations"
+"mFeZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"mFyZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"mFeBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mFyBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mFeZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mFyZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mMeBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"mMyBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"mMeZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"mMyZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"mMeBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mMyBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mMeZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mMyZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mFBeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's son","COUSIN",,"auslan","Inferred; Only one sign for all these cousin relations"
+"mFByS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's son","COUSIN",,"auslan","Inferred; Only one sign for all these cousin relations"
+"mFZeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"mFZyS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"mFBeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mFByD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mFZeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mFZyD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mMBeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"mMByS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"mMZeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"mMZyS","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"mMBeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mMByD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"mMZeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"mMZyD","http://auslan.org.au/dictionary/words/cousin-1.html",,"male ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fFeBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's son","COUSIN",,"auslan","Inferred; "
+"fFyBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's son","COUSIN",,"auslan","Inferred; "
+"fFeZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"fFyZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"fFeBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fFyBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fFeZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fFyZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fMeBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"fMyBS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"fMeZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"fMyZS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"fMeBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fMyBD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fMeZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fMyZD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fFBeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's son","COUSIN",,"auslan","Inferred; "
+"fFByS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's son","COUSIN",,"auslan","Inferred; "
+"fFZeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"fFZyS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's son","COUSIN",,"auslan","Inferred; "
+"fFBeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fFByD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fFZeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fFZyD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's father's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fMBeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"fMByS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's son","COUSIN",,"auslan","Inferred; "
+"fMZeS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"fMZyS","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's son","COUSIN",,"auslan","Inferred; "
+"fMBeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fMByD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's brother's daughter","COUSIN",,"auslan","Inferred; "
+"fMZeD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
+"fMZyD","http://auslan.org.au/dictionary/words/cousin-1.html",,"female ego's mother's sister's daughter","COUSIN",,"auslan","Inferred; "
