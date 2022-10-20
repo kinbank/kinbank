@@ -1,93 +1,93 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tuga,,male ego's older brother,,,Rivers1914,
-myB,tasi,,male ego's younger brother,,,Rivers1914,
-feB,tata,,female ego's older brother,,,Rivers1914,
-fyB,tata,,female ego's younger brother,,,Rivers1914,
-meZ,tata,,male ego's older sister,,,Rivers1914,
-myZ,tata,,male ego's younger sister,,,Rivers1914,
-mF,"imama, mam",,male ego's father,,,Rivers1914,
-mM,"ivev, vev",,male ego's mother,,,Rivers1914,
-fF,"imama, mam",,female ego's father,,,Rivers1914,
-fM,"ivev, vev",,female ego's mother,,,Rivers1914,
-mS,natu,,male ego's son,,,Rivers1914,
-fS,natu,,female ego's son,,,Rivers1914,
-mD,natu,,male ego's daughter,,,Rivers1914,
-fD,natu,,female ego's daughter,,,Rivers1914,
-mSS,"tumbu, imbua",,male ego's son's son,,,Rivers1914,
-mSD,"tumbu, imbua",,male ego's son's daughter,,,Rivers1914,
-mDS,"tumbu, imbua",,male ego's daughter's son,,,Rivers1914,
-mDD,"tumbu, imbua",,male ego's daughter's daughter,,,Rivers1914,
-fSS,"tumbu, imbua",,female ego's son's son,,,Rivers1914,
-fSD,"tumbu, imbua",,female ego's son's daughter,,,Rivers1914,
-fDS,"tumbu, imbua",,female ego's daughter's son,,,Rivers1914,
-fDD,"tumbu, imbua",,female ego's daugher's daughter,,,Rivers1914,
-mFF,tumbu,,male ego's father‘s father,,,Rivers1914,
-mFM,tumbu,,male ego's father's mother,,,Rivers1914,
-mMF,tumbu,,male ego's mother's father,,,Rivers1914,
-mMM,tumbu,,male ego's mother's mother,,,Rivers1914,
-fFF,tumbu,,female ego's father's father,,,Rivers1914,
-fFM,tumbu,,female ego's father's mother,,,Rivers1914,
-fMF,tumbu,,female ego's mother's father,,,Rivers1914,
-fMM,tumbu,,female ego's mother's mother,,,Rivers1914,
-feBS,natu,,female ego's older brother's son,,,Rivers1914,
-fyBS,natu,,female ego's younger brother's son,,,Rivers1914,
-mFeZ,ivev,,male ego's father's older sister,,,Rivers1914,
-mFyZ,ivev,,male ego's father's younger sister,,,Rivers1914,
-mMeB,moru,,male ego's mother's older brother,,,Rivers1914,
-mMyB,moru,,male ego's mother's younger brother,,,Rivers1914,
-fFeZ,ivev,,female ego's father's older sister,,,Rivers1914,
-fFyZ,ivev,,female ego's father's younger sister,,,Rivers1914,
-fMeB,moru,,female ego's mother's older brother,,,Rivers1914,
-fMyB,moru,,female ego's mother's younger brother,,,Rivers1914,
-mDH,welag,,male ego's daughter's husband,,,Rivers1914,
-fDH,welag,,female ego's daughter's husband,,,Rivers1914,
-mSW,tawarig,,male ego's son's wife,,,Rivers1914,
-fSW,tawarig,,female ego's son's wife,,,Rivers1914,
-mWF,kwaleg,,male ego's wife's father,,,Rivers1914,
-mWM,rombu,,male ego's wife's mother,,,Rivers1914,
-mWB,wulu,,male ego's wife's brother,,,Rivers1914,
-mWZ,tata,,male ego's wife's sister,,,Rivers1914,
-fHF,kwaleg,,female ego's husband's father,,,Rivers1914,
-fHM,rombu,,female ego's husband's mother,,,Rivers1914,
-fHB,tata,,female ego's husband's brother,,,Rivers1914,
-fHZ,"walu, nawal",,female ego's husband's sister,,,Rivers1914,
-mFZS,natu,,male ego's father's sister's son,,,Rivers1914,
-mMBS,natu,,male ego's mother's brother's son,,,Rivers1914,
-mFZD,natu,,male ego's father's sister's daughter,,,Rivers1914,
-mMBD,natu,,male ego's mother's brother's daughter,,,Rivers1914,
-fFZS,natu,,female ego's father's sister's son,,,Rivers1914,
-fMBS,natu,,female ego's mother's brother's son,,,Rivers1914,
-fFZD,natu,,female ego's father's sister's daughter,,,Rivers1914,
-fMBD,natu,,female ego's mother's brother's daughter,,,Rivers1914,
-mFeZS,natu,,male ego's father's sister's son,,,Rivers1914,Inferred; NA
-mFyZS,natu,,male ego's father's sister's son,,,Rivers1914,Inferred; NA
-mFeZD,natu,,male ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-mFyZD,natu,,male ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-mMeBS,natu,,male ego's mother's brother's son,,,Rivers1914,Inferred; NA
-mMyBS,natu,,male ego's mother's brother's son,,,Rivers1914,Inferred; NA
-mMeBD,natu,,male ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-mMyBD,natu,,male ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-mFZeS,natu,,male ego's father's sister's son,,,Rivers1914,Inferred; NA
-mFZyS,natu,,male ego's father's sister's son,,,Rivers1914,Inferred; NA
-mFZeD,natu,,male ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-mFZyD,natu,,male ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-mMBeS,natu,,male ego's mother's brother's son,,,Rivers1914,Inferred; NA
-mMByS,natu,,male ego's mother's brother's son,,,Rivers1914,Inferred; NA
-mMBeD,natu,,male ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-mMByD,natu,,male ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-fFeZS,natu,,female ego's father's sister's son,,,Rivers1914,Inferred; NA
-fFyZS,natu,,female ego's father's sister's son,,,Rivers1914,Inferred; NA
-fFeZD,natu,,female ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-fFyZD,natu,,female ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-fMeBS,natu,,female ego's mother's brother's son,,,Rivers1914,Inferred; NA
-fMyBS,natu,,female ego's mother's brother's son,,,Rivers1914,Inferred; NA
-fMeBD,natu,,female ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-fMyBD,natu,,female ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-fFZeS,natu,,female ego's father's sister's son,,,Rivers1914,Inferred; NA
-fFZyS,natu,,female ego's father's sister's son,,,Rivers1914,Inferred; NA
-fFZeD,natu,,female ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-fFZyD,natu,,female ego's father's sister's daughter,,,Rivers1914,Inferred; NA
-fMBeS,natu,,female ego's mother's brother's son,,,Rivers1914,Inferred; NA
-fMByS,natu,,female ego's mother's brother's son,,,Rivers1914,Inferred; NA
-fMBeD,natu,,female ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
-fMByD,natu,,female ego's mother's brother's daughter,,,Rivers1914,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tuga",,"male ego's older brother",,,"Rivers1914",""
+"myB","tasi",,"male ego's younger brother",,,"Rivers1914",""
+"feB","tata",,"female ego's older brother",,,"Rivers1914",""
+"fyB","tata",,"female ego's younger brother",,,"Rivers1914",""
+"meZ","tata",,"male ego's older sister",,,"Rivers1914",""
+"myZ","tata",,"male ego's younger sister",,,"Rivers1914",""
+"mF","imama, mam",,"male ego's father",,,"Rivers1914",""
+"mM","ivev, vev",,"male ego's mother",,,"Rivers1914",""
+"fF","imama, mam",,"female ego's father",,,"Rivers1914",""
+"fM","ivev, vev",,"female ego's mother",,,"Rivers1914",""
+"mS","natu",,"male ego's son",,,"Rivers1914",""
+"fS","natu",,"female ego's son",,,"Rivers1914",""
+"mD","natu",,"male ego's daughter",,,"Rivers1914",""
+"fD","natu",,"female ego's daughter",,,"Rivers1914",""
+"mSS","tumbu, imbua",,"male ego's son's son",,,"Rivers1914",""
+"mSD","tumbu, imbua",,"male ego's son's daughter",,,"Rivers1914",""
+"mDS","tumbu, imbua",,"male ego's daughter's son",,,"Rivers1914",""
+"mDD","tumbu, imbua",,"male ego's daughter's daughter",,,"Rivers1914",""
+"fSS","tumbu, imbua",,"female ego's son's son",,,"Rivers1914",""
+"fSD","tumbu, imbua",,"female ego's son's daughter",,,"Rivers1914",""
+"fDS","tumbu, imbua",,"female ego's daughter's son",,,"Rivers1914",""
+"fDD","tumbu, imbua",,"female ego's daugher's daughter",,,"Rivers1914",""
+"mFF","tumbu",,"male ego's father‘s father",,,"Rivers1914",""
+"mFM","tumbu",,"male ego's father's mother",,,"Rivers1914",""
+"mMF","tumbu",,"male ego's mother's father",,,"Rivers1914",""
+"mMM","tumbu",,"male ego's mother's mother",,,"Rivers1914",""
+"fFF","tumbu",,"female ego's father's father",,,"Rivers1914",""
+"fFM","tumbu",,"female ego's father's mother",,,"Rivers1914",""
+"fMF","tumbu",,"female ego's mother's father",,,"Rivers1914",""
+"fMM","tumbu",,"female ego's mother's mother",,,"Rivers1914",""
+"feBS","natu",,"female ego's older brother's son",,,"Rivers1914",""
+"fyBS","natu",,"female ego's younger brother's son",,,"Rivers1914",""
+"mFeZ","ivev",,"male ego's father's older sister",,,"Rivers1914",""
+"mFyZ","ivev",,"male ego's father's younger sister",,,"Rivers1914",""
+"mMeB","moru",,"male ego's mother's older brother",,,"Rivers1914",""
+"mMyB","moru",,"male ego's mother's younger brother",,,"Rivers1914",""
+"fFeZ","ivev",,"female ego's father's older sister",,,"Rivers1914",""
+"fFyZ","ivev",,"female ego's father's younger sister",,,"Rivers1914",""
+"fMeB","moru",,"female ego's mother's older brother",,,"Rivers1914",""
+"fMyB","moru",,"female ego's mother's younger brother",,,"Rivers1914",""
+"mDH","welag",,"male ego's daughter's husband",,,"Rivers1914",""
+"fDH","welag",,"female ego's daughter's husband",,,"Rivers1914",""
+"mSW","tawarig",,"male ego's son's wife",,,"Rivers1914",""
+"fSW","tawarig",,"female ego's son's wife",,,"Rivers1914",""
+"mWF","kwaleg",,"male ego's wife's father",,,"Rivers1914",""
+"mWM","rombu",,"male ego's wife's mother",,,"Rivers1914",""
+"mWB","wulu",,"male ego's wife's brother",,,"Rivers1914",""
+"mWZ","tata",,"male ego's wife's sister",,,"Rivers1914",""
+"fHF","kwaleg",,"female ego's husband's father",,,"Rivers1914",""
+"fHM","rombu",,"female ego's husband's mother",,,"Rivers1914",""
+"fHB","tata",,"female ego's husband's brother",,,"Rivers1914",""
+"fHZ","walu, nawal",,"female ego's husband's sister",,,"Rivers1914",""
+"mFZS","natu",,"male ego's father's sister's son",,,"Rivers1914",""
+"mMBS","natu",,"male ego's mother's brother's son",,,"Rivers1914",""
+"mFZD","natu",,"male ego's father's sister's daughter",,,"Rivers1914",""
+"mMBD","natu",,"male ego's mother's brother's daughter",,,"Rivers1914",""
+"fFZS","natu",,"female ego's father's sister's son",,,"Rivers1914",""
+"fMBS","natu",,"female ego's mother's brother's son",,,"Rivers1914",""
+"fFZD","natu",,"female ego's father's sister's daughter",,,"Rivers1914",""
+"fMBD","natu",,"female ego's mother's brother's daughter",,,"Rivers1914",""
+"mFeZS","natu",,"male ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"mFyZS","natu",,"male ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"mFeZD","natu",,"male ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"mFyZD","natu",,"male ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"mMeBS","natu",,"male ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"mMyBS","natu",,"male ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"mMeBD","natu",,"male ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"mMyBD","natu",,"male ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"mFZeS","natu",,"male ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"mFZyS","natu",,"male ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"mFZeD","natu",,"male ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"mFZyD","natu",,"male ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"mMBeS","natu",,"male ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"mMByS","natu",,"male ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"mMBeD","natu",,"male ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"mMByD","natu",,"male ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"fFeZS","natu",,"female ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"fFyZS","natu",,"female ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"fFeZD","natu",,"female ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"fFyZD","natu",,"female ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"fMeBS","natu",,"female ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"fMyBS","natu",,"female ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"fMeBD","natu",,"female ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"fMyBD","natu",,"female ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"fFZeS","natu",,"female ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"fFZyS","natu",,"female ego's father's sister's son",,,"Rivers1914","Inferred; NA"
+"fFZeD","natu",,"female ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"fFZyD","natu",,"female ego's father's sister's daughter",,,"Rivers1914","Inferred; NA"
+"fMBeS","natu",,"female ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"fMByS","natu",,"female ego's mother's brother's son",,,"Rivers1914","Inferred; NA"
+"fMBeD","natu",,"female ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"
+"fMByD","natu",,"female ego's mother's brother's daughter",,,"Rivers1914","Inferred; NA"

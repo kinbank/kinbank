@@ -1,113 +1,113 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,yaba,,male ego's older brother,,,Powell2002,
-myB,gaarga,,male ego's younger brother,,,Powell2002,
-feB,yaba,,female ego's older brother,,,Powell2002,
-fyB,gaarga,,female ego's younger brother,,,Powell2002,
-meZ,gaanhaal,,male ego's older sister,,,Powell2002,
-myZ,jin-gurr,,male ego's younger sister,,,Powell2002,
-feZ,gaanhaal,,female ego's older sister,,,Powell2002,
-fyZ,jin-gurr,,female ego's younger sister,,,Powell2002,
-mF,"biiba, bobaa",,male ego's father,,,Powell2002,
-mM,ngamu,,male ego's mother,,,Powell2002,
-fF,"biiba, bobaa",,female ego's father,,,Powell2002,
-fM,ngamu,,female ego's mother,,,Powell2002,
-mS,yumurr,,male ego's son,,,Powell2002,
-fS,juway,,female ego's son,,,Powell2002,
-mD,yumurr,,male ego's daughter,,,Powell2002,
-fD,nguuthuurr,,female ego's daughter,,,Powell2002,
-mSS,gaminhtharr,,male ego's son's son,,,Powell2002,
-mSD,gaminhtharr,,male ego's son's daughter,,,Powell2002,
-mDS,ngadinil,,male ego's daughter's son,,,Powell2002,
-mDD,ngadinil,,male ego's daughter's daughter,,,Powell2002,
-fSS,ngadinil,,female ego's son's son,,,Powell2002,
-fSD,ngadinil,,female ego's son's daughter,,,Powell2002,
-fDS,gaminhtharr,,female ego's daughter's son,,,Powell2002,
-fDD,gaminhtharr,,female ego's daugher's daughter,,,Powell2002,
-mFF,gami,,male ego's father‘s father,,,Powell2002,
-mFM,babi,,male ego's father's mother,,,Powell2002,
-mMF,ngathi,,male ego's mother's father,,,Powell2002,
-mMM,gami,,male ego's mother's mother,,,Powell2002,
-fFF,gami,,female ego's father's father,,,Powell2002,
-fFM,babi,,female ego's father's mother,,,Powell2002,
-fMF,ngathi,,female ego's mother's father,,,Powell2002,
-fMM,gami,,female ego's mother's mother,,,Powell2002,
-meBS,yumurr,,male ego's older brother's son,,,Powell2002,
-myBS,mugagay,,male ego's younger brother's son,,,Powell2002,
-meZS,mugur,,male ego's older sister's son,,,Powell2002,
-myZS,mugagay,,male ego's younger sister's son,,,Powell2002,
-meBD,yumurr,,male ego's older brother's daughter,,,Powell2002,
-myBD,mugagay,,male ego's younger brother's daughter,,,Powell2002,
-meZD,nguuthuurr,,male ego's older sister's daughter,,,Powell2002,
-myZD,mugagay,,male ego's younger sister's daughter,,,Powell2002,
-feBS,yumurr,,female ego's older brother's son,,,Powell2002,
-fyBS,mugagay,,female ego's younger brother's son,,,Powell2002,
-feZS,juway,,female ego's older sister's son,,,Powell2002,
-fyZS,mugagay,,female ego's younger sister's son,,,Powell2002,
-feBD,yumurr,,female ego's older brother's daughter,,,Powell2002,
-fyBD,mugagay,,female ego's younger brother's daughter,,,Powell2002,
-feZD,nguuthuurr,,female ego's older sister's daughter,,,Powell2002,
-fyZD,mugagay,,female ego's younger sister's daughter,,,Powell2002,
-mFeB,mugagay,,male ego's father's older brother,,,Powell2002,
-mFyB,"biiba, bobaa",,male ego's father's younger brother,,,Powell2002,
-mFeZ,mugagay,,male ego's father's older sister,,,Powell2002,
-mFyZ,biimuur,,male ego's father's younger sister,,,Powell2002,
-mMeB,mugagay,,male ego's mother's older brother,,,Powell2002,
-mMyB,mugur,,male ego's mother's younger brother,,,Powell2002,
-mMeZ,mugagay,,male ego's mother's older sister,,,Powell2002,
-mMyZ,ngamu,,male ego's mother's younger sister,,,Powell2002,
-fFeB,mugagay,,female ego's father's older brother,,,Powell2002,
-fFyB,"biiba, bobaa",,female ego's father's younger brother,,,Powell2002,
-fFeZ,mugagay,,female ego's father's older sister,,,Powell2002,
-fFyZ,biimuur,,female ego's father's younger sister,,,Powell2002,
-fMeB,mugagay,,female ego's mother's older brother,,,Powell2002,
-fMyB,mugur,,female ego's mother's younger brother,,,Powell2002,
-fMeZ,mugagay,,female ego's mother's older sister,,,Powell2002,
-fMyZ,ngamu,,female ego's mother's younger sister,,,Powell2002,
-mW,jirral,,male ego's wife,,,Powell2002,
-fH,dunhu,,female ego‘s husband,,,Powell2002,
-mDH,ngalaathin,,male ego's daughter's husband,,,Powell2002,
-fDH,biijirr,,female ego's daughter's husband,,,Powell2002,
-mSW,ngiithithi,,male ego's son's wife,,,Powell2002,
-fSW,"yumurr, biijirr",,female ego's son's wife,,,Powell2002,
-mWF,ngathiina,,male ego's wife's father,,,Powell2002,
-mWM,biwul,,male ego's wife's mother,,,Powell2002,
-mWB,gaanyil,,male ego's wife's brother,,,Powell2002,
-mWZ,jirral,,male ego's wife's sister,,,Powell2002,
-fHF,mugagay,,female ego's husband's father,,,Powell2002,
-fHM,biimuur,,female ego's husband's mother,,,Powell2002,
-fHB,"juway, dunhu",,female ego's husband's brother,,,Powell2002,"juway = female ego''s husband's elder brother, dunhu = female ego's husband's younger brother"
-fHZ,gaanyil,,female ego's husband's sister,,,Powell2002,
-mBW,jirral,,male ego's brother's wife,,,Powell2002,
-mZH,dunhu,,male ego's sister's husband,,,Powell2002,
-mFeBS,yaba,,male ego's father‘s older brother‘s son,,,Powell2002,
-mFyBS,gaarga,,male ego‘s father‘s younger brother‘s son,,,Powell2002,
-mFeZS,juway,,male ego's father‘s older sister‘s son,,,Powell2002,
-mFyZS,juway,,male ego‘s father‘s younger sister‘s son,,,Powell2002,
-mFeBD,gaanhaal,,male ego's father‘s older brother‘s daughter,,,Powell2002,
-mFyBD,jin-gurr,,male ego‘s father‘s younger brother‘s daughter,,,Powell2002,
-mFeZD,nguuthuurr,,male ego's father‘s older sister‘s daughter,,,Powell2002,
-mFyZD,nguuthuurr,,male ego‘s father‘s younger sister‘s daughter,,,Powell2002,
-mMeBS,mugur,,male ego's mother‘s older brother‘s son,,,Powell2002,
-mMyBS,mugur,,male ego‘s mother‘s younger brother‘s son,,,Powell2002,
-mMeZS,yaba,,male ego's mother‘s older sister‘s son,,,Powell2002,
-mMyZS,gaarga,,male ego‘s mother‘s younger sister‘s son,,,Powell2002,
-mMeBD,ngamu,,male ego's mother‘s older brother‘s daughter,,,Powell2002,
-mMyBD,ngamu,,male ego‘s mother‘s younger brother‘s daughter,,,Powell2002,
-mMeZD,gaanhaal,,male ego's mother‘s older sister‘s daughter,,,Powell2002,
-mMyZD,jin-gurr,,male ego‘s mother‘s younger sister‘s daughter,,,Powell2002,
-fFeBS,yaba,,female ego's father‘s older brother‘s son,,,Powell2002,
-fFyBS,gaarga,,female ego‘s father‘s younger brother‘s son,,,Powell2002,
-fFeZS,juway,,female ego's father‘s older sister‘s son,,,Powell2002,
-fFyZS,juway,,female ego‘s father‘s younger sister‘s son,,,Powell2002,
-fFeBD,gaanhaal,,female ego's father‘s older brother‘s daughter,,,Powell2002,
-fFyBD,jin-gurr,,female ego‘s father‘s younger brother‘s daughter,,,Powell2002,
-fFeZD,nguuthuurr,,female ego's father‘s older sister‘s daughter,,,Powell2002,
-fFyZD,nguuthuurr,,female ego‘s father‘s younger sister‘s daughter,,,Powell2002,
-fMeBS,mugur,,female ego's mother‘s older brother‘s son,,,Powell2002,
-fMyBS,mugur,,female ego‘s mother‘s younger brother‘s son,,,Powell2002,
-fMeZS,yaba,,female ego's mother‘s older sister‘s son,,,Powell2002,
-fMyZS,gaarga,,female ego‘s mother‘s younger sister‘s son,,,Powell2002,
-fMeBD,ngamu,,female ego's mother‘s older brother‘s daughter,,,Powell2002,
-fMyBD,ngamu,,female ego‘s mother‘s younger brother‘s daughter,,,Powell2002,
-fMeZD,gaanhaal,,female ego's mother‘s older sister‘s daughter,,,Powell2002,
-fMyZD,jin-gurr,,female ego‘s mother‘s younger sister‘s daughter,,,Powell2002,
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","yaba",,"male ego's older brother",,,"Powell2002",""
+"myB","gaarga",,"male ego's younger brother",,,"Powell2002",""
+"feB","yaba",,"female ego's older brother",,,"Powell2002",""
+"fyB","gaarga",,"female ego's younger brother",,,"Powell2002",""
+"meZ","gaanhaal",,"male ego's older sister",,,"Powell2002",""
+"myZ","jin-gurr",,"male ego's younger sister",,,"Powell2002",""
+"feZ","gaanhaal",,"female ego's older sister",,,"Powell2002",""
+"fyZ","jin-gurr",,"female ego's younger sister",,,"Powell2002",""
+"mF","biiba, bobaa",,"male ego's father",,,"Powell2002",""
+"mM","ngamu",,"male ego's mother",,,"Powell2002",""
+"fF","biiba, bobaa",,"female ego's father",,,"Powell2002",""
+"fM","ngamu",,"female ego's mother",,,"Powell2002",""
+"mS","yumurr",,"male ego's son",,,"Powell2002",""
+"fS","juway",,"female ego's son",,,"Powell2002",""
+"mD","yumurr",,"male ego's daughter",,,"Powell2002",""
+"fD","nguuthuurr",,"female ego's daughter",,,"Powell2002",""
+"mSS","gaminhtharr",,"male ego's son's son",,,"Powell2002",""
+"mSD","gaminhtharr",,"male ego's son's daughter",,,"Powell2002",""
+"mDS","ngadinil",,"male ego's daughter's son",,,"Powell2002",""
+"mDD","ngadinil",,"male ego's daughter's daughter",,,"Powell2002",""
+"fSS","ngadinil",,"female ego's son's son",,,"Powell2002",""
+"fSD","ngadinil",,"female ego's son's daughter",,,"Powell2002",""
+"fDS","gaminhtharr",,"female ego's daughter's son",,,"Powell2002",""
+"fDD","gaminhtharr",,"female ego's daugher's daughter",,,"Powell2002",""
+"mFF","gami",,"male ego's father‘s father",,,"Powell2002",""
+"mFM","babi",,"male ego's father's mother",,,"Powell2002",""
+"mMF","ngathi",,"male ego's mother's father",,,"Powell2002",""
+"mMM","gami",,"male ego's mother's mother",,,"Powell2002",""
+"fFF","gami",,"female ego's father's father",,,"Powell2002",""
+"fFM","babi",,"female ego's father's mother",,,"Powell2002",""
+"fMF","ngathi",,"female ego's mother's father",,,"Powell2002",""
+"fMM","gami",,"female ego's mother's mother",,,"Powell2002",""
+"meBS","yumurr",,"male ego's older brother's son",,,"Powell2002",""
+"myBS","mugagay",,"male ego's younger brother's son",,,"Powell2002",""
+"meZS","mugur",,"male ego's older sister's son",,,"Powell2002",""
+"myZS","mugagay",,"male ego's younger sister's son",,,"Powell2002",""
+"meBD","yumurr",,"male ego's older brother's daughter",,,"Powell2002",""
+"myBD","mugagay",,"male ego's younger brother's daughter",,,"Powell2002",""
+"meZD","nguuthuurr",,"male ego's older sister's daughter",,,"Powell2002",""
+"myZD","mugagay",,"male ego's younger sister's daughter",,,"Powell2002",""
+"feBS","yumurr",,"female ego's older brother's son",,,"Powell2002",""
+"fyBS","mugagay",,"female ego's younger brother's son",,,"Powell2002",""
+"feZS","juway",,"female ego's older sister's son",,,"Powell2002",""
+"fyZS","mugagay",,"female ego's younger sister's son",,,"Powell2002",""
+"feBD","yumurr",,"female ego's older brother's daughter",,,"Powell2002",""
+"fyBD","mugagay",,"female ego's younger brother's daughter",,,"Powell2002",""
+"feZD","nguuthuurr",,"female ego's older sister's daughter",,,"Powell2002",""
+"fyZD","mugagay",,"female ego's younger sister's daughter",,,"Powell2002",""
+"mFeB","mugagay",,"male ego's father's older brother",,,"Powell2002",""
+"mFyB","biiba, bobaa",,"male ego's father's younger brother",,,"Powell2002",""
+"mFeZ","mugagay",,"male ego's father's older sister",,,"Powell2002",""
+"mFyZ","biimuur",,"male ego's father's younger sister",,,"Powell2002",""
+"mMeB","mugagay",,"male ego's mother's older brother",,,"Powell2002",""
+"mMyB","mugur",,"male ego's mother's younger brother",,,"Powell2002",""
+"mMeZ","mugagay",,"male ego's mother's older sister",,,"Powell2002",""
+"mMyZ","ngamu",,"male ego's mother's younger sister",,,"Powell2002",""
+"fFeB","mugagay",,"female ego's father's older brother",,,"Powell2002",""
+"fFyB","biiba, bobaa",,"female ego's father's younger brother",,,"Powell2002",""
+"fFeZ","mugagay",,"female ego's father's older sister",,,"Powell2002",""
+"fFyZ","biimuur",,"female ego's father's younger sister",,,"Powell2002",""
+"fMeB","mugagay",,"female ego's mother's older brother",,,"Powell2002",""
+"fMyB","mugur",,"female ego's mother's younger brother",,,"Powell2002",""
+"fMeZ","mugagay",,"female ego's mother's older sister",,,"Powell2002",""
+"fMyZ","ngamu",,"female ego's mother's younger sister",,,"Powell2002",""
+"mW","jirral",,"male ego's wife",,,"Powell2002",""
+"fH","dunhu",,"female ego‘s husband",,,"Powell2002",""
+"mDH","ngalaathin",,"male ego's daughter's husband",,,"Powell2002",""
+"fDH","biijirr",,"female ego's daughter's husband",,,"Powell2002",""
+"mSW","ngiithithi",,"male ego's son's wife",,,"Powell2002",""
+"fSW","yumurr, biijirr",,"female ego's son's wife",,,"Powell2002",""
+"mWF","ngathiina",,"male ego's wife's father",,,"Powell2002",""
+"mWM","biwul",,"male ego's wife's mother",,,"Powell2002",""
+"mWB","gaanyil",,"male ego's wife's brother",,,"Powell2002",""
+"mWZ","jirral",,"male ego's wife's sister",,,"Powell2002",""
+"fHF","mugagay",,"female ego's husband's father",,,"Powell2002",""
+"fHM","biimuur",,"female ego's husband's mother",,,"Powell2002",""
+"fHB","juway, dunhu",,"female ego's husband's brother",,,"Powell2002","juway = female ego''s husband's elder brother, dunhu = female ego's husband's younger brother"
+"fHZ","gaanyil",,"female ego's husband's sister",,,"Powell2002",""
+"mBW","jirral",,"male ego's brother's wife",,,"Powell2002",""
+"mZH","dunhu",,"male ego's sister's husband",,,"Powell2002",""
+"mFeBS","yaba",,"male ego's father‘s older brother‘s son",,,"Powell2002",""
+"mFyBS","gaarga",,"male ego‘s father‘s younger brother‘s son",,,"Powell2002",""
+"mFeZS","juway",,"male ego's father‘s older sister‘s son",,,"Powell2002",""
+"mFyZS","juway",,"male ego‘s father‘s younger sister‘s son",,,"Powell2002",""
+"mFeBD","gaanhaal",,"male ego's father‘s older brother‘s daughter",,,"Powell2002",""
+"mFyBD","jin-gurr",,"male ego‘s father‘s younger brother‘s daughter",,,"Powell2002",""
+"mFeZD","nguuthuurr",,"male ego's father‘s older sister‘s daughter",,,"Powell2002",""
+"mFyZD","nguuthuurr",,"male ego‘s father‘s younger sister‘s daughter",,,"Powell2002",""
+"mMeBS","mugur",,"male ego's mother‘s older brother‘s son",,,"Powell2002",""
+"mMyBS","mugur",,"male ego‘s mother‘s younger brother‘s son",,,"Powell2002",""
+"mMeZS","yaba",,"male ego's mother‘s older sister‘s son",,,"Powell2002",""
+"mMyZS","gaarga",,"male ego‘s mother‘s younger sister‘s son",,,"Powell2002",""
+"mMeBD","ngamu",,"male ego's mother‘s older brother‘s daughter",,,"Powell2002",""
+"mMyBD","ngamu",,"male ego‘s mother‘s younger brother‘s daughter",,,"Powell2002",""
+"mMeZD","gaanhaal",,"male ego's mother‘s older sister‘s daughter",,,"Powell2002",""
+"mMyZD","jin-gurr",,"male ego‘s mother‘s younger sister‘s daughter",,,"Powell2002",""
+"fFeBS","yaba",,"female ego's father‘s older brother‘s son",,,"Powell2002",""
+"fFyBS","gaarga",,"female ego‘s father‘s younger brother‘s son",,,"Powell2002",""
+"fFeZS","juway",,"female ego's father‘s older sister‘s son",,,"Powell2002",""
+"fFyZS","juway",,"female ego‘s father‘s younger sister‘s son",,,"Powell2002",""
+"fFeBD","gaanhaal",,"female ego's father‘s older brother‘s daughter",,,"Powell2002",""
+"fFyBD","jin-gurr",,"female ego‘s father‘s younger brother‘s daughter",,,"Powell2002",""
+"fFeZD","nguuthuurr",,"female ego's father‘s older sister‘s daughter",,,"Powell2002",""
+"fFyZD","nguuthuurr",,"female ego‘s father‘s younger sister‘s daughter",,,"Powell2002",""
+"fMeBS","mugur",,"female ego's mother‘s older brother‘s son",,,"Powell2002",""
+"fMyBS","mugur",,"female ego‘s mother‘s younger brother‘s son",,,"Powell2002",""
+"fMeZS","yaba",,"female ego's mother‘s older sister‘s son",,,"Powell2002",""
+"fMyZS","gaarga",,"female ego‘s mother‘s younger sister‘s son",,,"Powell2002",""
+"fMeBD","ngamu",,"female ego's mother‘s older brother‘s daughter",,,"Powell2002",""
+"fMyBD","ngamu",,"female ego‘s mother‘s younger brother‘s daughter",,,"Powell2002",""
+"fMeZD","gaanhaal",,"female ego's mother‘s older sister‘s daughter",,,"Powell2002",""
+"fMyZD","jin-gurr",,"female ego‘s mother‘s younger sister‘s daughter",,,"Powell2002",""

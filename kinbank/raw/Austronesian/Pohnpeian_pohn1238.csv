@@ -1,56 +1,56 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,pirien,,male ego's older brother,,,Rehg1979Ponapean,
-myB,pirien,,male ego's younger brother,,,Rehg1979Ponapean,
-feB,pedali,,female ego's older brother,,,Rehg1979Ponapean,
-fyB,pedali,,female ego's younger brother,,,Rehg1979Ponapean,
-meZ,pedali,,male ego's older sister,,,Rehg1979Ponapean,
-myZ,pedali,,male ego's younger sister,,,Rehg1979Ponapean,
-feZ,pirien,,female ego's older sister,,,Rehg1979Ponapean,
-fyZ,pirien,,female ego's younger sister,,,Rehg1979Ponapean,
-mF,"pahpa, sahm, ipa",,male ego's father,,,Rehg1979Ponapean,
-mM,"ihn, nohno, ino",,male ego's mother,,,Rehg1979Ponapean,
-fF,"pahpa, sahm, ipa",,female ego's father,,,Rehg1979Ponapean,
-fM,"ihn, nohno, ino",,female ego's mother,,,Rehg1979Ponapean,
-mS,nahi,,male ego's son,,,Rehg1979Ponapean,
-fS,nahi,,female ego's son,,,Rehg1979Ponapean,
-mD,nahi,,male ego's daughter,,,Rehg1979Ponapean,
-fD,nahi,,female ego's daughter,,,Rehg1979Ponapean,
-mFF,"pahpa, kahlap, sahm kahlap",,male ego's father‘s father,,,Rehg1979Ponapean,
-mFM,"ihn kahlap, nohno hahlap",,male ego's father's mother,,,Rehg1979Ponapean,
-mMF,"pahpa, kahlap, sahm kahlap",,male ego's mother's father,,,Rehg1979Ponapean,
-mMM,"ihn kahlap, nohno hahlap",,male ego's mother's mother,,,Rehg1979Ponapean,
-fFF,"pahpa, kahlap, sahm kahlap",,female ego's father's father,,,Rehg1979Ponapean,
-fFM,"ihn kahlap, nohno hahlap",,female ego's father's mother,,,Rehg1979Ponapean,
-fMF,"pahpa, kahlap, sahm kahlap",,female ego's mother's father,,,Rehg1979Ponapean,
-fMM,"ihn kahlap, nohno hahlap",,female ego's mother's mother,,,Rehg1979Ponapean,
-mFeB,ullap,,male ego's father's older brother,,,Rehg1979Ponapean,
-mFyB,ullap,,male ego's father's younger brother,,,Rehg1979Ponapean,
-mMeB,ullap,,male ego's mother's older brother,,,Rehg1979Ponapean,
-mMyB,ullap,,male ego's mother's younger brother,,,Rehg1979Ponapean,
-fFeB,ullap,,female ego's father's older brother,,,Rehg1979Ponapean,
-fFyB,ullap,,female ego's father's younger brother,,,Rehg1979Ponapean,
-fMeB,ullap,,female ego's mother's older brother,,,Rehg1979Ponapean,
-fMyB,ullap,,female ego's mother's younger brother,,,Rehg1979Ponapean,
-mW,"pwoud, werek",,male ego's wife,,,Rehg1979Ponapean,
-fH,"pwoud, werek",,female ego‘s husband,,,Rehg1979Ponapean,
-mWM,soulap,,male ego's wife's mother,,,Rehg1979Ponapean,
-mFBS,wahn ohl pirien,,male ego's father's brother's son,,,Rehg1979Ponapean,
-mMZS,wahn lih pirien,,male ego's mother's sister's son,,,Rehg1979Ponapean,
-fFBS,wahn ohl pirien,,female ego's father's brother's son,,,Rehg1979Ponapean,
-fMZS,wahn lih pirien,,female ego's mother's sister's son,,,Rehg1979Ponapean,
-mFeBS,wahn ohl pirien,,male ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-mFyBS,wahn ohl pirien,,male ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-mMeZS,wahn lih pirien,,male ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-mMyZS,wahn lih pirien,,male ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-mFBeS,wahn ohl pirien,,male ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-mFByS,wahn ohl pirien,,male ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-mMZeS,wahn lih pirien,,male ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-mMZyS,wahn lih pirien,,male ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-fFeBS,wahn ohl pirien,,female ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-fFyBS,wahn ohl pirien,,female ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-fMeZS,wahn lih pirien,,female ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-fMyZS,wahn lih pirien,,female ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-fFBeS,wahn ohl pirien,,female ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-fFByS,wahn ohl pirien,,female ego's father's brother's son,,,Rehg1979Ponapean,Inferred; NA
-fMZeS,wahn lih pirien,,female ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
-fMZyS,wahn lih pirien,,female ego's mother's sister's son,,,Rehg1979Ponapean,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","pirien",,"male ego's older brother",,,"Rehg1979Ponapean",""
+"myB","pirien",,"male ego's younger brother",,,"Rehg1979Ponapean",""
+"feB","pedali",,"female ego's older brother",,,"Rehg1979Ponapean",""
+"fyB","pedali",,"female ego's younger brother",,,"Rehg1979Ponapean",""
+"meZ","pedali",,"male ego's older sister",,,"Rehg1979Ponapean",""
+"myZ","pedali",,"male ego's younger sister",,,"Rehg1979Ponapean",""
+"feZ","pirien",,"female ego's older sister",,,"Rehg1979Ponapean",""
+"fyZ","pirien",,"female ego's younger sister",,,"Rehg1979Ponapean",""
+"mF","pahpa, sahm, ipa",,"male ego's father",,,"Rehg1979Ponapean",""
+"mM","ihn, nohno, ino",,"male ego's mother",,,"Rehg1979Ponapean",""
+"fF","pahpa, sahm, ipa",,"female ego's father",,,"Rehg1979Ponapean",""
+"fM","ihn, nohno, ino",,"female ego's mother",,,"Rehg1979Ponapean",""
+"mS","nahi",,"male ego's son",,,"Rehg1979Ponapean",""
+"fS","nahi",,"female ego's son",,,"Rehg1979Ponapean",""
+"mD","nahi",,"male ego's daughter",,,"Rehg1979Ponapean",""
+"fD","nahi",,"female ego's daughter",,,"Rehg1979Ponapean",""
+"mFF","pahpa, kahlap, sahm kahlap",,"male ego's father‘s father",,,"Rehg1979Ponapean",""
+"mFM","ihn kahlap, nohno hahlap",,"male ego's father's mother",,,"Rehg1979Ponapean",""
+"mMF","pahpa, kahlap, sahm kahlap",,"male ego's mother's father",,,"Rehg1979Ponapean",""
+"mMM","ihn kahlap, nohno hahlap",,"male ego's mother's mother",,,"Rehg1979Ponapean",""
+"fFF","pahpa, kahlap, sahm kahlap",,"female ego's father's father",,,"Rehg1979Ponapean",""
+"fFM","ihn kahlap, nohno hahlap",,"female ego's father's mother",,,"Rehg1979Ponapean",""
+"fMF","pahpa, kahlap, sahm kahlap",,"female ego's mother's father",,,"Rehg1979Ponapean",""
+"fMM","ihn kahlap, nohno hahlap",,"female ego's mother's mother",,,"Rehg1979Ponapean",""
+"mFeB","ullap",,"male ego's father's older brother",,,"Rehg1979Ponapean",""
+"mFyB","ullap",,"male ego's father's younger brother",,,"Rehg1979Ponapean",""
+"mMeB","ullap",,"male ego's mother's older brother",,,"Rehg1979Ponapean",""
+"mMyB","ullap",,"male ego's mother's younger brother",,,"Rehg1979Ponapean",""
+"fFeB","ullap",,"female ego's father's older brother",,,"Rehg1979Ponapean",""
+"fFyB","ullap",,"female ego's father's younger brother",,,"Rehg1979Ponapean",""
+"fMeB","ullap",,"female ego's mother's older brother",,,"Rehg1979Ponapean",""
+"fMyB","ullap",,"female ego's mother's younger brother",,,"Rehg1979Ponapean",""
+"mW","pwoud, werek",,"male ego's wife",,,"Rehg1979Ponapean",""
+"fH","pwoud, werek",,"female ego‘s husband",,,"Rehg1979Ponapean",""
+"mWM","soulap",,"male ego's wife's mother",,,"Rehg1979Ponapean",""
+"mFBS","wahn ohl pirien",,"male ego's father's brother's son",,,"Rehg1979Ponapean",""
+"mMZS","wahn lih pirien",,"male ego's mother's sister's son",,,"Rehg1979Ponapean",""
+"fFBS","wahn ohl pirien",,"female ego's father's brother's son",,,"Rehg1979Ponapean",""
+"fMZS","wahn lih pirien",,"female ego's mother's sister's son",,,"Rehg1979Ponapean",""
+"mFeBS","wahn ohl pirien",,"male ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mFyBS","wahn ohl pirien",,"male ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mMeZS","wahn lih pirien",,"male ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mMyZS","wahn lih pirien",,"male ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mFBeS","wahn ohl pirien",,"male ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mFByS","wahn ohl pirien",,"male ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mMZeS","wahn lih pirien",,"male ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"mMZyS","wahn lih pirien",,"male ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fFeBS","wahn ohl pirien",,"female ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fFyBS","wahn ohl pirien",,"female ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fMeZS","wahn lih pirien",,"female ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fMyZS","wahn lih pirien",,"female ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fFBeS","wahn ohl pirien",,"female ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fFByS","wahn ohl pirien",,"female ego's father's brother's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fMZeS","wahn lih pirien",,"female ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"
+"fMZyS","wahn lih pirien",,"female ego's mother's sister's son",,,"Rehg1979Ponapean","Inferred; NA"

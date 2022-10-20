@@ -1,149 +1,149 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tukeh,,male ego's older brother,,,Blust2003,
-myB,tadey,,male ego's younger brother,,,Blust2003,
-feB,tukeh,,female ego's older brother,,,Blust2003,
-fyB,tadey,,female ego's younger brother,,,Blust2003,
-meZ,tukeh,,male ego's older sister,,,Blust2003,
-myZ,tadey,,male ego's younger sister,,,Blust2003,
-feZ,tukeh,,female ego's older sister,,,Blust2003,
-fyZ,tadey,,female ego's younger sister,,,Blust2003,
-mF,tameh,,male ego's father,,,Blust2003,
-mM,tineh,,male ego's mother,,,Blust2003,
-fF,tameh,,female ego's father,,,Blust2003,
-fM,tineh,,female ego's mother,,,Blust2003,
-mS,anaak laay,,male ego's son,,,Blust2003,
-fS,anaak laay,,female ego's son,,,Blust2003,
-mD,anaak turay,,male ego's daughter,,,Blust2003,
-fD,anaak turay,,female ego's daughter,,,Blust2003,
-mFF,sadei' laay,,male ego's father‘s father,,,Blust2003,
-mFM,sadai' turay,,male ego's father's mother,,,Blust2003,
-mMF,sadei' laay,,male ego's mother's father,,,Blust2003,
-mMM,sadai' turay,,male ego's mother's mother,,,Blust2003,
-fFF,sadei' laay,,female ego's father's father,,,Blust2003,
-fFM,sadai' turay,,female ego's father's mother,,,Blust2003,
-fMF,sadei' laay,,female ego's mother's father,,,Blust2003,
-fMM,sadai' turay,,female ego's mother's mother,,,Blust2003,
-meBS,anaak menaan,,male ego's older brother's son,,,Blust2003,
-myBS,anaak menaan,,male ego's younger brother's son,,,Blust2003,
-meZS,anaak menaan,,male ego's older sister's son,,,Blust2003,
-myZS,anaak menaan,,male ego's younger sister's son,,,Blust2003,
-meBD,anaak menaan,,male ego's older brother's daughter,,,Blust2003,
-myBD,anaak menaan,,male ego's younger brother's daughter,,,Blust2003,
-meZD,anaak menaan,,male ego's older sister's daughter,,,Blust2003,
-myZD,anaak menaan,,male ego's younger sister's daughter,,,Blust2003,
-feBS,anaak menaan,,female ego's older brother's son,,,Blust2003,
-fyBS,anaak menaan,,female ego's younger brother's son,,,Blust2003,
-feZS,anaak menaan,,female ego's older sister's son,,,Blust2003,
-fyZS,anaak menaan,,female ego's younger sister's son,,,Blust2003,
-feBD,anaak menaan,,female ego's older brother's daughter,,,Blust2003,
-fyBD,anaak menaan,,female ego's younger brother's daughter,,,Blust2003,
-feZD,anaak menaan,,female ego's older sister's daughter,,,Blust2003,
-fyZD,anaak menaan,,female ego's younger sister's daughter,,,Blust2003,
-mFeB,kemamaan,,male ego's father's older brother,,,Blust2003,
-mFyB,kemamaan,,male ego's father's younger brother,,,Blust2003,
-mFeZ,keminaan,,male ego's father's older sister,,,Blust2003,
-mFyZ,keminaan,,male ego's father's younger sister,,,Blust2003,
-mMeB,kemamaan,,male ego's mother's older brother,,,Blust2003,
-mMyB,kemamaan,,male ego's mother's younger brother,,,Blust2003,
-mMeZ,keminaan,,male ego's mother's older sister,,,Blust2003,
-mMyZ,keminaan,,male ego's mother's younger sister,,,Blust2003,
-fFeB,kemamaan,,female ego's father's older brother,,,Blust2003,
-fFyB,kemamaan,,female ego's father's younger brother,,,Blust2003,
-fFeZ,keminaan,,female ego's father's older sister,,,Blust2003,
-fFyZ,keminaan,,female ego's father's younger sister,,,Blust2003,
-fMeB,kemamaan,,female ego's mother's older brother,,,Blust2003,
-fMyB,kemamaan,,female ego's mother's younger brother,,,Blust2003,
-fMeZ,keminaan,,female ego's mother's older sister,,,Blust2003,
-fMyZ,keminaan,,female ego's mother's younger sister,,,Blust2003,
-mW,safeh,,male ego's wife,,,Blust2003,
-fH,baneh,,female ego‘s husband,,,Blust2003,
-mDH,anaak linay,,male ego's daughter's husband,,,Blust2003,
-fDH,anaak linay,,female ego's daughter's husband,,,Blust2003,
-mSW,anaak linay,,male ego's son's wife,,,Blust2003,
-fSW,anaak linay,,female ego's son's wife,,,Blust2003,
-mWF,ibin,,male ego's wife's father,,,Blust2003,
-mWM,ibin,,male ego's wife's mother,,,Blust2003,
-mBW,balet,,male ego's brother's wife,,,Blust2003,
-fBW,balet,,female ego's brother's wife,,,Blust2003,
-mZH,sabiëy,,male ego's sister's husband,sabey,,Blust2003,"sabiëy = address, sabey = reference"
-fZH,sabiëy,,female ego's sister's husband,sabey,,Blust2003,"sabiëy = address, sabey = reference"
-mFBS,tadey petaam,,male ego's father's brother's son,,,Blust2003,
-mFZS,tadey petaam,,male ego's father's sister's son,,,Blust2003,
-mMBS,tadey petaam,,male ego's mother's brother's son,,,Blust2003,
-mMZS,tadey petaam,,male ego's mother's sister's son,,,Blust2003,
-mFBD,tadey petaam,,male ego's father's brother's daughter,,,Blust2003,
-mFZD,tadey petaam,,male ego's father's sister's daughter,,,Blust2003,
-mMBD,tadey petaam,,male ego's mother's brother's daughter,,,Blust2003,
-mMZD,tadey petaam,,male ego's mother's sister's daughter,,,Blust2003,
-fFBS,tadey petaam,,female ego's father's brother's son,,,Blust2003,
-fFZS,tadey petaam,,female ego's father's sister's son,,,Blust2003,
-fMBS,tadey petaam,,female ego's mother's brother's son,,,Blust2003,
-fMZS,tadey petaam,,female ego's mother's sister's son,,,Blust2003,
-fFBD,tadey petaam,,female ego's father's brother's daughter,,,Blust2003,
-fFZD,tadey petaam,,female ego's father's sister's daughter,,,Blust2003,
-fMBD,tadey petaam,,female ego's mother's brother's daughter,,,Blust2003,
-fMZD,tadey petaam,,female ego's mother's sister's daughter,,,Blust2003,
-mFeBS,tadey petaam,,male ego's father's brother's son,,,Blust2003,Inferred; 
-mFyBS,tadey petaam,,male ego's father's brother's son,,,Blust2003,Inferred; 
-mFeZS,tadey petaam,,male ego's father's sister's son,,,Blust2003,Inferred; 
-mFyZS,tadey petaam,,male ego's father's sister's son,,,Blust2003,Inferred; 
-mFeBD,tadey petaam,,male ego's father's brother's daughter,,,Blust2003,Inferred; 
-mFyBD,tadey petaam,,male ego's father's brother's daughter,,,Blust2003,Inferred; 
-mFeZD,tadey petaam,,male ego's father's sister's daughter,,,Blust2003,Inferred; 
-mFyZD,tadey petaam,,male ego's father's sister's daughter,,,Blust2003,Inferred; 
-mMeBS,tadey petaam,,male ego's mother's brother's son,,,Blust2003,Inferred; 
-mMyBS,tadey petaam,,male ego's mother's brother's son,,,Blust2003,Inferred; 
-mMeZS,tadey petaam,,male ego's mother's sister's son,,,Blust2003,Inferred; 
-mMyZS,tadey petaam,,male ego's mother's sister's son,,,Blust2003,Inferred; 
-mMeBD,tadey petaam,,male ego's mother's brother's daughter,,,Blust2003,Inferred; 
-mMyBD,tadey petaam,,male ego's mother's brother's daughter,,,Blust2003,Inferred; 
-mMeZD,tadey petaam,,male ego's mother's sister's daughter,,,Blust2003,Inferred; 
-mMyZD,tadey petaam,,male ego's mother's sister's daughter,,,Blust2003,Inferred; 
-mFBeS,tadey petaam,,male ego's father's brother's son,,,Blust2003,Inferred; 
-mFByS,tadey petaam,,male ego's father's brother's son,,,Blust2003,Inferred; 
-mFZeS,tadey petaam,,male ego's father's sister's son,,,Blust2003,Inferred; 
-mFZyS,tadey petaam,,male ego's father's sister's son,,,Blust2003,Inferred; 
-mFBeD,tadey petaam,,male ego's father's brother's daughter,,,Blust2003,Inferred; 
-mFByD,tadey petaam,,male ego's father's brother's daughter,,,Blust2003,Inferred; 
-mFZeD,tadey petaam,,male ego's father's sister's daughter,,,Blust2003,Inferred; 
-mFZyD,tadey petaam,,male ego's father's sister's daughter,,,Blust2003,Inferred; 
-mMBeS,tadey petaam,,male ego's mother's brother's son,,,Blust2003,Inferred; 
-mMByS,tadey petaam,,male ego's mother's brother's son,,,Blust2003,Inferred; 
-mMZeS,tadey petaam,,male ego's mother's sister's son,,,Blust2003,Inferred; 
-mMZyS,tadey petaam,,male ego's mother's sister's son,,,Blust2003,Inferred; 
-mMBeD,tadey petaam,,male ego's mother's brother's daughter,,,Blust2003,Inferred; 
-mMByD,tadey petaam,,male ego's mother's brother's daughter,,,Blust2003,Inferred; 
-mMZeD,tadey petaam,,male ego's mother's sister's daughter,,,Blust2003,Inferred; 
-mMZyD,tadey petaam,,male ego's mother's sister's daughter,,,Blust2003,Inferred; 
-fFeBS,tadey petaam,,female ego's father's brother's son,,,Blust2003,Inferred; 
-fFyBS,tadey petaam,,female ego's father's brother's son,,,Blust2003,Inferred; 
-fFeZS,tadey petaam,,female ego's father's sister's son,,,Blust2003,Inferred; 
-fFyZS,tadey petaam,,female ego's father's sister's son,,,Blust2003,Inferred; 
-fFeBD,tadey petaam,,female ego's father's brother's daughter,,,Blust2003,Inferred; 
-fFyBD,tadey petaam,,female ego's father's brother's daughter,,,Blust2003,Inferred; 
-fFeZD,tadey petaam,,female ego's father's sister's daughter,,,Blust2003,Inferred; 
-fFyZD,tadey petaam,,female ego's father's sister's daughter,,,Blust2003,Inferred; 
-fMeBS,tadey petaam,,female ego's mother's brother's son,,,Blust2003,Inferred; 
-fMyBS,tadey petaam,,female ego's mother's brother's son,,,Blust2003,Inferred; 
-fMeZS,tadey petaam,,female ego's mother's sister's son,,,Blust2003,Inferred; 
-fMyZS,tadey petaam,,female ego's mother's sister's son,,,Blust2003,Inferred; 
-fMeBD,tadey petaam,,female ego's mother's brother's daughter,,,Blust2003,Inferred; 
-fMyBD,tadey petaam,,female ego's mother's brother's daughter,,,Blust2003,Inferred; 
-fMeZD,tadey petaam,,female ego's mother's sister's daughter,,,Blust2003,Inferred; 
-fMyZD,tadey petaam,,female ego's mother's sister's daughter,,,Blust2003,Inferred; 
-fFBeS,tadey petaam,,female ego's father's brother's son,,,Blust2003,Inferred; 
-fFByS,tadey petaam,,female ego's father's brother's son,,,Blust2003,Inferred; 
-fFZeS,tadey petaam,,female ego's father's sister's son,,,Blust2003,Inferred; 
-fFZyS,tadey petaam,,female ego's father's sister's son,,,Blust2003,Inferred; 
-fFBeD,tadey petaam,,female ego's father's brother's daughter,,,Blust2003,Inferred; 
-fFByD,tadey petaam,,female ego's father's brother's daughter,,,Blust2003,Inferred; 
-fFZeD,tadey petaam,,female ego's father's sister's daughter,,,Blust2003,Inferred; 
-fFZyD,tadey petaam,,female ego's father's sister's daughter,,,Blust2003,Inferred; 
-fMBeS,tadey petaam,,female ego's mother's brother's son,,,Blust2003,Inferred; 
-fMByS,tadey petaam,,female ego's mother's brother's son,,,Blust2003,Inferred; 
-fMZeS,tadey petaam,,female ego's mother's sister's son,,,Blust2003,Inferred; 
-fMZyS,tadey petaam,,female ego's mother's sister's son,,,Blust2003,Inferred; 
-fMBeD,tadey petaam,,female ego's mother's brother's daughter,,,Blust2003,Inferred; 
-fMByD,tadey petaam,,female ego's mother's brother's daughter,,,Blust2003,Inferred; 
-fMZeD,tadey petaam,,female ego's mother's sister's daughter,,,Blust2003,Inferred; 
-fMZyD,tadey petaam,,female ego's mother's sister's daughter,,,Blust2003,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tukeh",,"male ego's older brother","",,"Blust2003",""
+"myB","tadey",,"male ego's younger brother","",,"Blust2003",""
+"feB","tukeh",,"female ego's older brother","",,"Blust2003",""
+"fyB","tadey",,"female ego's younger brother","",,"Blust2003",""
+"meZ","tukeh",,"male ego's older sister","",,"Blust2003",""
+"myZ","tadey",,"male ego's younger sister","",,"Blust2003",""
+"feZ","tukeh",,"female ego's older sister","",,"Blust2003",""
+"fyZ","tadey",,"female ego's younger sister","",,"Blust2003",""
+"mF","tameh",,"male ego's father","",,"Blust2003",""
+"mM","tineh",,"male ego's mother","",,"Blust2003",""
+"fF","tameh",,"female ego's father","",,"Blust2003",""
+"fM","tineh",,"female ego's mother","",,"Blust2003",""
+"mS","anaak laay",,"male ego's son","",,"Blust2003",""
+"fS","anaak laay",,"female ego's son","",,"Blust2003",""
+"mD","anaak turay",,"male ego's daughter","",,"Blust2003",""
+"fD","anaak turay",,"female ego's daughter","",,"Blust2003",""
+"mFF","sadei' laay",,"male ego's father‘s father","",,"Blust2003",""
+"mFM","sadai' turay",,"male ego's father's mother","",,"Blust2003",""
+"mMF","sadei' laay",,"male ego's mother's father","",,"Blust2003",""
+"mMM","sadai' turay",,"male ego's mother's mother","",,"Blust2003",""
+"fFF","sadei' laay",,"female ego's father's father","",,"Blust2003",""
+"fFM","sadai' turay",,"female ego's father's mother","",,"Blust2003",""
+"fMF","sadei' laay",,"female ego's mother's father","",,"Blust2003",""
+"fMM","sadai' turay",,"female ego's mother's mother","",,"Blust2003",""
+"meBS","anaak menaan",,"male ego's older brother's son","",,"Blust2003",""
+"myBS","anaak menaan",,"male ego's younger brother's son","",,"Blust2003",""
+"meZS","anaak menaan",,"male ego's older sister's son","",,"Blust2003",""
+"myZS","anaak menaan",,"male ego's younger sister's son","",,"Blust2003",""
+"meBD","anaak menaan",,"male ego's older brother's daughter","",,"Blust2003",""
+"myBD","anaak menaan",,"male ego's younger brother's daughter","",,"Blust2003",""
+"meZD","anaak menaan",,"male ego's older sister's daughter","",,"Blust2003",""
+"myZD","anaak menaan",,"male ego's younger sister's daughter","",,"Blust2003",""
+"feBS","anaak menaan",,"female ego's older brother's son","",,"Blust2003",""
+"fyBS","anaak menaan",,"female ego's younger brother's son","",,"Blust2003",""
+"feZS","anaak menaan",,"female ego's older sister's son","",,"Blust2003",""
+"fyZS","anaak menaan",,"female ego's younger sister's son","",,"Blust2003",""
+"feBD","anaak menaan",,"female ego's older brother's daughter","",,"Blust2003",""
+"fyBD","anaak menaan",,"female ego's younger brother's daughter","",,"Blust2003",""
+"feZD","anaak menaan",,"female ego's older sister's daughter","",,"Blust2003",""
+"fyZD","anaak menaan",,"female ego's younger sister's daughter","",,"Blust2003",""
+"mFeB","kemamaan",,"male ego's father's older brother","",,"Blust2003",""
+"mFyB","kemamaan",,"male ego's father's younger brother","",,"Blust2003",""
+"mFeZ","keminaan",,"male ego's father's older sister","",,"Blust2003",""
+"mFyZ","keminaan",,"male ego's father's younger sister","",,"Blust2003",""
+"mMeB","kemamaan",,"male ego's mother's older brother","",,"Blust2003",""
+"mMyB","kemamaan",,"male ego's mother's younger brother","",,"Blust2003",""
+"mMeZ","keminaan",,"male ego's mother's older sister","",,"Blust2003",""
+"mMyZ","keminaan",,"male ego's mother's younger sister","",,"Blust2003",""
+"fFeB","kemamaan",,"female ego's father's older brother","",,"Blust2003",""
+"fFyB","kemamaan",,"female ego's father's younger brother","",,"Blust2003",""
+"fFeZ","keminaan",,"female ego's father's older sister","",,"Blust2003",""
+"fFyZ","keminaan",,"female ego's father's younger sister","",,"Blust2003",""
+"fMeB","kemamaan",,"female ego's mother's older brother","",,"Blust2003",""
+"fMyB","kemamaan",,"female ego's mother's younger brother","",,"Blust2003",""
+"fMeZ","keminaan",,"female ego's mother's older sister","",,"Blust2003",""
+"fMyZ","keminaan",,"female ego's mother's younger sister","",,"Blust2003",""
+"mW","safeh",,"male ego's wife","",,"Blust2003",""
+"fH","baneh",,"female ego‘s husband","",,"Blust2003",""
+"mDH","anaak linay",,"male ego's daughter's husband","",,"Blust2003",""
+"fDH","anaak linay",,"female ego's daughter's husband","",,"Blust2003",""
+"mSW","anaak linay",,"male ego's son's wife","",,"Blust2003",""
+"fSW","anaak linay",,"female ego's son's wife","",,"Blust2003",""
+"mWF","ibin",,"male ego's wife's father","",,"Blust2003",""
+"mWM","ibin",,"male ego's wife's mother","",,"Blust2003",""
+"mBW","balet",,"male ego's brother's wife","",,"Blust2003",""
+"fBW","balet",,"female ego's brother's wife","",,"Blust2003",""
+"mZH","sabiëy",,"male ego's sister's husband","sabey",,"Blust2003","sabiëy = address, sabey = reference"
+"fZH","sabiëy",,"female ego's sister's husband","sabey",,"Blust2003","sabiëy = address, sabey = reference"
+"mFBS","tadey petaam",,"male ego's father's brother's son","",,"Blust2003",""
+"mFZS","tadey petaam",,"male ego's father's sister's son","",,"Blust2003",""
+"mMBS","tadey petaam",,"male ego's mother's brother's son","",,"Blust2003",""
+"mMZS","tadey petaam",,"male ego's mother's sister's son","",,"Blust2003",""
+"mFBD","tadey petaam",,"male ego's father's brother's daughter","",,"Blust2003",""
+"mFZD","tadey petaam",,"male ego's father's sister's daughter","",,"Blust2003",""
+"mMBD","tadey petaam",,"male ego's mother's brother's daughter","",,"Blust2003",""
+"mMZD","tadey petaam",,"male ego's mother's sister's daughter","",,"Blust2003",""
+"fFBS","tadey petaam",,"female ego's father's brother's son","",,"Blust2003",""
+"fFZS","tadey petaam",,"female ego's father's sister's son","",,"Blust2003",""
+"fMBS","tadey petaam",,"female ego's mother's brother's son","",,"Blust2003",""
+"fMZS","tadey petaam",,"female ego's mother's sister's son","",,"Blust2003",""
+"fFBD","tadey petaam",,"female ego's father's brother's daughter","",,"Blust2003",""
+"fFZD","tadey petaam",,"female ego's father's sister's daughter","",,"Blust2003",""
+"fMBD","tadey petaam",,"female ego's mother's brother's daughter","",,"Blust2003",""
+"fMZD","tadey petaam",,"female ego's mother's sister's daughter","",,"Blust2003",""
+"mFeBS","tadey petaam",,"male ego's father's brother's son","",,"Blust2003","Inferred; "
+"mFyBS","tadey petaam",,"male ego's father's brother's son","",,"Blust2003","Inferred; "
+"mFeZS","tadey petaam",,"male ego's father's sister's son","",,"Blust2003","Inferred; "
+"mFyZS","tadey petaam",,"male ego's father's sister's son","",,"Blust2003","Inferred; "
+"mFeBD","tadey petaam",,"male ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"mFyBD","tadey petaam",,"male ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"mFeZD","tadey petaam",,"male ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"mFyZD","tadey petaam",,"male ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"mMeBS","tadey petaam",,"male ego's mother's brother's son","",,"Blust2003","Inferred; "
+"mMyBS","tadey petaam",,"male ego's mother's brother's son","",,"Blust2003","Inferred; "
+"mMeZS","tadey petaam",,"male ego's mother's sister's son","",,"Blust2003","Inferred; "
+"mMyZS","tadey petaam",,"male ego's mother's sister's son","",,"Blust2003","Inferred; "
+"mMeBD","tadey petaam",,"male ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"mMyBD","tadey petaam",,"male ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"mMeZD","tadey petaam",,"male ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"mMyZD","tadey petaam",,"male ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"mFBeS","tadey petaam",,"male ego's father's brother's son","",,"Blust2003","Inferred; "
+"mFByS","tadey petaam",,"male ego's father's brother's son","",,"Blust2003","Inferred; "
+"mFZeS","tadey petaam",,"male ego's father's sister's son","",,"Blust2003","Inferred; "
+"mFZyS","tadey petaam",,"male ego's father's sister's son","",,"Blust2003","Inferred; "
+"mFBeD","tadey petaam",,"male ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"mFByD","tadey petaam",,"male ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"mFZeD","tadey petaam",,"male ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"mFZyD","tadey petaam",,"male ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"mMBeS","tadey petaam",,"male ego's mother's brother's son","",,"Blust2003","Inferred; "
+"mMByS","tadey petaam",,"male ego's mother's brother's son","",,"Blust2003","Inferred; "
+"mMZeS","tadey petaam",,"male ego's mother's sister's son","",,"Blust2003","Inferred; "
+"mMZyS","tadey petaam",,"male ego's mother's sister's son","",,"Blust2003","Inferred; "
+"mMBeD","tadey petaam",,"male ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"mMByD","tadey petaam",,"male ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"mMZeD","tadey petaam",,"male ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"mMZyD","tadey petaam",,"male ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"fFeBS","tadey petaam",,"female ego's father's brother's son","",,"Blust2003","Inferred; "
+"fFyBS","tadey petaam",,"female ego's father's brother's son","",,"Blust2003","Inferred; "
+"fFeZS","tadey petaam",,"female ego's father's sister's son","",,"Blust2003","Inferred; "
+"fFyZS","tadey petaam",,"female ego's father's sister's son","",,"Blust2003","Inferred; "
+"fFeBD","tadey petaam",,"female ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"fFyBD","tadey petaam",,"female ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"fFeZD","tadey petaam",,"female ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"fFyZD","tadey petaam",,"female ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"fMeBS","tadey petaam",,"female ego's mother's brother's son","",,"Blust2003","Inferred; "
+"fMyBS","tadey petaam",,"female ego's mother's brother's son","",,"Blust2003","Inferred; "
+"fMeZS","tadey petaam",,"female ego's mother's sister's son","",,"Blust2003","Inferred; "
+"fMyZS","tadey petaam",,"female ego's mother's sister's son","",,"Blust2003","Inferred; "
+"fMeBD","tadey petaam",,"female ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"fMyBD","tadey petaam",,"female ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"fMeZD","tadey petaam",,"female ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"fMyZD","tadey petaam",,"female ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"fFBeS","tadey petaam",,"female ego's father's brother's son","",,"Blust2003","Inferred; "
+"fFByS","tadey petaam",,"female ego's father's brother's son","",,"Blust2003","Inferred; "
+"fFZeS","tadey petaam",,"female ego's father's sister's son","",,"Blust2003","Inferred; "
+"fFZyS","tadey petaam",,"female ego's father's sister's son","",,"Blust2003","Inferred; "
+"fFBeD","tadey petaam",,"female ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"fFByD","tadey petaam",,"female ego's father's brother's daughter","",,"Blust2003","Inferred; "
+"fFZeD","tadey petaam",,"female ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"fFZyD","tadey petaam",,"female ego's father's sister's daughter","",,"Blust2003","Inferred; "
+"fMBeS","tadey petaam",,"female ego's mother's brother's son","",,"Blust2003","Inferred; "
+"fMByS","tadey petaam",,"female ego's mother's brother's son","",,"Blust2003","Inferred; "
+"fMZeS","tadey petaam",,"female ego's mother's sister's son","",,"Blust2003","Inferred; "
+"fMZyS","tadey petaam",,"female ego's mother's sister's son","",,"Blust2003","Inferred; "
+"fMBeD","tadey petaam",,"female ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"fMByD","tadey petaam",,"female ego's mother's brother's daughter","",,"Blust2003","Inferred; "
+"fMZeD","tadey petaam",,"female ego's mother's sister's daughter","",,"Blust2003","Inferred; "
+"fMZyD","tadey petaam",,"female ego's mother's sister's daughter","",,"Blust2003","Inferred; "

@@ -1,134 +1,134 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tay,,male ego's older brother,,,guiart2013a,
-myB,tay,,male ego's younger brother,,,guiart2013a,
-feB,tay,,female ego's older brother,,,guiart2013a,
-fyB,tay,,female ego's younger brother,,,guiart2013a,
-meZ,ngoreng,,male ego's older sister,,,guiart2013a,
-myZ,ngoreng,,male ego's younger sister,,,guiart2013a,
-feZ,ngoreng,,female ego's older sister,,,guiart2013a,
-fyZ,ngoreng,,female ego's younger sister,,,guiart2013a,
-mF,mama,,male ego's father,,,guiart2013a,
-mM,tètè,,male ego's mother,,,guiart2013a,
-fF,mama,,female ego's father,,,guiart2013a,
-fM,tètè,,female ego's mother,,,guiart2013a,
-mS,natung nanoe,,male ego's son,,,guiart2013a,
-fS,natung nanoe,,female ego's son,,,guiart2013a,
-mD,natung nangòròn,,male ego's daughter,,,guiart2013a,
-fD,natung nangòròn,,female ego's daughter,,,guiart2013a,
-mSS,sulingu,,male ego's son's son,,,guiart2013a,
-mSD,sulingu,,male ego's son's daughter,,,guiart2013a,
-mDS,sulingu,,male ego's daughter's son,,,guiart2013a,
-mDD,sulingu,,male ego's daughter's daughter,,,guiart2013a,
-fSS,sulingu,,female ego's son's son,,,guiart2013a,
-fSD,sulingu,,female ego's son's daughter,,,guiart2013a,
-fDS,sulingu,,female ego's daughter's son,,,guiart2013a,
-fDD,sulingu,,female ego's daugher's daughter,,,guiart2013a,
-mFF,"mama, pua",,male ego's father‘s father,,,guiart2013a,
-mFM,tiya,,male ego's father's mother,,,guiart2013a,
-mMF,pua,,male ego's mother's father,,,guiart2013a,
-mMM,tiya,,male ego's mother's mother,,,guiart2013a,
-fFF,"mama, pua",,female ego's father's father,,,guiart2013a,
-fFM,tiya,,female ego's father's mother,,,guiart2013a,
-fMF,pua,,female ego's mother's father,,,guiart2013a,
-fMM,tiya,,female ego's mother's mother,,,guiart2013a,
-meBS,natung nanoe,,male ego's older brother's son,,,guiart2013a,
-myBS,natung nanoe,,male ego's younger brother's son,,,guiart2013a,
-meZS,"pua, pwelemetang",,male ego's older sister's son,,,guiart2013a,
-myZS,"pua, pwelemetang",,male ego's younger sister's son,,,guiart2013a,
-meBD,natung nangòròn,,male ego's older brother's daughter,,,guiart2013a,
-myBD,natung nangòròn,,male ego's younger brother's daughter,,,guiart2013a,
-meZD,pwelemetang,,male ego's older sister's daughter,,,guiart2013a,
-myZD,pwelemetang,,male ego's younger sister's daughter,,,guiart2013a,
-feBS,natung nanoe,,female ego's older brother's son,,,guiart2013a,
-fyBS,natung nanoe,,female ego's younger brother's son,,,guiart2013a,
-feZS,"pua, pwelemetang",,female ego's older sister's son,,,guiart2013a,
-fyZS,"pua, pwelemetang",,female ego's younger sister's son,,,guiart2013a,
-feBD,natung nangòròn,,female ego's older brother's daughter,,,guiart2013a,
-fyBD,natung nangòròn,,female ego's younger brother's daughter,,,guiart2013a,
-feZD,pwelemetang,,female ego's older sister's daughter,,,guiart2013a,
-fyZD,pwelemetang,,female ego's younger sister's daughter,,,guiart2013a,
-mFeB,mama,,male ego's father's older brother,,,guiart2013a,
-mFyB,mama,,male ego's father's younger brother,,,guiart2013a,
-mFeZ,mimi,,male ego's father's older sister,,,guiart2013a,
-mFyZ,mimi,,male ego's father's younger sister,,,guiart2013a,
-mMeB,"lò, lòa",,male ego's mother's older brother,,,guiart2013a,
-mMyB,"lò, lòa",,male ego's mother's younger brother,,,guiart2013a,
-mMeZ,tètè,,male ego's mother's older sister,,,guiart2013a,
-mMyZ,tètè,,male ego's mother's younger sister,,,guiart2013a,
-fFeB,mama,,female ego's father's older brother,,,guiart2013a,
-fFyB,mama,,female ego's father's younger brother,,,guiart2013a,
-fFeZ,mimi,,female ego's father's older sister,,,guiart2013a,
-fFyZ,mimi,,female ego's father's younger sister,,,guiart2013a,
-fMeB,"lò, lòa",,female ego's mother's older brother,,,guiart2013a,
-fMyB,"lò, lòa",,female ego's mother's younger brother,,,guiart2013a,
-fMeZ,tètè,,female ego's mother's older sister,,,guiart2013a,
-fMyZ,tètè,,female ego's mother's younger sister,,,guiart2013a,
-mW,nangoron ninginou,,male ego's wife,,,guiart2013a,
-mDH,napurumwa,,male ego's daughter's husband,,,guiart2013a,
-fDH,napurumwa,,female ego's daughter's husband,,,guiart2013a,
-mWF,napurumwa,,male ego's wife's father,,,guiart2013a,
-mWM,napurumwa,,male ego's wife's mother,,,guiart2013a,
-mWB,tawian nanoe,,male ego's wife's brother,,,guiart2013a,
-mWZ,tawian nangòròn,,male ego's wife's sister,,,guiart2013a,
-mZH,tawian nanoe,,male ego's sister's husband,,,guiart2013a,
-fZH,tawian nanoe,,female ego's sister's husband,,,guiart2013a,
-mFZS,natung nanoe,,male ego's father's sister's son,,,guiart2013a,
-mMBS,natung nanoe,,male ego's mother's brother's son,,,guiart2013a,
-mMZS,tay,,male ego's mother's sister's son,,,guiart2013a,
-mFZD,natung nangòròn,,male ego's father's sister's daughter,,,guiart2013a,
-mMBD,natung nangòròn,,male ego's mother's brother's daughter,,,guiart2013a,
-mMZD,ngoreng,,male ego's mother's sister's daughter,,,guiart2013a,
-fFZS,natung nanoe,,female ego's father's sister's son,,,guiart2013a,
-fMBS,natung nanoe,,female ego's mother's brother's son,,,guiart2013a,
-fMZS,tay,,female ego's mother's sister's son,,,guiart2013a,
-fFZD,natung nangòròn,,female ego's father's sister's daughter,,,guiart2013a,
-fMBD,natung nangòròn,,female ego's mother's brother's daughter,,,guiart2013a,
-fMZD,ngoreng,,female ego's mother's sister's daughter,,,guiart2013a,
-mFeZS,natung nanoe,,male ego's father's sister's son,,,guiart2013a,Inferred; NA
-mFyZS,natung nanoe,,male ego's father's sister's son,,,guiart2013a,Inferred; NA
-mFeZD,natung nangòròn,,male ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-mFyZD,natung nangòròn,,male ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-mMeBS,natung nanoe,,male ego's mother's brother's son,,,guiart2013a,Inferred; NA
-mMyBS,natung nanoe,,male ego's mother's brother's son,,,guiart2013a,Inferred; NA
-mMeZS,tay,,male ego's mother's sister's son,,,guiart2013a,Inferred; NA
-mMyZS,tay,,male ego's mother's sister's son,,,guiart2013a,Inferred; NA
-mMeBD,natung nangòròn,,male ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-mMyBD,natung nangòròn,,male ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-mMeZD,ngoreng,,male ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-mMyZD,ngoreng,,male ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-mFZeS,natung nanoe,,male ego's father's sister's son,,,guiart2013a,Inferred; NA
-mFZyS,natung nanoe,,male ego's father's sister's son,,,guiart2013a,Inferred; NA
-mFZeD,natung nangòròn,,male ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-mFZyD,natung nangòròn,,male ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-mMBeS,natung nanoe,,male ego's mother's brother's son,,,guiart2013a,Inferred; NA
-mMByS,natung nanoe,,male ego's mother's brother's son,,,guiart2013a,Inferred; NA
-mMZeS,tay,,male ego's mother's sister's son,,,guiart2013a,Inferred; NA
-mMZyS,tay,,male ego's mother's sister's son,,,guiart2013a,Inferred; NA
-mMBeD,natung nangòròn,,male ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-mMByD,natung nangòròn,,male ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-mMZeD,ngoreng,,male ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-mMZyD,ngoreng,,male ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-fFeZS,natung nanoe,,female ego's father's sister's son,,,guiart2013a,Inferred; NA
-fFyZS,natung nanoe,,female ego's father's sister's son,,,guiart2013a,Inferred; NA
-fFeZD,natung nangòròn,,female ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-fFyZD,natung nangòròn,,female ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-fMeBS,natung nanoe,,female ego's mother's brother's son,,,guiart2013a,Inferred; NA
-fMyBS,natung nanoe,,female ego's mother's brother's son,,,guiart2013a,Inferred; NA
-fMeZS,tay,,female ego's mother's sister's son,,,guiart2013a,Inferred; NA
-fMyZS,tay,,female ego's mother's sister's son,,,guiart2013a,Inferred; NA
-fMeBD,natung nangòròn,,female ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-fMyBD,natung nangòròn,,female ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-fMeZD,ngoreng,,female ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-fMyZD,ngoreng,,female ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-fFZeS,natung nanoe,,female ego's father's sister's son,,,guiart2013a,Inferred; NA
-fFZyS,natung nanoe,,female ego's father's sister's son,,,guiart2013a,Inferred; NA
-fFZeD,natung nangòròn,,female ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-fFZyD,natung nangòròn,,female ego's father's sister's daughter,,,guiart2013a,Inferred; NA
-fMBeS,natung nanoe,,female ego's mother's brother's son,,,guiart2013a,Inferred; NA
-fMByS,natung nanoe,,female ego's mother's brother's son,,,guiart2013a,Inferred; NA
-fMZeS,tay,,female ego's mother's sister's son,,,guiart2013a,Inferred; NA
-fMZyS,tay,,female ego's mother's sister's son,,,guiart2013a,Inferred; NA
-fMBeD,natung nangòròn,,female ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-fMByD,natung nangòròn,,female ego's mother's brother's daughter,,,guiart2013a,Inferred; NA
-fMZeD,ngoreng,,female ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
-fMZyD,ngoreng,,female ego's mother's sister's daughter,,,guiart2013a,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tay",,"male ego's older brother",,,"guiart2013a",""
+"myB","tay",,"male ego's younger brother",,,"guiart2013a",""
+"feB","tay",,"female ego's older brother",,,"guiart2013a",""
+"fyB","tay",,"female ego's younger brother",,,"guiart2013a",""
+"meZ","ngoreng",,"male ego's older sister",,,"guiart2013a",""
+"myZ","ngoreng",,"male ego's younger sister",,,"guiart2013a",""
+"feZ","ngoreng",,"female ego's older sister",,,"guiart2013a",""
+"fyZ","ngoreng",,"female ego's younger sister",,,"guiart2013a",""
+"mF","mama",,"male ego's father",,,"guiart2013a",""
+"mM","tètè",,"male ego's mother",,,"guiart2013a",""
+"fF","mama",,"female ego's father",,,"guiart2013a",""
+"fM","tètè",,"female ego's mother",,,"guiart2013a",""
+"mS","natung nanoe",,"male ego's son",,,"guiart2013a",""
+"fS","natung nanoe",,"female ego's son",,,"guiart2013a",""
+"mD","natung nangòròn",,"male ego's daughter",,,"guiart2013a",""
+"fD","natung nangòròn",,"female ego's daughter",,,"guiart2013a",""
+"mSS","sulingu",,"male ego's son's son",,,"guiart2013a",""
+"mSD","sulingu",,"male ego's son's daughter",,,"guiart2013a",""
+"mDS","sulingu",,"male ego's daughter's son",,,"guiart2013a",""
+"mDD","sulingu",,"male ego's daughter's daughter",,,"guiart2013a",""
+"fSS","sulingu",,"female ego's son's son",,,"guiart2013a",""
+"fSD","sulingu",,"female ego's son's daughter",,,"guiart2013a",""
+"fDS","sulingu",,"female ego's daughter's son",,,"guiart2013a",""
+"fDD","sulingu",,"female ego's daugher's daughter",,,"guiart2013a",""
+"mFF","mama, pua",,"male ego's father‘s father",,,"guiart2013a",""
+"mFM","tiya",,"male ego's father's mother",,,"guiart2013a",""
+"mMF","pua",,"male ego's mother's father",,,"guiart2013a",""
+"mMM","tiya",,"male ego's mother's mother",,,"guiart2013a",""
+"fFF","mama, pua",,"female ego's father's father",,,"guiart2013a",""
+"fFM","tiya",,"female ego's father's mother",,,"guiart2013a",""
+"fMF","pua",,"female ego's mother's father",,,"guiart2013a",""
+"fMM","tiya",,"female ego's mother's mother",,,"guiart2013a",""
+"meBS","natung nanoe",,"male ego's older brother's son",,,"guiart2013a",""
+"myBS","natung nanoe",,"male ego's younger brother's son",,,"guiart2013a",""
+"meZS","pua, pwelemetang",,"male ego's older sister's son",,,"guiart2013a",""
+"myZS","pua, pwelemetang",,"male ego's younger sister's son",,,"guiart2013a",""
+"meBD","natung nangòròn",,"male ego's older brother's daughter",,,"guiart2013a",""
+"myBD","natung nangòròn",,"male ego's younger brother's daughter",,,"guiart2013a",""
+"meZD","pwelemetang",,"male ego's older sister's daughter",,,"guiart2013a",""
+"myZD","pwelemetang",,"male ego's younger sister's daughter",,,"guiart2013a",""
+"feBS","natung nanoe",,"female ego's older brother's son",,,"guiart2013a",""
+"fyBS","natung nanoe",,"female ego's younger brother's son",,,"guiart2013a",""
+"feZS","pua, pwelemetang",,"female ego's older sister's son",,,"guiart2013a",""
+"fyZS","pua, pwelemetang",,"female ego's younger sister's son",,,"guiart2013a",""
+"feBD","natung nangòròn",,"female ego's older brother's daughter",,,"guiart2013a",""
+"fyBD","natung nangòròn",,"female ego's younger brother's daughter",,,"guiart2013a",""
+"feZD","pwelemetang",,"female ego's older sister's daughter",,,"guiart2013a",""
+"fyZD","pwelemetang",,"female ego's younger sister's daughter",,,"guiart2013a",""
+"mFeB","mama",,"male ego's father's older brother",,,"guiart2013a",""
+"mFyB","mama",,"male ego's father's younger brother",,,"guiart2013a",""
+"mFeZ","mimi",,"male ego's father's older sister",,,"guiart2013a",""
+"mFyZ","mimi",,"male ego's father's younger sister",,,"guiart2013a",""
+"mMeB","lò, lòa",,"male ego's mother's older brother",,,"guiart2013a",""
+"mMyB","lò, lòa",,"male ego's mother's younger brother",,,"guiart2013a",""
+"mMeZ","tètè",,"male ego's mother's older sister",,,"guiart2013a",""
+"mMyZ","tètè",,"male ego's mother's younger sister",,,"guiart2013a",""
+"fFeB","mama",,"female ego's father's older brother",,,"guiart2013a",""
+"fFyB","mama",,"female ego's father's younger brother",,,"guiart2013a",""
+"fFeZ","mimi",,"female ego's father's older sister",,,"guiart2013a",""
+"fFyZ","mimi",,"female ego's father's younger sister",,,"guiart2013a",""
+"fMeB","lò, lòa",,"female ego's mother's older brother",,,"guiart2013a",""
+"fMyB","lò, lòa",,"female ego's mother's younger brother",,,"guiart2013a",""
+"fMeZ","tètè",,"female ego's mother's older sister",,,"guiart2013a",""
+"fMyZ","tètè",,"female ego's mother's younger sister",,,"guiart2013a",""
+"mW","nangoron ninginou",,"male ego's wife",,,"guiart2013a",""
+"mDH","napurumwa",,"male ego's daughter's husband",,,"guiart2013a",""
+"fDH","napurumwa",,"female ego's daughter's husband",,,"guiart2013a",""
+"mWF","napurumwa",,"male ego's wife's father",,,"guiart2013a",""
+"mWM","napurumwa",,"male ego's wife's mother",,,"guiart2013a",""
+"mWB","tawian nanoe",,"male ego's wife's brother",,,"guiart2013a",""
+"mWZ","tawian nangòròn",,"male ego's wife's sister",,,"guiart2013a",""
+"mZH","tawian nanoe",,"male ego's sister's husband",,,"guiart2013a",""
+"fZH","tawian nanoe",,"female ego's sister's husband",,,"guiart2013a",""
+"mFZS","natung nanoe",,"male ego's father's sister's son",,,"guiart2013a",""
+"mMBS","natung nanoe",,"male ego's mother's brother's son",,,"guiart2013a",""
+"mMZS","tay",,"male ego's mother's sister's son",,,"guiart2013a",""
+"mFZD","natung nangòròn",,"male ego's father's sister's daughter",,,"guiart2013a",""
+"mMBD","natung nangòròn",,"male ego's mother's brother's daughter",,,"guiart2013a",""
+"mMZD","ngoreng",,"male ego's mother's sister's daughter",,,"guiart2013a",""
+"fFZS","natung nanoe",,"female ego's father's sister's son",,,"guiart2013a",""
+"fMBS","natung nanoe",,"female ego's mother's brother's son",,,"guiart2013a",""
+"fMZS","tay",,"female ego's mother's sister's son",,,"guiart2013a",""
+"fFZD","natung nangòròn",,"female ego's father's sister's daughter",,,"guiart2013a",""
+"fMBD","natung nangòròn",,"female ego's mother's brother's daughter",,,"guiart2013a",""
+"fMZD","ngoreng",,"female ego's mother's sister's daughter",,,"guiart2013a",""
+"mFeZS","natung nanoe",,"male ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"mFyZS","natung nanoe",,"male ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"mFeZD","natung nangòròn",,"male ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mFyZD","natung nangòròn",,"male ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mMeBS","natung nanoe",,"male ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"mMyBS","natung nanoe",,"male ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"mMeZS","tay",,"male ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"mMyZS","tay",,"male ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"mMeBD","natung nangòròn",,"male ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"mMyBD","natung nangòròn",,"male ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"mMeZD","ngoreng",,"male ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mMyZD","ngoreng",,"male ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mFZeS","natung nanoe",,"male ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"mFZyS","natung nanoe",,"male ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"mFZeD","natung nangòròn",,"male ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mFZyD","natung nangòròn",,"male ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mMBeS","natung nanoe",,"male ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"mMByS","natung nanoe",,"male ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"mMZeS","tay",,"male ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"mMZyS","tay",,"male ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"mMBeD","natung nangòròn",,"male ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"mMByD","natung nangòròn",,"male ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"mMZeD","ngoreng",,"male ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"mMZyD","ngoreng",,"male ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fFeZS","natung nanoe",,"female ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"fFyZS","natung nanoe",,"female ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"fFeZD","natung nangòròn",,"female ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fFyZD","natung nangòròn",,"female ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fMeBS","natung nanoe",,"female ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"fMyBS","natung nanoe",,"female ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"fMeZS","tay",,"female ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"fMyZS","tay",,"female ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"fMeBD","natung nangòròn",,"female ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"fMyBD","natung nangòròn",,"female ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"fMeZD","ngoreng",,"female ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fMyZD","ngoreng",,"female ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fFZeS","natung nanoe",,"female ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"fFZyS","natung nanoe",,"female ego's father's sister's son",,,"guiart2013a","Inferred; NA"
+"fFZeD","natung nangòròn",,"female ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fFZyD","natung nangòròn",,"female ego's father's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fMBeS","natung nanoe",,"female ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"fMByS","natung nanoe",,"female ego's mother's brother's son",,,"guiart2013a","Inferred; NA"
+"fMZeS","tay",,"female ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"fMZyS","tay",,"female ego's mother's sister's son",,,"guiart2013a","Inferred; NA"
+"fMBeD","natung nangòròn",,"female ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"fMByD","natung nangòròn",,"female ego's mother's brother's daughter",,,"guiart2013a","Inferred; NA"
+"fMZeD","ngoreng",,"female ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"
+"fMZyD","ngoreng",,"female ego's mother's sister's daughter",,,"guiart2013a","Inferred; NA"

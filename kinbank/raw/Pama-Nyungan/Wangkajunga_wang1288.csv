@@ -1,145 +1,145 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"kurta, papartu",,male ego's older brother,,,Jones2011,
-myB,"malaju, malungu",,male ego's younger brother,,,Jones2011,
-feB,"kurta, papartu",,female ego's older brother,,,Jones2011,
-fyB,"malaju, malungu",,female ego's younger brother,,,Jones2011,
-meZ,jurtu,,male ego's older sister,,,Jones2011,
-myZ,"malaju, malangu",,male ego's younger sister,,,Jones2011,
-feZ,jurtu,,female ego's older sister,,,Jones2011,
-fyZ,"malaju, malangu",,female ego's younger sister,,,Jones2011,
-mF,mama,,male ego's father,,,Jones2011,
-mM,"tilpu, yipi",,male ego's mother,,,Jones2011,
-fF,mama,,female ego's father,,,Jones2011,
-fM,"tilpu, yipi",,female ego's mother,,,Jones2011,
-mS,kaja,,male ego's son,,,Jones2011,
-fS,kaja,,female ego's son,,,Jones2011,
-mD,kaja,,male ego's daughter,,,Jones2011,
-fD,kaja,,female ego's daughter,,,Jones2011,
-mSS,jamu,,male ego's son's son,,,Jones2011,
-mSD,yapayi,,male ego's son's daughter,,,Jones2011,
-mDS,jamu,,male ego's daughter's son,,,Jones2011,
-mDD,yapayi,,male ego's daughter's daughter,,,Jones2011,
-fSS,jamu,,female ego's son's son,,,Jones2011,
-fSD,yapayi,,female ego's son's daughter,,,Jones2011,
-fDS,jamu,,female ego's daughter's son,,,Jones2011,
-fDD,yapayi,,female ego's daugher's daughter,,,Jones2011,
-mFF,jamu,,male ego's father‘s father,,,Jones2011,
-mFM,"yaparli, yapayi",,male ego's father's mother,,,Jones2011,
-mMF,jamu,,male ego's mother's father,,,Jones2011,
-mMM,"yaparli, yapayi",,male ego's mother's mother,,,Jones2011,
-fFF,jamu,,female ego's father's father,,,Jones2011,
-fFM,"yaparli, yapayi",,female ego's father's mother,,,Jones2011,
-fMF,jamu,,female ego's mother's father,,,Jones2011,
-fMM,"yaparli, yapayi",,female ego's mother's mother,,,Jones2011,
-meBD,yurntal(pa),,male ego's older brother's daughter,,,Jones2011,
-myBD,yurntal(pa),,male ego's younger brother's daughter,,,Jones2011,
-meZD,yurntal(pa),,male ego's older sister's daughter,,,Jones2011,
-myZD,yurntal(pa),,male ego's younger sister's daughter,,,Jones2011,
-feBD,yurntal(pa),,female ego's older brother's daughter,,,Jones2011,
-fyBD,yurntal(pa),,female ego's younger brother's daughter,,,Jones2011,
-feZD,yurntal(pa),,female ego's older sister's daughter,,,Jones2011,
-fyZD,yurntal(pa),,female ego's younger sister's daughter,,,Jones2011,
-mFeB,"kaka, kamura",,male ego's father's older brother,,,Jones2011,
-mFyB,"kaka, kamura",,male ego's father's younger brother,,,Jones2011,
-mFeZ,pimiri,,male ego's father's older sister,,,Jones2011,
-mFyZ,pimiri,,male ego's father's younger sister,,,Jones2011,
-mMeB,"kaka, kamura",,male ego's mother's older brother,,,Jones2011,
-mMyB,"kaka, kamura",,male ego's mother's younger brother,,,Jones2011,
-mMeZ,"tilpu, yipi",,male ego's mother's older sister,,,Jones2011,
-mMyZ,"tilpu, yipi",,male ego's mother's younger sister,,,Jones2011,
-fFeB,"kaka, kamura",,female ego's father's older brother,,,Jones2011,
-fFyB,"kaka, kamura",,female ego's father's younger brother,,,Jones2011,
-fFeZ,pimiri,,female ego's father's older sister,,,Jones2011,
-fFyZ,pimiri,,female ego's father's younger sister,,,Jones2011,
-fMeB,"kaka, kamura",,female ego's mother's older brother,,,Jones2011,
-fMyB,"kaka, kamura",,female ego's mother's younger brother,,,Jones2011,
-fMeZ,"tilpu, yipi",,female ego's mother's older sister,,,Jones2011,
-fMyZ,"tilpu, yipi",,female ego's mother's younger sister,,,Jones2011,
-fH,nyupa,,female ego‘s husband,,,Jones2011,
-mDH,yumari,,male ego's daughter's husband,,,Jones2011,
-fDH,yumari,,female ego's daughter's husband,,,Jones2011,
-fSW,ngunyarri,,female ego's son's wife,,,Jones2011,
-mWM,yumari,,male ego's wife's mother,,,Jones2011,
-mWZ,juwari,,male ego's wife's sister,,,Jones2011,
-fHM,yumari,,female ego's husband's mother,,,Jones2011,
-fHZ,juwari,,female ego's husband's sister,,,Jones2011,
-mFBS,jamirti,,male ego's father's brother's son,,,Jones2011,
-mFZS,jamirti,,male ego's father's sister's son,,,Jones2011,
-mMBS,jamirti,,male ego's mother's brother's son,,,Jones2011,
-mMZS,jamirti,,male ego's mother's sister's son,,,Jones2011,
-mFBD,jamirti,,male ego's father's brother's daughter,,,Jones2011,
-mFZD,jamirti,,male ego's father's sister's daughter,,,Jones2011,
-mMBD,jamirti,,male ego's mother's brother's daughter,,,Jones2011,
-mMZD,jamirti,,male ego's mother's sister's daughter,,,Jones2011,
-fFBS,jamirti,,female ego's father's brother's son,,,Jones2011,
-fFZS,jamirti,,female ego's father's sister's son,,,Jones2011,
-fMBS,jamirti,,female ego's mother's brother's son,,,Jones2011,
-fMZS,jamirti,,female ego's mother's sister's son,,,Jones2011,
-fFBD,jamirti,,female ego's father's brother's daughter,,,Jones2011,
-fFZD,jamirti,,female ego's father's sister's daughter,,,Jones2011,
-fMBD,jamirti,,female ego's mother's brother's daughter,,,Jones2011,
-fMZD,jamirti,,female ego's mother's sister's daughter,,,Jones2011,
-mFeBS,jamirti,,male ego's father's brother's son,,,Jones2011,Inferred; NA
-mFyBS,jamirti,,male ego's father's brother's son,,,Jones2011,Inferred; NA
-mFeZS,jamirti,,male ego's father's sister's son,,,Jones2011,Inferred; NA
-mFyZS,jamirti,,male ego's father's sister's son,,,Jones2011,Inferred; NA
-mFeBD,jamirti,,male ego's father's brother's daughter,,,Jones2011,Inferred; NA
-mFyBD,jamirti,,male ego's father's brother's daughter,,,Jones2011,Inferred; NA
-mFeZD,jamirti,,male ego's father's sister's daughter,,,Jones2011,Inferred; NA
-mFyZD,jamirti,,male ego's father's sister's daughter,,,Jones2011,Inferred; NA
-mMeBS,jamirti,,male ego's mother's brother's son,,,Jones2011,Inferred; NA
-mMyBS,jamirti,,male ego's mother's brother's son,,,Jones2011,Inferred; NA
-mMeZS,jamirti,,male ego's mother's sister's son,,,Jones2011,Inferred; NA
-mMyZS,jamirti,,male ego's mother's sister's son,,,Jones2011,Inferred; NA
-mMeBD,jamirti,,male ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-mMyBD,jamirti,,male ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-mMeZD,jamirti,,male ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-mMyZD,jamirti,,male ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-mFBeS,jamirti,,male ego's father's brother's son,,,Jones2011,Inferred; NA
-mFByS,jamirti,,male ego's father's brother's son,,,Jones2011,Inferred; NA
-mFZeS,jamirti,,male ego's father's sister's son,,,Jones2011,Inferred; NA
-mFZyS,jamirti,,male ego's father's sister's son,,,Jones2011,Inferred; NA
-mFBeD,jamirti,,male ego's father's brother's daughter,,,Jones2011,Inferred; NA
-mFByD,jamirti,,male ego's father's brother's daughter,,,Jones2011,Inferred; NA
-mFZeD,jamirti,,male ego's father's sister's daughter,,,Jones2011,Inferred; NA
-mFZyD,jamirti,,male ego's father's sister's daughter,,,Jones2011,Inferred; NA
-mMBeS,jamirti,,male ego's mother's brother's son,,,Jones2011,Inferred; NA
-mMByS,jamirti,,male ego's mother's brother's son,,,Jones2011,Inferred; NA
-mMZeS,jamirti,,male ego's mother's sister's son,,,Jones2011,Inferred; NA
-mMZyS,jamirti,,male ego's mother's sister's son,,,Jones2011,Inferred; NA
-mMBeD,jamirti,,male ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-mMByD,jamirti,,male ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-mMZeD,jamirti,,male ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-mMZyD,jamirti,,male ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-fFeBS,jamirti,,female ego's father's brother's son,,,Jones2011,Inferred; NA
-fFyBS,jamirti,,female ego's father's brother's son,,,Jones2011,Inferred; NA
-fFeZS,jamirti,,female ego's father's sister's son,,,Jones2011,Inferred; NA
-fFyZS,jamirti,,female ego's father's sister's son,,,Jones2011,Inferred; NA
-fFeBD,jamirti,,female ego's father's brother's daughter,,,Jones2011,Inferred; NA
-fFyBD,jamirti,,female ego's father's brother's daughter,,,Jones2011,Inferred; NA
-fFeZD,jamirti,,female ego's father's sister's daughter,,,Jones2011,Inferred; NA
-fFyZD,jamirti,,female ego's father's sister's daughter,,,Jones2011,Inferred; NA
-fMeBS,jamirti,,female ego's mother's brother's son,,,Jones2011,Inferred; NA
-fMyBS,jamirti,,female ego's mother's brother's son,,,Jones2011,Inferred; NA
-fMeZS,jamirti,,female ego's mother's sister's son,,,Jones2011,Inferred; NA
-fMyZS,jamirti,,female ego's mother's sister's son,,,Jones2011,Inferred; NA
-fMeBD,jamirti,,female ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-fMyBD,jamirti,,female ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-fMeZD,jamirti,,female ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-fMyZD,jamirti,,female ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-fFBeS,jamirti,,female ego's father's brother's son,,,Jones2011,Inferred; NA
-fFByS,jamirti,,female ego's father's brother's son,,,Jones2011,Inferred; NA
-fFZeS,jamirti,,female ego's father's sister's son,,,Jones2011,Inferred; NA
-fFZyS,jamirti,,female ego's father's sister's son,,,Jones2011,Inferred; NA
-fFBeD,jamirti,,female ego's father's brother's daughter,,,Jones2011,Inferred; NA
-fFByD,jamirti,,female ego's father's brother's daughter,,,Jones2011,Inferred; NA
-fFZeD,jamirti,,female ego's father's sister's daughter,,,Jones2011,Inferred; NA
-fFZyD,jamirti,,female ego's father's sister's daughter,,,Jones2011,Inferred; NA
-fMBeS,jamirti,,female ego's mother's brother's son,,,Jones2011,Inferred; NA
-fMByS,jamirti,,female ego's mother's brother's son,,,Jones2011,Inferred; NA
-fMZeS,jamirti,,female ego's mother's sister's son,,,Jones2011,Inferred; NA
-fMZyS,jamirti,,female ego's mother's sister's son,,,Jones2011,Inferred; NA
-fMBeD,jamirti,,female ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-fMByD,jamirti,,female ego's mother's brother's daughter,,,Jones2011,Inferred; NA
-fMZeD,jamirti,,female ego's mother's sister's daughter,,,Jones2011,Inferred; NA
-fMZyD,jamirti,,female ego's mother's sister's daughter,,,Jones2011,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","kurta, papartu",,"male ego's older brother",,,"Jones2011",""
+"myB","malaju, malungu",,"male ego's younger brother",,,"Jones2011",""
+"feB","kurta, papartu",,"female ego's older brother",,,"Jones2011",""
+"fyB","malaju, malungu",,"female ego's younger brother",,,"Jones2011",""
+"meZ","jurtu",,"male ego's older sister",,,"Jones2011",""
+"myZ","malaju, malangu",,"male ego's younger sister",,,"Jones2011",""
+"feZ","jurtu",,"female ego's older sister",,,"Jones2011",""
+"fyZ","malaju, malangu",,"female ego's younger sister",,,"Jones2011",""
+"mF","mama",,"male ego's father",,,"Jones2011",""
+"mM","tilpu, yipi",,"male ego's mother",,,"Jones2011",""
+"fF","mama",,"female ego's father",,,"Jones2011",""
+"fM","tilpu, yipi",,"female ego's mother",,,"Jones2011",""
+"mS","kaja",,"male ego's son",,,"Jones2011",""
+"fS","kaja",,"female ego's son",,,"Jones2011",""
+"mD","kaja",,"male ego's daughter",,,"Jones2011",""
+"fD","kaja",,"female ego's daughter",,,"Jones2011",""
+"mSS","jamu",,"male ego's son's son",,,"Jones2011",""
+"mSD","yapayi",,"male ego's son's daughter",,,"Jones2011",""
+"mDS","jamu",,"male ego's daughter's son",,,"Jones2011",""
+"mDD","yapayi",,"male ego's daughter's daughter",,,"Jones2011",""
+"fSS","jamu",,"female ego's son's son",,,"Jones2011",""
+"fSD","yapayi",,"female ego's son's daughter",,,"Jones2011",""
+"fDS","jamu",,"female ego's daughter's son",,,"Jones2011",""
+"fDD","yapayi",,"female ego's daugher's daughter",,,"Jones2011",""
+"mFF","jamu",,"male ego's father‘s father",,,"Jones2011",""
+"mFM","yaparli, yapayi",,"male ego's father's mother",,,"Jones2011",""
+"mMF","jamu",,"male ego's mother's father",,,"Jones2011",""
+"mMM","yaparli, yapayi",,"male ego's mother's mother",,,"Jones2011",""
+"fFF","jamu",,"female ego's father's father",,,"Jones2011",""
+"fFM","yaparli, yapayi",,"female ego's father's mother",,,"Jones2011",""
+"fMF","jamu",,"female ego's mother's father",,,"Jones2011",""
+"fMM","yaparli, yapayi",,"female ego's mother's mother",,,"Jones2011",""
+"meBD","yurntal(pa)",,"male ego's older brother's daughter",,,"Jones2011",""
+"myBD","yurntal(pa)",,"male ego's younger brother's daughter",,,"Jones2011",""
+"meZD","yurntal(pa)",,"male ego's older sister's daughter",,,"Jones2011",""
+"myZD","yurntal(pa)",,"male ego's younger sister's daughter",,,"Jones2011",""
+"feBD","yurntal(pa)",,"female ego's older brother's daughter",,,"Jones2011",""
+"fyBD","yurntal(pa)",,"female ego's younger brother's daughter",,,"Jones2011",""
+"feZD","yurntal(pa)",,"female ego's older sister's daughter",,,"Jones2011",""
+"fyZD","yurntal(pa)",,"female ego's younger sister's daughter",,,"Jones2011",""
+"mFeB","kaka, kamura",,"male ego's father's older brother",,,"Jones2011",""
+"mFyB","kaka, kamura",,"male ego's father's younger brother",,,"Jones2011",""
+"mFeZ","pimiri",,"male ego's father's older sister",,,"Jones2011",""
+"mFyZ","pimiri",,"male ego's father's younger sister",,,"Jones2011",""
+"mMeB","kaka, kamura",,"male ego's mother's older brother",,,"Jones2011",""
+"mMyB","kaka, kamura",,"male ego's mother's younger brother",,,"Jones2011",""
+"mMeZ","tilpu, yipi",,"male ego's mother's older sister",,,"Jones2011",""
+"mMyZ","tilpu, yipi",,"male ego's mother's younger sister",,,"Jones2011",""
+"fFeB","kaka, kamura",,"female ego's father's older brother",,,"Jones2011",""
+"fFyB","kaka, kamura",,"female ego's father's younger brother",,,"Jones2011",""
+"fFeZ","pimiri",,"female ego's father's older sister",,,"Jones2011",""
+"fFyZ","pimiri",,"female ego's father's younger sister",,,"Jones2011",""
+"fMeB","kaka, kamura",,"female ego's mother's older brother",,,"Jones2011",""
+"fMyB","kaka, kamura",,"female ego's mother's younger brother",,,"Jones2011",""
+"fMeZ","tilpu, yipi",,"female ego's mother's older sister",,,"Jones2011",""
+"fMyZ","tilpu, yipi",,"female ego's mother's younger sister",,,"Jones2011",""
+"fH","nyupa",,"female ego‘s husband",,,"Jones2011",""
+"mDH","yumari",,"male ego's daughter's husband",,,"Jones2011",""
+"fDH","yumari",,"female ego's daughter's husband",,,"Jones2011",""
+"fSW","ngunyarri",,"female ego's son's wife",,,"Jones2011",""
+"mWM","yumari",,"male ego's wife's mother",,,"Jones2011",""
+"mWZ","juwari",,"male ego's wife's sister",,,"Jones2011",""
+"fHM","yumari",,"female ego's husband's mother",,,"Jones2011",""
+"fHZ","juwari",,"female ego's husband's sister",,,"Jones2011",""
+"mFBS","jamirti",,"male ego's father's brother's son",,,"Jones2011",""
+"mFZS","jamirti",,"male ego's father's sister's son",,,"Jones2011",""
+"mMBS","jamirti",,"male ego's mother's brother's son",,,"Jones2011",""
+"mMZS","jamirti",,"male ego's mother's sister's son",,,"Jones2011",""
+"mFBD","jamirti",,"male ego's father's brother's daughter",,,"Jones2011",""
+"mFZD","jamirti",,"male ego's father's sister's daughter",,,"Jones2011",""
+"mMBD","jamirti",,"male ego's mother's brother's daughter",,,"Jones2011",""
+"mMZD","jamirti",,"male ego's mother's sister's daughter",,,"Jones2011",""
+"fFBS","jamirti",,"female ego's father's brother's son",,,"Jones2011",""
+"fFZS","jamirti",,"female ego's father's sister's son",,,"Jones2011",""
+"fMBS","jamirti",,"female ego's mother's brother's son",,,"Jones2011",""
+"fMZS","jamirti",,"female ego's mother's sister's son",,,"Jones2011",""
+"fFBD","jamirti",,"female ego's father's brother's daughter",,,"Jones2011",""
+"fFZD","jamirti",,"female ego's father's sister's daughter",,,"Jones2011",""
+"fMBD","jamirti",,"female ego's mother's brother's daughter",,,"Jones2011",""
+"fMZD","jamirti",,"female ego's mother's sister's daughter",,,"Jones2011",""
+"mFeBS","jamirti",,"male ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"mFyBS","jamirti",,"male ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"mFeZS","jamirti",,"male ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"mFyZS","jamirti",,"male ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"mFeBD","jamirti",,"male ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"mFyBD","jamirti",,"male ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"mFeZD","jamirti",,"male ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"mFyZD","jamirti",,"male ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"mMeBS","jamirti",,"male ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"mMyBS","jamirti",,"male ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"mMeZS","jamirti",,"male ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"mMyZS","jamirti",,"male ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"mMeBD","jamirti",,"male ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"mMyBD","jamirti",,"male ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"mMeZD","jamirti",,"male ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"mMyZD","jamirti",,"male ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"mFBeS","jamirti",,"male ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"mFByS","jamirti",,"male ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"mFZeS","jamirti",,"male ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"mFZyS","jamirti",,"male ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"mFBeD","jamirti",,"male ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"mFByD","jamirti",,"male ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"mFZeD","jamirti",,"male ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"mFZyD","jamirti",,"male ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"mMBeS","jamirti",,"male ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"mMByS","jamirti",,"male ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"mMZeS","jamirti",,"male ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"mMZyS","jamirti",,"male ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"mMBeD","jamirti",,"male ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"mMByD","jamirti",,"male ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"mMZeD","jamirti",,"male ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"mMZyD","jamirti",,"male ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"fFeBS","jamirti",,"female ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"fFyBS","jamirti",,"female ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"fFeZS","jamirti",,"female ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"fFyZS","jamirti",,"female ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"fFeBD","jamirti",,"female ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"fFyBD","jamirti",,"female ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"fFeZD","jamirti",,"female ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"fFyZD","jamirti",,"female ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"fMeBS","jamirti",,"female ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"fMyBS","jamirti",,"female ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"fMeZS","jamirti",,"female ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"fMyZS","jamirti",,"female ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"fMeBD","jamirti",,"female ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"fMyBD","jamirti",,"female ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"fMeZD","jamirti",,"female ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"fMyZD","jamirti",,"female ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"fFBeS","jamirti",,"female ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"fFByS","jamirti",,"female ego's father's brother's son",,,"Jones2011","Inferred; NA"
+"fFZeS","jamirti",,"female ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"fFZyS","jamirti",,"female ego's father's sister's son",,,"Jones2011","Inferred; NA"
+"fFBeD","jamirti",,"female ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"fFByD","jamirti",,"female ego's father's brother's daughter",,,"Jones2011","Inferred; NA"
+"fFZeD","jamirti",,"female ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"fFZyD","jamirti",,"female ego's father's sister's daughter",,,"Jones2011","Inferred; NA"
+"fMBeS","jamirti",,"female ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"fMByS","jamirti",,"female ego's mother's brother's son",,,"Jones2011","Inferred; NA"
+"fMZeS","jamirti",,"female ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"fMZyS","jamirti",,"female ego's mother's sister's son",,,"Jones2011","Inferred; NA"
+"fMBeD","jamirti",,"female ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"fMByD","jamirti",,"female ego's mother's brother's daughter",,,"Jones2011","Inferred; NA"
+"fMZeD","jamirti",,"female ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"
+"fMZyD","jamirti",,"female ego's mother's sister's daughter",,,"Jones2011","Inferred; NA"

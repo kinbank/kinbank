@@ -1,65 +1,65 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tua-,,male ego's older brother,,,Nese2006,
-myB,tas-,,male ego's younger brother,,,Nese2006,
-feB,tua-,,female ego's older brother,,,Nese2006,
-fyB,tua-,,female ego's younger brother,,,Nese2006,
-meZ,jokhos-,,male ego's older sister,,,Nese2006,
-myZ,jokhos-,,male ego's younger sister,,,Nese2006,
-feZ,tua-,,female ego's older sister,,,Nese2006,
-fyZ,tas-,,female ego's younger sister,,,Nese2006,
-mF,"nerra-, tana-, tete",,male ego's father,,,Nese2006,
-mM,b'ev'e,,male ego's mother,,,Nese2006,
-fF,"nerra-, tana-, tete",,female ego's father,,,Nese2006,
-fM,b'ev'e,,female ego's mother,,,Nese2006,
-mS,natuk,,male ego's son,,,Nese2006,
-fS,natuk,,female ego's son,,,Nese2006,
-mD,natuk,,male ego's daughter,,,Nese2006,
-fD,natuk,,female ego's daughter,,,Nese2006,
-mSS,nukhuduk,,male ego's son's son,,,Nese2006,
-mSD,nukhuduk,,male ego's son's daughter,,,Nese2006,
-mDS,nukhuduk,,male ego's daughter's son,,,Nese2006,
-mDD,nukhuduk,,male ego's daughter's daughter,,,Nese2006,
-fSS,nukhuduk,,female ego's son's son,,,Nese2006,
-fSD,nukhuduk,,female ego's son's daughter,,,Nese2006,
-fDS,nukhuduk,,female ego's daughter's son,,,Nese2006,
-fDD,nukhuduk,,female ego's daugher's daughter,,,Nese2006,
-mFF,bubu nasub,,male ego's father‘s father,,,Nese2006,
-mFM,bubu lekhtarr,,male ego's father's mother,,,Nese2006,
-mMF,bubu nasub,,male ego's mother's father,,,Nese2006,
-mMM,bubu lekhtarr,,male ego's mother's mother,,,Nese2006,
-fFF,bubu nasub,,female ego's father's father,,,Nese2006,
-fFM,bubu lekhtarr,,female ego's father's mother,,,Nese2006,
-fMF,bubu nasub,,female ego's mother's father,,,Nese2006,
-fMM,bubu lekhtarr,,female ego's mother's mother,,,Nese2006,
-meBD,vave vakharru,,male ego's older brother's daughter,,,Nese2006,
-myBD,vave vakharru,,male ego's younger brother's daughter,,,Nese2006,
-meZD,vave vakharru,,male ego's older sister's daughter,,,Nese2006,
-myZD,vave vakharru,,male ego's younger sister's daughter,,,Nese2006,
-feBD,vave vakharru,,female ego's older brother's daughter,,,Nese2006,
-fyBD,vave vakharru,,female ego's younger brother's daughter,,,Nese2006,
-feZD,vave vakharru,,female ego's older sister's daughter,,,Nese2006,
-fyZD,vave vakharru,,female ego's younger sister's daughter,,,Nese2006,
-mFeZ,vave,,male ego's father's older sister,,,Nese2006,
-mFyZ,vave,,male ego's father's younger sister,,,Nese2006,
-mMeB,jokho-,,male ego's mother's older brother,,,Nese2006,
-mMyB,jokho-,,male ego's mother's younger brother,,,Nese2006,
-fFeZ,vave,,female ego's father's older sister,,,Nese2006,
-fFyZ,vave,,female ego's father's younger sister,,,Nese2006,
-fMeB,jokho-,,female ego's mother's older brother,,,Nese2006,
-fMyB,jokho-,,female ego's mother's younger brother,,,Nese2006,
-mW,"lekhtarr, nauk",,male ego's wife,,,Nese2006,
-fH,tenen natuk,,female ego‘s husband,,,Nese2006,
-mWB,"tauk, takh-",,male ego's wife's brother,,,Nese2006,
-fHB,"tauk, takh-",,female ego's husband's brother,,,Nese2006,
-mZH,"tauk, takh-",,male ego's sister's husband,,,Nese2006,
-fZH,"tauk, takh-",,female ego's sister's husband,,,Nese2006,
-mFZD,vave vakharru,,male ego's father's sister's daughter,,,Nese2006,
-fFZD,vave vakharru,,female ego's father's sister's daughter,,,Nese2006,
-mFeZD,vave vakharru,,male ego's father's sister's daughter,,,Nese2006,Inferred; NA
-mFyZD,vave vakharru,,male ego's father's sister's daughter,,,Nese2006,Inferred; NA
-mFZeD,vave vakharru,,male ego's father's sister's daughter,,,Nese2006,Inferred; NA
-mFZyD,vave vakharru,,male ego's father's sister's daughter,,,Nese2006,Inferred; NA
-fFeZD,vave vakharru,,female ego's father's sister's daughter,,,Nese2006,Inferred; NA
-fFyZD,vave vakharru,,female ego's father's sister's daughter,,,Nese2006,Inferred; NA
-fFZeD,vave vakharru,,female ego's father's sister's daughter,,,Nese2006,Inferred; NA
-fFZyD,vave vakharru,,female ego's father's sister's daughter,,,Nese2006,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tua-",,"male ego's older brother",,,"Nese2006",""
+"myB","tas-",,"male ego's younger brother",,,"Nese2006",""
+"feB","tua-",,"female ego's older brother",,,"Nese2006",""
+"fyB","tua-",,"female ego's younger brother",,,"Nese2006",""
+"meZ","jokhos-",,"male ego's older sister",,,"Nese2006",""
+"myZ","jokhos-",,"male ego's younger sister",,,"Nese2006",""
+"feZ","tua-",,"female ego's older sister",,,"Nese2006",""
+"fyZ","tas-",,"female ego's younger sister",,,"Nese2006",""
+"mF","nerra-, tana-, tete",,"male ego's father",,,"Nese2006",""
+"mM","b'ev'e",,"male ego's mother",,,"Nese2006",""
+"fF","nerra-, tana-, tete",,"female ego's father",,,"Nese2006",""
+"fM","b'ev'e",,"female ego's mother",,,"Nese2006",""
+"mS","natuk",,"male ego's son",,,"Nese2006",""
+"fS","natuk",,"female ego's son",,,"Nese2006",""
+"mD","natuk",,"male ego's daughter",,,"Nese2006",""
+"fD","natuk",,"female ego's daughter",,,"Nese2006",""
+"mSS","nukhuduk",,"male ego's son's son",,,"Nese2006",""
+"mSD","nukhuduk",,"male ego's son's daughter",,,"Nese2006",""
+"mDS","nukhuduk",,"male ego's daughter's son",,,"Nese2006",""
+"mDD","nukhuduk",,"male ego's daughter's daughter",,,"Nese2006",""
+"fSS","nukhuduk",,"female ego's son's son",,,"Nese2006",""
+"fSD","nukhuduk",,"female ego's son's daughter",,,"Nese2006",""
+"fDS","nukhuduk",,"female ego's daughter's son",,,"Nese2006",""
+"fDD","nukhuduk",,"female ego's daugher's daughter",,,"Nese2006",""
+"mFF","bubu nasub",,"male ego's father‘s father",,,"Nese2006",""
+"mFM","bubu lekhtarr",,"male ego's father's mother",,,"Nese2006",""
+"mMF","bubu nasub",,"male ego's mother's father",,,"Nese2006",""
+"mMM","bubu lekhtarr",,"male ego's mother's mother",,,"Nese2006",""
+"fFF","bubu nasub",,"female ego's father's father",,,"Nese2006",""
+"fFM","bubu lekhtarr",,"female ego's father's mother",,,"Nese2006",""
+"fMF","bubu nasub",,"female ego's mother's father",,,"Nese2006",""
+"fMM","bubu lekhtarr",,"female ego's mother's mother",,,"Nese2006",""
+"meBD","vave vakharru",,"male ego's older brother's daughter",,,"Nese2006",""
+"myBD","vave vakharru",,"male ego's younger brother's daughter",,,"Nese2006",""
+"meZD","vave vakharru",,"male ego's older sister's daughter",,,"Nese2006",""
+"myZD","vave vakharru",,"male ego's younger sister's daughter",,,"Nese2006",""
+"feBD","vave vakharru",,"female ego's older brother's daughter",,,"Nese2006",""
+"fyBD","vave vakharru",,"female ego's younger brother's daughter",,,"Nese2006",""
+"feZD","vave vakharru",,"female ego's older sister's daughter",,,"Nese2006",""
+"fyZD","vave vakharru",,"female ego's younger sister's daughter",,,"Nese2006",""
+"mFeZ","vave",,"male ego's father's older sister",,,"Nese2006",""
+"mFyZ","vave",,"male ego's father's younger sister",,,"Nese2006",""
+"mMeB","jokho-",,"male ego's mother's older brother",,,"Nese2006",""
+"mMyB","jokho-",,"male ego's mother's younger brother",,,"Nese2006",""
+"fFeZ","vave",,"female ego's father's older sister",,,"Nese2006",""
+"fFyZ","vave",,"female ego's father's younger sister",,,"Nese2006",""
+"fMeB","jokho-",,"female ego's mother's older brother",,,"Nese2006",""
+"fMyB","jokho-",,"female ego's mother's younger brother",,,"Nese2006",""
+"mW","lekhtarr, nauk",,"male ego's wife",,,"Nese2006",""
+"fH","tenen natuk",,"female ego‘s husband",,,"Nese2006",""
+"mWB","tauk, takh-",,"male ego's wife's brother",,,"Nese2006",""
+"fHB","tauk, takh-",,"female ego's husband's brother",,,"Nese2006",""
+"mZH","tauk, takh-",,"male ego's sister's husband",,,"Nese2006",""
+"fZH","tauk, takh-",,"female ego's sister's husband",,,"Nese2006",""
+"mFZD","vave vakharru",,"male ego's father's sister's daughter",,,"Nese2006",""
+"fFZD","vave vakharru",,"female ego's father's sister's daughter",,,"Nese2006",""
+"mFeZD","vave vakharru",,"male ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"mFyZD","vave vakharru",,"male ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"mFZeD","vave vakharru",,"male ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"mFZyD","vave vakharru",,"male ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"fFeZD","vave vakharru",,"female ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"fFyZD","vave vakharru",,"female ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"fFZeD","vave vakharru",,"female ego's father's sister's daughter",,,"Nese2006","Inferred; NA"
+"fFZyD","vave vakharru",,"female ego's father's sister's daughter",,,"Nese2006","Inferred; NA"

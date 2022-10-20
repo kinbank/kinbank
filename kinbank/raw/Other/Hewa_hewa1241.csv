@@ -1,0 +1,163 @@
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","yaowa",,"male ego's older brother",,,"bloodSemen",
+"myB","yaowa",,"male ego's younger brother",,,"bloodSemen",
+"feB","nomota",,"female ego's older brother",,,"bloodSemen",
+"fyB","nomota",,"female ego's younger brother",,,"bloodSemen",
+"meZ","nomota",,"male ego's older sister",,,"bloodSemen",
+"myZ","nomota",,"male ego's younger sister",,,"bloodSemen",
+"feZ","yaowa",,"female ego's older sister",,,"bloodSemen",
+"fyZ","yaowa",,"female ego's younger sister",,,"bloodSemen",
+"mF","aita",,"male ego's father",,,"bloodSemen",
+"mM","ma",,"male ego's mother",,,"bloodSemen",
+"fF","aita",,"female ego's father",,,"bloodSemen",
+"fM","ma",,"female ego's mother",,,"bloodSemen",
+"mS","yen",,"male ego's son",,,"bloodSemen",
+"fS","yen",,"female ego's son",,,"bloodSemen",
+"mD","inai",,"male ego's daughter",,,"bloodSemen",
+"fD","inai",,"female ego's daughter",,,"bloodSemen",
+"mSS","auwum",,"male ego's son's son",,,"bloodSemen",
+"mSD","auwum",,"male ego's son's daughter",,,"bloodSemen",
+"mDS","auwum",,"male ego's daughter's son",,,"bloodSemen",
+"mDD","auwum",,"male ego's daughter's daughter",,,"bloodSemen",
+"fSS","papum",,"female ego's son's son ",,,"bloodSemen",
+"fSD","papum",,"female ego's son's daughter ",,,"bloodSemen",
+"fDS","papum",,"female ego's daughter's son ",,,"bloodSemen",
+"fDD","papum",,"female ego's daugher's daughter ",,,"bloodSemen",
+"mFF","au",,"male ego's father‘s father",,,"bloodSemen",
+"mFM","papa",,"male ego's father's mother",,,"bloodSemen",
+"mMF","au",,"male ego's mother's father",,,"bloodSemen",
+"mMM","papa",,"male ego's mother's mother",,,"bloodSemen",
+"fFF","au",,"female ego's father's father ",,,"bloodSemen",
+"fFM","papa",,"female ego's father's mother ",,,"bloodSemen",
+"fMF","au",,"female ego's mother's father ",,,"bloodSemen",
+"fMM","papa",,"female ego's mother's mother ",,,"bloodSemen",
+"meBS","yen",,"male ego's older brother's son ",,,"bloodSemen",
+"myBS","yen",,"male ego's younger brother's son ",,,"bloodSemen",
+"meZS","yenem",,"male ego's older sister's son ",,,"bloodSemen",
+"myZS","yenem",,"male ego's younger sister's son ",,,"bloodSemen",
+"meBD","inai",,"male ego's older brother's daughter ",,,"bloodSemen",
+"myBD","inai",,"male ego's younger brother's daughter ",,,"bloodSemen",
+"meZD","inaiem",,"male ego's older sister's daughter ",,,"bloodSemen",
+"myZD","inaiem",,"male ego's younger sister's daughter ",,,"bloodSemen",
+"feBS","yen",,"female ego's older brother's son ",,,"bloodSemen",
+"fyBS","yen",,"female ego's younger brother's son ",,,"bloodSemen",
+"feZS","yen",,"female ego's older sister's son ",,,"bloodSemen",
+"fyZS","yen",,"female ego's younger sister's son ",,,"bloodSemen",
+"feBD","inai",,"female ego's older brother's daughter ",,,"bloodSemen",
+"fyBD","inai",,"female ego's younger brother's daughter ",,,"bloodSemen",
+"feZD","inai",,"female ego's older sister's daughter ",,,"bloodSemen",
+"fyZD","inai",,"female ego's younger sister's daughter ",,,"bloodSemen",
+"mFeB","aita",,"male ego's father's older brother ",,,"bloodSemen",
+"mFyB","aita",,"male ego's father's younger brother ",,,"bloodSemen",
+"mFeZ","aitsiali",,"male ego's father's older sister ",,,"bloodSemen",
+"mFyZ","aitsiali",,"male ego's father's younger sister ",,,"bloodSemen",
+"mMeB","apa",,"male ego's mother's older brother ",,,"bloodSemen",
+"mMyB","apa",,"male ego's mother's younger brother ",,,"bloodSemen",
+"mMeZ","ma",,"male ego's mother's older sister ",,,"bloodSemen",
+"mMyZ","ma",,"male ego's mother's younger sister ",,,"bloodSemen",
+"fFeB","aita",,"female ego's father's older brother ",,,"bloodSemen",
+"fFyB","aita",,"female ego's father's younger brother ",,,"bloodSemen",
+"fFeZ","aitsiali",,"female ego's father's older sister ",,,"bloodSemen",
+"fFyZ","aitsiali",,"female ego's father's younger sister ",,,"bloodSemen",
+"fMeB","apa",,"female ego's mother's older brother ",,,"bloodSemen",
+"fMyB","apa",,"female ego's mother's younger brother ",,,"bloodSemen",
+"fMeZ","ma",,"female ego's mother's older sister ",,,"bloodSemen",
+"fMyZ","ma",,"female ego's mother's younger sister ",,,"bloodSemen",
+"mW","lua",,"male ego's wife",,,"bloodSemen",
+"fH","lu",,"female ego‘s husband",,,"bloodSemen",
+"mDH","inai-lu",,"male ego's daughter's husband",,,"bloodSemen",
+"fDH","inai-lu",,"female ego's daughter's husband",,,"bloodSemen",
+"mSW","yen-lua",,"male ego's son's wife",,,"bloodSemen",
+"fSW","yen-lua",,"female ego's son's wife",,,"bloodSemen",
+"mWF","",,"male ego's wife's father",,,"bloodSemen",
+"mWM","",,"male ego's wife's mother",,,"bloodSemen",
+"mWB","",,"male ego's wife's brother",,,"bloodSemen",
+"mWZ","",,"male ego's wife's sister",,,"bloodSemen",
+"fHF","",,"female ego's husband's father",,,"bloodSemen",
+"fHM","",,"female ego's husband's mother",,,"bloodSemen",
+"fHB","",,"female ego's husband's brother",,,"bloodSemen",
+"fHZ","",,"female ego's husband's sister",,,"bloodSemen",
+"mBW","naiem",,"male ego's brother's wife",,,"bloodSemen",
+"fBW","naiem",,"female ego's brother's wife",,,"bloodSemen",
+"mZH","naiem",,"male ego's sister's husband",,,"bloodSemen",
+"fZH","naiem",,"female ego's sister's husband",,,"bloodSemen",
+"mFBS","yaowa",,"male ego's father's brother's son ",,,"bloodSemen",
+"mFZS","aum",,"male ego's father's sister's son ",,,"bloodSemen",
+"mMBS","aum",,"male ego's mother's brother's son ",,,"bloodSemen",
+"mMZS","yaowa",,"male ego's mother's sister's son ",,,"bloodSemen",
+"mFBD","nomota",,"male ego's father's brother's daughter ",,,"bloodSemen",
+"mFZD","aum",,"male ego's father's sister's daughter ",,,"bloodSemen",
+"mMBD","aum",,"male ego's mother's brother's daughter ",,,"bloodSemen",
+"mMZD","nomota",,"male ego's mother's sister's daughter ",,,"bloodSemen",
+"fFBS","nomota",,"female ego's father's brother's son ",,,"bloodSemen",
+"fFZS","aum",,"female ego's father's sister's son ",,,"bloodSemen",
+"fMBS","aum",,"female ego's mother's brother's son ",,,"bloodSemen",
+"fMZS","nomota",,"female ego's mother's sister's son ",,,"bloodSemen",
+"fFBD","yaowa",,"female ego's father's brother's daughter ",,,"bloodSemen",
+"fFZD","aum",,"female ego's father's sister's daughter ",,,"bloodSemen",
+"fMBD","aum",,"female ego's mother's brother's daughter ",,,"bloodSemen",
+"fMZD","yaowa",,"female ego's mother's sister's daughter ",,,"bloodSemen",
+"mFeBS","yaowa",,"male ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"mFyBS","yaowa",,"male ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"mFeZS","aum",,"male ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"mFyZS","aum",,"male ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"mFeBD","nomota",,"male ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mFyBD","nomota",,"male ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mFeZD","aum",,"male ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mFyZD","aum",,"male ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mMeBS","aum",,"male ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"mMyBS","aum",,"male ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"mMeZS","yaowa",,"male ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"mMyZS","yaowa",,"male ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"mMeBD","aum",,"male ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mMyBD","aum",,"male ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mMeZD","nomota",,"male ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mMyZD","nomota",,"male ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mFBeS","yaowa",,"male ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"mFByS","yaowa",,"male ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"mFZeS","aum",,"male ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"mFZyS","aum",,"male ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"mFBeD","nomota",,"male ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mFByD","nomota",,"male ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mFZeD","aum",,"male ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mFZyD","aum",,"male ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mMBeS","aum",,"male ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"mMByS","aum",,"male ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"mMZeS","yaowa",,"male ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"mMZyS","yaowa",,"male ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"mMBeD","aum",,"male ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mMByD","aum",,"male ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"mMZeD","nomota",,"male ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"mMZyD","nomota",,"male ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fFeBS","nomota",,"female ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"fFyBS","nomota",,"female ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"fFeZS","aum",,"female ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"fFyZS","aum",,"female ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"fFeBD","yaowa",,"female ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fFyBD","yaowa",,"female ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fFeZD","aum",,"female ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fFyZD","aum",,"female ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fMeBS","aum",,"female ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"fMyBS","aum",,"female ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"fMeZS","nomota",,"female ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"fMyZS","nomota",,"female ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"fMeBD","aum",,"female ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fMyBD","aum",,"female ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fMeZD","yaowa",,"female ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fMyZD","yaowa",,"female ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fFBeS","nomota",,"female ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"fFByS","nomota",,"female ego's father's brother's son ",,,"bloodSemen","Inferred; NA"
+"fFZeS","aum",,"female ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"fFZyS","aum",,"female ego's father's sister's son ",,,"bloodSemen","Inferred; NA"
+"fFBeD","yaowa",,"female ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fFByD","yaowa",,"female ego's father's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fFZeD","aum",,"female ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fFZyD","aum",,"female ego's father's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fMBeS","aum",,"female ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"fMByS","aum",,"female ego's mother's brother's son ",,,"bloodSemen","Inferred; NA"
+"fMZeS","nomota",,"female ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"fMZyS","nomota",,"female ego's mother's sister's son ",,,"bloodSemen","Inferred; NA"
+"fMBeD","aum",,"female ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fMByD","aum",,"female ego's mother's brother's daughter ",,,"bloodSemen","Inferred; NA"
+"fMZeD","yaowa",,"female ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"
+"fMZyD","yaowa",,"female ego's mother's sister's daughter ",,,"bloodSemen","Inferred; NA"

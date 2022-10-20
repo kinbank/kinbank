@@ -675,7 +675,7 @@ p_ibaloinabaloiibal1244,Ibaloi_(Nabaloi)_ibal1244,ibal1244,ibl,Ibaloi,Austronesi
 p_ibanagiban1267,Ibanag_iban1267,iban1267,ibg,Ibanag,Austronesian,17.4201,121.891,parabank,Ibanag iban1267.txt,20170620.0,,,Parabank
 p_ibaniban1264,Iban_iban1264,iban1264,iba,Iban,Austronesian,2.09041,112.934,parabank,Iban iban1264.txt,20170620.0,,,Parabank
 p_idaanidaa1241,Ida'an_idaa1241,idaa1241,dbj,Ida'an,Austronesian,5.29059,118.515,parabank,Ida'an idaa1241.txt,20170620.0,,,Parabank
-p_idiidii1243,Idi_idii1243,idii1243,idi,Idi-Taeme,,-8.75976,142.301,parabank,Idi idii1243.txt,,,,Parabank
+p_idinucl1597,Idi_nucl1597,nucl1597,idi,Idi,,-8.75976,142.301,parabank,Idi nucl1597.txt,,,,Parabank
 p_ifugawifugaoifug1247,Ifugaw_(Ifugao)_ifug1247,ifug1247,,Ifugaw,Austronesian,,,parabank,Ifugaw (Ifugao) ifug1247.txt,20170406.0,,,Parabank
 p_iliuuniliu1237,Ili'uun_iliu1237,iliu1237,ilu,Ili'uun,Austronesian,-7.84385,125.902,parabank,Ili'uun iliu1237.txt,20170616.0,,,Parabank
 p_ilokanoilok1237,Ilokano_ilok1237,ilok1237,ilo,Iloko,Austronesian,15.9361,120.993,parabank,Ilokano ilok1237.txt,20170620.0,,,Parabank
@@ -1123,6 +1123,127 @@ p_zabanakiazaba1237,Zabana_(Kia)_zaba1237,zaba1237,kji,Zabana,Austronesian,-7.74
 p_lebanesearabicstan1323,Lebanese_Arabic_stan1323,stan1323,,Standard Lebanese Arabic,Afro-Asiatic,34.17,36.05,parabank,Lebanese_Arabic_stan1323.csv,,,,Parabank
 p_marra,Marra_mara1385,mara1385,mec,Marra,Other,,,parabank,Marra_mara1385.csv,20220920.0,,,Parabank
 p_kriolroperriver,Kriol_Roper_River_krio1252,krio1252,rop,Kriol (Roper River),Indo-European,,,parabank,Kriol_Roper_River_krio1252.csv,20220920.0,,,Parabank
+p_abuiabui1241,Abui_abui1241,abui1241,,Abui,Timor-Alor-Pantar,-8.31058,124.588,parabank,,,,,
+p_adangadan1251,Adang_adan1251,adan1251,,Adang,Timor-Alor-Pantar,-8.18958,124.448,parabank,,,,,
+p_agob-ende-kawamagob1244,Agob-Ende-Kawam_agob1244,agob1244,,Agob-Ende-Kawam,Pahoturi,-9.08521,142.532,parabank,,,,,
+p_alamblakalam1246,Alamblak_alam1246,alam1246,,Alamblak,Sepik,-4.66307,143.316,parabank,,,,,
+p_amanabaman1265,Amanab_aman1265,aman1265,,Amanab,Border,-3.51516,141.178,parabank,,,,,
+p_auauuu1241,Au_auuu1241,auuu1241,,Au,Nuclear Torricelli,-3.53277,142.105,parabank,,,,,
+p_imbonguimbo1238,Awa_imbo1238,imbo1238,,Imbongu,Nuclear Trans New Guinea,-6.13629,144.026,parabank,,,,,
+p_xawia1234,Awiakay_awia1234,awia1234,,Awiakay,Arafundi,,,parabank,,,,,
+p_baruyabaru1267,Baruya_baru1267,baru1267,,Baruya,Angan,-6.89261,145.818,parabank,,,,,
+p_berikberi1254,Berik_beri1254,beri1254,,Berik,Tor-Orya,-2.26904,138.866,parabank,,,,,
+p_biluabilu1245,Bilua_bilu1245,bilu1245,,Bilua,Bilua,-7.92388,156.663,parabank,,,,,
+p_blagarblag1240,Blagar_blag1240,blag1240,,Blagar,Timor-Alor-Pantar,-8.31787,124.251,parabank,,,,,
+p_tereitere1278,Buin_tere1278,tere1278,,Terei,South Bougainville,-6.70051,155.745,parabank,,,,,
+p_dadibidadi1250,Daribi_dadi1250,dadi1250,,Dadibi,Teberan,-6.65765,144.511,parabank,,,,,
+p_doutaidout1240,Doutai_dout1240,dout1240,,Doutai,Lakes Plain,-3.24832,138.22,parabank,,,,,
+p_dunaduna1248,Duna_duna1248,duna1248,,Duna,Duna,-5.41439,142.475,parabank,,,,,
+p_eastkewaeast2516,East_Kave_east2516,east2516,,East Kewa,Nuclear Trans New Guinea,-6.32989,143.931,parabank,,,,,
+p_edopiedop1238,Edopi_edop1238,edop1238,,Edopi,Lakes Plain,-3.11078,137.387,parabank,,,,,
+p_eipomekeipo1242,Eipo_eipo1242,eipo1242,,Eipomek,Nuclear Trans New Guinea,-4.33691,140.045,parabank,,,,,
+p_ekariekar1243,Ekari_ekar1243,ekar1243,,Ekari,Nuclear Trans New Guinea,-3.88974,136.018,parabank,,,,,
+p_eraveerav1244,Erave_(South_Kewa)_erav1244,erav1244,,Erave,Nuclear Trans New Guinea,-6.55011,143.918,parabank,,,,,
+p_foifoii1241,Foi_foii1241,foii1241,,Foi,East Kutubu,-6.47258,143.495,parabank,,,,,
+p_forefore1270,Fore_fore1270,fore1270,,Fore,Nuclear Trans New Guinea,-6.64473,145.5065,parabank,,,,,
+p_galelagale1259,Galeia_A_gale1259,gale1259,,Galela,North Halmahera,2.31461,128.44,parabank,,,,,
+p_galelagale1259,Galeia_B_gale1259,gale1259,,Galela,North Halmahera,2.31461,128.44,parabank,,,,,
+p_gimigimi1243,Gimi_gimi1243,gimi1243,,Gimi (Eastern Highlands),Nuclear Trans New Guinea,-6.42097,145.214,parabank,,,,,
+p_lowergrandvalleydanilowe1415,Grand_Valley_Dani_lowe1415,lowe1415,,Lower Grand Valley Dani,Nuclear Trans New Guinea,-4.25684,138.992,parabank,,,,,
+p_hewahewa1241,Hewa_hewa1241,hewa1241,,Hewa,Sepik,-5.03635,142.551,parabank,,,,,
+p_hulihuli1244,Huli_huli1244,huli1244,,Huli,Nuclear Trans New Guinea,-5.97212,142.963,parabank,,,,,
+p_isakakris1246,I'saka_(Krisa)_kris1246,kris1246,,I'saka,Sko,-2.80084,141.303,parabank,,,,,
+p_iauiauu1242,Iau_iauu1242,iauu1242,,Iau,Lakes Plain,-3.14537,137.69,parabank,,,,,
+p_iditaemeidii1243,Idi_idii1243,idii1243,,Idi-Taeme,Pahoturi,-8.75976,142.301,parabank,,,,,
+p_suabosuab1238,Inanwatan_(Suabo)_suab1238,suab1238,,Suabo,Inanwatan,-2.07971,132.157,parabank,,,,,
+p_isirawaisir1237,Isirawa_isir1237,isir1237,,Isirawa,Greater Kwerba,-1.88775,138.595,parabank,,,,,
+p_iwamiwam1256,Iwam_iwam1256,iwam1256,,Iwam,Sepik,-4.27346,141.817,parabank,,,,,
+p_kalamangkara1499,Kalamang_kara1499,kara1499,,Kalamang,West Bomberai,-3.47037,132.678,parabank,,,,,
+p_kalamkala1397,Kalam_kala1397,kala1397,,Kalam,Nuclear Trans New Guinea,-5.25216,144.585,parabank,,,,,
+p_kamangkama1365,Kamang_kama1365,kama1365,,Kamang,Timor-Alor-Pantar,-8.26897,124.792,parabank,,,,,
+p_kamanokama1370,Kamano_kama1370,kama1370,,Kamano,Nuclear Trans New Guinea,-6.25829,145.728,parabank,,,,,
+p_kanumkanu1280,Kanum_kanu1280,kanu1280,,Kanum,Morehead-Wasur,-8.91812,140.897,parabank,,,,,
+p_kaurenaraukaur1271,Kaure_kaur1271,kaur1271,,Kaure-Narau,Kaure-Narau,-3.39188,140.14,parabank,,,,,
+p_keyaganakeya1238,Kemiju_(Jate)_keya1238,keya1238,,Keyagana,Nuclear Trans New Guinea,-6.47599,145.464,parabank,,,,,
+p_kemtuikkemt1242,Kemtuik_kemt1242,kemt1242,,Kemtuik,Nimboranic,-2.64894,140.372,parabank,,,,,
+p_ketengbankete1254,Ketengban_kete1254,kete1254,,Ketengban,Nuclear Trans New Guinea,-4.50417,140.443,parabank,,,,,
+p_eastkewaeast2516,Kewa_east2516,east2516,,East Kewa,Nuclear Trans New Guinea,-6.32989,143.931,parabank,,,,,
+p_keyaganakeya1238,Keyagana_(Jate)_keya1238,keya1238,,Keyagana,Nuclear Trans New Guinea,-6.47599,145.464,parabank,,,,,
+p_kilmerikilm1241,Kilmeri_kilm1241,kilm1241,,Kilmeri,Border,-2.88607,141.191,parabank,,,,,
+p_kimaamakima1246,Kimaama_kima1246,kima1246,,Kimaama,Kolopom,-8.01899,138.355,parabank,,,,,
+p_kuikuii1253,Kiraman_kuii1253,kuii1253,,Kui (Indonesia),Timor-Alor-Pantar,-8.38204,124.791,parabank,,,,,
+p_southernkiwaisout2949,Kiwaian_sout2949,sout2949,,Southern Kiwai,Kiwaian,-8.64889,143.244,parabank,,,,,
+p_klonkelo1247,Klon_kelo1247,kelo1247,,Klon,Timor-Alor-Pantar,-8.40688,124.429,parabank,,,,,
+p_grasskoiarigras1249,Koiari_gras1249,gras1249,,Grass Koiari,Koiarian,-9.51218,147.437,parabank,,,,,
+p_kombaikomb1274,Kombai_komb1274,komb1274,,Kombai,Nuclear Trans New Guinea,-5.54543,139.902,parabank,,,,,
+p_kombakomb1273,Komba_komb1273,komb1273,,Komba,Nuclear Trans New Guinea,-6.16163,147.28,parabank,,,,,
+p_komnzowara1294,Komnzo_wara1294,wara1294,,Anta-Komnzo-Wára-Wérè-Kémä,Morehead-Wasur,-8.64917,141.52,parabank,,,,,
+p_westerndaniwest2594,Konda_(Western_Dani)_west2594,west2594,,Western Dani,Nuclear Trans New Guinea,-3.77127,138.217,parabank,,,,,
+p_korafekora1295,Korafe_kora1295,kora1295,,Korafe,Nuclear Trans New Guinea,,,parabank,,,,,
+p_korowaikoro1312,Korowai_koro1312,koro1312,,Korowai,Nuclear Trans New Guinea,-5.26952,140.047,parabank,,,,,
+p_kumankuma1280,Kuman_kuma1280,kuma1280,,Kuman,Nuclear Trans New Guinea,-5.90586,144.977,parabank,,,,,
+p_kunimaipakuni1267,Kunimaipa_kuni1267,kuni1267,,Kunimaipa,Goilalan,-8.09371,146.908,parabank,,,,,
+p_kuotkuot1243,Kuot_kuot1243,kuot1243,,Kuot,Kuot,-3.06952,151.537,parabank,,,,,
+p_boungboun1245,Ku_Waru_boun1245,boun1245,,Bo-Ung,Nuclear Trans New Guinea,-5.8626,144.086,parabank,,,,,
+p_kwomakwom1262,Kwoma_kwom1262,kwom1262,,Kwoma,Sepik,-4.08721,142.664,parabank,,,,,
+p_kyakakyak1244,Kyaka_kyak1244,kyak1244,,Kyaka,Nuclear Trans New Guinea,-5.52462,144.119,parabank,,,,,
+p_lolodalabalolo1264,Loloda-Laba_(Loda)_lolo1264,lolo1264,,Loloda-Laba,North Halmahera,1.95461,127.772,parabank,,,,,
+p_modolemodo1249,Madole_modo1249,modo1249,,Modole,North Halmahera,1.40199,127.752,parabank,,,,,
+p_mairasinucl1594,Mairasi_nucl1594,nucl1594,,Mairasi,Mairasic,-3.4511,134.071,parabank,,,,,
+p_maklewmakl1246,Maklew_makl1246,makl1246,,Maklew,Bulaka River,-7.74424,139.273,parabank,,,,,
+p_xmala1294,Mala_mala1294,mala1294,,Mala,,,,parabank,,,,,
+p_malimali1284,Mali_mali1284,mali1284,,Mali,Baining,-4.71826,152.214,parabank,,,,,
+p_marindnucl1622,Marind_nucl1622,nucl1622,,Marind,Anim,-8.15651,140.009,parabank,,,,,
+p_maybratkaronmaib1239,Maybrat_maib1239,maib1239,,Maybrat-Karon,Maybrat-Karon,-1.3679,132.591,parabank,,,,,
+p_mblaferanmoblaf1238,Mblafe_blaf1238,blaf1238,,Mblafe-Ránmo,Morehead-Wasur,-8.56161,141.226,parabank,,,,,
+p_meriammeri1244,Meriam_meri1244,meri1244,,Meriam,Eastern Trans-Fly,-9.59575,143.773,parabank,,,,,
+p_meyahmeya1236,Meyah_meya1236,meya1236,,Meyah,East Bird's Head,-1.18016,133.618,parabank,,,,,
+p_mianimian1254,Miani_mian1254,mian1254,,Miani,Nuclear Trans New Guinea,-4.42116,145.276,parabank,,,,,
+p_momufasfass1245,Momu-Fas_fass1245,fass1245,,Momu-Fas,Baibai-Fas,-3.10868,141.64,parabank,,,,,
+p_monimoni1261,Moni_moni1261,moni1261,,Moni,Nuclear Trans New Guinea,-3.72962,136.886,parabank,,,,,
+p_monumbonucl1458,Monumbo_nucl1458,nucl1458,,Monumbo,Bogia,-4.2717,144.95,parabank,,,,,
+p_sibesibe1248,Nagovisi_sibe1248,sibe1248,,Sibe,South Bougainville,-6.43149,155.412,parabank,,,,,
+p_namanama1266,Nama_nama1266,nama1266,,Nama (Papua New Guinea),Morehead-Wasur,-8.66403,141.706,parabank,,,,,
+p_nambonamb1293,Nambo_namb1293,namb1293,,Nambo,Morehead-Wasur,-8.74501,141.931,parabank,,,,,
+p_naasioinaas1242,Nasioi_naas1242,naas1242,,Naasioi,South Bougainville,-6.46022,155.632,parabank,,,,,
+p_yagwoiayagw1240,Negwa_(Yagwoia)_yagw1240,yagw1240,,Yagwoia,Angan,-7.14042,145.854,parabank,,,,,
+p_nemeneme1244,Neme_neme1244,neme1244,,Neme,Morehead-Wasur,-8.44877,141.849,parabank,,,,,
+p_nennenn1238,Nen_nenn1238,nenn1238,,Nen,Morehead-Wasur,-8.62183,142.032,parabank,,,,,
+p_nennenn1238,Nen_nenn1238a,nenn1238,,Nen,Morehead-Wasur,-8.62183,142.032,parabank,,,,,
+p_nimborannucl1633,Nimboran_nucl1633,nucl1633,,Nimboran,Nimboranic,-2.5803,140.179,parabank,,,,,
+p_northmuyunort2916,NorthMuyu_nort2916,nort2916,,North Muyu,Nuclear Trans New Guinea,-5.55319,140.84,parabank,,,,,
+p_yauyaum1237,Nungon_yaum1237,yaum1237,,Yau (Morobe Province),Nuclear Trans New Guinea,-6.08274,146.841,parabank,,,,,
+p_onobasuluonob1238,Onobasulu_onob1238,onob1238,,Onobasulu,Bosavi,-6.30876,142.776,parabank,,,,,
+p_pagupagu1249,Pagu_pagu1249,pagu1249,,Pagu,North Halmahera,1.2134,127.78,parabank,,,,,
+p_sogeramsoge1235,Proto_Sogeram_soge1235,soge1235,,Sogeram,Nuclear Trans New Guinea,-5.08,144.81,parabank,,,,,
+p_riantanarian1263,Riantana_rian1263,rian1263,,Riantana,Kolopom,-7.50746,138.484,parabank,,,,,
+p_rotokasroto1249,Rotokas_roto1249,roto1249,,Rotokas,North Bougainville,-5.94339,155.154,parabank,,,,,
+p_savosavosavo1255,Savosavo_savo1255,savo1255,,Savosavo,Savosavo,-9.12853,159.814,parabank,,,,,
+p_sawisawi1257,Sawi_sawi1257,sawi1257,,Sawi,Nuclear Trans New Guinea,-5.99286,138.643,parabank,,,,,
+p_setamanseta1246,Setaman_Baktamin_seta1246,seta1246,,Setaman,Nuclear Trans New Guinea,-5.31134,141.833,parabank,,,,,
+p_siwaisiwa1245,Siwai_Motuna_siwa1245,siwa1245,,Siwai,South Bougainville,-6.6429,155.452,parabank,,,,,
+p_sougbmani1235,Sougb_mani1235,mani1235,,Sougb,East Bird's Head,-1.49611,133.95,parabank,,,,,
+p_sukisuki1245,Suki_suki1245,suki1245,,Suki,Suki-Gogodala,-8.04783,141.842,parabank,,,,,
+p_tablatabl1243,Tabla_tabl1243,tabl1243,,Tabla,Sentanic,-2.45368,140.396,parabank,,,,,
+p_taiaptaia1239,Taiap_taia1239,taia1239,,Taiap,Taiap,-4.05047,144.506,parabank,,,,,
+p_teiwateiw1235,Teiwa_teiw1235,teiw1235,,Teiwa,Timor-Alor-Pantar,-8.37662,124.174,parabank,,,,,
+p_telefoltele1256,Telefol_tele1256,tele1256,,Telefol,Nuclear Trans New Guinea,-5.07444,141.731,parabank,,,,,
+p_xtido1249,Tidore_tido1249,tido1249,,Tidore,,,,parabank,,,,,
+p_touotouo1238,Touo_touo1238,touo1238,,Touo,Touo,-8.58405,157.296,parabank,,,,,
+p_umbuunguumbu1258,Umbu-Ungu_umbu1258,umbu1258,,Umbu-Ungu,Nuclear Trans New Guinea,-5.9513,143.97,parabank,,,,,
+p_usarufausar1243,Usurufa_usar1243,usar1243,,Usarufa,Nuclear Trans New Guinea,-6.38898,145.633,parabank,,,,,
+p_waffawaff1241,Waffa_waff1241,waff1241,,Waffa,Nuclear Trans New Guinea,-6.55783,146.09,parabank,,,,,
+p_wartathuntaigunt1241,Warta_Thuntai_gunt1241,gunt1241,,Warta Thuntai,Morehead-Wasur,-8.80806,141.253,parabank,,,,,
+p_watamwata1253,Watam_wata1253,wata1253,,Watam,Lower Sepik-Ramu,-4.02591,144.583,parabank,,,,,
+p_wersingwers1238,Wersing_wers1238,wers1238,,Wersing,Timor-Alor-Pantar,-8.33936,124.932,parabank,,,,,
+p_westernpantarlamm1241,Western_Pantar_lamm1241,lamm1241,,Western Pantar,Timor-Alor-Pantar,-8.52787,124.057,parabank,,,,,
+p_westkewawest2599,West_Kewa_west2599,west2599,,West Kewa,Nuclear Trans New Guinea,-6.32097,143.73,parabank,,,,,
+p_wipiwipi1242,Wipi_wipi1242,wipi1242,,Wipi,Eastern Trans-Fly,-8.79741,143.064,parabank,,,,,
+p_kosarekyalekosa1249,Yale_kosa1249,kosa1249,,Kosarek Yale,Nuclear Trans New Guinea,-4.06603,139.645,parabank,,,,,
+p_yalicyali1257,Yalic_yali1257,yali1257,,Yalic,Nuclear Trans New Guinea,-3.76869,139.26,parabank,,,,,
+p_yawanucl1454,Yawa_nucl1454,nucl1454,,Yawa,Yawa-Saweru,-1.77196,136.263,parabank,,,,,
+p_yeleyele1255,Yele_(Yélî_Dnye)_yele1255,yele1255,,Yele,Yele,-11.3796,154.127,parabank,,,,,
+p_yelmekyelm1242,Yelmek_yelm1242,yelm1242,,Yelmek,Bulaka River,-7.4453,139.096,parabank,,,,,
 p_finnishfinn1318,Finnish_finn1318,finn1318,fin,Finnish,Uralic,64.7628,25.5577,parabank,Finnish finn1318.txt,20170901.0,,,Kinura
 v_erzyaerzy1239,Erzya_erzy1239,erzy1239,myv,Erzya,Uralic,52.8548,45.3901,varikin,Erzya_erzy1239.txt,,,,Kinura
 v_estonianesto1258,Estonian_esto1258,esto1258,ekk,Estonian,Uralic,58.55,25.82,varikin,Estonian_esto1258.txt,,,,Kinura
@@ -1133,7 +1254,14 @@ v_mansimans1258,Mansi_mans1258,mans1258,mns,Northern Mansi,Uralic,64.4118,61.344
 v_marieast2328,Mari_east2328,east2328,mhr,Eastern Mari,Uralic,55.8307,48.405,varikin,Mari_east2328.txt,,,,Kinura
 v_udmurtudmu1245,Udmurt_udmu1245,udmu1245,udm,Udmurt,Uralic,56.12921,52.63548,varikin,Udmurt_udmu1245.txt,,,,Kinura
 v_vepsveps1250,Veps_veps1250,veps1250,vep,Veps,Uralic,60.3353,34.7865,varikin,Veps_veps1250.txt,,,,Kinura
-kinura_skol1241,skol1241,skol1241,sms,Skolt Saami,Uralic,69.505596,28.592182,Kinura,,,,,Kinura
+kinura_ForestEnets,kinura_ForestEnets_fore1265,fore1265,enf,Forest Enets,Uralic,68.6,86.5,Kinura,kinura_ForestEnets_fore1265,20221011.0,,,Kinura
+kinura_HillMari,kinura_HillMari_west2392,west2392,mrj,Western Mari,Uralic,56.22,46.57,Kinura,kinura_HillMari_west2392,20221011.0,,,Kinura
+kinura_Livonian,kinura_Livonian_livv1244,livv1244,liv,Livonian,Uralic,57.57,22.03,Kinura,kinura_Livonian_livv1244,20221011.0,,,Kinura
+kinura_MokshaMordvin,kinura_MokshaMordvin_moks1248,moks1248,mdf,MokshaMordvin,Uralic,54.19,42.67,Kinura,kinura_MokshaMordvin_moks1248,20221011.0,,,Kinura
+kinura_Nganasan,kinura_Nganasan_ngan1291,ngan1291,nio,Nganasan,Uralic,73.14,86.21,Kinura,Kinura_Nganasan_ngan1291,20221011.0,,,Kinura
+kinura_SkoltSaami,kinura_SkoltSaami_skol1241,skol1241,sms,Skolt Saami,Uralic,69.505596,28.592182,Kinura,kinura_SkoltSaami_skol1241,20221011.0,,,Kinura
+kinura_SouthSaami,kinura_SouthSaami_sout2674,sout2674,sma,South Saami,Uralic,62.88,13.7,Kinura,kinura_SouthSaami_sout2674,20221011.0,,,Kinura
+kinura_NorthSaami,kinura_NorthSaami_nort2671,nort2671,sme,North Saami,Uralic,68.72,22.11,Kinura,kinura_NorthSaami_nort2671,20221013.0,,,Kinura
 v_acheache1246,Aché_ache1246,ache1246,guq,Aché,Tupian,-25.5865,-56.4697,varikin,Aché_ache1246.txt,,,,Goeldi
 v_anambeanam1249,Anambé_anam1249,anam1249,aan,Anambé,Tupian,-2.71119,-49.303,varikin,Anambé_anam1249.txt,,,,Goeldi
 v_arawetearaw1273,Araweté_araw1273,araw1273,awt,Araweté,Tupian,-4.90246,-52.5001,varikin,Araweté_araw1273.txt,,,,Goeldi

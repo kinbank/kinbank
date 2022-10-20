@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,ka',,male ego's older brother,,,Miller2007,
-myB,di',,male ego's younger brother,,,Miller2007,
-feB,ka',,female ego's older brother,,,Miller2007,
-fyB,di',,female ego's younger brother,,,Miller2007,
-meZ,ka',,male ego's older sister,,,Miller2007,
-myZ,di',,male ego's younger sister,,,Miller2007,
-feZ,ka',,female ego's older sister,,,Miller2007,
-fyZ,di',,female ego's younger sister,,,Miller2007,
-mF,emma',,male ego's father,,,Miller2007,
-mM,iyang,,male ego's mother,,,Miller2007,
-fF,emma',,female ego's father,,,Miller2007,
-fM,iyang,,female ego's mother,,,Miller2007,
-mS,anak,,male ego's son,,,Miller2007,
-fS,anak,,female ego's son,,,Miller2007,
-mD,anak,,male ego's daughter,,,Miller2007,
-fD,anak,,female ego's daughter,,,Miller2007,
-mSS,empu,,male ego's son's son,,,Miller2007,
-mSD,empu,,male ego's son's daughter,,,Miller2007,
-mDS,empu,,male ego's daughter's son,,,Miller2007,
-mDD,empu,,male ego's daughter's daughter,,,Miller2007,
-fSS,empu,,female ego's son's son,,,Miller2007,
-fSD,empu,,female ego's son's daughter,,,Miller2007,
-fDS,empu,,female ego's daughter's son,,,Miller2007,
-fDD,empu,,female ego's daugher's daughter,,,Miller2007,
-mFF,emma' too,,male ego's father‘s father,,,Miller2007,
-mFM,iyang too,,male ego's father's mother,,,Miller2007,
-mMF,emma' too,,male ego's mother's father,,,Miller2007,
-mMM,iyang too,,male ego's mother's mother,,,Miller2007,
-fFF,emma' too,,female ego's father's father,,,Miller2007,
-fFM,iyang too,,female ego's father's mother,,,Miller2007,
-fMF,emma' too,,female ego's mother's father,,,Miller2007,
-fMM,iyang too,,female ego's mother's mother,,,Miller2007,
-meBS,anak bua,,male ego's older brother's son,,,Miller2007,
-myBS,anak bua,,male ego's younger brother's son,,,Miller2007,
-meZS,anak bua,,male ego's older sister's son,,,Miller2007,
-myZS,anak bua,,male ego's younger sister's son,,,Miller2007,
-meBD,anak bua,,male ego's older brother's daughter,,,Miller2007,
-myBD,anak bua,,male ego's younger brother's daughter,,,Miller2007,
-meZD,anak bua,,male ego's older sister's daughter,,,Miller2007,
-myZD,anak bua,,male ego's younger sister's daughter,,,Miller2007,
-feBS,anak bua,,female ego's older brother's son,,,Miller2007,
-fyBS,anak bua,,female ego's younger brother's son,,,Miller2007,
-feZS,anak bua,,female ego's older sister's son,,,Miller2007,
-fyZS,anak bua,,female ego's younger sister's son,,,Miller2007,
-feBD,anak bua,,female ego's older brother's daughter,,,Miller2007,
-fyBD,anak bua,,female ego's younger brother's daughter,,,Miller2007,
-feZD,anak bua,,female ego's older sister's daughter,,,Miller2007,
-fyZD,anak bua,,female ego's younger sister's daughter,,,Miller2007,
-mFeB,pa',,male ego's father's older brother,,,Miller2007,
-mFyB,pa',,male ego's father's younger brother,,,Miller2007,
-mFeZ,bu',,male ego's father's older sister,,,Miller2007,
-mFyZ,bu',,male ego's father's younger sister,,,Miller2007,
-mMeB,pa',,male ego's mother's older brother,,,Miller2007,
-mMyB,pa',,male ego's mother's younger brother,,,Miller2007,
-mMeZ,bu',,male ego's mother's older sister,,,Miller2007,
-mMyZ,bu',,male ego's mother's younger sister,,,Miller2007,
-fFeB,pa',,female ego's father's older brother,,,Miller2007,
-fFyB,pa',,female ego's father's younger brother,,,Miller2007,
-fFeZ,bu',,female ego's father's older sister,,,Miller2007,
-fFyZ,bu',,female ego's father's younger sister,,,Miller2007,
-fMeB,pa',,female ego's mother's older brother,,,Miller2007,
-fMyB,pa',,female ego's mother's younger brother,,,Miller2007,
-fMeZ,bu',,female ego's mother's older sister,,,Miller2007,
-fMyZ,bu',,female ego's mother's younger sister,,,Miller2007,
-mW,endo,,male ego's wife,,,Miller2007,
-fH,ella,,female ego‘s husband,,,Miller2007,
-mDH,ayuwan,,male ego's daughter's husband,,,Miller2007,
-fDH,ayuwan,,female ego's daughter's husband,,,Miller2007,
-mSW,ayuwan,,male ego's son's wife,,,Miller2007,
-fSW,ayuwan,,female ego's son's wife,,,Miller2007,
-mWF,metoo,,male ego's wife's father,,,Miller2007,
-mWM,metoo,,male ego's wife's mother,,,Miller2007,
-mWB,bayaw,,male ego's wife's brother,,,Miller2007,
-mWZ,langu',,male ego's wife's sister,,,Miller2007,
-fHF,metoo,,female ego's husband's father,,,Miller2007,
-fHM,metoo,,female ego's husband's mother,,,Miller2007,
-fHB,bayaw,,female ego's husband's brother,,,Miller2007,
-fHZ,langu',,female ego's husband's sister,,,Miller2007,
-mBW,langu',,male ego's brother's wife,,,Miller2007,
-fBW,langu',,female ego's brother's wife,,,Miller2007,
-mZH,bayaw,,male ego's sister's husband,,,Miller2007,
-fZH,bayaw,,female ego's sister's husband,,,Miller2007,
-mFBS,kaki,,male ego's father's brother's son,,,Miller2007,
-mFZS,kaki,,male ego's father's sister's son,,,Miller2007,
-mMBS,kaki,,male ego's mother's brother's son,,,Miller2007,
-mMZS,kaki,,male ego's mother's sister's son,,,Miller2007,
-mFBD,kaki,,male ego's father's brother's daughter,,,Miller2007,
-mFZD,kaki,,male ego's father's sister's daughter,,,Miller2007,
-mMBD,kaki,,male ego's mother's brother's daughter,,,Miller2007,
-mMZD,kaki,,male ego's mother's sister's daughter,,,Miller2007,
-fFBS,kaki,,female ego's father's brother's son,,,Miller2007,
-fFZS,kaki,,female ego's father's sister's son,,,Miller2007,
-fMBS,kaki,,female ego's mother's brother's son,,,Miller2007,
-fMZS,kaki,,female ego's mother's sister's son,,,Miller2007,
-fFBD,kaki,,female ego's father's brother's daughter,,,Miller2007,
-fFZD,kaki,,female ego's father's sister's daughter,,,Miller2007,
-fMBD,kaki,,female ego's mother's brother's daughter,,,Miller2007,
-fMZD,kaki,,female ego's mother's sister's daughter,,,Miller2007,
-mFeBS,kaki,,male ego's father's brother's son,,,Miller2007,Inferred; NA
-mFyBS,kaki,,male ego's father's brother's son,,,Miller2007,Inferred; NA
-mFeZS,kaki,,male ego's father's sister's son,,,Miller2007,Inferred; NA
-mFyZS,kaki,,male ego's father's sister's son,,,Miller2007,Inferred; NA
-mFeBD,kaki,,male ego's father's brother's daughter,,,Miller2007,Inferred; NA
-mFyBD,kaki,,male ego's father's brother's daughter,,,Miller2007,Inferred; NA
-mFeZD,kaki,,male ego's father's sister's daughter,,,Miller2007,Inferred; NA
-mFyZD,kaki,,male ego's father's sister's daughter,,,Miller2007,Inferred; NA
-mMeBS,kaki,,male ego's mother's brother's son,,,Miller2007,Inferred; NA
-mMyBS,kaki,,male ego's mother's brother's son,,,Miller2007,Inferred; NA
-mMeZS,kaki,,male ego's mother's sister's son,,,Miller2007,Inferred; NA
-mMyZS,kaki,,male ego's mother's sister's son,,,Miller2007,Inferred; NA
-mMeBD,kaki,,male ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-mMyBD,kaki,,male ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-mMeZD,kaki,,male ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-mMyZD,kaki,,male ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-mFBeS,kaki,,male ego's father's brother's son,,,Miller2007,Inferred; NA
-mFByS,kaki,,male ego's father's brother's son,,,Miller2007,Inferred; NA
-mFZeS,kaki,,male ego's father's sister's son,,,Miller2007,Inferred; NA
-mFZyS,kaki,,male ego's father's sister's son,,,Miller2007,Inferred; NA
-mFBeD,kaki,,male ego's father's brother's daughter,,,Miller2007,Inferred; NA
-mFByD,kaki,,male ego's father's brother's daughter,,,Miller2007,Inferred; NA
-mFZeD,kaki,,male ego's father's sister's daughter,,,Miller2007,Inferred; NA
-mFZyD,kaki,,male ego's father's sister's daughter,,,Miller2007,Inferred; NA
-mMBeS,kaki,,male ego's mother's brother's son,,,Miller2007,Inferred; NA
-mMByS,kaki,,male ego's mother's brother's son,,,Miller2007,Inferred; NA
-mMZeS,kaki,,male ego's mother's sister's son,,,Miller2007,Inferred; NA
-mMZyS,kaki,,male ego's mother's sister's son,,,Miller2007,Inferred; NA
-mMBeD,kaki,,male ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-mMByD,kaki,,male ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-mMZeD,kaki,,male ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-mMZyD,kaki,,male ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-fFeBS,kaki,,female ego's father's brother's son,,,Miller2007,Inferred; NA
-fFyBS,kaki,,female ego's father's brother's son,,,Miller2007,Inferred; NA
-fFeZS,kaki,,female ego's father's sister's son,,,Miller2007,Inferred; NA
-fFyZS,kaki,,female ego's father's sister's son,,,Miller2007,Inferred; NA
-fFeBD,kaki,,female ego's father's brother's daughter,,,Miller2007,Inferred; NA
-fFyBD,kaki,,female ego's father's brother's daughter,,,Miller2007,Inferred; NA
-fFeZD,kaki,,female ego's father's sister's daughter,,,Miller2007,Inferred; NA
-fFyZD,kaki,,female ego's father's sister's daughter,,,Miller2007,Inferred; NA
-fMeBS,kaki,,female ego's mother's brother's son,,,Miller2007,Inferred; NA
-fMyBS,kaki,,female ego's mother's brother's son,,,Miller2007,Inferred; NA
-fMeZS,kaki,,female ego's mother's sister's son,,,Miller2007,Inferred; NA
-fMyZS,kaki,,female ego's mother's sister's son,,,Miller2007,Inferred; NA
-fMeBD,kaki,,female ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-fMyBD,kaki,,female ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-fMeZD,kaki,,female ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-fMyZD,kaki,,female ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-fFBeS,kaki,,female ego's father's brother's son,,,Miller2007,Inferred; NA
-fFByS,kaki,,female ego's father's brother's son,,,Miller2007,Inferred; NA
-fFZeS,kaki,,female ego's father's sister's son,,,Miller2007,Inferred; NA
-fFZyS,kaki,,female ego's father's sister's son,,,Miller2007,Inferred; NA
-fFBeD,kaki,,female ego's father's brother's daughter,,,Miller2007,Inferred; NA
-fFByD,kaki,,female ego's father's brother's daughter,,,Miller2007,Inferred; NA
-fFZeD,kaki,,female ego's father's sister's daughter,,,Miller2007,Inferred; NA
-fFZyD,kaki,,female ego's father's sister's daughter,,,Miller2007,Inferred; NA
-fMBeS,kaki,,female ego's mother's brother's son,,,Miller2007,Inferred; NA
-fMByS,kaki,,female ego's mother's brother's son,,,Miller2007,Inferred; NA
-fMZeS,kaki,,female ego's mother's sister's son,,,Miller2007,Inferred; NA
-fMZyS,kaki,,female ego's mother's sister's son,,,Miller2007,Inferred; NA
-fMBeD,kaki,,female ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-fMByD,kaki,,female ego's mother's brother's daughter,,,Miller2007,Inferred; NA
-fMZeD,kaki,,female ego's mother's sister's daughter,,,Miller2007,Inferred; NA
-fMZyD,kaki,,female ego's mother's sister's daughter,,,Miller2007,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","ka'",,"male ego's older brother",,,"Miller2007",""
+"myB","di'",,"male ego's younger brother",,,"Miller2007",""
+"feB","ka'",,"female ego's older brother",,,"Miller2007",""
+"fyB","di'",,"female ego's younger brother",,,"Miller2007",""
+"meZ","ka'",,"male ego's older sister",,,"Miller2007",""
+"myZ","di'",,"male ego's younger sister",,,"Miller2007",""
+"feZ","ka'",,"female ego's older sister",,,"Miller2007",""
+"fyZ","di'",,"female ego's younger sister",,,"Miller2007",""
+"mF","emma'",,"male ego's father",,,"Miller2007",""
+"mM","iyang",,"male ego's mother",,,"Miller2007",""
+"fF","emma'",,"female ego's father",,,"Miller2007",""
+"fM","iyang",,"female ego's mother",,,"Miller2007",""
+"mS","anak",,"male ego's son",,,"Miller2007",""
+"fS","anak",,"female ego's son",,,"Miller2007",""
+"mD","anak",,"male ego's daughter",,,"Miller2007",""
+"fD","anak",,"female ego's daughter",,,"Miller2007",""
+"mSS","empu",,"male ego's son's son",,,"Miller2007",""
+"mSD","empu",,"male ego's son's daughter",,,"Miller2007",""
+"mDS","empu",,"male ego's daughter's son",,,"Miller2007",""
+"mDD","empu",,"male ego's daughter's daughter",,,"Miller2007",""
+"fSS","empu",,"female ego's son's son",,,"Miller2007",""
+"fSD","empu",,"female ego's son's daughter",,,"Miller2007",""
+"fDS","empu",,"female ego's daughter's son",,,"Miller2007",""
+"fDD","empu",,"female ego's daugher's daughter",,,"Miller2007",""
+"mFF","emma' too",,"male ego's father‘s father",,,"Miller2007",""
+"mFM","iyang too",,"male ego's father's mother",,,"Miller2007",""
+"mMF","emma' too",,"male ego's mother's father",,,"Miller2007",""
+"mMM","iyang too",,"male ego's mother's mother",,,"Miller2007",""
+"fFF","emma' too",,"female ego's father's father",,,"Miller2007",""
+"fFM","iyang too",,"female ego's father's mother",,,"Miller2007",""
+"fMF","emma' too",,"female ego's mother's father",,,"Miller2007",""
+"fMM","iyang too",,"female ego's mother's mother",,,"Miller2007",""
+"meBS","anak bua",,"male ego's older brother's son",,,"Miller2007",""
+"myBS","anak bua",,"male ego's younger brother's son",,,"Miller2007",""
+"meZS","anak bua",,"male ego's older sister's son",,,"Miller2007",""
+"myZS","anak bua",,"male ego's younger sister's son",,,"Miller2007",""
+"meBD","anak bua",,"male ego's older brother's daughter",,,"Miller2007",""
+"myBD","anak bua",,"male ego's younger brother's daughter",,,"Miller2007",""
+"meZD","anak bua",,"male ego's older sister's daughter",,,"Miller2007",""
+"myZD","anak bua",,"male ego's younger sister's daughter",,,"Miller2007",""
+"feBS","anak bua",,"female ego's older brother's son",,,"Miller2007",""
+"fyBS","anak bua",,"female ego's younger brother's son",,,"Miller2007",""
+"feZS","anak bua",,"female ego's older sister's son",,,"Miller2007",""
+"fyZS","anak bua",,"female ego's younger sister's son",,,"Miller2007",""
+"feBD","anak bua",,"female ego's older brother's daughter",,,"Miller2007",""
+"fyBD","anak bua",,"female ego's younger brother's daughter",,,"Miller2007",""
+"feZD","anak bua",,"female ego's older sister's daughter",,,"Miller2007",""
+"fyZD","anak bua",,"female ego's younger sister's daughter",,,"Miller2007",""
+"mFeB","pa'",,"male ego's father's older brother",,,"Miller2007",""
+"mFyB","pa'",,"male ego's father's younger brother",,,"Miller2007",""
+"mFeZ","bu'",,"male ego's father's older sister",,,"Miller2007",""
+"mFyZ","bu'",,"male ego's father's younger sister",,,"Miller2007",""
+"mMeB","pa'",,"male ego's mother's older brother",,,"Miller2007",""
+"mMyB","pa'",,"male ego's mother's younger brother",,,"Miller2007",""
+"mMeZ","bu'",,"male ego's mother's older sister",,,"Miller2007",""
+"mMyZ","bu'",,"male ego's mother's younger sister",,,"Miller2007",""
+"fFeB","pa'",,"female ego's father's older brother",,,"Miller2007",""
+"fFyB","pa'",,"female ego's father's younger brother",,,"Miller2007",""
+"fFeZ","bu'",,"female ego's father's older sister",,,"Miller2007",""
+"fFyZ","bu'",,"female ego's father's younger sister",,,"Miller2007",""
+"fMeB","pa'",,"female ego's mother's older brother",,,"Miller2007",""
+"fMyB","pa'",,"female ego's mother's younger brother",,,"Miller2007",""
+"fMeZ","bu'",,"female ego's mother's older sister",,,"Miller2007",""
+"fMyZ","bu'",,"female ego's mother's younger sister",,,"Miller2007",""
+"mW","endo",,"male ego's wife",,,"Miller2007",""
+"fH","ella",,"female ego‘s husband",,,"Miller2007",""
+"mDH","ayuwan",,"male ego's daughter's husband",,,"Miller2007",""
+"fDH","ayuwan",,"female ego's daughter's husband",,,"Miller2007",""
+"mSW","ayuwan",,"male ego's son's wife",,,"Miller2007",""
+"fSW","ayuwan",,"female ego's son's wife",,,"Miller2007",""
+"mWF","metoo",,"male ego's wife's father",,,"Miller2007",""
+"mWM","metoo",,"male ego's wife's mother",,,"Miller2007",""
+"mWB","bayaw",,"male ego's wife's brother",,,"Miller2007",""
+"mWZ","langu'",,"male ego's wife's sister",,,"Miller2007",""
+"fHF","metoo",,"female ego's husband's father",,,"Miller2007",""
+"fHM","metoo",,"female ego's husband's mother",,,"Miller2007",""
+"fHB","bayaw",,"female ego's husband's brother",,,"Miller2007",""
+"fHZ","langu'",,"female ego's husband's sister",,,"Miller2007",""
+"mBW","langu'",,"male ego's brother's wife",,,"Miller2007",""
+"fBW","langu'",,"female ego's brother's wife",,,"Miller2007",""
+"mZH","bayaw",,"male ego's sister's husband",,,"Miller2007",""
+"fZH","bayaw",,"female ego's sister's husband",,,"Miller2007",""
+"mFBS","kaki",,"male ego's father's brother's son",,,"Miller2007",""
+"mFZS","kaki",,"male ego's father's sister's son",,,"Miller2007",""
+"mMBS","kaki",,"male ego's mother's brother's son",,,"Miller2007",""
+"mMZS","kaki",,"male ego's mother's sister's son",,,"Miller2007",""
+"mFBD","kaki",,"male ego's father's brother's daughter",,,"Miller2007",""
+"mFZD","kaki",,"male ego's father's sister's daughter",,,"Miller2007",""
+"mMBD","kaki",,"male ego's mother's brother's daughter",,,"Miller2007",""
+"mMZD","kaki",,"male ego's mother's sister's daughter",,,"Miller2007",""
+"fFBS","kaki",,"female ego's father's brother's son",,,"Miller2007",""
+"fFZS","kaki",,"female ego's father's sister's son",,,"Miller2007",""
+"fMBS","kaki",,"female ego's mother's brother's son",,,"Miller2007",""
+"fMZS","kaki",,"female ego's mother's sister's son",,,"Miller2007",""
+"fFBD","kaki",,"female ego's father's brother's daughter",,,"Miller2007",""
+"fFZD","kaki",,"female ego's father's sister's daughter",,,"Miller2007",""
+"fMBD","kaki",,"female ego's mother's brother's daughter",,,"Miller2007",""
+"fMZD","kaki",,"female ego's mother's sister's daughter",,,"Miller2007",""
+"mFeBS","kaki",,"male ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"mFyBS","kaki",,"male ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"mFeZS","kaki",,"male ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"mFyZS","kaki",,"male ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"mFeBD","kaki",,"male ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"mFyBD","kaki",,"male ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"mFeZD","kaki",,"male ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"mFyZD","kaki",,"male ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"mMeBS","kaki",,"male ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"mMyBS","kaki",,"male ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"mMeZS","kaki",,"male ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"mMyZS","kaki",,"male ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"mMeBD","kaki",,"male ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"mMyBD","kaki",,"male ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"mMeZD","kaki",,"male ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"mMyZD","kaki",,"male ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"mFBeS","kaki",,"male ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"mFByS","kaki",,"male ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"mFZeS","kaki",,"male ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"mFZyS","kaki",,"male ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"mFBeD","kaki",,"male ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"mFByD","kaki",,"male ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"mFZeD","kaki",,"male ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"mFZyD","kaki",,"male ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"mMBeS","kaki",,"male ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"mMByS","kaki",,"male ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"mMZeS","kaki",,"male ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"mMZyS","kaki",,"male ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"mMBeD","kaki",,"male ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"mMByD","kaki",,"male ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"mMZeD","kaki",,"male ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"mMZyD","kaki",,"male ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"fFeBS","kaki",,"female ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"fFyBS","kaki",,"female ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"fFeZS","kaki",,"female ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"fFyZS","kaki",,"female ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"fFeBD","kaki",,"female ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"fFyBD","kaki",,"female ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"fFeZD","kaki",,"female ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"fFyZD","kaki",,"female ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"fMeBS","kaki",,"female ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"fMyBS","kaki",,"female ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"fMeZS","kaki",,"female ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"fMyZS","kaki",,"female ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"fMeBD","kaki",,"female ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"fMyBD","kaki",,"female ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"fMeZD","kaki",,"female ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"fMyZD","kaki",,"female ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"fFBeS","kaki",,"female ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"fFByS","kaki",,"female ego's father's brother's son",,,"Miller2007","Inferred; NA"
+"fFZeS","kaki",,"female ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"fFZyS","kaki",,"female ego's father's sister's son",,,"Miller2007","Inferred; NA"
+"fFBeD","kaki",,"female ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"fFByD","kaki",,"female ego's father's brother's daughter",,,"Miller2007","Inferred; NA"
+"fFZeD","kaki",,"female ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"fFZyD","kaki",,"female ego's father's sister's daughter",,,"Miller2007","Inferred; NA"
+"fMBeS","kaki",,"female ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"fMByS","kaki",,"female ego's mother's brother's son",,,"Miller2007","Inferred; NA"
+"fMZeS","kaki",,"female ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"fMZyS","kaki",,"female ego's mother's sister's son",,,"Miller2007","Inferred; NA"
+"fMBeD","kaki",,"female ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"fMByD","kaki",,"female ego's mother's brother's daughter",,,"Miller2007","Inferred; NA"
+"fMZeD","kaki",,"female ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"
+"fMZyD","kaki",,"female ego's mother's sister's daughter",,,"Miller2007","Inferred; NA"

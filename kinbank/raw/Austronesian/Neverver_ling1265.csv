@@ -1,147 +1,147 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,tatan,,male ego's older brother,,,Barbour2009,
-myB,tas(t)n,,male ego's younger brother,,,Barbour2009,
-feB,tatan,,female ego's older brother,,,Barbour2009,
-fyB,tas(t)n,,female ego's younger brother,,,Barbour2009,
-meZ,vivin,,male ego's older sister,,,Barbour2009,
-myZ,vivin,,male ego's younger sister,,,Barbour2009,
-feZ,vivin,,female ego's older sister,,,Barbour2009,
-fyZ,vivin,,female ego's younger sister,,,Barbour2009,
-mF,mama,,male ego's father,,,Barbour2009,
-mM,nida,,male ego's mother,,,Barbour2009,
-fF,mama,,female ego's father,,,Barbour2009,
-fM,nida,,female ego's mother,,,Barbour2009,
-mS,nimkhut,,male ego's son,,,Barbour2009,
-fS,nimkhut,,female ego's son,,,Barbour2009,
-mD,nivin,,male ego's daughter,,,Barbour2009,
-fD,nivin,,female ego's daughter,,,Barbour2009,
-mSS,nakhabbun,,male ego's son's son,,,Barbour2009,
-mSD,nakhabbun,,male ego's son's daughter,,,Barbour2009,
-mDS,nakhabbun,,male ego's daughter's son,,,Barbour2009,
-mDD,nakhabbun,,male ego's daughter's daughter,,,Barbour2009,
-fSS,nakhabbun,,female ego's son's son,,,Barbour2009,
-fSD,nakhabbun,,female ego's son's daughter,,,Barbour2009,
-fDS,nakhabbun,,female ego's daughter's son,,,Barbour2009,
-fDD,nakhabbun,,female ego's daugher's daughter,,,Barbour2009,
-mFF,bbubbu,,male ego's father‘s father,,,Barbour2009,
-mFM,nibbua,,male ego's father's mother,,,Barbour2009,
-mMF,bbubbu,,male ego's mother's father,,,Barbour2009,
-mMM,nibbua,,male ego's mother's mother,,,Barbour2009,
-fFF,bbubbu,,female ego's father's father,,,Barbour2009,
-fFM,nibbua,,female ego's father's mother,,,Barbour2009,
-fMF,bbubbu,,female ego's mother's father,,,Barbour2009,
-fMM,nibbua,,female ego's mother's mother,,,Barbour2009,
-meBS,khalan,,male ego's older brother's son,,,Barbour2009,
-myBS,khalan,,male ego's younger brother's son,,,Barbour2009,
-meZS,khalan,,male ego's older sister's son,,,Barbour2009,
-myZS,khalan,,male ego's younger sister's son,,,Barbour2009,
-feBS,khalan,,female ego's older brother's son,,,Barbour2009,
-fyBS,khalan,,female ego's younger brother's son,,,Barbour2009,
-feZS,khalan,,female ego's older sister's son,,,Barbour2009,
-fyZS,khalan,,female ego's younger sister's son,,,Barbour2009,
-mFeB,mama tokhtokh,,male ego's father's older brother,,,Barbour2009,
-mFyB,mama lele,,male ego's father's younger brother,,,Barbour2009,
-mFeZ,nida tokhtokh,,male ego's father's older sister,,,Barbour2009,
-mFyZ,nida lele,,male ego's father's younger sister,,,Barbour2009,
-mMeB,bibi tokhtokh,,male ego's mother's older brother,,,Barbour2009,
-mMyB,bibi lele,,male ego's mother's younger brother,,,Barbour2009,
-mMeZ,nida tokhtokh,,male ego's mother's older sister,,,Barbour2009,
-mMyZ,nida lele,,male ego's mother's younger sister,,,Barbour2009,
-fFeB,mama tokhtokh,,female ego's father's older brother,,,Barbour2009,
-fFyB,mama lele,,female ego's father's younger brother,,,Barbour2009,
-fFeZ,nida tokhtokh,,female ego's father's older sister,,,Barbour2009,
-fFyZ,nida lele,,female ego's father's younger sister,,,Barbour2009,
-fMeB,bibi tokhtokh,,female ego's mother's older brother,,,Barbour2009,
-fMyB,bibi lele,,female ego's mother's younger brother,,,Barbour2009,
-fMeZ,nida tokhtokh,,female ego's mother's older sister,,,Barbour2009,
-fMyZ,nida lele,,female ego's mother's younger sister,,,Barbour2009,
-mW,nimokhmokh,,male ego's wife,,,Barbour2009,
-fH,khavut,,female ego‘s husband,,,Barbour2009,
-mWB,nelakh,,male ego's wife's brother,,,Barbour2009,
-mWZ,nivilakh,,male ego's wife's sister,,,Barbour2009,
-fHB,nelakh,,female ego's husband's brother,,,Barbour2009,
-fHZ,nivilakh,,female ego's husband's sister,,,Barbour2009,
-mBW,nivilakh,,male ego's brother's wife,,,Barbour2009,
-fBW,nivilakh,,female ego's brother's wife,,,Barbour2009,
-mZH,nelakh,,male ego's sister's husband,,,Barbour2009,
-fZH,nelakh,,female ego's sister's husband,,,Barbour2009,
-mFBS,salan,,male ego's father's brother's son,,,Barbour2009,
-mFZS,mama,,male ego's father's sister's son,,,Barbour2009,
-mMBS,salan,,male ego's mother's brother's son,,,Barbour2009,
-mMZS,salan,,male ego's mother's sister's son,,,Barbour2009,
-mFBD,salan,,male ego's father's brother's daughter,,,Barbour2009,
-mFZD,nida,,male ego's father's sister's daughter,,,Barbour2009,
-mMBD,salan,,male ego's mother's brother's daughter,,,Barbour2009,
-mMZD,salan,,male ego's mother's sister's daughter,,,Barbour2009,
-fFBS,salan,,female ego's father's brother's son,,,Barbour2009,
-fFZS,mama,,female ego's father's sister's son,,,Barbour2009,
-fMBS,salan,,female ego's mother's brother's son,,,Barbour2009,
-fMZS,salan,,female ego's mother's sister's son,,,Barbour2009,
-fFBD,salan,,female ego's father's brother's daughter,,,Barbour2009,
-fFZD,nida,,female ego's father's sister's daughter,,,Barbour2009,
-fMBD,salan,,female ego's mother's brother's daughter,,,Barbour2009,
-fMZD,salan,,female ego's mother's sister's daughter,,,Barbour2009,
-mFeBS,salan,,male ego's father's brother's son,,,Barbour2009,Inferred; NA
-mFyBS,salan,,male ego's father's brother's son,,,Barbour2009,Inferred; NA
-mFeZS,mama,,male ego's father's sister's son,,,Barbour2009,Inferred; NA
-mFyZS,mama,,male ego's father's sister's son,,,Barbour2009,Inferred; NA
-mFeBD,salan,,male ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-mFyBD,salan,,male ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-mFeZD,nida,,male ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-mFyZD,nida,,male ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-mMeBS,salan,,male ego's mother's brother's son,,,Barbour2009,Inferred; NA
-mMyBS,salan,,male ego's mother's brother's son,,,Barbour2009,Inferred; NA
-mMeZS,salan,,male ego's mother's sister's son,,,Barbour2009,Inferred; NA
-mMyZS,salan,,male ego's mother's sister's son,,,Barbour2009,Inferred; NA
-mMeBD,salan,,male ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-mMyBD,salan,,male ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-mMeZD,salan,,male ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-mMyZD,salan,,male ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-mFBeS,salan,,male ego's father's brother's son,,,Barbour2009,Inferred; NA
-mFByS,salan,,male ego's father's brother's son,,,Barbour2009,Inferred; NA
-mFZeS,mama,,male ego's father's sister's son,,,Barbour2009,Inferred; NA
-mFZyS,mama,,male ego's father's sister's son,,,Barbour2009,Inferred; NA
-mFBeD,salan,,male ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-mFByD,salan,,male ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-mFZeD,nida,,male ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-mFZyD,nida,,male ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-mMBeS,salan,,male ego's mother's brother's son,,,Barbour2009,Inferred; NA
-mMByS,salan,,male ego's mother's brother's son,,,Barbour2009,Inferred; NA
-mMZeS,salan,,male ego's mother's sister's son,,,Barbour2009,Inferred; NA
-mMZyS,salan,,male ego's mother's sister's son,,,Barbour2009,Inferred; NA
-mMBeD,salan,,male ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-mMByD,salan,,male ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-mMZeD,salan,,male ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-mMZyD,salan,,male ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-fFeBS,salan,,female ego's father's brother's son,,,Barbour2009,Inferred; NA
-fFyBS,salan,,female ego's father's brother's son,,,Barbour2009,Inferred; NA
-fFeZS,mama,,female ego's father's sister's son,,,Barbour2009,Inferred; NA
-fFyZS,mama,,female ego's father's sister's son,,,Barbour2009,Inferred; NA
-fFeBD,salan,,female ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-fFyBD,salan,,female ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-fFeZD,nida,,female ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-fFyZD,nida,,female ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-fMeBS,salan,,female ego's mother's brother's son,,,Barbour2009,Inferred; NA
-fMyBS,salan,,female ego's mother's brother's son,,,Barbour2009,Inferred; NA
-fMeZS,salan,,female ego's mother's sister's son,,,Barbour2009,Inferred; NA
-fMyZS,salan,,female ego's mother's sister's son,,,Barbour2009,Inferred; NA
-fMeBD,salan,,female ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-fMyBD,salan,,female ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-fMeZD,salan,,female ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-fMyZD,salan,,female ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-fFBeS,salan,,female ego's father's brother's son,,,Barbour2009,Inferred; NA
-fFByS,salan,,female ego's father's brother's son,,,Barbour2009,Inferred; NA
-fFZeS,mama,,female ego's father's sister's son,,,Barbour2009,Inferred; NA
-fFZyS,mama,,female ego's father's sister's son,,,Barbour2009,Inferred; NA
-fFBeD,salan,,female ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-fFByD,salan,,female ego's father's brother's daughter,,,Barbour2009,Inferred; NA
-fFZeD,nida,,female ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-fFZyD,nida,,female ego's father's sister's daughter,,,Barbour2009,Inferred; NA
-fMBeS,salan,,female ego's mother's brother's son,,,Barbour2009,Inferred; NA
-fMByS,salan,,female ego's mother's brother's son,,,Barbour2009,Inferred; NA
-fMZeS,salan,,female ego's mother's sister's son,,,Barbour2009,Inferred; NA
-fMZyS,salan,,female ego's mother's sister's son,,,Barbour2009,Inferred; NA
-fMBeD,salan,,female ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-fMByD,salan,,female ego's mother's brother's daughter,,,Barbour2009,Inferred; NA
-fMZeD,salan,,female ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
-fMZyD,salan,,female ego's mother's sister's daughter,,,Barbour2009,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","tatan",,"male ego's older brother",,,"Barbour2009",""
+"myB","tas(t)n",,"male ego's younger brother",,,"Barbour2009",""
+"feB","tatan",,"female ego's older brother",,,"Barbour2009",""
+"fyB","tas(t)n",,"female ego's younger brother",,,"Barbour2009",""
+"meZ","vivin",,"male ego's older sister",,,"Barbour2009",""
+"myZ","vivin",,"male ego's younger sister",,,"Barbour2009",""
+"feZ","vivin",,"female ego's older sister",,,"Barbour2009",""
+"fyZ","vivin",,"female ego's younger sister",,,"Barbour2009",""
+"mF","mama",,"male ego's father",,,"Barbour2009",""
+"mM","nida",,"male ego's mother",,,"Barbour2009",""
+"fF","mama",,"female ego's father",,,"Barbour2009",""
+"fM","nida",,"female ego's mother",,,"Barbour2009",""
+"mS","nimkhut",,"male ego's son",,,"Barbour2009",""
+"fS","nimkhut",,"female ego's son",,,"Barbour2009",""
+"mD","nivin",,"male ego's daughter",,,"Barbour2009",""
+"fD","nivin",,"female ego's daughter",,,"Barbour2009",""
+"mSS","nakhabbun",,"male ego's son's son",,,"Barbour2009",""
+"mSD","nakhabbun",,"male ego's son's daughter",,,"Barbour2009",""
+"mDS","nakhabbun",,"male ego's daughter's son",,,"Barbour2009",""
+"mDD","nakhabbun",,"male ego's daughter's daughter",,,"Barbour2009",""
+"fSS","nakhabbun",,"female ego's son's son",,,"Barbour2009",""
+"fSD","nakhabbun",,"female ego's son's daughter",,,"Barbour2009",""
+"fDS","nakhabbun",,"female ego's daughter's son",,,"Barbour2009",""
+"fDD","nakhabbun",,"female ego's daugher's daughter",,,"Barbour2009",""
+"mFF","bbubbu",,"male ego's father‘s father",,,"Barbour2009",""
+"mFM","nibbua",,"male ego's father's mother",,,"Barbour2009",""
+"mMF","bbubbu",,"male ego's mother's father",,,"Barbour2009",""
+"mMM","nibbua",,"male ego's mother's mother",,,"Barbour2009",""
+"fFF","bbubbu",,"female ego's father's father",,,"Barbour2009",""
+"fFM","nibbua",,"female ego's father's mother",,,"Barbour2009",""
+"fMF","bbubbu",,"female ego's mother's father",,,"Barbour2009",""
+"fMM","nibbua",,"female ego's mother's mother",,,"Barbour2009",""
+"meBS","khalan",,"male ego's older brother's son",,,"Barbour2009",""
+"myBS","khalan",,"male ego's younger brother's son",,,"Barbour2009",""
+"meZS","khalan",,"male ego's older sister's son",,,"Barbour2009",""
+"myZS","khalan",,"male ego's younger sister's son",,,"Barbour2009",""
+"feBS","khalan",,"female ego's older brother's son",,,"Barbour2009",""
+"fyBS","khalan",,"female ego's younger brother's son",,,"Barbour2009",""
+"feZS","khalan",,"female ego's older sister's son",,,"Barbour2009",""
+"fyZS","khalan",,"female ego's younger sister's son",,,"Barbour2009",""
+"mFeB","mama tokhtokh",,"male ego's father's older brother",,,"Barbour2009",""
+"mFyB","mama lele",,"male ego's father's younger brother",,,"Barbour2009",""
+"mFeZ","nida tokhtokh",,"male ego's father's older sister",,,"Barbour2009",""
+"mFyZ","nida lele",,"male ego's father's younger sister",,,"Barbour2009",""
+"mMeB","bibi tokhtokh",,"male ego's mother's older brother",,,"Barbour2009",""
+"mMyB","bibi lele",,"male ego's mother's younger brother",,,"Barbour2009",""
+"mMeZ","nida tokhtokh",,"male ego's mother's older sister",,,"Barbour2009",""
+"mMyZ","nida lele",,"male ego's mother's younger sister",,,"Barbour2009",""
+"fFeB","mama tokhtokh",,"female ego's father's older brother",,,"Barbour2009",""
+"fFyB","mama lele",,"female ego's father's younger brother",,,"Barbour2009",""
+"fFeZ","nida tokhtokh",,"female ego's father's older sister",,,"Barbour2009",""
+"fFyZ","nida lele",,"female ego's father's younger sister",,,"Barbour2009",""
+"fMeB","bibi tokhtokh",,"female ego's mother's older brother",,,"Barbour2009",""
+"fMyB","bibi lele",,"female ego's mother's younger brother",,,"Barbour2009",""
+"fMeZ","nida tokhtokh",,"female ego's mother's older sister",,,"Barbour2009",""
+"fMyZ","nida lele",,"female ego's mother's younger sister",,,"Barbour2009",""
+"mW","nimokhmokh",,"male ego's wife",,,"Barbour2009",""
+"fH","khavut",,"female ego‘s husband",,,"Barbour2009",""
+"mWB","nelakh",,"male ego's wife's brother",,,"Barbour2009",""
+"mWZ","nivilakh",,"male ego's wife's sister",,,"Barbour2009",""
+"fHB","nelakh",,"female ego's husband's brother",,,"Barbour2009",""
+"fHZ","nivilakh",,"female ego's husband's sister",,,"Barbour2009",""
+"mBW","nivilakh",,"male ego's brother's wife",,,"Barbour2009",""
+"fBW","nivilakh",,"female ego's brother's wife",,,"Barbour2009",""
+"mZH","nelakh",,"male ego's sister's husband",,,"Barbour2009",""
+"fZH","nelakh",,"female ego's sister's husband",,,"Barbour2009",""
+"mFBS","salan",,"male ego's father's brother's son",,,"Barbour2009",""
+"mFZS","mama",,"male ego's father's sister's son",,,"Barbour2009",""
+"mMBS","salan",,"male ego's mother's brother's son",,,"Barbour2009",""
+"mMZS","salan",,"male ego's mother's sister's son",,,"Barbour2009",""
+"mFBD","salan",,"male ego's father's brother's daughter",,,"Barbour2009",""
+"mFZD","nida",,"male ego's father's sister's daughter",,,"Barbour2009",""
+"mMBD","salan",,"male ego's mother's brother's daughter",,,"Barbour2009",""
+"mMZD","salan",,"male ego's mother's sister's daughter",,,"Barbour2009",""
+"fFBS","salan",,"female ego's father's brother's son",,,"Barbour2009",""
+"fFZS","mama",,"female ego's father's sister's son",,,"Barbour2009",""
+"fMBS","salan",,"female ego's mother's brother's son",,,"Barbour2009",""
+"fMZS","salan",,"female ego's mother's sister's son",,,"Barbour2009",""
+"fFBD","salan",,"female ego's father's brother's daughter",,,"Barbour2009",""
+"fFZD","nida",,"female ego's father's sister's daughter",,,"Barbour2009",""
+"fMBD","salan",,"female ego's mother's brother's daughter",,,"Barbour2009",""
+"fMZD","salan",,"female ego's mother's sister's daughter",,,"Barbour2009",""
+"mFeBS","salan",,"male ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"mFyBS","salan",,"male ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"mFeZS","mama",,"male ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"mFyZS","mama",,"male ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"mFeBD","salan",,"male ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mFyBD","salan",,"male ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mFeZD","nida",,"male ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mFyZD","nida",,"male ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mMeBS","salan",,"male ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"mMyBS","salan",,"male ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"mMeZS","salan",,"male ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"mMyZS","salan",,"male ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"mMeBD","salan",,"male ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mMyBD","salan",,"male ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mMeZD","salan",,"male ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mMyZD","salan",,"male ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mFBeS","salan",,"male ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"mFByS","salan",,"male ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"mFZeS","mama",,"male ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"mFZyS","mama",,"male ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"mFBeD","salan",,"male ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mFByD","salan",,"male ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mFZeD","nida",,"male ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mFZyD","nida",,"male ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mMBeS","salan",,"male ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"mMByS","salan",,"male ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"mMZeS","salan",,"male ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"mMZyS","salan",,"male ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"mMBeD","salan",,"male ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mMByD","salan",,"male ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"mMZeD","salan",,"male ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"mMZyD","salan",,"male ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fFeBS","salan",,"female ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"fFyBS","salan",,"female ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"fFeZS","mama",,"female ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"fFyZS","mama",,"female ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"fFeBD","salan",,"female ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fFyBD","salan",,"female ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fFeZD","nida",,"female ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fFyZD","nida",,"female ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fMeBS","salan",,"female ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"fMyBS","salan",,"female ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"fMeZS","salan",,"female ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"fMyZS","salan",,"female ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"fMeBD","salan",,"female ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fMyBD","salan",,"female ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fMeZD","salan",,"female ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fMyZD","salan",,"female ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fFBeS","salan",,"female ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"fFByS","salan",,"female ego's father's brother's son",,,"Barbour2009","Inferred; NA"
+"fFZeS","mama",,"female ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"fFZyS","mama",,"female ego's father's sister's son",,,"Barbour2009","Inferred; NA"
+"fFBeD","salan",,"female ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fFByD","salan",,"female ego's father's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fFZeD","nida",,"female ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fFZyD","nida",,"female ego's father's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fMBeS","salan",,"female ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"fMByS","salan",,"female ego's mother's brother's son",,,"Barbour2009","Inferred; NA"
+"fMZeS","salan",,"female ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"fMZyS","salan",,"female ego's mother's sister's son",,,"Barbour2009","Inferred; NA"
+"fMBeD","salan",,"female ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fMByD","salan",,"female ego's mother's brother's daughter",,,"Barbour2009","Inferred; NA"
+"fMZeD","salan",,"female ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"
+"fMZyD","salan",,"female ego's mother's sister's daughter",,,"Barbour2009","Inferred; NA"

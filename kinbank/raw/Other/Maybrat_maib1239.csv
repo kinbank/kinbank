@@ -1,151 +1,151 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,t-ao,,male ego's older brother,,,Dol1999,
-myB,t-ao,,male ego's younger brother,,,Dol1999,
-feB,t-ano,,female ego's older brother,,,Dol1999,
-fyB,t-ano,,female ego's younger brother,,,Dol1999,
-meZ,t-ano,,male ego's older sister,,,Dol1999,
-myZ,t-ano,,male ego's younger sister,,,Dol1999,
-feZ,t-ao,,female ego's older sister,,,Dol1999,
-fyZ,t-ao,,female ego's younger sister,,,Dol1999,
-mF,t-atia,,male ego's father,,,Dol1999,
-mM,t-me,,male ego's mother,,,Dol1999,
-fF,t-atia,,female ego's father,,,Dol1999,
-fM,t-me,,female ego's mother,,,Dol1999,
-mS,t-are,,male ego's son,,,Dol1999,
-fS,t-akut,,female ego's son,,,Dol1999,
-mD,t-are,,male ego's daughter,,,Dol1999,
-fD,t-fain,,female ego's daughter,,,Dol1999,
-mFF,t-atat,,male ego's father‘s father,,,Dol1999,
-mFM,t-atat,,male ego's father's mother,,,Dol1999,
-mMF,t-atat,,male ego's mother's father,,,Dol1999,
-mMM,t-atat,,male ego's mother's mother,,,Dol1999,
-fFF,t-atat,,female ego's father's father,,,Dol1999,
-fFM,t-atat,,female ego's father's mother,,,Dol1999,
-fMF,t-atat,,female ego's mother's father,,,Dol1999,
-fMM,t-atat,,female ego's mother's mother,,,Dol1999,
-meBS,t-are,,male ego's older brother's son,,,Dol1999,
-myBS,t-are,,male ego's younger brother's son,,,Dol1999,
-meZS,t-amu,,male ego's older sister's son,,,Dol1999,
-myZS,t-amu,,male ego's younger sister's son,,,Dol1999,
-meBD,t-are,,male ego's older brother's daughter,,,Dol1999,
-myBD,t-are,,male ego's younger brother's daughter,,,Dol1999,
-meZD,t-amu,,male ego's older sister's daughter,,,Dol1999,
-myZD,t-amu,,male ego's younger sister's daughter,,,Dol1999,
-feBS,t-are,,female ego's older brother's son,,,Dol1999,
-fyBS,t-are,,female ego's younger brother's son,,,Dol1999,
-feZS,t-akut,,female ego's older sister's son,,,Dol1999,
-fyZS,t-akut,,female ego's younger sister's son,,,Dol1999,
-feBD,t-are,,female ego's older brother's daughter,,,Dol1999,
-fyBD,t-are,,female ego's younger brother's daughter,,,Dol1999,
-feZD,t-aku,,female ego's older sister's daughter,,,Dol1999,
-fyZD,t-aku,,female ego's younger sister's daughter,,,Dol1999,
-mFeB,t-atia,,male ego's father's older brother,,,Dol1999,
-mFyB,t-atia,,male ego's father's younger brother,,,Dol1999,
-mFeZ,t-ati,,male ego's father's older sister,,,Dol1999,
-mFyZ,t-ati,,male ego's father's younger sister,,,Dol1999,
-mMeB,t-amu,,male ego's mother's older brother,,,Dol1999,
-mMyB,t-amu,,male ego's mother's younger brother,,,Dol1999,
-mMeZ,t-me,,male ego's mother's older sister,,,Dol1999,
-mMyZ,t-me,,male ego's mother's younger sister,,,Dol1999,
-fFeB,t-atia,,female ego's father's older brother,,,Dol1999,
-fFyB,t-atia,,female ego's father's younger brother,,,Dol1999,
-fFeZ,t-ati,,female ego's father's older sister,,,Dol1999,
-fFyZ,t-ati,,female ego's father's younger sister,,,Dol1999,
-fMeB,t-amu,,female ego's mother's older brother,,,Dol1999,
-fMyB,t-amu,,female ego's mother's younger brother,,,Dol1999,
-fMeZ,t-me,,female ego's mother's older sister,,,Dol1999,
-fMyZ,t-me,,female ego's mother's younger sister,,,Dol1999,
-mW,t-fain,,male ego's wife,,,Dol1999,
-fH,t-fain,,female ego‘s husband,,,Dol1999,
-mWF,t-amu,,male ego's wife's father,,,Dol1999,
-mWM,t-ati,,male ego's wife's mother,,,Dol1999,
-mWB,ø-tmo,,male ego's wife's brother,,,Dol1999,
-mWZ,ø-sayuoh,,male ego's wife's sister,,,Dol1999,
-fHF,t-amu,,female ego's husband's father,,,Dol1999,
-fHM,t-ati,,female ego's husband's mother,,,Dol1999,
-fHB,t-atia,,female ego's husband's brother,,,Dol1999,
-fHZ,t-aun,,female ego's husband's sister,,,Dol1999,
-mBW,t-me,,male ego's brother's wife,,,Dol1999,
-fBW,t-aun,,female ego's brother's wife,,,Dol1999,
-mZH,ø-snien,,male ego's sister's husband,,,Dol1999,
-fZH,t-atia,,female ego's sister's husband,,,Dol1999,
-mFBS,t-ao,,male ego's father's brother's son,,,Dol1999,
-mFZS,ø-tmo,,male ego's father's sister's son,,,Dol1999,
-mMBS,ø-tmo,,male ego's mother's brother's son,,,Dol1999,
-mMZS,t-ao,,male ego's mother's sister's son,,,Dol1999,
-mFBD,t-ano,,male ego's father's brother's daughter,,,Dol1999,
-mFZD,ø-sayuoh,,male ego's father's sister's daughter,,,Dol1999,
-mMBD,ø-sayuoh,,male ego's mother's brother's daughter,,,Dol1999,
-mMZD,t-ano,,male ego's mother's sister's daughter,,,Dol1999,
-fFBS,t-ano,,female ego's father's brother's son,,,Dol1999,
-fFZS,t-ara,,female ego's father's sister's son,,,Dol1999,
-fMBS,t-ara,,female ego's mother's brother's son,,,Dol1999,
-fMZS,t-ano,,female ego's mother's sister's son,,,Dol1999,
-fFBD,t-ao,,female ego's father's brother's daughter,,,Dol1999,
-fFZD,ø-tmo,,female ego's father's sister's daughter,,,Dol1999,
-fMBD,ø-tmo,,female ego's mother's brother's daughter,,,Dol1999,
-fMZD,t-ao,,female ego's mother's sister's daughter,,,Dol1999,
-mFeBS,t-ao,,male ego's father's brother's son,,,Dol1999,Inferred; NA
-mFyBS,t-ao,,male ego's father's brother's son,,,Dol1999,Inferred; NA
-mFeZS,ø-tmo,,male ego's father's sister's son,,,Dol1999,Inferred; NA
-mFyZS,ø-tmo,,male ego's father's sister's son,,,Dol1999,Inferred; NA
-mFeBD,t-ano,,male ego's father's brother's daughter,,,Dol1999,Inferred; NA
-mFyBD,t-ano,,male ego's father's brother's daughter,,,Dol1999,Inferred; NA
-mFeZD,ø-sayuoh,,male ego's father's sister's daughter,,,Dol1999,Inferred; NA
-mFyZD,ø-sayuoh,,male ego's father's sister's daughter,,,Dol1999,Inferred; NA
-mMeBS,ø-tmo,,male ego's mother's brother's son,,,Dol1999,Inferred; NA
-mMyBS,ø-tmo,,male ego's mother's brother's son,,,Dol1999,Inferred; NA
-mMeZS,t-ao,,male ego's mother's sister's son,,,Dol1999,Inferred; NA
-mMyZS,t-ao,,male ego's mother's sister's son,,,Dol1999,Inferred; NA
-mMeBD,ø-sayuoh,,male ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-mMyBD,ø-sayuoh,,male ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-mMeZD,t-ano,,male ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-mMyZD,t-ano,,male ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-mFBeS,t-ao,,male ego's father's brother's son,,,Dol1999,Inferred; NA
-mFByS,t-ao,,male ego's father's brother's son,,,Dol1999,Inferred; NA
-mFZeS,ø-tmo,,male ego's father's sister's son,,,Dol1999,Inferred; NA
-mFZyS,ø-tmo,,male ego's father's sister's son,,,Dol1999,Inferred; NA
-mFBeD,t-ano,,male ego's father's brother's daughter,,,Dol1999,Inferred; NA
-mFByD,t-ano,,male ego's father's brother's daughter,,,Dol1999,Inferred; NA
-mFZeD,ø-sayuoh,,male ego's father's sister's daughter,,,Dol1999,Inferred; NA
-mFZyD,ø-sayuoh,,male ego's father's sister's daughter,,,Dol1999,Inferred; NA
-mMBeS,ø-tmo,,male ego's mother's brother's son,,,Dol1999,Inferred; NA
-mMByS,ø-tmo,,male ego's mother's brother's son,,,Dol1999,Inferred; NA
-mMZeS,t-ao,,male ego's mother's sister's son,,,Dol1999,Inferred; NA
-mMZyS,t-ao,,male ego's mother's sister's son,,,Dol1999,Inferred; NA
-mMBeD,ø-sayuoh,,male ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-mMByD,ø-sayuoh,,male ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-mMZeD,t-ano,,male ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-mMZyD,t-ano,,male ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-fFeBS,t-ano,,female ego's father's brother's son,,,Dol1999,Inferred; NA
-fFyBS,t-ano,,female ego's father's brother's son,,,Dol1999,Inferred; NA
-fFeZS,t-ara,,female ego's father's sister's son,,,Dol1999,Inferred; NA
-fFyZS,t-ara,,female ego's father's sister's son,,,Dol1999,Inferred; NA
-fFeBD,t-ao,,female ego's father's brother's daughter,,,Dol1999,Inferred; NA
-fFyBD,t-ao,,female ego's father's brother's daughter,,,Dol1999,Inferred; NA
-fFeZD,ø-tmo,,female ego's father's sister's daughter,,,Dol1999,Inferred; NA
-fFyZD,ø-tmo,,female ego's father's sister's daughter,,,Dol1999,Inferred; NA
-fMeBS,t-ara,,female ego's mother's brother's son,,,Dol1999,Inferred; NA
-fMyBS,t-ara,,female ego's mother's brother's son,,,Dol1999,Inferred; NA
-fMeZS,t-ano,,female ego's mother's sister's son,,,Dol1999,Inferred; NA
-fMyZS,t-ano,,female ego's mother's sister's son,,,Dol1999,Inferred; NA
-fMeBD,ø-tmo,,female ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-fMyBD,ø-tmo,,female ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-fMeZD,t-ao,,female ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-fMyZD,t-ao,,female ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-fFBeS,t-ano,,female ego's father's brother's son,,,Dol1999,Inferred; NA
-fFByS,t-ano,,female ego's father's brother's son,,,Dol1999,Inferred; NA
-fFZeS,t-ara,,female ego's father's sister's son,,,Dol1999,Inferred; NA
-fFZyS,t-ara,,female ego's father's sister's son,,,Dol1999,Inferred; NA
-fFBeD,t-ao,,female ego's father's brother's daughter,,,Dol1999,Inferred; NA
-fFByD,t-ao,,female ego's father's brother's daughter,,,Dol1999,Inferred; NA
-fFZeD,ø-tmo,,female ego's father's sister's daughter,,,Dol1999,Inferred; NA
-fFZyD,ø-tmo,,female ego's father's sister's daughter,,,Dol1999,Inferred; NA
-fMBeS,t-ara,,female ego's mother's brother's son,,,Dol1999,Inferred; NA
-fMByS,t-ara,,female ego's mother's brother's son,,,Dol1999,Inferred; NA
-fMZeS,t-ano,,female ego's mother's sister's son,,,Dol1999,Inferred; NA
-fMZyS,t-ano,,female ego's mother's sister's son,,,Dol1999,Inferred; NA
-fMBeD,ø-tmo,,female ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-fMByD,ø-tmo,,female ego's mother's brother's daughter,,,Dol1999,Inferred; NA
-fMZeD,t-ao,,female ego's mother's sister's daughter,,,Dol1999,Inferred; NA
-fMZyD,t-ao,,female ego's mother's sister's daughter,,,Dol1999,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","t-ao",,"male ego's older brother",,,"Dol1999",""
+"myB","t-ao",,"male ego's younger brother",,,"Dol1999",""
+"feB","t-ano",,"female ego's older brother",,,"Dol1999",""
+"fyB","t-ano",,"female ego's younger brother",,,"Dol1999",""
+"meZ","t-ano",,"male ego's older sister",,,"Dol1999",""
+"myZ","t-ano",,"male ego's younger sister",,,"Dol1999",""
+"feZ","t-ao",,"female ego's older sister",,,"Dol1999",""
+"fyZ","t-ao",,"female ego's younger sister",,,"Dol1999",""
+"mF","t-atia",,"male ego's father",,,"Dol1999",""
+"mM","t-me",,"male ego's mother",,,"Dol1999",""
+"fF","t-atia",,"female ego's father",,,"Dol1999",""
+"fM","t-me",,"female ego's mother",,,"Dol1999",""
+"mS","t-are",,"male ego's son",,,"Dol1999",""
+"fS","t-akut",,"female ego's son",,,"Dol1999",""
+"mD","t-are",,"male ego's daughter",,,"Dol1999",""
+"fD","t-fain",,"female ego's daughter",,,"Dol1999",""
+"mFF","t-atat",,"male ego's father‘s father",,,"Dol1999",""
+"mFM","t-atat",,"male ego's father's mother",,,"Dol1999",""
+"mMF","t-atat",,"male ego's mother's father",,,"Dol1999",""
+"mMM","t-atat",,"male ego's mother's mother",,,"Dol1999",""
+"fFF","t-atat",,"female ego's father's father",,,"Dol1999",""
+"fFM","t-atat",,"female ego's father's mother",,,"Dol1999",""
+"fMF","t-atat",,"female ego's mother's father",,,"Dol1999",""
+"fMM","t-atat",,"female ego's mother's mother",,,"Dol1999",""
+"meBS","t-are",,"male ego's older brother's son",,,"Dol1999",""
+"myBS","t-are",,"male ego's younger brother's son",,,"Dol1999",""
+"meZS","t-amu",,"male ego's older sister's son",,,"Dol1999",""
+"myZS","t-amu",,"male ego's younger sister's son",,,"Dol1999",""
+"meBD","t-are",,"male ego's older brother's daughter",,,"Dol1999",""
+"myBD","t-are",,"male ego's younger brother's daughter",,,"Dol1999",""
+"meZD","t-amu",,"male ego's older sister's daughter",,,"Dol1999",""
+"myZD","t-amu",,"male ego's younger sister's daughter",,,"Dol1999",""
+"feBS","t-are",,"female ego's older brother's son",,,"Dol1999",""
+"fyBS","t-are",,"female ego's younger brother's son",,,"Dol1999",""
+"feZS","t-akut",,"female ego's older sister's son",,,"Dol1999",""
+"fyZS","t-akut",,"female ego's younger sister's son",,,"Dol1999",""
+"feBD","t-are",,"female ego's older brother's daughter",,,"Dol1999",""
+"fyBD","t-are",,"female ego's younger brother's daughter",,,"Dol1999",""
+"feZD","t-aku",,"female ego's older sister's daughter",,,"Dol1999",""
+"fyZD","t-aku",,"female ego's younger sister's daughter",,,"Dol1999",""
+"mFeB","t-atia",,"male ego's father's older brother",,,"Dol1999",""
+"mFyB","t-atia",,"male ego's father's younger brother",,,"Dol1999",""
+"mFeZ","t-ati",,"male ego's father's older sister",,,"Dol1999",""
+"mFyZ","t-ati",,"male ego's father's younger sister",,,"Dol1999",""
+"mMeB","t-amu",,"male ego's mother's older brother",,,"Dol1999",""
+"mMyB","t-amu",,"male ego's mother's younger brother",,,"Dol1999",""
+"mMeZ","t-me",,"male ego's mother's older sister",,,"Dol1999",""
+"mMyZ","t-me",,"male ego's mother's younger sister",,,"Dol1999",""
+"fFeB","t-atia",,"female ego's father's older brother",,,"Dol1999",""
+"fFyB","t-atia",,"female ego's father's younger brother",,,"Dol1999",""
+"fFeZ","t-ati",,"female ego's father's older sister",,,"Dol1999",""
+"fFyZ","t-ati",,"female ego's father's younger sister",,,"Dol1999",""
+"fMeB","t-amu",,"female ego's mother's older brother",,,"Dol1999",""
+"fMyB","t-amu",,"female ego's mother's younger brother",,,"Dol1999",""
+"fMeZ","t-me",,"female ego's mother's older sister",,,"Dol1999",""
+"fMyZ","t-me",,"female ego's mother's younger sister",,,"Dol1999",""
+"mW","t-fain",,"male ego's wife",,,"Dol1999",""
+"fH","t-fain",,"female ego‘s husband",,,"Dol1999",""
+"mWF","t-amu",,"male ego's wife's father",,,"Dol1999",""
+"mWM","t-ati",,"male ego's wife's mother",,,"Dol1999",""
+"mWB","ø-tmo",,"male ego's wife's brother",,,"Dol1999",""
+"mWZ","ø-sayuoh",,"male ego's wife's sister",,,"Dol1999",""
+"fHF","t-amu",,"female ego's husband's father",,,"Dol1999",""
+"fHM","t-ati",,"female ego's husband's mother",,,"Dol1999",""
+"fHB","t-atia",,"female ego's husband's brother",,,"Dol1999",""
+"fHZ","t-aun",,"female ego's husband's sister",,,"Dol1999",""
+"mBW","t-me",,"male ego's brother's wife",,,"Dol1999",""
+"fBW","t-aun",,"female ego's brother's wife",,,"Dol1999",""
+"mZH","ø-snien",,"male ego's sister's husband",,,"Dol1999",""
+"fZH","t-atia",,"female ego's sister's husband",,,"Dol1999",""
+"mFBS","t-ao",,"male ego's father's brother's son",,,"Dol1999",""
+"mFZS","ø-tmo",,"male ego's father's sister's son",,,"Dol1999",""
+"mMBS","ø-tmo",,"male ego's mother's brother's son",,,"Dol1999",""
+"mMZS","t-ao",,"male ego's mother's sister's son",,,"Dol1999",""
+"mFBD","t-ano",,"male ego's father's brother's daughter",,,"Dol1999",""
+"mFZD","ø-sayuoh",,"male ego's father's sister's daughter",,,"Dol1999",""
+"mMBD","ø-sayuoh",,"male ego's mother's brother's daughter",,,"Dol1999",""
+"mMZD","t-ano",,"male ego's mother's sister's daughter",,,"Dol1999",""
+"fFBS","t-ano",,"female ego's father's brother's son",,,"Dol1999",""
+"fFZS","t-ara",,"female ego's father's sister's son",,,"Dol1999",""
+"fMBS","t-ara",,"female ego's mother's brother's son",,,"Dol1999",""
+"fMZS","t-ano",,"female ego's mother's sister's son",,,"Dol1999",""
+"fFBD","t-ao",,"female ego's father's brother's daughter",,,"Dol1999",""
+"fFZD","ø-tmo",,"female ego's father's sister's daughter",,,"Dol1999",""
+"fMBD","ø-tmo",,"female ego's mother's brother's daughter",,,"Dol1999",""
+"fMZD","t-ao",,"female ego's mother's sister's daughter",,,"Dol1999",""
+"mFeBS","t-ao",,"male ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"mFyBS","t-ao",,"male ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"mFeZS","ø-tmo",,"male ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"mFyZS","ø-tmo",,"male ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"mFeBD","t-ano",,"male ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"mFyBD","t-ano",,"male ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"mFeZD","ø-sayuoh",,"male ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"mFyZD","ø-sayuoh",,"male ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"mMeBS","ø-tmo",,"male ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"mMyBS","ø-tmo",,"male ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"mMeZS","t-ao",,"male ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"mMyZS","t-ao",,"male ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"mMeBD","ø-sayuoh",,"male ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"mMyBD","ø-sayuoh",,"male ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"mMeZD","t-ano",,"male ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"mMyZD","t-ano",,"male ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"mFBeS","t-ao",,"male ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"mFByS","t-ao",,"male ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"mFZeS","ø-tmo",,"male ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"mFZyS","ø-tmo",,"male ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"mFBeD","t-ano",,"male ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"mFByD","t-ano",,"male ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"mFZeD","ø-sayuoh",,"male ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"mFZyD","ø-sayuoh",,"male ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"mMBeS","ø-tmo",,"male ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"mMByS","ø-tmo",,"male ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"mMZeS","t-ao",,"male ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"mMZyS","t-ao",,"male ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"mMBeD","ø-sayuoh",,"male ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"mMByD","ø-sayuoh",,"male ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"mMZeD","t-ano",,"male ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"mMZyD","t-ano",,"male ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"fFeBS","t-ano",,"female ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"fFyBS","t-ano",,"female ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"fFeZS","t-ara",,"female ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"fFyZS","t-ara",,"female ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"fFeBD","t-ao",,"female ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"fFyBD","t-ao",,"female ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"fFeZD","ø-tmo",,"female ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"fFyZD","ø-tmo",,"female ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"fMeBS","t-ara",,"female ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"fMyBS","t-ara",,"female ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"fMeZS","t-ano",,"female ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"fMyZS","t-ano",,"female ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"fMeBD","ø-tmo",,"female ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"fMyBD","ø-tmo",,"female ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"fMeZD","t-ao",,"female ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"fMyZD","t-ao",,"female ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"fFBeS","t-ano",,"female ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"fFByS","t-ano",,"female ego's father's brother's son",,,"Dol1999","Inferred; NA"
+"fFZeS","t-ara",,"female ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"fFZyS","t-ara",,"female ego's father's sister's son",,,"Dol1999","Inferred; NA"
+"fFBeD","t-ao",,"female ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"fFByD","t-ao",,"female ego's father's brother's daughter",,,"Dol1999","Inferred; NA"
+"fFZeD","ø-tmo",,"female ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"fFZyD","ø-tmo",,"female ego's father's sister's daughter",,,"Dol1999","Inferred; NA"
+"fMBeS","t-ara",,"female ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"fMByS","t-ara",,"female ego's mother's brother's son",,,"Dol1999","Inferred; NA"
+"fMZeS","t-ano",,"female ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"fMZyS","t-ano",,"female ego's mother's sister's son",,,"Dol1999","Inferred; NA"
+"fMBeD","ø-tmo",,"female ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"fMByD","ø-tmo",,"female ego's mother's brother's daughter",,,"Dol1999","Inferred; NA"
+"fMZeD","t-ao",,"female ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"
+"fMZyD","t-ao",,"female ego's mother's sister's daughter",,,"Dol1999","Inferred; NA"

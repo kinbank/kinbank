@@ -1,143 +1,143 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,roha-,,male ego's older brother,,,Francois2002,
-myB,rasi-,,male ego's younger brother,,,Francois2002,
-feB,roha-,,female ego's older brother,,,Francois2002,
-fyB,rasi-,,female ego's younger brother,,,Francois2002,
-meZ,veroha-,,male ego's older sister,,,Francois2002,
-myZ,verasi-,,male ego's younger sister,,,Francois2002,
-feZ,veroha-,,female ego's older sister,,,Francois2002,
-fyZ,verasi-,,female ego's younger sister,,,Francois2002,
-mF,ta,,male ego's father,,,Francois2002,
-mM,puá,,male ego's mother,,,Francois2002,
-fF,ta,,female ego's father,,,Francois2002,
-fM,puá,,female ego's mother,,,Francois2002,
-mS,"naru-, tu-",,male ego's son,,,Francois2002,
-fS,"naru-, tu-",,female ego's son,,,Francois2002,
-mD,"venaru-, vetu-",,male ego's daughter,,,Francois2002,
-fD,"venaru-, vetu-",,female ego's daughter,,,Francois2002,
-mSS,tapu-,,male ego's son's son,,,Francois2002,
-mSD,tapu-,,male ego's son's daughter,,,Francois2002,
-mDS,tapu-,,male ego's daughter's son,,,Francois2002,
-mDD,tapu-,,male ego's daughter's daughter,,,Francois2002,
-fSS,tapu-,,female ego's son's son,,,Francois2002,
-fSD,tapu-,,female ego's son's daughter,,,Francois2002,
-fDS,tapu-,,female ego's daughter's son,,,Francois2002,
-fDD,tapu-,,female ego's daugher's daughter,,,Francois2002,
-mFF,tapu-,,male ego's father‘s father,,,Francois2002,
-mFM,tapu-,,male ego's father's mother,,,Francois2002,
-mMF,tapu-,,male ego's mother's father,,,Francois2002,
-mMM,tapu-,,male ego's mother's mother,,,Francois2002,
-fFF,tapu-,,female ego's father's father,,,Francois2002,
-fFM,tapu-,,female ego's father's mother,,,Francois2002,
-fMF,tapu-,,female ego's mother's father,,,Francois2002,
-fMM,tapu-,,female ego's mother's mother,,,Francois2002,
-meBS,"naru-, tu-",,male ego's older brother's son,,,Francois2002,
-myBS,"naru-, tu-",,male ego's younger brother's son,,,Francois2002,
-meZS,"rahura-, elua, m̈ara-",,male ego's older sister's son,,,Francois2002,
-myZS,"rahura-, elua, m̈ara-",,male ego's younger sister's son,,,Francois2002,
-meBD,"naru-, tu-",,male ego's older brother's daughter,,,Francois2002,
-myBD,"naru-, tu-",,male ego's younger brother's daughter,,,Francois2002,
-meZD,"venaru-, vetu-",,male ego's older sister's daughter,,,Francois2002,
-myZD,"venaru-, vetu-",,male ego's younger sister's daughter,,,Francois2002,
-feBS,"venaru-, vetu-",,female ego's older brother's son,,,Francois2002,
-fyBS,"venaru-, vetu-",,female ego's younger brother's son,,,Francois2002,
-feZS,"rahura-, elua, m̈ara-",,female ego's older sister's son,,,Francois2002,
-fyZS,"rahura-, elua, m̈ara-",,female ego's younger sister's son,,,Francois2002,
-feBD,naru-,,female ego's older brother's daughter,,,Francois2002,
-fyBD,naru-,,female ego's younger brother's daughter,,,Francois2002,
-feZD,"rahura-, elua, m̈ara-",,female ego's older sister's daughter,,,Francois2002,
-fyZD,"rahura-, elua, m̈ara-",,female ego's younger sister's daughter,,,Francois2002,
-mFeB,ta,,male ego's father's older brother,,,Francois2002,
-mFyB,ta,,male ego's father's younger brother,,,Francois2002,
-mFeZ,tetei-,,male ego's father's older sister,,,Francois2002,
-mFyZ,tetei-,,male ego's father's younger sister,,,Francois2002,
-mMeB,"lala, rahura-, elua-, m̈ara-",,male ego's mother's older brother,,,Francois2002,
-mMyB,"lala, rahura-, elua-, m̈ara-",,male ego's mother's younger brother,,,Francois2002,
-mMeZ,puá,,male ego's mother's older sister,,,Francois2002,
-mMyZ,puá,,male ego's mother's younger sister,,,Francois2002,
-fFeB,ta,,female ego's father's older brother,,,Francois2002,
-fFyB,ta,,female ego's father's younger brother,,,Francois2002,
-fFeZ,tetei-,,female ego's father's older sister,,,Francois2002,
-fFyZ,tetei-,,female ego's father's younger sister,,,Francois2002,
-fMeB,"lala, rahura-, elua-, m̈ara-",,female ego's mother's older brother,,,Francois2002,
-fMyB,"lala, rahura-, elua-, m̈ara-",,female ego's mother's younger brother,,,Francois2002,
-fMeZ,puá,,female ego's mother's older sister,,,Francois2002,
-fMyZ,puá,,female ego's mother's younger sister,,,Francois2002,
-mW,naivou-,,male ego's wife,,,Francois2002,
-fH,rua-,,female ego‘s husband,,,Francois2002,
-mDH,paliha-,,male ego's daughter's husband,,,Francois2002,
-fDH,paliha-,,female ego's daughter's husband,,,Francois2002,
-mSW,tapu-,,male ego's son's wife,,,Francois2002,
-fSW,tapu-,,female ego's son's wife,,,Francois2002,
-mWF,paliha-,,male ego's wife's father,,,Francois2002,
-mWM,vepaliha-,,male ego's wife's mother,,,Francois2002,
-mWB,rahu-,,male ego's wife's brother,,,Francois2002,
-mWZ,verahu-,,male ego's wife's sister,,,Francois2002,
-fHF,tapu-,,female ego's husband's father,,,Francois2002,
-fHM,tapu-,,female ego's husband's mother,,,Francois2002,
-fHB,"roha-, rasi-",,female ego's husband's brother,,,Francois2002,"roha- = older, rasi- = younger brother-in-law"
-fHZ,vuggo-,,female ego's husband's sister,,,Francois2002,
-mBW,"veroha-, verasi-",,male ego's brother's wife,,,Francois2002,"veroha- = older, verasi- = younger sister-in-law"
-fBW,vuggo-,,female ego's brother's wife,,,Francois2002,
-mZH,rahu-,,male ego's sister's husband,,,Francois2002,
-fZH,rahu-,,female ego's sister's husband,,,Francois2002,
-mFBS,vodai-,,male ego's father's brother's son,,,Francois2002,
-mFZS,ta,,male ego's father's sister's son,,,Francois2002,
-mMBS,naru-,,male ego's mother's brother's son,,,Francois2002,
-mMZS,vodai-,,male ego's mother's sister's son,,,Francois2002,
-mFBD,vesohori-,,male ego's father's brother's daughter,,,Francois2002,
-mFZD,vesohori-,,male ego's father's sister's daughter,,,Francois2002,
-mMBD,venaru-,,male ego's mother's brother's daughter,,,Francois2002,
-mMZD,vesohori-,,male ego's mother's sister's daughter,,,Francois2002,
-fFBS,vodai-,,female ego's father's brother's son,,,Francois2002,
-fMZS,vodai-,,female ego's mother's sister's son,,,Francois2002,
-fFBD,vesohori-,,female ego's father's brother's daughter,,,Francois2002,
-fMZD,vesohori-,,female ego's mother's sister's daughter,,,Francois2002,
-mFeBS,vodai-,,male ego's father's brother's son,,,Francois2002,Inferred; 
-mFyBS,vodai-,,male ego's father's brother's son,,,Francois2002,Inferred; 
-mFeZS,ta,,male ego's father's sister's son,,,Francois2002,Inferred; 
-mFyZS,ta,,male ego's father's sister's son,,,Francois2002,Inferred; 
-mFeBD,vesohori-,,male ego's father's brother's daughter,,,Francois2002,Inferred; 
-mFyBD,vesohori-,,male ego's father's brother's daughter,,,Francois2002,Inferred; 
-mFeZD,vesohori-,,male ego's father's sister's daughter,,,Francois2002,Inferred; 
-mFyZD,vesohori-,,male ego's father's sister's daughter,,,Francois2002,Inferred; 
-mMeBS,naru-,,male ego's mother's brother's son,,,Francois2002,Inferred; 
-mMyBS,naru-,,male ego's mother's brother's son,,,Francois2002,Inferred; 
-mMeZS,vodai-,,male ego's mother's sister's son,,,Francois2002,Inferred; 
-mMyZS,vodai-,,male ego's mother's sister's son,,,Francois2002,Inferred; 
-mMeBD,venaru-,,male ego's mother's brother's daughter,,,Francois2002,Inferred; 
-mMyBD,venaru-,,male ego's mother's brother's daughter,,,Francois2002,Inferred; 
-mMeZD,vesohori-,,male ego's mother's sister's daughter,,,Francois2002,Inferred; 
-mMyZD,vesohori-,,male ego's mother's sister's daughter,,,Francois2002,Inferred; 
-mFBeS,vodai-,,male ego's father's brother's son,,,Francois2002,Inferred; 
-mFByS,vodai-,,male ego's father's brother's son,,,Francois2002,Inferred; 
-mFZeS,ta,,male ego's father's sister's son,,,Francois2002,Inferred; 
-mFZyS,ta,,male ego's father's sister's son,,,Francois2002,Inferred; 
-mFBeD,vesohori-,,male ego's father's brother's daughter,,,Francois2002,Inferred; 
-mFByD,vesohori-,,male ego's father's brother's daughter,,,Francois2002,Inferred; 
-mFZeD,vesohori-,,male ego's father's sister's daughter,,,Francois2002,Inferred; 
-mFZyD,vesohori-,,male ego's father's sister's daughter,,,Francois2002,Inferred; 
-mMBeS,naru-,,male ego's mother's brother's son,,,Francois2002,Inferred; 
-mMByS,naru-,,male ego's mother's brother's son,,,Francois2002,Inferred; 
-mMZeS,vodai-,,male ego's mother's sister's son,,,Francois2002,Inferred; 
-mMZyS,vodai-,,male ego's mother's sister's son,,,Francois2002,Inferred; 
-mMBeD,venaru-,,male ego's mother's brother's daughter,,,Francois2002,Inferred; 
-mMByD,venaru-,,male ego's mother's brother's daughter,,,Francois2002,Inferred; 
-mMZeD,vesohori-,,male ego's mother's sister's daughter,,,Francois2002,Inferred; 
-mMZyD,vesohori-,,male ego's mother's sister's daughter,,,Francois2002,Inferred; 
-fFeBS,vodai-,,female ego's father's brother's son,,,Francois2002,Inferred; 
-fFyBS,vodai-,,female ego's father's brother's son,,,Francois2002,Inferred; 
-fFeBD,vesohori-,,female ego's father's brother's daughter,,,Francois2002,Inferred; 
-fFyBD,vesohori-,,female ego's father's brother's daughter,,,Francois2002,Inferred; 
-fMeZS,vodai-,,female ego's mother's sister's son,,,Francois2002,Inferred; 
-fMyZS,vodai-,,female ego's mother's sister's son,,,Francois2002,Inferred; 
-fMeZD,vesohori-,,female ego's mother's sister's daughter,,,Francois2002,Inferred; 
-fMyZD,vesohori-,,female ego's mother's sister's daughter,,,Francois2002,Inferred; 
-fFBeS,vodai-,,female ego's father's brother's son,,,Francois2002,Inferred; 
-fFByS,vodai-,,female ego's father's brother's son,,,Francois2002,Inferred; 
-fFBeD,vesohori-,,female ego's father's brother's daughter,,,Francois2002,Inferred; 
-fFByD,vesohori-,,female ego's father's brother's daughter,,,Francois2002,Inferred; 
-fMZeS,vodai-,,female ego's mother's sister's son,,,Francois2002,Inferred; 
-fMZyS,vodai-,,female ego's mother's sister's son,,,Francois2002,Inferred; 
-fMZeD,vesohori-,,female ego's mother's sister's daughter,,,Francois2002,Inferred; 
-fMZyD,vesohori-,,female ego's mother's sister's daughter,,,Francois2002,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","roha-",,"male ego's older brother",,,"Francois2002",""
+"myB","rasi-",,"male ego's younger brother",,,"Francois2002",""
+"feB","roha-",,"female ego's older brother",,,"Francois2002",""
+"fyB","rasi-",,"female ego's younger brother",,,"Francois2002",""
+"meZ","veroha-",,"male ego's older sister",,,"Francois2002",""
+"myZ","verasi-",,"male ego's younger sister",,,"Francois2002",""
+"feZ","veroha-",,"female ego's older sister",,,"Francois2002",""
+"fyZ","verasi-",,"female ego's younger sister",,,"Francois2002",""
+"mF","ta",,"male ego's father",,,"Francois2002",""
+"mM","puá",,"male ego's mother",,,"Francois2002",""
+"fF","ta",,"female ego's father",,,"Francois2002",""
+"fM","puá",,"female ego's mother",,,"Francois2002",""
+"mS","naru-, tu-",,"male ego's son",,,"Francois2002",""
+"fS","naru-, tu-",,"female ego's son",,,"Francois2002",""
+"mD","venaru-, vetu-",,"male ego's daughter",,,"Francois2002",""
+"fD","venaru-, vetu-",,"female ego's daughter",,,"Francois2002",""
+"mSS","tapu-",,"male ego's son's son",,,"Francois2002",""
+"mSD","tapu-",,"male ego's son's daughter",,,"Francois2002",""
+"mDS","tapu-",,"male ego's daughter's son",,,"Francois2002",""
+"mDD","tapu-",,"male ego's daughter's daughter",,,"Francois2002",""
+"fSS","tapu-",,"female ego's son's son",,,"Francois2002",""
+"fSD","tapu-",,"female ego's son's daughter",,,"Francois2002",""
+"fDS","tapu-",,"female ego's daughter's son",,,"Francois2002",""
+"fDD","tapu-",,"female ego's daugher's daughter",,,"Francois2002",""
+"mFF","tapu-",,"male ego's father‘s father",,,"Francois2002",""
+"mFM","tapu-",,"male ego's father's mother",,,"Francois2002",""
+"mMF","tapu-",,"male ego's mother's father",,,"Francois2002",""
+"mMM","tapu-",,"male ego's mother's mother",,,"Francois2002",""
+"fFF","tapu-",,"female ego's father's father",,,"Francois2002",""
+"fFM","tapu-",,"female ego's father's mother",,,"Francois2002",""
+"fMF","tapu-",,"female ego's mother's father",,,"Francois2002",""
+"fMM","tapu-",,"female ego's mother's mother",,,"Francois2002",""
+"meBS","naru-, tu-",,"male ego's older brother's son",,,"Francois2002",""
+"myBS","naru-, tu-",,"male ego's younger brother's son",,,"Francois2002",""
+"meZS","rahura-, elua, m̈ara-",,"male ego's older sister's son",,,"Francois2002",""
+"myZS","rahura-, elua, m̈ara-",,"male ego's younger sister's son",,,"Francois2002",""
+"meBD","naru-, tu-",,"male ego's older brother's daughter",,,"Francois2002",""
+"myBD","naru-, tu-",,"male ego's younger brother's daughter",,,"Francois2002",""
+"meZD","venaru-, vetu-",,"male ego's older sister's daughter",,,"Francois2002",""
+"myZD","venaru-, vetu-",,"male ego's younger sister's daughter",,,"Francois2002",""
+"feBS","venaru-, vetu-",,"female ego's older brother's son",,,"Francois2002",""
+"fyBS","venaru-, vetu-",,"female ego's younger brother's son",,,"Francois2002",""
+"feZS","rahura-, elua, m̈ara-",,"female ego's older sister's son",,,"Francois2002",""
+"fyZS","rahura-, elua, m̈ara-",,"female ego's younger sister's son",,,"Francois2002",""
+"feBD","naru-",,"female ego's older brother's daughter",,,"Francois2002",""
+"fyBD","naru-",,"female ego's younger brother's daughter",,,"Francois2002",""
+"feZD","rahura-, elua, m̈ara-",,"female ego's older sister's daughter",,,"Francois2002",""
+"fyZD","rahura-, elua, m̈ara-",,"female ego's younger sister's daughter",,,"Francois2002",""
+"mFeB","ta",,"male ego's father's older brother",,,"Francois2002",""
+"mFyB","ta",,"male ego's father's younger brother",,,"Francois2002",""
+"mFeZ","tetei-",,"male ego's father's older sister",,,"Francois2002",""
+"mFyZ","tetei-",,"male ego's father's younger sister",,,"Francois2002",""
+"mMeB","lala, rahura-, elua-, m̈ara-",,"male ego's mother's older brother",,,"Francois2002",""
+"mMyB","lala, rahura-, elua-, m̈ara-",,"male ego's mother's younger brother",,,"Francois2002",""
+"mMeZ","puá",,"male ego's mother's older sister",,,"Francois2002",""
+"mMyZ","puá",,"male ego's mother's younger sister",,,"Francois2002",""
+"fFeB","ta",,"female ego's father's older brother",,,"Francois2002",""
+"fFyB","ta",,"female ego's father's younger brother",,,"Francois2002",""
+"fFeZ","tetei-",,"female ego's father's older sister",,,"Francois2002",""
+"fFyZ","tetei-",,"female ego's father's younger sister",,,"Francois2002",""
+"fMeB","lala, rahura-, elua-, m̈ara-",,"female ego's mother's older brother",,,"Francois2002",""
+"fMyB","lala, rahura-, elua-, m̈ara-",,"female ego's mother's younger brother",,,"Francois2002",""
+"fMeZ","puá",,"female ego's mother's older sister",,,"Francois2002",""
+"fMyZ","puá",,"female ego's mother's younger sister",,,"Francois2002",""
+"mW","naivou-",,"male ego's wife",,,"Francois2002",""
+"fH","rua-",,"female ego‘s husband",,,"Francois2002",""
+"mDH","paliha-",,"male ego's daughter's husband",,,"Francois2002",""
+"fDH","paliha-",,"female ego's daughter's husband",,,"Francois2002",""
+"mSW","tapu-",,"male ego's son's wife",,,"Francois2002",""
+"fSW","tapu-",,"female ego's son's wife",,,"Francois2002",""
+"mWF","paliha-",,"male ego's wife's father",,,"Francois2002",""
+"mWM","vepaliha-",,"male ego's wife's mother",,,"Francois2002",""
+"mWB","rahu-",,"male ego's wife's brother",,,"Francois2002",""
+"mWZ","verahu-",,"male ego's wife's sister",,,"Francois2002",""
+"fHF","tapu-",,"female ego's husband's father",,,"Francois2002",""
+"fHM","tapu-",,"female ego's husband's mother",,,"Francois2002",""
+"fHB","roha-, rasi-",,"female ego's husband's brother",,,"Francois2002","roha- = older, rasi- = younger brother-in-law"
+"fHZ","vuggo-",,"female ego's husband's sister",,,"Francois2002",""
+"mBW","veroha-, verasi-",,"male ego's brother's wife",,,"Francois2002","veroha- = older, verasi- = younger sister-in-law"
+"fBW","vuggo-",,"female ego's brother's wife",,,"Francois2002",""
+"mZH","rahu-",,"male ego's sister's husband",,,"Francois2002",""
+"fZH","rahu-",,"female ego's sister's husband",,,"Francois2002",""
+"mFBS","vodai-",,"male ego's father's brother's son",,,"Francois2002",""
+"mFZS","ta",,"male ego's father's sister's son",,,"Francois2002",""
+"mMBS","naru-",,"male ego's mother's brother's son",,,"Francois2002",""
+"mMZS","vodai-",,"male ego's mother's sister's son",,,"Francois2002",""
+"mFBD","vesohori-",,"male ego's father's brother's daughter",,,"Francois2002",""
+"mFZD","vesohori-",,"male ego's father's sister's daughter",,,"Francois2002",""
+"mMBD","venaru-",,"male ego's mother's brother's daughter",,,"Francois2002",""
+"mMZD","vesohori-",,"male ego's mother's sister's daughter",,,"Francois2002",""
+"fFBS","vodai-",,"female ego's father's brother's son",,,"Francois2002",""
+"fMZS","vodai-",,"female ego's mother's sister's son",,,"Francois2002",""
+"fFBD","vesohori-",,"female ego's father's brother's daughter",,,"Francois2002",""
+"fMZD","vesohori-",,"female ego's mother's sister's daughter",,,"Francois2002",""
+"mFeBS","vodai-",,"male ego's father's brother's son",,,"Francois2002","Inferred; "
+"mFyBS","vodai-",,"male ego's father's brother's son",,,"Francois2002","Inferred; "
+"mFeZS","ta",,"male ego's father's sister's son",,,"Francois2002","Inferred; "
+"mFyZS","ta",,"male ego's father's sister's son",,,"Francois2002","Inferred; "
+"mFeBD","vesohori-",,"male ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"mFyBD","vesohori-",,"male ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"mFeZD","vesohori-",,"male ego's father's sister's daughter",,,"Francois2002","Inferred; "
+"mFyZD","vesohori-",,"male ego's father's sister's daughter",,,"Francois2002","Inferred; "
+"mMeBS","naru-",,"male ego's mother's brother's son",,,"Francois2002","Inferred; "
+"mMyBS","naru-",,"male ego's mother's brother's son",,,"Francois2002","Inferred; "
+"mMeZS","vodai-",,"male ego's mother's sister's son",,,"Francois2002","Inferred; "
+"mMyZS","vodai-",,"male ego's mother's sister's son",,,"Francois2002","Inferred; "
+"mMeBD","venaru-",,"male ego's mother's brother's daughter",,,"Francois2002","Inferred; "
+"mMyBD","venaru-",,"male ego's mother's brother's daughter",,,"Francois2002","Inferred; "
+"mMeZD","vesohori-",,"male ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"mMyZD","vesohori-",,"male ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"mFBeS","vodai-",,"male ego's father's brother's son",,,"Francois2002","Inferred; "
+"mFByS","vodai-",,"male ego's father's brother's son",,,"Francois2002","Inferred; "
+"mFZeS","ta",,"male ego's father's sister's son",,,"Francois2002","Inferred; "
+"mFZyS","ta",,"male ego's father's sister's son",,,"Francois2002","Inferred; "
+"mFBeD","vesohori-",,"male ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"mFByD","vesohori-",,"male ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"mFZeD","vesohori-",,"male ego's father's sister's daughter",,,"Francois2002","Inferred; "
+"mFZyD","vesohori-",,"male ego's father's sister's daughter",,,"Francois2002","Inferred; "
+"mMBeS","naru-",,"male ego's mother's brother's son",,,"Francois2002","Inferred; "
+"mMByS","naru-",,"male ego's mother's brother's son",,,"Francois2002","Inferred; "
+"mMZeS","vodai-",,"male ego's mother's sister's son",,,"Francois2002","Inferred; "
+"mMZyS","vodai-",,"male ego's mother's sister's son",,,"Francois2002","Inferred; "
+"mMBeD","venaru-",,"male ego's mother's brother's daughter",,,"Francois2002","Inferred; "
+"mMByD","venaru-",,"male ego's mother's brother's daughter",,,"Francois2002","Inferred; "
+"mMZeD","vesohori-",,"male ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"mMZyD","vesohori-",,"male ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"fFeBS","vodai-",,"female ego's father's brother's son",,,"Francois2002","Inferred; "
+"fFyBS","vodai-",,"female ego's father's brother's son",,,"Francois2002","Inferred; "
+"fFeBD","vesohori-",,"female ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"fFyBD","vesohori-",,"female ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"fMeZS","vodai-",,"female ego's mother's sister's son",,,"Francois2002","Inferred; "
+"fMyZS","vodai-",,"female ego's mother's sister's son",,,"Francois2002","Inferred; "
+"fMeZD","vesohori-",,"female ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"fMyZD","vesohori-",,"female ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"fFBeS","vodai-",,"female ego's father's brother's son",,,"Francois2002","Inferred; "
+"fFByS","vodai-",,"female ego's father's brother's son",,,"Francois2002","Inferred; "
+"fFBeD","vesohori-",,"female ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"fFByD","vesohori-",,"female ego's father's brother's daughter",,,"Francois2002","Inferred; "
+"fMZeS","vodai-",,"female ego's mother's sister's son",,,"Francois2002","Inferred; "
+"fMZyS","vodai-",,"female ego's mother's sister's son",,,"Francois2002","Inferred; "
+"fMZeD","vesohori-",,"female ego's mother's sister's daughter",,,"Francois2002","Inferred; "
+"fMZyD","vesohori-",,"female ego's mother's sister's daughter",,,"Francois2002","Inferred; "

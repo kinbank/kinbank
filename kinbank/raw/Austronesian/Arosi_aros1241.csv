@@ -1,63 +1,63 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,"do'ora(na), ura",,male ego's older brother,,,Fox1970ArosiEng,
-myB,do'ora(na),,male ego's younger brother,,,Fox1970ArosiEng,
-feB,ura,,female ego's older brother,,,Fox1970ArosiEng,
-meZ,hari,,male ego's older sister,,,Fox1970ArosiEng,
-myZ,hari,,male ego's younger sister,,,Fox1970ArosiEng,
-feZ,"do'ora(na), hari",,female ego's older sister,,,Fox1970ArosiEng,
-fyZ,"do'ora(na), hari",,female ego's younger sister,,,Fox1970ArosiEng,
-mF,ama(na),,male ego's father,,,Fox1970ArosiEng,
-fF,ama(na),,female ego's father,,,Fox1970ArosiEng,
-mS,gare(na),,male ego's son,,,Fox1970ArosiEng,
-fS,gare(na),,female ego's son,,,Fox1970ArosiEng,
-mD,gare(na),,male ego's daughter,,,Fox1970ArosiEng,
-fD,gare(na),,female ego's daughter,,,Fox1970ArosiEng,
-mSS,uwa(na),,male ego's son's son,,,Fox1970ArosiEng,
-mSD,uwa(na),,male ego's son's daughter,,,Fox1970ArosiEng,
-mDS,uwa(na),,male ego's daughter's son,,,Fox1970ArosiEng,
-mDD,uwa(na),,male ego's daughter's daughter,,,Fox1970ArosiEng,
-fSS,uwa(na),,female ego's son's son,,,Fox1970ArosiEng,
-fSD,uwa(na),,female ego's son's daughter,,,Fox1970ArosiEng,
-fDS,uwa(na),,female ego's daughter's son,,,Fox1970ArosiEng,
-fDD,uwa(na),,female ego's daugher's daughter,,,Fox1970ArosiEng,
-mFF,"uwa(na), ura",,male ego's father‘s father,,,Fox1970ArosiEng,
-mMF,"uwa(na), ura",,male ego's mother's father,,,Fox1970ArosiEng,
-fFF,"uwa(na), ura",,female ego's father's father,,,Fox1970ArosiEng,
-fMF,"uwa(na), ura",,female ego's mother's father,,,Fox1970ArosiEng,
-mFeB,ama(na),,male ego's father's older brother,,,Fox1970ArosiEng,
-mFyB,ama(na),,male ego's father's younger brother,,,Fox1970ArosiEng,
-mMeB,abebwau,,male ego's mother's older brother,,,Fox1970ArosiEng,
-mMyB,abebwau,,male ego's mother's younger brother,,,Fox1970ArosiEng,
-fFeB,ama(na),,female ego's father's older brother,,,Fox1970ArosiEng,
-fFyB,ama(na),,female ego's father's younger brother,,,Fox1970ArosiEng,
-fMeB,abebwau,,female ego's mother's older brother,,,Fox1970ArosiEng,
-fMyB,abebwau,,female ego's mother's younger brother,,,Fox1970ArosiEng,
-mW,"hasiwae, urao",,male ego's wife,,,Fox1970ArosiEng,
-mWB,hunga(na),,male ego's wife's brother,,,Fox1970ArosiEng,
-mWZ,"hunga(na), mwarii(na)",,male ego's wife's sister,,,Fox1970ArosiEng,
-fHB,"hunga(na), mwarii(na)",,female ego's husband's brother,,,Fox1970ArosiEng,
-fHZ,hunga(na),,female ego's husband's sister,,,Fox1970ArosiEng,
-mBW,"hunga(na), mwarii(na)",,male ego's brother's wife,,,Fox1970ArosiEng,
-fBW,hunga(na),,female ego's brother's wife,,,Fox1970ArosiEng,
-mZH,hunga(na),,male ego's sister's husband,,,Fox1970ArosiEng,
-fZH,"hunga(na), mwarii(na)",,female ego's sister's husband,,,Fox1970ArosiEng,
-mMBS,kikii,,male ego's mother's brother's son,,,Fox1970ArosiEng,
-mMBD,kikii,,male ego's mother's brother's daughter,,,Fox1970ArosiEng,
-fMBS,kikii,,female ego's mother's brother's son,,,Fox1970ArosiEng,
-fMBD,kikii,,female ego's mother's brother's daughter,,,Fox1970ArosiEng,
-mMeBS,kikii,,male ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-mMyBS,kikii,,male ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-mMeBD,kikii,,male ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-mMyBD,kikii,,male ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-mMBeS,kikii,,male ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-mMByS,kikii,,male ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-mMBeD,kikii,,male ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-mMByD,kikii,,male ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-fMeBS,kikii,,female ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-fMyBS,kikii,,female ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-fMeBD,kikii,,female ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-fMyBD,kikii,,female ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-fMBeS,kikii,,female ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-fMByS,kikii,,female ego's mother's brother's son,,,Fox1970ArosiEng,Inferred; NA
-fMBeD,kikii,,female ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
-fMByD,kikii,,female ego's mother's brother's daughter,,,Fox1970ArosiEng,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","do'ora(na), ura",,"male ego's older brother",,,"Fox1970ArosiEng",""
+"myB","do'ora(na)",,"male ego's younger brother",,,"Fox1970ArosiEng",""
+"feB","ura",,"female ego's older brother",,,"Fox1970ArosiEng",""
+"meZ","hari",,"male ego's older sister",,,"Fox1970ArosiEng",""
+"myZ","hari",,"male ego's younger sister",,,"Fox1970ArosiEng",""
+"feZ","do'ora(na), hari",,"female ego's older sister",,,"Fox1970ArosiEng",""
+"fyZ","do'ora(na), hari",,"female ego's younger sister",,,"Fox1970ArosiEng",""
+"mF","ama(na)",,"male ego's father",,,"Fox1970ArosiEng",""
+"fF","ama(na)",,"female ego's father",,,"Fox1970ArosiEng",""
+"mS","gare(na)",,"male ego's son",,,"Fox1970ArosiEng",""
+"fS","gare(na)",,"female ego's son",,,"Fox1970ArosiEng",""
+"mD","gare(na)",,"male ego's daughter",,,"Fox1970ArosiEng",""
+"fD","gare(na)",,"female ego's daughter",,,"Fox1970ArosiEng",""
+"mSS","uwa(na)",,"male ego's son's son",,,"Fox1970ArosiEng",""
+"mSD","uwa(na)",,"male ego's son's daughter",,,"Fox1970ArosiEng",""
+"mDS","uwa(na)",,"male ego's daughter's son",,,"Fox1970ArosiEng",""
+"mDD","uwa(na)",,"male ego's daughter's daughter",,,"Fox1970ArosiEng",""
+"fSS","uwa(na)",,"female ego's son's son",,,"Fox1970ArosiEng",""
+"fSD","uwa(na)",,"female ego's son's daughter",,,"Fox1970ArosiEng",""
+"fDS","uwa(na)",,"female ego's daughter's son",,,"Fox1970ArosiEng",""
+"fDD","uwa(na)",,"female ego's daugher's daughter",,,"Fox1970ArosiEng",""
+"mFF","uwa(na), ura",,"male ego's father‘s father",,,"Fox1970ArosiEng",""
+"mMF","uwa(na), ura",,"male ego's mother's father",,,"Fox1970ArosiEng",""
+"fFF","uwa(na), ura",,"female ego's father's father",,,"Fox1970ArosiEng",""
+"fMF","uwa(na), ura",,"female ego's mother's father",,,"Fox1970ArosiEng",""
+"mFeB","ama(na)",,"male ego's father's older brother",,,"Fox1970ArosiEng",""
+"mFyB","ama(na)",,"male ego's father's younger brother",,,"Fox1970ArosiEng",""
+"mMeB","abebwau",,"male ego's mother's older brother",,,"Fox1970ArosiEng",""
+"mMyB","abebwau",,"male ego's mother's younger brother",,,"Fox1970ArosiEng",""
+"fFeB","ama(na)",,"female ego's father's older brother",,,"Fox1970ArosiEng",""
+"fFyB","ama(na)",,"female ego's father's younger brother",,,"Fox1970ArosiEng",""
+"fMeB","abebwau",,"female ego's mother's older brother",,,"Fox1970ArosiEng",""
+"fMyB","abebwau",,"female ego's mother's younger brother",,,"Fox1970ArosiEng",""
+"mW","hasiwae, urao",,"male ego's wife",,,"Fox1970ArosiEng",""
+"mWB","hunga(na)",,"male ego's wife's brother",,,"Fox1970ArosiEng",""
+"mWZ","hunga(na), mwarii(na)",,"male ego's wife's sister",,,"Fox1970ArosiEng",""
+"fHB","hunga(na), mwarii(na)",,"female ego's husband's brother",,,"Fox1970ArosiEng",""
+"fHZ","hunga(na)",,"female ego's husband's sister",,,"Fox1970ArosiEng",""
+"mBW","hunga(na), mwarii(na)",,"male ego's brother's wife",,,"Fox1970ArosiEng",""
+"fBW","hunga(na)",,"female ego's brother's wife",,,"Fox1970ArosiEng",""
+"mZH","hunga(na)",,"male ego's sister's husband",,,"Fox1970ArosiEng",""
+"fZH","hunga(na), mwarii(na)",,"female ego's sister's husband",,,"Fox1970ArosiEng",""
+"mMBS","kikii",,"male ego's mother's brother's son",,,"Fox1970ArosiEng",""
+"mMBD","kikii",,"male ego's mother's brother's daughter",,,"Fox1970ArosiEng",""
+"fMBS","kikii",,"female ego's mother's brother's son",,,"Fox1970ArosiEng",""
+"fMBD","kikii",,"female ego's mother's brother's daughter",,,"Fox1970ArosiEng",""
+"mMeBS","kikii",,"male ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"mMyBS","kikii",,"male ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"mMeBD","kikii",,"male ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"mMyBD","kikii",,"male ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"mMBeS","kikii",,"male ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"mMByS","kikii",,"male ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"mMBeD","kikii",,"male ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"mMByD","kikii",,"male ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"fMeBS","kikii",,"female ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"fMyBS","kikii",,"female ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"fMeBD","kikii",,"female ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"fMyBD","kikii",,"female ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"fMBeS","kikii",,"female ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"fMByS","kikii",,"female ego's mother's brother's son",,,"Fox1970ArosiEng","Inferred; NA"
+"fMBeD","kikii",,"female ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"
+"fMByD","kikii",,"female ego's mother's brother's daughter",,,"Fox1970ArosiEng","Inferred; NA"

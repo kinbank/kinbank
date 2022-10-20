@@ -1,143 +1,143 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meZ,soa,,male ego's older sister,,,Moyle2011,
-myZ,soa,,male ego's younger sister,,,Moyle2011,
-feZ,soa,,female ego's older sister,,,Moyle2011,
-fyZ,soa,,female ego's younger sister,,,Moyle2011,
-mF,"tamana, aapaa",,male ego's father,,,Moyle2011,aapaa = daddy
-mM,tinna,,male ego's mother,,,Moyle2011,
-fF,"tamana, aapaa",,female ego's father,,,Moyle2011,
-fM,tinna,,female ego's mother,,,Moyle2011,
-mS,tama tanata,,male ego's son,,,Moyle2011,
-fS,tama tanata,,female ego's son,,,Moyle2011,
-mD,tama ffine,,male ego's daughter,,,Moyle2011,
-fD,tama ffine,,female ego's daughter,,,Moyle2011,
-mSS,mokopuna,,male ego's son's son,,,Moyle2011,
-mSD,mokopuna,,male ego's son's daughter,,,Moyle2011,
-mDS,mokopuna,,male ego's daughter's son,,,Moyle2011,
-mDD,mokopuna,,male ego's daughter's daughter,,,Moyle2011,
-fSS,mokopuna,,female ego's son's son,,,Moyle2011,
-fSD,mokopuna,,female ego's son's daughter,,,Moyle2011,
-fDS,mokopuna,,female ego's daughter's son,,,Moyle2011,
-fDD,mokopuna,,female ego's daugher's daughter,,,Moyle2011,
-mFF,tipuna,,male ego's father‘s father,,,Moyle2011,
-mFM,tipuna,,male ego's father's mother,,,Moyle2011,
-mMF,tipuna,,male ego's mother's father,,,Moyle2011,
-mMM,tipuna,,male ego's mother's mother,,,Moyle2011,
-fFF,tipuna,,female ego's father's father,,,Moyle2011,
-fFM,tipuna,,female ego's father's mother,,,Moyle2011,
-fMF,tipuna,,female ego's mother's father,,,Moyle2011,
-fMM,tipuna,,female ego's mother's mother,,,Moyle2011,
-meBS,tama,,male ego's older brother's son,,,Moyle2011,
-myBS,tama,,male ego's younger brother's son,,,Moyle2011,
-meZS,ilaamotu,,male ego's older sister's son,,,Moyle2011,
-myZS,ilaamotu,,male ego's younger sister's son,,,Moyle2011,
-meBD,tama,,male ego's older brother's daughter,,,Moyle2011,
-myBD,tama,,male ego's younger brother's daughter,,,Moyle2011,
-meZD,ilaamotu,,male ego's older sister's daughter,,,Moyle2011,
-myZD,ilaamotu,,male ego's younger sister's daughter,,,Moyle2011,
-feBS,tama,,female ego's older brother's son,,,Moyle2011,
-fyBS,tama,,female ego's younger brother's son,,,Moyle2011,
-feZS,ilaamotu,,female ego's older sister's son,,,Moyle2011,
-fyZS,ilaamotu,,female ego's younger sister's son,,,Moyle2011,
-feBD,tama,,female ego's older brother's daughter,,,Moyle2011,
-fyBD,tama,,female ego's younger brother's daughter,,,Moyle2011,
-feZD,ilaamotu,,female ego's older sister's daughter,,,Moyle2011,
-fyZD,ilaamotu,,female ego's younger sister's daughter,,,Moyle2011,
-mFeB,tamana,,male ego's father's older brother,,,Moyle2011,
-mFyB,tamana,,male ego's father's younger brother,,,Moyle2011,
-mFeZ,tinna,,male ego's father's older sister,,,Moyle2011,
-mFyZ,tinna,,male ego's father's younger sister,,,Moyle2011,
-mMeB,ilaamotu,,male ego's mother's older brother,,,Moyle2011,
-mMyB,ilaamotu,,male ego's mother's younger brother,,,Moyle2011,
-mMeZ,tamana,,male ego's mother's older sister,,,Moyle2011,
-mMyZ,tamana,,male ego's mother's younger sister,,,Moyle2011,
-fFeB,tamana,,female ego's father's older brother,,,Moyle2011,
-fFyB,tamana,,female ego's father's younger brother,,,Moyle2011,
-fFeZ,tinna,,female ego's father's older sister,,,Moyle2011,
-fFyZ,tinna,,female ego's father's younger sister,,,Moyle2011,
-fMeB,ilaamotu,,female ego's mother's older brother,,,Moyle2011,
-fMyB,ilaamotu,,female ego's mother's younger brother,,,Moyle2011,
-fMeZ,tamana,,female ego's mother's older sister,,,Moyle2011,
-fMyZ,tamana,,female ego's mother's younger sister,,,Moyle2011,
-fH,aavana,,female ego‘s husband,,,Moyle2011,
-fZH,tamana,,female ego's sister's husband,,,Moyle2011,
-mFBS,kave,,male ego's father's brother's son,,,Moyle2011,
-mFZS,kave,,male ego's father's sister's son,,,Moyle2011,
-mMBS,kave,,male ego's mother's brother's son,,,Moyle2011,
-mMZS,kave,,male ego's mother's sister's son,,,Moyle2011,
-mFBD,kave,,male ego's father's brother's daughter,,,Moyle2011,
-mFZD,kave,,male ego's father's sister's daughter,,,Moyle2011,
-mMBD,kave,,male ego's mother's brother's daughter,,,Moyle2011,
-mMZD,kave,,male ego's mother's sister's daughter,,,Moyle2011,
-fFBS,kave,,female ego's father's brother's son,,,Moyle2011,
-fFZS,kave,,female ego's father's sister's son,,,Moyle2011,
-fMBS,kave,,female ego's mother's brother's son,,,Moyle2011,
-fMZS,kave,,female ego's mother's sister's son,,,Moyle2011,
-fFBD,kave,,female ego's father's brother's daughter,,,Moyle2011,
-fFZD,kave,,female ego's father's sister's daughter,,,Moyle2011,
-fMBD,kave,,female ego's mother's brother's daughter,,,Moyle2011,
-fMZD,kave,,female ego's mother's sister's daughter,,,Moyle2011,
-mFeBS,kave,,male ego's father's brother's son,,,Moyle2011,Inferred; 
-mFyBS,kave,,male ego's father's brother's son,,,Moyle2011,Inferred; 
-mFeZS,kave,,male ego's father's sister's son,,,Moyle2011,Inferred; 
-mFyZS,kave,,male ego's father's sister's son,,,Moyle2011,Inferred; 
-mFeBD,kave,,male ego's father's brother's daughter,,,Moyle2011,Inferred; 
-mFyBD,kave,,male ego's father's brother's daughter,,,Moyle2011,Inferred; 
-mFeZD,kave,,male ego's father's sister's daughter,,,Moyle2011,Inferred; 
-mFyZD,kave,,male ego's father's sister's daughter,,,Moyle2011,Inferred; 
-mMeBS,kave,,male ego's mother's brother's son,,,Moyle2011,Inferred; 
-mMyBS,kave,,male ego's mother's brother's son,,,Moyle2011,Inferred; 
-mMeZS,kave,,male ego's mother's sister's son,,,Moyle2011,Inferred; 
-mMyZS,kave,,male ego's mother's sister's son,,,Moyle2011,Inferred; 
-mMeBD,kave,,male ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-mMyBD,kave,,male ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-mMeZD,kave,,male ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-mMyZD,kave,,male ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-mFBeS,kave,,male ego's father's brother's son,,,Moyle2011,Inferred; 
-mFByS,kave,,male ego's father's brother's son,,,Moyle2011,Inferred; 
-mFZeS,kave,,male ego's father's sister's son,,,Moyle2011,Inferred; 
-mFZyS,kave,,male ego's father's sister's son,,,Moyle2011,Inferred; 
-mFBeD,kave,,male ego's father's brother's daughter,,,Moyle2011,Inferred; 
-mFByD,kave,,male ego's father's brother's daughter,,,Moyle2011,Inferred; 
-mFZeD,kave,,male ego's father's sister's daughter,,,Moyle2011,Inferred; 
-mFZyD,kave,,male ego's father's sister's daughter,,,Moyle2011,Inferred; 
-mMBeS,kave,,male ego's mother's brother's son,,,Moyle2011,Inferred; 
-mMByS,kave,,male ego's mother's brother's son,,,Moyle2011,Inferred; 
-mMZeS,kave,,male ego's mother's sister's son,,,Moyle2011,Inferred; 
-mMZyS,kave,,male ego's mother's sister's son,,,Moyle2011,Inferred; 
-mMBeD,kave,,male ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-mMByD,kave,,male ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-mMZeD,kave,,male ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-mMZyD,kave,,male ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-fFeBS,kave,,female ego's father's brother's son,,,Moyle2011,Inferred; 
-fFyBS,kave,,female ego's father's brother's son,,,Moyle2011,Inferred; 
-fFeZS,kave,,female ego's father's sister's son,,,Moyle2011,Inferred; 
-fFyZS,kave,,female ego's father's sister's son,,,Moyle2011,Inferred; 
-fFeBD,kave,,female ego's father's brother's daughter,,,Moyle2011,Inferred; 
-fFyBD,kave,,female ego's father's brother's daughter,,,Moyle2011,Inferred; 
-fFeZD,kave,,female ego's father's sister's daughter,,,Moyle2011,Inferred; 
-fFyZD,kave,,female ego's father's sister's daughter,,,Moyle2011,Inferred; 
-fMeBS,kave,,female ego's mother's brother's son,,,Moyle2011,Inferred; 
-fMyBS,kave,,female ego's mother's brother's son,,,Moyle2011,Inferred; 
-fMeZS,kave,,female ego's mother's sister's son,,,Moyle2011,Inferred; 
-fMyZS,kave,,female ego's mother's sister's son,,,Moyle2011,Inferred; 
-fMeBD,kave,,female ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-fMyBD,kave,,female ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-fMeZD,kave,,female ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-fMyZD,kave,,female ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-fFBeS,kave,,female ego's father's brother's son,,,Moyle2011,Inferred; 
-fFByS,kave,,female ego's father's brother's son,,,Moyle2011,Inferred; 
-fFZeS,kave,,female ego's father's sister's son,,,Moyle2011,Inferred; 
-fFZyS,kave,,female ego's father's sister's son,,,Moyle2011,Inferred; 
-fFBeD,kave,,female ego's father's brother's daughter,,,Moyle2011,Inferred; 
-fFByD,kave,,female ego's father's brother's daughter,,,Moyle2011,Inferred; 
-fFZeD,kave,,female ego's father's sister's daughter,,,Moyle2011,Inferred; 
-fFZyD,kave,,female ego's father's sister's daughter,,,Moyle2011,Inferred; 
-fMBeS,kave,,female ego's mother's brother's son,,,Moyle2011,Inferred; 
-fMByS,kave,,female ego's mother's brother's son,,,Moyle2011,Inferred; 
-fMZeS,kave,,female ego's mother's sister's son,,,Moyle2011,Inferred; 
-fMZyS,kave,,female ego's mother's sister's son,,,Moyle2011,Inferred; 
-fMBeD,kave,,female ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-fMByD,kave,,female ego's mother's brother's daughter,,,Moyle2011,Inferred; 
-fMZeD,kave,,female ego's mother's sister's daughter,,,Moyle2011,Inferred; 
-fMZyD,kave,,female ego's mother's sister's daughter,,,Moyle2011,Inferred; 
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meZ","soa",,"male ego's older sister",,,"Moyle2011",""
+"myZ","soa",,"male ego's younger sister",,,"Moyle2011",""
+"feZ","soa",,"female ego's older sister",,,"Moyle2011",""
+"fyZ","soa",,"female ego's younger sister",,,"Moyle2011",""
+"mF","tamana, aapaa",,"male ego's father",,,"Moyle2011","aapaa = daddy"
+"mM","tinna",,"male ego's mother",,,"Moyle2011",""
+"fF","tamana, aapaa",,"female ego's father",,,"Moyle2011",""
+"fM","tinna",,"female ego's mother",,,"Moyle2011",""
+"mS","tama tanata",,"male ego's son",,,"Moyle2011",""
+"fS","tama tanata",,"female ego's son",,,"Moyle2011",""
+"mD","tama ffine",,"male ego's daughter",,,"Moyle2011",""
+"fD","tama ffine",,"female ego's daughter",,,"Moyle2011",""
+"mSS","mokopuna",,"male ego's son's son",,,"Moyle2011",""
+"mSD","mokopuna",,"male ego's son's daughter",,,"Moyle2011",""
+"mDS","mokopuna",,"male ego's daughter's son",,,"Moyle2011",""
+"mDD","mokopuna",,"male ego's daughter's daughter",,,"Moyle2011",""
+"fSS","mokopuna",,"female ego's son's son",,,"Moyle2011",""
+"fSD","mokopuna",,"female ego's son's daughter",,,"Moyle2011",""
+"fDS","mokopuna",,"female ego's daughter's son",,,"Moyle2011",""
+"fDD","mokopuna",,"female ego's daugher's daughter",,,"Moyle2011",""
+"mFF","tipuna",,"male ego's father‘s father",,,"Moyle2011",""
+"mFM","tipuna",,"male ego's father's mother",,,"Moyle2011",""
+"mMF","tipuna",,"male ego's mother's father",,,"Moyle2011",""
+"mMM","tipuna",,"male ego's mother's mother",,,"Moyle2011",""
+"fFF","tipuna",,"female ego's father's father",,,"Moyle2011",""
+"fFM","tipuna",,"female ego's father's mother",,,"Moyle2011",""
+"fMF","tipuna",,"female ego's mother's father",,,"Moyle2011",""
+"fMM","tipuna",,"female ego's mother's mother",,,"Moyle2011",""
+"meBS","tama",,"male ego's older brother's son",,,"Moyle2011",""
+"myBS","tama",,"male ego's younger brother's son",,,"Moyle2011",""
+"meZS","ilaamotu",,"male ego's older sister's son",,,"Moyle2011",""
+"myZS","ilaamotu",,"male ego's younger sister's son",,,"Moyle2011",""
+"meBD","tama",,"male ego's older brother's daughter",,,"Moyle2011",""
+"myBD","tama",,"male ego's younger brother's daughter",,,"Moyle2011",""
+"meZD","ilaamotu",,"male ego's older sister's daughter",,,"Moyle2011",""
+"myZD","ilaamotu",,"male ego's younger sister's daughter",,,"Moyle2011",""
+"feBS","tama",,"female ego's older brother's son",,,"Moyle2011",""
+"fyBS","tama",,"female ego's younger brother's son",,,"Moyle2011",""
+"feZS","ilaamotu",,"female ego's older sister's son",,,"Moyle2011",""
+"fyZS","ilaamotu",,"female ego's younger sister's son",,,"Moyle2011",""
+"feBD","tama",,"female ego's older brother's daughter",,,"Moyle2011",""
+"fyBD","tama",,"female ego's younger brother's daughter",,,"Moyle2011",""
+"feZD","ilaamotu",,"female ego's older sister's daughter",,,"Moyle2011",""
+"fyZD","ilaamotu",,"female ego's younger sister's daughter",,,"Moyle2011",""
+"mFeB","tamana",,"male ego's father's older brother",,,"Moyle2011",""
+"mFyB","tamana",,"male ego's father's younger brother",,,"Moyle2011",""
+"mFeZ","tinna",,"male ego's father's older sister",,,"Moyle2011",""
+"mFyZ","tinna",,"male ego's father's younger sister",,,"Moyle2011",""
+"mMeB","ilaamotu",,"male ego's mother's older brother",,,"Moyle2011",""
+"mMyB","ilaamotu",,"male ego's mother's younger brother",,,"Moyle2011",""
+"mMeZ","tamana",,"male ego's mother's older sister",,,"Moyle2011",""
+"mMyZ","tamana",,"male ego's mother's younger sister",,,"Moyle2011",""
+"fFeB","tamana",,"female ego's father's older brother",,,"Moyle2011",""
+"fFyB","tamana",,"female ego's father's younger brother",,,"Moyle2011",""
+"fFeZ","tinna",,"female ego's father's older sister",,,"Moyle2011",""
+"fFyZ","tinna",,"female ego's father's younger sister",,,"Moyle2011",""
+"fMeB","ilaamotu",,"female ego's mother's older brother",,,"Moyle2011",""
+"fMyB","ilaamotu",,"female ego's mother's younger brother",,,"Moyle2011",""
+"fMeZ","tamana",,"female ego's mother's older sister",,,"Moyle2011",""
+"fMyZ","tamana",,"female ego's mother's younger sister",,,"Moyle2011",""
+"fH","aavana",,"female ego‘s husband",,,"Moyle2011",""
+"fZH","tamana",,"female ego's sister's husband",,,"Moyle2011",""
+"mFBS","kave",,"male ego's father's brother's son",,,"Moyle2011",""
+"mFZS","kave",,"male ego's father's sister's son",,,"Moyle2011",""
+"mMBS","kave",,"male ego's mother's brother's son",,,"Moyle2011",""
+"mMZS","kave",,"male ego's mother's sister's son",,,"Moyle2011",""
+"mFBD","kave",,"male ego's father's brother's daughter",,,"Moyle2011",""
+"mFZD","kave",,"male ego's father's sister's daughter",,,"Moyle2011",""
+"mMBD","kave",,"male ego's mother's brother's daughter",,,"Moyle2011",""
+"mMZD","kave",,"male ego's mother's sister's daughter",,,"Moyle2011",""
+"fFBS","kave",,"female ego's father's brother's son",,,"Moyle2011",""
+"fFZS","kave",,"female ego's father's sister's son",,,"Moyle2011",""
+"fMBS","kave",,"female ego's mother's brother's son",,,"Moyle2011",""
+"fMZS","kave",,"female ego's mother's sister's son",,,"Moyle2011",""
+"fFBD","kave",,"female ego's father's brother's daughter",,,"Moyle2011",""
+"fFZD","kave",,"female ego's father's sister's daughter",,,"Moyle2011",""
+"fMBD","kave",,"female ego's mother's brother's daughter",,,"Moyle2011",""
+"fMZD","kave",,"female ego's mother's sister's daughter",,,"Moyle2011",""
+"mFeBS","kave",,"male ego's father's brother's son",,,"Moyle2011","Inferred; "
+"mFyBS","kave",,"male ego's father's brother's son",,,"Moyle2011","Inferred; "
+"mFeZS","kave",,"male ego's father's sister's son",,,"Moyle2011","Inferred; "
+"mFyZS","kave",,"male ego's father's sister's son",,,"Moyle2011","Inferred; "
+"mFeBD","kave",,"male ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"mFyBD","kave",,"male ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"mFeZD","kave",,"male ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"mFyZD","kave",,"male ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"mMeBS","kave",,"male ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"mMyBS","kave",,"male ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"mMeZS","kave",,"male ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"mMyZS","kave",,"male ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"mMeBD","kave",,"male ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"mMyBD","kave",,"male ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"mMeZD","kave",,"male ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"mMyZD","kave",,"male ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"mFBeS","kave",,"male ego's father's brother's son",,,"Moyle2011","Inferred; "
+"mFByS","kave",,"male ego's father's brother's son",,,"Moyle2011","Inferred; "
+"mFZeS","kave",,"male ego's father's sister's son",,,"Moyle2011","Inferred; "
+"mFZyS","kave",,"male ego's father's sister's son",,,"Moyle2011","Inferred; "
+"mFBeD","kave",,"male ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"mFByD","kave",,"male ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"mFZeD","kave",,"male ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"mFZyD","kave",,"male ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"mMBeS","kave",,"male ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"mMByS","kave",,"male ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"mMZeS","kave",,"male ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"mMZyS","kave",,"male ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"mMBeD","kave",,"male ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"mMByD","kave",,"male ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"mMZeD","kave",,"male ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"mMZyD","kave",,"male ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"fFeBS","kave",,"female ego's father's brother's son",,,"Moyle2011","Inferred; "
+"fFyBS","kave",,"female ego's father's brother's son",,,"Moyle2011","Inferred; "
+"fFeZS","kave",,"female ego's father's sister's son",,,"Moyle2011","Inferred; "
+"fFyZS","kave",,"female ego's father's sister's son",,,"Moyle2011","Inferred; "
+"fFeBD","kave",,"female ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"fFyBD","kave",,"female ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"fFeZD","kave",,"female ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"fFyZD","kave",,"female ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"fMeBS","kave",,"female ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"fMyBS","kave",,"female ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"fMeZS","kave",,"female ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"fMyZS","kave",,"female ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"fMeBD","kave",,"female ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"fMyBD","kave",,"female ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"fMeZD","kave",,"female ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"fMyZD","kave",,"female ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"fFBeS","kave",,"female ego's father's brother's son",,,"Moyle2011","Inferred; "
+"fFByS","kave",,"female ego's father's brother's son",,,"Moyle2011","Inferred; "
+"fFZeS","kave",,"female ego's father's sister's son",,,"Moyle2011","Inferred; "
+"fFZyS","kave",,"female ego's father's sister's son",,,"Moyle2011","Inferred; "
+"fFBeD","kave",,"female ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"fFByD","kave",,"female ego's father's brother's daughter",,,"Moyle2011","Inferred; "
+"fFZeD","kave",,"female ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"fFZyD","kave",,"female ego's father's sister's daughter",,,"Moyle2011","Inferred; "
+"fMBeS","kave",,"female ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"fMByS","kave",,"female ego's mother's brother's son",,,"Moyle2011","Inferred; "
+"fMZeS","kave",,"female ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"fMZyS","kave",,"female ego's mother's sister's son",,,"Moyle2011","Inferred; "
+"fMBeD","kave",,"female ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"fMByD","kave",,"female ego's mother's brother's daughter",,,"Moyle2011","Inferred; "
+"fMZeD","kave",,"female ego's mother's sister's daughter",,,"Moyle2011","Inferred; "
+"fMZyD","kave",,"female ego's mother's sister's daughter",,,"Moyle2011","Inferred; "

@@ -1,163 +1,163 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,(pə)hari?+n (l)aki? (aiəŋ) aya?,,male ego's older brother,,,Blust1977Sketches,
-myB,(pə)hari?+n (l)aki (aiəŋ) (du)?uk,,male ego's younger brother,,,Blust1977Sketches,
-feB,(pə)hari?+n (l)aki? (aiəŋ) aya?,,female ego's older brother,,,Blust1977Sketches,
-fyB,(pə)hari?+n (l)aki (aiəŋ) (du)?uk,,female ego's younger brother,,,Blust1977Sketches,
-meZ,(pə)hari?+n duh (aiəŋ) aya?,,male ego's older sister,,,Blust1977Sketches,
-myZ,(pə)hari?+n duh (aiəŋ) (du)?uk,,male ego's younger sister,,,Blust1977Sketches,
-feZ,(pə)hari?+n duh (aiəŋ) aya?,,female ego's older sister,,,Blust1977Sketches,
-fyZ,(pə)hari?+n duh (aiəŋ) (du)?uk,,female ego's younger sister,,,Blust1977Sketches,
-mF,tama+n,,male ego's father,,,Blust1977Sketches,
-mM,hina+n,,male ego's mother,,,Blust1977Sketches,
-fF,tama+n,,female ego's father,,,Blust1977Sketches,
-fM,hina+n,,female ego's mother,,,Blust1977Sketches,
-mS,anak (l)aki?,,male ego's son,,,Blust1977Sketches,
-fS,anak (l)aki?,,female ego's son,,,Blust1977Sketches,
-mD,anak duh,,male ego's daughter,,,Blust1977Sketches,
-fD,anak duh,,female ego's daughter,,,Blust1977Sketches,
-mSS,so,,male ego's son's son,,,Blust1977Sketches,
-mSD,so,,male ego's son's daughter,,,Blust1977Sketches,
-mDS,so,,male ego's daughter's son,,,Blust1977Sketches,
-mDD,so,,male ego's daughter's daughter,,,Blust1977Sketches,
-fSS,so,,female ego's son's son,,,Blust1977Sketches,
-fSD,so,,female ego's son's daughter,,,Blust1977Sketches,
-fDS,so,,female ego's daughter's son,,,Blust1977Sketches,
-fDD,so,,female ego's daugher's daughter,,,Blust1977Sketches,
-mFF,huku (l)aki?,,male ego's father‘s father,,,Blust1977Sketches,
-mFM,huku duh,,male ego's father's mother,,,Blust1977Sketches,
-mMF,huku (l)aki?,,male ego's mother's father,,,Blust1977Sketches,
-mMM,huku duh,,male ego's mother's mother,,,Blust1977Sketches,
-fFF,huku (l)aki?,,female ego's father's father,,,Blust1977Sketches,
-fFM,huku duh,,female ego's father's mother,,,Blust1977Sketches,
-fMF,huku (l)aki?,,female ego's mother's father,,,Blust1977Sketches,
-fMM,huku duh,,female ego's mother's mother,,,Blust1977Sketches,
-meBS,anak,,male ego's older brother's son,,,Blust1977Sketches,
-myBS,anak,,male ego's younger brother's son,,,Blust1977Sketches,
-meZS,anak,,male ego's older sister's son,,,Blust1977Sketches,
-myZS,anak,,male ego's younger sister's son,,,Blust1977Sketches,
-meBD,anak,,male ego's older brother's daughter,,,Blust1977Sketches,
-myBD,anak,,male ego's younger brother's daughter,,,Blust1977Sketches,
-meZD,anak,,male ego's older sister's daughter,,,Blust1977Sketches,
-myZD,anak,,male ego's younger sister's daughter,,,Blust1977Sketches,
-feBS,anak,,female ego's older brother's son,,,Blust1977Sketches,
-fyBS,anak,,female ego's younger brother's son,,,Blust1977Sketches,
-feZS,anak,,female ego's older sister's son,,,Blust1977Sketches,
-fyZS,anak,,female ego's younger sister's son,,,Blust1977Sketches,
-feBD,anak,,female ego's older brother's daughter,,,Blust1977Sketches,
-fyBD,anak,,female ego's younger brother's daughter,,,Blust1977Sketches,
-feZD,anak,,female ego's older sister's daughter,,,Blust1977Sketches,
-fyZD,anak,,female ego's younger sister's daughter,,,Blust1977Sketches,
-mFeB,tama+n,,male ego's father's older brother,,,Blust1977Sketches,
-mFyB,tama+n,,male ego's father's younger brother,,,Blust1977Sketches,
-mFeZ,hina+n,,male ego's father's older sister,,,Blust1977Sketches,
-mFyZ,hina+n,,male ego's father's younger sister,,,Blust1977Sketches,
-mMeB,tama+n,,male ego's mother's older brother,,,Blust1977Sketches,
-mMyB,tama+n,,male ego's mother's younger brother,,,Blust1977Sketches,
-mMeZ,hina+n,,male ego's mother's older sister,,,Blust1977Sketches,
-mMyZ,hina+n,,male ego's mother's younger sister,,,Blust1977Sketches,
-fFeB,tama+n,,female ego's father's older brother,,,Blust1977Sketches,
-fFyB,tama+n,,female ego's father's younger brother,,,Blust1977Sketches,
-fFeZ,hina+n,,female ego's father's older sister,,,Blust1977Sketches,
-fFyZ,hina+n,,female ego's father's younger sister,,,Blust1977Sketches,
-fMeB,tama+n,,female ego's mother's older brother,,,Blust1977Sketches,
-fMyB,tama+n,,female ego's mother's younger brother,,,Blust1977Sketches,
-fMeZ,hina+n,,female ego's mother's older sister,,,Blust1977Sketches,
-fMyZ,hina+n,,female ego's mother's younger sister,,,Blust1977Sketches,
-mW,hawa+n,,male ego's wife,,,Blust1977Sketches,
-fH,hawa+n,,female ego‘s husband,,,Blust1977Sketches,
-mDH,anak hənduŋ,,male ego's daughter's husband,,,Blust1977Sketches,
-fDH,anak hənduŋ,,female ego's daughter's husband,,,Blust1977Sketches,
-mSW,anak hənduŋ,,male ego's son's wife,,,Blust1977Sketches,
-fSW,anak hənduŋ,,female ego's son's wife,,,Blust1977Sketches,
-mWF,tama+n hənduŋ,,male ego's wife's father,,,Blust1977Sketches,
-mWM,hina+n hənduŋ,,male ego's wife's mother,,,Blust1977Sketches,
-mWB,haŋu,,male ego's wife's brother,,,Blust1977Sketches,
-mWZ,haŋu,,male ego's wife's sister,,,Blust1977Sketches,
-fHF,tama+n hənduŋ,,female ego's husband's father,,,Blust1977Sketches,
-fHM,hina+n hənduŋ,,female ego's husband's mother,,,Blust1977Sketches,
-fHB,haŋu,,female ego's husband's brother,,,Blust1977Sketches,
-fHZ,haŋu,,female ego's husband's sister,,,Blust1977Sketches,
-mBW,haŋu,,male ego's brother's wife,,,Blust1977Sketches,
-fBW,haŋu,,female ego's brother's wife,,,Blust1977Sketches,
-mZH,haŋu,,male ego's sister's husband,,,Blust1977Sketches,
-fZH,haŋu,,female ego's sister's husband,,,Blust1977Sketches,
-mFBS,(pə)hari?+n higət,,male ego's father's brother's son,,,Blust1977Sketches,
-mFZS,(pə)hari?+n higət,,male ego's father's sister's son,,,Blust1977Sketches,
-mMBS,(pə)hari?+n higət,,male ego's mother's brother's son,,,Blust1977Sketches,
-mMZS,(pə)hari?+n higət,,male ego's mother's sister's son,,,Blust1977Sketches,
-mFBD,(pə)hari?+n higət,,male ego's father's brother's daughter,,,Blust1977Sketches,
-mFZD,(pə)hari?+n higət,,male ego's father's sister's daughter,,,Blust1977Sketches,
-mMBD,(pə)hari?+n higət,,male ego's mother's brother's daughter,,,Blust1977Sketches,
-mMZD,(pə)hari?+n higət,,male ego's mother's sister's daughter,,,Blust1977Sketches,
-fFBS,(pə)hari?+n higət,,female ego's father's brother's son,,,Blust1977Sketches,
-fFZS,(pə)hari?+n higət,,female ego's father's sister's son,,,Blust1977Sketches,
-fMBS,(pə)hari?+n higət,,female ego's mother's brother's son,,,Blust1977Sketches,
-fMZS,(pə)hari?+n higət,,female ego's mother's sister's son,,,Blust1977Sketches,
-fFBD,(pə)hari?+n higət,,female ego's father's brother's daughter,,,Blust1977Sketches,
-fFZD,(pə)hari?+n higət,,female ego's father's sister's daughter,,,Blust1977Sketches,
-fMBD,(pə)hari?+n higət,,female ego's mother's brother's daughter,,,Blust1977Sketches,
-fMZD,(pə)hari?+n higət,,female ego's mother's sister's daughter,,,Blust1977Sketches,
-mFeBS,(pə)hari?+n higət,,male ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-mFyBS,(pə)hari?+n higət,,male ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-mFeZS,(pə)hari?+n higət,,male ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-mFyZS,(pə)hari?+n higət,,male ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-mFeBD,(pə)hari?+n higət,,male ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mFyBD,(pə)hari?+n higət,,male ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mFeZD,(pə)hari?+n higət,,male ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mFyZD,(pə)hari?+n higət,,male ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mMeBS,(pə)hari?+n higət,,male ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-mMyBS,(pə)hari?+n higət,,male ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-mMeZS,(pə)hari?+n higət,,male ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-mMyZS,(pə)hari?+n higət,,male ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-mMeBD,(pə)hari?+n higət,,male ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mMyBD,(pə)hari?+n higət,,male ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mMeZD,(pə)hari?+n higət,,male ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mMyZD,(pə)hari?+n higət,,male ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mFBeS,(pə)hari?+n higət,,male ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-mFByS,(pə)hari?+n higət,,male ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-mFZeS,(pə)hari?+n higət,,male ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-mFZyS,(pə)hari?+n higət,,male ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-mFBeD,(pə)hari?+n higət,,male ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mFByD,(pə)hari?+n higət,,male ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mFZeD,(pə)hari?+n higət,,male ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mFZyD,(pə)hari?+n higət,,male ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mMBeS,(pə)hari?+n higət,,male ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-mMByS,(pə)hari?+n higət,,male ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-mMZeS,(pə)hari?+n higət,,male ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-mMZyS,(pə)hari?+n higət,,male ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-mMBeD,(pə)hari?+n higət,,male ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mMByD,(pə)hari?+n higət,,male ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-mMZeD,(pə)hari?+n higət,,male ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-mMZyD,(pə)hari?+n higət,,male ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fFeBS,(pə)hari?+n higət,,female ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-fFyBS,(pə)hari?+n higət,,female ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-fFeZS,(pə)hari?+n higət,,female ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-fFyZS,(pə)hari?+n higət,,female ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-fFeBD,(pə)hari?+n higət,,female ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fFyBD,(pə)hari?+n higət,,female ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fFeZD,(pə)hari?+n higət,,female ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fFyZD,(pə)hari?+n higət,,female ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fMeBS,(pə)hari?+n higət,,female ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-fMyBS,(pə)hari?+n higət,,female ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-fMeZS,(pə)hari?+n higət,,female ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-fMyZS,(pə)hari?+n higət,,female ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-fMeBD,(pə)hari?+n higət,,female ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fMyBD,(pə)hari?+n higət,,female ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fMeZD,(pə)hari?+n higət,,female ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fMyZD,(pə)hari?+n higət,,female ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fFBeS,(pə)hari?+n higət,,female ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-fFByS,(pə)hari?+n higət,,female ego's father's brother's son,,,Blust1977Sketches,Inferred; NA
-fFZeS,(pə)hari?+n higət,,female ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-fFZyS,(pə)hari?+n higət,,female ego's father's sister's son,,,Blust1977Sketches,Inferred; NA
-fFBeD,(pə)hari?+n higət,,female ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fFByD,(pə)hari?+n higət,,female ego's father's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fFZeD,(pə)hari?+n higət,,female ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fFZyD,(pə)hari?+n higət,,female ego's father's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fMBeS,(pə)hari?+n higət,,female ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-fMByS,(pə)hari?+n higət,,female ego's mother's brother's son,,,Blust1977Sketches,Inferred; NA
-fMZeS,(pə)hari?+n higət,,female ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-fMZyS,(pə)hari?+n higət,,female ego's mother's sister's son,,,Blust1977Sketches,Inferred; NA
-fMBeD,(pə)hari?+n higət,,female ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fMByD,(pə)hari?+n higət,,female ego's mother's brother's daughter,,,Blust1977Sketches,Inferred; NA
-fMZeD,(pə)hari?+n higət,,female ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
-fMZyD,(pə)hari?+n higət,,female ego's mother's sister's daughter,,,Blust1977Sketches,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","(pə)hari?+n (l)aki? (aiəŋ) aya?",,"male ego's older brother",,,"Blust1977Sketches",""
+"myB","(pə)hari?+n (l)aki (aiəŋ) (du)?uk",,"male ego's younger brother",,,"Blust1977Sketches",""
+"feB","(pə)hari?+n (l)aki? (aiəŋ) aya?",,"female ego's older brother",,,"Blust1977Sketches",""
+"fyB","(pə)hari?+n (l)aki (aiəŋ) (du)?uk",,"female ego's younger brother",,,"Blust1977Sketches",""
+"meZ","(pə)hari?+n duh (aiəŋ) aya?",,"male ego's older sister",,,"Blust1977Sketches",""
+"myZ","(pə)hari?+n duh (aiəŋ) (du)?uk",,"male ego's younger sister",,,"Blust1977Sketches",""
+"feZ","(pə)hari?+n duh (aiəŋ) aya?",,"female ego's older sister",,,"Blust1977Sketches",""
+"fyZ","(pə)hari?+n duh (aiəŋ) (du)?uk",,"female ego's younger sister",,,"Blust1977Sketches",""
+"mF","tama+n",,"male ego's father",,,"Blust1977Sketches",""
+"mM","hina+n",,"male ego's mother",,,"Blust1977Sketches",""
+"fF","tama+n",,"female ego's father",,,"Blust1977Sketches",""
+"fM","hina+n",,"female ego's mother",,,"Blust1977Sketches",""
+"mS","anak (l)aki?",,"male ego's son",,,"Blust1977Sketches",""
+"fS","anak (l)aki?",,"female ego's son",,,"Blust1977Sketches",""
+"mD","anak duh",,"male ego's daughter",,,"Blust1977Sketches",""
+"fD","anak duh",,"female ego's daughter",,,"Blust1977Sketches",""
+"mSS","so",,"male ego's son's son",,,"Blust1977Sketches",""
+"mSD","so",,"male ego's son's daughter",,,"Blust1977Sketches",""
+"mDS","so",,"male ego's daughter's son",,,"Blust1977Sketches",""
+"mDD","so",,"male ego's daughter's daughter",,,"Blust1977Sketches",""
+"fSS","so",,"female ego's son's son",,,"Blust1977Sketches",""
+"fSD","so",,"female ego's son's daughter",,,"Blust1977Sketches",""
+"fDS","so",,"female ego's daughter's son",,,"Blust1977Sketches",""
+"fDD","so",,"female ego's daugher's daughter",,,"Blust1977Sketches",""
+"mFF","huku (l)aki?",,"male ego's father‘s father",,,"Blust1977Sketches",""
+"mFM","huku duh",,"male ego's father's mother",,,"Blust1977Sketches",""
+"mMF","huku (l)aki?",,"male ego's mother's father",,,"Blust1977Sketches",""
+"mMM","huku duh",,"male ego's mother's mother",,,"Blust1977Sketches",""
+"fFF","huku (l)aki?",,"female ego's father's father",,,"Blust1977Sketches",""
+"fFM","huku duh",,"female ego's father's mother",,,"Blust1977Sketches",""
+"fMF","huku (l)aki?",,"female ego's mother's father",,,"Blust1977Sketches",""
+"fMM","huku duh",,"female ego's mother's mother",,,"Blust1977Sketches",""
+"meBS","anak",,"male ego's older brother's son",,,"Blust1977Sketches",""
+"myBS","anak",,"male ego's younger brother's son",,,"Blust1977Sketches",""
+"meZS","anak",,"male ego's older sister's son",,,"Blust1977Sketches",""
+"myZS","anak",,"male ego's younger sister's son",,,"Blust1977Sketches",""
+"meBD","anak",,"male ego's older brother's daughter",,,"Blust1977Sketches",""
+"myBD","anak",,"male ego's younger brother's daughter",,,"Blust1977Sketches",""
+"meZD","anak",,"male ego's older sister's daughter",,,"Blust1977Sketches",""
+"myZD","anak",,"male ego's younger sister's daughter",,,"Blust1977Sketches",""
+"feBS","anak",,"female ego's older brother's son",,,"Blust1977Sketches",""
+"fyBS","anak",,"female ego's younger brother's son",,,"Blust1977Sketches",""
+"feZS","anak",,"female ego's older sister's son",,,"Blust1977Sketches",""
+"fyZS","anak",,"female ego's younger sister's son",,,"Blust1977Sketches",""
+"feBD","anak",,"female ego's older brother's daughter",,,"Blust1977Sketches",""
+"fyBD","anak",,"female ego's younger brother's daughter",,,"Blust1977Sketches",""
+"feZD","anak",,"female ego's older sister's daughter",,,"Blust1977Sketches",""
+"fyZD","anak",,"female ego's younger sister's daughter",,,"Blust1977Sketches",""
+"mFeB","tama+n",,"male ego's father's older brother",,,"Blust1977Sketches",""
+"mFyB","tama+n",,"male ego's father's younger brother",,,"Blust1977Sketches",""
+"mFeZ","hina+n",,"male ego's father's older sister",,,"Blust1977Sketches",""
+"mFyZ","hina+n",,"male ego's father's younger sister",,,"Blust1977Sketches",""
+"mMeB","tama+n",,"male ego's mother's older brother",,,"Blust1977Sketches",""
+"mMyB","tama+n",,"male ego's mother's younger brother",,,"Blust1977Sketches",""
+"mMeZ","hina+n",,"male ego's mother's older sister",,,"Blust1977Sketches",""
+"mMyZ","hina+n",,"male ego's mother's younger sister",,,"Blust1977Sketches",""
+"fFeB","tama+n",,"female ego's father's older brother",,,"Blust1977Sketches",""
+"fFyB","tama+n",,"female ego's father's younger brother",,,"Blust1977Sketches",""
+"fFeZ","hina+n",,"female ego's father's older sister",,,"Blust1977Sketches",""
+"fFyZ","hina+n",,"female ego's father's younger sister",,,"Blust1977Sketches",""
+"fMeB","tama+n",,"female ego's mother's older brother",,,"Blust1977Sketches",""
+"fMyB","tama+n",,"female ego's mother's younger brother",,,"Blust1977Sketches",""
+"fMeZ","hina+n",,"female ego's mother's older sister",,,"Blust1977Sketches",""
+"fMyZ","hina+n",,"female ego's mother's younger sister",,,"Blust1977Sketches",""
+"mW","hawa+n",,"male ego's wife",,,"Blust1977Sketches",""
+"fH","hawa+n",,"female ego‘s husband",,,"Blust1977Sketches",""
+"mDH","anak hənduŋ",,"male ego's daughter's husband",,,"Blust1977Sketches",""
+"fDH","anak hənduŋ",,"female ego's daughter's husband",,,"Blust1977Sketches",""
+"mSW","anak hənduŋ",,"male ego's son's wife",,,"Blust1977Sketches",""
+"fSW","anak hənduŋ",,"female ego's son's wife",,,"Blust1977Sketches",""
+"mWF","tama+n hənduŋ",,"male ego's wife's father",,,"Blust1977Sketches",""
+"mWM","hina+n hənduŋ",,"male ego's wife's mother",,,"Blust1977Sketches",""
+"mWB","haŋu",,"male ego's wife's brother",,,"Blust1977Sketches",""
+"mWZ","haŋu",,"male ego's wife's sister",,,"Blust1977Sketches",""
+"fHF","tama+n hənduŋ",,"female ego's husband's father",,,"Blust1977Sketches",""
+"fHM","hina+n hənduŋ",,"female ego's husband's mother",,,"Blust1977Sketches",""
+"fHB","haŋu",,"female ego's husband's brother",,,"Blust1977Sketches",""
+"fHZ","haŋu",,"female ego's husband's sister",,,"Blust1977Sketches",""
+"mBW","haŋu",,"male ego's brother's wife",,,"Blust1977Sketches",""
+"fBW","haŋu",,"female ego's brother's wife",,,"Blust1977Sketches",""
+"mZH","haŋu",,"male ego's sister's husband",,,"Blust1977Sketches",""
+"fZH","haŋu",,"female ego's sister's husband",,,"Blust1977Sketches",""
+"mFBS","(pə)hari?+n higət",,"male ego's father's brother's son",,,"Blust1977Sketches",""
+"mFZS","(pə)hari?+n higət",,"male ego's father's sister's son",,,"Blust1977Sketches",""
+"mMBS","(pə)hari?+n higət",,"male ego's mother's brother's son",,,"Blust1977Sketches",""
+"mMZS","(pə)hari?+n higət",,"male ego's mother's sister's son",,,"Blust1977Sketches",""
+"mFBD","(pə)hari?+n higət",,"male ego's father's brother's daughter",,,"Blust1977Sketches",""
+"mFZD","(pə)hari?+n higət",,"male ego's father's sister's daughter",,,"Blust1977Sketches",""
+"mMBD","(pə)hari?+n higət",,"male ego's mother's brother's daughter",,,"Blust1977Sketches",""
+"mMZD","(pə)hari?+n higət",,"male ego's mother's sister's daughter",,,"Blust1977Sketches",""
+"fFBS","(pə)hari?+n higət",,"female ego's father's brother's son",,,"Blust1977Sketches",""
+"fFZS","(pə)hari?+n higət",,"female ego's father's sister's son",,,"Blust1977Sketches",""
+"fMBS","(pə)hari?+n higət",,"female ego's mother's brother's son",,,"Blust1977Sketches",""
+"fMZS","(pə)hari?+n higət",,"female ego's mother's sister's son",,,"Blust1977Sketches",""
+"fFBD","(pə)hari?+n higət",,"female ego's father's brother's daughter",,,"Blust1977Sketches",""
+"fFZD","(pə)hari?+n higət",,"female ego's father's sister's daughter",,,"Blust1977Sketches",""
+"fMBD","(pə)hari?+n higət",,"female ego's mother's brother's daughter",,,"Blust1977Sketches",""
+"fMZD","(pə)hari?+n higət",,"female ego's mother's sister's daughter",,,"Blust1977Sketches",""
+"mFeBS","(pə)hari?+n higət",,"male ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mFyBS","(pə)hari?+n higət",,"male ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mFeZS","(pə)hari?+n higət",,"male ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mFyZS","(pə)hari?+n higət",,"male ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mFeBD","(pə)hari?+n higət",,"male ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFyBD","(pə)hari?+n higət",,"male ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFeZD","(pə)hari?+n higət",,"male ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFyZD","(pə)hari?+n higət",,"male ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMeBS","(pə)hari?+n higət",,"male ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mMyBS","(pə)hari?+n higət",,"male ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mMeZS","(pə)hari?+n higət",,"male ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mMyZS","(pə)hari?+n higət",,"male ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mMeBD","(pə)hari?+n higət",,"male ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMyBD","(pə)hari?+n higət",,"male ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMeZD","(pə)hari?+n higət",,"male ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMyZD","(pə)hari?+n higət",,"male ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFBeS","(pə)hari?+n higət",,"male ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mFByS","(pə)hari?+n higət",,"male ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mFZeS","(pə)hari?+n higət",,"male ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mFZyS","(pə)hari?+n higət",,"male ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mFBeD","(pə)hari?+n higət",,"male ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFByD","(pə)hari?+n higət",,"male ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFZeD","(pə)hari?+n higət",,"male ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mFZyD","(pə)hari?+n higət",,"male ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMBeS","(pə)hari?+n higət",,"male ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mMByS","(pə)hari?+n higət",,"male ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"mMZeS","(pə)hari?+n higət",,"male ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mMZyS","(pə)hari?+n higət",,"male ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"mMBeD","(pə)hari?+n higət",,"male ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMByD","(pə)hari?+n higət",,"male ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMZeD","(pə)hari?+n higət",,"male ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"mMZyD","(pə)hari?+n higət",,"male ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFeBS","(pə)hari?+n higət",,"female ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fFyBS","(pə)hari?+n higət",,"female ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fFeZS","(pə)hari?+n higət",,"female ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fFyZS","(pə)hari?+n higət",,"female ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fFeBD","(pə)hari?+n higət",,"female ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFyBD","(pə)hari?+n higət",,"female ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFeZD","(pə)hari?+n higət",,"female ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFyZD","(pə)hari?+n higət",,"female ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMeBS","(pə)hari?+n higət",,"female ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fMyBS","(pə)hari?+n higət",,"female ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fMeZS","(pə)hari?+n higət",,"female ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fMyZS","(pə)hari?+n higət",,"female ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fMeBD","(pə)hari?+n higət",,"female ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMyBD","(pə)hari?+n higət",,"female ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMeZD","(pə)hari?+n higət",,"female ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMyZD","(pə)hari?+n higət",,"female ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFBeS","(pə)hari?+n higət",,"female ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fFByS","(pə)hari?+n higət",,"female ego's father's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fFZeS","(pə)hari?+n higət",,"female ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fFZyS","(pə)hari?+n higət",,"female ego's father's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fFBeD","(pə)hari?+n higət",,"female ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFByD","(pə)hari?+n higət",,"female ego's father's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFZeD","(pə)hari?+n higət",,"female ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fFZyD","(pə)hari?+n higət",,"female ego's father's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMBeS","(pə)hari?+n higət",,"female ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fMByS","(pə)hari?+n higət",,"female ego's mother's brother's son",,,"Blust1977Sketches","Inferred; NA"
+"fMZeS","(pə)hari?+n higət",,"female ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fMZyS","(pə)hari?+n higət",,"female ego's mother's sister's son",,,"Blust1977Sketches","Inferred; NA"
+"fMBeD","(pə)hari?+n higət",,"female ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMByD","(pə)hari?+n higət",,"female ego's mother's brother's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMZeD","(pə)hari?+n higət",,"female ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"
+"fMZyD","(pə)hari?+n higət",,"female ego's mother's sister's daughter",,,"Blust1977Sketches","Inferred; NA"

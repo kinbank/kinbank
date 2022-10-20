@@ -1,67 +1,67 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,palun,,male ego's older brother,,,Chinnery1930,
-myB,palun,,male ego's younger brother,,,Chinnery1930,
-feB,tinamean,,female ego's older brother,,,Chinnery1930,
-fyB,tinamean,,female ego's younger brother,,,Chinnery1930,
-meZ,"tinafin, tinamean",,male ego's older sister,,,Chinnery1930,
-myZ,"tinafin, tinamean",,male ego's younger sister,,,Chinnery1930,
-feZ,"palun, tinamean",,female ego's older sister,,,Chinnery1930,
-fyZ,"palun, tinamean",,female ego's younger sister,,,Chinnery1930,
-mF,tamang,,male ego's father,,,Chinnery1930,
-mM,namg,,male ego's mother,,,Chinnery1930,
-fF,tamang,,female ego's father,,,Chinnery1930,
-fM,namg,,female ego's mother,,,Chinnery1930,
-mS,natuk,,male ego's son,,,Chinnery1930,
-fS,natuk,,female ego's son,,,Chinnery1930,
-mFeZ,imuna,,male ego's father's older sister,,,Chinnery1930,
-mFyZ,imuna,,male ego's father's younger sister,,,Chinnery1930,
-fFeZ,imuna,,female ego's father's older sister,,,Chinnery1930,
-fFyZ,imuna,,female ego's father's younger sister,,,Chinnery1930,
-mWF,ifina,,male ego's wife's father,,,Chinnery1930,
-mWM,imuna,,male ego's wife's mother,,,Chinnery1930,
-fHF,inena,,female ego's husband's father,,,Chinnery1930,
-fHM,inena,,female ego's husband's mother,,,Chinnery1930,
-fHZ,ifandevin,,female ego's husband's sister,,,Chinnery1930,
-fBW,ifandevin,,female ego's brother's wife,,,Chinnery1930,
-mZH,ifina,,male ego's sister's husband,,,Chinnery1930,
-fZH,ifina,,female ego's sister's husband,,,Chinnery1930,
-mFZS,ifina,,male ego's father's sister's son,,,Chinnery1930,
-mMBS,ifina,,male ego's mother's brother's son,,,Chinnery1930,
-mFZD,kaisuna,,male ego's father's sister's daughter,,,Chinnery1930,
-mMBD,kaisuna,,male ego's mother's brother's daughter,,,Chinnery1930,
-fFZS,ifina,,female ego's father's sister's son,,,Chinnery1930,
-fMBS,"ifina, kaisuna",,female ego's mother's brother's son,,,Chinnery1930,
-fFZD,kaisuna,,female ego's father's sister's daughter,,,Chinnery1930,
-fMBD,kaisuna,,female ego's mother's brother's daughter,,,Chinnery1930,
-mFeZS,ifina,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFyZS,ifina,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFeZD,kaisuna,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mFyZD,kaisuna,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mMeBS,ifina,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMyBS,ifina,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMeBD,kaisuna,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-mMyBD,kaisuna,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-mFZeS,ifina,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFZyS,ifina,,male ego's father's sister's son,,,Chinnery1930,Inferred; NA
-mFZeD,kaisuna,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mFZyD,kaisuna,,male ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-mMBeS,ifina,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMByS,ifina,,male ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-mMBeD,kaisuna,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-mMByD,kaisuna,,male ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-fFeZS,ifina,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fFyZS,ifina,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fFeZD,kaisuna,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-fFyZD,kaisuna,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-fMeBS,"ifina, kaisuna",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fMyBS,"ifina, kaisuna",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fMeBD,kaisuna,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-fMyBD,kaisuna,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-fFZeS,ifina,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fFZyS,ifina,,female ego's father's sister's son,,,Chinnery1930,Inferred; NA
-fFZeD,kaisuna,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-fFZyD,kaisuna,,female ego's father's sister's daughter,,,Chinnery1930,Inferred; NA
-fMBeS,"ifina, kaisuna",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fMByS,"ifina, kaisuna",,female ego's mother's brother's son,,,Chinnery1930,Inferred; NA
-fMBeD,kaisuna,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
-fMByD,kaisuna,,female ego's mother's brother's daughter,,,Chinnery1930,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","palun",,"male ego's older brother",,,"Chinnery1930",""
+"myB","palun",,"male ego's younger brother",,,"Chinnery1930",""
+"feB","tinamean",,"female ego's older brother",,,"Chinnery1930",""
+"fyB","tinamean",,"female ego's younger brother",,,"Chinnery1930",""
+"meZ","tinafin, tinamean",,"male ego's older sister",,,"Chinnery1930",""
+"myZ","tinafin, tinamean",,"male ego's younger sister",,,"Chinnery1930",""
+"feZ","palun, tinamean",,"female ego's older sister",,,"Chinnery1930",""
+"fyZ","palun, tinamean",,"female ego's younger sister",,,"Chinnery1930",""
+"mF","tamang",,"male ego's father",,,"Chinnery1930",""
+"mM","namg",,"male ego's mother",,,"Chinnery1930",""
+"fF","tamang",,"female ego's father",,,"Chinnery1930",""
+"fM","namg",,"female ego's mother",,,"Chinnery1930",""
+"mS","natuk",,"male ego's son",,,"Chinnery1930",""
+"fS","natuk",,"female ego's son",,,"Chinnery1930",""
+"mFeZ","imuna",,"male ego's father's older sister",,,"Chinnery1930",""
+"mFyZ","imuna",,"male ego's father's younger sister",,,"Chinnery1930",""
+"fFeZ","imuna",,"female ego's father's older sister",,,"Chinnery1930",""
+"fFyZ","imuna",,"female ego's father's younger sister",,,"Chinnery1930",""
+"mWF","ifina",,"male ego's wife's father",,,"Chinnery1930",""
+"mWM","imuna",,"male ego's wife's mother",,,"Chinnery1930",""
+"fHF","inena",,"female ego's husband's father",,,"Chinnery1930",""
+"fHM","inena",,"female ego's husband's mother",,,"Chinnery1930",""
+"fHZ","ifandevin",,"female ego's husband's sister",,,"Chinnery1930",""
+"fBW","ifandevin",,"female ego's brother's wife",,,"Chinnery1930",""
+"mZH","ifina",,"male ego's sister's husband",,,"Chinnery1930",""
+"fZH","ifina",,"female ego's sister's husband",,,"Chinnery1930",""
+"mFZS","ifina",,"male ego's father's sister's son",,,"Chinnery1930",""
+"mMBS","ifina",,"male ego's mother's brother's son",,,"Chinnery1930",""
+"mFZD","kaisuna",,"male ego's father's sister's daughter",,,"Chinnery1930",""
+"mMBD","kaisuna",,"male ego's mother's brother's daughter",,,"Chinnery1930",""
+"fFZS","ifina",,"female ego's father's sister's son",,,"Chinnery1930",""
+"fMBS","ifina, kaisuna",,"female ego's mother's brother's son",,,"Chinnery1930",""
+"fFZD","kaisuna",,"female ego's father's sister's daughter",,,"Chinnery1930",""
+"fMBD","kaisuna",,"female ego's mother's brother's daughter",,,"Chinnery1930",""
+"mFeZS","ifina",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFyZS","ifina",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFeZD","kaisuna",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mFyZD","kaisuna",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mMeBS","ifina",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMyBS","ifina",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMeBD","kaisuna",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"mMyBD","kaisuna",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"mFZeS","ifina",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFZyS","ifina",,"male ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"mFZeD","kaisuna",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mFZyD","kaisuna",,"male ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"mMBeS","ifina",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMByS","ifina",,"male ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"mMBeD","kaisuna",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"mMByD","kaisuna",,"male ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"fFeZS","ifina",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fFyZS","ifina",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fFeZD","kaisuna",,"female ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"fFyZD","kaisuna",,"female ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"fMeBS","ifina, kaisuna",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fMyBS","ifina, kaisuna",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fMeBD","kaisuna",,"female ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"fMyBD","kaisuna",,"female ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"fFZeS","ifina",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fFZyS","ifina",,"female ego's father's sister's son",,,"Chinnery1930","Inferred; NA"
+"fFZeD","kaisuna",,"female ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"fFZyD","kaisuna",,"female ego's father's sister's daughter",,,"Chinnery1930","Inferred; NA"
+"fMBeS","ifina, kaisuna",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fMByS","ifina, kaisuna",,"female ego's mother's brother's son",,,"Chinnery1930","Inferred; NA"
+"fMBeD","kaisuna",,"female ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"
+"fMByD","kaisuna",,"female ego's mother's brother's daughter",,,"Chinnery1930","Inferred; NA"

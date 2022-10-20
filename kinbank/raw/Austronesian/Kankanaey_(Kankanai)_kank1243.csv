@@ -1,151 +1,151 @@
-parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
-meB,agi,,male ego's older brother,,,Kroeber1919,
-myB,yugran,,male ego's younger brother,,,Kroeber1919,
-feB,agi,,female ego's older brother,,,Kroeber1919,
-fyB,yugran,,female ego's younger brother,,,Kroeber1919,
-meZ,agi,,male ego's older sister,,,Kroeber1919,
-myZ,yugran,,male ego's younger sister,,,Kroeber1919,
-feZ,agi,,female ego's older sister,,,Kroeber1919,
-fyZ,yugran,,female ego's younger sister,,,Kroeber1919,
-mF,ama,,male ego's father,,,Kroeber1919,
-mM,ina,,male ego's mother,,,Kroeber1919,
-fF,ama,,female ego's father,,,Kroeber1919,
-fM,ina,,female ego's mother,,,Kroeber1919,
-mS,anak,,male ego's son,,,Kroeber1919,
-fS,anak,,female ego's son,,,Kroeber1919,
-mD,anak,,male ego's daughter,,,Kroeber1919,
-fD,anak,,female ego's daughter,,,Kroeber1919,
-mFF,apo,,male ego's father‘s father,,,Kroeber1919,
-mFM,apo,,male ego's father's mother,,,Kroeber1919,
-mMF,apo,,male ego's mother's father,,,Kroeber1919,
-mMM,apo,,male ego's mother's mother,,,Kroeber1919,
-fFF,apo,,female ego's father's father,,,Kroeber1919,
-fFM,apo,,female ego's father's mother,,,Kroeber1919,
-fMF,apo,,female ego's mother's father,,,Kroeber1919,
-fMM,apo,,female ego's mother's mother,,,Kroeber1919,
-meBS,kam-onak-en,,male ego's older brother's son,,,Kroeber1919,
-myBS,kam-onak-en,,male ego's younger brother's son,,,Kroeber1919,
-meZS,kam-onak-en,,male ego's older sister's son,,,Kroeber1919,
-myZS,kam-onak-en,,male ego's younger sister's son,,,Kroeber1919,
-meBD,kam-onak-en,,male ego's older brother's daughter,,,Kroeber1919,
-myBD,kam-onak-en,,male ego's younger brother's daughter,,,Kroeber1919,
-meZD,kam-onak-en,,male ego's older sister's daughter,,,Kroeber1919,
-myZD,kam-onak-en,,male ego's younger sister's daughter,,,Kroeber1919,
-feBS,kam-onak-en,,female ego's older brother's son,,,Kroeber1919,
-fyBS,kam-onak-en,,female ego's younger brother's son,,,Kroeber1919,
-feZS,kam-onak-en,,female ego's older sister's son,,,Kroeber1919,
-fyZS,kam-onak-en,,female ego's younger sister's son,,,Kroeber1919,
-feBD,kam-onak-en,,female ego's older brother's daughter,,,Kroeber1919,
-fyBD,kam-onak-en,,female ego's younger brother's daughter,,,Kroeber1919,
-feZD,kam-onak-en,,female ego's older sister's daughter,,,Kroeber1919,
-fyZD,kam-onak-en,,female ego's younger sister's daughter,,,Kroeber1919,
-mFeB,alitao,,male ego's father's older brother,,,Kroeber1919,
-mFyB,alitao,,male ego's father's younger brother,,,Kroeber1919,
-mFeZ,ikit,,male ego's father's older sister,,,Kroeber1919,
-mFyZ,ikit,,male ego's father's younger sister,,,Kroeber1919,
-mMeB,alitao,,male ego's mother's older brother,,,Kroeber1919,
-mMyB,alitao,,male ego's mother's younger brother,,,Kroeber1919,
-mMeZ,ikit,,male ego's mother's older sister,,,Kroeber1919,
-mMyZ,ikit,,male ego's mother's younger sister,,,Kroeber1919,
-fFeB,alitao,,female ego's father's older brother,,,Kroeber1919,
-fFyB,alitao,,female ego's father's younger brother,,,Kroeber1919,
-fFeZ,ikit,,female ego's father's older sister,,,Kroeber1919,
-fFyZ,ikit,,female ego's father's younger sister,,,Kroeber1919,
-fMeB,alitao,,female ego's mother's older brother,,,Kroeber1919,
-fMyB,alitao,,female ego's mother's younger brother,,,Kroeber1919,
-fMeZ,ikit,,female ego's mother's older sister,,,Kroeber1919,
-fMyZ,ikit,,female ego's mother's younger sister,,,Kroeber1919,
-mW,asawa,,male ego's wife,,,Kroeber1919,
-fH,asawa,,female ego‘s husband,,,Kroeber1919,
-mWF,"katugangan, katukangan",,male ego's wife's father,,,Kroeber1919,
-mWM,"katugangan, katukangan",,male ego's wife's mother,,,Kroeber1919,
-mWB,kasud,,male ego's wife's brother,,,Kroeber1919,
-mWZ,aido,,male ego's wife's sister,,,Kroeber1919,
-fHF,"katugangan, katukangan",,female ego's husband's father,,,Kroeber1919,
-fHM,"katugangan, katukangan",,female ego's husband's mother,,,Kroeber1919,
-fHB,kasud,,female ego's husband's brother,,,Kroeber1919,
-fHZ,aido,,female ego's husband's sister,,,Kroeber1919,
-mBW,aido,,male ego's brother's wife,,,Kroeber1919,
-fBW,aido,,female ego's brother's wife,,,Kroeber1919,
-mZH,kasud,,male ego's sister's husband,,,Kroeber1919,
-fZH,kasud,,female ego's sister's husband,,,Kroeber1919,
-mFBS,sin-pi-n-san,,male ego's father's brother's son,,,Kroeber1919,
-mFZS,sin-pi-n-san,,male ego's father's sister's son,,,Kroeber1919,
-mMBS,sin-pi-n-san,,male ego's mother's brother's son,,,Kroeber1919,
-mMZS,sin-pi-n-san,,male ego's mother's sister's son,,,Kroeber1919,
-mFBD,sin-pi-n-san,,male ego's father's brother's daughter,,,Kroeber1919,
-mFZD,sin-pi-n-san,,male ego's father's sister's daughter,,,Kroeber1919,
-mMBD,sin-pi-n-san,,male ego's mother's brother's daughter,,,Kroeber1919,
-mMZD,sin-pi-n-san,,male ego's mother's sister's daughter,,,Kroeber1919,
-fFBS,sin-pi-n-san,,female ego's father's brother's son,,,Kroeber1919,
-fFZS,sin-pi-n-san,,female ego's father's sister's son,,,Kroeber1919,
-fMBS,sin-pi-n-san,,female ego's mother's brother's son,,,Kroeber1919,
-fMZS,sin-pi-n-san,,female ego's mother's sister's son,,,Kroeber1919,
-fFBD,sin-pi-n-san,,female ego's father's brother's daughter,,,Kroeber1919,
-fFZD,sin-pi-n-san,,female ego's father's sister's daughter,,,Kroeber1919,
-fMBD,sin-pi-n-san,,female ego's mother's brother's daughter,,,Kroeber1919,
-fMZD,sin-pi-n-san,,female ego's mother's sister's daughter,,,Kroeber1919,
-mFeBS,sin-pi-n-san,,male ego's father's brother's son,,,Kroeber1919,Inferred; NA
-mFyBS,sin-pi-n-san,,male ego's father's brother's son,,,Kroeber1919,Inferred; NA
-mFeZS,sin-pi-n-san,,male ego's father's sister's son,,,Kroeber1919,Inferred; NA
-mFyZS,sin-pi-n-san,,male ego's father's sister's son,,,Kroeber1919,Inferred; NA
-mFeBD,sin-pi-n-san,,male ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-mFyBD,sin-pi-n-san,,male ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-mFeZD,sin-pi-n-san,,male ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-mFyZD,sin-pi-n-san,,male ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-mMeBS,sin-pi-n-san,,male ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-mMyBS,sin-pi-n-san,,male ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-mMeZS,sin-pi-n-san,,male ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-mMyZS,sin-pi-n-san,,male ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-mMeBD,sin-pi-n-san,,male ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-mMyBD,sin-pi-n-san,,male ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-mMeZD,sin-pi-n-san,,male ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-mMyZD,sin-pi-n-san,,male ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-mFBeS,sin-pi-n-san,,male ego's father's brother's son,,,Kroeber1919,Inferred; NA
-mFByS,sin-pi-n-san,,male ego's father's brother's son,,,Kroeber1919,Inferred; NA
-mFZeS,sin-pi-n-san,,male ego's father's sister's son,,,Kroeber1919,Inferred; NA
-mFZyS,sin-pi-n-san,,male ego's father's sister's son,,,Kroeber1919,Inferred; NA
-mFBeD,sin-pi-n-san,,male ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-mFByD,sin-pi-n-san,,male ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-mFZeD,sin-pi-n-san,,male ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-mFZyD,sin-pi-n-san,,male ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-mMBeS,sin-pi-n-san,,male ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-mMByS,sin-pi-n-san,,male ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-mMZeS,sin-pi-n-san,,male ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-mMZyS,sin-pi-n-san,,male ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-mMBeD,sin-pi-n-san,,male ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-mMByD,sin-pi-n-san,,male ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-mMZeD,sin-pi-n-san,,male ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-mMZyD,sin-pi-n-san,,male ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-fFeBS,sin-pi-n-san,,female ego's father's brother's son,,,Kroeber1919,Inferred; NA
-fFyBS,sin-pi-n-san,,female ego's father's brother's son,,,Kroeber1919,Inferred; NA
-fFeZS,sin-pi-n-san,,female ego's father's sister's son,,,Kroeber1919,Inferred; NA
-fFyZS,sin-pi-n-san,,female ego's father's sister's son,,,Kroeber1919,Inferred; NA
-fFeBD,sin-pi-n-san,,female ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-fFyBD,sin-pi-n-san,,female ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-fFeZD,sin-pi-n-san,,female ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-fFyZD,sin-pi-n-san,,female ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-fMeBS,sin-pi-n-san,,female ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-fMyBS,sin-pi-n-san,,female ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-fMeZS,sin-pi-n-san,,female ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-fMyZS,sin-pi-n-san,,female ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-fMeBD,sin-pi-n-san,,female ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-fMyBD,sin-pi-n-san,,female ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-fMeZD,sin-pi-n-san,,female ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-fMyZD,sin-pi-n-san,,female ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-fFBeS,sin-pi-n-san,,female ego's father's brother's son,,,Kroeber1919,Inferred; NA
-fFByS,sin-pi-n-san,,female ego's father's brother's son,,,Kroeber1919,Inferred; NA
-fFZeS,sin-pi-n-san,,female ego's father's sister's son,,,Kroeber1919,Inferred; NA
-fFZyS,sin-pi-n-san,,female ego's father's sister's son,,,Kroeber1919,Inferred; NA
-fFBeD,sin-pi-n-san,,female ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-fFByD,sin-pi-n-san,,female ego's father's brother's daughter,,,Kroeber1919,Inferred; NA
-fFZeD,sin-pi-n-san,,female ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-fFZyD,sin-pi-n-san,,female ego's father's sister's daughter,,,Kroeber1919,Inferred; NA
-fMBeS,sin-pi-n-san,,female ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-fMByS,sin-pi-n-san,,female ego's mother's brother's son,,,Kroeber1919,Inferred; NA
-fMZeS,sin-pi-n-san,,female ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-fMZyS,sin-pi-n-san,,female ego's mother's sister's son,,,Kroeber1919,Inferred; NA
-fMBeD,sin-pi-n-san,,female ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-fMByD,sin-pi-n-san,,female ego's mother's brother's daughter,,,Kroeber1919,Inferred; NA
-fMZeD,sin-pi-n-san,,female ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
-fMZyD,sin-pi-n-san,,female ego's mother's sister's daughter,,,Kroeber1919,Inferred; NA
+"parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
+"meB","agi",,"male ego's older brother",,,"Kroeber1919",""
+"myB","yugran",,"male ego's younger brother",,,"Kroeber1919",""
+"feB","agi",,"female ego's older brother",,,"Kroeber1919",""
+"fyB","yugran",,"female ego's younger brother",,,"Kroeber1919",""
+"meZ","agi",,"male ego's older sister",,,"Kroeber1919",""
+"myZ","yugran",,"male ego's younger sister",,,"Kroeber1919",""
+"feZ","agi",,"female ego's older sister",,,"Kroeber1919",""
+"fyZ","yugran",,"female ego's younger sister",,,"Kroeber1919",""
+"mF","ama",,"male ego's father",,,"Kroeber1919",""
+"mM","ina",,"male ego's mother",,,"Kroeber1919",""
+"fF","ama",,"female ego's father",,,"Kroeber1919",""
+"fM","ina",,"female ego's mother",,,"Kroeber1919",""
+"mS","anak",,"male ego's son",,,"Kroeber1919",""
+"fS","anak",,"female ego's son",,,"Kroeber1919",""
+"mD","anak",,"male ego's daughter",,,"Kroeber1919",""
+"fD","anak",,"female ego's daughter",,,"Kroeber1919",""
+"mFF","apo",,"male ego's father‘s father",,,"Kroeber1919",""
+"mFM","apo",,"male ego's father's mother",,,"Kroeber1919",""
+"mMF","apo",,"male ego's mother's father",,,"Kroeber1919",""
+"mMM","apo",,"male ego's mother's mother",,,"Kroeber1919",""
+"fFF","apo",,"female ego's father's father",,,"Kroeber1919",""
+"fFM","apo",,"female ego's father's mother",,,"Kroeber1919",""
+"fMF","apo",,"female ego's mother's father",,,"Kroeber1919",""
+"fMM","apo",,"female ego's mother's mother",,,"Kroeber1919",""
+"meBS","kam-onak-en",,"male ego's older brother's son",,,"Kroeber1919",""
+"myBS","kam-onak-en",,"male ego's younger brother's son",,,"Kroeber1919",""
+"meZS","kam-onak-en",,"male ego's older sister's son",,,"Kroeber1919",""
+"myZS","kam-onak-en",,"male ego's younger sister's son",,,"Kroeber1919",""
+"meBD","kam-onak-en",,"male ego's older brother's daughter",,,"Kroeber1919",""
+"myBD","kam-onak-en",,"male ego's younger brother's daughter",,,"Kroeber1919",""
+"meZD","kam-onak-en",,"male ego's older sister's daughter",,,"Kroeber1919",""
+"myZD","kam-onak-en",,"male ego's younger sister's daughter",,,"Kroeber1919",""
+"feBS","kam-onak-en",,"female ego's older brother's son",,,"Kroeber1919",""
+"fyBS","kam-onak-en",,"female ego's younger brother's son",,,"Kroeber1919",""
+"feZS","kam-onak-en",,"female ego's older sister's son",,,"Kroeber1919",""
+"fyZS","kam-onak-en",,"female ego's younger sister's son",,,"Kroeber1919",""
+"feBD","kam-onak-en",,"female ego's older brother's daughter",,,"Kroeber1919",""
+"fyBD","kam-onak-en",,"female ego's younger brother's daughter",,,"Kroeber1919",""
+"feZD","kam-onak-en",,"female ego's older sister's daughter",,,"Kroeber1919",""
+"fyZD","kam-onak-en",,"female ego's younger sister's daughter",,,"Kroeber1919",""
+"mFeB","alitao",,"male ego's father's older brother",,,"Kroeber1919",""
+"mFyB","alitao",,"male ego's father's younger brother",,,"Kroeber1919",""
+"mFeZ","ikit",,"male ego's father's older sister",,,"Kroeber1919",""
+"mFyZ","ikit",,"male ego's father's younger sister",,,"Kroeber1919",""
+"mMeB","alitao",,"male ego's mother's older brother",,,"Kroeber1919",""
+"mMyB","alitao",,"male ego's mother's younger brother",,,"Kroeber1919",""
+"mMeZ","ikit",,"male ego's mother's older sister",,,"Kroeber1919",""
+"mMyZ","ikit",,"male ego's mother's younger sister",,,"Kroeber1919",""
+"fFeB","alitao",,"female ego's father's older brother",,,"Kroeber1919",""
+"fFyB","alitao",,"female ego's father's younger brother",,,"Kroeber1919",""
+"fFeZ","ikit",,"female ego's father's older sister",,,"Kroeber1919",""
+"fFyZ","ikit",,"female ego's father's younger sister",,,"Kroeber1919",""
+"fMeB","alitao",,"female ego's mother's older brother",,,"Kroeber1919",""
+"fMyB","alitao",,"female ego's mother's younger brother",,,"Kroeber1919",""
+"fMeZ","ikit",,"female ego's mother's older sister",,,"Kroeber1919",""
+"fMyZ","ikit",,"female ego's mother's younger sister",,,"Kroeber1919",""
+"mW","asawa",,"male ego's wife",,,"Kroeber1919",""
+"fH","asawa",,"female ego‘s husband",,,"Kroeber1919",""
+"mWF","katugangan, katukangan",,"male ego's wife's father",,,"Kroeber1919",""
+"mWM","katugangan, katukangan",,"male ego's wife's mother",,,"Kroeber1919",""
+"mWB","kasud",,"male ego's wife's brother",,,"Kroeber1919",""
+"mWZ","aido",,"male ego's wife's sister",,,"Kroeber1919",""
+"fHF","katugangan, katukangan",,"female ego's husband's father",,,"Kroeber1919",""
+"fHM","katugangan, katukangan",,"female ego's husband's mother",,,"Kroeber1919",""
+"fHB","kasud",,"female ego's husband's brother",,,"Kroeber1919",""
+"fHZ","aido",,"female ego's husband's sister",,,"Kroeber1919",""
+"mBW","aido",,"male ego's brother's wife",,,"Kroeber1919",""
+"fBW","aido",,"female ego's brother's wife",,,"Kroeber1919",""
+"mZH","kasud",,"male ego's sister's husband",,,"Kroeber1919",""
+"fZH","kasud",,"female ego's sister's husband",,,"Kroeber1919",""
+"mFBS","sin-pi-n-san",,"male ego's father's brother's son",,,"Kroeber1919",""
+"mFZS","sin-pi-n-san",,"male ego's father's sister's son",,,"Kroeber1919",""
+"mMBS","sin-pi-n-san",,"male ego's mother's brother's son",,,"Kroeber1919",""
+"mMZS","sin-pi-n-san",,"male ego's mother's sister's son",,,"Kroeber1919",""
+"mFBD","sin-pi-n-san",,"male ego's father's brother's daughter",,,"Kroeber1919",""
+"mFZD","sin-pi-n-san",,"male ego's father's sister's daughter",,,"Kroeber1919",""
+"mMBD","sin-pi-n-san",,"male ego's mother's brother's daughter",,,"Kroeber1919",""
+"mMZD","sin-pi-n-san",,"male ego's mother's sister's daughter",,,"Kroeber1919",""
+"fFBS","sin-pi-n-san",,"female ego's father's brother's son",,,"Kroeber1919",""
+"fFZS","sin-pi-n-san",,"female ego's father's sister's son",,,"Kroeber1919",""
+"fMBS","sin-pi-n-san",,"female ego's mother's brother's son",,,"Kroeber1919",""
+"fMZS","sin-pi-n-san",,"female ego's mother's sister's son",,,"Kroeber1919",""
+"fFBD","sin-pi-n-san",,"female ego's father's brother's daughter",,,"Kroeber1919",""
+"fFZD","sin-pi-n-san",,"female ego's father's sister's daughter",,,"Kroeber1919",""
+"fMBD","sin-pi-n-san",,"female ego's mother's brother's daughter",,,"Kroeber1919",""
+"fMZD","sin-pi-n-san",,"female ego's mother's sister's daughter",,,"Kroeber1919",""
+"mFeBS","sin-pi-n-san",,"male ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"mFyBS","sin-pi-n-san",,"male ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"mFeZS","sin-pi-n-san",,"male ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"mFyZS","sin-pi-n-san",,"male ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"mFeBD","sin-pi-n-san",,"male ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mFyBD","sin-pi-n-san",,"male ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mFeZD","sin-pi-n-san",,"male ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mFyZD","sin-pi-n-san",,"male ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mMeBS","sin-pi-n-san",,"male ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"mMyBS","sin-pi-n-san",,"male ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"mMeZS","sin-pi-n-san",,"male ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"mMyZS","sin-pi-n-san",,"male ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"mMeBD","sin-pi-n-san",,"male ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mMyBD","sin-pi-n-san",,"male ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mMeZD","sin-pi-n-san",,"male ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mMyZD","sin-pi-n-san",,"male ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mFBeS","sin-pi-n-san",,"male ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"mFByS","sin-pi-n-san",,"male ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"mFZeS","sin-pi-n-san",,"male ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"mFZyS","sin-pi-n-san",,"male ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"mFBeD","sin-pi-n-san",,"male ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mFByD","sin-pi-n-san",,"male ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mFZeD","sin-pi-n-san",,"male ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mFZyD","sin-pi-n-san",,"male ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mMBeS","sin-pi-n-san",,"male ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"mMByS","sin-pi-n-san",,"male ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"mMZeS","sin-pi-n-san",,"male ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"mMZyS","sin-pi-n-san",,"male ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"mMBeD","sin-pi-n-san",,"male ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mMByD","sin-pi-n-san",,"male ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"mMZeD","sin-pi-n-san",,"male ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"mMZyD","sin-pi-n-san",,"male ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fFeBS","sin-pi-n-san",,"female ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"fFyBS","sin-pi-n-san",,"female ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"fFeZS","sin-pi-n-san",,"female ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"fFyZS","sin-pi-n-san",,"female ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"fFeBD","sin-pi-n-san",,"female ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fFyBD","sin-pi-n-san",,"female ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fFeZD","sin-pi-n-san",,"female ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fFyZD","sin-pi-n-san",,"female ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fMeBS","sin-pi-n-san",,"female ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"fMyBS","sin-pi-n-san",,"female ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"fMeZS","sin-pi-n-san",,"female ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"fMyZS","sin-pi-n-san",,"female ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"fMeBD","sin-pi-n-san",,"female ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fMyBD","sin-pi-n-san",,"female ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fMeZD","sin-pi-n-san",,"female ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fMyZD","sin-pi-n-san",,"female ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fFBeS","sin-pi-n-san",,"female ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"fFByS","sin-pi-n-san",,"female ego's father's brother's son",,,"Kroeber1919","Inferred; NA"
+"fFZeS","sin-pi-n-san",,"female ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"fFZyS","sin-pi-n-san",,"female ego's father's sister's son",,,"Kroeber1919","Inferred; NA"
+"fFBeD","sin-pi-n-san",,"female ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fFByD","sin-pi-n-san",,"female ego's father's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fFZeD","sin-pi-n-san",,"female ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fFZyD","sin-pi-n-san",,"female ego's father's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fMBeS","sin-pi-n-san",,"female ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"fMByS","sin-pi-n-san",,"female ego's mother's brother's son",,,"Kroeber1919","Inferred; NA"
+"fMZeS","sin-pi-n-san",,"female ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"fMZyS","sin-pi-n-san",,"female ego's mother's sister's son",,,"Kroeber1919","Inferred; NA"
+"fMBeD","sin-pi-n-san",,"female ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fMByD","sin-pi-n-san",,"female ego's mother's brother's daughter",,,"Kroeber1919","Inferred; NA"
+"fMZeD","sin-pi-n-san",,"female ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
+"fMZyD","sin-pi-n-san",,"female ego's mother's sister's daughter",,,"Kroeber1919","Inferred; NA"
