@@ -4,6 +4,8 @@
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
+**Sources**: [sources.bib](./sources.bib)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
@@ -27,7 +29,7 @@ This is the basis for creating rows in CLDF representations of the data by
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 201827
+[dc:extent](http://purl.org/dc/terms/extent) | 210903
 
 
 ### Columns
@@ -42,7 +44,7 @@ Name/Property | Datatype | Description
 [Form](http://cldf.clld.org/v1.0/terms.rdf#form) | `string` | 
 [Segments](http://cldf.clld.org/v1.0/terms.rdf#segments) | list of `string` (separated by ` `) | 
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 `Cognacy` | `string` | 
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
@@ -53,7 +55,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1159
+[dc:extent](http://purl.org/dc/terms/extent) | 1229
 
 
 ### Columns
@@ -83,7 +85,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 939
+[dc:extent](http://purl.org/dc/terms/extent) | 943
 
 
 ### Columns

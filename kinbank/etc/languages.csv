@@ -1,4 +1,4 @@
-ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
+﻿ID,Label,Glottocode,ISO639P3code,Name,Family,Latitude,Longitude,Project,ProjectFile,EntryDate,Comment,Link,Set
 v_adnyamathanhaadny1235,Adnyamathanha_adny1235,adny1235,adt,Adnyamathanha,Pama-Nyungan,-30.1451,138.671,varikin,Adnyamathanha_adny1235.txt,,,,Varikin
 v_aghulaghu1253,Aghul_aghu1253,aghu1253,agx,Aghul,Nakh-Daghestanian,41.9242,47.5843,varikin,Aghul_aghu1253.txt,,,,Varikin
 v_aguarunaagua1253,Aguaruna_agua1253,agua1253,agr,Aguaruna,,-5.30044,-77.9218,varikin,Aguaruna_agua1253.txt,,,,Varikin
@@ -675,7 +675,7 @@ p_ibaloinabaloiibal1244,Ibaloi_(Nabaloi)_ibal1244,ibal1244,ibl,Ibaloi,Austronesi
 p_ibanagiban1267,Ibanag_iban1267,iban1267,ibg,Ibanag,Austronesian,17.4201,121.891,parabank,Ibanag iban1267.txt,20170620.0,,,Parabank
 p_ibaniban1264,Iban_iban1264,iban1264,iba,Iban,Austronesian,2.09041,112.934,parabank,Iban iban1264.txt,20170620.0,,,Parabank
 p_idaanidaa1241,Ida'an_idaa1241,idaa1241,dbj,Ida'an,Austronesian,5.29059,118.515,parabank,Ida'an idaa1241.txt,20170620.0,,,Parabank
-p_idinucl1597,Idi_nucl1597,nucl1597,idi,Idi,,-8.75976,142.301,parabank,Idi_nucl1597.csv,,,,Parabank
+p_idinucl1597,Idi_nucl1597,nucl1597,idi,Idi,,-8.75976,142.301,parabank,Idi nucl1597.txt,,,,Parabank
 p_ifugawifugaoifug1247,Ifugaw_(Ifugao)_ifug1247,ifug1247,,Ifugaw,Austronesian,,,parabank,Ifugaw (Ifugao) ifug1247.txt,20170406.0,,,Parabank
 p_iliuuniliu1237,Ili'uun_iliu1237,iliu1237,ilu,Ili'uun,Austronesian,-7.84385,125.902,parabank,Ili'uun iliu1237.txt,20170616.0,,,Parabank
 p_ilokanoilok1237,Ilokano_ilok1237,ilok1237,ilo,Iloko,Austronesian,15.9361,120.993,parabank,Ilokano ilok1237.txt,20170620.0,,,Parabank
@@ -707,7 +707,7 @@ p_khalkhamongolianmong1331,Khalkha-Mongolian_mong1331,mong1331,mon,Mongolian,,,,
 p_kilivilakili1267,Kilivila_kili1267,kili1267,kij,Kilivila,Austronesian,-8.72574,151.072,parabank,Kilivila kili1267.txt,20170627.0,,,Parabank
 p_kiputkipu1237,Kiput_kipu1237,kipu1237,kyi,Kiput,Austronesian,4.16535,114.367,parabank,Kiput kipu1237.txt,20161202.0,,,Parabank
 p_kiramankira1248,Kiraman_kira1248,kira1248,,Kiramang,,,,parabank,Kiraman kira1248.txt,20170621.0,,,Parabank
-p_kiwaiankiwa1251,Kiwaian_kiwa1251,kiwa1251,,Kiwaian,,,,parabank,Kiwaian kiwa1251.txt,,,,Parabank
+p_kiwaiansout2949,Kiwaian_sout2949,sout2949,,Southern Kiwaian,,,,parabank,Kiwaian sout2949.txt,,,,Parabank
 p_klonklon1234,Klon_kelo1247,kelo1247,,Klon-Kafoa,,,,parabank,Klon kelo1247.txt,20161124.0,,,Parabank
 p_kodeohakode1237,Kodeoha_kode1237,kode1237,vko,Kodeoha,Austronesian,-3.39566,120.937,parabank,Kodeoha kode1237.txt,20161209.0,,,Parabank
 p_kogicogu1240,Kogi_cogu1240,cogu1240,kog,Cogui,,10.9485,-73.8043,parabank,Kogi_cogu1240.txt,20191115.0,,,Parabank

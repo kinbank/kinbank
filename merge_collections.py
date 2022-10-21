@@ -45,13 +45,28 @@ all_filenames = [
     "collections/varikin/kinbank/etc/languages.csv",
     "collections/parabank/kinbank/etc/languages.csv",
     "collections/kinura/kinbank/etc/languages.csv",
-    "collections/goeldi/kinbank/etc/languages.csv",
+    "collections/goeldi/kinbank/etc/languages.csv"
 ]
 
 #combine all files in the list
 combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames ])
 #export to csv
 combined_csv.to_csv("kinbank/etc/languages.csv", index=False, encoding='utf-8-sig')
+
+# combine concepts data
+all_concepts = [
+        "collections/varikin/kinbank/etc/concepts.csv",
+    "collections/parabank/kinbank/etc/concepts.csv",
+    "collections/kinura/kinbank/etc/concepts.csv",
+    "collections/goeldi/kinbank/etc/concepts.csv"
+]
+
+concepts = pd.concat([pd.read_csv(f) for f in all_concepts])
+
+# remove duplicates
+concepts = concepts.drop_duplicates(keep = "first")
+concepts['Concepticon_ID'] = concepts['Concepticon_ID'].apply(lambda x: x if pd.isnull(x) else str(int(x)))
+concepts.to_csv("kinbank/etc/concepts.csv", index=False, encoding='utf-8-sig', float_format="%.")
 
 # combine source.bib files
 all_bibs = [
@@ -61,7 +76,6 @@ all_bibs = [
     "collections/goeldi/kinbank/raw/sources.bib"
 ]
 
-# combine bibtex files
 out_bib = ""
 for bib in all_bibs:
     with open(bib) as infile:
@@ -71,8 +85,3 @@ for bib in all_bibs:
 # parse bibtex
 out_bib = database.parse_string(out_bib, bib_format= 'bibtex')
 out_bib.to_file('kinbank/raw/sources.bib', bib_format = 'bibtex')
-
-#combine all files in the list
-# with open('kinbank/raw/sources.bib', 'w') as file:
-#     input_lines = fileinput.input(all_bibs)
-#     file.writelines(input_lines)

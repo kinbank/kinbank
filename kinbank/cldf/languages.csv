@@ -702,7 +702,6 @@ p_khalkhamongolianmong1331,Mongolian,mong1331,Mongolian,mon,Eurasia,,,,Khalkha-M
 p_kilivilakili1267,Kilivila,kili1267,Kilivila,kij,Papunesia,-8.72574,151.072,Austronesian,Kilivila_kili1267,parabank,Kilivila kili1267.txt,,20170627.0,,,Parabank
 p_kiputkipu1237,Kiput,kipu1237,Kiput,kyi,Papunesia,4.16535,114.367,Austronesian,Kiput_kipu1237,parabank,Kiput kipu1237.txt,,20161202.0,,,Parabank
 p_kiramankira1248,Kiramang,kira1248,Kiramang,,Papunesia,,,,Kiraman_kira1248,parabank,Kiraman kira1248.txt,,20170621.0,,,Parabank
-p_kiwaiankiwa1251,Kiwaian,kiwa1251,Kiwaian,,,,,,Kiwaian_kiwa1251,parabank,Kiwaian kiwa1251.txt,,,,,Parabank
 p_kodeohakode1237,Kodeoha,kode1237,Kodeoha,vko,Papunesia,-3.39566,120.937,Austronesian,Kodeoha_kode1237,parabank,Kodeoha kode1237.txt,,20161209.0,,,Parabank
 p_kogicogu1240,Cogui,cogu1240,Cogui,kog,South America,10.9485,-73.8043,,Kogi_cogu1240,parabank,Kogi_cogu1240.txt,,20191115.0,,,Parabank
 p_kombakomb1273,Komba,komb1273,Komba,kpf,Papunesia,-6.16163,147.28,Nuclear Trans New Guinea,Komba_komb1273,parabank,Komba komb1273.txt,,20171030.0,,,Parabank
@@ -1142,6 +1141,7 @@ p_kemtuikkemt1242,Kemtuik,kemt1242,Kemtuik,,Papunesia,-2.64894,140.372,Nimborani
 p_ketengbankete1254,Ketengban,kete1254,Ketengban,,Papunesia,-4.50417,140.443,Nuclear Trans New Guinea,Ketengban_kete1254,parabank,,,,,,
 p_kilmerikilm1241,Kilmeri,kilm1241,Kilmeri,,Papunesia,-2.88607,141.191,Border,Kilmeri_kilm1241,parabank,,,,,,
 p_kimaamakima1246,Kimaama,kima1246,Kimaama,,Papunesia,-8.01899,138.355,Kolopom,Kimaama_kima1246,parabank,,,,,,
+p_southernkiwaisout2949,Southern Kiwai,sout2949,Southern Kiwai,,Papunesia,-8.64889,143.244,Kiwaian,Kiwaian_sout2949,parabank,,,,,,
 p_klonkelo1247,Klon,kelo1247,Klon,,Papunesia,-8.40688,124.429,Timor-Alor-Pantar,Klon_kelo1247,parabank,,,,,,
 p_grasskoiarigras1249,Grass Koiari,gras1249,Grass Koiari,,Papunesia,-9.51218,147.437,Koiarian,Koiari_gras1249,parabank,,,,,,
 p_kombaikomb1274,Kombai,komb1274,Kombai,,Papunesia,-5.54543,139.902,Nuclear Trans New Guinea,Kombai_komb1274,parabank,,,,,,
@@ -1154,7 +1154,7 @@ p_boungboun1245,Bo-Ung,boun1245,Bo-Ung,,Papunesia,-5.8626,144.086,Nuclear Trans 
 p_lolodalabalolo1264,Loloda-Laba,lolo1264,Loloda-Laba,,Papunesia,1.95461,127.772,North Halmahera,Loloda-Laba_(Loda)_lolo1264,parabank,,,,,,
 p_modolemodo1249,Modole,modo1249,Modole,,Papunesia,1.40199,127.752,North Halmahera,Madole_modo1249,parabank,,,,,,
 p_mairasinucl1594,Mairasi,nucl1594,Mairasi,,Papunesia,-3.4511,134.071,Mairasic,Mairasi_nucl1594,parabank,,,,,,
-p_xmala1294,,mala1294,,,,,,,Mala_mala1294,parabank,,,,,,
+p_xmala1294,Mala,mala1294,,,,,,,Mala_mala1294,parabank,,,,,,
 p_maybratkaronmaib1239,Maybrat-Karon,maib1239,Maybrat-Karon,,Papunesia,-1.3679,132.591,Maybrat-Karon,Maybrat_maib1239,parabank,,,,,,
 p_mianimian1254,Miani,mian1254,Miani,,Papunesia,-4.42116,145.276,Nuclear Trans New Guinea,Miani_mian1254,parabank,,,,,,
 p_momufasfass1245,Momu-Fas,fass1245,Momu-Fas,,Papunesia,-3.10868,141.64,Baibai-Fas,Momu-Fas_fass1245,parabank,,,,,,
@@ -1187,6 +1187,7 @@ p_yawanucl1454,Yawa,nucl1454,Yawa,,Papunesia,-1.77196,136.263,Yawa-Saweru,Yawa_n
 p_yeleyele1255,Yele,yele1255,Yele,,Papunesia,-11.3796,154.127,Yele,Yele_(Yélî_Dnye)_yele1255,parabank,,,,,,
 kinura_ForestEnets,Forest Enets,fore1265,Forest Enets,enf,Eurasia,68.6,86.5,Uralic,kinura_ForestEnets_fore1265,Kinura,kinura_ForestEnets_fore1265,,20221011.0,,,Kinura
 kinura_HillMari,Western Mari,west2392,Western Mari,mrj,Eurasia,56.22,46.57,Uralic,kinura_HillMari_west2392,Kinura,kinura_HillMari_west2392,,20221011.0,,,Kinura
+kinura_Livonian,Livonian,livv1244,Liv,liv,Eurasia,57.57,22.03,Uralic,kinura_Livonian_livv1244,Kinura,kinura_Livonian_livv1244,,20221011.0,,,Kinura
 kinura_MokshaMordvin,MokshaMordvin,moks1248,Moksha,mdf,Eurasia,54.19,42.67,Uralic,kinura_MokshaMordvin_moks1248,Kinura,kinura_MokshaMordvin_moks1248,,20221011.0,,,Kinura
 kinura_Nganasan,Nganasan,ngan1291,Nganasan,nio,Eurasia,73.14,86.21,Uralic,kinura_Nganasan_ngan1291,Kinura,Kinura_Nganasan_ngan1291,,20221011.0,,,Kinura
 kinura_SkoltSaami,Skolt Saami,skol1241,Skolt Saami,sms,Eurasia,69.505596,28.592182,Uralic,kinura_SkoltSaami_skol1241,Kinura,kinura_SkoltSaami_skol1241,,20221011.0,,,Kinura
