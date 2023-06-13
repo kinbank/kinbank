@@ -1112,7 +1112,7 @@ p_yadhaykenuyadh1237,Yadhaykenu_yadh1237,yadh1237,,Yadhaykenu,Pama-Nyungan,-11.3
 p_yakanyaka1277,Yakan_yaka1277,yaka1277,yka,Yakan,Austronesian,6.531023,122.021729,parabank,Yakan yaka1277.txt,2017025.0,,,Parabank
 p_yalarnngayala1262a,Yalarnnga_yala1262a,yala1262,ylr,Yalarnnga,Pama-Nyungan,-21.731,139.511,parabank,Yalarnnga yala1262.txt,20161125.0,,,Parabank
 p_yandruwandhayand1253a,Yandruwandha_yand1253a,yand1253,ynd,Yandruwandha,Pama-Nyungan,-28.4744,140.583,parabank,Yandruwandha yand1253.txt,20161201.0,,,Parabank
-p_yeleyelidnyeyele1255,Yele_(Yélî_Dnye)_yele1255,yele1255,yle,Yele,,-11.3796,154.127,parabank,Yele (Yélî Dnye) yele1255.txt,20170306.0,,http://www.jstor.org/stable/25132364,Parabank
+p_yeleyelidnyeyele1255,Yele_(Yélî_Dnye)_yele1255,yele1255,yle,Yele (Yélî Dnye),,-11.3796,154.127,parabank,Yele (Yélî Dnye) yele1255.txt,20170306.0,,http://www.jstor.org/stable/25132364,Parabank
 p_yelmekyelm1242,Yelmek_yelm1242,yelm1242,jel,Yelmek,,-7.4453,139.096,parabank,Yelmek yelm1242.txt,,,,Parabank
 p_yidinyyidi1250a,Yidiny_yidi1250a,yidi1250,yii,Yidiñ,Pama-Nyungan,-17.1332,145.876,parabank,Yidiny yidi1250.txt,20171206.0,,,Parabank
 p_yiryorontyiry1245,Yir-Yoront_yiry1245,yiry1245,yiy,Yir-Yoront,Pama-Nyungan,-15.1117,141.767,parabank,Yir-Yoront yiry1245.txt,20171211.0,,,Parabank
@@ -1179,7 +1179,7 @@ p_kombaikomb1274,Kombai_komb1274,komb1274,,Kombai,Nuclear Trans New Guinea,-5.54
 p_kombakomb1273,Komba_komb1273,komb1273,,Komba,Nuclear Trans New Guinea,-6.16163,147.28,parabank,,,,,
 p_komnzowara1294,Komnzo_wara1294,wara1294,,Anta-Komnzo-Wára-Wérè-Kémä,Morehead-Wasur,-8.64917,141.52,parabank,,,,,
 p_westerndaniwest2594,Konda_(Western_Dani)_west2594,west2594,,Western Dani,Nuclear Trans New Guinea,-3.77127,138.217,parabank,,,,,
-p_korafekora1295,Korafe_kora1295,kora1295,,Korafe,Nuclear Trans New Guinea,,,parabank,,,,,
+p_korafekora1295,Korafe_kora1295,kora1295,,Korafe,Nuclear Trans New Guinea,-9.07,149.267,parabank,,,,,
 p_korowaikoro1312,Korowai_koro1312,koro1312,,Korowai,Nuclear Trans New Guinea,-5.26952,140.047,parabank,,,,,
 p_kumankuma1280,Kuman_kuma1280,kuma1280,,Kuman,Nuclear Trans New Guinea,-5.90586,144.977,parabank,,,,,
 p_kunimaipakuni1267,Kunimaipa_kuni1267,kuni1267,,Kunimaipa,Goilalan,-8.09371,146.908,parabank,,,,,
@@ -1262,6 +1262,17 @@ kinura_Nganasan,kinura_Nganasan_ngan1291,ngan1291,nio,Nganasan,Uralic,73.14,86.2
 kinura_SkoltSaami,kinura_SkoltSaami_skol1241,skol1241,sms,Skolt Saami,Uralic,69.505596,28.592182,Kinura,kinura_SkoltSaami_skol1241,20221011.0,,,Kinura
 kinura_SouthSaami,kinura_SouthSaami_sout2674,sout2674,sma,South Saami,Uralic,62.88,13.7,Kinura,kinura_SouthSaami_sout2674,20221011.0,,,Kinura
 kinura_NorthSaami,kinura_NorthSaami_nort2671,nort2671,sme,North Saami,Uralic,68.72,22.11,Kinura,kinura_NorthSaami_nort2671,20221013.0,,,Kinura
+kinura_ErzyaMordvin,kinura_ErzyaMordvin_erzy1239,erzy1239,myv,Erzya Mordvin,Uralic,53.0,45.5,Kinura,kinura_ErzyaMordvin_erzy1239,20230427.0,,,Kinura
+kinura_Estonian,kinura_Estonian_esto1258,esto1258,ekk,Estonian,Uralic,59.0,26.0,Kinura,kinura_Estonian_esto1258,20230427.0,,,Kinura
+kinura_Finnish,kinura_Finnish_finn1318,finn1318,fin,Finnish,Uralic,62.0,25.0,Kinura,kinura_Finnish_finn1318,20230427.0,,,Kinura
+kinura_Hungarian,kinura_Hungarian_hung1274,hung1274,hun,Hungarian,Uralic,47.0,20.0,Kinura,kinura_Hungarian_hung1274,20230427.0,,,Kinura
+kinura_KazymKhanty,kinura_KazymKhanty_nort2672,nort2672,kca,Kazym Khanty,Uralic,62.4308,66.1218,Kinura,kinura_KazymKhanty_nort2672,20230427.0,,,Kinura
+kinura_KomiZyrian,kinura_KomiZyrian_komi1268,komi1268,kpv,Komi-Zyrian,Uralic,65.0,55.0,Kinura,kinura_KomiZyrian_komi1268,20230427.0,,,Kinura
+Kinura_MeadowMari,kinura_MeadowMari_gras1239,gras1239,mhr,Meadow Mari,Uralic,57.0,48.0,Kinura,kinura_MeadowMari_gras1239,20230427.0,,,Kinura
+Kinura_SosvaMansi,kinura_SosvaMansi_nort2677,nort2677,mns,Sosva Mansi,Uralic,62.0,62.0,Kinura,kinura_SosvaMansi_nort2677,20230427.0,,,Kinura
+Kinura_TundraNenets,kinura_TundraNenets_nene1249,nene1249,yrk,Tundra Nenets,Uralic,70.0,76.0,Kinura,kinura_TundraNenets_nen1249,20230427.0,,,Kinura
+Kinura_Udmurt,kinura_Udmurt_udmu1245,udmu1245,udm,Udmurt,Uralic,57.5,52.5,Kinura,kinura_Udmurt_udmu1245,20230427.0,,,Kinura
+Kinura_Veps,kinura_Veps_veps1250,veps1250,vep,Veps,Uralic,60.0,35.0,Kinura,kinura_Veps_veps1250,20230427.0,,,Kinura
 v_acheache1246,Aché_ache1246,ache1246,guq,Aché,Tupian,-25.5865,-56.4697,varikin,Aché_ache1246.txt,,,,Goeldi
 v_anambeanam1249,Anambé_anam1249,anam1249,aan,Anambé,Tupian,-2.71119,-49.303,varikin,Anambé_anam1249.txt,,,,Goeldi
 v_arawetearaw1273,Araweté_araw1273,araw1273,awt,Araweté,Tupian,-4.90246,-52.5001,varikin,Araweté_araw1273.txt,,,,Goeldi

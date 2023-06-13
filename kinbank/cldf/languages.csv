@@ -1146,7 +1146,7 @@ p_klonkelo1247,Klon,kelo1247,Klon,,Papunesia,-8.40688,124.429,Timor-Alor-Pantar,
 p_grasskoiarigras1249,Grass Koiari,gras1249,Grass Koiari,,Papunesia,-9.51218,147.437,Koiarian,Koiari_gras1249,parabank,,,,,,
 p_kombaikomb1274,Kombai,komb1274,Kombai,,Papunesia,-5.54543,139.902,Nuclear Trans New Guinea,Kombai_komb1274,parabank,,,,,,
 p_westerndaniwest2594,Western Dani,west2594,Western Dani,,Papunesia,-3.77127,138.217,Nuclear Trans New Guinea,Konda_(Western_Dani)_west2594,parabank,,,,,,
-p_korafekora1295,Korafe,kora1295,Korafe,,Papunesia,,,Nuclear Trans New Guinea,Korafe_kora1295,parabank,,,,,,
+p_korafekora1295,Korafe,kora1295,Korafe,,Papunesia,-9.07,149.267,Nuclear Trans New Guinea,Korafe_kora1295,parabank,,,,,,
 p_korowaikoro1312,Korowai,koro1312,Korowai,,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,Korowai_koro1312,parabank,,,,,,
 p_kumankuma1280,Kuman,kuma1280,Kuman,,Papunesia,-5.90586,144.977,Nuclear Trans New Guinea,Kuman_kuma1280,parabank,,,,,,
 p_kunimaipakuni1267,Kunimaipa,kuni1267,Kunimaipa,,Papunesia,-8.09371,146.908,Goilalan,Kunimaipa_kuni1267,parabank,,,,,,
@@ -1193,6 +1193,17 @@ kinura_Nganasan,Nganasan,ngan1291,Nganasan,nio,Eurasia,73.14,86.21,Uralic,kinura
 kinura_SkoltSaami,Skolt Saami,skol1241,Skolt Saami,sms,Eurasia,69.505596,28.592182,Uralic,kinura_SkoltSaami_skol1241,Kinura,kinura_SkoltSaami_skol1241,,20221011.0,,,Kinura
 kinura_SouthSaami,South Saami,sout2674,South Saami,sma,Eurasia,62.88,13.7,Uralic,kinura_SouthSaami_sout2674,Kinura,kinura_SouthSaami_sout2674,,20221011.0,,,Kinura
 kinura_NorthSaami,North Saami,nort2671,North Saami,sme,Eurasia,68.72,22.11,Uralic,kinura_NorthSaami_nort2671,Kinura,kinura_NorthSaami_nort2671,,20221013.0,,,Kinura
+kinura_ErzyaMordvin,Erzya Mordvin,erzy1239,Erzya,myv,Eurasia,53.0,45.5,Uralic,kinura_ErzyaMordvin_erzy1239,Kinura,kinura_ErzyaMordvin_erzy1239,,20230427.0,,,Kinura
+kinura_Estonian,Estonian,esto1258,Estonian,ekk,Eurasia,59.0,26.0,Uralic,kinura_Estonian_esto1258,Kinura,kinura_Estonian_esto1258,,20230427.0,,,Kinura
+kinura_Finnish,Finnish,finn1318,Finnish,fin,Eurasia,62.0,25.0,Uralic,kinura_Finnish_finn1318,Kinura,kinura_Finnish_finn1318,,20230427.0,,,Kinura
+kinura_Hungarian,Hungarian,hung1274,Hungarian,hun,Eurasia,47.0,20.0,Uralic,kinura_Hungarian_hung1274,Kinura,kinura_Hungarian_hung1274,,20230427.0,,,Kinura
+kinura_KazymKhanty,Kazym Khanty,nort2672,Kazym Khanty,kca,Eurasia,62.4308,66.1218,Uralic,kinura_KazymKhanty_nort2672,Kinura,kinura_KazymKhanty_nort2672,,20230427.0,,,Kinura
+kinura_KomiZyrian,Komi-Zyrian,komi1268,Komi-Zyrian,kpv,Eurasia,65.0,55.0,Uralic,kinura_KomiZyrian_komi1268,Kinura,kinura_KomiZyrian_komi1268,,20230427.0,,,Kinura
+Kinura_MeadowMari,Meadow Mari,gras1239,Grassland Mari,mhr,Eurasia,57.0,48.0,Uralic,kinura_MeadowMari_gras1239,Kinura,kinura_MeadowMari_gras1239,,20230427.0,,,Kinura
+Kinura_SosvaMansi,Sosva Mansi,nort2677,Sosva Mansi,mns,Eurasia,62.0,62.0,Uralic,kinura_SosvaMansi_nort2677,Kinura,kinura_SosvaMansi_nort2677,,20230427.0,,,Kinura
+Kinura_TundraNenets,Tundra Nenets,nene1249,Tundra Nenets,yrk,Eurasia,70.0,76.0,Uralic,kinura_TundraNenets_nene1249,Kinura,kinura_TundraNenets_nen1249,,20230427.0,,,Kinura
+Kinura_Udmurt,Udmurt,udmu1245,Udmurt,udm,Eurasia,57.5,52.5,Uralic,kinura_Udmurt_udmu1245,Kinura,kinura_Udmurt_udmu1245,,20230427.0,,,Kinura
+Kinura_Veps,Veps,veps1250,Veps,vep,Eurasia,60.0,35.0,Uralic,kinura_Veps_veps1250,Kinura,kinura_Veps_veps1250,,20230427.0,,,Kinura
 v_acheache1246,Aché,ache1246,Aché,guq,South America,-25.5865,-56.4697,Tupian,Aché_ache1246,varikin,Aché_ache1246.txt,,,,,Goeldi
 v_anambeanam1249,Anambé,anam1249,Anambé,aan,South America,-2.71119,-49.303,Tupian,Anambé_anam1249,varikin,Anambé_anam1249.txt,,,,,Goeldi
 v_arawetearaw1273,Araweté,araw1273,Araweté,awt,South America,-4.90246,-52.5001,Tupian,Araweté_araw1273,varikin,Araweté_araw1273.txt,,,,,Goeldi
