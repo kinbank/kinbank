@@ -8,6 +8,8 @@ Human kinship organization is both remarkably diverse and strikingly organized. 
 
 Kinbank, a new database of 210,903 kinterms from a global sample of 1,229 spoken languages, looks to solve that problem. Using open-access and transparent data provenance, Kinbank offers an extensible resource for kinship terminology, enabling researchers to explore the rich diversity of human family organization and to test longstanding hypotheses about the origins and drivers of recurrent patterns. 
 
+Interact with the data at: www.kinbank.net
+
 This repository is the amalgamation of work from the University of Bristol, The Australian National University, the University of Helsinki, and the Museu Paraense Emílio Goeldi. Each university runs its own subproject, which can be seen in the links below:
 
 * [Varikin](https://github.com/kinbank/varikin)
