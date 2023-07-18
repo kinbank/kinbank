@@ -16,6 +16,7 @@ This repository is the amalgamation of work from the University of Bristol, The 
 * [MPEGKin](https://github.com/kinbank/goeldi)
 
 **Citation**
+
 If you are using the Kinbank dataset, or referring to the ideas discussed in the paper, please cite this paper:
 
 Passmore, S., Barth, W., Greenhill, S. J., Quinn, K., Sheard, C., Argyriou, P., Birchall, J., Bowern, C., Calladine, J., Deb, A., Diederen, A., Metsäranta, N. P., Araujo, L. H., Schembri, R., Hickey-Hall, J., Honkola, T., Mitchell, A., Poole, L., Rácz, P. M., … Jordan, F. M. (2023). Kinbank: A global database of kinship terminology. PLOS ONE, 18(5), e0283218. https://doi.org/10.1371/journal.pone.0283218
@@ -23,6 +24,7 @@ Passmore, S., Barth, W., Greenhill, S. J., Quinn, K., Sheard, C., Argyriou, P., 
 If you are only using a particular subset of the data, please cite that subset specifically. The citations for each data subset are available on their respective github repositories, or in the supplementary material of the paper. 
 
 **Adding data**
+
 Since this dataset is an amalgamation of four different datasets, it is not appropriate to add new data to this repository. It will be overwritten when the dataset is regenerated. 
 
 If you are already affiliated with one of these datasets, contact the group leader to ask about how to add new data. 
