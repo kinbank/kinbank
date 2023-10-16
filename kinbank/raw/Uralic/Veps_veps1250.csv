@@ -1,161 +1,241 @@
 "parameter","word","ipa","description","alternative","source_raw","source_bibtex","comment"
-"mB","ve|l'l'",,,"","UR1(47)","zaitseva_novyi_2007",""
-"mZ","sizar",,,"","UR1(414)","zaitseva_novyi_2007",""
-"meB","ve|l'l'",,,"","UR1(47)","zaitseva_novyi_2007","veik is eldest brother (UR19)"
-"myB","ve|l'l'",,,"","UR1(47)","zaitseva_novyi_2007",""
-"meZ","čižoi",,,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
-"myZ","čižoi",,,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
-"mP","kazvatai",,,"","UR1(397)","zaitseva_novyi_2007",""
-"mF","tat",,,"","UR1(304)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mM","mam",,,"","UR1(228)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mS","poig",,,"","UR1(438)","zaitseva_novyi_2007",""
-"mD","tüt|är",,,"","UR1(129)","zaitseva_novyi_2007",""
-"mA","ezitat",,,"","UR1(115)","zaitseva_novyi_2007",""
-"mFF","uk",,,"dedoi","UR1(115)","zaitseva_novyi_2007",""
-"mFM","ak",,,"baboi","UR1(28)","zaitseva_novyi_2007",""
-"mMF","uk",,,"dedoi","UR1(115)","zaitseva_novyi_2007",""
-"mMM","ak",,,"baboi","UR1(28)","zaitseva_novyi_2007",""
-"mSS","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mSD","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mDS","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mDD","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mMB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mMZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFeB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFyB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFeZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFyZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mMeZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mMyZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mMeB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mMyB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"mFBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFeBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFyBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFeZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFyZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFeBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFyBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFeZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFyZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMeBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMyBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMeZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMyZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMeBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMyBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMeZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMyZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFBeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFByS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFZeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFZyS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFBeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFByD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFZeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mFZyD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMBeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMByS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMZeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMZyS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMBeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMByD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMZeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mMZyD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"mH","mužik",,,"","UR1(239)","zaitseva_novyi_2007",""
-"mW","ak",,,"","UR1(139)","zaitseva_novyi_2007","ak' meaning lit. woman. 'murz'ai|n' used in context of a 'young' wife."
-"mHF","ap",,,"","UR1(407)","zaitseva_novyi_2007",""
-"mHM","anop",,,"","UR1(407)","zaitseva_novyi_2007",""
-"mWF","a|p’",,,"","UR1(447)","zaitseva_novyi_2007",""
-"mWM","ano|p",,,"","UR1(447)","zaitseva_novyi_2007",""
-"mHB","küdu",,,"","UR1(115)","zaitseva_novyi_2007",""
-"mHZ","nado",,,"","UR1(164)","zaitseva_novyi_2007",""
-"mFW(notM)","emindam",,,"","UR1(229)","zaitseva_novyi_2007",""
-"mMH(notF)","ižindam",,,"","UR1(309)","zaitseva_novyi_2007",""
-"mSW","mi|l’l’",,,"","UR1(258)","zaitseva_novyi_2007",""
-"mDH","vävu",,,"","UR1(165)","zaitseva_novyi_2007",""
-"fB","ve|l'l'",,,"","UR1(47)","zaitseva_novyi_2007",""
-"fZ","sizar",,,"","UR1(414)","zaitseva_novyi_2007",""
-"feB","ve|l'l'",,,"","UR1(47)","zaitseva_novyi_2007","veik is eldest brother (UR19)"
-"fyB","ve|l'l'",,,"","UR1(47)","zaitseva_novyi_2007",""
-"feZ","čižoi",,,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
-"fyZ","čižoi",,,"","UR1(414)","zaitseva_novyi_2007","UR19 says no e/y distinction (čižoi = B); UR1 says čikoi = yB"
-"fP","kazvatai",,,"","UR1(397)","zaitseva_novyi_2007",""
-"fF","tat",,,"","UR1(304)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fM","mam",,,"","UR1(228)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fS","poig",,,"","UR1(438)","zaitseva_novyi_2007",""
-"fD","tüt|är",,,"","UR1(129)","zaitseva_novyi_2007",""
-"fA","ezitat",,,"","UR1(115)","zaitseva_novyi_2007",""
-"fFF","uk",,,"dedoi","UR1(115)","zaitseva_novyi_2007",""
-"fFM","ak",,,"baboi","UR1(28)","zaitseva_novyi_2007",""
-"fMF","uk",,,"dedoi","UR1(115)","zaitseva_novyi_2007",""
-"fMM","ak",,,"baboi","UR1(28)","zaitseva_novyi_2007",""
-"fSS","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fSD","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fDS","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fDD","vunuk",,,"","UR1(68)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fMB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fMZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFeB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFyB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFeZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFyZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fMeZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fMyZ","tädi",,,"","UR1(447)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fMeB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fMyB","däd’",,,"","UR1(133)","zaitseva_novyi_2007","Russian loan (UR19)"
-"fFBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFeBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFyBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFeZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFyZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFeBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFyBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFeZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFyZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMeBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMyBS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMeZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMyZS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMeBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMyBD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMeZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMyZD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFBeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFByS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFZeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFZyS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFBeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFByD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFZeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fFZyD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMBeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMByS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMZeS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMZyS","bratan",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMBeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMByD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMZeD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fMZyD","sestrii",,,"","UR1(114)","zaitseva_novyi_2007",""
-"fH","mužik",,,"","UR1(239)","zaitseva_novyi_2007",""
-"fW","ak",,,"","UR1(139)","zaitseva_novyi_2007","ak' meaning lit. woman. 'murz'ai|n' used in context of a 'young' wife."
-"fHF","ap",,,"","UR1(407)","zaitseva_novyi_2007",""
-"fHM","anop",,,"","UR1(407)","zaitseva_novyi_2007",""
-"fWF","a|p’",,,"","UR1(447)","zaitseva_novyi_2007",""
-"fWM","ano|p",,,"","UR1(447)","zaitseva_novyi_2007",""
-"fHB","küdu",,,"","UR1(115)","zaitseva_novyi_2007",""
-"fHZ","nado",,,"","UR1(164)","zaitseva_novyi_2007",""
-"fFW(notM)","emindam",,,"","UR1(229)","zaitseva_novyi_2007",""
-"fMH(notF)","ižindam",,,"","UR1(309)","zaitseva_novyi_2007",""
-"fSW","mi|l’l’",,,"","UR1(258)","zaitseva_novyi_2007",""
-"fDH","vävu",,,"","UR1(165)","zaitseva_novyi_2007",""
+"mG","",,,,,"",
+"mB","vel'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mZ","sizar",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mZ","čiža",,,,,"Zaiceva_2010",
+"meB","veik",,,,,"",
+"myB","",,,,,"",
+"meZ","čižoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"myZ","",,,,,"",
+"mP","kazvatajad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mP","vanhembad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mF","tat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mM","mam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mC","laps'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mS","poig",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mD","tütär",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mA","ezitat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mPP","",,,,,"",
+"mFF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFM","bab",,,,,"Zaiceva_2010",
+"mMF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMM","bab",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mCC","vunuk",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mSS","",,,,,"",
+"mSD","",,,,,"",
+"mDS","",,,,,"",
+"mDD","",,,,,"",
+"mFB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFeB","",,,,,"",
+"mFyB","",,,,,"",
+"mFeZ","",,,,,"",
+"mFyZ","",,,,,"",
+"mMeZ","",,,,,"",
+"mMyZ","",,,,,"",
+"mMeB","",,,,,"",
+"mMyB","",,,,,"",
+"mBS","",,,,,"",
+"mBD","",,,,,"",
+"mZS","",,,,,"",
+"mZD","",,,,,"",
+"meBS","",,,,,"",
+"myBS","",,,,,"",
+"meBD","",,,,,"",
+"myBD","",,,,,"",
+"meZS","",,,,,"",
+"myZS","",,,,,"",
+"meZD","",,,,,"",
+"myZD","",,,,,"",
+"mFZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mFeBS","",,,,,"",
+"mFyBS","",,,,,"",
+"mFeZS","",,,,,"",
+"mFyZS","",,,,,"",
+"mFeBD","",,,,,"",
+"mFyBD","",,,,,"",
+"mFeZD","",,,,,"",
+"mFyZD","",,,,,"",
+"mMeBS","",,,,,"",
+"mMyBS","",,,,,"",
+"mMeZS","",,,,,"",
+"mMyZS","",,,,,"",
+"mMeBD","",,,,,"",
+"mMyBD","",,,,,"",
+"mMeZD","",,,,,"",
+"mMyZD","",,,,,"",
+"mFBeS","",,,,,"",
+"mFByS","",,,,,"",
+"mFZeS","",,,,,"",
+"mFZyS","",,,,,"",
+"mFBeD","",,,,,"",
+"mFByD","",,,,,"",
+"mFZeD","",,,,,"",
+"mFZyD","",,,,,"",
+"mMBeS","",,,,,"",
+"mMByS","",,,,,"",
+"mMZeS","",,,,,"",
+"mMZyS","",,,,,"",
+"mMBeD","",,,,,"",
+"mMByD","",,,,,"",
+"mMZeD","",,,,,"",
+"mMZyD","",,,,,"",
+"mE","",,,,,"",
+"mH","mužik",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mW","ak",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mW","mur'zain",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mHF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mHM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mWF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mWM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mBW","kälü",,,,,"Zaiceva_2010",
+"mZH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mWB","",,,,,"",
+"mWZ","",,,,,"",
+"fHB","küdu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fHZ","nado",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mco-W","",,,,,"",
+"mco-H","",,,,,"",
+"mFW(notM)","emindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mMH(notF)","ižindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mSW","mil'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mSWM","",,,,,"",
+"mSWF","",,,,,"",
+"mDH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"mDHM","",,,,,"",
+"mDHF","",,,,,"",
+"mFZH","",,,,,"",
+"mFBW","",,,,,"",
+"mMZH","",,,,,"",
+"mMBW","",,,,,"",
+"fG","",,,,,"",
+"fB","vel'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fZ","sizar",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fZ","čiža",,,,,"Zaiceva_2010",
+"feB","veik",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fyB","",,,,,"",
+"feZ","čižoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fyZ","",,,,,"",
+"fP","kazvatajad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fP","vanhembad",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fF","tat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fM","mam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fC","laps'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fS","poig",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fD","tütär",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fA","ezitat",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fPP","",,,,,"",
+"fFF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFM","bab",,,,,"Zaiceva_2010",
+"fMF","dedoi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMM","baboi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMM","bab",,,,,"Zaiceva_2010",
+"fCC","vunuk",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fSS","",,,,,"",
+"fSD","",,,,,"",
+"fDS","",,,,,"",
+"fDD","",,,,,"",
+"fFB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMB","däd'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMZ","tädi",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFeB","",,,,,"",
+"fFyB","",,,,,"",
+"fFeZ","",,,,,"",
+"fFyZ","",,,,,"",
+"fMeZ","",,,,,"",
+"fMyZ","",,,,,"",
+"fMeB","",,,,,"",
+"fMyB","",,,,,"",
+"fBS","",,,,,"",
+"fBD","",,,,,"",
+"fZS","",,,,,"",
+"fZD","",,,,,"",
+"feBS","",,,,,"",
+"fyBS","",,,,,"",
+"feBD","",,,,,"",
+"fyBD","",,,,,"",
+"feZS","",,,,,"",
+"fyZS","",,,,,"",
+"feZD","",,,,,"",
+"fyZD","",,,,,"",
+"fFZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMBD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMZD","sestrii",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMBS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMZS","bratan",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fFeBS","",,,,,"",
+"fFyBS","",,,,,"",
+"fFeZS","",,,,,"",
+"fFyZS","",,,,,"",
+"fFeBD","",,,,,"",
+"fFyBD","",,,,,"",
+"fFeZD","",,,,,"",
+"fFyZD","",,,,,"",
+"fMeBS","",,,,,"",
+"fMyBS","",,,,,"",
+"fMeZS","",,,,,"",
+"fMyZS","",,,,,"",
+"fMeBD","",,,,,"",
+"fMyBD","",,,,,"",
+"fMeZD","",,,,,"",
+"fMyZD","",,,,,"",
+"fFBeS","",,,,,"",
+"fFByS","",,,,,"",
+"fFZeS","",,,,,"",
+"fFZyS","",,,,,"",
+"fFBeD","",,,,,"",
+"fFByD","",,,,,"",
+"fFZeD","",,,,,"",
+"fFZyD","",,,,,"",
+"fMBeS","",,,,,"",
+"fMByS","",,,,,"",
+"fMZeS","",,,,,"",
+"fMZyS","",,,,,"",
+"fMBeD","",,,,,"",
+"fMByD","",,,,,"",
+"fMZeD","",,,,,"",
+"fMZyD","",,,,,"",
+"fE","",,,,,"",
+"fH","mužik",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fW","ak",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fW","mur'zain",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fHF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fHM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fWF","ap'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fWM","anop'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fBW","kälü",,,,,"Zaiceva_2010",
+"fZH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fWB","",,,,,"",
+"fWZ","",,,,,"",
+"fHB","küdu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fHZ","nado",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fco-W","",,,,,"",
+"fco-H","",,,,,"",
+"fFW(notM)","emindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fMH(notF)","ižindam",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fSW","mil'l'",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fSWM","",,,,,"",
+"fSWF","",,,,,"",
+"fDH","vävu",,,,,"Zaiceva_Mullonen_2007; Zaiceva_2010",
+"fDHM","",,,,,"",
+"fDHF","",,,,,"",
+"fFZH","",,,,,"",
+"fFBW","",,,,,"",
+"fMZH","",,,,,"",
+"fMBW","",,,,,"",
