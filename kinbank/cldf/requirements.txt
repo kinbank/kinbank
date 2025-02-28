@@ -3,8 +3,7 @@ attrs==23.2.0
 Babel==2.15.0
 bibtexparser==2.0.0b7
 bs4==0.0.2
-certifi==2024.2.2
-cldfbench==1.14.1
+certifi==2024.7.4
 cldfcatalog==1.5.1
 cldfzenodo==2.1.1
 clldutils==3.22.2
@@ -41,7 +40,7 @@ pytz==2024.1
 rdflib==7.0.0
 referencing==0.35.1
 regex==2024.5.15
-requests==2.31.0
+requests==2.32.0
 rfc3986==1.5.0
 segments==2.2.1
 six==1.16.0
@@ -52,6 +51,6 @@ tabulate==0.9.0
 termcolor==2.4.0
 tqdm==4.66.4
 uritemplate==4.1.1
-urllib3==2.2.1
+urllib3==2.2.2
 xlrd==2.0.1
 zenodoclient==0.5.1
