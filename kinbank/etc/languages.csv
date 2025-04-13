@@ -1317,6 +1317,21 @@ v_wedauweda1241,Wedau_weda1241,weda1241,wed,Wedau,Austronesian,-10.1246,150.172,
 v_gapapaiwagapa1238,Gapapaiwa_gapa1238,gapa1238,pwg,Gapapaiwa,Austronesian,-9.73317,149.854,varikin,Gapapaiwa_gapa1238.csv,20250225.0,,,varikin 
 v_doromukokidoro1266,DoromuKoki_doro1266,doro1266,kcq,Doromu-Koki,Nuclear Trans New Guinea,-9.56687,147.986,varikin,DoromuKoki_doro1266.csv,20250226.0,,,varikin 
 v_maisinmais1250,Maisin_mais1250,mais1250,mbq,Maisin,Austronesian,-9.22853,148.731,varikin,Maisin_mais1250.csv,20250227.0,,,varikin 
+v_korafeyeghakora1294,KorafeYegha_kora1294,kora1294,kpr,Korafe-Yegha,Nuclear Trans New Guinea,-9.07,149.267,varikin,KorafeYegha_kora1294.csv,20250228.0,,,varikin
+v_lalalala1268,Lala_lala1268,lala1268,nrz,Lala,Austronesian,-8.93195,146.749,varikin,Lala_lala1268.csv,20250304.0,,,varikin
+v_orokoloorok1267,Orokolo_orok1267,orok1267,oro,Orokolo,Eleman,-7.81309,145.34,varikin,Orokolo_orok1267.csv,20250306.0,,,varikin
+v_barainucl1630,Barai_nucl1630,nucl1630,bbb,Barai,Nuclear Trans New Guinea,-9.46,147.9,varikin,Barai_nucl1630.csv,20250312.0,,,varikin
+v_kunimaipakuni1267,Kunimaipa_kuni1267,kuni1267,kup,Kunimaipa,Nuclear Trans New Guinea,-8.09371,146.908,varikin,Kunimaipa_kuni1267.csv,20250314.0,,,varikin
+v_waffawaff1241,Waffa_waff1241,waff1241,waj,Waffa,Nuclear Trans New Guinea,-6.55783,146.09,varikin,Waffa_waff1241.csv,20250317.0,Hotz_Stringer_1974 doesnt make explicit that the consanguineal terms also apply to female speakers but I think they probably do,,varikin
+v_awaawap1236,Awa_awap1236,awap1236,awb,Awa,Nuclear Trans New Guinea,-6.66,145.71,varikin,Awa_awap1236.csv,20250318.0,,,varikin
+v_alamblakalam1246,Alamblak_alam1246,alam1246,amp,Alamblak,Sepik,-4.66307,143.316,varikin,Alamblak_alam1246.csv,20250324.0,Only terms for male ego also a little unsure at times the chapter seems to contradict itself a bit,,varikin
+v_sepikiwamsepi1255,SepikIwam_sepi1255,sepi1255,iws,Sepik Iwam,Sepik,-4.31,142.12,varikin,SepikIwam_sepi1255.csv,20250327.0,,,varikin
+v_menyameny1245,Menya_meny1245,meny1245,mcr,Menya,Nuclear Trans New Guinea,-7.17425,146.071,varikin,Menya_meny1245.csv,20250328.0,,,varikin
+v_rumurumu1243,Rumu_rumu1243,rumu1243,klq,Rumu,Nuclear Trans New Guinea,-7.17149,144.179,varikin,Rumu_rumu1243.csv,20250401.0,,,varikin
+v_tereitere1278,Terei_tere1278,tere1278,buo,Terei,South Bougainville,-6.70051,155.745,varikin,Terei_tere1278.csv,20250402.0,,,varikin
+v_wiruwiru1244,Wiru_wiru1244,wiru1244,wiu,Wiru,Nuclear Trans New Guinea,-6.35863,144.214,varikin,Wiru_wiru1244.csv,20250403.0,unclear at times whether the terms were for reference or address,,varikin
+v_haliahali1244,Halia_hali1244,hali1244,hla,Halia,Austronesian,-5.26603,154.662,varikin,Halia_hali1244.csv,20250408.0,,,varikin
+v_tabriaktabr1243,Tabriak_tabr1243,tabr1243,tzx,Tabriak,Lower Sepik-Ramu,-4.49162,143.593,varikin,Tabriak_tabr1243.csv,20250411.0,Ambonwari dialect,,varikin
 p_abuiabui1241,Abui_abui1241,abui1241,abz,Abui,,-8.31058,124.588,parabank,Abui abui1241.txt,20170621.0,,,Parabank
 p_achineseachi1257,Achinese_achi1257,achi1257,ace,Acehnese,Austronesian,3.90757,96.6032,parabank,Achinese achi1257.txt,20170718.0,,https://collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ37156.pdf,Parabank
 p_adangadan1251,Adang_adan1251,adan1251,adn,Adang,,-8.18958,124.448,parabank,Adang adan1251.txt,20170621.0,,,Parabank
@@ -2059,4 +2074,4 @@ v_waimiriatroariwaim1253,Waimiri_Atroari_waim1253,waim1253,atr,Waimiri-Atroari,C
 v_awetiawet1244,Awetí_awet1244,awet1244,awe,Awetí,Tupian,-12.38,-53.39,varikin,Awetí_awet1244.txt,,,,Goeldi
 v_kamayurakama1373,Kamayurá_kama1373,kama1373,kay,Kamayurá,Tupian,-12.27,-53.47,varikin,Kamayurá_kama1373.txt,,,,Goeldi
 v_mbyaguaranimbya1239,Mbyá_Guaraní_mbya1239,mbya1239,gun,Mbyá Guaraní,Tupian,-26.02,-52.71,varikin,Mbyá_Guaraní_mbya1239.txt,,,,Goeldi
-v_prototupiguaranitupi1276,Proto_Tupi_Guarani_tupi1276,tupi1239,,Proto-Tupi-Guarani,Tupian,,,varikin,Proto_Tupi_Guarani_tupi1276.txt,,,,Goeldi
+v_prototupiguaranitupi1276,Proto_Tupi_Guarani_tupi1276,tupi1276,,Proto-Tupi-Guarani,Tupian,,,varikin,Proto_Tupi_Guarani_tupi1276.txt,,,,Goeldi

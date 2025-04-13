@@ -1118,9 +1118,77 @@ fMMyZ,fMMyZ,female ego's mother's mother's younger sister,,,,varikin
 fMMyB,fMMyB,female ego's mother's mother's younger brother,,,,varikin
 fMMeB,fMMeB,female ego's mother's mother's elder brother,,,,varikin
 fMMeZ,fMMeZ,female ego's mother's mother's elder sister,,,,varikin
+mFFFBS,mFFFBS,male ego's father's father's father's brother's son,,,,varikin
+fFFFBS,fFFFBS,female ego's father's father's father's brother's son,,,,varikin
+mFFMZS,mFFMZS,male ego's father's father's mother's sister's son,,,,varikin
+fFFMZS,fFFMZS,female ego's father's father's mother's sister's son,,,,varikin
+mMFFBS,mMFFBS,male ego's mother's father's father's brother's son,,,,varikin
+fMFFBS,fMFFBS,female ego's mother's father's father's brother's son,,,,varikin
+mMFMZS,mMFMZS,male ego's mother's father's mother's sister's son,,,,varikin
+fMFMZS,fMFMZS,female ego's mother's father's mother's sister's son,,,,varikin
+mWMeZD,mWMeZD,male ego's wife's mother's older sister's daughter,,,,varikin
+fWMB,fWMB,female ego's wife's mother's brother,,,,varikin
+fWFB,fWFB,female ego's wife's father's brother,,,,varikin
+mFMZSW,mFMZSW,male ego's father's mother's sister's son's wife,,,,varikin
+fFMZSW,fFMZSW,female ego's father's mother's sister's son's wife,,,,varikin
+mFMBSW,mFMBSW,male ego's father's mother's brother's son's wife,,,,varikin
+fFMBSW,fFMBSW,female ego's father's mother's brother's son's wife,,,,varikin
+mFFZSW,mFFZSW,male ego's father's father's sister's son's wife,,,,varikin
+fFFZSW,fFFZSW,female ego's father's father's sister's son's wife,,,,varikin
+mWMyBD,mWMyBD,male ego's wife's mother's younger brother's daughter,,,,varikin
+mWMyZD,mWMyZD,male ego's wife's mother's younger sister's daughter,,,,varikin
+mWFyBD,mWFyBD,male ego's wife's father's younger brother's daughter,,,,varikin
+mWFyZD,mWFyZD,male ego's wife's father's younger sister's daughter,,,,varikin
+mFMBSD,mFMBSD,male ego's father's mother's brother's son's daughter,,,,varikin
+mFFZSD,mFFZSD,male ego's father's father's sister's son's daughter,,,,varikin
+mMMBDD,mMMBDD,male ego's mother's mother's brother's daughter's daughter,,,,varikin
+mMFZDD,mMFZDD,male ego's mother's father's sister's daughter's daughter,,,,varikin
+mFFZDS,mFFZDS,male ego's father's father's sister's daughter's son,,,,varikin
+fFFZDS,fFFZDS,female ego's father's father's sister's daughter's son,,,,varikin
+mFFZDD,mFFZDD,male ego's father's father's sister's daughter's daughter,,,,varikin
+fFFZDD,fFFZDD,female ego's father's father's sister's daughter's daughter,,,,varikin
+mFFBDS,mFFBDS,male ego's father's father's brother's daughter's son,,,,varikin
+fFFBDS,fFFBDS,female ego's father's father's brother's daughter's son,,,,varikin
+mFFBDD,mFFBDD,male ego's father's father's brother's daughter's daughter,,,,varikin
+fFFBDD,fFFBDD,female ego's father's father's brother's daughter's daughter,,,,varikin
+mFMZDS,mFMZDS,male ego's father's mother's sister's daughter's son,,,,varikin
+fFMZDS,fFMZDS,female ego's father's mother's sister's daughter's son,,,,varikin
+mFMZDD,mFMZDD,male ego's father's mother's sister's daughter's daughter,,,,varikin
+fFMZDD,fFMZDD,female ego's father's mother's sister's daughter's daughter,,,,varikin
+mFMBDS,mFMBDS,male ego's father's mother's brother's daughter's son,,,,varikin
+fFMBDS,fFMBDS,female ego's father's mother's brother's daughter's son,,,,varikin
+mFMBDD,mFMBDD,male ego's father's mother's brother's daughter's daughter,,,,varikin
+fFMBDD,fFMBDD,female ego's father's mother's brother's daughter's daughter,,,,varikin
+mMFBSS,mMFBSS,male ego's mother's father's brother's son's son,,,,varikin
+fMFBSS,fMFBSS,female ego's mother's father's brother's son's son,,,,varikin
+mMFBSD,mMFBSD,male ego's mother's father's brother's son's daughter,,,,varikin
+fMFBSD,fMFBSD,female ego's mother's father's brother's son's daughter,,,,varikin
+mMFZSS,mMFZSS,male ego's mother's father's sister's son's son,,,,varikin
+fMFZSS,fMFZSS,female ego's mother's father's sister's son's son,,,,varikin
+mMFZSD,mMFZSD,male ego's mother's father's sister's son's daughter,,,,varikin
+fMFZSD,fMFZSD,female ego's mother's father's sister's son's daughter,,,,varikin
+mMMBSS,mMMBSS,male ego's mother's mother's brother's son's son,,,,varikin
+fMMBSS,fMMBSS,female ego's mother's mother's brother's son's son,,,,varikin
+mMMBSD,mMMBSD,male ego's mother's mother's brother's son's daughter,,,,varikin
+fMMBSD,fMMBSD,female ego's mother's mother's brother's son's daughter,,,,varikin
+fMMZSS,fMMZSS,female ego's mother's mother's sister's son's son,,,,varikin
+fMMZSD,fMMZSD,female ego's mother's mother's sister's son's daughter,,,,varikin
 mBDC,mBDC,male ego's brother's daughter's child,,,,varikin
 mZHBW,mZHBW,male ego's sister's husband's brother's wife,,,,varikin
 fZSC,fZSC,female ego's sister's son's child,,,,varikin
+mZeH,mZeH,male ego's sister's older husband (older than ego),,,,varikin
+mZyH,mZyH,male ego's sister's younger husband (younger than ego),,,,varikin
+mMeBSW,mMeBSW,male ego's mother's older brother's son's wife,,,,varikin
+fMeBSW,fMeBSW,female ego's mother's older brother's son's wife,,,,varikin
+mFeZH,mFeZH,male speaker's father's older sister's husband,,,,varikin
+mMBDSW,mMBDSW,male speaker's mother's brother's daughter's son's wife,,,,varikin
+mFyZH,mFyZH,male speaker's father's younger sister's husband,,,,varikin
+mMBSSW,mMBSSW,male speaker's mother's brother's son's son's wife,,,,varikin
+mhZ,mhZ,male ego's half sister,Siblings,,,varikin
+fCCCCC,fCCCCC,female speaker's great great great grandchild,Grandparents & -children,,,varikin
+mCCCCC,mCCCCC,male speaker's great great great grandchild,Grandparents & -children,,,varikin
+fFBZW,fFBZW,female speaker's father's brother's son's wife,Affines,,,varikin
+mFBZW,mFBZW,male speaker's father's brother's son's wife,Affines,,,varikin
 fFBeD,fFBeD,female ego‘s father‘s brother‘s older daughter,Cousins by relative age of cousin to ego,,,varikin;parabank
 fFBeS,fFBeS,female ego‘s father‘s brother‘s older son,Cousins by relative age of cousin to ego,,,varikin;parabank
 fFByD,fFByD,female ego‘s father‘s brother‘s younger daughter,Cousins by relative age of cousin to ego,,,varikin;parabank
