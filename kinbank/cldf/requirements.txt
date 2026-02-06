@@ -85,7 +85,7 @@ xlrd==2.0.2
 termcolor==2.4.0
 tqdm==4.66.4
 uritemplate==4.1.1
-urllib3==2.5.0
+urllib3==2.6.3
 xlrd==2.0.1
 >>>>>>> 17c7558a6622812470cea9649cc54be50a7dcda1
 zenodoclient==0.5.1
