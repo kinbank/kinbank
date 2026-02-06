@@ -1189,6 +1189,157 @@ fCCCCC,fCCCCC,female speaker's great great great grandchild,Grandparents & -chil
 mCCCCC,mCCCCC,male speaker's great great great grandchild,Grandparents & -children,,,varikin
 fFBZW,fFBZW,female speaker's father's brother's son's wife,Affines,,,varikin
 mFBZW,mFBZW,male speaker's father's brother's son's wife,Affines,,,varikin
+mFMBSS,mFMBSS,male speaker's father's mother's brother's son's son,,,,varikin
+mFMBSSW,mFMBSSW,male speaker's father's mother's brother's son's son's wife,,,,varikin
+mFMBWBSC,mFMBWBSC,male speaker's father's mother's brother's wife's brother's son's child,,,,varikin
+mFMBWB,mFMBWB,male speaker's father's mother's brother's wife's brother,,,,varikin
+mMBSSD,mMBSSD,male speaker's mother's brother's son's son's daughter,,,,varikin
+mMBZS,mMBZS,male speaker's mother's brother's sister's son,,,,varikin
+mMMBDS,mMMBDS,male speaker's mother's mother's brother's daughter's son,,,,varikin
+mSWBW,mSWBW,male speaker's son's wife's brother's wife,,,,varikin
+mFFZHZSS,mFFZHZSS,male speaker's father's father's sister's husband's sister's son's son,,,,varikin
+mFMBWBD,mFMBWBD,male speaker's father's mother's brother's wife's brother's daughter,,,,varikin
+mFMBWBS,mFMBWBS,male speaker's father's mother's brother's wife's brother's son,,,,varikin
+mFFFFF,mFFFFF,male speaker's father's father's father's father's father,,,,varikin
+mFFFFM,mFFFFM,male speaker's father's father's father's father's mother,,,,varikin
+fFZC,fFZC,female speaker's father's sister's child,,,,varikin
+fBC,fBC,female speaker's brother's child,,,,varikin
+fHFFZSS,fHFFZSS,female speaker's husband's father's father's sister's son's son,,,,varikin
+mFFyBW,mFFyBW,male speaker's father's father's younger brother's wife,,,,varikin
+mMMyZH,mMMyZH,male speaker's mother's mother's younger sister's husband,,,,varikin
+fFFyBW,fFFyBW,female speaker's father's father's younger brother's wife,,,,varikin
+fMMyZH,fMMyZH,female speaker's mother's mother's younger sister's husband,,,,varikin
+fFMBDDH,fFMBDDH,female speaker's father's mother's brother's daughter's daughter's husband,,,,varikin
+fFZDDH,fFZDDH,female speaker's father's sister's daughter's daughter's husband,,,,varikin
+myG,myG,male speaker's younger sibling,Siblings,,,varikin
+fyG,fyG,female speaker's younger sibling,Siblings,,,varikin
+fHZSW,fHZSW,female speaker's husband's sister's son's wife,Affines,,,varikin
+fHZDH,fHZDH,female speaker's husband's sister's daughter's husband,Affines,,,varikin
+mEFF,mEFF,male speaker's spouse's father's father,Affines,,,varikin
+mEFFB,mEFFB,male speaker's spouse's father's father's brother,Affines,,,varikin
+mEMF,mEMF,male speaker's spouse's mother's father,Affines,,,varikin
+mEMFB,mEMFB,male speaker's spouse's mother's father's brother,Affines,,,varikin
+mEFMB,mEFMB,male speaker's spouse's father's mother's brother,Affines,,,varikin
+mMBWF,mMBWF,male speaker's mother's brother's wife's father,Affines,,,varikin
+mMZHF,mMZHF,male speaker's mother's sister's husband's father,Affines,,,varikin
+mMFyG,mMFyG,male speaker's mother's father's younger sibling,Affines,,,varikin
+mFFyG,mFFyG,male speaker's father's father's younger sibling,Affines,,,varikin
+mEMFyG,mEMFyG,male speaker's spouse's mother's father's younger sibling,Affines,,,varikin
+mEFFyG,mEFFyG,male speaker's spouse's father's father's younger sibling,Affines,,,varikin
+mEMFyB,mEMFyB,male speaker's spouse's mother's father's younger brother,Affines,,,varikin
+mEFFyB,mEFFyB,male speaker's spouse's father's father's younger brother,Affines,,,varikin
+mEPM,mEPM,male speaker's spouse's parent's mother,Affines,,,varikin
+mMZHM,mMZHM,male speaker's mother's sister's husband's mother,Affines,,,varikin
+mMFW_notMM,mMFW(notMM),male speaker's mother's father's wife (not mother's mother),Affines,,,varikin
+mFFW,mFFW,male speaker's father's father's wife,Affines,,,varikin
+mFFeBW,mFFeBW,male speaker's father's father's elder brother's wife,Affines,,,varikin
+mEFeB,mEFeB,male speaker's spouse's father's elder brother,Affines,,,varikin
+mFmB,mFmB,male speaker's father's middle brother,,,,varikin
+mEFmB,mEFmB,male speaker's spouse's father's middle brother,,,,varikin
+mFFmBS,mFFmBS,male speaker's father's father's middle brother's son,,,,varikin
+mEFyB,mEFyB,male speaker's spouse's father's younger brother,,,,varikin
+mFyBC,mFyBC,male speaker's father's younger brother's child,,,,varikin
+mFFyBSC,mFFyBSC,male speaker's father's father's younger brother's son's child,,,,varikin
+mM_co_W,mMco-W,male speaker's mother's co-wife,,,,varikin
+mMZC,mMZC,male speaker's mother's sister's child,,,,varikin
+mFZC,mFZC,male speaker's father's sister's child,,,,varikin
+mMBC,mMBC,male speaker's mother's brother's child,,,,varikin
+mMMMB,mMMMB,male speaker's mother's mother's mother's brother,,,,varikin
+mEMB,mEMB,male speaker's spouse's mother's brother,,,,varikin
+mEMMB,mEMMB,male speaker's spouse's mother's mother's brother,,,,varikin
+mMMMBW,mMMMBW,male speaker's mother's mother's mother's brother's wife,,,,varikin
+mFBSC,mFBSC,male speaker's father's brother's son's child,,,,varikin
+mMZCC,mMZCC,male speaker's mother's sister's child's child,,,,varikin
+mFFZC,mFFZC,male speaker's father's father's sister's child,,,,varikin
+mFZSC,mFZSC,male speaker's father's sister's son's child,,,,varikin
+mCSW,mCSW,male speaker's child's son's wife,,,,varikin
+meBWF,meBWF,male speaker's elder brother's wife's father,,,,varikin
+mSWPP,mSWPP,male speaker's son's wife's parent's parent,,,,varikin
+mSDHP,mSDHP,male speaker's son's daughter's husband's parent,,,,varikin
+mSSWP,mSSWP,male speaker's son's son's wife's parent,,,,varikin
+mSWFP,mSWFP,male speaker's son's wife's father's parent,,,,varikin
+mSWFB,mSWFB,male speaker's son's wife's father's brother,,,,varikin
+mSWFBW,mSWFBW,male speaker's son's wife's father's brother's wife,,,,varikin
+mSWMB,mSWMB,male speaker's son's wife's mother's brother,,,,varikin
+mDHFB,mDHFB,male speaker's daughter's husband's father's brother,,,,varikin
+mDHFBW,mDHFBW,male speaker's daughter's husband's father's brother's wife,,,,varikin
+mDHFP,mDHFP,male speaker's daughter's husband's father's parent,,,,varikin
+mDDHP,mDDHP,male speaker's daughter's daughter's husband's parent,,,,varikin
+mBCEP,mBCEP,male speaker's brother's child's spouse's parent,,,,varikin
+mBSCEP,mBSCEP,male speaker's brother's son's child's spouse's parent,,,,varikin
+mWBWB,mWBWB,male speaker's wife's brother's wife's brother,,,,varikin
+mZSWP,mZSWP,male speaker's sister's son's wife's parent,,,,varikin
+mBWG,mBWG,male speaker's brother's wife's sibling,,,,varikin
+mWZHB,mWZHB,male speaker's wife's sister's husband's brother,,,,varikin
+mDHMB,mDHMB,male speaker's daughter's husband's mother's brother,,,,varikin
+mDHMF,mDHMF,male speaker's daughter's husband's mother's father,,,,varikin
+mDDHF,mDDHF,male speaker's daughter's daughter's husband's father,,,,varikin
+mDSWF,mDSWF,male speaker's daughter's son's wife's father,,,,varikin
+mSWMF,mSWMF,male speaker's son's wife's mother's father,,,,varikin
+meBWB,meBWB,male speaker's elder brother's wife's brother,,,,varikin
+mSSWB,mSSWB,male speaker's son's son's wife's brother,,,,varikin
+fEFF,fEFF,female speaker's spouse's father's father,,,,varikin
+fEFFB,fEFFB,female speaker's spouse's father's father's brother,,,,varikin
+fEMF,fEMF,female speaker's spouse's mother's father,,,,varikin
+fEMFB,fEMFB,female speaker's spouse's mother's father's brother,,,,varikin
+fEFMB,fEFMB,female speaker's spouse's father's mother's brother,,,,varikin
+fMBWF,fMBWF,female speaker's mother's brother's wife's father,,,,varikin
+fMZHF,fMZHF,female speaker's mother's sister's husband's father,,,,varikin
+fMFyG,fMFyG,female speaker's mother's father's younger sibling,,,,varikin
+fFFyG,fFFyG,female speaker's father's father's younger sibling,,,,varikin
+fEMFyG,fEMFyG,female speaker's spouse's mother's father's younger sibling,,,,varikin
+fEFFyG,fEFFyG,female speaker's spouse's father's father's younger sibling,,,,varikin
+fEMFyB,fEMFyB,female speaker's spouse's mother's father's younger brother,,,,varikin
+fEFFyB,fEFFyB,female speaker's spouse's father's father's younger brother,,,,varikin
+fEPM,fEPM,female speaker's spouse's parent's mother,,,,varikin
+fMZHM,fMZHM,female speaker's mother's sister's husband's mother,,,,varikin
+fMFW_notMM,fMFW(notMM),female speaker's mother's father's wife (not mother's mother),,,,varikin
+fFFW,fFFW,female speaker's father's father's wife,,,,varikin
+fFFeBW,fFFeBW,female speaker's father's father's elder brother's wife,,,,varikin
+fEFeB,fEFeB,female speaker's spouse's father's elder brother,,,,varikin
+fFmB,fFmB,female speaker's father's middle brother,,,,varikin
+fEFmB,fEFmB,female speaker's spouse's father's middle brother,,,,varikin
+fFFmBS,fFFmBS,female speaker's father's father's middle brother's son,,,,varikin
+fEFyB,fEFyB,female speaker's spouse's father's younger brother,,,,varikin
+fFyBC,fFyBC,female speaker's father's younger brother's child,,,,varikin
+fFFyBSC,fFFyBSC,female speaker's father's father's younger brother's son's child,,,,varikin
+fM_co_W,fMco-W,female speaker's mother's co-wife,,,,varikin
+fMZC,fMZC,female speaker's mother's sister's child,,,,varikin
+fHMZC,fHMZC,female speaker's husband's mother's sister's child,,,,varikin
+fMBC,fMBC,female speaker's mother's brother's child,,,,varikin
+fMMMB,fMMMB,female speaker's mother's mother's mother's brother,,,,varikin
+fMBDC,fMBDC,female speaker's mother's brother's daughter's child,,,,varikin
+fMBDH,fMBDH,female speaker's mother's brother's daughter's husband,,,,varikin
+fEMB,fEMB,female speaker's spouse's mother's brother,,,,varikin
+fEMMB,fEMMB,female speaker's spouse's mother's mother's brother,,,,varikin
+fMMMBW,fMMMBW,female speaker's mother's mother's mother's brother's wife,,,,varikin
+fHFBeC,fHFBeC,female speaker's husband's father's brother's elder child,,,,varikin
+fHFByC,fHFByC,female speaker's husband's father's brother's younger child,,,,varikin
+fMZCC,fMZCC,female speaker's mother's sister's child's child,,,,varikin
+fHyBC,fHyBC,female speaker's husband's younger brother's child,,,,varikin
+fCSW,fCSW,female speaker's child's son's wife,,,,varikin
+feBWF,feBWF,female speaker's elder brother's wife's father,,,,varikin
+fHeBWF,fHeBWF,female speaker's husband's elder brother's wife's father,,,,varikin
+fSWPP,fSWPP,female speaker's son's wife's parent's parent,,,,varikin
+fSDHP,fSDHP,female speaker's son's daughter's husband's parent,,,,varikin
+fSSWP,fSSWP,female speaker's son's son's wife's parent,,,,varikin
+fSWFP,fSWFP,female speaker's son's wife's father's parent,,,,varikin
+fSWFB,fSWFB,female speaker's son's wife's father's brother,,,,varikin
+fSWFBW,fSWFBW,female speaker's son's wife's father's brother's wife,,,,varikin
+fSWMB,fSWMB,female speaker's son's wife's mother's brother,,,,varikin
+fDHFB,fDHFB,female speaker's daughter's husband's father's brother,,,,varikin
+fDHFBW,fDHFBW,female speaker's daughter's husband's father's brother's wife,,,,varikin
+fDHFP,fDHFP,female speaker's daughter's husband's father's parent,,,,varikin
+fDDHP,fDDHP,female speaker's daughter's daughter's husband's parent,,,,varikin
+fHBCEP,fHBCEP,female speaker's husband's brother's child's spouse's parent,,,,varikin
+fHBSCEP,fHBSCEP,female speaker's husband's brother's son's child's spouse's parent,,,,varikin
+feBWB,feBWB,female speaker's elder brother's wife's brother,,,,varikin
+fSSWB,fSSWB,female speaker's son's son's wife's brother,,,,varikin
+mFFFSS,mFFFSS,male speaker's father's father's father's son's son,,,,varikin
+mMFFSS,mMFFSS,male speaker's mother's father's father's son's son,,,,varikin
+fFFFSS,fFFFSS,female speaker's father's father's father's son's son,,,,varikin
+fMFFSS,fMFFSS,female speaker's mother's father's father's son's son,,,,varikin
+mWBWZ,mWBWZ,male speaker's wife's brother's wife's sister,,,,varikin
 fFBeD,fFBeD,female ego‘s father‘s brother‘s older daughter,Cousins by relative age of cousin to ego,,,varikin;parabank
 fFBeS,fFBeS,female ego‘s father‘s brother‘s older son,Cousins by relative age of cousin to ego,,,varikin;parabank
 fFByD,fFByD,female ego‘s father‘s brother‘s younger daughter,Cousins by relative age of cousin to ego,,,varikin;parabank
