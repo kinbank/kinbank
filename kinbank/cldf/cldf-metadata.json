@@ -148,7 +148,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
             "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, Label: Optional[str] = None, Project: Optional[str] = None, ProjectFile: Optional[str] = None, ProjectName: Optional[str] = None, EntryDate: Optional[str] = None, Comment: Optional[str] = None, Link: Optional[str] = None, Set: Optional[str] = None)",
-            "dc:extent": 1315,
+            "dc:extent": 1314,
             "tableSchema": {
                 "columns": [
                     {

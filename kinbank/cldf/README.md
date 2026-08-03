@@ -57,7 +57,7 @@ CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1315
+[dc:extent](http://purl.org/dc/terms/extent) | 1314
 
 
 ### Columns
