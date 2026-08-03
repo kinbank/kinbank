@@ -1,29 +1,30 @@
 import json
+from dataclasses import dataclass
 from pathlib import Path
+from typing import Optional
 
-import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Concept, FormSpec
 
 
-@attr.s
+@dataclass
 class CustomLanguage(Language):
-    Label = attr.ib(default=None)
-    Project = attr.ib(default=None)
-    ProjectFile = attr.ib(default=None)
-    ProjectName = attr.ib(default=None)
-    EntryDate = attr.ib(default=None)
-    Comment = attr.ib(default=None)
-    Link = attr.ib(default=None)
-    Set = attr.ib(default=None)
+    Label: Optional[str] = None
+    Project: Optional[str] = None
+    ProjectFile: Optional[str] = None
+    ProjectName: Optional[str] = None
+    EntryDate: Optional[str] = None
+    Comment: Optional[str] = None
+    Link: Optional[str] = None
+    Set: Optional[str] = None
 
 
-@attr.s
+@dataclass
 class CustomConcept(Concept):
-    Parameter = attr.ib(default=None)
-    Group = attr.ib(default=None)
-    Dataset = attr.ib(default=None)
+    Parameter: Optional[str] = None
+    Group: Optional[str] = None
+    Dataset: Optional[str] = None
 
 
 class Dataset(BaseDataset):
