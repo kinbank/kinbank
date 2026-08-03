@@ -15,15 +15,15 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ![Concepticon: 12%](etc/badge_concepts.svg)
 ![Source: 99%](etc/badge_sources.svg)
 
-- **Varieties:** 1,288 (linked to 1,184 different Glottocodes)
+- **Varieties:** 1,287 (linked to 1,183 different Glottocodes)
 - **Concepts:** 1,332 (linked to 19 different Concepticon concept sets)
-- **Lexemes:** 218,654
-- **Sources:** 1,063
+- **Lexemes:** 218,412
+- **Sources:** 1,062
 - **Synonymy:** 1.34
 
 ## Possible Improvements:
 
-- Entries missing sources: 1634/218654 (0.75%%)
+- Entries missing sources: 1634/218412 (0.75%%)
 
 
 ## CLDF Datasets
